@@ -1,0 +1,129 @@
+client:
+  name: basic
+  file-system: device-agnostic
+tools: {}
+targets:
+  "FluxDefenseUI-arm64-apple-macosx15.0-debug.exe": ["<FluxDefenseUI-arm64-apple-macosx15.0-debug.exe>"]
+  "FluxDefenseUI-arm64-apple-macosx15.0-debug.module": ["<FluxDefenseUI-arm64-apple-macosx15.0-debug.module>"]
+  "LaunchAtLogin-arm64-apple-macosx15.0-debug.module": ["<LaunchAtLogin-arm64-apple-macosx15.0-debug.module>"]
+  "PackageStructure": ["<PackageStructure>"]
+  "main": ["<FluxDefenseUI-arm64-apple-macosx15.0-debug.exe>","<FluxDefenseUI-arm64-apple-macosx15.0-debug.module>"]
+  "test": ["<FluxDefenseUI-arm64-apple-macosx15.0-debug.exe>","<FluxDefenseUI-arm64-apple-macosx15.0-debug.module>"]
+default: "main"
+nodes:
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/":
+    is-directory-structure: true
+    content-exclusion-patterns: [".git",".build"]
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI":
+    is-mutated: true
+commands:
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI-entitlement.plist":
+    tool: write-auxiliary-file
+    inputs: ["<entitlement-plist>","<com.apple.security.get-task-allow>"]
+    outputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI-entitlement.plist"]
+    description: "Write auxiliary file /Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI-entitlement.plist"
+
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/sources":
+    tool: write-auxiliary-file
+    inputs: ["<sources-file-list>","/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/FluxDefenseManager.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/SecurityEvent.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/SystemMonitor.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/ContentView.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/DashboardView.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/ProcessStatsView.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SecurityLogsView.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SettingsView.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SystemMonitorView.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/main.swift"]
+    outputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/sources"]
+    description: "Write auxiliary file /Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/sources"
+
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.product/Objects.LinkFileList":
+    tool: write-auxiliary-file
+    inputs: ["<link-file-list>","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/ContentView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/DashboardView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/FluxDefenseManager.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/ProcessStatsView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/SecurityEvent.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/SecurityLogsView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/SettingsView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/SystemMonitor.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/SystemMonitorView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/main.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/LaunchAtLogin.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/Toggle.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/resource_bundle_accessor.swift.o"]
+    outputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.product/Objects.LinkFileList"]
+    description: "Write auxiliary file /Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.product/Objects.LinkFileList"
+
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/sources":
+    tool: write-auxiliary-file
+    inputs: ["<sources-file-list>","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/LaunchAtLogin.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/Toggle.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/DerivedSources/resource_bundle_accessor.swift"]
+    outputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/sources"]
+    description: "Write auxiliary file /Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/sources"
+
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin_LaunchAtLogin.bundle/LaunchAtLogin.entitlements":
+    tool: copy-tool
+    inputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/LaunchAtLogin.entitlements"]
+    outputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin_LaunchAtLogin.bundle/LaunchAtLogin.entitlements"]
+    description: "Copying /Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/LaunchAtLogin.entitlements"
+
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin_LaunchAtLogin.bundle/LaunchAtLoginHelper-with-runtime.zip":
+    tool: copy-tool
+    inputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/LaunchAtLoginHelper-with-runtime.zip"]
+    outputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin_LaunchAtLogin.bundle/LaunchAtLoginHelper-with-runtime.zip"]
+    description: "Copying /Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/LaunchAtLoginHelper-with-runtime.zip"
+
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin_LaunchAtLogin.bundle/LaunchAtLoginHelper.zip":
+    tool: copy-tool
+    inputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/LaunchAtLoginHelper.zip"]
+    outputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin_LaunchAtLogin.bundle/LaunchAtLoginHelper.zip"]
+    description: "Copying /Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/LaunchAtLoginHelper.zip"
+
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin_LaunchAtLogin.bundle/copy-helper-swiftpm.sh":
+    tool: copy-tool
+    inputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/copy-helper-swiftpm.sh"]
+    outputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin_LaunchAtLogin.bundle/copy-helper-swiftpm.sh"]
+    description: "Copying /Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/copy-helper-swiftpm.sh"
+
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt":
+    tool: write-auxiliary-file
+    inputs: ["<swift-get-version>","/Library/Developer/CommandLineTools/usr/bin/swiftc"]
+    outputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"]
+    always-out-of-date: "true"
+    description: "Write auxiliary file /Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+
+  "<FluxDefenseUI-arm64-apple-macosx15.0-debug.exe>":
+    tool: phony
+    inputs: ["<FluxDefenseUI-arm64-apple-macosx15.0-debug.exe-CodeSigning>"]
+    outputs: ["<FluxDefenseUI-arm64-apple-macosx15.0-debug.exe>"]
+
+  "<FluxDefenseUI-arm64-apple-macosx15.0-debug.module>":
+    tool: phony
+    inputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/FluxDefenseManager.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/SecurityEvent.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/SystemMonitor.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/ContentView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/DashboardView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/ProcessStatsView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/SecurityLogsView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/SettingsView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/SystemMonitorView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/main.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/Modules/FluxDefenseUI.swiftmodule"]
+    outputs: ["<FluxDefenseUI-arm64-apple-macosx15.0-debug.module>"]
+
+  "<LaunchAtLogin-arm64-apple-macosx15.0-debug.module>":
+    tool: phony
+    inputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/LaunchAtLogin.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/Toggle.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/resource_bundle_accessor.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/Modules/LaunchAtLogin.swiftmodule"]
+    outputs: ["<LaunchAtLogin-arm64-apple-macosx15.0-debug.module>"]
+
+  "C.FluxDefenseUI-arm64-apple-macosx15.0-debug.exe":
+    tool: shell
+    inputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/ContentView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/DashboardView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/FluxDefenseManager.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/ProcessStatsView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/SecurityEvent.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/SecurityLogsView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/SettingsView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/SystemMonitor.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/SystemMonitorView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/main.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/LaunchAtLogin.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/Toggle.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/resource_bundle_accessor.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.product/Objects.LinkFileList"]
+    outputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI"]
+    description: "Linking ./.build/arm64-apple-macosx/debug/FluxDefenseUI"
+    args: ["/Library/Developer/CommandLineTools/usr/bin/swiftc","-L","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug","-o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI","-module-name","FluxDefenseUI","-Xlinker","-no_warn_duplicate_libraries","-emit-executable","-Xlinker","-alias","-Xlinker","_FluxDefenseUI_main","-Xlinker","_main","-Xlinker","-rpath","-Xlinker","@loader_path","@/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.product/Objects.LinkFileList","-target","arm64-apple-macosx13.0","-Xlinker","-add_ast_path","-Xlinker","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/Modules/FluxDefenseUI.swiftmodule","-Xlinker","-add_ast_path","-Xlinker","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/Modules/LaunchAtLogin.swiftmodule","-F","/Library/Developer/CommandLineTools/Library/Developer/Frameworks","-sdk","/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk","-g","-Xlinker","-rpath","-Xlinker","/Library/Developer/CommandLineTools/Library/Developer/Frameworks"]
+
+  "C.FluxDefenseUI-arm64-apple-macosx15.0-debug.exe-entitlements":
+    tool: shell
+    inputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI-entitlement.plist"]
+    outputs: ["<FluxDefenseUI-arm64-apple-macosx15.0-debug.exe-CodeSigning>"]
+    description: "Applying debug entitlements to ./.build/arm64-apple-macosx/debug/FluxDefenseUI"
+    args: ["codesign","--force","--sign","-","--entitlements","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI-entitlement.plist","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI"]
+
+  "C.FluxDefenseUI-arm64-apple-macosx15.0-debug.module":
+    tool: shell
+    inputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/FluxDefenseManager.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/SecurityEvent.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/SystemMonitor.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/ContentView.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/DashboardView.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/ProcessStatsView.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SecurityLogsView.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SettingsView.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SystemMonitorView.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/main.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/Modules/LaunchAtLogin.swiftmodule","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/sources"]
+    outputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/FluxDefenseManager.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/SecurityEvent.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/SystemMonitor.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/ContentView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/DashboardView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/ProcessStatsView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/SecurityLogsView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/SettingsView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/SystemMonitorView.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/main.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/Modules/FluxDefenseUI.swiftmodule"]
+    description: "Compiling Swift Module 'FluxDefenseUI' (10 sources)"
+    args: ["/Library/Developer/CommandLineTools/usr/bin/swiftc","-module-name","FluxDefenseUI","-emit-dependencies","-emit-module","-emit-module-path","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/Modules/FluxDefenseUI.swiftmodule","-output-file-map","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/output-file-map.json","-incremental","-c","@/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/FluxDefenseUI.build/sources","-I","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/Modules","-target","arm64-apple-macosx13.0","-enable-batch-mode","-index-store-path","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/index/store","-Onone","-enable-testing","-j16","-DSWIFT_PACKAGE","-DDEBUG","-module-cache-path","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/ModuleCache","-parseable-output","-Xfrontend","-entry-point-function-name","-Xfrontend","FluxDefenseUI_main","-swift-version","5","-F","/Library/Developer/CommandLineTools/Library/Developer/Frameworks","-sdk","/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk","-g","-Xcc","-isysroot","-Xcc","/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk","-Xcc","-fPIC","-Xcc","-g","-package-name","fluxdefenseui"]
+
+  "C.LaunchAtLogin-arm64-apple-macosx15.0-debug.module":
+    tool: shell
+    inputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/LaunchAtLogin.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/Toggle.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/DerivedSources/resource_bundle_accessor.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt","<LaunchAtLogin-arm64-apple-macosx15.0-debug.module-resources>","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/sources"]
+    outputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/LaunchAtLogin.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/Toggle.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/resource_bundle_accessor.swift.o","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/Modules/LaunchAtLogin.swiftmodule"]
+    description: "Compiling Swift Module 'LaunchAtLogin' (3 sources)"
+    args: ["/Library/Developer/CommandLineTools/usr/bin/swiftc","-module-name","LaunchAtLogin","-emit-dependencies","-emit-module","-emit-module-path","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/Modules/LaunchAtLogin.swiftmodule","-output-file-map","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/output-file-map.json","-parse-as-library","-incremental","-c","@/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/sources","-I","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/Modules","-target","arm64-apple-macosx10.13","-enable-batch-mode","-index-store-path","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/index/store","-Onone","-enable-testing","-j16","-DSWIFT_PACKAGE","-DDEBUG","-module-cache-path","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/ModuleCache","-parseable-output","-parse-as-library","-emit-objc-header","-emit-objc-header-path","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/LaunchAtLogin-Swift.h","-swift-version","5","-F","/Library/Developer/CommandLineTools/Library/Developer/Frameworks","-sdk","/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk","-g","-Xcc","-isysroot","-Xcc","/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk","-Xcc","-fPIC","-Xcc","-g","-suppress-warnings","-package-name","launchatlogin"]
+
+  "LaunchAtLogin-arm64-apple-macosx15.0-debug.module-resources":
+    tool: phony
+    inputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin_LaunchAtLogin.bundle/LaunchAtLogin.entitlements","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin_LaunchAtLogin.bundle/LaunchAtLoginHelper-with-runtime.zip","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin_LaunchAtLogin.bundle/LaunchAtLoginHelper.zip","/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin_LaunchAtLogin.bundle/copy-helper-swiftpm.sh"]
+    outputs: ["<LaunchAtLogin-arm64-apple-macosx15.0-debug.module-resources>"]
+
+  "PackageStructure":
+    tool: package-structure-tool
+    inputs: ["/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/","/Users/vtriple/fluxdefense/FluxDefenseUI/Package.swift","/Users/vtriple/fluxdefense/FluxDefenseUI/Package.resolved"]
+    outputs: ["<PackageStructure>"]
+    description: "Planning build"
+    allow-missing-inputs: true
+

@@ -1,0 +1,168 @@
+{
+  "events": [
+    {
+      "id": "7bf135be-172e-4c2a-83d8-f0c5e44e8a81",
+      "timestamp": "2025-05-31T17:25:35.173988Z",
+      "event_type": {
+        "FileExecution": {
+          "target_path": "/usr/bin/ls",
+          "file_hash": null,
+          "code_signature": null
+        }
+      },
+      "process_info": {
+        "pid": 39230,
+        "path": "/bin/zsh",
+        "parent_pid": null,
+        "user_id": 501,
+        "executable_hash": null,
+        "command_line": null
+      },
+      "verdict": "Log",
+      "policy_reason": "Passive mode - logging only"
+    },
+    {
+      "id": "9c41ccae-f76f-4ba9-8213-6fe6bcca2f8f",
+      "timestamp": "2025-05-31T17:25:35.174122Z",
+      "event_type": {
+        "FileExecution": {
+          "target_path": "/bin/cat",
+          "file_hash": null,
+          "code_signature": null
+        }
+      },
+      "process_info": {
+        "pid": 39230,
+        "path": "/bin/zsh",
+        "parent_pid": null,
+        "user_id": 501,
+        "executable_hash": null,
+        "command_line": null
+      },
+      "verdict": "Log",
+      "policy_reason": "Passive mode - logging only"
+    },
+    {
+      "id": "17e3ecec-2db5-41ce-a70c-c86a985167ee",
+      "timestamp": "2025-05-31T17:25:35.174167Z",
+      "event_type": {
+        "FileExecution": {
+          "target_path": "/Applications/Safari.app/Contents/MacOS/Safari",
+          "file_hash": null,
+          "code_signature": null
+        }
+      },
+      "process_info": {
+        "pid": 39230,
+        "path": "/bin/zsh",
+        "parent_pid": null,
+        "user_id": 501,
+        "executable_hash": null,
+        "command_line": null
+      },
+      "verdict": "Log",
+      "policy_reason": "Passive mode - logging only"
+    },
+    {
+      "id": "d29012b1-276a-4763-94b3-4b23385eea97",
+      "timestamp": "2025-05-31T17:25:35.174219Z",
+      "event_type": {
+        "FileExecution": {
+          "target_path": "/tmp/suspicious_binary",
+          "file_hash": null,
+          "code_signature": null
+        }
+      },
+      "process_info": {
+        "pid": 39230,
+        "path": "/bin/zsh",
+        "parent_pid": null,
+        "user_id": 501,
+        "executable_hash": null,
+        "command_line": null
+      },
+      "verdict": "Log",
+      "policy_reason": "Passive mode - logging only"
+    },
+    {
+      "id": "ea50a2d8-fde3-4466-9393-9dd5de485e30",
+      "timestamp": "2025-05-31T17:25:35.174259Z",
+      "event_type": {
+        "NetworkConnection": {
+          "remote_ip": "8.8.8.8",
+          "remote_port": 443,
+          "domain": "google.com",
+          "protocol": "Tcp"
+        }
+      },
+      "process_info": {
+        "pid": 39230,
+        "path": "/usr/bin/test",
+        "parent_pid": null,
+        "user_id": 501,
+        "executable_hash": null,
+        "command_line": null
+      },
+      "verdict": "Log",
+      "policy_reason": "Passive mode - logging only"
+    },
+    {
+      "id": "ab772981-4179-433e-a60f-090c94e8cdb7",
+      "timestamp": "2025-05-31T17:25:35.174292Z",
+      "event_type": {
+        "NetworkConnection": {
+          "remote_ip": "192.168.1.1",
+          "remote_port": 80,
+          "domain": null,
+          "protocol": "Tcp"
+        }
+      },
+      "process_info": {
+        "pid": 39230,
+        "path": "/usr/bin/test",
+        "parent_pid": null,
+        "user_id": 501,
+        "executable_hash": null,
+        "command_line": null
+      },
+      "verdict": "Log",
+      "policy_reason": "Passive mode - logging only"
+    },
+    {
+      "id": "36c1e9f4-913a-447f-8429-ce26110fdafd",
+      "timestamp": "2025-05-31T17:25:35.174313Z",
+      "event_type": {
+        "NetworkConnection": {
+          "remote_ip": "10.0.0.1",
+          "remote_port": 22,
+          "domain": null,
+          "protocol": "Tcp"
+        }
+      },
+      "process_info": {
+        "pid": 39230,
+        "path": "/usr/bin/test",
+        "parent_pid": null,
+        "user_id": 501,
+        "executable_hash": null,
+        "command_line": null
+      },
+      "verdict": "Log",
+      "policy_reason": "Passive mode - logging only"
+    }
+  ],
+  "statistics": {
+    "total_events": 7,
+    "events_by_type": {
+      "file_execution": 4,
+      "network_connection": 3
+    },
+    "events_by_verdict": {
+      "log": 7
+    },
+    "unique_processes": 0,
+    "unique_files": 0,
+    "start_time": "2025-05-31T17:25:35.172570Z",
+    "last_updated": "2025-05-31T17:25:35.174313Z"
+  }
+}

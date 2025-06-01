@@ -1,0 +1,4 @@
+module LaunchAtLogin {
+    header "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/LaunchAtLogin-Swift.h"
+    requires objc
+}

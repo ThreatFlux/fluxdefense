@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleDisplayName</key>
+    <string>FluxDefense Security Extension</string>
+    <key>CFBundleExecutable</key>
+    <string>FluxDefenseExtension</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.fluxdefense.extension</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>FluxDefenseExtension</string>
+    <key>CFBundlePackageType</key>
+    <string>XPC!</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+    
+    <!-- System Extension Configuration -->
+    <key>NSSystemExtensionUsageDescription</key>
+    <string>FluxDefense monitors file system and network activity to protect against malicious software.</string>
+    
+    <!-- Endpoint Security Entitlements -->
+    <key>com.apple.developer.endpoint-security.client</key>
+    <true/>
+    
+    <!-- Network Extension Entitlements -->
+    <key>com.apple.developer.networking.networkextension</key>
+    <array>
+        <string>packet-tunnel-provider</string>
+        <string>content-filter-provider</string>
+    </array>
+    
+    <!-- System Extension Point -->
+    <key>NSExtension</key>
+    <dict>
+        <key>NSExtensionPointIdentifier</key>
+        <string>com.apple.system-extension.endpoint-security</string>
+        <key>NSExtensionPrincipalClass</key>
+        <string>FluxDefenseExtension.ExtensionManager</string>
+    </dict>
+    
+    <!-- Required for System Extensions -->
+    <key>NSSupportsAutomaticTermination</key>
+    <true/>
+    <key>NSSupportsSuddenTermination</key>
+    <false/>
+</dict>
+</plist>

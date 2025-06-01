@@ -1,0 +1,615 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+    "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin_LaunchAtLogin.bundle/LaunchAtLogin.entitlements" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/LaunchAtLogin.entitlements"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin_LaunchAtLogin.bundle/LaunchAtLogin.entitlements"
+        }
+      ]
+    },
+    "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin_LaunchAtLogin.bundle/LaunchAtLoginHelper-with-runtime.zip" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/LaunchAtLoginHelper-with-runtime.zip"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin_LaunchAtLogin.bundle/LaunchAtLoginHelper-with-runtime.zip"
+        }
+      ]
+    },
+    "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin_LaunchAtLogin.bundle/LaunchAtLoginHelper.zip" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/LaunchAtLoginHelper.zip"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin_LaunchAtLogin.bundle/LaunchAtLoginHelper.zip"
+        }
+      ]
+    },
+    "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin_LaunchAtLogin.bundle/copy-helper-swiftpm.sh" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/copy-helper-swiftpm.sh"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin_LaunchAtLogin.bundle/copy-helper-swiftpm.sh"
+        }
+      ]
+    }
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.FluxDefenseUI-arm64-apple-macosx15.0-release.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/sources",
+      "importPath" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/FluxDefenseManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/SecurityEvent.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/SystemMonitor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/DashboardView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/ProcessStatsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SecurityLogsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SystemMonitorView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/main.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/Modules/LaunchAtLogin.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "FluxDefenseUI",
+      "moduleOutputPath" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/Modules/FluxDefenseUI.swiftmodule",
+      "objects" : [
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/FluxDefenseManager.swift.o",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SecurityEvent.swift.o",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SystemMonitor.swift.o",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/ContentView.swift.o",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/DashboardView.swift.o",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/ProcessStatsView.swift.o",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SecurityLogsView.swift.o",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SettingsView.swift.o",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SystemMonitorView.swift.o",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/main.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-O",
+        "-j16",
+        "-DSWIFT_PACKAGE",
+        "-module-cache-path",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "FluxDefenseUI_main",
+        "-swift-version",
+        "5",
+        "-F",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "fluxdefenseui"
+      ],
+      "outputFileMapPath" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/FluxDefenseManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SecurityEvent.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SystemMonitor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/ContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/DashboardView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/ProcessStatsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SecurityLogsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SystemMonitorView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/Modules/FluxDefenseUI.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/FluxDefenseManager.swift",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/SecurityEvent.swift",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/SystemMonitor.swift",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/ContentView.swift",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/DashboardView.swift",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/ProcessStatsView.swift",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SecurityLogsView.swift",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SettingsView.swift",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SystemMonitorView.swift",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/main.swift"
+      ],
+      "tempsPath" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build",
+      "wholeModuleOptimization" : true
+    },
+    "C.LaunchAtLogin-arm64-apple-macosx15.0-release.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/sources",
+      "importPath" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/LaunchAtLogin.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/Toggle.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/DerivedSources/resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<LaunchAtLogin-arm64-apple-macosx15.0-release.module-resources>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "LaunchAtLogin",
+      "moduleOutputPath" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/Modules/LaunchAtLogin.swiftmodule",
+      "objects" : [
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/LaunchAtLogin.swift.o",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/Toggle.swift.o",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/resource_bundle_accessor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-O",
+        "-j16",
+        "-DSWIFT_PACKAGE",
+        "-module-cache-path",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/LaunchAtLogin-Swift.h",
+        "-swift-version",
+        "5",
+        "-F",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-suppress-warnings",
+        "-package-name",
+        "launchatlogin"
+      ],
+      "outputFileMapPath" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/LaunchAtLogin.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/Toggle.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/Modules/LaunchAtLogin.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/LaunchAtLogin.swift",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/Toggle.swift",
+        "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/DerivedSources/resource_bundle_accessor.swift"
+      ],
+      "tempsPath" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build",
+      "wholeModuleOptimization" : true
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "FluxDefenseUI" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "FluxDefenseUI",
+      "-package-name",
+      "fluxdefenseui",
+      "-whole-module-optimization",
+      "-num-threads",
+      "16",
+      "-c",
+      "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/FluxDefenseManager.swift",
+      "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/SecurityEvent.swift",
+      "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/SystemMonitor.swift",
+      "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/ContentView.swift",
+      "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/DashboardView.swift",
+      "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/ProcessStatsView.swift",
+      "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SecurityLogsView.swift",
+      "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SettingsView.swift",
+      "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SystemMonitorView.swift",
+      "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/main.swift",
+      "-I",
+      "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-O",
+      "-j16",
+      "-DSWIFT_PACKAGE",
+      "-module-cache-path",
+      "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "FluxDefenseUI_main",
+      "-swift-version",
+      "5",
+      "-F",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "fluxdefenseui",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ],
+    "LaunchAtLogin" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "LaunchAtLogin",
+      "-package-name",
+      "launchatlogin",
+      "-whole-module-optimization",
+      "-num-threads",
+      "16",
+      "-c",
+      "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/LaunchAtLogin.swift",
+      "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/Toggle.swift",
+      "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/DerivedSources/resource_bundle_accessor.swift",
+      "-I",
+      "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-O",
+      "-j16",
+      "-DSWIFT_PACKAGE",
+      "-module-cache-path",
+      "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/LaunchAtLogin-Swift.h",
+      "-swift-version",
+      "5",
+      "-F",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-suppress-warnings",
+      "-package-name",
+      "launchatlogin",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "FluxDefenseUI" : [
+      "LaunchAtLogin"
+    ],
+    "LaunchAtLogin" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "enableAllTraits" : false
+  },
+  "writeCommands" : {
+    "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/FluxDefenseManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/SecurityEvent.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/SystemMonitor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/DashboardView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/ProcessStatsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SecurityLogsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SystemMonitorView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/main.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/sources"
+    },
+    "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/ContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/DashboardView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/FluxDefenseManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/ProcessStatsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SecurityEvent.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SecurityLogsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SystemMonitor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SystemMonitorView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/LaunchAtLogin.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/Toggle.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/resource_bundle_accessor.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.product/Objects.LinkFileList"
+    },
+    "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/LaunchAtLogin.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/Toggle.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/DerivedSources/resource_bundle_accessor.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/sources"
+    },
+    "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt"
+    }
+  }
+}

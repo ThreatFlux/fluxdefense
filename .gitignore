@@ -1,0 +1,38 @@
+# Rust
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+/logs/
+
+# Configuration files with sensitive data
+/config/local.json
+/config/production.json
+
+# Quarantine directory
+/quarantine/
+
+# System Extension build artifacts
+/sys-ext/build/
+/sys-ext/DerivedData/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test artifacts
+/test-results/
+/coverage/
+
+# System whitelist data (too many files)
+/system-whitelist-data/
+/whitelist-data/

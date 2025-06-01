@@ -1,0 +1,57 @@
+{
+  "": {
+    "dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/FluxDefenseUI.d",
+    "object": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/FluxDefenseUI.o",
+    "swift-dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/master.swiftdeps"
+  },
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/FluxDefenseManager.swift": {
+    "object": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/FluxDefenseManager.swift.o",
+    "swiftmodule": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/FluxDefenseManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/FluxDefenseManager.swiftdeps"
+  },
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/SecurityEvent.swift": {
+    "object": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SecurityEvent.swift.o",
+    "swiftmodule": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SecurityEvent~partial.swiftmodule",
+    "swift-dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SecurityEvent.swiftdeps"
+  },
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/SystemMonitor.swift": {
+    "object": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SystemMonitor.swift.o",
+    "swiftmodule": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SystemMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SystemMonitor.swiftdeps"
+  },
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/ContentView.swift": {
+    "object": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/ContentView.swift.o",
+    "swiftmodule": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/ContentView.swiftdeps"
+  },
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/DashboardView.swift": {
+    "object": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/DashboardView.swift.o",
+    "swiftmodule": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/DashboardView~partial.swiftmodule",
+    "swift-dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/DashboardView.swiftdeps"
+  },
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/ProcessStatsView.swift": {
+    "object": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/ProcessStatsView.swift.o",
+    "swiftmodule": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/ProcessStatsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/ProcessStatsView.swiftdeps"
+  },
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SecurityLogsView.swift": {
+    "object": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SecurityLogsView.swift.o",
+    "swiftmodule": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SecurityLogsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SecurityLogsView.swiftdeps"
+  },
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SettingsView.swift": {
+    "object": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SettingsView.swift.o",
+    "swiftmodule": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SettingsView.swiftdeps"
+  },
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SystemMonitorView.swift": {
+    "object": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SystemMonitorView.swift.o",
+    "swiftmodule": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SystemMonitorView~partial.swiftmodule",
+    "swift-dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/SystemMonitorView.swiftdeps"
+  },
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/main.swift": {
+    "object": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/main.swift.o",
+    "swiftmodule": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/FluxDefenseUI.build/main.swiftdeps"
+  }
+}

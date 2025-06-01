@@ -1,0 +1,22 @@
+{
+  "": {
+    "dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/LaunchAtLogin.d",
+    "object": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/LaunchAtLogin.o",
+    "swift-dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/master.swiftdeps"
+  },
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/LaunchAtLogin.swift": {
+    "object": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/LaunchAtLogin.swift.o",
+    "swiftmodule": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/LaunchAtLogin~partial.swiftmodule",
+    "swift-dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/LaunchAtLogin.swiftdeps"
+  },
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/Toggle.swift": {
+    "object": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/Toggle.swift.o",
+    "swiftmodule": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/Toggle~partial.swiftmodule",
+    "swift-dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/Toggle.swiftdeps"
+  },
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/DerivedSources/resource_bundle_accessor.swift": {
+    "object": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/resource_bundle_accessor.swiftdeps"
+  }
+}

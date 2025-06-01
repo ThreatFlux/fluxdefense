@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/master.swiftdeps"
+  },
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/LaunchAtLogin.swift": {
+    "dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/LaunchAtLogin.d",
+    "object": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/LaunchAtLogin.swift.o",
+    "swiftmodule": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/LaunchAtLogin~partial.swiftmodule",
+    "swift-dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/LaunchAtLogin.swiftdeps"
+  },
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/Toggle.swift": {
+    "dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/Toggle.d",
+    "object": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/Toggle.swift.o",
+    "swiftmodule": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/Toggle~partial.swiftmodule",
+    "swift-dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/Toggle.swiftdeps"
+  },
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/resource_bundle_accessor.d",
+    "object": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/debug/LaunchAtLogin.build/resource_bundle_accessor.swiftdeps"
+  }
+}

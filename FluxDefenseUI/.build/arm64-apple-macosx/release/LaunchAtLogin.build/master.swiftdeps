@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "82878ebff9453086a8efd25c90428a69594493e1a473c55fff8d1a42eaf9583d"
+build_start_time: [1748747974, 746736000]
+build_end_time: [1748748002, 936415000]
+inputs:
+  ? "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/arm64-apple-macosx/release/LaunchAtLogin.build/DerivedSources/resource_bundle_accessor.swift"
+  : [1748747974, 574376299]
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/LaunchAtLogin.swift": [1748713306, 642301167]
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/.build/checkouts/LaunchAtLogin/Sources/LaunchAtLogin/Toggle.swift": [1748713306, 650872898]

@@ -1,0 +1,15 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "38ebb9db3590ea22d8df989edc359081891fd5670523feb8d761fdf113e7ba1c"
+build_start_time: [1748748003, 4613000]
+build_end_time: [1748748009, 64726000]
+inputs:
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/FluxDefenseManager.swift": [1748745445, 920200748]
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/SecurityEvent.swift": [1748720552, 191888392]
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Models/SystemMonitor.swift": [1748743755, 232892670]
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/ContentView.swift": [1748713769, 310575727]
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/DashboardView.swift": [1748713769, 304535754]
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/ProcessStatsView.swift": [1748720414, 497423974]
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SecurityLogsView.swift": [1748713769, 302522846]
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SettingsView.swift": [1748713872, 499947844]
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/Views/SystemMonitorView.swift": [1748720589, 404023905]
+  "/Users/vtriple/fluxdefense/FluxDefenseUI/Sources/FluxDefenseUI/main.swift": [1748735071, 272033322]

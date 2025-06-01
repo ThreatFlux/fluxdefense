@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- Endpoint Security Framework -->
+    <key>com.apple.developer.endpoint-security.client</key>
+    <true/>
+    
+    <!-- Network Extension Framework -->
+    <key>com.apple.developer.networking.networkextension</key>
+    <array>
+        <string>packet-tunnel-provider</string>
+        <string>content-filter-provider</string>
+        <string>dns-proxy</string>
+    </array>
+    
+    <!-- System Extension -->
+    <key>com.apple.developer.system-extension.install</key>
+    <true/>
+    
+    <!-- Required for ESF operations -->
+    <key>com.apple.security.cs.allow-jit</key>
+    <true/>
+    <key>com.apple.security.cs.allow-unsigned-executable-memory</key>
+    <true/>
+    <key>com.apple.security.cs.allow-dyld-environment-variables</key>
+    <true/>
+    
+    <!-- Hardened Runtime -->
+    <key>com.apple.security.cs.disable-library-validation</key>
+    <true/>
+</dict>
+</plist>
