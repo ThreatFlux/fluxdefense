@@ -7,6 +7,9 @@ pub mod scanner;
 pub mod monitor;
 pub mod system_metrics;
 
+#[cfg(target_os = "linux")]
+pub mod linux_security;
+
 use anyhow::Result;
 use tracing::{info, warn};
 use std::path::PathBuf;
@@ -74,12 +77,22 @@ impl FluxDefense {
         
         self.monitor = Some(monitor);
         
-        // Initialize ESF client only if not in passive mode
-        if !passive_mode {
-            self.esf_client = Some(esf::EsfClient::new()?);
-            self.network_filter = Some(network::NetworkFilter::new()?);
-        } else {
-            info!("Running in passive mode - ESF and network filtering disabled");
+        // Platform-specific initialization
+        #[cfg(target_os = "macos")]
+        {
+            // Initialize ESF client only if not in passive mode
+            if !passive_mode {
+                self.esf_client = Some(esf::EsfClient::new()?);
+                self.network_filter = Some(network::NetworkFilter::new()?);
+            } else {
+                info!("Running in passive mode - ESF and network filtering disabled");
+            }
+        }
+        
+        #[cfg(target_os = "linux")]
+        {
+            // On Linux, we rely on passive monitoring and system metrics
+            info!("Running on Linux - using passive monitoring mode");
         }
         
         info!("FluxDefense protection started successfully (passive_mode: {})", passive_mode);
@@ -96,6 +109,7 @@ impl FluxDefense {
         if let Some(ref mut filter) = self.network_filter {
             filter.stop()?;
         }
+        
         
         info!("FluxDefense protection stopped");
         Ok(())

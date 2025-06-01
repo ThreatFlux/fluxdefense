@@ -1,8 +1,5 @@
-use std::ffi::c_void;
-use std::os::raw::c_int;
-use std::ptr;
 use anyhow::{Result, anyhow};
-use tracing::{info, warn, error};
+use tracing::info;
 
 #[repr(C)]
 pub struct es_client_t {
@@ -41,6 +38,7 @@ pub enum es_auth_result_t {
 #[cfg(all(target_os = "macos", feature = "esf"))]
 mod esf_sys {
     use super::*;
+    use std::os::raw::c_int;
     
     #[link(name = "EndpointSecurity", kind = "framework")]
     extern "C" {
@@ -82,6 +80,7 @@ impl EsfClient {
         
         #[cfg(all(target_os = "macos", feature = "esf"))]
         {
+            use std::ptr;
             let mut client: *mut es_client_t = ptr::null_mut();
             
             unsafe {
@@ -143,7 +142,7 @@ impl EsfClient {
                 unsafe {
                     esf_sys::es_delete_client(self.client);
                 }
-                self.client = ptr::null_mut();
+                self.client = std::ptr::null_mut();
                 self.running = false;
             }
         }

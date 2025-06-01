@@ -2,7 +2,7 @@
 name = "fluxdefense"
 version = "0.1.0"
 edition = "2021"
-description = "macOS EDR and endpoint defense system"
+description = "Cross-platform EDR and endpoint defense system for macOS and Linux"
 license = "MIT"
 
 [dependencies]

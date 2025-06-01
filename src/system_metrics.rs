@@ -1,7 +1,7 @@
 use serde::{Deserialize, Serialize};
 use std::collections::HashMap;
 use std::fs;
-use std::io::{BufRead, BufReader};
+use std::io::BufReader;
 use std::process::Command;
 use std::time::{Duration, SystemTime, UNIX_EPOCH};
 
@@ -129,9 +129,41 @@ impl SystemMetricsCollector {
             Ok((load[0] / cpu_count * 100.0).min(100.0))
         }
 
-        #[cfg(not(target_os = "macos"))]
+        #[cfg(target_os = "linux")]
         {
-            // Fallback for non-macOS systems
+            // Read from /proc/stat for CPU usage calculation
+            let stat_content = fs::read_to_string("/proc/stat")?;
+            let first_line = stat_content.lines().next()
+                .ok_or_else(|| anyhow::anyhow!("Failed to read CPU stats"))?;
+            
+            // Parse CPU stats: cpu user nice system idle iowait irq softirq steal guest guest_nice
+            let parts: Vec<&str> = first_line.split_whitespace().collect();
+            if parts.len() < 5 || parts[0] != "cpu" {
+                return Err(anyhow::anyhow!("Invalid CPU stat format"));
+            }
+            
+            let user: u64 = parts[1].parse()?;
+            let nice: u64 = parts[2].parse()?;
+            let system: u64 = parts[3].parse()?;
+            let idle: u64 = parts[4].parse()?;
+            let iowait: u64 = parts.get(5).and_then(|s| s.parse().ok()).unwrap_or(0);
+            let irq: u64 = parts.get(6).and_then(|s| s.parse().ok()).unwrap_or(0);
+            let softirq: u64 = parts.get(7).and_then(|s| s.parse().ok()).unwrap_or(0);
+            let steal: u64 = parts.get(8).and_then(|s| s.parse().ok()).unwrap_or(0);
+            
+            let total = user + nice + system + idle + iowait + irq + softirq + steal;
+            let busy = total - idle - iowait;
+            
+            if total > 0 {
+                Ok((busy as f64 / total as f64) * 100.0)
+            } else {
+                Ok(0.0)
+            }
+        }
+
+        #[cfg(not(any(target_os = "macos", target_os = "linux")))]
+        {
+            // Fallback for other systems
             Ok(0.0)
         }
     }
@@ -185,7 +217,43 @@ impl SystemMetricsCollector {
             Ok((usage_percent, total_memory, used_memory))
         }
 
-        #[cfg(not(target_os = "macos"))]
+        #[cfg(target_os = "linux")]
+        {
+            // Read from /proc/meminfo
+            let meminfo = fs::read_to_string("/proc/meminfo")?;
+            let mut total_memory = 0u64;
+            let mut free_memory = 0u64;
+            let mut buffers = 0u64;
+            let mut cached = 0u64;
+            let mut s_reclaimable = 0u64;
+            
+            for line in meminfo.lines() {
+                let parts: Vec<&str> = line.split_whitespace().collect();
+                if parts.len() >= 2 {
+                    match parts[0] {
+                        "MemTotal:" => total_memory = parts[1].parse::<u64>()? * 1024,
+                        "MemFree:" => free_memory = parts[1].parse::<u64>()? * 1024,
+                        "Buffers:" => buffers = parts[1].parse::<u64>()? * 1024,
+                        "Cached:" => cached = parts[1].parse::<u64>()? * 1024,
+                        "SReclaimable:" => s_reclaimable = parts[1].parse::<u64>()? * 1024,
+                        _ => {}
+                    }
+                }
+            }
+            
+            // Calculate used memory (total - free - buffers - cached - reclaimable)
+            let available_memory = free_memory + buffers + cached + s_reclaimable;
+            let used_memory = total_memory.saturating_sub(available_memory);
+            let usage_percent = if total_memory > 0 {
+                (used_memory as f64 / total_memory as f64) * 100.0
+            } else {
+                0.0
+            };
+            
+            Ok((usage_percent, total_memory, used_memory))
+        }
+
+        #[cfg(not(any(target_os = "macos", target_os = "linux")))]
         {
             Ok((0.0, 0, 0))
         }
@@ -255,7 +323,64 @@ impl SystemMetricsCollector {
             Ok((total_read_bytes, total_write_bytes, read_rate, write_rate))
         }
 
-        #[cfg(not(target_os = "macos"))]
+        #[cfg(target_os = "linux")]
+        {
+            // Read from /proc/diskstats or /sys/block/*/stat
+            let mut total_read_bytes = 0u64;
+            let mut total_write_bytes = 0u64;
+            
+            // Read diskstats for all block devices
+            let diskstats = fs::read_to_string("/proc/diskstats")?;
+            
+            for line in diskstats.lines() {
+                let parts: Vec<&str> = line.split_whitespace().collect();
+                if parts.len() >= 14 {
+                    // Only count physical disks (major device number 8 for SCSI/SATA, 259 for NVMe)
+                    let major: u32 = parts[0].parse().unwrap_or(0);
+                    let device_name = parts[2];
+                    
+                    // Filter out partitions and virtual devices
+                    if (major == 8 || major == 259) && !device_name.chars().any(|c| c.is_digit(10)) {
+                        // Column 5: sectors read, Column 9: sectors written
+                        // Sectors are typically 512 bytes
+                        if let (Ok(sectors_read), Ok(sectors_written)) = (
+                            parts[5].parse::<u64>(),
+                            parts[9].parse::<u64>()
+                        ) {
+                            total_read_bytes += sectors_read * 512;
+                            total_write_bytes += sectors_written * 512;
+                        }
+                    }
+                }
+            }
+            
+            // Calculate rates
+            let (read_rate, write_rate) = if let (Some(prev), Some(prev_time)) = 
+                (&self.previous_metrics, self.previous_timestamp) {
+                let time_diff = SystemTime::now()
+                    .duration_since(UNIX_EPOCH)
+                    .unwrap()
+                    .as_secs() - prev_time;
+                
+                if time_diff > 0 {
+                    let read_diff = total_read_bytes.saturating_sub(prev.disk_read_bytes);
+                    let write_diff = total_write_bytes.saturating_sub(prev.disk_write_bytes);
+                    
+                    (
+                        read_diff as f64 / time_diff as f64,
+                        write_diff as f64 / time_diff as f64
+                    )
+                } else {
+                    (0.0, 0.0)
+                }
+            } else {
+                (0.0, 0.0)
+            };
+            
+            Ok((total_read_bytes, total_write_bytes, read_rate, write_rate))
+        }
+
+        #[cfg(not(any(target_os = "macos", target_os = "linux")))]
         {
             Ok((0, 0, 0.0, 0.0))
         }
@@ -314,7 +439,63 @@ impl SystemMetricsCollector {
             Ok((total_rx_bytes, total_tx_bytes, rx_rate, tx_rate))
         }
 
-        #[cfg(not(target_os = "macos"))]
+        #[cfg(target_os = "linux")]
+        {
+            let mut total_rx_bytes = 0u64;
+            let mut total_tx_bytes = 0u64;
+            
+            // Read from /proc/net/dev
+            let net_dev = fs::read_to_string("/proc/net/dev")?;
+            
+            for line in net_dev.lines().skip(2) { // Skip header lines
+                if let Some(colon_pos) = line.find(':') {
+                    let interface = line[..colon_pos].trim();
+                    let stats = &line[colon_pos + 1..];
+                    let parts: Vec<&str> = stats.split_whitespace().collect();
+                    
+                    // Skip loopback and virtual interfaces
+                    if interface != "lo" && !interface.starts_with("vir") && !interface.starts_with("docker") {
+                        if parts.len() >= 16 {
+                            // Column 0: rx_bytes, Column 8: tx_bytes
+                            if let (Ok(rx_bytes), Ok(tx_bytes)) = (
+                                parts[0].parse::<u64>(),
+                                parts[8].parse::<u64>()
+                            ) {
+                                total_rx_bytes += rx_bytes;
+                                total_tx_bytes += tx_bytes;
+                            }
+                        }
+                    }
+                }
+            }
+            
+            // Calculate rates
+            let (rx_rate, tx_rate) = if let (Some(prev), Some(prev_time)) = 
+                (&self.previous_metrics, self.previous_timestamp) {
+                let time_diff = SystemTime::now()
+                    .duration_since(UNIX_EPOCH)
+                    .unwrap()
+                    .as_secs() - prev_time;
+                
+                if time_diff > 0 {
+                    let rx_diff = total_rx_bytes.saturating_sub(prev.network_rx_bytes);
+                    let tx_diff = total_tx_bytes.saturating_sub(prev.network_tx_bytes);
+                    
+                    (
+                        rx_diff as f64 / time_diff as f64,
+                        tx_diff as f64 / time_diff as f64
+                    )
+                } else {
+                    (0.0, 0.0)
+                }
+            } else {
+                (0.0, 0.0)
+            };
+            
+            Ok((total_rx_bytes, total_tx_bytes, rx_rate, tx_rate))
+        }
+
+        #[cfg(not(any(target_os = "macos", target_os = "linux")))]
         {
             Ok((0, 0, 0.0, 0.0))
         }
@@ -337,6 +518,20 @@ impl SystemMetricsCollector {
                     let load15 = loads[2].parse().unwrap_or(0.0);
                     return Ok([load1, load5, load15]);
                 }
+            }
+        }
+        
+        #[cfg(target_os = "linux")]
+        {
+            // Read from /proc/loadavg
+            let loadavg = fs::read_to_string("/proc/loadavg")?;
+            let parts: Vec<&str> = loadavg.split_whitespace().collect();
+            
+            if parts.len() >= 3 {
+                let load1 = parts[0].parse().unwrap_or(0.0);
+                let load5 = parts[1].parse().unwrap_or(0.0);
+                let load15 = parts[2].parse().unwrap_or(0.0);
+                return Ok([load1, load5, load15]);
             }
         }
         
@@ -377,6 +572,19 @@ impl SystemMetricsCollector {
                 // This is a simplified implementation
                 // In practice, you'd want more robust uptime parsing
                 return Ok(total_seconds);
+            }
+        }
+        
+        #[cfg(target_os = "linux")]
+        {
+            // Read from /proc/uptime - first value is uptime in seconds
+            let uptime_content = fs::read_to_string("/proc/uptime")?;
+            let parts: Vec<&str> = uptime_content.split_whitespace().collect();
+            
+            if let Some(first) = parts.first() {
+                if let Ok(uptime_float) = first.parse::<f64>() {
+                    return Ok(uptime_float as u64);
+                }
             }
         }
         
