@@ -1,0 +1,17 @@
+{
+  "uuid": "a70d1ad8-8036-4e5a-8763-eac659cd1a49",
+  "path": "/lib/firmware/brcm/brcmfmac43455-sdio.raspberrypi,4-model-b.txt.zst",
+  "size": 868,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.485542463Z",
+  "sha256_hash": "9ce7e62891c3b8dd88d75b5967884a07b90424373c6a20bbd5d3ff00dff55c18",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.499814716Z"
+}

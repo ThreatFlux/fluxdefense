@@ -1,0 +1,17 @@
+{
+  "uuid": "57b84c5d-0458-48d4-9c4d-6889e1bb5354",
+  "path": "/lib/x86_64-linux-gnu/libinput.so.10.13.0",
+  "size": 344320,
+  "modified": "2025-02-13T08:17:20Z",
+  "created": "2025-05-09T05:24:18.057837760Z",
+  "sha256_hash": "1e5c78867eb4c3c62f576e60097ee78aff0482b9715e24b74ee5c5906a35d078",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.635663912Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "59a4aea8-e448-4b33-b135-c68d9d982de3",
+  "path": "/sbin/grub-mkconfig",
+  "size": 8840,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.603711589Z",
+  "sha256_hash": "fb2e120741478360f78b0291a747d57d2e802377a92a576854abef8866b362b3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.177821637Z"
+}

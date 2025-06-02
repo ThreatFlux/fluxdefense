@@ -1,0 +1,17 @@
+{
+  "uuid": "8af4474f-8228-44c4-b035-4ae86c5352b1",
+  "path": "/usr/lib/x86_64-linux-gnu/libzvbi.so.0.13.2",
+  "size": 577240,
+  "modified": "2024-03-13T15:30:33Z",
+  "created": "2025-05-09T05:09:20.729053405Z",
+  "sha256_hash": "134705a7ef4d982eb57bf71a9378f3eb0d95237c8dcb686d684e35471ae834b0",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.921602288Z"
+}

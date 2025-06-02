@@ -1,0 +1,17 @@
+{
+  "uuid": "9a44432e-4a14-4f5f-8c13-c674ed62d883",
+  "path": "/usr/lib/x86_64-linux-gnu/libprotobuf-c.so.1.0.0",
+  "size": 39016,
+  "modified": "2024-03-31T08:16:39Z",
+  "created": "2025-05-09T05:07:31.884714511Z",
+  "sha256_hash": "1b56fcc1ca69d7fd7986c0c326a559ab0db87d3df9a3362b745ba021334dcef1",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.067100433Z"
+}

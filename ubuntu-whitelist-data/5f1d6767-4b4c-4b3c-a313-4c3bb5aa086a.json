@@ -1,0 +1,15 @@
+{
+  "uuid": "5f1d6767-4b4c-4b3c-a313-4c3bb5aa086a",
+  "path": "/usr/lib/x86_64-linux-gnu/audit/sotruss-lib.so",
+  "size": 14544,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:08:53.060475691Z",
+  "sha256_hash": "bc79ab1d039ac8061598d79d9bd03bf582e3d3fa31491c076e956c38a6de2ba8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.526805151Z"
+}

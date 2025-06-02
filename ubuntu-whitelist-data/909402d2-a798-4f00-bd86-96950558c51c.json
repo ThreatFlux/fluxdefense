@@ -1,0 +1,17 @@
+{
+  "uuid": "909402d2-a798-4f00-bd86-96950558c51c",
+  "path": "/lib/x86_64-linux-gnu/libdrop_ambient.so.0.0.0",
+  "size": 14416,
+  "modified": "2024-03-31T07:45:22Z",
+  "created": "2025-05-09T05:07:29.358753056Z",
+  "sha256_hash": "df1d550908fa076b66b23902582a7f483104ecb4f4f032eb31b275c64173f2f0",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.705578578Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b012057a-7216-400d-9178-68b86beed112",
+  "path": "/lib/systemd/systemd-import",
+  "size": 55792,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:56:53.646596479Z",
+  "sha256_hash": "d141f02450af8516582c905049e7a5a463d6d02a7d7f91c0225e75295f4a8cb2",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.178837245Z"
+}

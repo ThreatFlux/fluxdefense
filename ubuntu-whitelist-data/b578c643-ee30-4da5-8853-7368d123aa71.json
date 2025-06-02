@@ -1,0 +1,17 @@
+{
+  "uuid": "b578c643-ee30-4da5-8853-7368d123aa71",
+  "path": "/lib/firmware/intel/sof-ipc4-tplg/sof-mtl-rt711-l0-rt1316-l3-4ch.tplg.zst",
+  "size": 3456,
+  "modified": "2025-01-06T07:09:53Z",
+  "created": "2025-05-09T05:08:52.056491014Z",
+  "sha256_hash": "3a0b6d8854755cd07d851be9506adac941ec076d3b185f01fc679b96e549707b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.064395482Z"
+}

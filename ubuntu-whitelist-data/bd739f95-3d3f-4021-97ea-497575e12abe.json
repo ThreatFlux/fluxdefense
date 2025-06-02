@@ -1,0 +1,17 @@
+{
+  "uuid": "bd739f95-3d3f-4021-97ea-497575e12abe",
+  "path": "/lib/systemd/system/systemd-growfs@.service",
+  "size": 664,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "943760ac367b04691c056442e2ae87fb77bc392212f09d8839aa956fb11efc19",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.125981990Z"
+}

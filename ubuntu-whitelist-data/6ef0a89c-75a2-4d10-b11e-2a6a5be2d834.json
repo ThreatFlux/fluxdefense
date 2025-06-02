@@ -1,0 +1,15 @@
+{
+  "uuid": "6ef0a89c-75a2-4d10-b11e-2a6a5be2d834",
+  "path": "/usr/sbin/chgpasswd",
+  "size": 59720,
+  "modified": "2024-05-30T14:52:35Z",
+  "created": "2025-05-09T05:07:38.137619092Z",
+  "sha256_hash": "43f70775df3c0f24860cb8bfa1d956facfdcfd517bae23c84943ed64c6385045",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.587276971Z"
+}

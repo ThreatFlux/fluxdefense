@@ -1,0 +1,17 @@
+{
+  "uuid": "bb808774-a8bb-4271-b5fe-ca5d5602cd97",
+  "path": "/lib/x86_64-linux-gnu/libSDL-1.2.so.1.2.68",
+  "size": 170400,
+  "modified": "2024-01-02T15:09:33Z",
+  "created": "2025-05-29T11:16:27.401766479Z",
+  "sha256_hash": "b82090085ba665c89ea70909b9018a219c42029fdf9803e7d5e17c185d6d1d72",
+  "file_type": {
+    "Other": "68"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:12.685471455Z"
+}

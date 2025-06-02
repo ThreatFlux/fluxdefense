@@ -1,0 +1,17 @@
+{
+  "uuid": "391aa51b-b661-46dd-91bc-fe0905fd3c09",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/bits/siginfo-arch.ph",
+  "size": 465,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.557590732Z",
+  "sha256_hash": "95109632e42bc5bd7783bbd6d7a52c8d3436f63335d953a559d5bbc70194d7fa",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.682804154Z"
+}

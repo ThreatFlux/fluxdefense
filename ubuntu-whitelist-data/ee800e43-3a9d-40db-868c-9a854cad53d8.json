@@ -1,0 +1,15 @@
+{
+  "uuid": "ee800e43-3a9d-40db-868c-9a854cad53d8",
+  "path": "/usr/lib/udev/pcmcia-socket-startup",
+  "size": 22912,
+  "modified": "2024-04-08T16:15:23Z",
+  "created": "2025-05-09T05:07:28.371768117Z",
+  "sha256_hash": "0e182a1a55510143a2542519ab8e3a415f944a93c4e070a81a26b42a6a18e43e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.228967513Z"
+}

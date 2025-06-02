@@ -1,0 +1,15 @@
+{
+  "uuid": "f6a2f877-164e-454f-baf4-7c9e10f4e641",
+  "path": "/usr/bin/setpci",
+  "size": 31112,
+  "modified": "2024-04-08T16:15:21Z",
+  "created": "2025-05-09T05:07:20.437889184Z",
+  "sha256_hash": "382476cae4167bc7e18df4cb30c8ee4c597bd7888ac7e76477f50d34a65065a1",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.769135717Z"
+}

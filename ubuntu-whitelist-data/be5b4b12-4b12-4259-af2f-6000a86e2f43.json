@@ -1,0 +1,17 @@
+{
+  "uuid": "be5b4b12-4b12-4259-af2f-6000a86e2f43",
+  "path": "/usr/lib/x86_64-linux-gnu/libbabeltrace.so.1.0.0",
+  "size": 55520,
+  "modified": "2024-03-31T07:28:41Z",
+  "created": "2025-05-09T05:07:29.182755741Z",
+  "sha256_hash": "5bf46ff3e0fb33f25ff7cd98c877a45dbaf423242904a7eb485173f3fed91ca6",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:13.996735023Z"
+}

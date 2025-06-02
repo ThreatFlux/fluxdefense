@@ -1,0 +1,17 @@
+{
+  "uuid": "8859bd6e-49fd-45c4-a46d-ef3a162e9639",
+  "path": "/lib/llvm-18/include/clang/Interpreter/PartialTranslationUnit.h",
+  "size": 1098,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "81701acade117e74e123564434060a5585b2c3173fb30f2b1d77dd16f69587d7",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.017338154Z"
+}

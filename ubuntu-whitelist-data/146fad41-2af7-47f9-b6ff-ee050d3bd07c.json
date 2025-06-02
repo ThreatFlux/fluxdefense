@@ -1,0 +1,17 @@
+{
+  "uuid": "146fad41-2af7-47f9-b6ff-ee050d3bd07c",
+  "path": "/lib/x86_64-linux-gnu/libtotem-plparser.so.18.3.5",
+  "size": 145792,
+  "modified": "2024-03-31T08:28:46Z",
+  "created": "2025-05-09T05:07:32.325707781Z",
+  "sha256_hash": "349541cca3091a58070809afb4081860a88f1bb43081872ea97ba419127d9d17",
+  "file_type": {
+    "Other": "5"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.441256527Z"
+}

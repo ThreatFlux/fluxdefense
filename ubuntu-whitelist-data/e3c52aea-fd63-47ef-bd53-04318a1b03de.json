@@ -1,0 +1,15 @@
+{
+  "uuid": "e3c52aea-fd63-47ef-bd53-04318a1b03de",
+  "path": "/usr/lib/llvm-18/lib/libclangTidyCppCoreGuidelinesModule.a",
+  "size": 3679814,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.862529196Z",
+  "sha256_hash": "b8a6ede326c3f273e6d3a70d9cfaab66b400910143d99b676f36574dc5502d95",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:29.435341123Z"
+}

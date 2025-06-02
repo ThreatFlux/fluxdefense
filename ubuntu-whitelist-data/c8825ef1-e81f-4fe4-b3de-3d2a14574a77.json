@@ -1,0 +1,17 @@
+{
+  "uuid": "c8825ef1-e81f-4fe4-b3de-3d2a14574a77",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-numaux.ali",
+  "size": 3282,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.100344461Z",
+  "sha256_hash": "44bb41b14459b121332c955943aa2b36dce0b0921864331889caa4b1d7da7f8f",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.712550984Z"
+}

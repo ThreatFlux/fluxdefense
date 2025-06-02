@@ -1,0 +1,17 @@
+{
+  "uuid": "a9a0739a-3de4-414a-a7d4-db1c02f7f12b",
+  "path": "/usr/lib/i386-linux-gnu/libBrokenLocale.so.1",
+  "size": 13716,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.286663324Z",
+  "sha256_hash": "98640907a9991a07d3845dc8a81a009fbb511a7d36647ddc444b5f6d9545c9a4",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.995463517Z"
+}

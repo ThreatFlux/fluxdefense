@@ -1,0 +1,17 @@
+{
+  "uuid": "f7005b28-91c0-4735-bc5e-558809bb7d1a",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/ms_dict",
+  "size": 53541,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.478659667Z",
+  "sha256_hash": "74b01897385ba1f018de44c0268048fa5be588bbbb702a900bb35c691a466707",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.318768927Z"
+}

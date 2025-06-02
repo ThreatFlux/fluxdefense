@@ -1,0 +1,15 @@
+{
+  "uuid": "09ce8a49-259a-4b63-927d-c1c015dbe2db",
+  "path": "/usr/bin/dh_bash-completion",
+  "size": 4527,
+  "modified": "2023-04-17T01:29:45Z",
+  "created": "2025-05-09T05:07:19.152908792Z",
+  "sha256_hash": "e970ff96c5f354cd09db5d6b8313e61c822ddea9bb3ab93e1fa557c8e9cf2939",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.063485298Z"
+}

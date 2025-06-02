@@ -1,0 +1,17 @@
+{
+  "uuid": "3614d2f4-5086-49a2-a7b5-5ce34d3497c0",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/bits/long-double.ph",
+  "size": 169,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.557590732Z",
+  "sha256_hash": "b3c551ad36b1fbf6db3606949581a7836928bdbd184a4c8e50c607046827cb9a",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.590332691Z"
+}

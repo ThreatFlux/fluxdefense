@@ -1,0 +1,17 @@
+{
+  "uuid": "8d543412-f30a-48b2-8177-b88c5c905c92",
+  "path": "/usr/lib/x86_64-linux-gnu/libtheoraenc.so.1.1.2",
+  "size": 227632,
+  "modified": "2024-03-31T02:18:19Z",
+  "created": "2025-05-09T05:07:32.318707888Z",
+  "sha256_hash": "8ecc0a9e6f2017545c1f3ac6266da7a50903bea568e5f4a1fd73f9b6f2b02e9e",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:08.111591609Z"
+}

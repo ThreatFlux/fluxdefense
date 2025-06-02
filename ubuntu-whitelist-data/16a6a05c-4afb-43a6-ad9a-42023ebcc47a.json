@@ -1,0 +1,17 @@
+{
+  "uuid": "16a6a05c-4afb-43a6-ad9a-42023ebcc47a",
+  "path": "/lib/firmware/amdgpu/renoir_me.bin.zst",
+  "size": 6504,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.414543446Z",
+  "sha256_hash": "1fdd22a8f3c76af183ba37f5659689ba068811ca5ed0fbbf91d60f95b52ddaf6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.085186762Z"
+}

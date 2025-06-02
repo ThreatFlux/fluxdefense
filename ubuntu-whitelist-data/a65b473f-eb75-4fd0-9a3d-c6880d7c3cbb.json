@@ -1,0 +1,17 @@
+{
+  "uuid": "a65b473f-eb75-4fd0-9a3d-c6880d7c3cbb",
+  "path": "/lib/firmware/iwlwifi-Qu-c0-hr-b0-77.ucode.zst",
+  "size": 518902,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.602540842Z",
+  "sha256_hash": "6efdc0dbfcc2ae5d2218938b32a45b7778b9ac867b14a4f98e7f6aa103f46c36",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.357280769Z"
+}

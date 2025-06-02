@@ -1,0 +1,15 @@
+{
+  "uuid": "bdab3a35-ff19-4434-8fce-5201d8ed27bb",
+  "path": "/usr/lib/llvm-18/lib/libLLVMBOLTTargetAArch64.a",
+  "size": 172438,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.816463956Z",
+  "sha256_hash": "eae40fa43d0b91a2966d23bb4fe5944442dd1467993a20f5c910f1b42f2cea7f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:35.093332538Z"
+}

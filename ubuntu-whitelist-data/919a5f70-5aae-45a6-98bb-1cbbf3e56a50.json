@@ -1,0 +1,17 @@
+{
+  "uuid": "919a5f70-5aae-45a6-98bb-1cbbf3e56a50",
+  "path": "/lib/llvm-18/include/clang/AST/ParentMap.h",
+  "size": 1934,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.519533713Z",
+  "sha256_hash": "c16e6f79c3ffd30d97ce54f43032fea2a5ba949b16fea3a8cfaa92bf1ecd587e",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.949609236Z"
+}

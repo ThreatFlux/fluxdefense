@@ -1,0 +1,17 @@
+{
+  "uuid": "0e0344b0-37dd-4327-90a2-136af1acc2cb",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-sytaco.adb",
+  "size": 4320,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.059345024Z",
+  "sha256_hash": "62bec8dc59fccf41c54a14d2d61f1d351b896a7891d52684e5c86131aa964bdc",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.244759564Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "0d20bb0c-67e1-49f9-8675-61b7a0797939",
+  "path": "/lib/x86_64-linux-gnu/samba/libtdb-wrap-samba4.so.0",
+  "size": 14568,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.119634626Z",
+  "sha256_hash": "cd8dc2c0f2cdbaab88a59d6bee15fa3c43253bb7e8e3c0b8dc435a2f1a393246",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.532662138Z"
+}

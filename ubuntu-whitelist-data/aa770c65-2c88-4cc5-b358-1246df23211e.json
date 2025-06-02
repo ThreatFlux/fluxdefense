@@ -1,0 +1,17 @@
+{
+  "uuid": "aa770c65-2c88-4cc5-b358-1246df23211e",
+  "path": "/lib/firmware/whiteheat.fw.zst",
+  "size": 12198,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.083534180Z",
+  "sha256_hash": "c927656e6000b328a3a0cf080ae2ee3e8119a3fd462635a49509e46ca97980fc",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.212596827Z"
+}

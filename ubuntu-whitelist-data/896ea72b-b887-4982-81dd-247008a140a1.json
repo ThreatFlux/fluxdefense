@@ -1,0 +1,17 @@
+{
+  "uuid": "896ea72b-b887-4982-81dd-247008a140a1",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/crtoffloadend.o",
+  "size": 1192,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.240389918Z",
+  "sha256_hash": "92fbd52be95bfd5d7c8929c7a0f2e655c34174ab2dcceb0ce3bed5307222b6ba",
+  "file_type": {
+    "Other": "o"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.625953248Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a9e91443-965c-456c-abc1-643e12325266",
+  "path": "/usr/lib/llvm-18/include/clang/Lex/DirectoryLookup.h",
+  "size": 7689,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.544533384Z",
+  "sha256_hash": "272cfabfd0da2b58bb51c440f22409efa59cd428fe95665a41c413b960769c2a",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.616967175Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "25ff4348-c523-43da-b88d-b21f1907f763",
+  "path": "/lib/firmware/intel/fw_sst_0f28.bin-48kHz_i2s_master.zst",
+  "size": 68323,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.550541563Z",
+  "sha256_hash": "7cedd9169243a927a740ef7cd1431590228a00ad18feb272c89ddaf4e0e22c62",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.247783178Z"
+}

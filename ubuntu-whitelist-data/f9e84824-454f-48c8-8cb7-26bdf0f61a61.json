@@ -1,0 +1,17 @@
+{
+  "uuid": "f9e84824-454f-48c8-8cb7-26bdf0f61a61",
+  "path": "/lib/x86_64-linux-gnu/nodejs/re2/scripts/verify-build.js",
+  "size": 357,
+  "modified": "2024-03-21T03:52:41Z",
+  "created": "2025-05-13T14:33:00.521888438Z",
+  "sha256_hash": "868dbac21571a6076742ac3116c517fbca024c33115b4c3905ad2abf09549202",
+  "file_type": {
+    "Other": "js"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.849750182Z"
+}

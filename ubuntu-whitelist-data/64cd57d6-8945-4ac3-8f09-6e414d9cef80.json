@@ -1,0 +1,17 @@
+{
+  "uuid": "64cd57d6-8945-4ac3-8f09-6e414d9cef80",
+  "path": "/lib/firmware/radeon/REDWOOD_me.bin.zst",
+  "size": 2927,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "f6e5acc6610944280b5d1d73305fde9d0d96008d9849b0c9d0bff3be28333775",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.395430333Z"
+}

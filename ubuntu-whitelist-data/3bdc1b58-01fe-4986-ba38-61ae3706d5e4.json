@@ -1,0 +1,15 @@
+{
+  "uuid": "3bdc1b58-01fe-4986-ba38-61ae3706d5e4",
+  "path": "/lib/llvm-18/lib/libLLVMVEInfo.a",
+  "size": 4486,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.048460900Z",
+  "sha256_hash": "cb7b713dcc3afa1d124ce6106f1e8032acdf44383cb0f8979a52a915a50255c8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:37.857329447Z"
+}

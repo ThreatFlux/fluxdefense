@@ -1,0 +1,17 @@
+{
+  "uuid": "d3ba9043-439c-4b76-bd9b-24b7fb4050a5",
+  "path": "/lib/grub/x86_64-efi/trig.mod",
+  "size": 2056,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "e36b7929feb77bdbe25f0546a4218ceaf8d4334a80189c5b8ff8411d4be9328a",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.051783740Z"
+}

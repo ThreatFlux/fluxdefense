@@ -1,0 +1,17 @@
+{
+  "uuid": "69f2c576-92d9-433d-b922-8b7aa51d67ee",
+  "path": "/usr/lib/firewalld/zones/libvirt-routed.xml",
+  "size": 297,
+  "modified": "2024-01-15T09:58:03Z",
+  "created": "2025-05-20T14:31:33.305811285Z",
+  "sha256_hash": "f987804417eb9cd39f78e0cd08b7adb92e50ce6088ccbe65c9789d467755e2ff",
+  "file_type": {
+    "Other": "xml"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.324974626Z"
+}

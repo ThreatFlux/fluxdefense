@@ -1,0 +1,15 @@
+{
+  "uuid": "6b440c97-2b49-40b0-b01a-5854b594d6d9",
+  "path": "/usr/lib/llvm-18/bin/llvm-dwarfutil",
+  "size": 331560,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:34.911489046Z",
+  "sha256_hash": "d6e8b77c6d31211b68bf9697dfa08fc13ac764c58f762fd7e2f44056a174eef3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.790386744Z"
+}

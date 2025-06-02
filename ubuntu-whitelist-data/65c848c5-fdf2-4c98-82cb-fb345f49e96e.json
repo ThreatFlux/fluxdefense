@@ -1,0 +1,17 @@
+{
+  "uuid": "65c848c5-fdf2-4c98-82cb-fb345f49e96e",
+  "path": "/lib/firmware/mediatek/sof/sof-mt8195.ldc.zst",
+  "size": 10328,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.692539596Z",
+  "sha256_hash": "93cbd49902a9ea3bbcb585b35ea5b5476acaaf6870bb435008b360e493914fe7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.084701924Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "92c5ad43-24aa-4ed2-a4c8-f36c4cb93f58",
+  "path": "/usr/lib/grub/x86_64-efi/normal.mod",
+  "size": 178592,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.837708018Z",
+  "sha256_hash": "76ed2b90196ab1eb65cbacc833d54d61a9ff26ba751a5debfdefe098dd40797b",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.509141494Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "659c34e1-c00d-4fc7-8d6a-a4500a4e22e1",
+  "path": "/usr/lib/grub/x86_64-efi/cpuid.mod",
+  "size": 2600,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.802708552Z",
+  "sha256_hash": "d65f05a4f52635b53fa218714e15352fe2d38582002d56ac2bc28ba4ef7f283f",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.455678467Z"
+}

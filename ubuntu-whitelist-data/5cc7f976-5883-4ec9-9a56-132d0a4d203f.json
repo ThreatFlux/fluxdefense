@@ -1,0 +1,17 @@
+{
+  "uuid": "5cc7f976-5883-4ec9-9a56-132d0a4d203f",
+  "path": "/lib/x86_64-linux-gnu/libhwy_contrib.so.1.0.7",
+  "size": 3336408,
+  "modified": "2024-03-31T07:39:30Z",
+  "created": "2025-05-09T05:09:18.792082968Z",
+  "sha256_hash": "c66b436fd62b09318379830dbef1faa516a319d79f75bedbfb2219148f294118",
+  "file_type": {
+    "Other": "7"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.164205611Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "1222f48a-3a02-480f-a24a-636be35a2a7c",
+  "path": "/lib/python3/dist-packages/uaclient/entitlements/anbox.py",
+  "size": 3133,
+  "modified": "2025-02-19T13:15:01Z",
+  "created": "2025-05-09T05:24:25.026928545Z",
+  "sha256_hash": "83ee9f1ad210313a031e15bf5a32b704ea8c9655ad334d3fc62931e527a5535d",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.855098777Z"
+}

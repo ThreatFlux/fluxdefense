@@ -1,0 +1,17 @@
+{
+  "uuid": "7731eed7-9f29-4b29-9407-29974be5f51b",
+  "path": "/lib/byobu/include/tmux-send-command-to-all-panes",
+  "size": 955,
+  "modified": "2024-02-10T17:03:36Z",
+  "created": "2025-05-23T03:43:49.241694174Z",
+  "sha256_hash": "2663f66ce2dc8b3e31cb52e4549973392cd61377967cd292259febd17edf04b0",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.409029781Z"
+}

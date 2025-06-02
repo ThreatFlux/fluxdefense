@@ -1,0 +1,17 @@
+{
+  "uuid": "2a3c8de3-d41f-4609-a990-d02107d0f440",
+  "path": "/usr/lib/grub/x86_64-efi/cbtime.mod",
+  "size": 4536,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.802708552Z",
+  "sha256_hash": "0b66aa1c1916c4994e7b7779320f995a59ddd52cfe63486fe94b442bb3f3002d",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.502619173Z"
+}

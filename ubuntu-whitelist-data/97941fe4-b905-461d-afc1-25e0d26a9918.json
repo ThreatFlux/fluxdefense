@@ -1,0 +1,15 @@
+{
+  "uuid": "97941fe4-b905-461d-afc1-25e0d26a9918",
+  "path": "/lib/pppd/2.4.9/nm-pppd-plugin.so",
+  "size": 22792,
+  "modified": "2024-10-23T11:04:42Z",
+  "created": "2025-05-09T05:07:25.897805869Z",
+  "sha256_hash": "b3707644f071e52abc57bf8143dbf853ebeb028e4fc5cc73134752bd24b37e92",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.133700321Z"
+}

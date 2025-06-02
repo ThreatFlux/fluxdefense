@@ -1,0 +1,17 @@
+{
+  "uuid": "d9e3ae3a-59e1-4469-b28c-0ef7450f5571",
+  "path": "/usr/lib/google-cloud-sdk/.install/bundled-python3-unix-linux-x86_64.snapshot.json",
+  "size": 1111,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.312922087Z",
+  "sha256_hash": "97d0acdad8bfca65ab3cb51fbd96033650282f5f3c3c3b9cbdd482e352b386de",
+  "file_type": {
+    "Other": "json"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.544218769Z"
+}

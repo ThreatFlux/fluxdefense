@@ -1,0 +1,17 @@
+{
+  "uuid": "067738b9-7fbb-45ca-a633-c3c8e85cd21f",
+  "path": "/usr/lib/x86_64-linux-gnu/libgstmse-1.0.so.0.2402.0",
+  "size": 138304,
+  "modified": "2024-04-15T13:00:06Z",
+  "created": "2025-05-09T05:09:28.092941013Z",
+  "sha256_hash": "85fa4dd2ba26942aa047d536a437c5f54f04da45e13b6350750b130e822efee4",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.564122954Z"
+}

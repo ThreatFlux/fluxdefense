@@ -1,0 +1,15 @@
+{
+  "uuid": "e1a21539-e45b-4767-9d3e-920882303032",
+  "path": "/sbin/uuidd",
+  "size": 31624,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.458614193Z",
+  "sha256_hash": "0af82051d062a9e2dcd75fa776c1a67ad7df73342193c65b87f4f622be8d27ea",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.989925684Z"
+}

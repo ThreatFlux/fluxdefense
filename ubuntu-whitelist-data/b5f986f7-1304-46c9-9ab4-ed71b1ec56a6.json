@@ -1,0 +1,17 @@
+{
+  "uuid": "b5f986f7-1304-46c9-9ab4-ed71b1ec56a6",
+  "path": "/usr/lib/firmware/radeon/tahiti_rlc.bin.zst",
+  "size": 2461,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.063534457Z",
+  "sha256_hash": "2bab8581ebe2857181adcabe76c33bc338971f052dd5c9936ae5822c593ffdb4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.383039130Z"
+}

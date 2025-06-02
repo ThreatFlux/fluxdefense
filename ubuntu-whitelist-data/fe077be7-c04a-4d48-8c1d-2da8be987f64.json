@@ -1,0 +1,17 @@
+{
+  "uuid": "fe077be7-c04a-4d48-8c1d-2da8be987f64",
+  "path": "/lib/python3.12/test/decimaltestdata/nextplus.decTest",
+  "size": 6923,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.996551710Z",
+  "sha256_hash": "8d44be79f6253bfd3180f087415c53d5cb9d2ca665a3030ba09897503bbd2081",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.457512760Z"
+}

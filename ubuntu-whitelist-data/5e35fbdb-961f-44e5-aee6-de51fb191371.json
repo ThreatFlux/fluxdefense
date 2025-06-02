@@ -1,0 +1,17 @@
+{
+  "uuid": "5e35fbdb-961f-44e5-aee6-de51fb191371",
+  "path": "/usr/lib/tmpfiles.d/gvfsd-fuse-tmpfiles.conf",
+  "size": 595,
+  "modified": "2024-03-15T07:55:43Z",
+  "created": "2025-05-09T05:07:28.308769079Z",
+  "sha256_hash": "df341f1a5b7da2e9624e2eddbd1ba074f94a87cc916ffe8357e018d0223518b2",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.132587897Z"
+}

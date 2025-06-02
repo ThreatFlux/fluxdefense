@@ -1,0 +1,17 @@
+{
+  "uuid": "ec3e3e8e-d016-431b-a280-ef43f276c6f1",
+  "path": "/usr/lib/systemd/system/apt-daily.timer",
+  "size": 156,
+  "modified": "2024-10-22T13:02:22Z",
+  "created": "2025-05-30T21:04:50.161634085Z",
+  "sha256_hash": "0075e974af4e3a94757e219ba50ccb8348d4d1a8834d938f6cc9b1f4fd1db4e5",
+  "file_type": {
+    "Other": "timer"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.457955252Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "06c8a6a7-be39-48a0-8a7c-a2a12c92f473",
+  "path": "/usr/lib/ipxe/qemu/pxe-virtio.rom",
+  "size": 92672,
+  "modified": "2024-04-16T21:17:04Z",
+  "created": "2025-05-09T05:56:50.419632725Z",
+  "sha256_hash": "da0d02aa932c7a6300ccf30c10279af20757c490ea9513d11cfb8fbaefc0a385",
+  "file_type": {
+    "Other": "rom"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.350394659Z"
+}

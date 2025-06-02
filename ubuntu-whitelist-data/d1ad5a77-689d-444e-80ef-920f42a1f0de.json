@@ -1,0 +1,15 @@
+{
+  "uuid": "d1ad5a77-689d-444e-80ef-920f42a1f0de",
+  "path": "/lib/google-cloud-sdk/platform/bundledpythonunix/bin/python3-config",
+  "size": 3078,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.305922206Z",
+  "sha256_hash": "cef2547d7209eeb567063609e7107eb6c140c004935343c7c1c247fe88789f94",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.015018721Z"
+}

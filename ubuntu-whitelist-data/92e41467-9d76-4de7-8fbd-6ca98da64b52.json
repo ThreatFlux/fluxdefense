@@ -1,0 +1,15 @@
+{
+  "uuid": "92e41467-9d76-4de7-8fbd-6ca98da64b52",
+  "path": "/lib/x86_64-linux-gnu/libssl3.so",
+  "size": 432864,
+  "modified": "2024-04-08T16:14:43Z",
+  "created": "2025-05-09T05:07:32.205709612Z",
+  "sha256_hash": "99e86b5bd570d09ee42626dfdc0843eb02bc832edaff5b742ee8a055068938ef",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.175697236Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c9a6e467-1710-4312-9e06-48fb88dd98b6",
+  "path": "/usr/lib/x86_64-linux-gnu/libebackend-1.2.so.11.0.0",
+  "size": 358488,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:29.363752979Z",
+  "sha256_hash": "cd3ba3d8ab49ad0ed6891a75c6d3a55bce1d8ce666e66a45eca6be162f0b4f9d",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.078988946Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d6e7f9ff-07d1-44ad-9cb2-8845017d3bad",
+  "path": "/usr/lib/python3.12/config-3.12-x86_64-linux-gnu/Setup.bootstrap",
+  "size": 902,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-26T18:06:52.220888058Z",
+  "sha256_hash": "2917936af36bd7d641c737f72f68599fd13c26a28faebba7c07799879b1b9b31",
+  "file_type": {
+    "Other": "bootstrap"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.516070477Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "a5b9af0b-e4d4-4cf1-b39a-e7b089016213",
+  "path": "/usr/lib/x86_64-linux-gnu/security/pam_umask.so",
+  "size": 14488,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:37.206633299Z",
+  "sha256_hash": "64904fa63ff481362c849d0eef40e9780f0fe75b5f1ef1fa06dcea529fb2543e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.666008333Z"
+}

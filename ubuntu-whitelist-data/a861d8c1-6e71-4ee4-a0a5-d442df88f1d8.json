@@ -1,0 +1,17 @@
+{
+  "uuid": "a861d8c1-6e71-4ee4-a0a5-d442df88f1d8",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-microtek2.so.1.2.1",
+  "size": 157952,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.144634245Z",
+  "sha256_hash": "f759391e21ce008818be5fc9950a75c48d1603e6ff1ed493bda01793a1111d32",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.851417290Z"
+}

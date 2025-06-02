@@ -1,0 +1,17 @@
+{
+  "uuid": "f20cd802-8fb4-420e-bb4c-37ae87175f8f",
+  "path": "/usr/lib/google-cloud-sdk/.install/component_mapping.yaml",
+  "size": 1932,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.309922138Z",
+  "sha256_hash": "47aab8778099619618b1d901df9fe9785d8ea2909538c1032dd5d44c86b5b5e2",
+  "file_type": {
+    "Other": "yaml"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.531860113Z"
+}

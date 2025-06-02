@@ -1,0 +1,15 @@
+{
+  "uuid": "5997916e-8dd0-4678-b04c-aae6c347f8da",
+  "path": "/lib/x86_64-linux-gnu/security/pam_group.so",
+  "size": 18664,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:37.199633405Z",
+  "sha256_hash": "1120453f098fd82afb87789b6e65148132fba3865cacf390eea8004ae48e983e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.382364913Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "06d52fa2-6057-4acd-9ed2-2739a03b9fab",
+  "path": "/usr/lib/python3.12/test/decimaltestdata/inexact.decTest",
+  "size": 10492,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.995551723Z",
+  "sha256_hash": "5eda1549257d26d90d2d205f72baf9ef3c2aeedad7f1b08bafffed4646e1785f",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.954147280Z"
+}

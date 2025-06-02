@@ -1,0 +1,17 @@
+{
+  "uuid": "c692bbbf-143c-48d7-a161-9f66dd478208",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/fuchsia/OverloadedOperatorCheck.h",
+  "size": 1218,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "744c2ab9bfde1f2788287f2aeae1963d717560dd17aa4222f12c54b1f2717998",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.265504910Z"
+}

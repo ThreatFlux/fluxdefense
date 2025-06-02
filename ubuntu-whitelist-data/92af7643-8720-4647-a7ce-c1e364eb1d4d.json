@@ -1,0 +1,17 @@
+{
+  "uuid": "92af7643-8720-4647-a7ce-c1e364eb1d4d",
+  "path": "/usr/lib/x86_64-linux-gnu/samba/libLIBWBCLIENT-OLD-samba4.so.0",
+  "size": 26856,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.030635984Z",
+  "sha256_hash": "0b537d74fd6a0b76ec9057563f522b8208b52d6a4573948b9e5eb31d41fc0cab",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.420794630Z"
+}

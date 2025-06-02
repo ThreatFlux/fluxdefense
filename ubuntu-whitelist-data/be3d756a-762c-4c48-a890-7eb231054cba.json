@@ -1,0 +1,17 @@
+{
+  "uuid": "be3d756a-762c-4c48-a890-7eb231054cba",
+  "path": "/usr/lib/x86_64-linux-gnu/perl-base/XSLoader.pm",
+  "size": 4115,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.354578566Z",
+  "sha256_hash": "6f3125299a06ee2f0eb2b70d54c9e3d8ca67ad1136d28b0336836e04430163af",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.711040277Z"
+}

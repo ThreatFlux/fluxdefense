@@ -1,0 +1,17 @@
+{
+  "uuid": "a3718046-6a68-4ff0-b5a6-4f5e9a55894a",
+  "path": "/lib/firmware/amdgpu/yellow_carp_dmcub.bin.zst",
+  "size": 154424,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.427543266Z",
+  "sha256_hash": "bf4eceeac14e11ae179bf33603f7a99bb053d23abd17105d64a8161f28e8696b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.892850446Z"
+}

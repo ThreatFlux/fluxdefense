@@ -1,0 +1,17 @@
+{
+  "uuid": "2e5c921f-c8da-45db-8b4a-49c580e55247",
+  "path": "/lib/llvm-18/include/clang-tidy/readability/NamespaceCommentCheck.h",
+  "size": 1579,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "d98d4f4a2195433ef3e85c6818ab523ea4b012ee20f3bae078245e3ad554ba25",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.923936827Z"
+}

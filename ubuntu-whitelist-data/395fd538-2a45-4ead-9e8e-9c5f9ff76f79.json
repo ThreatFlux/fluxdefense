@@ -1,0 +1,17 @@
+{
+  "uuid": "395fd538-2a45-4ead-9e8e-9c5f9ff76f79",
+  "path": "/usr/lib/systemd/system/time-sync.target",
+  "size": 487,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "ae49376a899db46acbc604d0caea7c55466d4afbc6ced06a01777e3f576b0f27",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.455316634Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b109cd58-4c27-4225-80f1-e322f79a7d56",
+  "path": "/lib/llvm-18/include/clang/Index/USRGeneration.h",
+  "size": 3906,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "615bc7a9073332f3c91aebf7aed43470a5d6666d465c8cd27e2ec88eedf0fb31",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.935179423Z"
+}

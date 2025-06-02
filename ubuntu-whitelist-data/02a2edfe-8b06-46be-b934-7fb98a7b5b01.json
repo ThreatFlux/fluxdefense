@@ -1,0 +1,15 @@
+{
+  "uuid": "02a2edfe-8b06-46be-b934-7fb98a7b5b01",
+  "path": "/usr/lib/x86_64-linux-gnu/libavutil.a",
+  "size": 1625630,
+  "modified": "2024-04-05T17:28:52Z",
+  "created": "2025-05-12T13:32:31.275116844Z",
+  "sha256_hash": "736d7e37d31a0092c2622871058058b9d1de4278572965ad48138149f9a16263",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.284855906Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "be7aa01d-929b-4da5-a6b0-ceed4b7fcd17",
+  "path": "/lib/x86_64-linux-gnu/libedata-cal-2.0.so.2.0.0",
+  "size": 456776,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:29.364752964Z",
+  "sha256_hash": "08bda04a5543e02c142465d7a74a1635ea208f657acd74dc9972d4ae7bb2dfb8",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.622897974Z"
+}

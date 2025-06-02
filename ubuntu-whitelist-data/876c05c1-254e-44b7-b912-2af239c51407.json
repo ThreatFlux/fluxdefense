@@ -1,0 +1,17 @@
+{
+  "uuid": "876c05c1-254e-44b7-b912-2af239c51407",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/FoldInitTypeCheck.h",
+  "size": 1503,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "8ef3cccb3c25003275a5efa2585e533129c3f85ddb50ecf331266c9ce4980a66",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.227424012Z"
+}

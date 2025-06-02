@@ -1,0 +1,17 @@
+{
+  "uuid": "a9c32cc3-651c-4974-927a-cce643f025a1",
+  "path": "/usr/lib/x86_64-linux-gnu/libtss2-tcti-libtpms.so.0.0.0",
+  "size": 35424,
+  "modified": "2024-05-24T20:06:42Z",
+  "created": "2025-05-09T05:07:32.326707766Z",
+  "sha256_hash": "a1f9ae272f62617b4f1bb31e6ccea34dc77a2b1f5fb7d61436eed2f3e4828e4b",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:26.251385370Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "3e7e9558-c001-4aea-8ffd-2ae1b8337159",
+  "path": "/lib/llvm-18/lib/cmake/llvm/FindLibpfm.cmake",
+  "size": 1253,
+  "modified": "2022-01-23T00:26:57Z",
+  "created": "2025-05-12T13:34:36.684465694Z",
+  "sha256_hash": "535f90a113021096102cf8c5fedb98cb0e18c6e2a634f384aab15597a69ad498",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.506508919Z"
+}

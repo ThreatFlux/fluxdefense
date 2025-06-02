@@ -1,0 +1,17 @@
+{
+  "uuid": "a2f9a11c-7b52-4cc0-8ff2-6582a03b9dc1",
+  "path": "/lib/x86_64-linux-gnu/libbrotlidec.so.1.1.0",
+  "size": 51512,
+  "modified": "2024-03-31T07:29:06Z",
+  "created": "2025-05-09T05:07:29.190755620Z",
+  "sha256_hash": "64d8a5019d4c294b89fde1193343ea324bbd8603652554e5545f0a01595fa2c5",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.615727335Z"
+}

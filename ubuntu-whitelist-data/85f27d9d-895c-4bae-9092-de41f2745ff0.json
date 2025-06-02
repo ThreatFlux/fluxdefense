@@ -1,0 +1,15 @@
+{
+  "uuid": "85f27d9d-895c-4bae-9092-de41f2745ff0",
+  "path": "/lib/x86_64-linux-gnu/gconv/IBM851.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.650657043Z",
+  "sha256_hash": "bcb238acedf63c151ca854607624035e67e0fa96b429bda895b88b8f34317013",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.761523761Z"
+}

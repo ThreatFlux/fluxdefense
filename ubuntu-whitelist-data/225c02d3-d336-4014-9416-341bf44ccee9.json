@@ -1,0 +1,17 @@
+{
+  "uuid": "225c02d3-d336-4014-9416-341bf44ccee9",
+  "path": "/lib/llvm-18/include/clang/Frontend/SARIFDiagnosticPrinter.h",
+  "size": 2525,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "d77d743df4751d633a62637212985cffcc631e30fc0ac16e387071038a226fbe",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.926126492Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "0aa60df7-27e9-4782-aa21-afa2df2660df",
+  "path": "/lib/x86_64-linux-gnu/librist.so.4.3.1",
+  "size": 166072,
+  "modified": "2024-04-07T09:30:06Z",
+  "created": "2025-05-09T05:09:22.848021064Z",
+  "sha256_hash": "ea8c081bcf74f33b20db9fc993ee4be1af64aecd2ee0347973bc139edf6c414f",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.308898089Z"
+}

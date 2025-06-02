@@ -1,0 +1,17 @@
+{
+  "uuid": "45f0c276-7f0d-471c-8071-7f5faa77fe5c",
+  "path": "/usr/lib/firmware/nvidia/gm20b/gr/gpccs_data.bin.zst",
+  "size": 509,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.938536188Z",
+  "sha256_hash": "df8cb0c856cc2a95f75cf2400290600058259fbff5b5ac0e1950d2e28eb9c91c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.276262133Z"
+}

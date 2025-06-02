@@ -1,0 +1,17 @@
+{
+  "uuid": "3727b187-bf1f-4bf3-bb30-119ae452321e",
+  "path": "/usr/lib/systemd/system/sysinit.target",
+  "size": 574,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "4d7fdd6b1a2f15647d69d886519c7809ed3adc493e8bd5bb3f88d360dda965eb",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.453055889Z"
+}

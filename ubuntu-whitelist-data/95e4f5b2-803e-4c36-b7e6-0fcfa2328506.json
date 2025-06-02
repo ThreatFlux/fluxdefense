@@ -1,0 +1,15 @@
+{
+  "uuid": "95e4f5b2-803e-4c36-b7e6-0fcfa2328506",
+  "path": "/usr/lib/x86_64-linux-gnu/libgphoto2_port/0.12.2/serial.so",
+  "size": 18592,
+  "modified": "2024-03-31T02:00:03Z",
+  "created": "2025-05-09T05:07:35.856653899Z",
+  "sha256_hash": "256a568d828c821f69d82281b56c0ee6210c5a9abb8def8be64ef7e77226a27e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.334203249Z"
+}

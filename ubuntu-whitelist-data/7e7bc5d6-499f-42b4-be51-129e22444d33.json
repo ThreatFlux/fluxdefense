@@ -1,0 +1,15 @@
+{
+  "uuid": "7e7bc5d6-499f-42b4-be51-129e22444d33",
+  "path": "/lib/llvm-18/bin/llvm-cvtres",
+  "size": 31448,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:34.910489059Z",
+  "sha256_hash": "65eed41a3aa9a9570bf330f26a445a47811838764335346e8b7e11fe8f9ec900",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.670600206Z"
+}

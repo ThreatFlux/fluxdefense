@@ -1,0 +1,15 @@
+{
+  "uuid": "7a490ed2-ee6e-47cd-9f34-46399d4eff72",
+  "path": "/usr/sbin/ntfsresize",
+  "size": 63888,
+  "modified": "2024-04-08T14:46:29Z",
+  "created": "2025-05-09T05:07:38.371615521Z",
+  "sha256_hash": "78160f3ebbb9ac878c3c727a6eb1c0a3015136ab207113f3a7de07ecce480eed",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.362804828Z"
+}

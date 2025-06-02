@@ -1,0 +1,17 @@
+{
+  "uuid": "9670290c-56a0-4018-b691-acb2eb39dcc9",
+  "path": "/lib/grub/x86_64-efi/part_dvh.mod",
+  "size": 2248,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.837708018Z",
+  "sha256_hash": "17dbcdb3fe9acd8dedb3450833d956807cb26924e2e92e9a072e56d7050757ae",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.020806149Z"
+}

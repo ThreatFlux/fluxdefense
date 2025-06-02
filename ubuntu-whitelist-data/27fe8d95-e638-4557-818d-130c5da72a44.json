@@ -1,0 +1,15 @@
+{
+  "uuid": "27fe8d95-e638-4557-818d-130c5da72a44",
+  "path": "/sbin/sslsniff-bpfcc",
+  "size": 14013,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.523499148Z",
+  "sha256_hash": "d4b338637cb8840e7cb76fd98079bb0837730655fc79fc35b34de33ff7005c57",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.171249073Z"
+}

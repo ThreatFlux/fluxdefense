@@ -1,0 +1,17 @@
+{
+  "uuid": "5b7668aa-4b07-4a8f-a2f1-c25c16caafbc",
+  "path": "/lib/firmware/ea/layla24_1_asic.fw.zst",
+  "size": 14702,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.529541854Z",
+  "sha256_hash": "69239ce0f6e950ccdb522022be532d65727ed203392ac82134d86d2b7664f1cd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.607215520Z"
+}

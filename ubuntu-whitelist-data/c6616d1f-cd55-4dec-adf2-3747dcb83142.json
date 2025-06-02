@@ -1,0 +1,17 @@
+{
+  "uuid": "c6616d1f-cd55-4dec-adf2-3747dcb83142",
+  "path": "/usr/lib/x86_64-linux-gnu/libetonyek-0.1.so.1.0.10",
+  "size": 2453176,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.379752735Z",
+  "sha256_hash": "c9908ba50a84e758522f78624bbf5289ade657b69587bab2264a0b64434cf70f",
+  "file_type": {
+    "Other": "10"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.366769921Z"
+}

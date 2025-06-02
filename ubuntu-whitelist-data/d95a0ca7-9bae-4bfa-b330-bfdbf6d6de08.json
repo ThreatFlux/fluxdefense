@@ -1,0 +1,17 @@
+{
+  "uuid": "d95a0ca7-9bae-4bfa-b330-bfdbf6d6de08",
+  "path": "/usr/lib/x86_64-linux-gnu/libonig.so.5.4.0",
+  "size": 614208,
+  "modified": "2024-04-08T16:06:15Z",
+  "created": "2025-05-09T05:07:31.757716448Z",
+  "sha256_hash": "373f89146c922f948c69197f80a9b321a2689666de1b70ca3cee09e6f765fa42",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.327392107Z"
+}

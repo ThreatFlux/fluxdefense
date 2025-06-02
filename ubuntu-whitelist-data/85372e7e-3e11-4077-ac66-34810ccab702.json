@@ -1,0 +1,15 @@
+{
+  "uuid": "85372e7e-3e11-4077-ac66-34810ccab702",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/asset/analyze_org_policy_governed_assets.py",
+  "size": 3450,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.715932227Z",
+  "sha256_hash": "dfa41b28cc5638531b5e5274554d6cc58acebf27afb0b105efb6456f2ddb3a11",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.772643974Z"
+}

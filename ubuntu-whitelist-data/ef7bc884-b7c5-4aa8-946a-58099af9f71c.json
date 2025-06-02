@@ -1,0 +1,17 @@
+{
+  "uuid": "ef7bc884-b7c5-4aa8-946a-58099af9f71c",
+  "path": "/lib/systemd/catalog/systemd.sr.catalog",
+  "size": 10414,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.509779304Z",
+  "sha256_hash": "daa5e3e4be3064fe97a227426c49299b4d4a33ce71835f37e7c1d854982cf82a",
+  "file_type": {
+    "Other": "catalog"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.185405729Z"
+}

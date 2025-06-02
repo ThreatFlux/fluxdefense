@@ -1,0 +1,17 @@
+{
+  "uuid": "a07d39ef-f1d5-4fb9-bafa-63fe0081ddc7",
+  "path": "/lib/systemd/system/emergency.target",
+  "size": 479,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "b13aeda793b8902172ffcd41ddf880d4f567d8222b5dddee3ff349201e7c7a58",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.114913611Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b5a7dd12-f6c8-4060-b858-25af7724e05a",
+  "path": "/lib/firmware/nvidia/ga107/gr/NET_img.bin.zst",
+  "size": 68807,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.936536216Z",
+  "sha256_hash": "3cd64c588d46ee785fd210325edcfddf891782f6dd818438518e69f08a285c98",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.444367694Z"
+}

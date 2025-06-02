@@ -1,0 +1,15 @@
+{
+  "uuid": "83737953-e1e4-4503-a548-d79578b6ad54",
+  "path": "/usr/lib/x86_64-linux-gnu/spa-0.2/bluez5/libspa-codec-bluez5-ldac.so",
+  "size": 43320,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.285853656Z",
+  "sha256_hash": "1172c90015a47b77d30c1386374654130a7fc61a14c30a5e649350127882d81e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:13.933094920Z"
+}

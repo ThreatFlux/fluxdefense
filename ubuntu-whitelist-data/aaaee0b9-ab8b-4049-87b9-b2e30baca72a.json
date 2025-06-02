@@ -1,0 +1,15 @@
+{
+  "uuid": "aaaee0b9-ab8b-4049-87b9-b2e30baca72a",
+  "path": "/lib/llvm-18/bin/llvm-PerfectShuffle",
+  "size": 18808,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:34.907489098Z",
+  "sha256_hash": "95ee884c16eb344601bbfb27191da5838e3c6be75c64c3568311c74e04350f37",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.871668485Z"
+}

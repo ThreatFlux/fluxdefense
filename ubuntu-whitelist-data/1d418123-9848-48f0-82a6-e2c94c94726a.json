@@ -1,0 +1,17 @@
+{
+  "uuid": "1d418123-9848-48f0-82a6-e2c94c94726a",
+  "path": "/usr/lib/shim/fbx64.efi",
+  "size": 88344,
+  "modified": "2024-04-04T12:39:00Z",
+  "created": "2025-05-09T05:08:38.652695580Z",
+  "sha256_hash": "8f57751703470403ff7377c26a90a810eba9f6db36f262ac6ad94d132ddc5a60",
+  "file_type": {
+    "Other": "efi"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.366941601Z"
+}

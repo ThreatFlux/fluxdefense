@@ -1,0 +1,15 @@
+{
+  "uuid": "ac4115f9-5300-483a-85d9-551259455d1d",
+  "path": "/lib/i386-linux-gnu/gconv/ISO646.so",
+  "size": 42380,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.282663385Z",
+  "sha256_hash": "d1972e7e4d2e4b89b2a3d383769facb016097cebec8f20a461240c0f3ecdbd4e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.783577066Z"
+}

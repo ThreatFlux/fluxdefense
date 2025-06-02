@@ -1,0 +1,17 @@
+{
+  "uuid": "2c769489-d230-4b4f-a77a-bf8e4e1b6da5",
+  "path": "/lib/llvm-18/include/clang-tidy/readability/BracesAroundStatementsCheck.h",
+  "size": 2429,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "7990e1ed28540139adab8bc52fb1a95c75c6d9a0299dc7cb4d989ab40f6a9650",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.924879636Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "6264e89a-f6da-457c-9094-1cb8962e1144",
+  "path": "/bin/dh_installsystemd",
+  "size": 14526,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.514341255Z",
+  "sha256_hash": "8c754e409124dcb6843667f999cbf20a2370bcbd57b7b6e4d8962ccc30b617a0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.429843691Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "8bc34f39-0e9c-42b9-8d7a-5950058d033e",
+  "path": "/usr/lib/x86_64-linux-gnu/rhythmbox/plugins/generic-player/libgeneric-player.so",
+  "size": 76088,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:36.989636610Z",
+  "sha256_hash": "6e540f6f54f399d326a2abe468facf6ee70904607e3d5019b4161930d67cf3cf",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.581301886Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "4d074318-098b-41c2-aa81-75d9fdc5a00b",
+  "path": "/usr/lib/x86_64-linux-gnu/libhpdiscovery.so.0.0.1",
+  "size": 22680,
+  "modified": "2024-03-31T07:39:41Z",
+  "created": "2025-05-09T05:07:30.181740497Z",
+  "sha256_hash": "2e0fcdf845612ac5141f03a5c1abb35bfee5c1d33e2c28818badf6af6a703ecc",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.133631078Z"
+}

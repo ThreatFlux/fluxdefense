@@ -1,0 +1,17 @@
+{
+  "uuid": "064e8670-02de-4d9d-8d5e-c61e548c879c",
+  "path": "/lib/firmware/nvidia/tu116/acr/ucode_unload.bin.zst",
+  "size": 10089,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.960535884Z",
+  "sha256_hash": "8519cb51987af7b203d46ea02135ca75bbcff2e2b7424199c41ee6a166780b84",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.430739971Z"
+}

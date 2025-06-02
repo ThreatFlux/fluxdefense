@@ -1,0 +1,15 @@
+{
+  "uuid": "ad37fc16-2375-4b7c-a7b4-80e7b038de67",
+  "path": "/usr/lib/python3/dist-packages/apt/__init__.py",
+  "size": 1391,
+  "modified": "2025-01-27T11:40:02Z",
+  "created": "2025-05-09T05:07:26.499796682Z",
+  "sha256_hash": "97c13d48d0342137d14eec2ba2c934fc4c163af0ae3afa4a64d7da17f3a5012b",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.736571963Z"
+}

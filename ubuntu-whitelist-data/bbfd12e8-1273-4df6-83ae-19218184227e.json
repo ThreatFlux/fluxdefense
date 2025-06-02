@@ -1,0 +1,17 @@
+{
+  "uuid": "bbfd12e8-1273-4df6-83ae-19218184227e",
+  "path": "/lib/firmware/rtlwifi/rtl8723bu_ap_wowlan.bin.zst",
+  "size": 13662,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.068534388Z",
+  "sha256_hash": "8b84f61fe8b0d0a223f726e8a6dc508c65bf80f23cc3e55b03d9237a39db449e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.480261196Z"
+}

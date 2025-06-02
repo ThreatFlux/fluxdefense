@@ -1,0 +1,15 @@
+{
+  "uuid": "d299d19f-8ce4-4a86-a889-abfbcc01e869",
+  "path": "/usr/lib/cups/backend/bluetooth",
+  "size": 47312,
+  "modified": "2025-02-25T06:11:15Z",
+  "created": "2025-05-09T05:24:27.863965892Z",
+  "sha256_hash": "7e2d8368a9d50dccf70ff22e672f5eb3da5252c2b62933d4bef6514813d63b91",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.010349272Z"
+}

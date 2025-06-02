@@ -1,0 +1,15 @@
+{
+  "uuid": "0a947b50-6c80-4ccf-9d92-6b518ef6e1ac",
+  "path": "/lib/llvm-18/lib/libclangPseudoCLI.a",
+  "size": 21874,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.745530737Z",
+  "sha256_hash": "59dc902af80c4748926caa051cf3917ea246b83172a6cf47069c3c61fdfb8246",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.590477554Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "1d5241ba-3fcf-4c49-85f2-c72428c279f3",
+  "path": "/usr/lib/llvm-18/lib/libLLVMPerfJITEvents.a",
+  "size": 33932,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.969461941Z",
+  "sha256_hash": "68a4a78687f1832f0bae71262b5b0d8177f3be071ab8ecb2a2e22818dbabbb3b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:29.103649630Z"
+}

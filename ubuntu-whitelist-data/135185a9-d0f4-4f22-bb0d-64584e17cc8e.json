@@ -1,0 +1,17 @@
+{
+  "uuid": "135185a9-d0f4-4f22-bb0d-64584e17cc8e",
+  "path": "/usr/lib/udev/rules.d/80-mm-candidate.rules",
+  "size": 1614,
+  "modified": "2024-02-19T14:58:32Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "82456922f749da331225a6e0d06ba79fa5349648ccbb1e3a9424d6ba339321f9",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.101945831Z"
+}

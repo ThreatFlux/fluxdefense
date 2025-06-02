@@ -1,0 +1,17 @@
+{
+  "uuid": "1757e4de-19ae-45b0-b5da-960af3ada9c8",
+  "path": "/usr/lib/modules/6.11.0-25-generic/kernel/lib/memory-notifier-error-inject.ko.zst",
+  "size": 2572,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.134459300Z",
+  "sha256_hash": "fa090d85f2c655aeccbedb3d4c72b72ecf64e62f79bf10b7ae1db3e394af9d8a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.041167676Z"
+}

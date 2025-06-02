@@ -1,0 +1,17 @@
+{
+  "uuid": "bb872439-27ad-4d62-9266-9a1833181abb",
+  "path": "/usr/lib/firmware/ath11k/IPQ6018/hw1.0/board-2.bin.zst",
+  "size": 11152,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.449542962Z",
+  "sha256_hash": "22e1fefae5e9e31e5d2f907cc8795f717d79e1f51504043cfd8cc96af137d2ad",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:58.144408615Z"
+}

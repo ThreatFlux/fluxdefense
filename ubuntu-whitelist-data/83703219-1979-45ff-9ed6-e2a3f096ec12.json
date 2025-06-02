@@ -1,0 +1,17 @@
+{
+  "uuid": "83703219-1979-45ff-9ed6-e2a3f096ec12",
+  "path": "/usr/lib/x86_64-linux-gnu/libXt.so.6.0.0",
+  "size": 433544,
+  "modified": "2024-03-31T02:22:07Z",
+  "created": "2025-05-09T05:07:29.061757588Z",
+  "sha256_hash": "267143b6258b866a522e9cff8db1e11ed95acb4fe23c56d9224e71afe617b0b8",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.191577578Z"
+}

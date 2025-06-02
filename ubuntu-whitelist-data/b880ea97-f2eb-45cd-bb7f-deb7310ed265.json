@@ -1,0 +1,17 @@
+{
+  "uuid": "b880ea97-f2eb-45cd-bb7f-deb7310ed265",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/google/TodoCommentCheck.h",
+  "size": 1319,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "63fae51b254c242923664b1e3603927d26b98950053f1990bb7f265092ba3a16",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.272281735Z"
+}

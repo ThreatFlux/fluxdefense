@@ -1,0 +1,17 @@
+{
+  "uuid": "2ed17e82-f3fe-4e24-b7be-ba9420e59f6b",
+  "path": "/lib/x86_64-linux-gnu/libnfsidmap.so.1.0.0",
+  "size": 39088,
+  "modified": "2024-10-02T12:40:50Z",
+  "created": "2025-05-09T05:07:31.711717150Z",
+  "sha256_hash": "8f924d82a195336bc701407bb21f806672813cd82f0ad53906664ac96b8c230f",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.991522596Z"
+}

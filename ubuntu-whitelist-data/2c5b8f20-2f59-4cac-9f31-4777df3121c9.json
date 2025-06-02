@@ -1,0 +1,17 @@
+{
+  "uuid": "2c5b8f20-2f59-4cac-9f31-4777df3121c9",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/finclude/ieee_exceptions.mod",
+  "size": 2327,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:14.305355382Z",
+  "sha256_hash": "66769460cbb8d85bfb94435981abe17752fd2b702ff9f2fc3a31f3912d6edd33",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.582599695Z"
+}

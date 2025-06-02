@@ -1,0 +1,15 @@
+{
+  "uuid": "424e4491-2f25-46b8-a3cb-915ed8681b76",
+  "path": "/usr/bin/purge-old-kernels",
+  "size": 1149,
+  "modified": "2024-02-10T17:03:36Z",
+  "created": "2025-05-23T03:43:49.241694174Z",
+  "sha256_hash": "6f93b0b65b24d69b12a67db6605d9d711c9931847906f682ebeeb4d838b19677",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:11.846768569Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "12e88fa4-40f1-4bec-978c-9c191d5cdf1b",
+  "path": "/usr/lib/udev/rules.d/77-mm-ublox-port-types.rules",
+  "size": 5057,
+  "modified": "2024-02-19T14:58:32Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "654d065bbbebcd246adec6e4687a49eceb42d0b8794201ef349fb0230cabe228",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.100623863Z"
+}

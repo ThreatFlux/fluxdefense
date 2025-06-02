@@ -1,0 +1,15 @@
+{
+  "uuid": "60e19d39-7847-4ee3-881b-5ab7518b7753",
+  "path": "/sbin/rubyobjnew-bpfcc",
+  "size": 56,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "1abceede5701dd488a78afb84a3f36e67c7e7e5057da64f1f088830ad2cd31c1",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.042338318Z"
+}

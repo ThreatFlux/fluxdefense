@@ -1,0 +1,17 @@
+{
+  "uuid": "f73b927b-7286-47c2-9d00-5ce5be0f25b7",
+  "path": "/lib/llvm-18/include/clang/Basic/BuiltinsXCore.def",
+  "size": 846,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.526533621Z",
+  "sha256_hash": "bbca4eb4e1234c88785270c5627ff6776d8fd9e30088b42402dc44ca26887ff4",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.122469786Z"
+}

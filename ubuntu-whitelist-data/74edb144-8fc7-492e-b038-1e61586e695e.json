@@ -1,0 +1,15 @@
+{
+  "uuid": "74edb144-8fc7-492e-b038-1e61586e695e",
+  "path": "/usr/bin/foo2oak-wrapper",
+  "size": 17871,
+  "modified": "2024-04-10T21:38:27Z",
+  "created": "2025-05-09T05:07:19.223907709Z",
+  "sha256_hash": "05b37ede3cd4f723424d8e64e4fbdcc19e091c085407d6c729ccbcd4097cfbb8",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.652558040Z"
+}

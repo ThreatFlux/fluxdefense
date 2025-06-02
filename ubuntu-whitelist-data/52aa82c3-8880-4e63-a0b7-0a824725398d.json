@@ -1,0 +1,15 @@
+{
+  "uuid": "52aa82c3-8880-4e63-a0b7-0a824725398d",
+  "path": "/lib/x86_64-linux-gnu/rsyslog/imptcp.so",
+  "size": 53304,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.546922251Z",
+  "sha256_hash": "f3063314856bf44d4455717c7aa25c4228f297d1fe6156d5d0ebed510259f688",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.858423649Z"
+}

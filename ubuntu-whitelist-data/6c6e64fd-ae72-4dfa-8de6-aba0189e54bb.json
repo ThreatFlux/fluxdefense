@@ -1,0 +1,17 @@
+{
+  "uuid": "6c6e64fd-ae72-4dfa-8de6-aba0189e54bb",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/libswscale.pc",
+  "size": 331,
+  "modified": "2024-04-05T17:28:52Z",
+  "created": "2025-05-12T13:32:32.630099010Z",
+  "sha256_hash": "8d0051dd7c774168e5cf0354fc5b59d68e86a3e8586cd74f1ca124c2cfa69005",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.057149116Z"
+}

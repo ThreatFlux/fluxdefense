@@ -1,0 +1,17 @@
+{
+  "uuid": "67ec6810-7dbc-4635-bae6-fe80b35a0ec1",
+  "path": "/lib/x86_64-linux-gnu/perl-base/Exporter.pm",
+  "size": 2336,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.349578643Z",
+  "sha256_hash": "98e5e6fdc6e14139741dc91db55803b4edd60360fd5e65ce0682c2ee81ad0860",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.926205582Z"
+}

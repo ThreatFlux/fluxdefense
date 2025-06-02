@@ -1,0 +1,17 @@
+{
+  "uuid": "69ab0d99-86a0-4357-aa1d-6ce707ebb5ec",
+  "path": "/lib/llvm-18/include/clang-c/CXCompilationDatabase.h",
+  "size": 5228,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.554533252Z",
+  "sha256_hash": "38207d300ba333f08ef0c4eb75d265e2a85b0dff2376d1687a73f81e6cab4b76",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.890467440Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "41a06421-1c4c-40f4-a21b-5699f31f0f2c",
+  "path": "/lib/llvm-18/lib/libclangTidyHICPPModule.a",
+  "size": 490652,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.869529104Z",
+  "sha256_hash": "81568e035fcfec8724e87c419d264325b51fc88cb470f65b792a187f5aad9632",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:42.335498303Z"
+}

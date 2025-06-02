@@ -1,0 +1,15 @@
+{
+  "uuid": "e34ce6e5-74b2-4e6b-9fb0-03263627c29c",
+  "path": "/bin/kmodsign",
+  "size": 18888,
+  "modified": "2024-04-08T14:49:32Z",
+  "created": "2025-05-09T05:07:20.086894540Z",
+  "sha256_hash": "cc3c0e4db53706078dbb76e686d2fe27d024b6486c5fea084de2485c1f60e18d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.283714796Z"
+}

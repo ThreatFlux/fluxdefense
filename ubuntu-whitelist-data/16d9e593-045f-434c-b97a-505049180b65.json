@@ -1,0 +1,17 @@
+{
+  "uuid": "16d9e593-045f-434c-b97a-505049180b65",
+  "path": "/usr/lib/libreoffice/program/pythonloader.unorc",
+  "size": 182,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:18.878250021Z",
+  "sha256_hash": "3442248b82f806e221ef2ff8c328b575b72093dd26a31f76f4c95cfcf2eacaf1",
+  "file_type": {
+    "Other": "unorc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:43.514980680Z"
+}

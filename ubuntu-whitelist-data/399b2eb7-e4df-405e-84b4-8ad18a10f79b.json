@@ -1,0 +1,17 @@
+{
+  "uuid": "399b2eb7-e4df-405e-84b4-8ad18a10f79b",
+  "path": "/usr/lib/firmware/cxgb3/ael2020_twx_edc.bin.zst",
+  "size": 1245,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.511542103Z",
+  "sha256_hash": "ab4ae78f4574a790d54858ee79a372c4801e571124f62fe03d39321f2c33d6ef",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.519017320Z"
+}

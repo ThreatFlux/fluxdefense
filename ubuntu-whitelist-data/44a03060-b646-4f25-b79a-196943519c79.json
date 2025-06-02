@@ -1,0 +1,15 @@
+{
+  "uuid": "44a03060-b646-4f25-b79a-196943519c79",
+  "path": "/usr/lib/python3/dist-packages/_cffi_backend.cpython-312-x86_64-linux-gnu.so",
+  "size": 194512,
+  "modified": "2024-04-08T16:16:53Z",
+  "created": "2025-05-09T05:07:26.315799490Z",
+  "sha256_hash": "5401195ab2db5412e46a2f4b1dcda10c60d2cc282933720cf2524668d445e7f0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.493434715Z"
+}

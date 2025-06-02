@@ -1,0 +1,17 @@
+{
+  "uuid": "b338b27c-adac-4913-a4a2-799da877dae5",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/cert/SetLongJmpCheck.h",
+  "size": 1382,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "3dfec68e64f7bfaff2585edef7be9b5731abc590bfefa798d07fadbadb400bc3",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.264451751Z"
+}

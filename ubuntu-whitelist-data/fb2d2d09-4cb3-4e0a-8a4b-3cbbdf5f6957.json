@@ -1,0 +1,17 @@
+{
+  "uuid": "fb2d2d09-4cb3-4e0a-8a4b-3cbbdf5f6957",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/Sys/Hostname.pm",
+  "size": 3666,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.519591312Z",
+  "sha256_hash": "32f22eaa4cce5131428455eec86fe4e2221d4214f36227af9bde87b26fc97a9a",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.599142375Z"
+}

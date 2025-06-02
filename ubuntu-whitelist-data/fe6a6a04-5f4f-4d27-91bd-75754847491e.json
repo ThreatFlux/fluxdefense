@@ -1,0 +1,15 @@
+{
+  "uuid": "fe6a6a04-5f4f-4d27-91bd-75754847491e",
+  "path": "/lib/llvm-18/lib/libLLVMTextAPIBinaryReader.a",
+  "size": 75582,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.037461045Z",
+  "sha256_hash": "f4e3cc2e483c6aa3e5e37243b8fbee83ba52bc91117c234fd41eb9e198778c71",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.324326702Z"
+}

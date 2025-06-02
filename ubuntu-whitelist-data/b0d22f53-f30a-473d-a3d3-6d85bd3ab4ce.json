@@ -1,0 +1,17 @@
+{
+  "uuid": "b0d22f53-f30a-473d-a3d3-6d85bd3ab4ce",
+  "path": "/lib/firmware/qcom/a530_pfp.fw.zst",
+  "size": 6609,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.969535759Z",
+  "sha256_hash": "dd789611e62d5378817376889afe4fed093284da334914a9ec3368be1d8ef0c3",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.905058297Z"
+}

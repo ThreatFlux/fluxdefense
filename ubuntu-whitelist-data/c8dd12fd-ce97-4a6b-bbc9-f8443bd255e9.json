@@ -1,0 +1,17 @@
+{
+  "uuid": "c8dd12fd-ce97-4a6b-bbc9-f8443bd255e9",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/llvm/HeaderGuardCheck.h",
+  "size": 1558,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "2ec1c68a4c430da41578337b7995e74d4095b4a1566d87d61e0dc3f7ded28286",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.253148087Z"
+}

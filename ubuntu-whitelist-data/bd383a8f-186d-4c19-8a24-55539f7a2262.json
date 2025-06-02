@@ -1,0 +1,15 @@
+{
+  "uuid": "bd383a8f-186d-4c19-8a24-55539f7a2262",
+  "path": "/lib/python3.12/test/mp_fork_bomb.py",
+  "size": 448,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.000551657Z",
+  "sha256_hash": "e800ce1338756971d9db568e1a804f84a720079b23d791bdb5056049ce86ae56",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.548532536Z"
+}

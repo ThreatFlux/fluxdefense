@@ -1,0 +1,15 @@
+{
+  "uuid": "6a77f862-6afa-44a3-9102-687339a75a01",
+  "path": "/usr/lib/x86_64-linux-gnu/grilo-0.3/libgrlluafactory.so",
+  "size": 145576,
+  "modified": "2025-03-17T11:05:34Z",
+  "created": "2025-05-12T03:14:18.438811212Z",
+  "sha256_hash": "ff2e6f8d132831fcde6f6c14ab94e5fc00e151da8652b1a107b3d45e4ee9c348",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.512888851Z"
+}

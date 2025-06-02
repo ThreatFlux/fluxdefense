@@ -1,0 +1,17 @@
+{
+  "uuid": "c111cd70-1925-4dc3-8da1-c9693015deeb",
+  "path": "/lib/systemd/system/timers.target",
+  "size": 458,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "c0ef1e24adda9b81ca8439a6a4060aeb730fbc3abf55e07e59852911cf523aa6",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.107822512Z"
+}

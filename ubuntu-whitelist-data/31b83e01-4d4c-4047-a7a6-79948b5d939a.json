@@ -1,0 +1,17 @@
+{
+  "uuid": "31b83e01-4d4c-4047-a7a6-79948b5d939a",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/abseil/CleanupCtadCheck.h",
+  "size": 1256,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.555533239Z",
+  "sha256_hash": "c79d6a5d54d9722e081bec171a6f02d5f7ef9ebbda97a8588647c32f9e4149e9",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.244170139Z"
+}

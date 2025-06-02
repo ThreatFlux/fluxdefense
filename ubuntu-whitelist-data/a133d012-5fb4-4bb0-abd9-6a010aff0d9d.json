@@ -1,0 +1,17 @@
+{
+  "uuid": "a133d012-5fb4-4bb0-abd9-6a010aff0d9d",
+  "path": "/usr/lib/llvm-18/include/clang/AST/ParentMapContext.h",
+  "size": 4574,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.519533713Z",
+  "sha256_hash": "ae447b1edf6ba16690072755fbc913aad03e6be4ae9f72c91cb4b38476d1fd9f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.392342960Z"
+}

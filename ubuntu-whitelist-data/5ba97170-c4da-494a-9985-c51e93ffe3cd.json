@@ -1,0 +1,17 @@
+{
+  "uuid": "5ba97170-c4da-494a-9985-c51e93ffe3cd",
+  "path": "/usr/lib/firmware/meson/vdec/g12a_h264.bin.zst",
+  "size": 13512,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.790538238Z",
+  "sha256_hash": "41cbc95bfff59744f6f2bd1326eacfa978bba21e9e2a7dbfc31406e27ebb3063",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.493498607Z"
+}

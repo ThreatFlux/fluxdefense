@@ -1,0 +1,17 @@
+{
+  "uuid": "d1ecba8a-2c13-4bc4-b5ab-983dbad23c86",
+  "path": "/usr/lib/llvm-18/include/clang/AST/TypeOrdering.h",
+  "size": 2402,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.521533687Z",
+  "sha256_hash": "d43438fae300c7d07b5e82cb591a98c060318405dcaaed42ad622c38c060fd75",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.412133439Z"
+}

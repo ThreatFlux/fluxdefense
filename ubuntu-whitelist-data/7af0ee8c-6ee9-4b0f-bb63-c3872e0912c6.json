@@ -1,0 +1,17 @@
+{
+  "uuid": "7af0ee8c-6ee9-4b0f-bb63-c3872e0912c6",
+  "path": "/lib/firmware/wil6210.fw.zst",
+  "size": 237288,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.084534166Z",
+  "sha256_hash": "2c0264f6280d5b5d5b5df53a9274148b3dbfd729251da74abcc88b98fdf727e7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.312800501Z"
+}

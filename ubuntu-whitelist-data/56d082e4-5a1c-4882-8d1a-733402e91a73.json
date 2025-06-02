@@ -1,0 +1,17 @@
+{
+  "uuid": "56d082e4-5a1c-4882-8d1a-733402e91a73",
+  "path": "/lib/udev/rules.d/71-nvidia.rules",
+  "size": 2053,
+  "modified": "2025-01-21T11:52:18Z",
+  "created": "2025-05-09T12:56:03.410986394Z",
+  "sha256_hash": "0a6e1b3ba1c875d14402a1e136d16bf4db60da779096129976257a9bd5b0398e",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.245942936Z"
+}

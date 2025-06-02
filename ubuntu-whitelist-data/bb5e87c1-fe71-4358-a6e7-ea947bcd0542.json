@@ -1,0 +1,17 @@
+{
+  "uuid": "bb5e87c1-fe71-4358-a6e7-ea947bcd0542",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/plugin/libcp1plugin.so.0.0.0",
+  "size": 126944,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.641381281Z",
+  "sha256_hash": "41aaca430fd6424d52ecf249200acd86af808b4695ae4744f83ed0ce88fe9756",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.130694193Z"
+}

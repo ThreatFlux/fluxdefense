@@ -1,0 +1,17 @@
+{
+  "uuid": "82660619-5bda-4a39-8e96-312f72343a4a",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-suteio.adb",
+  "size": 4753,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.059345024Z",
+  "sha256_hash": "48ba0be42bb7babaa45fc523600af86ceec63be56f5ca3b653743db2ba289888",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.890028599Z"
+}

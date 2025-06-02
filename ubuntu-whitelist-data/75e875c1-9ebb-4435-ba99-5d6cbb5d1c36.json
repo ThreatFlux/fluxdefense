@@ -1,0 +1,17 @@
+{
+  "uuid": "75e875c1-9ebb-4435-ba99-5d6cbb5d1c36",
+  "path": "/usr/lib/llvm-18/include/clang/AST/CurrentSourceLocExprScope.h",
+  "size": 2508,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.516533752Z",
+  "sha256_hash": "88871319be01cf3838459358cb26c4d3670ef635d0deaec569a67b96dd78e56f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.347835860Z"
+}

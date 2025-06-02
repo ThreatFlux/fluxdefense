@@ -1,0 +1,17 @@
+{
+  "uuid": "1dbaf41c-d089-4893-8fd5-106ff2a1397b",
+  "path": "/usr/share/applications/gnome-initial-setup.desktop",
+  "size": 453,
+  "modified": "2024-08-12T18:30:31Z",
+  "created": "2025-05-09T05:07:38.595612103Z",
+  "sha256_hash": "dcb706004a3bfdc066f724d8daa9418ad28c0acf463837d753e810c42a920eaf",
+  "file_type": {
+    "Other": "desktop"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.551893369Z"
+}

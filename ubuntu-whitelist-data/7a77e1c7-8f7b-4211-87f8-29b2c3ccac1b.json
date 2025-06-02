@@ -1,0 +1,17 @@
+{
+  "uuid": "7a77e1c7-8f7b-4211-87f8-29b2c3ccac1b",
+  "path": "/lib/x86_64-linux-gnu/libunity-extras.so.9.0.2",
+  "size": 56480,
+  "modified": "2024-03-31T00:09:17Z",
+  "created": "2025-05-09T05:07:32.342707522Z",
+  "sha256_hash": "686f30064424a312803970a5ddf956d72cffa707b8cabdf5588c86749f2c64c9",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.042556544Z"
+}

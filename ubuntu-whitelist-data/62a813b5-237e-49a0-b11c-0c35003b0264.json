@@ -1,0 +1,17 @@
+{
+  "uuid": "62a813b5-237e-49a0-b11c-0c35003b0264",
+  "path": "/lib/systemd/user/systemd-tmpfiles-clean.timer",
+  "size": 541,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.526779521Z",
+  "sha256_hash": "7b4675a101566b70c56ca2b9b650b6c59ef24c4a829178872f130f998fdbea01",
+  "file_type": {
+    "Other": "timer"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.146827388Z"
+}

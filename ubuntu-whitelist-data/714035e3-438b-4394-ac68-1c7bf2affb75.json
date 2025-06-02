@@ -1,0 +1,17 @@
+{
+  "uuid": "714035e3-438b-4394-ac68-1c7bf2affb75",
+  "path": "/usr/lib/firmware/qca/msnv11.b0a.zst",
+  "size": 2492,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.967535787Z",
+  "sha256_hash": "d1565be9996532bec76b7614fffa0ee0cd50709bb135aba7d01e6fe76e655bf9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.446071465Z"
+}

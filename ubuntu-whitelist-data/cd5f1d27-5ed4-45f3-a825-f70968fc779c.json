@@ -1,0 +1,17 @@
+{
+  "uuid": "cd5f1d27-5ed4-45f3-a825-f70968fc779c",
+  "path": "/usr/lib/x86_64-linux-gnu/perl-base/IO/Pipe.pm",
+  "size": 3414,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.350578627Z",
+  "sha256_hash": "73fbce65322100e484c609d0ece0a1bd3fcdf2f1cb3cbb05440df84084d2ba77",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.747604203Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "47aa9427-02fb-4cd1-807d-740c7dfeeeff",
+  "path": "/usr/lib/x86_64-linux-gnu/rsyslog/imklog.so",
+  "size": 28136,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.546922251Z",
+  "sha256_hash": "8cfee929815fd7aa12bc9cd46dae4e7defefee4e8536fd695a2d26277dc36978",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.180972028Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "731394f3-4b58-4d75-bdcc-6e86c22a4b6f",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/botocore/paginate.py",
+  "size": 27392,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.171941469Z",
+  "sha256_hash": "2c1ce07e3815bc9a3a747996babe7ee817f2e3daaf63c79264bf42cb0d2768cd",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.572664937Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "63a6521e-1669-4807-92f3-0f62a4266dff",
+  "path": "/usr/sbin/spice-vdagentd",
+  "size": 60232,
+  "modified": "2024-04-07T07:23:42Z",
+  "created": "2025-05-09T05:07:38.420614773Z",
+  "sha256_hash": "1c8fea597e062275871cd1c60eeca1220ac0657d0a4664d270ef26e38d634972",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.233016501Z"
+}

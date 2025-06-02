@@ -1,0 +1,15 @@
+{
+  "uuid": "bb9ac84d-baad-4d97-bd7c-f89be86588a5",
+  "path": "/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-tga.so",
+  "size": 18728,
+  "modified": "2024-06-03T16:36:10Z",
+  "created": "2025-05-09T05:07:35.706656188Z",
+  "sha256_hash": "19d073b78d543916bbc05b89640b3bca319cdcf41946cf06c181f13d79ee98b1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.170038040Z"
+}

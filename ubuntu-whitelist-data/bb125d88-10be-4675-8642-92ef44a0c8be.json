@@ -1,0 +1,15 @@
+{
+  "uuid": "bb125d88-10be-4675-8642-92ef44a0c8be",
+  "path": "/usr/sbin/add-shell",
+  "size": 1053,
+  "modified": "2024-03-31T08:47:33Z",
+  "created": "2025-05-09T05:07:38.118619382Z",
+  "sha256_hash": "5f1dfc6dd41bb0ef61e9de280b1ddecc6c3a23fa07a2eea293032fe1e488ea2d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.711311586Z"
+}

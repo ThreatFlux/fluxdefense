@@ -1,0 +1,17 @@
+{
+  "uuid": "62917f1a-68e7-4a05-8bbf-6eb6695316be",
+  "path": "/lib/aspell/en_US-w_accents.multi",
+  "size": 106,
+  "modified": "2020-12-08T01:19:37Z",
+  "created": "2025-05-09T05:07:21.014880380Z",
+  "sha256_hash": "6399e3c236bc708f4550268f6ca61ba4a0d04f8e97854a223fd6d0804471cdfa",
+  "file_type": {
+    "Other": "multi"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.782595978Z"
+}

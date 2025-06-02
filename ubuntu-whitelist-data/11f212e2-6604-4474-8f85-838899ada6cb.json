@@ -1,0 +1,17 @@
+{
+  "uuid": "11f212e2-6604-4474-8f85-838899ada6cb",
+  "path": "/lib/llvm-18/include/clang-tidy/google/AvoidCStyleCastsCheck.h",
+  "size": 1658,
+  "modified": "2024-01-24T12:45:36Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "850f46fc9d5ba2318b511d043f2be99d10cc729d269a9bccd30d0b5fd36fda00",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.916678494Z"
+}

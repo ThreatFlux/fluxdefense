@@ -1,0 +1,17 @@
+{
+  "uuid": "236c7d15-21a8-4be0-816a-3f6167dd6c5c",
+  "path": "/usr/lib/modules/6.11.0-25-generic/modules.alias.bin",
+  "size": 1658029,
+  "modified": "2025-05-09T12:56:07.387093443Z",
+  "created": "2025-05-09T12:56:07.363092782Z",
+  "sha256_hash": "1982496695a2afa608bd06e1479eeb4754856a49dc820a365515ae08a3c4b645",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.975822028Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "8d80626e-a77e-4ea0-bb88-4f32dd47cbbf",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-decima.ali",
+  "size": 1260,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.098344489Z",
+  "sha256_hash": "c5cb20db2ac957ff032a138991628faa3fe6ec2f033ce131008560c33ba2b8cd",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.698994239Z"
+}

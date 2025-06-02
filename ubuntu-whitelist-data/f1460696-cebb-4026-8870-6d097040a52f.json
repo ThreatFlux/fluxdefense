@@ -1,0 +1,17 @@
+{
+  "uuid": "f1460696-cebb-4026-8870-6d097040a52f",
+  "path": "/usr/lib/shim/BOOTX64.CSV",
+  "size": 108,
+  "modified": "2024-04-04T12:39:00Z",
+  "created": "2025-05-09T05:08:38.652695580Z",
+  "sha256_hash": "6add06de471015ad4460964f30fb115e7fdc286da6a527d0643fc7815b728fbf",
+  "file_type": {
+    "Other": "csv"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.421212130Z"
+}

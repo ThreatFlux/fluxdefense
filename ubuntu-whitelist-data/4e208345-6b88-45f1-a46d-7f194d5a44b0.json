@@ -1,0 +1,17 @@
+{
+  "uuid": "4e208345-6b88-45f1-a46d-7f194d5a44b0",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/expat.pc",
+  "size": 289,
+  "modified": "2025-03-28T07:06:29Z",
+  "created": "2025-05-26T18:06:52.064890415Z",
+  "sha256_hash": "d0452bf4ae35e0ff5740bde0d2e18f38ac119d11e41d710960353e41e8d29575",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.055317939Z"
+}

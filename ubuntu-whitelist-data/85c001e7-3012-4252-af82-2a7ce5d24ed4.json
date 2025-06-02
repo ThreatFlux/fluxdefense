@@ -1,0 +1,15 @@
+{
+  "uuid": "85c001e7-3012-4252-af82-2a7ce5d24ed4",
+  "path": "/lib/x86_64-linux-gnu/libgphoto2/2.5.31/ptp2.so",
+  "size": 1154824,
+  "modified": "2024-03-31T02:00:03Z",
+  "created": "2025-05-09T05:07:35.845654067Z",
+  "sha256_hash": "1853aad937f6f72dd5c21288439ec1787e8689915143e3aa6056b956d02d84de",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.950739816Z"
+}

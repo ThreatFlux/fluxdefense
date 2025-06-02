@@ -1,0 +1,15 @@
+{
+  "uuid": "3655bfe3-4f3c-438d-8ca8-2d42f4acbe82",
+  "path": "/lib/x86_64-linux-gnu/rhythmbox/plugins/dbus-media-server/dbus-media-server.plugin",
+  "size": 6865,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:36.988636625Z",
+  "sha256_hash": "21fa135982294885467752f6528d40a722c208f98aea273c97b4be8358e989d8",
+  "file_type": "Bundle",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.307217515Z"
+}

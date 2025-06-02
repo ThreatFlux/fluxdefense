@@ -1,0 +1,17 @@
+{
+  "uuid": "3e5dfdad-2de8-405d-91d2-a2ebc88ec861",
+  "path": "/usr/lib/udev/rules.d/97-hid2hci.rules",
+  "size": 1525,
+  "modified": "2025-02-25T06:11:15Z",
+  "created": "2025-05-09T05:24:15.926810288Z",
+  "sha256_hash": "a30ee87499015d891b1ce6c19d13c2011c9192c0a2da42f94b21b8a9b8de60f3",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.108551327Z"
+}

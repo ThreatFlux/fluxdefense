@@ -1,0 +1,17 @@
+{
+  "uuid": "39e18c21-7eba-4580-b440-ea12ab01bd3f",
+  "path": "/usr/lib/x86_64-linux-gnu/libavformat.so.60.16.100",
+  "size": 2844824,
+  "modified": "2024-04-05T17:28:52Z",
+  "created": "2025-05-09T05:09:23.784006779Z",
+  "sha256_hash": "5f0970c52b7723037a7f6357cc1931879513449f742240fff7c37ceb7175ac9f",
+  "file_type": {
+    "Other": "100"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.544166310Z"
+}

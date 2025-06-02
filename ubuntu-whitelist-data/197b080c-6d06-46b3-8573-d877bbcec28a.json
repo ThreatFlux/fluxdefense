@@ -1,0 +1,15 @@
+{
+  "uuid": "197b080c-6d06-46b3-8573-d877bbcec28a",
+  "path": "/lib/initramfs-tools/bin/gcc_s1-stub",
+  "size": 14104,
+  "modified": "2025-02-07T14:21:59Z",
+  "created": "2025-05-09T05:24:23.780912214Z",
+  "sha256_hash": "6308d2078dd79785a33c435591da6d244d6bb9b4b7ab2682202be1cc17eb9288",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.498526723Z"
+}

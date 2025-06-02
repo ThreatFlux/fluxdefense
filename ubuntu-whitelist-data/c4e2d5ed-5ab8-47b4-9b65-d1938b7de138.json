@@ -1,0 +1,17 @@
+{
+  "uuid": "c4e2d5ed-5ab8-47b4-9b65-d1938b7de138",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/g-traceb.adb",
+  "size": 3113,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.072344846Z",
+  "sha256_hash": "6de96b7131e394950971e3d481054277105d64fc240b747beb7b1667a5c80f37",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.222609677Z"
+}

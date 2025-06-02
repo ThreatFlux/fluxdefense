@@ -1,0 +1,17 @@
+{
+  "uuid": "e791cdb9-7f33-4a8b-9c73-eed33535d5b4",
+  "path": "/usr/lib/systemd/user/org.gnome.SettingsDaemon.Wacom.service",
+  "size": 767,
+  "modified": "2024-04-18T10:59:35Z",
+  "created": "2025-05-09T05:07:28.307769094Z",
+  "sha256_hash": "0190c6c8d20d71a9c2d381db3832e8ad73accf045bbb753fc93454d5bc9a5069",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.494393224Z"
+}

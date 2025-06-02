@@ -1,0 +1,17 @@
+{
+  "uuid": "0c203f4c-f5c8-4663-a968-58007da9bee4",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/cppcoreguidelines/SlicingCheck.h",
+  "size": 1748,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "09d74d248e9d43da95a3e588455b7fb3f86ea090dca605104beca5843cc25ea8",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.249524958Z"
+}

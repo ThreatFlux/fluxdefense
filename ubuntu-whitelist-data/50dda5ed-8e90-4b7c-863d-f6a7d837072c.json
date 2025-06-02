@@ -1,0 +1,15 @@
+{
+  "uuid": "50dda5ed-8e90-4b7c-863d-f6a7d837072c",
+  "path": "/lib/x86_64-linux-gnu/traceevent/plugins/plugin_futex.so",
+  "size": 14120,
+  "modified": "2024-04-03T11:46:23Z",
+  "created": "2025-05-09T05:07:37.304631803Z",
+  "sha256_hash": "b87634122eee3b83c3aba780c0364d22f749f3ecc0bf26da52af3a6636648a9b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.536155883Z"
+}

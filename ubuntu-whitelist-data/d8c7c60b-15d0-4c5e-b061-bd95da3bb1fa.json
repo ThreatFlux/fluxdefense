@@ -1,0 +1,15 @@
+{
+  "uuid": "d8c7c60b-15d0-4c5e-b061-bd95da3bb1fa",
+  "path": "/usr/lib/python3/dist-packages/netaddr/ip/nmap.py",
+  "size": 4078,
+  "modified": "2020-06-22T10:41:23Z",
+  "created": "2025-05-09T05:08:51.410500873Z",
+  "sha256_hash": "e8e1324d2af151436f1197615f4236edcf5a57b18f29fd6824c4f9d2da12feba",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.447451981Z"
+}

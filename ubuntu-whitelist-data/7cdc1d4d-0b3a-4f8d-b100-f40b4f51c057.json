@@ -1,0 +1,15 @@
+{
+  "uuid": "7cdc1d4d-0b3a-4f8d-b100-f40b4f51c057",
+  "path": "/usr/lib/python3/dist-packages/nacl/bindings/crypto_secretstream.py",
+  "size": 11165,
+  "modified": "2025-02-15T08:51:42Z",
+  "created": "2025-05-09T05:07:27.018788763Z",
+  "sha256_hash": "1b4160652d35a80e51cd6ce6e41766b3c632fe5be07590e851860101cb4f9af4",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.390219922Z"
+}

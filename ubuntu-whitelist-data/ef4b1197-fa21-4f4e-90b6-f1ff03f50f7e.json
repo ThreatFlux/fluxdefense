@@ -1,0 +1,15 @@
+{
+  "uuid": "ef4b1197-fa21-4f4e-90b6-f1ff03f50f7e",
+  "path": "/usr/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-longcheer.so",
+  "size": 22800,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.160664520Z",
+  "sha256_hash": "6aac37c18e1dcf144fe5a0b20837aa58881ac54674918834490952f0f81a9ff6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.065691074Z"
+}

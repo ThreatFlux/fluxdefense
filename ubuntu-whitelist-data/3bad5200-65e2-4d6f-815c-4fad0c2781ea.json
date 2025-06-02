@@ -1,0 +1,17 @@
+{
+  "uuid": "3bad5200-65e2-4d6f-815c-4fad0c2781ea",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-strhas.ali",
+  "size": 1123,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.144343857Z",
+  "sha256_hash": "15cbbf8dde45718ef0e43f210c27d5c72b019e849b1846f14cefe49cee548b66",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.474891394Z"
+}

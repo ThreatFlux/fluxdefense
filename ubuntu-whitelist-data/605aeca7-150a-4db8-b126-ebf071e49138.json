@@ -1,0 +1,15 @@
+{
+  "uuid": "605aeca7-150a-4db8-b126-ebf071e49138",
+  "path": "/lib/x86_64-linux-gnu/xtables/libarpt_mangle.so",
+  "size": 14784,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.323631513Z",
+  "sha256_hash": "0c5f55aa61df569eaf42ca2b9ec6fb9af84def47971e3d5064f65ce2b203e077",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.682204287Z"
+}

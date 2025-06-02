@@ -1,0 +1,17 @@
+{
+  "uuid": "f1d42cd0-c597-4e20-8eda-f4fc800b7d01",
+  "path": "/lib/systemd/system/slices.target",
+  "size": 462,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "0b263a5374d07e7871a1f30f41b73ed9d07e8442819c7a609419ea38139513ed",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.107886261Z"
+}

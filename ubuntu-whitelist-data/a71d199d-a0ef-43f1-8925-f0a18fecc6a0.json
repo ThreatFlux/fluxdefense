@@ -1,0 +1,15 @@
+{
+  "uuid": "a71d199d-a0ef-43f1-8925-f0a18fecc6a0",
+  "path": "/usr/libexec/sudo/sudoers.so",
+  "size": 588080,
+  "modified": "2024-04-08T14:50:39Z",
+  "created": "2025-05-09T05:07:38.094619748Z",
+  "sha256_hash": "68bf82e4969a6967a5bef7780fe052c612c33005a490cae7b5069bc82e38d62c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.197307008Z"
+}

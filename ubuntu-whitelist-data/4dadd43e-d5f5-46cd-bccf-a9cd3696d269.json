@@ -1,0 +1,17 @@
+{
+  "uuid": "4dadd43e-d5f5-46cd-bccf-a9cd3696d269",
+  "path": "/bin/perl5.38-x86_64-linux-gnu",
+  "size": 14648,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.484591846Z",
+  "sha256_hash": "4c0536df4ade189f043f392660f499d30fd18f2cc475c66dbe271a924d7e35c0",
+  "file_type": {
+    "Other": "38-x86_64-linux-gnu"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:18.097838558Z"
+}

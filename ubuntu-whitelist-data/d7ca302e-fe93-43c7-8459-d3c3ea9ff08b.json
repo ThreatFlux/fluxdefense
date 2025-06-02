@@ -1,0 +1,17 @@
+{
+  "uuid": "d7ca302e-fe93-43c7-8459-d3c3ea9ff08b",
+  "path": "/lib/llvm-18/include/clang/AST/DeclObjCCommon.h",
+  "size": 1754,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.517533740Z",
+  "sha256_hash": "6435f9571dc1d5b8ebddc8b9ee05673971a5290c6eb302e6e0fab000e61ad270",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.002628409Z"
+}

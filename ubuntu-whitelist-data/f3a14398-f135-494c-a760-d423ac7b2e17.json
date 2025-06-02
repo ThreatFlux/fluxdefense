@@ -1,0 +1,17 @@
+{
+  "uuid": "f3a14398-f135-494c-a760-d423ac7b2e17",
+  "path": "/usr/lib/llvm-18/include/clang/Sema/Sema.h",
+  "size": 665422,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.548533331Z",
+  "sha256_hash": "56f69cbac369f5e07a675a524cea349d124c81358b3549f3dac93c0ae458cab9",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.469665545Z"
+}

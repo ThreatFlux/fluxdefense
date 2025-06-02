@@ -1,0 +1,17 @@
+{
+  "uuid": "09539ea9-5416-4d92-ab29-c21ba33f22a0",
+  "path": "/lib/x86_64-linux-gnu/libhpmud.so.0.0.6",
+  "size": 100584,
+  "modified": "2024-03-31T07:39:41Z",
+  "created": "2025-05-09T05:07:30.181740497Z",
+  "sha256_hash": "12505f1373a413a7bb080ebe8f8d4832f262b0eac7e47832d33394c11aebf63e",
+  "file_type": {
+    "Other": "6"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.166863308Z"
+}

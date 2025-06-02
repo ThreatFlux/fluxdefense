@@ -1,0 +1,17 @@
+{
+  "uuid": "506c6fd0-cb65-473e-ad1b-951d2f51e7e7",
+  "path": "/usr/lib/firmware/mediatek/mt7662_rom_patch.bin.zst",
+  "size": 18019,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.678539790Z",
+  "sha256_hash": "71421b3438d10da963edfeb9dc54e693d333484f1f0666960080f720d5ade0b6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.243877078Z"
+}

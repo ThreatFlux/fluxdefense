@@ -1,0 +1,17 @@
+{
+  "uuid": "bbabd74a-1d66-43c6-b7f9-5b9466f6ec47",
+  "path": "/lib/udev/rules.d/70-libfprint-2.rules",
+  "size": 633,
+  "modified": "2025-03-10T15:54:46Z",
+  "created": "2025-05-09T05:24:30.141996032Z",
+  "sha256_hash": "04f8ccb7e9ff9b83bed3a16b6a6849de357e256d10ff9801b22af0b9b64b6e8c",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.241496581Z"
+}

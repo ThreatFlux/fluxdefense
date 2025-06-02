@@ -1,0 +1,17 @@
+{
+  "uuid": "2a2dd5dd-59c9-4482-bcc8-326f7915da30",
+  "path": "/usr/lib/x86_64-linux-gnu/libgsound.so.0.0.2",
+  "size": 22520,
+  "modified": "2024-03-31T01:16:00Z",
+  "created": "2025-05-09T05:07:30.017743Z",
+  "sha256_hash": "5071f7bb20175b8c32f2ccd0894fb4e4eef79c63ce8565f284ab2450bb1b7f44",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.535930196Z"
+}

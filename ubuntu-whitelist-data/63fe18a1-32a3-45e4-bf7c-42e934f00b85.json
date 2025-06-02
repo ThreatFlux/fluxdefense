@@ -1,0 +1,15 @@
+{
+  "uuid": "63fe18a1-32a3-45e4-bf7c-42e934f00b85",
+  "path": "/usr/lib/python3/dist-packages/apt/package.py",
+  "size": 54580,
+  "modified": "2025-01-27T11:40:02Z",
+  "created": "2025-05-09T05:07:26.501796652Z",
+  "sha256_hash": "ba1441f5f2a573d736c9f9631ca4eff05a4b494c5d7cefca2b824ff8b70b93f6",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.737342746Z"
+}

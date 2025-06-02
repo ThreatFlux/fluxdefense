@@ -1,0 +1,17 @@
+{
+  "uuid": "64d64e4b-af0f-41c2-b3d3-3420f5ac9c13",
+  "path": "/lib/systemd/system/systemd-localed.service",
+  "size": 1213,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "a183e1239a582c373e77cd5d32db2778d0e2972d56fc8debcd53674f77037dcb",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.111614987Z"
+}

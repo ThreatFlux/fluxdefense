@@ -1,0 +1,17 @@
+{
+  "uuid": "79e3858b-2e13-4192-a75d-15f2d19eab19",
+  "path": "/usr/lib/x86_64-linux-gnu/Scrt1.o",
+  "size": 1656,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:08:53.060475691Z",
+  "sha256_hash": "9438d15c4bac893a0e3aad2c2c86ccbceb59d5872bd07101949f237ee1c92a8b",
+  "file_type": {
+    "Other": "o"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.881969324Z"
+}

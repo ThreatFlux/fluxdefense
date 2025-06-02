@@ -1,0 +1,17 @@
+{
+  "uuid": "9d687bd5-994d-4796-b30f-34d9685e7268",
+  "path": "/lib/firmware/qca/apnv10.bin.zst",
+  "size": 517,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.966535801Z",
+  "sha256_hash": "adac583de24fb4c6d6a3d5b256be24a71e5cdfc93aaf208959133af3d90a8fdd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.157708834Z"
+}

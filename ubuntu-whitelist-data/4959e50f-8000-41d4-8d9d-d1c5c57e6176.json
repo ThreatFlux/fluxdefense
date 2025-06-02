@@ -1,0 +1,15 @@
+{
+  "uuid": "4959e50f-8000-41d4-8d9d-d1c5c57e6176",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/libgfortran.a",
+  "size": 5400618,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:14.173357196Z",
+  "sha256_hash": "83ea6bc1781c8d8b03d969352c0894f988e596c6a12dab3af64b21ed7541a674",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.706960672Z"
+}

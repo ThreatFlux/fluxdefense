@@ -1,0 +1,17 @@
+{
+  "uuid": "337d3e48-558e-4ea1-aaf2-20c4637f4c47",
+  "path": "/lib/rsyslog/rsyslog-rotate",
+  "size": 92,
+  "modified": "2025-02-28T12:24:44Z",
+  "created": "2025-05-09T05:24:24.545922238Z",
+  "sha256_hash": "bda9937659b6c0d010e17f53d37911f5e232a020a9a85f5abf0b0099026f8d91",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.068553432Z"
+}

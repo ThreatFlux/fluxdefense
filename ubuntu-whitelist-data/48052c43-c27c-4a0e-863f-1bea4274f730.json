@@ -1,0 +1,15 @@
+{
+  "uuid": "48052c43-c27c-4a0e-863f-1bea4274f730",
+  "path": "/lib/llvm-18/lib/libLLVMMSP430AsmParser.a",
+  "size": 63120,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.926462507Z",
+  "sha256_hash": "18996b0e179e64a46fbcfc7c23090c72316d1fe135ef603a2d53c294600a76cc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:40.490012626Z"
+}

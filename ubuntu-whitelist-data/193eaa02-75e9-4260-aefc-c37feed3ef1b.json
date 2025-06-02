@@ -1,0 +1,17 @@
+{
+  "uuid": "193eaa02-75e9-4260-aefc-c37feed3ef1b",
+  "path": "/lib/x86_64-linux-gnu/libhpip.so.0.0.1",
+  "size": 173800,
+  "modified": "2024-03-31T07:39:41Z",
+  "created": "2025-05-09T05:07:30.181740497Z",
+  "sha256_hash": "2d43bf3b5d1f1f3ad6eb8b08773562bcfdc258125444773431a43c84e69c362d",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.751271628Z"
+}

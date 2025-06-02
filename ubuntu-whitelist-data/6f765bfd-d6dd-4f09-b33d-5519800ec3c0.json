@@ -1,0 +1,15 @@
+{
+  "uuid": "6f765bfd-d6dd-4f09-b33d-5519800ec3c0",
+  "path": "/lib/i386-linux-gnu/libmemusage.so",
+  "size": 17856,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.293663217Z",
+  "sha256_hash": "8c3e57b8bc49149afd049ebcf4e73817da23c8db1724f023f1a971fa0e23f1d6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.211579527Z"
+}

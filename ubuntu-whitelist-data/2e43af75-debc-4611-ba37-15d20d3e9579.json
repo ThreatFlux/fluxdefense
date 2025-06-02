@@ -1,0 +1,15 @@
+{
+  "uuid": "2e43af75-debc-4611-ba37-15d20d3e9579",
+  "path": "/sbin/rtkitctl",
+  "size": 14720,
+  "modified": "2024-04-08T16:18:41Z",
+  "created": "2025-05-09T05:07:38.410614926Z",
+  "sha256_hash": "d2706b27dd3b6c931aaa249ae3daf13a7d033b64b66dbb2219cc515a8a53d0dd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.860579599Z"
+}

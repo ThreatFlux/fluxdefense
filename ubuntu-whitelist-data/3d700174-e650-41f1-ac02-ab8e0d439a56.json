@@ -1,0 +1,17 @@
+{
+  "uuid": "3d700174-e650-41f1-ac02-ab8e0d439a56",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/readability/FunctionSizeCheck.h",
+  "size": 3006,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "a6b9fa119157eb266ee4327eec6010957e0f138d6eac4b125e8bde14475b7fdc",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.285428296Z"
+}

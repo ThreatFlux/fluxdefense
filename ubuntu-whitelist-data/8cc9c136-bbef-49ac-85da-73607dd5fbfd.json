@@ -1,0 +1,17 @@
+{
+  "uuid": "8cc9c136-bbef-49ac-85da-73607dd5fbfd",
+  "path": "/lib/llvm-18/include/clang-tidy/readability/IdentifierNamingCheck.h",
+  "size": 8684,
+  "modified": "2024-01-03T13:06:20Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "c517791a1a15b1a0bc906daf6316a3193a6b6e3b42cef617265035415c39bb68",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.924089341Z"
+}

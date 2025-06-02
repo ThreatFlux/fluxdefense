@@ -1,0 +1,17 @@
+{
+  "uuid": "c60d4f56-be40-4db9-af89-deaad4f9e27c",
+  "path": "/lib/llvm-18/include/clang/Edit/Rewriters.h",
+  "size": 1166,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.542533410Z",
+  "sha256_hash": "3321a838b4c67839760755c68457be0665cf307e5bc9c94a1ab615a80d6929fa",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.019788766Z"
+}

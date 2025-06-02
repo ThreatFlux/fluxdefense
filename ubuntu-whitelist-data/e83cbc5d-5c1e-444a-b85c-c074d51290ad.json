@@ -1,0 +1,17 @@
+{
+  "uuid": "e83cbc5d-5c1e-444a-b85c-c074d51290ad",
+  "path": "/lib/cups/filter/rastertolabel",
+  "size": 26928,
+  "modified": "2024-09-26T11:15:36Z",
+  "created": "2025-05-09T05:07:21.359875115Z",
+  "sha256_hash": "674e5fbc6d921220c43b492a41ffda2a86d615fd55e8643bdbb3f502583193a0",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.643606441Z"
+}

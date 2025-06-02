@@ -1,0 +1,15 @@
+{
+  "uuid": "db9539b3-6c0e-4bab-89ec-53f6918fd734",
+  "path": "/bin/piconv",
+  "size": 8360,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.072582871Z",
+  "sha256_hash": "0ddc062a05a184cc3f89338a44437364a29811b420f3660c13915bddfdc3a689",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.655432653Z"
+}

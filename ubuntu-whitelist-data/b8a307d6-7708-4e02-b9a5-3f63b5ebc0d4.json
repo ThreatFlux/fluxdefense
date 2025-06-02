@@ -1,0 +1,17 @@
+{
+  "uuid": "b8a307d6-7708-4e02-b9a5-3f63b5ebc0d4",
+  "path": "/lib/firmware/rtw89/rtw8852b_fw.bin.zst",
+  "size": 181184,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.070534360Z",
+  "sha256_hash": "3a2f35f44cdbe02c1b372c117d081825a4d23a77ff3529ac862756021ea9e9a7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.215378180Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "fa88073f-f500-47ea-b386-2f3d241b6741",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/UseAfterMoveCheck.h",
+  "size": 1366,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "c6b687e59ec309c2e0a121f6e22f19639aef63c6eae6ed7726dcafaa94980d30",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.239771277Z"
+}

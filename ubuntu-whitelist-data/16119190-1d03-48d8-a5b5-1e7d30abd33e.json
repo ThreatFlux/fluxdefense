@@ -1,0 +1,17 @@
+{
+  "uuid": "16119190-1d03-48d8-a5b5-1e7d30abd33e",
+  "path": "/usr/lib/udev/rules.d/78-graphics-card.rules",
+  "size": 965,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "2b3f8b1c844842005d752993b3c6d6f03d9dec3ddd202bc7da04da5dbe8dfa5b",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.098576515Z"
+}

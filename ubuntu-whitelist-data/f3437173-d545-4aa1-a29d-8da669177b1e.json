@@ -1,0 +1,17 @@
+{
+  "uuid": "f3437173-d545-4aa1-a29d-8da669177b1e",
+  "path": "/lib/snapd/snap-preseed",
+  "size": 9715976,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.475027036Z",
+  "sha256_hash": "e870a026ff4b5448ff130f67ab21ff781c4f6b65a2792b7f305df9343d2d5e75",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.987258495Z"
+}

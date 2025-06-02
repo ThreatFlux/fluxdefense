@@ -1,0 +1,15 @@
+{
+  "uuid": "3609b886-bdaa-41b8-a0be-e38d8f9f6589",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/builds/get_default_service_account.py",
+  "size": 1948,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.666933059Z",
+  "sha256_hash": "e73d441685ae037147019fca030fb592ccfe343744b4e0f43661dba2300be979",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.829385619Z"
+}

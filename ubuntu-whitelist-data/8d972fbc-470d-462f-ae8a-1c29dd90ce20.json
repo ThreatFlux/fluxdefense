@@ -1,0 +1,15 @@
+{
+  "uuid": "8d972fbc-470d-462f-ae8a-1c29dd90ce20",
+  "path": "/usr/sbin/getcap",
+  "size": 14648,
+  "modified": "2025-02-20T15:49:57Z",
+  "created": "2025-05-09T05:11:26.265137262Z",
+  "sha256_hash": "d2d93610b1eeb2f6e4cc685afb4cc8008d9e14a3659e936e3af69d4a85871d69",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.720000998Z"
+}

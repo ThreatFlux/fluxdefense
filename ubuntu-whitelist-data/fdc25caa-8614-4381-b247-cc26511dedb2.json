@@ -1,0 +1,15 @@
+{
+  "uuid": "fdc25caa-8614-4381-b247-cc26511dedb2",
+  "path": "/bin/wpctl",
+  "size": 47488,
+  "modified": "2024-03-31T08:33:26Z",
+  "created": "2025-05-09T05:07:20.888882302Z",
+  "sha256_hash": "a783ef1f7f2f6706afe01655647eab2c1e1934f01d4386e23ca3e8cbd4f0af3f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:18.111621233Z"
+}

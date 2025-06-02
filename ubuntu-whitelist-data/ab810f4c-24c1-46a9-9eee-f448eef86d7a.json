@@ -1,0 +1,15 @@
+{
+  "uuid": "ab810f4c-24c1-46a9-9eee-f448eef86d7a",
+  "path": "/lib/x86_64-linux-gnu/libsubid_sss.so",
+  "size": 23120,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:32.213709490Z",
+  "sha256_hash": "226112b5ac875e032861fac0c95d0f5db90174e49e0b544ea9e3fcf3855c8145",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.932427359Z"
+}

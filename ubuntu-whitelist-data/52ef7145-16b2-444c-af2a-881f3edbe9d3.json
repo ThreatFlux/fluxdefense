@@ -1,0 +1,17 @@
+{
+  "uuid": "52ef7145-16b2-444c-af2a-881f3edbe9d3",
+  "path": "/usr/lib/llvm-18/include/clang/Driver/MultilibBuilder.h",
+  "size": 4715,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.540533437Z",
+  "sha256_hash": "9ac86db96553052ea512dd9ac11682f55cd77a8bcd82c1e844160c7ec8b7cea2",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.444748641Z"
+}

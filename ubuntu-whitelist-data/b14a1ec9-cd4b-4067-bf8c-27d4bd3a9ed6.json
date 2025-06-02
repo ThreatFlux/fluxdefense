@@ -1,0 +1,17 @@
+{
+  "uuid": "b14a1ec9-cd4b-4067-bf8c-27d4bd3a9ed6",
+  "path": "/lib/grub/x86_64-efi/eval.mod",
+  "size": 2232,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.804708521Z",
+  "sha256_hash": "51f72fe708b296cd599aaec2722eeb8b22e767b403331ef7896507d7b5808dec",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.023318747Z"
+}

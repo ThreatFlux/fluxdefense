@@ -1,0 +1,17 @@
+{
+  "uuid": "c282e3a3-7be8-4037-a087-300ef0df03ad",
+  "path": "/lib/x86_64-linux-gnu/libcamera.so.0.2.0",
+  "size": 1172248,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.207755360Z",
+  "sha256_hash": "4eeabba564bc3b6b1c13dfa701602e668dfbfb36efe741687053b17fada2e0cc",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.631942279Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "7d3a6f96-09e6-4533-9bab-55a660c1af68",
+  "path": "/usr/bin/lslogins",
+  "size": 51584,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:20.145893640Z",
+  "sha256_hash": "98b3399a454ac17cc12feb26191dcbcafd9369892546318582ca6f1d792ed513",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.630258755Z"
+}

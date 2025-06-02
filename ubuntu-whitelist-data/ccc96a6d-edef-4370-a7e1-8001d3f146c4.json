@@ -1,0 +1,17 @@
+{
+  "uuid": "ccc96a6d-edef-4370-a7e1-8001d3f146c4",
+  "path": "/lib/systemd/repart/definitions/confext.repart.d/20-root-verity.conf",
+  "size": 415,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.510779317Z",
+  "sha256_hash": "f78b4af310ad1926bd1187c42e241966d2c06e16100392b0b93730ef27272931",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.182118937Z"
+}

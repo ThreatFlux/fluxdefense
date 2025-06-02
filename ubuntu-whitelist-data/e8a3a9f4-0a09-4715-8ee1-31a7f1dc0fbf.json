@@ -1,0 +1,15 @@
+{
+  "uuid": "e8a3a9f4-0a09-4715-8ee1-31a7f1dc0fbf",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_tos.so",
+  "size": 14968,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.340631254Z",
+  "sha256_hash": "dad02b77df53fdea8eb4420dd2112d8315513fe7c9e238d810f7556c31499b7c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.670766362Z"
+}

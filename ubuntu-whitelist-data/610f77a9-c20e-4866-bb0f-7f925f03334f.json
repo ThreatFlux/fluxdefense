@@ -1,0 +1,15 @@
+{
+  "uuid": "610f77a9-c20e-4866-bb0f-7f925f03334f",
+  "path": "/bin/fallocate",
+  "size": 27008,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:19.209907922Z",
+  "sha256_hash": "3acf534e0234a1f4ea62faab3a9dd0943c34eb8c547ac498a556291f19584d4d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.091784025Z"
+}

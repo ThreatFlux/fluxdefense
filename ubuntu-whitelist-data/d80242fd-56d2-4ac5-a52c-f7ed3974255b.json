@@ -1,0 +1,15 @@
+{
+  "uuid": "d80242fd-56d2-4ac5-a52c-f7ed3974255b",
+  "path": "/usr/lib/llvm-18/lib/libLLVMObjectYAML.a",
+  "size": 4768130,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.946462244Z",
+  "sha256_hash": "63d6317f9f6b1c73bfb1cfdac2812c9a5805f0ab4e19d43494065c3060a60cfc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:33.300472925Z"
+}

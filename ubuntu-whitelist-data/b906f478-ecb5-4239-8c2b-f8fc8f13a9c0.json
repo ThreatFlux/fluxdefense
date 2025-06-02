@@ -1,0 +1,17 @@
+{
+  "uuid": "b906f478-ecb5-4239-8c2b-f8fc8f13a9c0",
+  "path": "/usr/lib/x86_64-linux-gnu/libgs.so.10.02",
+  "size": 25077112,
+  "modified": "2025-04-30T13:26:37Z",
+  "created": "2025-05-09T05:11:28.808098445Z",
+  "sha256_hash": "a393ac6f28d4576c7083b834634687b857ad89defb4d1b0d2c190ec63dd94651",
+  "file_type": {
+    "Other": "02"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.694857338Z"
+}

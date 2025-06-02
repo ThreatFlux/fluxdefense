@@ -1,0 +1,15 @@
+{
+  "uuid": "92ea8a94-75da-4541-aaed-23c44c84188f",
+  "path": "/usr/lib/x86_64-linux-gnu/rsyslog/lmnetstrms.so",
+  "size": 25160,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.546922251Z",
+  "sha256_hash": "8ff0425fe7fd7ced3c7c3c106336c084986096c5a592129b1878320744e84690",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.171102944Z"
+}

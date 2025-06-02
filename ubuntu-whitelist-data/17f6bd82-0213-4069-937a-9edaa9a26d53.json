@@ -1,0 +1,15 @@
+{
+  "uuid": "17f6bd82-0213-4069-937a-9edaa9a26d53",
+  "path": "/lib/x86_64-linux-gnu/gconv/CP1125.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.605657729Z",
+  "sha256_hash": "c7afa93f621aa6687c148cb13a2a696dcaa3a5bd9ea69853ee2c707f4f59336a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.749874501Z"
+}

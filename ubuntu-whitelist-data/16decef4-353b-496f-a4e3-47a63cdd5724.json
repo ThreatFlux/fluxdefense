@@ -1,0 +1,15 @@
+{
+  "uuid": "16decef4-353b-496f-a4e3-47a63cdd5724",
+  "path": "/usr/libexec/x86_64-linux-gnu/isa-support/qemu-static-good-SSE3",
+  "size": 281,
+  "modified": "2024-04-18T17:54:37Z",
+  "created": "2025-05-26T20:18:23.196081220Z",
+  "sha256_hash": "a305bc9915a29d7ad42636e1043ada509a5b3dd5754c3e21b78c80db80bf1d49",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.531450740Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "d24f67da-0134-46dc-b205-6f1f4c161cbc",
+  "path": "/lib/x86_64-linux-gnu/libdrm_radeon.a",
+  "size": 112218,
+  "modified": "2024-08-02T12:33:15Z",
+  "created": "2025-05-29T11:16:21.141852382Z",
+  "sha256_hash": "25f4c76888f919b9c33f1bd9ba303098844b657924c108106d5358b6749947c6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.227563359Z"
+}

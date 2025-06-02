@@ -1,0 +1,15 @@
+{
+  "uuid": "ceabbfcc-0f99-47c8-8075-2131d396ce26",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/components/copy_bundled_python.py",
+  "size": 1748,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.619933858Z",
+  "sha256_hash": "0721e5b85743e93db14eaad49732cd45b99ff5b92083ee1ab2268e926da937e1",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.843806501Z"
+}

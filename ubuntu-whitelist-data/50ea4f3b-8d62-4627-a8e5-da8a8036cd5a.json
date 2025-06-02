@@ -1,0 +1,17 @@
+{
+  "uuid": "50ea4f3b-8d62-4627-a8e5-da8a8036cd5a",
+  "path": "/lib/grub/x86_64-efi/halt.mod",
+  "size": 7632,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.810708430Z",
+  "sha256_hash": "490f418a1d8d4b496a0aa48b24a47363fad340769a92e79cf0f7a9b56d32f9a7",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.020238110Z"
+}

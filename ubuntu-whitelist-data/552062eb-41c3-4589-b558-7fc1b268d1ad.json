@@ -1,0 +1,17 @@
+{
+  "uuid": "552062eb-41c3-4589-b558-7fc1b268d1ad",
+  "path": "/lib/udev/hwdb.d/60-autosuspend.hwdb",
+  "size": 2637,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.059786335Z",
+  "sha256_hash": "36749b2442d96483442e0e9bcca071c991398062391d2b673a7c328ee7ad3169",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.256378044Z"
+}

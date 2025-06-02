@@ -1,0 +1,17 @@
+{
+  "uuid": "57759271-256e-488f-9e9b-827410a0d356",
+  "path": "/lib/x86_64-linux-gnu/crt1.o",
+  "size": 1792,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:08:53.060475691Z",
+  "sha256_hash": "5cfb30db1d2c92a9a818f6c015ad7fcd6519afaa1b88148e831504fe6e299479",
+  "file_type": {
+    "Other": "o"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.139303065Z"
+}

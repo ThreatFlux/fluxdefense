@@ -1,0 +1,17 @@
+{
+  "uuid": "c51d4dd1-d2bd-477c-b71b-f25eb11339b5",
+  "path": "/lib/llvm-18/include/clang/Sema/CodeCompleteConsumer.h",
+  "size": 45243,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.547533344Z",
+  "sha256_hash": "f5a10f39621bcf17a76fbbda6e8c245c4cd6419d2f49730feeebd373406eab06",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.064595275Z"
+}

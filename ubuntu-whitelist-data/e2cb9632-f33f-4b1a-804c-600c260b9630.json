@@ -1,0 +1,17 @@
+{
+  "uuid": "e2cb9632-f33f-4b1a-804c-600c260b9630",
+  "path": "/usr/lib/modules/6.11.0-26-generic/kernel/crypto/adiantum.ko.zst",
+  "size": 7238,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.077797913Z",
+  "sha256_hash": "cfe92963bd32453919d0ee09f9e0a50a8f173c449d7d6a3bff337c71b0778ed4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.642360212Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "252b004d-39af-4c66-a062-374fcd0f00e4",
+  "path": "/usr/lib/firmware/ath6k/AR6004/hw1.3/bdata.bin.zst",
+  "size": 1116,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.475542602Z",
+  "sha256_hash": "f447329b742b2d87003ccb403f37ea3fc2dcc658abb7746e15eb8d752a444e6f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.543063333Z"
+}

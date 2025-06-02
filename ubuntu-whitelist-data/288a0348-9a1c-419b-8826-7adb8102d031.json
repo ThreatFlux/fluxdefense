@@ -1,0 +1,17 @@
+{
+  "uuid": "288a0348-9a1c-419b-8826-7adb8102d031",
+  "path": "/usr/lib/firmware/qcom/apq8096/a530_zap.mbn.zst",
+  "size": 3801,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.978535634Z",
+  "sha256_hash": "902b9775c98ae5633d22f851fbc863e6df51fbd7ce5a983173b75c2e9fd9ff37",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.986686992Z"
+}

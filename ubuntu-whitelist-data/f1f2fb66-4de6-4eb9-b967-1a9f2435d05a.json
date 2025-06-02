@@ -1,0 +1,17 @@
+{
+  "uuid": "f1f2fb66-4de6-4eb9-b967-1a9f2435d05a",
+  "path": "/usr/lib/x86_64-linux-gnu/perl5/5.38/HTML/PullParser.pm",
+  "size": 5692,
+  "modified": "2023-01-31T03:12:33Z",
+  "created": "2025-05-09T05:07:36.878638304Z",
+  "sha256_hash": "4d5f519577e8c28676834712d486ced0d6dff5ac5cb3bc827bf69f0a17f6ec64",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.612706301Z"
+}

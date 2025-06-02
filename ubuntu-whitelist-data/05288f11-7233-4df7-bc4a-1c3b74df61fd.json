@@ -1,0 +1,17 @@
+{
+  "uuid": "05288f11-7233-4df7-bc4a-1c3b74df61fd",
+  "path": "/lib/x86_64-linux-gnu/libnss_mymachines.so.2",
+  "size": 349272,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:57:00.075524281Z",
+  "sha256_hash": "561554d299a0f8fc5ee88cc43077b8a5f419f799bcc1a0cc7ad72552638955bc",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.592567863Z"
+}

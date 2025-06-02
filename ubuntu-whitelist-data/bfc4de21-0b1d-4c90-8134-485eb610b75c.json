@@ -1,0 +1,15 @@
+{
+  "uuid": "bfc4de21-0b1d-4c90-8134-485eb610b75c",
+  "path": "/lib/llvm-18/lib/libLLVMSystemZCodeGen.a",
+  "size": 2351232,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.028461164Z",
+  "sha256_hash": "74500f951f46095cbeddd19bb5307a79a86dab6a197f15bbd7bf798cfabac386",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.639790671Z"
+}

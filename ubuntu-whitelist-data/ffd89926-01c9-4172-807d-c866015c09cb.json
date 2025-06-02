@@ -1,0 +1,17 @@
+{
+  "uuid": "ffd89926-01c9-4172-807d-c866015c09cb",
+  "path": "/usr/lib/grub/x86_64-efi/fshelp.mod",
+  "size": 4512,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.805708506Z",
+  "sha256_hash": "ec1050b15c4cb45a66a35a67afb2c5edd8ee1b94b81a885ed0316c2d9a2dce26",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.499308926Z"
+}

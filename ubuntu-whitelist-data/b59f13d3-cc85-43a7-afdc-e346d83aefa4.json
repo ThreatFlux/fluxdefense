@@ -1,0 +1,17 @@
+{
+  "uuid": "b59f13d3-cc85-43a7-afdc-e346d83aefa4",
+  "path": "/lib/systemd/system/sssd-pam.service",
+  "size": 479,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:28.301769185Z",
+  "sha256_hash": "785994064927a634c51073ffa9785d8047976b58f3957b44600a582db45c2c99",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.101526316Z"
+}

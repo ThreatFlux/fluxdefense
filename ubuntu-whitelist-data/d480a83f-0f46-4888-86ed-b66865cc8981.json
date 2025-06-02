@@ -1,0 +1,15 @@
+{
+  "uuid": "d480a83f-0f46-4888-86ed-b66865cc8981",
+  "path": "/usr/libexec/gnome-shell-hotplug-sniffer",
+  "size": 35200,
+  "modified": "2025-04-14T09:35:20Z",
+  "created": "2025-05-21T14:13:56.583918497Z",
+  "sha256_hash": "1c4998d398e11b1b7b8dc777692edc72e5620d4f823334b871887a0e2a40305f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.100939329Z"
+}

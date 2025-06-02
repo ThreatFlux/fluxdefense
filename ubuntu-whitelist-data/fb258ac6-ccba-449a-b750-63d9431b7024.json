@@ -1,0 +1,15 @@
+{
+  "uuid": "fb258ac6-ccba-449a-b750-63d9431b7024",
+  "path": "/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-jack-tunnel.so",
+  "size": 108816,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.781860089Z",
+  "sha256_hash": "3ec063728446f261b0c8aad2b5ddd8c23fa5f31525c7390518f50cd7ffba7c1b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.913737846Z"
+}

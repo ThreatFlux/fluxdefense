@@ -1,0 +1,15 @@
+{
+  "uuid": "93af698d-320d-4624-917f-2cb7df9627f5",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgsta52dec.so",
+  "size": 31120,
+  "modified": "2024-03-31T08:55:07Z",
+  "created": "2025-05-09T05:09:27.687947194Z",
+  "sha256_hash": "3741b577b22531c11f3264c33258269c89a1f59f0aeacf45233f102ce0ad5d06",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.122572352Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "833b5ee3-4789-411f-96b9-c5de14c946d3",
+  "path": "/usr/lib/x86_64-linux-gnu/libstemmer.so.0d.0.0",
+  "size": 829912,
+  "modified": "2024-04-08T16:19:41Z",
+  "created": "2025-05-09T05:07:32.213709490Z",
+  "sha256_hash": "c8f246fe7cccd819db4a93f46f880b0c6e796202b596de7fcb3592195a6d3fa7",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.412323306Z"
+}

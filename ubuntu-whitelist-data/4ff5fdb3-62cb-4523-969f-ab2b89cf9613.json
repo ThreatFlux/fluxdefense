@@ -1,0 +1,17 @@
+{
+  "uuid": "4ff5fdb3-62cb-4523-969f-ab2b89cf9613",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/DiagnosticAnalysisKinds.inc",
+  "size": 89,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.527533608Z",
+  "sha256_hash": "e8d33c0fcc37e4b0011a3622310c651dc5688a0443e714785c40327d2ecdb2fc",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.567235518Z"
+}

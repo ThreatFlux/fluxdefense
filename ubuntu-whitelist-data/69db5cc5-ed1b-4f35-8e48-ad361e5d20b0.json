@@ -1,0 +1,17 @@
+{
+  "uuid": "69db5cc5-ed1b-4f35-8e48-ad361e5d20b0",
+  "path": "/usr/lib/firmware/radeon/BARTS_pfp.bin.zst",
+  "size": 2090,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.059534513Z",
+  "sha256_hash": "1d3becc48f867d21a24ebcca477e19f6672fa3e1b4eb28bb8e03d65259b19ce8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.408803430Z"
+}

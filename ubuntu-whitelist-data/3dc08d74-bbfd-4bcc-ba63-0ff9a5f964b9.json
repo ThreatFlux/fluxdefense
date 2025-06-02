@@ -1,0 +1,17 @@
+{
+  "uuid": "3dc08d74-bbfd-4bcc-ba63-0ff9a5f964b9",
+  "path": "/lib/firmware/qcom/qcm2290/adsp.mbn.zst",
+  "size": 4943491,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.988535496Z",
+  "sha256_hash": "85fbd7c2ad8ee428bfee26b239275bd694496d02f94210cb9e2699015cf879a5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.958036127Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b4441e6a-0fa3-4cac-9dc9-739ef9533c9f",
+  "path": "/lib/firmware/nvidia/gp104/gr/fecs_data.bin.zst",
+  "size": 517,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.939536174Z",
+  "sha256_hash": "a1026b057ebdec73841ec95e2e52584f746ab326d1a0296015701a03b97fc84f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.421393616Z"
+}

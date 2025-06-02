@@ -1,0 +1,17 @@
+{
+  "uuid": "d4c51f0a-7ad6-4408-9e17-1f3bb8b48ce3",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/stddef.ph",
+  "size": 13149,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.559590701Z",
+  "sha256_hash": "beb45808852773a93ab3049de4789761252c3f685b8cb8b31707be86d98cdea5",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.470248164Z"
+}

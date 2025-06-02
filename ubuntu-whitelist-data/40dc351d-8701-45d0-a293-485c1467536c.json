@@ -1,0 +1,17 @@
+{
+  "uuid": "40dc351d-8701-45d0-a293-485c1467536c",
+  "path": "/usr/lib/systemd/system/systemd-pcrphase-sysinit.service",
+  "size": 794,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "e8c8ad78fae1d55ce5a3127960c431f024f7713e012926a9f58d4b006f70d7b1",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.482407972Z"
+}

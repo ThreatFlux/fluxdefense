@@ -1,0 +1,17 @@
+{
+  "uuid": "c12955e1-c067-4244-9d9e-dd2dc2076887",
+  "path": "/lib/llvm-18/include/clang-tidy/readability/QualifiedAutoCheck.h",
+  "size": 1600,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "4f78be672e5c579f6fbade9d20156cb3e77c539c7f41b30f616a59ab4530884e",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.921802044Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "59b49d65-323a-41e5-ba6b-8d0c52ef3a35",
+  "path": "/bin/pw-cat",
+  "size": 141696,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:18.614844966Z",
+  "sha256_hash": "8df62db288d9bfa4318a918b69f099fbd423e10f4bd0d923efb21640862c2404",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.296035298Z"
+}

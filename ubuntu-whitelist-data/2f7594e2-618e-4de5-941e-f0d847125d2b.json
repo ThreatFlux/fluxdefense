@@ -1,0 +1,17 @@
+{
+  "uuid": "2f7594e2-618e-4de5-941e-f0d847125d2b",
+  "path": "/lib/systemd/system/initrd-switch-root.service",
+  "size": 614,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "e8f9fe126cdf066e64010778324836909878b6b660e3f23da88d3b20016e4628",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.103287532Z"
+}

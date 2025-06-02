@@ -1,0 +1,15 @@
+{
+  "uuid": "f4a67501-e5b8-443e-8b7b-bc243c9a19a3",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libip6t_hbh.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.326631467Z",
+  "sha256_hash": "701a0600969fe48cc08685866df3b98b4c3bc685516c90b40c208949606bccc6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.255411667Z"
+}

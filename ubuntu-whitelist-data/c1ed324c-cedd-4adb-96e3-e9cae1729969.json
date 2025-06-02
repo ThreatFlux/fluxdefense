@@ -1,0 +1,17 @@
+{
+  "uuid": "c1ed324c-cedd-4adb-96e3-e9cae1729969",
+  "path": "/lib/libreoffice/program/opengl/linearTwoColorGradientFragmentShader.glsl",
+  "size": 725,
+  "modified": "2024-10-29T11:14:30Z",
+  "created": "2025-05-09T05:11:17.294274200Z",
+  "sha256_hash": "e3c3c0b52080043b7f5cb400c0878f7124d9985f0f7096ebba168ab500848c5d",
+  "file_type": {
+    "Other": "glsl"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:50.103210962Z"
+}

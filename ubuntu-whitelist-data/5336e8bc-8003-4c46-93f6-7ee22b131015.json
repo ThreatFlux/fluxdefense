@@ -1,0 +1,15 @@
+{
+  "uuid": "5336e8bc-8003-4c46-93f6-7ee22b131015",
+  "path": "/lib/llvm-18/lib/libLLVMCoroutines.a",
+  "size": 556640,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.858463403Z",
+  "sha256_hash": "323756605a29d5ed66ce52e9dc61e2271a248d164ec7b0cd1ae6c822a0dbc7de",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:40.625858279Z"
+}

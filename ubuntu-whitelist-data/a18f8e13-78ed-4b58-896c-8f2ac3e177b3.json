@@ -1,0 +1,15 @@
+{
+  "uuid": "a18f8e13-78ed-4b58-896c-8f2ac3e177b3",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/chardet/jisfreq.py",
+  "size": 25796,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.104942608Z",
+  "sha256_hash": "9a6f2d7ebc2a86939ddf0cd9292e0d26a91805055c0df4ccd89890e5a5bddf61",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.704512404Z"
+}

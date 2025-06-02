@@ -1,0 +1,15 @@
+{
+  "uuid": "769d2edb-b06d-4bf9-99bf-01c1b50ab7a3",
+  "path": "/usr/bin/scp-dbus-service",
+  "size": 90,
+  "modified": "2024-04-08T14:50:48Z",
+  "created": "2025-05-09T05:07:20.410889596Z",
+  "sha256_hash": "7a48cba47432dafe807f1927b519fa60de383d2faa3b6d67c30ffd7cb695dfeb",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:13.226391881Z"
+}

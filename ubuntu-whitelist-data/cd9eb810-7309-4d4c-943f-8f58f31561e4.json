@@ -1,0 +1,15 @@
+{
+  "uuid": "cd9eb810-7309-4d4c-943f-8f58f31561e4",
+  "path": "/usr/lib/x86_64-linux-gnu/libglib-2.0.a",
+  "size": 2369830,
+  "modified": "2025-05-15T12:06:49Z",
+  "created": "2025-05-27T10:16:56.755744331Z",
+  "sha256_hash": "83d6dddd729069b8810a37d7b60eb0e1804b98c3dcf4a8827ec81f6cdfa65dd5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.246473541Z"
+}

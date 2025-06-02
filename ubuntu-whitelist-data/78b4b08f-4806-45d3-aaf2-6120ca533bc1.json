@@ -1,0 +1,15 @@
+{
+  "uuid": "78b4b08f-4806-45d3-aaf2-6120ca533bc1",
+  "path": "/opt/google/chrome/libEGL.so",
+  "size": 244720,
+  "modified": "2025-05-26T20:54:35Z",
+  "created": "2025-05-27T21:53:47.500428337Z",
+  "sha256_hash": "4210e6f9874e5e7cde669081dc0f150052a6061cc28bd61618a9ed0fad158fef",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:43.937900779Z"
+}

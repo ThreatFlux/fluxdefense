@@ -1,0 +1,17 @@
+{
+  "uuid": "ae3b735b-8ee2-4415-924b-0efe261d869d",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-wrstfi.adb",
+  "size": 2651,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.062344984Z",
+  "sha256_hash": "face943ac188705e4757131fbb552c6395d825c73417ca462f66b9c8392b33a4",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.039522467Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "cf78832a-420d-49a1-903d-0d8ffc4ba498",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-conca6.adb",
+  "size": 3098,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.075344805Z",
+  "sha256_hash": "e27017d2fdc775cc8e3c0635d0d0ba83263d97831831d64451eb07af1f37ac67",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.988334812Z"
+}

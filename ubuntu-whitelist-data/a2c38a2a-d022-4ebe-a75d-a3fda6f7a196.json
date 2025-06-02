@@ -1,0 +1,17 @@
+{
+  "uuid": "a2c38a2a-d022-4ebe-a75d-a3fda6f7a196",
+  "path": "/lib/x86_64-linux-gnu/libflite_cmu_indic_lex.so.2.2",
+  "size": 51432,
+  "modified": "2024-04-07T07:12:09Z",
+  "created": "2025-05-09T05:09:24.096002017Z",
+  "sha256_hash": "da4c7b6f8529983ac32b4d71675904871dd1997af441abc3fe0ca9e3d56224f8",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.818505146Z"
+}

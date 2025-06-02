@@ -1,0 +1,17 @@
+{
+  "uuid": "62261892-0929-4315-8e60-6ebc423bf0e8",
+  "path": "/usr/lib/llvm-18/include/clang/AST/StmtObjC.h",
+  "size": 14161,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.520533700Z",
+  "sha256_hash": "9dd0ee553a889894bcc1a1ff3f42f59c89f85dc6e418ba58c1a7aafbd0293036",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.409420383Z"
+}

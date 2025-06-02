@@ -1,0 +1,17 @@
+{
+  "uuid": "edc08875-7031-4ec6-90c2-4604533bc3a9",
+  "path": "/usr/share/applications/org.gnome.Characters.desktop",
+  "size": 650,
+  "modified": "2024-03-31T06:05:22Z",
+  "created": "2025-05-09T05:07:38.596612087Z",
+  "sha256_hash": "8b4d2e34f8161d03df2bdc23e10ffd8dd40d866a99ed92873898e260b56772c9",
+  "file_type": {
+    "Other": "desktop"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.548667713Z"
+}

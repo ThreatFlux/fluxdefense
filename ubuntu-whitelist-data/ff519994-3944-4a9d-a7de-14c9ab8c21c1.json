@@ -1,0 +1,17 @@
+{
+  "uuid": "ff519994-3944-4a9d-a7de-14c9ab8c21c1",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/Fcntl.pm",
+  "size": 3988,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.514591388Z",
+  "sha256_hash": "b9c71b8cf35f6865786ad6c844387b104d22ec4d2692ac16f59e824dc1217ef1",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.653413230Z"
+}

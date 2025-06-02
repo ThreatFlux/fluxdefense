@@ -1,0 +1,17 @@
+{
+  "uuid": "e126ad67-56b3-428b-badc-5455c74ccf42",
+  "path": "/usr/lib/firmware/nvidia/tu102/nvdec/scrubber.bin.zst",
+  "size": 3994,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.959535898Z",
+  "sha256_hash": "6a039bd1cd1ceaafd8713d540d1ec623e7d83748cd6a343c73162b052c6a8973",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.457037703Z"
+}

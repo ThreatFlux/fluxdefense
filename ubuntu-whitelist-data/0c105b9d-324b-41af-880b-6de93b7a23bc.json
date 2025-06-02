@@ -1,0 +1,17 @@
+{
+  "uuid": "0c105b9d-324b-41af-880b-6de93b7a23bc",
+  "path": "/lib/firmware/radeon/hawaii_mec.bin.zst",
+  "size": 8594,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.063534457Z",
+  "sha256_hash": "b52410309fa5b9ecffb42a723282fbb6a257d15daa98f2c0924d7330a7327393",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.378714179Z"
+}

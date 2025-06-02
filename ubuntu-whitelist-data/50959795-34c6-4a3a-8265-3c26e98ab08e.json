@@ -1,0 +1,17 @@
+{
+  "uuid": "50959795-34c6-4a3a-8265-3c26e98ab08e",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/AttrSubMatchRulesList.inc",
+  "size": 3049,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.525533634Z",
+  "sha256_hash": "a31187551c239c7819ef3535b7eeefbde045e5cedad8c153d4481840759a3317",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.481987252Z"
+}

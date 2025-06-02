@@ -1,0 +1,17 @@
+{
+  "uuid": "32cd7bf4-ab81-4447-9a32-c32e90317ec3",
+  "path": "/lib/llvm-18/include/clang/AST/BuiltinTypes.def",
+  "size": 10191,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.515533766Z",
+  "sha256_hash": "c17f58d63a20e3247af6bd212390b333a068f7c0276a39b4fc36f5169efceb6b",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.004364408Z"
+}

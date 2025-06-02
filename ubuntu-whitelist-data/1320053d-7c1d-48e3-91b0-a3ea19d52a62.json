@@ -1,0 +1,15 @@
+{
+  "uuid": "1320053d-7c1d-48e3-91b0-a3ea19d52a62",
+  "path": "/usr/libexec/sssd/sssd_nss",
+  "size": 306664,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:38.070620114Z",
+  "sha256_hash": "83330e2eb2215ed1567ece6c6304774497f1a76e438c7a93bc935b951be3ade3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.135411818Z"
+}

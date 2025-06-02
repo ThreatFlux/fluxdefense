@@ -1,0 +1,17 @@
+{
+  "uuid": "e077107c-100a-4fb3-b7f3-d5346eaa771b",
+  "path": "/usr/lib/firmware/nvidia/tu106/gr/fecs_data.bin.zst",
+  "size": 702,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.960535884Z",
+  "sha256_hash": "1ad83750bf26f60fb26569853cbc895311dbdf26b252f13cb4e63f2c26f12f7c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.264904989Z"
+}

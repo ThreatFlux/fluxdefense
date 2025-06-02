@@ -1,0 +1,15 @@
+{
+  "uuid": "58621f36-8d18-4f1f-bfc5-0229c2899799",
+  "path": "/bin/virt-viewer",
+  "size": 376744,
+  "modified": "2024-04-01T08:30:22Z",
+  "created": "2025-05-09T05:56:59.854526763Z",
+  "sha256_hash": "dac01fa630cc1bd825d94c58eab5aec31d7aac52c620a81d43e77f41af316997",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.227785751Z"
+}

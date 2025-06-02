@@ -1,0 +1,17 @@
+{
+  "uuid": "1ab3f8f8-2a25-4dbf-a37a-de0b167212c3",
+  "path": "/usr/lib/firmware/amdgpu/aldebaran_sos.bin.zst",
+  "size": 156595,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.385543848Z",
+  "sha256_hash": "a5eb68cdffb73585b737dbbdde1ae2ccee4375834aaa2eaf0f5b836528ff9960",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.816708365Z"
+}

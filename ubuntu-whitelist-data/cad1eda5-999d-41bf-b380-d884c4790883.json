@@ -1,0 +1,15 @@
+{
+  "uuid": "cad1eda5-999d-41bf-b380-d884c4790883",
+  "path": "/usr/bin/foo2ddst-wrapper",
+  "size": 17268,
+  "modified": "2024-04-10T21:38:27Z",
+  "created": "2025-05-09T05:07:19.218907785Z",
+  "sha256_hash": "d5e59a011c03e2c738fdb98ad946d19969cbd8ecc47684259296538e2490d27e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.335450546Z"
+}

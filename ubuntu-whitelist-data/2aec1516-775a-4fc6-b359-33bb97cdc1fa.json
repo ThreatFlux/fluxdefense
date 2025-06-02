@@ -1,0 +1,15 @@
+{
+  "uuid": "2aec1516-775a-4fc6-b359-33bb97cdc1fa",
+  "path": "/bin/red",
+  "size": 89,
+  "modified": "2024-02-17T11:12:41Z",
+  "created": "2025-05-09T05:07:20.385889978Z",
+  "sha256_hash": "417f37ffe30a83d9b2a7e0340e57e46018f6ee6919ee1b6f63b791d716c3f65a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.022370764Z"
+}

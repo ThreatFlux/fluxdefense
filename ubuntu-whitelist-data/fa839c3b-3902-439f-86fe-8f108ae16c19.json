@@ -1,0 +1,15 @@
+{
+  "uuid": "fa839c3b-3902-439f-86fe-8f108ae16c19",
+  "path": "/bin/systemd-run",
+  "size": 68392,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.506779266Z",
+  "sha256_hash": "ba53b15089071d86c187cf512cdb2c4f35b200d1dd4799c03ccf5c52b6457b1d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.986422470Z"
+}

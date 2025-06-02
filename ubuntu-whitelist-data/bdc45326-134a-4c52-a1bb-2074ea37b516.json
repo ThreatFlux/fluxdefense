@@ -1,0 +1,15 @@
+{
+  "uuid": "bdc45326-134a-4c52-a1bb-2074ea37b516",
+  "path": "/usr/lib/python3/dist-packages/suricata/update/extract.py",
+  "size": 1816,
+  "modified": "2023-07-07T17:38:45Z",
+  "created": "2025-05-26T20:18:27.985008880Z",
+  "sha256_hash": "9851d7ddf4f8b768d745fe5b510901d9f04e32d4158ffdf728414037ad17dab6",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.498457577Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "907c8b2d-d92e-4095-ba72-69c90bbcd3a1",
+  "path": "/usr/lib/firmware/qcom/sm8550/SM8550-HDK-tplg.bin.zst",
+  "size": 1365,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.039534789Z",
+  "sha256_hash": "90948f4c02f0667714ecb121cb10a097e6372ee9f8d57d6fde90470a6e015360",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.205662652Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "18356e2e-2cab-4585-b4af-120ec108093c",
+  "path": "/usr/lib/apparmor/apparmor.systemd",
+  "size": 2231,
+  "modified": "2024-04-12T03:59:30Z",
+  "created": "2025-05-09T05:24:25.749938044Z",
+  "sha256_hash": "c196cbd7ef45815253a8592588be6cbb966821f99abc7e8bc72460a3a4bd5bd9",
+  "file_type": {
+    "Other": "systemd"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.362604376Z"
+}

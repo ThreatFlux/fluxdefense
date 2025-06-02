@@ -1,0 +1,17 @@
+{
+  "uuid": "91005e04-c426-4ce1-905d-0e7665fbe4ac",
+  "path": "/lib/llvm-18/include/clang/Sema/AttrParsedAttrKinds.inc",
+  "size": 260356,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.546533357Z",
+  "sha256_hash": "a1296c165a3229398afc623a18f343ae08c4a35bcb8241209cccf7ab9122cf0b",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.053170248Z"
+}

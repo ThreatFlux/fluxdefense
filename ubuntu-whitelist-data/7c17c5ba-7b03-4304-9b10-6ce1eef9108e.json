@@ -1,0 +1,17 @@
+{
+  "uuid": "7c17c5ba-7b03-4304-9b10-6ce1eef9108e",
+  "path": "/usr/lib/firmware/brcm/brcmfmac43430a0-sdio.ilife-S806.txt.zst",
+  "size": 547,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.485542463Z",
+  "sha256_hash": "f7695a362ff2eb7d1e672b0b71f8cd5a3260e802b0d9e7c95f5ca35ee3916985",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.697107364Z"
+}

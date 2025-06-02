@@ -1,0 +1,15 @@
+{
+  "uuid": "ac3595ca-32ab-4cc4-9ab5-916966a5026e",
+  "path": "/bin/dh_installpam",
+  "size": 1457,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.514341255Z",
+  "sha256_hash": "05de0d70b2403c46c746e88bb82548ce280829fa8be8e2b17dd38a13ccb7c25a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.836468576Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "683fd413-76ef-4474-8cf3-8aa5bf473796",
+  "path": "/lib/firmware/advansys/3550.bin.zst",
+  "size": 3922,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.385543848Z",
+  "sha256_hash": "c854df58911fcd1276359973b3534370aac5b2f3a00e49abb3a745082b8006a7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.017449614Z"
+}

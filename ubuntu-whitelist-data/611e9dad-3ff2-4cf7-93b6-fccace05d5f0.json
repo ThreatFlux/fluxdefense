@@ -1,0 +1,15 @@
+{
+  "uuid": "611e9dad-3ff2-4cf7-93b6-fccace05d5f0",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/workstations/start_tcp_tunnel.py",
+  "size": 1842,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.647933382Z",
+  "sha256_hash": "e1267b045e97828269d8c47148de688dd78fd4034d52f4c9e95b91755c6d232e",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.821878967Z"
+}

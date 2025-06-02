@@ -1,0 +1,17 @@
+{
+  "uuid": "9995e4e5-b630-4370-a8d6-dd49c897acd9",
+  "path": "/lib/x86_64-linux-gnu/ldscripts/elf32_x86_64.xbn",
+  "size": 9852,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:52.047575395Z",
+  "sha256_hash": "9069e36ee7f2c6f533b12b69527832732640d509fdea00e5038ac3d1b7b326b8",
+  "file_type": {
+    "Other": "xbn"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:18.236458716Z"
+}

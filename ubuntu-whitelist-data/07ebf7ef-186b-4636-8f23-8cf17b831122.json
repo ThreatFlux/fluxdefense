@@ -1,0 +1,15 @@
+{
+  "uuid": "07ebf7ef-186b-4636-8f23-8cf17b831122",
+  "path": "/lib/libreoffice/program/libgcc3_uno.so",
+  "size": 73048,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:03.178489669Z",
+  "sha256_hash": "d31dbdbb47d089f5c1488b627976e7f0cb8bec6f73f58a40c3a02ff3bd1d0aaa",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:49.484988083Z"
+}

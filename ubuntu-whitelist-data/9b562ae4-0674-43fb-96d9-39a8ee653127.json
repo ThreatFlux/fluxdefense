@@ -1,0 +1,15 @@
+{
+  "uuid": "9b562ae4-0674-43fb-96d9-39a8ee653127",
+  "path": "/sbin/cupsfilter",
+  "size": 47712,
+  "modified": "2024-09-26T11:15:36Z",
+  "created": "2025-05-09T05:07:38.149618909Z",
+  "sha256_hash": "f0efc66963ad08f8782b11189197b5a933209f56c8b77c82fede4ce538e42140",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.751123228Z"
+}

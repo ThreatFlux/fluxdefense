@@ -1,0 +1,17 @@
+{
+  "uuid": "b5c5c4bf-a01b-41f2-bcd6-6981beb933d5",
+  "path": "/lib/systemd/system/libvirtd.service",
+  "size": 1899,
+  "modified": "2025-03-13T16:25:50Z",
+  "created": "2025-05-20T14:31:33.305811285Z",
+  "sha256_hash": "092e4878aac486271d4b956685612be278006a6d6c5bae65da55af79c8e15263",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.106405238Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "2f4c2e1c-f731-4fd5-9611-51d2830ca7a2",
+  "path": "/lib/xorg/modules/libexa.so",
+  "size": 101336,
+  "modified": "2025-03-04T04:58:03Z",
+  "created": "2025-05-09T05:24:13.315776824Z",
+  "sha256_hash": "cee55a6e1d3ce61c53cb184d47a28e0177add25ee0961fb3be7dc7fd489dbc61",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.669944462Z"
+}

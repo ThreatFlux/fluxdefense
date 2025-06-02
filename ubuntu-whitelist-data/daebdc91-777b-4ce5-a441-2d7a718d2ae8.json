@@ -1,0 +1,15 @@
+{
+  "uuid": "daebdc91-777b-4ce5-a441-2d7a718d2ae8",
+  "path": "/lib/python3/dist-packages/systemd/id128.cpython-312-x86_64-linux-gnu.so",
+  "size": 22968,
+  "modified": "2024-04-08T16:17:49Z",
+  "created": "2025-05-09T05:07:27.422782598Z",
+  "sha256_hash": "65bff27aae50468c4c1387b74e4cc0e0a5ebded35bd7694b75378518d6625ebe",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.219830953Z"
+}

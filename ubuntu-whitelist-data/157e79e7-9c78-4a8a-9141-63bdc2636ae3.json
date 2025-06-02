@@ -1,0 +1,17 @@
+{
+  "uuid": "157e79e7-9c78-4a8a-9141-63bdc2636ae3",
+  "path": "/usr/lib/x86_64-linux-gnu/libgit2.so.1.7.2",
+  "size": 1201664,
+  "modified": "2024-03-31T01:58:30Z",
+  "created": "2025-05-09T17:41:09.835628092Z",
+  "sha256_hash": "b9ed116506da7ec4cec033161474363851d9dbc9f156d2fa8540b8f1a0f77f7e",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.690261409Z"
+}

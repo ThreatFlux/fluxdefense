@@ -1,0 +1,17 @@
+{
+  "uuid": "bebe731e-285c-436e-92e1-6a3de7e806cb",
+  "path": "/lib/x86_64-linux-gnu/libedataserver-1.2.so.27.0.0",
+  "size": 941208,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:29.364752964Z",
+  "sha256_hash": "7a091ffe8834b68fe09516c050ceee94cd55647810257632bf404ad145489d4f",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:32.849650182Z"
+}

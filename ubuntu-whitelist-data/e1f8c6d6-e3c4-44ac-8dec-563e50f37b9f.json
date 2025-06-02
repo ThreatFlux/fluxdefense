@@ -1,0 +1,17 @@
+{
+  "uuid": "e1f8c6d6-e3c4-44ac-8dec-563e50f37b9f",
+  "path": "/lib/systemd/system/systemd-sysupdate.timer",
+  "size": 1025,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "98093c2d0917e6be2671a762d12689b9860d63f2cc26a9a2a833f7f29dbb4456",
+  "file_type": {
+    "Other": "timer"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.128399590Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "51863a2f-f26a-4f5e-9927-3a14b1bb1d8e",
+  "path": "/usr/lib/systemd/network/80-wifi-station.network.example",
+  "size": 595,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.510779317Z",
+  "sha256_hash": "ef2718af98a98abc3d76b19fe549b3d557ea4a7fa55e163473a08d186591e647",
+  "file_type": {
+    "Other": "example"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.561648133Z"
+}

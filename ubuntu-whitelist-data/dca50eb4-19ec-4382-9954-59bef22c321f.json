@@ -1,0 +1,17 @@
+{
+  "uuid": "dca50eb4-19ec-4382-9954-59bef22c321f",
+  "path": "/usr/lib/grub/x86_64-efi/gptsync.mod",
+  "size": 5424,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.810708430Z",
+  "sha256_hash": "cc5930399c06750c8f039869740bd3c3926c63ca914eef61d1bb190739b7d487",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.466114507Z"
+}

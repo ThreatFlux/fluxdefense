@@ -1,0 +1,17 @@
+{
+  "uuid": "f06892f9-76d2-4072-84a9-db842c9dcad9",
+  "path": "/usr/lib/firmware/amdgpu/gc_10_3_7_mec.bin.zst",
+  "size": 38055,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.394543723Z",
+  "sha256_hash": "9a9f6bfe310808f0a8a1a0431938e66aa36ac1b1c9ef1f23b0e9f6e5d57583bc",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.074499779Z"
+}

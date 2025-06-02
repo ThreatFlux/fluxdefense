@@ -1,0 +1,17 @@
+{
+  "uuid": "e8fecd73-bad1-43ef-9d42-61fdef1d89c7",
+  "path": "/usr/lib/firmware/qcom/a650_gmu.bin.zst",
+  "size": 26606,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.969535759Z",
+  "sha256_hash": "79d42c15e6ddc6ee062c3d05f7c71a50895da2acee4dcd549204915f502429b4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.748706225Z"
+}

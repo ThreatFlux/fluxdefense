@@ -1,0 +1,15 @@
+{
+  "uuid": "7046e85d-1df6-41fd-bd11-0b2effb606bc",
+  "path": "/usr/lib/brltty/libbrlttybfa.so",
+  "size": 18504,
+  "modified": "2024-03-31T00:24:15Z",
+  "created": "2025-05-09T05:07:21.025880212Z",
+  "sha256_hash": "7c0ad27a8ca48e9b77fc2bd204fd52dd8fff3470794aee9259000d24cc4d7eed",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.246955840Z"
+}

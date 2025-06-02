@@ -1,0 +1,17 @@
+{
+  "uuid": "3bd8d4cd-ea67-4158-a52f-4f0b7436dd35",
+  "path": "/usr/lib/grub/x86_64-efi/nilfs2.mod",
+  "size": 10384,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.837708018Z",
+  "sha256_hash": "fa240d29afd678b19ef659f9e6c5022905ced0b2e0437f96dd457d81fa3c3428",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.448898026Z"
+}

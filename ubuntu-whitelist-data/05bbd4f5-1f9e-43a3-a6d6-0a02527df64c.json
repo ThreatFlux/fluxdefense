@@ -1,0 +1,15 @@
+{
+  "uuid": "05bbd4f5-1f9e-43a3-a6d6-0a02527df64c",
+  "path": "/usr/sbin/ext4slower-bpfcc",
+  "size": 9948,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "2314c2db47d5bcba55e7c924e79800aebfd5b93bb3532d435144e05217810327",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.293950835Z"
+}

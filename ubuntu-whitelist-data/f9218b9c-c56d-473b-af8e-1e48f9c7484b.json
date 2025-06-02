@@ -1,0 +1,17 @@
+{
+  "uuid": "f9218b9c-c56d-473b-af8e-1e48f9c7484b",
+  "path": "/lib/x86_64-linux-gnu/libdeflate.so.0",
+  "size": 75808,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T05:07:29.299753956Z",
+  "sha256_hash": "608c8d7e4345a9ff4b57aa853ce0c355cf2e1d5ec11b8bee86fb4760bba8a15f",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:32.893625117Z"
+}

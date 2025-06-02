@@ -1,0 +1,15 @@
+{
+  "uuid": "a1b622dc-0df9-4497-8252-b17ff26a95d1",
+  "path": "/bin/dockerd",
+  "size": 85481432,
+  "modified": "2025-05-30T12:07:27Z",
+  "created": "2025-05-30T21:04:53.066588020Z",
+  "sha256_hash": "98e47892fc2e4d44d7f34fe4a3b58cee0116510de41134c25993dc3a38f73c1b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.171058931Z"
+}

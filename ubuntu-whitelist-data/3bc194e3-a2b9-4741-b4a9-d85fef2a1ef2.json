@@ -1,0 +1,15 @@
+{
+  "uuid": "3bc194e3-a2b9-4741-b4a9-d85fef2a1ef2",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/docker.py",
+  "size": 6432,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.698932516Z",
+  "sha256_hash": "bcbdb6a2b85dd2a3f925c075c7bfebdab2336c9caf328a5aae24876bb2eec256",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.753783615Z"
+}

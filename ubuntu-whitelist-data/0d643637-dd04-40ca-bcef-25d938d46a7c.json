@@ -1,0 +1,15 @@
+{
+  "uuid": "0d643637-dd04-40ca-bcef-25d938d46a7c",
+  "path": "/lib/xorg/modules/libint10.so",
+  "size": 171088,
+  "modified": "2025-03-04T04:58:03Z",
+  "created": "2025-05-09T05:24:13.315776824Z",
+  "sha256_hash": "f0d96dbfbf9202716547e034a301e0833efe50c0632e13ae7873d9e6a3225f86",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.661833719Z"
+}

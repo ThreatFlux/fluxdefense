@@ -1,0 +1,17 @@
+{
+  "uuid": "54c3c188-1321-4907-a4dd-68da39f4e950",
+  "path": "/usr/lib/firmware/rtlwifi/rtl8192cufw_TMSC.bin.zst",
+  "size": 8495,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.068534388Z",
+  "sha256_hash": "c1ce0a5014c81a0497199dc6a1b8dc701ee12a7160f017d1d09ab3c58b81b161",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.510316457Z"
+}

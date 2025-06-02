@@ -1,0 +1,17 @@
+{
+  "uuid": "95480cde-7ae5-449e-ba09-54f7699a60ba",
+  "path": "/usr/lib/firmware/nvidia/tu116/acr/ucode_asb.bin.zst",
+  "size": 10700,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.960535884Z",
+  "sha256_hash": "939fa11a17afd587e57d7fa8d4b53d27cf5048313e07f1733272cc22b1172a63",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.273897495Z"
+}

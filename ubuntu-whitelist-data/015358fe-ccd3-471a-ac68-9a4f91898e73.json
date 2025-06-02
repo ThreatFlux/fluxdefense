@@ -1,0 +1,15 @@
+{
+  "uuid": "015358fe-ccd3-471a-ac68-9a4f91898e73",
+  "path": "/usr/bin/passwd",
+  "size": 64152,
+  "modified": "2024-05-30T14:52:35Z",
+  "created": "2025-05-09T05:07:20.264891824Z",
+  "sha256_hash": "ca3fc307dda8259f585bb38c70e82bd15af61e8574cd0d6e430292e328bb3477",
+  "file_type": "Executable",
+  "permissions": 35309,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.142333441Z"
+}

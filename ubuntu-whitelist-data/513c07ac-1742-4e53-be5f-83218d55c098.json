@@ -1,0 +1,15 @@
+{
+  "uuid": "513c07ac-1742-4e53-be5f-83218d55c098",
+  "path": "/bin/runcon",
+  "size": 35336,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:20.394889840Z",
+  "sha256_hash": "fecd01ff023f4f3e18151a098429118976d65f2c3b834604580457363873396b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.778905376Z"
+}

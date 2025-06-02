@@ -1,0 +1,17 @@
+{
+  "uuid": "63619a5d-2100-4338-a673-588903e62add",
+  "path": "/usr/lib/firmware/intel/dsp_fw_kbl_v3420.bin.zst",
+  "size": 144302,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.550541563Z",
+  "sha256_hash": "64b5fc11dbe95c21a7653539da664a39bfa7a711910802d8c280fce90fd5328d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:57.013711628Z"
+}

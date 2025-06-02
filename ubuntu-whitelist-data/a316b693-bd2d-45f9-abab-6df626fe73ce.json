@@ -1,0 +1,17 @@
+{
+  "uuid": "a316b693-bd2d-45f9-abab-6df626fe73ce",
+  "path": "/lib/x86_64-linux-gnu/libtss2-tcti-spi-helper.so.0.0.0",
+  "size": 35232,
+  "modified": "2024-05-24T20:06:42Z",
+  "created": "2025-05-09T05:07:32.326707766Z",
+  "sha256_hash": "3035c3e73fb2f564d840c8a56a7d3d054a2b1944a67bc713c67ee4c64061f284",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:30.851301200Z"
+}

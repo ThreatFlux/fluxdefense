@@ -1,0 +1,17 @@
+{
+  "uuid": "34649cc4-7d2a-43b7-89ae-b455a6cea4dd",
+  "path": "/usr/lib/x86_64-linux-gnu/libXv.so.1.0.0",
+  "size": 22984,
+  "modified": "2024-04-08T16:10:30Z",
+  "created": "2025-05-09T05:07:29.061757588Z",
+  "sha256_hash": "0f5136caf15ccd0eea5faf5ec429bf1d406b8a2bdbd283965110511825485f02",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.082207762Z"
+}

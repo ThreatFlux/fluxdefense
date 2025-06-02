@@ -1,0 +1,15 @@
+{
+  "uuid": "abfac87a-eb36-48c7-b8aa-8efcca6e323f",
+  "path": "/lib/klibc/bin/dd",
+  "size": 9808,
+  "modified": "2024-05-21T08:39:42Z",
+  "created": "2025-05-09T05:07:21.709869775Z",
+  "sha256_hash": "633827adaaf012a17534542c7e434deea292c6fd41958b92c011f58d681b9aec",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.654907888Z"
+}

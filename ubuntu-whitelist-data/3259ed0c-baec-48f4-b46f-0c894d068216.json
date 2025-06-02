@@ -1,0 +1,17 @@
+{
+  "uuid": "3259ed0c-baec-48f4-b46f-0c894d068216",
+  "path": "/lib/systemd/system/spice-vdagentd.service",
+  "size": 331,
+  "modified": "2024-04-07T07:23:42Z",
+  "created": "2025-05-09T05:07:28.301769185Z",
+  "sha256_hash": "1875906d0784cc9cba43824e2a2769b7482e79debe69d89345d0350637aab670",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.122762774Z"
+}

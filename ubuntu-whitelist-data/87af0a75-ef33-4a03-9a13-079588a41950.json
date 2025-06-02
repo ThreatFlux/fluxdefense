@@ -1,0 +1,17 @@
+{
+  "uuid": "87af0a75-ef33-4a03-9a13-079588a41950",
+  "path": "/usr/lib/libreoffice/program/opengl/honeycombGeometryShader.glsl",
+  "size": 2797,
+  "modified": "2024-10-29T11:14:30Z",
+  "created": "2025-05-09T05:11:19.580239304Z",
+  "sha256_hash": "8d6c030c4c16ca0ec565257317b85115a7dcc9d0f6653970fcd6e2f8428f1aef",
+  "file_type": {
+    "Other": "glsl"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:43.498615011Z"
+}

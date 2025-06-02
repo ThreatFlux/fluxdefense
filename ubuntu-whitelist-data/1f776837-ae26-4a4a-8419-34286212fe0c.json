@@ -1,0 +1,15 @@
+{
+  "uuid": "1f776837-ae26-4a4a-8419-34286212fe0c",
+  "path": "/usr/lib/cups/filter/pstotiff",
+  "size": 393,
+  "modified": "2024-03-31T07:39:41Z",
+  "created": "2025-05-09T05:07:21.358875130Z",
+  "sha256_hash": "a17235f668df8cccf128cdd4456c5155c71649495bdb4ff5c205684a53150706",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.007440352Z"
+}

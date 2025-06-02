@@ -1,0 +1,17 @@
+{
+  "uuid": "73841036-22f2-4f28-8b78-a734bb4092b0",
+  "path": "/lib/x86_64-linux-gnu/libwnck-3.so.0.3.0",
+  "size": 268568,
+  "modified": "2024-04-17T15:13:48Z",
+  "created": "2025-05-09T05:07:35.013666763Z",
+  "sha256_hash": "f6e8eb438c7ec10683b3749683c7936f463b174d8d31803f5cc69d651dbc7814",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.506588400Z"
+}

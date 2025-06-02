@@ -1,0 +1,15 @@
+{
+  "uuid": "4b141edb-68b1-46ed-b97f-439571401ba2",
+  "path": "/usr/bin/nvidia-persistenced",
+  "size": 208336,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:03.703994113Z",
+  "sha256_hash": "bae525d8556bf86ba9b2c1a97115ce9eebcad92c9209bcd606f11d8f65aecfe2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:13.203940543Z"
+}

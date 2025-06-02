@@ -1,0 +1,17 @@
+{
+  "uuid": "5dd3e738-1069-4e19-b5a8-19be1b5bfe10",
+  "path": "/lib/llvm-18/include/clang/CrossTU/CrossTranslationUnit.h",
+  "size": 14702,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.539533450Z",
+  "sha256_hash": "8d3fc56864530f6490ae84b8f506401f3f549f4e477e1befe201ca50f30dbee4",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.020556789Z"
+}

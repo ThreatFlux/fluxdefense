@@ -1,0 +1,17 @@
+{
+  "uuid": "3f496437-2aa7-4944-96f2-d414a3fcd761",
+  "path": "/lib/x86_64-linux-gnu/libmvec.so.1",
+  "size": 1018144,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:31.541719745Z",
+  "sha256_hash": "a3b29e26bda8036265cd96929f484f70d153b69adbd38825da866057081ba206",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.634975297Z"
+}

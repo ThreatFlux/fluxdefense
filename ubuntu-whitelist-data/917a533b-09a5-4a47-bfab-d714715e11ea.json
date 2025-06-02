@@ -1,0 +1,17 @@
+{
+  "uuid": "917a533b-09a5-4a47-bfab-d714715e11ea",
+  "path": "/usr/lib/llvm-18/include/clang/AST/DeclarationName.h",
+  "size": 37439,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.517533740Z",
+  "sha256_hash": "c170cc5d3972a79c6f15ad076b2cc06278248268a82b6b988106d318eb3274e9",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.400906077Z"
+}

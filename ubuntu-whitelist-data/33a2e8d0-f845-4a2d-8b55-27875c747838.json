@@ -1,0 +1,15 @@
+{
+  "uuid": "33a2e8d0-f845-4a2d-8b55-27875c747838",
+  "path": "/lib/python3/dist-packages/cloudinit/net/freebsd.py",
+  "size": 3777,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.240037230Z",
+  "sha256_hash": "03d207285647a3b383495ac9a5ee43d423078486a3705b9cb644e03335023473",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.891061516Z"
+}

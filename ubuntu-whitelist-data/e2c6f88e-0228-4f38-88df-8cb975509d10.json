@@ -1,0 +1,15 @@
+{
+  "uuid": "e2c6f88e-0228-4f38-88df-8cb975509d10",
+  "path": "/usr/libexec/spice-client-glib-usb-acl-helper",
+  "size": 22680,
+  "modified": "2024-04-01T04:49:34Z",
+  "created": "2025-05-09T05:56:49.189646542Z",
+  "sha256_hash": "212705eba7c8ef37e315cace92a08a5a206d82a5a14ad85b5d0ab2381e153f82",
+  "file_type": "Executable",
+  "permissions": 35309,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.454140879Z"
+}

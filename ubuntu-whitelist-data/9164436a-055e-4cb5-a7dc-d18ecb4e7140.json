@@ -1,0 +1,17 @@
+{
+  "uuid": "9164436a-055e-4cb5-a7dc-d18ecb4e7140",
+  "path": "/usr/lib/systemd/system/logrotate.timer",
+  "size": 191,
+  "modified": "2019-10-14T12:10:31Z",
+  "created": "2025-05-09T05:07:28.299769216Z",
+  "sha256_hash": "42f723dc5d90247a5fda11a3358d1a67eccceed856192b2264aa222d6aa240f4",
+  "file_type": {
+    "Other": "timer"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.455918133Z"
+}

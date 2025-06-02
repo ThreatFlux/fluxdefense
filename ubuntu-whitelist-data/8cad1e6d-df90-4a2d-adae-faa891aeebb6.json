@@ -1,0 +1,15 @@
+{
+  "uuid": "8cad1e6d-df90-4a2d-adae-faa891aeebb6",
+  "path": "/bin/amixer",
+  "size": 63952,
+  "modified": "2024-04-07T07:09:55Z",
+  "created": "2025-05-09T05:07:18.914912424Z",
+  "sha256_hash": "beb800b9dcd803e65567f86f9fd63b4799f5e7a1af45676f988e582097e105d0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.866809519Z"
+}

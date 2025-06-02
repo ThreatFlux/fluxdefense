@@ -1,0 +1,15 @@
+{
+  "uuid": "c3a1e089-c53d-40e2-b1b7-b15a6bcb59ad",
+  "path": "/usr/libexec/pk-debconf-helper",
+  "size": 14648,
+  "modified": "2025-01-08T16:35:09Z",
+  "created": "2025-05-09T05:24:26.876952875Z",
+  "sha256_hash": "a51f3b4ccbb90c3d5e6021002256f26ab1b5e63c17d8f5950b3be473619e4f8e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.249849021Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "98cd5738-0a4e-427f-8d9b-54011ba678b6",
+  "path": "/lib/grub/x86_64-efi/romfs.mod",
+  "size": 5968,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.838708002Z",
+  "sha256_hash": "bd5dc4f271251e9ea04083bf7cc07b699b64f8cce1d23b3c2adfa1da19f7cbd9",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.049148002Z"
+}

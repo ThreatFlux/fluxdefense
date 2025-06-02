@@ -1,0 +1,17 @@
+{
+  "uuid": "e13a1017-3fbd-4152-bb82-5432eeba56fd",
+  "path": "/lib/firmware/radeon/R600_pfp.bin.zst",
+  "size": 1093,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "68972173f4e374ea28331fd53a2d30a4549de446e97725f09790d4a19958d691",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.378875671Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b3173a9f-f88e-4840-a925-d5cea9a326d7",
+  "path": "/usr/lib/systemd/system/systemd-pcrlock-firmware-config.service",
+  "size": 814,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "e2863ae6e4728b02ff8d09473d252ebbddf992add352277b37a85cf9aff70342",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.481870002Z"
+}

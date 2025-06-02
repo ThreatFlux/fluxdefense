@@ -1,0 +1,15 @@
+{
+  "uuid": "f9cba4de-b0fd-454d-9aa5-843fe459bb0d",
+  "path": "/sbin/usermod",
+  "size": 130712,
+  "modified": "2024-05-30T14:52:35Z",
+  "created": "2025-05-09T05:07:38.457614209Z",
+  "sha256_hash": "684f65540e0686ab4f38f1ece340b9d90e9f579ba391a4609b4196feaaaf4845",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.137705564Z"
+}

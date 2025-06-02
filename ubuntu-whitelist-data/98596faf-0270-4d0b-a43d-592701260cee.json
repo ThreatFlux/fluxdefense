@@ -1,0 +1,15 @@
+{
+  "uuid": "98596faf-0270-4d0b-a43d-592701260cee",
+  "path": "/lib/x86_64-linux-gnu/gconv/ANSI_X3.110.so",
+  "size": 30928,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.596657867Z",
+  "sha256_hash": "7f2ad3179b9030ab12221a72e1fdfb04ed609b1e757d71b1a8e39e4b22f6263b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.770003659Z"
+}

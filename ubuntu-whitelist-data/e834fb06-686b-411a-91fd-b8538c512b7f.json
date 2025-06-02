@@ -1,0 +1,15 @@
+{
+  "uuid": "e834fb06-686b-411a-91fd-b8538c512b7f",
+  "path": "/bin/spd-say",
+  "size": 31888,
+  "modified": "2024-04-07T07:23:33Z",
+  "created": "2025-05-09T05:07:20.572887124Z",
+  "sha256_hash": "0859b0ad5a97e2dd3fb14798804e9d809dd07c89be9b2ff920a13668757406d1",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.287244407Z"
+}

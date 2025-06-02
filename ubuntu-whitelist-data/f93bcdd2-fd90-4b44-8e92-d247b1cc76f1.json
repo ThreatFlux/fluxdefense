@@ -1,0 +1,17 @@
+{
+  "uuid": "f93bcdd2-fd90-4b44-8e92-d247b1cc76f1",
+  "path": "/usr/lib/x86_64-linux-gnu/libstartup-notification-1.so.0.0.0",
+  "size": 38992,
+  "modified": "2024-04-08T16:20:08Z",
+  "created": "2025-05-09T05:07:32.206709597Z",
+  "sha256_hash": "c7e370bca1c0a0806bedfeb1229bd821fa855eb3eb139172395a973ac5e5cfde",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.337762933Z"
+}

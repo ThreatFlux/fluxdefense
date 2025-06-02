@@ -1,0 +1,17 @@
+{
+  "uuid": "2fc0724d-0e78-415e-80a1-44bb728a6cb2",
+  "path": "/lib/x86_64-linux-gnu/libabsl_throw_delegate.so.20220623.0.0",
+  "size": 22704,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.941492393Z",
+  "sha256_hash": "336db4303a23bdbadedd27d41901bcef40aeaf81a63589a23aee9d76575d81b7",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.576448494Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "8fccd5a8-4c6a-4dca-bba3-3f487e40af10",
+  "path": "/lib/systemd/systemd-integritysetup",
+  "size": 23056,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.518779419Z",
+  "sha256_hash": "84af7626d72fb27febd6e6e5f7072e37e38fe793d7606a6cf2b5c9e72064fdb3",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.183598176Z"
+}

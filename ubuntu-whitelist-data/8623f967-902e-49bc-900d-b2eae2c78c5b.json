@@ -1,0 +1,17 @@
+{
+  "uuid": "8623f967-902e-49bc-900d-b2eae2c78c5b",
+  "path": "/lib/x86_64-linux-gnu/libgstsctp-1.0.so.0.2402.0",
+  "size": 14352,
+  "modified": "2024-04-15T13:00:06Z",
+  "created": "2025-05-09T05:09:28.092941013Z",
+  "sha256_hash": "fa9bd0c71dfab37056da6d2b8b57a2489c1f70f553d75d7764cbf82b51b5d44b",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.631030573Z"
+}

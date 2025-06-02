@@ -1,0 +1,17 @@
+{
+  "uuid": "5ef82cf5-b843-4a11-a74d-6c5d59dcf372",
+  "path": "/lib/x86_64-linux-gnu/ldscripts/i386pe.xe",
+  "size": 10625,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:52.050575349Z",
+  "sha256_hash": "fff247f2ca0d5b21a4c98e12962f74088338e1e8acf50d1333d23f380e3c7ef5",
+  "file_type": {
+    "Other": "xe"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:18.238967396Z"
+}

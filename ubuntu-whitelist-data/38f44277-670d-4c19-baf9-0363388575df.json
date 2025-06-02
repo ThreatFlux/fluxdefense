@@ -1,0 +1,17 @@
+{
+  "uuid": "38f44277-670d-4c19-baf9-0363388575df",
+  "path": "/lib/udev/scsi_id",
+  "size": 89320,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "76b1bc3f7af6cf25f34363ce9c9867e4d60d62215bce0c34ea4c56675e7b3490",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.358521633Z"
+}

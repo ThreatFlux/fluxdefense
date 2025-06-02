@@ -1,0 +1,15 @@
+{
+  "uuid": "637974c9-69ca-4c16-8b7b-be67c480bb78",
+  "path": "/usr/lib/systemd/systemd-sysctl",
+  "size": 23104,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.525779508Z",
+  "sha256_hash": "5299703248b66aa7533dccb509b26a1c49762557ddc0773df93c4e2b223a4f1a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.559870427Z"
+}

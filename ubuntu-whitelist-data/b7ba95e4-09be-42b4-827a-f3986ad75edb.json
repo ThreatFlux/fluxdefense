@@ -1,0 +1,17 @@
+{
+  "uuid": "b7ba95e4-09be-42b4-827a-f3986ad75edb",
+  "path": "/usr/lib/x86_64-linux-gnu/librbd.so.1.19.0",
+  "size": 8955032,
+  "modified": "2024-12-18T13:32:15Z",
+  "created": "2025-05-09T05:56:51.759617674Z",
+  "sha256_hash": "4bdda2ae5c0e60dab642b2805a9e2d301f36abb1b6d47d3dfab102bb6dbec41c",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.403377424Z"
+}

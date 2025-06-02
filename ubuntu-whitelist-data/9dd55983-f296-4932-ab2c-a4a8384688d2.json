@@ -1,0 +1,17 @@
+{
+  "uuid": "9dd55983-f296-4932-ab2c-a4a8384688d2",
+  "path": "/lib/llvm-18/include/clang-tidy/abseil/StringFindStrContainsCheck.h",
+  "size": 1445,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "2079856f730dd5a85ef7fe83feceb40192b40b0605fbdf76c743e2b8c50b3c52",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.902160256Z"
+}

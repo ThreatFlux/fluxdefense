@@ -1,0 +1,15 @@
+{
+  "uuid": "d860e846-c154-4eea-af9d-01904a61f9d2",
+  "path": "/usr/libexec/nm-openvpn-service-openvpn-helper",
+  "size": 31032,
+  "modified": "2024-03-31T09:21:00Z",
+  "created": "2025-05-09T05:07:37.548628080Z",
+  "sha256_hash": "6905a1bb7ba4db2a66f1671d71b0b32a8240ac25505c342661e2a8764524e1e2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.151543638Z"
+}

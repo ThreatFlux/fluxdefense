@@ -1,0 +1,17 @@
+{
+  "uuid": "409c565a-ce76-457b-aec9-2da1cf49f9e5",
+  "path": "/lib/llvm-18/include/clang/Basic/OpenCLOptions.h",
+  "size": 7597,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "5817130968566885e493658e0e6b7c08e28bfb9cd30003af9de23bff09184581",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.146585260Z"
+}

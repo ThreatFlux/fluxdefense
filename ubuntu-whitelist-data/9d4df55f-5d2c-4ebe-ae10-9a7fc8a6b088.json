@@ -1,0 +1,17 @@
+{
+  "uuid": "9d4df55f-5d2c-4ebe-ae10-9a7fc8a6b088",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-adl-max98390-rt5682-rtnr.tplg.zst",
+  "size": 2086,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.056491014Z",
+  "sha256_hash": "a77680766314fec8a9f559fbb59675a54f13ef6c27851c953cceaf2e72a0e875",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.852640988Z"
+}

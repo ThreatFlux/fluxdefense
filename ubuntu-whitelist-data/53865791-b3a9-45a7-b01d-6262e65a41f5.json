@@ -1,0 +1,17 @@
+{
+  "uuid": "53865791-b3a9-45a7-b01d-6262e65a41f5",
+  "path": "/lib/x86_64-linux-gnu/libnetsnmp.so.40.2.1",
+  "size": 875024,
+  "modified": "2025-03-06T06:51:59Z",
+  "created": "2025-05-09T05:24:31.364012255Z",
+  "sha256_hash": "42390ef9f37901c1f6f763c74d4144e7988a3e4b9cce7ecc47a5040c77a573f6",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.315485942Z"
+}

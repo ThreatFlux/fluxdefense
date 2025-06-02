@@ -1,0 +1,17 @@
+{
+  "uuid": "568f7e11-ff4f-4754-8385-1d13d0ed8a01",
+  "path": "/usr/lib/firmware/iwlwifi-9260-th-b0-jf-b0-34.ucode.zst",
+  "size": 450528,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.588541036Z",
+  "sha256_hash": "cb1e68005988a5435ef55e0a2e96698cdc617720ac7e8a66c468dc4fda8635e9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.589147557Z"
+}

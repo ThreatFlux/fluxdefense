@@ -1,0 +1,17 @@
+{
+  "uuid": "1edbc238-c8d3-4217-bc95-2f076bf79b75",
+  "path": "/usr/lib/x86_64-linux-gnu/libnl-route-3.so.200.26.0",
+  "size": 575344,
+  "modified": "2024-10-02T12:40:51Z",
+  "created": "2025-05-09T05:07:31.722716982Z",
+  "sha256_hash": "088b0021d638306f5541e7baab06a0182b07db0a280e19b3b40c746f729b3773",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.602429066Z"
+}

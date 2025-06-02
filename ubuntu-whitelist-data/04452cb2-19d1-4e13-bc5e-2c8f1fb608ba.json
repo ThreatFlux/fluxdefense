@@ -1,0 +1,15 @@
+{
+  "uuid": "04452cb2-19d1-4e13-bc5e-2c8f1fb608ba",
+  "path": "/usr/sbin/ntfscp",
+  "size": 31104,
+  "modified": "2024-04-08T14:46:29Z",
+  "created": "2025-05-09T05:07:38.370615536Z",
+  "sha256_hash": "cb548f9ab32007daf317b499b4718e7724ece1d1ab0210aad636e652343e6682",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.652135473Z"
+}

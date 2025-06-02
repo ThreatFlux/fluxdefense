@@ -1,0 +1,17 @@
+{
+  "uuid": "870dfe3f-8d2c-4241-b9ea-93e45c7bff33",
+  "path": "/usr/lib/systemd/system/systemd-journald.service",
+  "size": 2449,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "99389b0e3329dad0828df1600cdd31ec271bcc3403bc014018903c5705ec68ef",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.482946594Z"
+}

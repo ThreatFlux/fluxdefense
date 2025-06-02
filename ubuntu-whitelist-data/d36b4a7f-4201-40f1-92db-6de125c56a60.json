@@ -1,0 +1,17 @@
+{
+  "uuid": "d36b4a7f-4201-40f1-92db-6de125c56a60",
+  "path": "/lib/firmware/mellanox/lc_ini_bundle_2010_1006.bin.zst",
+  "size": 600,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.692539596Z",
+  "sha256_hash": "727f3b31f7a1ac5d3d9c68803f0ccacf43d796b6f9eb69909984a0a050656cfb",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.581017358Z"
+}

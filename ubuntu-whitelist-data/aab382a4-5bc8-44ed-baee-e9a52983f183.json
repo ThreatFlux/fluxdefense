@@ -1,0 +1,17 @@
+{
+  "uuid": "aab382a4-5bc8-44ed-baee-e9a52983f183",
+  "path": "/usr/lib/x86_64-linux-gnu/libXxf86dga.so.1.0.0",
+  "size": 27104,
+  "modified": "2024-04-08T16:10:41Z",
+  "created": "2025-05-09T05:07:29.061757588Z",
+  "sha256_hash": "afa0441608b47d4dc9314ff1532e8affab5ab4405b2998b5078c38493298181a",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.118793649Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "38ab4b48-117d-4cc1-b96b-b6ca20239c80",
+  "path": "/lib/firmware/i915/mtl_huc_gsc.bin.zst",
+  "size": 143249,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.542541673Z",
+  "sha256_hash": "0ef80592db14471d6b29ba4b60010fa2cecf0bf089d4618d0c7a4ae7aca007d5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.705292954Z"
+}

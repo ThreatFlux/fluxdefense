@@ -1,0 +1,15 @@
+{
+  "uuid": "8cb75d85-5b51-4dd6-adbf-00a875a3e7f5",
+  "path": "/sbin/filegone-bpfcc",
+  "size": 5776,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "5cb9e128ecd542ad186d88c03a80c0834449ed5c69f8961ddce6832e95f9c4dc",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.684792377Z"
+}

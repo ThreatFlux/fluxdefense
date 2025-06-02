@@ -1,0 +1,17 @@
+{
+  "uuid": "9a43f390-1c25-4601-9171-99c071f31c9d",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-vade32.ali",
+  "size": 3844,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.145343843Z",
+  "sha256_hash": "b6935e2a5e2b58991c3eb94b7cc8592d6359859d0d4962aa2bfd5f8de47b65c6",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.586346863Z"
+}

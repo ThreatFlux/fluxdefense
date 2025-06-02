@@ -1,0 +1,17 @@
+{
+  "uuid": "320172a8-cd8b-4ae9-b510-63b789f99868",
+  "path": "/lib/llvm-18/include/clang-tidy/modernize/UseNoexceptCheck.h",
+  "size": 1619,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "c2616e771463b5cd6d5e7100b574c238c6d0b138e5d6441a1047929e8aa9aff4",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.909496915Z"
+}

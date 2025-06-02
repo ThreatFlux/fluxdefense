@@ -1,0 +1,15 @@
+{
+  "uuid": "b67adb2d-4e9b-468a-8bec-21816876176c",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/libGB.so",
+  "size": 71672,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.694656371Z",
+  "sha256_hash": "253aa725ff02887be7ce19be7638dae80af46299633c00c3bf2479da1f686d0c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.595541153Z"
+}

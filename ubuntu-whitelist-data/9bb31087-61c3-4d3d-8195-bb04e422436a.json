@@ -1,0 +1,17 @@
+{
+  "uuid": "9bb31087-61c3-4d3d-8195-bb04e422436a",
+  "path": "/lib/firmware/vntwusb.fw.zst",
+  "size": 4814,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.082534194Z",
+  "sha256_hash": "389da69c0d5161b1850ee839699529d9bbf9bf7c440dfa2d30af87ba3c0c25fe",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.989350966Z"
+}

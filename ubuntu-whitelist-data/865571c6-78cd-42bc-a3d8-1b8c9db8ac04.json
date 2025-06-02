@@ -1,0 +1,17 @@
+{
+  "uuid": "865571c6-78cd-42bc-a3d8-1b8c9db8ac04",
+  "path": "/lib/systemd/system/snapd.autoimport.service",
+  "size": 487,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.384025824Z",
+  "sha256_hash": "f55870ce0da6ea0ddb774e46f8cb3d560987dc80051ca57788daaf04b0f4215a",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.120981391Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "ceb09da1-7684-4209-a1e5-5f8db84956e7",
+  "path": "/usr/lib/udev/hwdb.d/60-input-id.hwdb",
+  "size": 2534,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.059786335Z",
+  "sha256_hash": "479c6c94f85f818513fa693cfeaf9bee9e9419fc75fbe9eb203147a64a4b9382",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.118362225Z"
+}

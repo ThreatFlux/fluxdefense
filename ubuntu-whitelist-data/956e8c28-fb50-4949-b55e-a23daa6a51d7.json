@@ -1,0 +1,17 @@
+{
+  "uuid": "956e8c28-fb50-4949-b55e-a23daa6a51d7",
+  "path": "/lib/llvm-18/include/clang-tidy/cppcoreguidelines/NoMallocCheck.h",
+  "size": 2535,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "c8f51c6ae625e5aaec04d33fddd6473ba05991f81f1a19274702e89875858a40",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.905572743Z"
+}

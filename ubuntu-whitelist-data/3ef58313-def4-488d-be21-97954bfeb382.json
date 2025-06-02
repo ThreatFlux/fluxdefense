@@ -1,0 +1,15 @@
+{
+  "uuid": "3ef58313-def4-488d-be21-97954bfeb382",
+  "path": "/sbin/groupmems",
+  "size": 59744,
+  "modified": "2024-05-30T14:52:35Z",
+  "created": "2025-05-09T05:07:38.212617947Z",
+  "sha256_hash": "169b8a9ce68bb5cab56abd5a4591568a45602a928dcf3fe2881f23c1cfc9ef5b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.801541673Z"
+}

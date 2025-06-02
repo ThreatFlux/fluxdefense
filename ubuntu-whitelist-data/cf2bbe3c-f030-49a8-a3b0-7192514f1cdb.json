@@ -1,0 +1,17 @@
+{
+  "uuid": "cf2bbe3c-f030-49a8-a3b0-7192514f1cdb",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/zlib.pc",
+  "size": 262,
+  "modified": "2024-08-09T02:33:20Z",
+  "created": "2025-05-13T14:30:45.914482351Z",
+  "sha256_hash": "16e901f4f7f468f7b503617c74a0d2816d3f8e407965bf601fcda452605544d9",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.103570478Z"
+}

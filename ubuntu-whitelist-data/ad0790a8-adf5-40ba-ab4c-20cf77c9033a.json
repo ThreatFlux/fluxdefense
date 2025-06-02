@@ -1,0 +1,15 @@
+{
+  "uuid": "ad0790a8-adf5-40ba-ab4c-20cf77c9033a",
+  "path": "/usr/bin/tmux",
+  "size": 1102608,
+  "modified": "2024-07-10T21:57:26Z",
+  "created": "2025-05-23T03:43:49.107699035Z",
+  "sha256_hash": "034b15c64035f783d43862f2775eb4828f61571ca62c8199796000b97d556ecd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:13.967826547Z"
+}

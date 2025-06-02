@@ -1,0 +1,17 @@
+{
+  "uuid": "e8ec825f-f140-4ef3-8aaa-ed7f1cb860f6",
+  "path": "/usr/lib/firmware/ath11k/IPQ5018/hw1.0/q6_fw.b05.zst",
+  "size": 4667,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.447542989Z",
+  "sha256_hash": "f8a5033ae69ea7b75724789b6bbe9561542566361f1cff574d9a2b2c81e6d64d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:58.118860457Z"
+}

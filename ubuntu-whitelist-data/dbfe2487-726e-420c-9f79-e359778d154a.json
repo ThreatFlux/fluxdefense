@@ -1,0 +1,17 @@
+{
+  "uuid": "dbfe2487-726e-420c-9f79-e359778d154a",
+  "path": "/lib/llvm-18/include/clang-tidy/performance/MoveConstructorInitCheck.h",
+  "size": 1444,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "68c1ffca7ba6099eb319360be3fe8439872fad9ab9d720e360ae8cfe73d4c36f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.920484335Z"
+}

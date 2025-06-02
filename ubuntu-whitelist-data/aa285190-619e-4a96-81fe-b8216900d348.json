@@ -1,0 +1,17 @@
+{
+  "uuid": "aa285190-619e-4a96-81fe-b8216900d348",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/ru_dict",
+  "size": 2014629,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.517659072Z",
+  "sha256_hash": "4f3d9e66d1644f43518ef8dc3b6c350d0ce833b36bfe6709b6a58b1ca4a630cd",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.258314038Z"
+}

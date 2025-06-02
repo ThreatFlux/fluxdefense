@@ -1,0 +1,17 @@
+{
+  "uuid": "4b26f88e-19cb-4f43-a12e-7efc83d61b57",
+  "path": "/lib/firmware/bnx2x/bnx2x-e2-7.13.11.0.fw.zst",
+  "size": 289057,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.479542546Z",
+  "sha256_hash": "649a762defc3c766f6a1a377b9a8faac432d72f238785ee7d4dd89f25853ef04",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.275884003Z"
+}

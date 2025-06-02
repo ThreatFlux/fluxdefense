@@ -1,0 +1,17 @@
+{
+  "uuid": "2b8b95cd-24b4-4000-b415-cc559f67e46b",
+  "path": "/lib/udev/rules.d/80-drivers.rules",
+  "size": 600,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "0941cea0be8d3564556b5787a87cf55971fd3e46e19c56ad68a4205e8ad3a560",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.241767176Z"
+}

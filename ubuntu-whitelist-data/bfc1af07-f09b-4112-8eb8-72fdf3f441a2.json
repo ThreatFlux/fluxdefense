@@ -1,0 +1,17 @@
+{
+  "uuid": "bfc1af07-f09b-4112-8eb8-72fdf3f441a2",
+  "path": "/lib/x86_64-linux-gnu/libfido2.so.1.14.0",
+  "size": 219200,
+  "modified": "2024-04-14T22:20:52Z",
+  "created": "2025-05-09T05:07:29.457751545Z",
+  "sha256_hash": "8160b772da6185d76fe742b152950308e81aef2ace3de892349aded7da149e57",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.183924870Z"
+}

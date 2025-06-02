@@ -1,0 +1,17 @@
+{
+  "uuid": "942858d5-97e3-44eb-8b60-e34f5aa1f466",
+  "path": "/lib/firmware/mrvl/pcieuart8997_combo_v4.bin.zst",
+  "size": 421847,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.793538197Z",
+  "sha256_hash": "eb16ee9f2adccd431ed6b2642975e785461ed01a8397bd817ecc389b788e8dd8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.866712742Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "034f7b19-f975-4e82-ab33-a87c01cdb652",
+  "path": "/usr/lib/ipxe/qemu/compat-256k-efi-pcnet.rom",
+  "size": 250368,
+  "modified": "2024-04-16T21:48:11Z",
+  "created": "2025-05-09T05:56:50.554631209Z",
+  "sha256_hash": "acbd2a7e009621dd19cc9cfa6ae53ad899828374a0a7bc8c6f5df540de1bd304",
+  "file_type": {
+    "Other": "rom"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.367194104Z"
+}

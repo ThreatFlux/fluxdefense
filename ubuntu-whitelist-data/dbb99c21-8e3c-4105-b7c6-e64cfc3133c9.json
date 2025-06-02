@@ -1,0 +1,15 @@
+{
+  "uuid": "dbb99c21-8e3c-4105-b7c6-e64cfc3133c9",
+  "path": "/usr/lib/byobu/apport",
+  "size": 1543,
+  "modified": "2024-02-10T17:03:36Z",
+  "created": "2025-05-23T03:43:49.241694174Z",
+  "sha256_hash": "71c38161b4b43c98c10c3aa8793f16bcbc11195c9114185b1f65af538a34d8ab",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.303533741Z"
+}

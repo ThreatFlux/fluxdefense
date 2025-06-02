@@ -1,0 +1,17 @@
+{
+  "uuid": "8c4200d5-cd9d-43c1-8582-5482a1c8112f",
+  "path": "/usr/lib/firmware/amdgpu/bonaire_mec.bin.zst",
+  "size": 8627,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.389543793Z",
+  "sha256_hash": "b7653fb5f8716e7084cf81a06670af03e4de25d6396be8f93144b91c66fc8ef0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.095153243Z"
+}

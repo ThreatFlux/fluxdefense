@@ -1,0 +1,17 @@
+{
+  "uuid": "41163589-3cb6-4be9-82fd-dba420c90b2c",
+  "path": "/lib/x86_64-linux-gnu/libLerc.so.4",
+  "size": 546992,
+  "modified": "2024-04-08T16:01:10Z",
+  "created": "2025-05-09T05:07:29.048757786Z",
+  "sha256_hash": "a0ee52df526738293bdd232ddaefbb0d1d9c2da775a82fc6730e7cd394da560c",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.450143454Z"
+}

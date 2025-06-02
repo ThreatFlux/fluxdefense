@@ -1,0 +1,15 @@
+{
+  "uuid": "ff85fce2-f816-426c-a69e-b222eecbb83f",
+  "path": "/usr/bin/fc-scan",
+  "size": 14720,
+  "modified": "2024-03-31T00:59:34Z",
+  "created": "2025-05-09T05:07:19.212907877Z",
+  "sha256_hash": "ecdae5d94ef9b5b51151f78b14c1ce2ff2cf136111c99f62ebf100cb7a383034",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.374534499Z"
+}

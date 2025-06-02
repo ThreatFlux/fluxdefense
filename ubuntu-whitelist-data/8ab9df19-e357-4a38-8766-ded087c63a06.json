@@ -1,0 +1,15 @@
+{
+  "uuid": "8ab9df19-e357-4a38-8766-ded087c63a06",
+  "path": "/lib/llvm-18/lib/libLLVMipo.a",
+  "size": 8542828,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.087460387Z",
+  "sha256_hash": "3d9274712df6e5eb366a72d8082904943c9907e2532409735ef6e86aee40eb67",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:37.948393701Z"
+}

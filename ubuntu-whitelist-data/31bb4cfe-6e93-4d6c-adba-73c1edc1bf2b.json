@@ -1,0 +1,15 @@
+{
+  "uuid": "31bb4cfe-6e93-4d6c-adba-73c1edc1bf2b",
+  "path": "/bin/qemu-io",
+  "size": 2424000,
+  "modified": "2025-03-13T16:15:00Z",
+  "created": "2025-05-22T16:56:50.155983050Z",
+  "sha256_hash": "81a1fad854d59908af68c254152cd320efee4b6acaf4d71219ad98da150ae6fd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.298359834Z"
+}

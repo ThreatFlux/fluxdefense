@@ -1,0 +1,17 @@
+{
+  "uuid": "52d5e806-025b-4e27-83cc-b39f43181995",
+  "path": "/usr/lib/x86_64-linux-gnu/libxcvt.so.0.1.2",
+  "size": 14408,
+  "modified": "2024-04-08T16:09:28Z",
+  "created": "2025-05-09T05:07:35.150664672Z",
+  "sha256_hash": "36bf138363f3412fc1bc620c7e714809b6de6b4e0cfa5b245f7f1294aea119d2",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.327606217Z"
+}

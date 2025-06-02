@@ -1,0 +1,15 @@
+{
+  "uuid": "53d91924-5b84-4d78-b5b9-34d229a56f86",
+  "path": "/usr/lib/apt/methods/file",
+  "size": 59872,
+  "modified": "2024-10-22T13:02:22Z",
+  "created": "2025-05-30T21:04:50.159634116Z",
+  "sha256_hash": "bf5864959417e354b539fd361ecc1c757312593bf0c8530b36def9bc34f1bd86",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.967537625Z"
+}

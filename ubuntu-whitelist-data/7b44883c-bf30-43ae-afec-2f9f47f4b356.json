@@ -1,0 +1,15 @@
+{
+  "uuid": "7b44883c-bf30-43ae-afec-2f9f47f4b356",
+  "path": "/lib/x86_64-linux-gnu/remmina/plugins/remmina-plugin-secret.so",
+  "size": 15040,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:36.980636747Z",
+  "sha256_hash": "7baa2064892dded3d20281ac9685e82242f82be6b595fa313dba92da2f182cf3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.385360174Z"
+}

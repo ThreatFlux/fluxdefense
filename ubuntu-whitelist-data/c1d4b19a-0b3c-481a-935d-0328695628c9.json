@@ -1,0 +1,17 @@
+{
+  "uuid": "c1d4b19a-0b3c-481a-935d-0328695628c9",
+  "path": "/lib/libBLTlite.2.5.so.8.6",
+  "size": 324648,
+  "modified": "2024-04-08T15:54:39Z",
+  "created": "2025-05-28T17:29:44.082603101Z",
+  "sha256_hash": "18f191311e33e4e81921a782e6c253b08262b355bea430e2a4ee44e45083cfdd",
+  "file_type": {
+    "Other": "6"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.590667384Z"
+}

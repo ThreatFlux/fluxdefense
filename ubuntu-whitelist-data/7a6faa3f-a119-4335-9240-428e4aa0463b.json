@@ -1,0 +1,15 @@
+{
+  "uuid": "7a6faa3f-a119-4335-9240-428e4aa0463b",
+  "path": "/sbin/fsadm",
+  "size": 24580,
+  "modified": "2024-11-27T19:06:49Z",
+  "created": "2025-05-09T05:56:54.626585473Z",
+  "sha256_hash": "8504359b29d482d95055e87240b6bc6c66887caf8c28c84df1f88c7927419faa",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.143407860Z"
+}

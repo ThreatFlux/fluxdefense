@@ -1,0 +1,15 @@
+{
+  "uuid": "445adee8-f739-4ffe-87ad-c77bc27c8edb",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/config/cc_rsyslog.py",
+  "size": 11823,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.235037163Z",
+  "sha256_hash": "80f0f28a706e7a42e3d713bb6bfa4d8ee903e7edb2c0315e390f31da2587ae8c",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.855859890Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "b1c5390c-d8f9-4992-905a-57dc88cf0d07",
+  "path": "/usr/lib/x86_64-linux-gnu/speech-dispatcher/spd_oss.so",
+  "size": 18720,
+  "modified": "2024-04-07T07:23:33Z",
+  "created": "2025-05-09T05:07:37.239632795Z",
+  "sha256_hash": "60b77eeaf0622fe14d0b817070ee50fe429f65631f59e1b28240412cbbc531f6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:11.680805942Z"
+}

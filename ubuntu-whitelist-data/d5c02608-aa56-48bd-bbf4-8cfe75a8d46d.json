@@ -1,0 +1,17 @@
+{
+  "uuid": "d5c02608-aa56-48bd-bbf4-8cfe75a8d46d",
+  "path": "/lib/x86_64-linux-gnu/libwhoopsie-preferences.so.0.0.0",
+  "size": 44112,
+  "modified": "2024-03-31T08:33:05Z",
+  "created": "2025-05-09T05:07:35.000666961Z",
+  "sha256_hash": "f915588cf2b6c1b29e3602d9a47d5e228f3b5dbf499ab5787553b14f1245c1bc",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.849046767Z"
+}

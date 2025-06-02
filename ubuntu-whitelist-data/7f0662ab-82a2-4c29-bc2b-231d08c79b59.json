@@ -1,0 +1,17 @@
+{
+  "uuid": "7f0662ab-82a2-4c29-bc2b-231d08c79b59",
+  "path": "/usr/lib/llvm-18/include/clang/CodeGen/ObjectFilePCHContainerOperations.h",
+  "size": 1738,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.539533450Z",
+  "sha256_hash": "a9c7ee97c23bc89e89a232c189fb2247465a553fc8e8cd8d99b25c5dea5e0e66",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.310361791Z"
+}

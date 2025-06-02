@@ -1,0 +1,15 @@
+{
+  "uuid": "93ca1018-25c1-45bf-8196-f95db68ad629",
+  "path": "/lib/python3/dist-packages/cloudinit/sources/DataSourceOracle.py",
+  "size": 21580,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.242037257Z",
+  "sha256_hash": "a81b329f96a78a0c43c605796eac1183a2e74ffc22e65bd4a88bad8bb997e63d",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.900420308Z"
+}

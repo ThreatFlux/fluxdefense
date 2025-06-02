@@ -1,0 +1,15 @@
+{
+  "uuid": "30f644f6-edf7-4ea1-bdc4-b2c29c70d642",
+  "path": "/bin/pkexec",
+  "size": 30952,
+  "modified": "2024-12-02T11:59:52Z",
+  "created": "2025-05-09T05:07:20.299891290Z",
+  "sha256_hash": "b043924e7ba28b86f9c9ca1b67d3eb0f515c6e2f9873486a3435a2145464aa17",
+  "file_type": "Executable",
+  "permissions": 35309,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.515446446Z"
+}

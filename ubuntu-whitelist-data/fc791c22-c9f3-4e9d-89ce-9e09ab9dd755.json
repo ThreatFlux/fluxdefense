@@ -1,0 +1,17 @@
+{
+  "uuid": "fc791c22-c9f3-4e9d-89ce-9e09ab9dd755",
+  "path": "/lib/snapd/snapd",
+  "size": 24753992,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.546027982Z",
+  "sha256_hash": "daf0a2fd7401e6d12fc0f977aee6ae6754cf5cfa88fec7d26a367053a6547ef6",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.495046661Z"
+}

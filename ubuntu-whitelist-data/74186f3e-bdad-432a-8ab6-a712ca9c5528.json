@@ -1,0 +1,17 @@
+{
+  "uuid": "74186f3e-bdad-432a-8ab6-a712ca9c5528",
+  "path": "/lib/firmware/intel/ipu/ipu7_fw.bin.zst",
+  "size": 130752,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.567541327Z",
+  "sha256_hash": "91cd18ec2b755c974cae927ddd121c59051366433273dee0f5f34ea79f4a3aa8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.171368824Z"
+}

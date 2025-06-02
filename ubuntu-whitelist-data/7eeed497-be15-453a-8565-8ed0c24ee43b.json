@@ -1,0 +1,15 @@
+{
+  "uuid": "7eeed497-be15-453a-8565-8ed0c24ee43b",
+  "path": "/usr/lib/llvm-18/lib/libLLVMX86Info.a",
+  "size": 7100,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.084460426Z",
+  "sha256_hash": "6a08b33e79527a51735dcb4fe16e6d38a7d064ea18670edf6b986e3f68b3a347",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:34.921745027Z"
+}

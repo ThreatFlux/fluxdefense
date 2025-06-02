@@ -1,0 +1,17 @@
+{
+  "uuid": "93864a15-cfa2-4576-a442-92c973393bd2",
+  "path": "/lib/llvm-18/include/clang/Tooling/ToolExecutorPluginRegistry.h",
+  "size": 770,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.554533252Z",
+  "sha256_hash": "c592065a59b0c785c3014ab1e30f91a1049c13799cf0c3f7058ba222b6957a2d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.019481443Z"
+}

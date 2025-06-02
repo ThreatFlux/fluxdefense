@@ -1,0 +1,15 @@
+{
+  "uuid": "2ae5f94e-e7bf-4684-9529-dd523eee8adf",
+  "path": "/lib/llvm-18/lib/libLLVMCFIVerify.a",
+  "size": 155916,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.823463864Z",
+  "sha256_hash": "04d80f17ae956ef07102b0c257c01e1498ae9faa2dffce9bc0db43a149a24e81",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.142039809Z"
+}

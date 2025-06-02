@@ -1,0 +1,17 @@
+{
+  "uuid": "a9220bbd-a9b7-4503-9f68-b1ea2fa80cd1",
+  "path": "/lib/llvm-18/include/clang-tidy/cppcoreguidelines/AvoidNonConstGlobalVariablesCheck.h",
+  "size": 1394,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "4ebb5d78c96c3eef7ca9c1bd2bf84fff5af02a8c7dcb2716538a0617677cd993",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.907121343Z"
+}

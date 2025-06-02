@@ -1,0 +1,17 @@
+{
+  "uuid": "42d67bcb-2840-46c9-a719-383d3bc59bc6",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/cppcoreguidelines/MacroUsageCheck.h",
+  "size": 2189,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "25dad9f3fe45649d496c6a0f00974907d70dc9367d338f572e5ca9ec7d120b47",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.252391350Z"
+}

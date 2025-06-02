@@ -1,0 +1,17 @@
+{
+  "uuid": "6d1fdc2f-bb25-4c0a-a638-6b013ca40100",
+  "path": "/usr/lib/sysusers.d/dbus.conf",
+  "size": 211,
+  "modified": "2024-08-09T02:33:22Z",
+  "created": "2025-05-09T05:07:28.308769079Z",
+  "sha256_hash": "8d6c76ba6b7eaba0c987ab294f3534f3603dc5717349271cef7f46e7c530727a",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.296680464Z"
+}

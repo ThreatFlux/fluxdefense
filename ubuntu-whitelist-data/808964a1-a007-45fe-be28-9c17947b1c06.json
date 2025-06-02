@@ -1,0 +1,15 @@
+{
+  "uuid": "808964a1-a007-45fe-be28-9c17947b1c06",
+  "path": "/sbin/sgdisk",
+  "size": 182768,
+  "modified": "2024-03-31T05:38:03Z",
+  "created": "2025-05-09T05:07:38.418614804Z",
+  "sha256_hash": "ad863c91702dfc0237866268433167516948812aee763b4f2d77a39ebd160878",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.740782134Z"
+}

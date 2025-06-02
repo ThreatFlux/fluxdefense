@@ -1,0 +1,17 @@
+{
+  "uuid": "ce59c87c-7e25-4dab-9062-2e13db7020f4",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/misc/NoRecursionCheck.h",
+  "size": 1408,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "30b44ee2623b6a1a2e1d1f54c96de38acbe25016426c8e3005347de9f295b004",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.278213447Z"
+}

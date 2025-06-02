@@ -1,0 +1,17 @@
+{
+  "uuid": "c4735573-79b1-40b0-8196-4e3531a9bbfa",
+  "path": "/lib/udev/rules.d/77-mm-zte-port-types.rules",
+  "size": 17179,
+  "modified": "2024-02-19T14:58:32Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "a194d370066decda810670c71c9b812ef1eb3fe33b8903b2585f689f8e96dbc0",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.242291414Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "6df976a0-4e60-4414-8490-1a7876beff29",
+  "path": "/lib/firmware/amdgpu/yellow_carp_pfp.bin.zst",
+  "size": 14938,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.427543266Z",
+  "sha256_hash": "fbf68bfadf0dde75e6b3562b68f0b34d06171f170669e086c63402aa360dc6d7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.115032088Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "129f65ff-0b2d-48da-a677-548c08eff594",
+  "path": "/lib/x86_64-linux-gnu/libanl.a",
+  "size": 8,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:08:53.060475691Z",
+  "sha256_hash": "f0a17a43c74d2fe5474fa2fd29c8f14799e777d7d75a2cc4d11c20a6e7b161c5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.585288963Z"
+}

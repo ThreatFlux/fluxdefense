@@ -1,0 +1,15 @@
+{
+  "uuid": "6d00c195-98c0-49ec-b129-dc786b674b0e",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/IBM1390.so",
+  "size": 235728,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.643657150Z",
+  "sha256_hash": "6fa31a5072dcabb355d7afe0d6f32ad555d05e568cea66b6956d9772475a0e09",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.576564224Z"
+}

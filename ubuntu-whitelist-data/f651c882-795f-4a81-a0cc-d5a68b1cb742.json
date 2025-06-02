@@ -1,0 +1,17 @@
+{
+  "uuid": "f651c882-795f-4a81-a0cc-d5a68b1cb742",
+  "path": "/usr/lib/firmware/mrvl/sd8797_uapsta.bin.zst",
+  "size": 360180,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.886536909Z",
+  "sha256_hash": "77ad635688ac286924a606dcc7f16d9af005df2772fd5215463e84c4abeeb386",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.387812571Z"
+}

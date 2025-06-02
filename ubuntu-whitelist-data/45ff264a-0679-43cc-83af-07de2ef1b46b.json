@@ -1,0 +1,17 @@
+{
+  "uuid": "45ff264a-0679-43cc-83af-07de2ef1b46b",
+  "path": "/lib/x86_64-linux-gnu/libgspell-1.so.2.3.2",
+  "size": 145624,
+  "modified": "2024-03-31T01:16:07Z",
+  "created": "2025-05-09T05:07:30.017743Z",
+  "sha256_hash": "3a9e6270cdadf20a38c73f5e3478e7609f49be2679eb233347eb1f6af6d0574b",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.301068866Z"
+}

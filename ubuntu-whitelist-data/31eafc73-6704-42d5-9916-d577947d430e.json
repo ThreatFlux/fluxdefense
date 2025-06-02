@@ -1,0 +1,17 @@
+{
+  "uuid": "31eafc73-6704-42d5-9916-d577947d430e",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/bits/sigstksz.ph",
+  "size": 568,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.558590717Z",
+  "sha256_hash": "4a76afb1ee4cb05642a679ab8d3eb3ad0da39921a77b0ef9acd2e5d8d7aa8c2e",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.592984237Z"
+}

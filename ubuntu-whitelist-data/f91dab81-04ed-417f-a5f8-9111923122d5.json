@@ -1,0 +1,15 @@
+{
+  "uuid": "f91dab81-04ed-417f-a5f8-9111923122d5",
+  "path": "/lib/libreoffice/program/libstorelo.so",
+  "size": 121512,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:03.456485425Z",
+  "sha256_hash": "ca1cbee3cb7ee153a7952ccde0253c72c7265127422cbe22c526ca625a3c60af",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:51.416623899Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "c381e2a4-c73b-4eb6-be59-8378d0f7bf7f",
+  "path": "/bin/suricata-update",
+  "size": 1285,
+  "modified": "2023-10-11T11:43:25Z",
+  "created": "2025-05-26T20:18:27.984008895Z",
+  "sha256_hash": "6ba34efd392c6ea96b737098a9b53654168d4c0fffec56a06edcb65bf4b27ff8",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.171237784Z"
+}

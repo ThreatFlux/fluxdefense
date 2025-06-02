@@ -1,0 +1,17 @@
+{
+  "uuid": "c5d50f9f-e108-43d2-bc22-0738e8db08c0",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/cert/MutatingCopyCheck.h",
+  "size": 1349,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "42183ba631366088c789c070ba63a8cd99d63ef8e5e9911ae37a00ad012123d1",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.263653937Z"
+}

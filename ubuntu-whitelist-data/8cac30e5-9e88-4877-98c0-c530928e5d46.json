@@ -1,0 +1,17 @@
+{
+  "uuid": "8cac30e5-9e88-4877-98c0-c530928e5d46",
+  "path": "/lib/firmware/nxp/uartiw416_bt_v0.bin.zst",
+  "size": 103579,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.962535856Z",
+  "sha256_hash": "fc80250beeb85a25e4b284a310faec17af257aa58765cc956d2ef32375a7dbb2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.676685557Z"
+}

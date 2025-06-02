@@ -1,0 +1,17 @@
+{
+  "uuid": "544e9faa-fffd-4642-9c64-e50533dcf348",
+  "path": "/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-103c8c53-amp1.bin.zst",
+  "size": 3714,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.509542131Z",
+  "sha256_hash": "e720419462fb4124a655d5fc65b3a43591a59f044b3363fbebde5457c96029e9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.122456682Z"
+}

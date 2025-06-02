@@ -1,0 +1,17 @@
+{
+  "uuid": "459aa836-833a-4d94-8a82-28e4b3223422",
+  "path": "/lib/firmware/cnm/wave521c_k3_codec_fw.bin.zst",
+  "size": 159671,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.510542117Z",
+  "sha256_hash": "01b98684dad6cf61f473bed455104fea067df75aa5f439fbbd625c96a852ce3e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.702550549Z"
+}

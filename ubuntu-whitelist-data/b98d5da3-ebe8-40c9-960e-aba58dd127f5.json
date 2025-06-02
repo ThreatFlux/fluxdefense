@@ -1,0 +1,17 @@
+{
+  "uuid": "b98d5da3-ebe8-40c9-960e-aba58dd127f5",
+  "path": "/usr/lib/grub/x86_64-efi/tr.mod",
+  "size": 3720,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "1307f76a117f4f3380fef8152e8c1c9fc3fa06b64290bd08337dc2a86f302f66",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.472129454Z"
+}

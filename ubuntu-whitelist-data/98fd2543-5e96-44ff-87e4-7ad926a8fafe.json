@@ -1,0 +1,17 @@
+{
+  "uuid": "98fd2543-5e96-44ff-87e4-7ad926a8fafe",
+  "path": "/usr/lib/x86_64-linux-gnu/perl5/5.38/Glib/CodeGen.pm",
+  "size": 21232,
+  "modified": "2020-06-06T05:54:07Z",
+  "created": "2025-05-09T05:07:36.873638380Z",
+  "sha256_hash": "8733931d68c44dcc3ca3b13611d172d15e699c9c9eaf39b8463a48128cc4a183",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.626281861Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a645a2e9-3e2e-40b2-93d3-eca5e7f5a875",
+  "path": "/lib/grub/x86_64-efi/odc.mod",
+  "size": 4736,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.837708018Z",
+  "sha256_hash": "2c46b03bb5c5abf3cfcbded4fceadd5e1318d983daa79196a495d91a80f912ca",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.137977739Z"
+}

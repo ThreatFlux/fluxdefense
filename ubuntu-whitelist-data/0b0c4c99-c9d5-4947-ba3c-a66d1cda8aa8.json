@@ -1,0 +1,17 @@
+{
+  "uuid": "0b0c4c99-c9d5-4947-ba3c-a66d1cda8aa8",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-secain.ali",
+  "size": 2340,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.101344448Z",
+  "sha256_hash": "22fa7078119f69b5cb4714d06a3fdc0d4d0cba50187e614d2a852edd05aad2e5",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.694179083Z"
+}

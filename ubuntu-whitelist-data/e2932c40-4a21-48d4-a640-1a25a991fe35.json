@@ -1,0 +1,17 @@
+{
+  "uuid": "e2932c40-4a21-48d4-a640-1a25a991fe35",
+  "path": "/lib/llvm-18/include/clang/Analysis/MacroExpansionContext.h",
+  "size": 5010,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.524533647Z",
+  "sha256_hash": "5ce429149f5557b4bfb3f9ff1cfdae9f1d942aec2cf198bae580c0f97aab0693",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.185803382Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "fc639410-790e-4824-be1a-7296266e1820",
+  "path": "/usr/lib/cups/driver/foo2zjs",
+  "size": 33527,
+  "modified": "2024-04-10T21:38:27Z",
+  "created": "2025-05-09T05:07:21.064879617Z",
+  "sha256_hash": "33b2f5bd922c31b31880a46e06505bf6a87d2a2a8d11c4afd772d7aeb12f2a8e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.014973473Z"
+}

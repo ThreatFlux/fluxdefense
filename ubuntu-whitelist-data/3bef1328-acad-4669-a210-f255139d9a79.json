@@ -1,0 +1,15 @@
+{
+  "uuid": "3bef1328-acad-4669-a210-f255139d9a79",
+  "path": "/usr/lib/xorg/modules/drivers/ati_drv.so",
+  "size": 14656,
+  "modified": "2024-04-08T16:23:28Z",
+  "created": "2025-05-09T05:07:37.355631025Z",
+  "sha256_hash": "6e32e2672fc3c77288603102c05cbcb50df1a3ec49454df07b498b521486fa16",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.624629622Z"
+}

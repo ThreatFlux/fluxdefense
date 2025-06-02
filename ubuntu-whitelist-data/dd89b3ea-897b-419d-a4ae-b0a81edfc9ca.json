@@ -1,0 +1,17 @@
+{
+  "uuid": "dd89b3ea-897b-419d-a4ae-b0a81edfc9ca",
+  "path": "/usr/lib/systemd/user/gnome-session-shutdown.target",
+  "size": 1545,
+  "modified": "2024-03-18T19:30:06Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "8e1c928ca33e415ed97b62abb9f5413f645986105a7b072ae4a7e5d2e38cf122",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.492875782Z"
+}

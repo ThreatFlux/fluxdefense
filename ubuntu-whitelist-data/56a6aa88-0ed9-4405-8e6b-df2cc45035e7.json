@@ -1,0 +1,17 @@
+{
+  "uuid": "56a6aa88-0ed9-4405-8e6b-df2cc45035e7",
+  "path": "/usr/lib/systemd/user/launchpadlib-cache-clean.timer",
+  "size": 144,
+  "modified": "2024-02-24T23:33:49Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "2aad5faceba1104670893ac332fcd3702d148d6ee32420019bcdf76d184d34d1",
+  "file_type": {
+    "Other": "timer"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.495551578Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "80582a03-2d01-4372-a548-d471b04d6ab0",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/crtfastmath.o",
+  "size": 4080,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.240389918Z",
+  "sha256_hash": "c148d3e5a156e9a278e4a0b978f353ebdbdb495dfd6105afb1c9856c8adb1418",
+  "file_type": {
+    "Other": "o"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.585044115Z"
+}

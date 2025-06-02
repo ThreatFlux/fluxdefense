@@ -1,0 +1,17 @@
+{
+  "uuid": "a8fc13a7-577b-4e8b-838c-cd693cd19638",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/performance/EnumSizeCheck.h",
+  "size": 1387,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "292783c8cd6ed277b939d35c073c275e8de93c8f0bdeee62709fb3f969873218",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.281484581Z"
+}

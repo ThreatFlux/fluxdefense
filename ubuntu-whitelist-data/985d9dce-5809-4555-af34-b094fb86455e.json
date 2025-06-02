@@ -1,0 +1,15 @@
+{
+  "uuid": "985d9dce-5809-4555-af34-b094fb86455e",
+  "path": "/usr/lib/x86_64-linux-gnu/libfreeblpriv3.so",
+  "size": 833688,
+  "modified": "2024-04-08T16:14:43Z",
+  "created": "2025-05-09T05:07:29.482751164Z",
+  "sha256_hash": "ed854e683e66eb72f5220660b4d261527e6de919c95ecf9dfdce0358df72740a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.718763562Z"
+}

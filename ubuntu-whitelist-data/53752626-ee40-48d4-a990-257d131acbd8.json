@@ -1,0 +1,17 @@
+{
+  "uuid": "53752626-ee40-48d4-a990-257d131acbd8",
+  "path": "/usr/lib/systemd/user/org.freedesktop.IBus.session.generic.service",
+  "size": 317,
+  "modified": "2024-03-31T12:04:22Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "f8ef06c6e547902bd54c182de518e857e6aaed1abb4c621a9d82b7d19ed42bff",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.496800451Z"
+}

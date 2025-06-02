@@ -1,0 +1,15 @@
+{
+  "uuid": "112a035a-9679-40c7-a3df-c61ebf8562f6",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstrtpmanager.so",
+  "size": 512912,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.775655135Z",
+  "sha256_hash": "1d90be101ca315f252a19c64dd2eaa4902daf2ec4d909637339b47d840ccb6be",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.162943036Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "6fa9f3de-22ff-44a7-addf-60eada9eb77a",
+  "path": "/lib/udev/rules.d/77-mm-cinterion-port-types.rules",
+  "size": 4395,
+  "modified": "2024-02-19T14:58:32Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "9619262e5be85a1a2c118902c406e1d7843ff9fb7fff8721b33a9ce42f94b2d2",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.240930716Z"
+}

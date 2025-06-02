@@ -1,0 +1,17 @@
+{
+  "uuid": "3536ed13-940e-42ef-8de6-e77fe406ee6b",
+  "path": "/lib/llvm-18/include/clang/AST/LambdaCapture.h",
+  "size": 4835,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.518533726Z",
+  "sha256_hash": "e80d5cea3771ea99d83deea88ba2693a4b7f340522ed50c245798e44bd8fbb9f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.995911176Z"
+}

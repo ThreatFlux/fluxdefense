@@ -1,0 +1,17 @@
+{
+  "uuid": "f31f83c2-a572-4f78-bfe7-b4902f1397ae",
+  "path": "/lib/x86_64-linux-gnu/libwebrtc_audio_processing.so.1.0.0",
+  "size": 680896,
+  "modified": "2024-04-08T16:22:03Z",
+  "created": "2025-05-09T05:07:35.000666961Z",
+  "sha256_hash": "5d6e67bc317497eb4e475af34c25e37a9085710851f804fa746a70ce0ef86150",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.461581812Z"
+}

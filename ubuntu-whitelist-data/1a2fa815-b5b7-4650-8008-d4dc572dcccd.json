@@ -1,0 +1,15 @@
+{
+  "uuid": "1a2fa815-b5b7-4650-8008-d4dc572dcccd",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstspeex.so",
+  "size": 47632,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.776655120Z",
+  "sha256_hash": "f3a9678997f7e06f6f2d83b88e5c59341daecf90e3bb9803edf962bfc41c7d1b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.178978316Z"
+}

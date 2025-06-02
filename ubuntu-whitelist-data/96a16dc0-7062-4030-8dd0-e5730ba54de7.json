@@ -1,0 +1,17 @@
+{
+  "uuid": "96a16dc0-7062-4030-8dd0-e5730ba54de7",
+  "path": "/lib/firmware/i915/skl_dmc_ver1_23.bin.zst",
+  "size": 2559,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.542541673Z",
+  "sha256_hash": "5890a5ea8012ffcc6ae73958e93e5e5e4e83cd7d3fc4055ae7b27d282559b1eb",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.708412644Z"
+}

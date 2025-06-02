@@ -1,0 +1,17 @@
+{
+  "uuid": "a9f9a51c-614f-4a35-a18a-248edeaa3709",
+  "path": "/usr/lib/python3.12/test/mime.types",
+  "size": 48509,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.000551657Z",
+  "sha256_hash": "d2f8f47f34d0eb887e2f9921d9dc4fec3ad8f5016eda3a2d6223c5a0cd2705bf",
+  "file_type": {
+    "Other": "types"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.658372730Z"
+}

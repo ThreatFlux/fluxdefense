@@ -1,0 +1,17 @@
+{
+  "uuid": "c5993881-52c6-4451-a689-8d0521b0d500",
+  "path": "/usr/lib/python3.12/test/test_importlib/namespace_pkgs/missing_directory.zip",
+  "size": 515,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.023551355Z",
+  "sha256_hash": "2507eab0cb7a594b25fb2fc1c6a0b0f27af53d1980ba358d4e0c1b1dc32a9e63",
+  "file_type": {
+    "Other": "zip"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.730150321Z"
+}

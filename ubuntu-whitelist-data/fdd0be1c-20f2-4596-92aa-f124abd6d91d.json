@@ -1,0 +1,17 @@
+{
+  "uuid": "fdd0be1c-20f2-4596-92aa-f124abd6d91d",
+  "path": "/lib/firmware/intel/sof/community/sof-tgl-h.ri.zst",
+  "size": 206447,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.042491227Z",
+  "sha256_hash": "fd6ccee4794d32db278fc95b091aeee41b875900f37034e4c4819230eea404cf",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.025359970Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "b6b07ed4-4612-4a2c-aacb-c9717230bc34",
+  "path": "/bin/dpkg-buildtree",
+  "size": 1928,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T06:33:31.736357711Z",
+  "sha256_hash": "9befe7704c770ee771fa90e6dd80d86b191d5a92ee3623eec4e1cd938275e941",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.940078452Z"
+}

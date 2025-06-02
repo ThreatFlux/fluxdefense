@@ -1,0 +1,15 @@
+{
+  "uuid": "f4b0e37d-9008-491e-9f8a-2139f427d840",
+  "path": "/usr/sbin/lpinfo",
+  "size": 14648,
+  "modified": "2024-09-26T11:15:36Z",
+  "created": "2025-05-09T05:07:38.363615643Z",
+  "sha256_hash": "88012c958c72cc8df4c48b796ff4995d67b9afceb019126807758f5f2534a131",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.242873765Z"
+}

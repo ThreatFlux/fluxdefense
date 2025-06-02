@@ -1,0 +1,15 @@
+{
+  "uuid": "fdbcc699-39dd-43d3-99e0-176d705ce84e",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstpbtypes.so",
+  "size": 14424,
+  "modified": "2024-12-17T13:24:56Z",
+  "created": "2025-05-09T05:07:35.774655151Z",
+  "sha256_hash": "fbced134aa8794ccd43f742c067030c090718db710d2ec41d4a0694aa07328ad",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.175710130Z"
+}

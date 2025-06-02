@@ -1,0 +1,17 @@
+{
+  "uuid": "38275284-0e29-4610-8bc7-f0dd05ac929f",
+  "path": "/usr/lib/x86_64-linux-gnu/libgnomekbdui.so.8.0.0",
+  "size": 100672,
+  "modified": "2024-03-31T01:59:33Z",
+  "created": "2025-05-09T05:07:29.820746006Z",
+  "sha256_hash": "890ef96e7e4cab1b9061169401747d166ceb2182993e1ac3fcff71b9af948864",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.200463899Z"
+}

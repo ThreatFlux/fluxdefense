@@ -1,0 +1,15 @@
+{
+  "uuid": "d4f6ba73-e825-4b47-a2dc-2804411ed639",
+  "path": "/lib/python3/dist-packages/cloudinit/config/cc_resolv_conf.py",
+  "size": 3206,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.235037163Z",
+  "sha256_hash": "36ce50f2db7658614c585b2c5e903b5219a2b4f9aa4e5a740b46295a64dc31db",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.915066675Z"
+}

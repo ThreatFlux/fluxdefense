@@ -1,0 +1,15 @@
+{
+  "uuid": "c8073ff7-596b-4467-a860-bbc0f04eb7b1",
+  "path": "/lib/llvm-18/lib/libclangDynamicASTMatchers.a",
+  "size": 7275662,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.709531211Z",
+  "sha256_hash": "85f79b347c5df4f370bb3465fecbcd3fa4cb08e8ec35a2de75e9930ec643a5be",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:40.568627491Z"
+}

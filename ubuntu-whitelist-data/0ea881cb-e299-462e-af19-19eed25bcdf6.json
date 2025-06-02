@@ -1,0 +1,17 @@
+{
+  "uuid": "0ea881cb-e299-462e-af19-19eed25bcdf6",
+  "path": "/usr/lib/firmware/meson/vdec/gxl_h263.bin.zst",
+  "size": 4780,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.791538225Z",
+  "sha256_hash": "996b1a2a34ecd6194d182722e315d9ff836ac5b1d37d852bb52fc8e0a5865b15",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.493706043Z"
+}

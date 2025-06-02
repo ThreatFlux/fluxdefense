@@ -1,0 +1,17 @@
+{
+  "uuid": "bdc06fe5-d91f-4f4f-a860-11865d1b24d3",
+  "path": "/lib/x86_64-linux-gnu/liblouisutdml.so.9.2.0",
+  "size": 201440,
+  "modified": "2024-03-31T02:06:09Z",
+  "created": "2025-05-09T05:07:31.331722949Z",
+  "sha256_hash": "11ef8d03db4c81250c151340c4d31078660d8421d2cdf6d83a0f9b58f996d29d",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.810927250Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "81f2c099-269a-499f-87b9-301c132bb3e9",
+  "path": "/lib/x86_64-linux-gnu/libgpgme.so.11.27.0",
+  "size": 331296,
+  "modified": "2024-03-31T01:14:47Z",
+  "created": "2025-05-09T05:07:29.826745914Z",
+  "sha256_hash": "a5b16b01e5a7bebbe80ca228d021fa117e4d982226381312218ba47c9f12bed1",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.626484695Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "0b93d808-9baa-4bac-a4f8-40dcccb145e9",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/include/avx512vnniintrin.h",
+  "size": 4969,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.244389832Z",
+  "sha256_hash": "a77101197801e2a45bdcd5794fc79f4f36fa423c208d0079fa2964ca9a775662",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.927816272Z"
+}

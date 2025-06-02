@@ -1,0 +1,15 @@
+{
+  "uuid": "d4d5c337-fdb5-4e73-a273-7f52297fb9ea",
+  "path": "/bin/grub-glue-efi",
+  "size": 105352,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.594711726Z",
+  "sha256_hash": "8f573d96e1871b57475105a0d20950d975392fe4b1c56ff32220902bd08f20c3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.890695546Z"
+}

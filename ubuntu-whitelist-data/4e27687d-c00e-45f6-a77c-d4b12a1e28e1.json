@@ -1,0 +1,15 @@
+{
+  "uuid": "4e27687d-c00e-45f6-a77c-d4b12a1e28e1",
+  "path": "/lib/llvm-18/lib/libLLVMX86CodeGen.a",
+  "size": 11174490,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.059460756Z",
+  "sha256_hash": "24964a3019c1ba2fe791a4a2eab70b927fe90e9d73d9dc35109a7831cd6927cf",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:40.748593210Z"
+}

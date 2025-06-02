@@ -1,0 +1,15 @@
+{
+  "uuid": "f05ef47d-3839-4bd5-a004-dad56e87fdb6",
+  "path": "/bin/faked-sysv",
+  "size": 31120,
+  "modified": "2024-01-21T16:56:06Z",
+  "created": "2025-05-09T06:33:34.273303175Z",
+  "sha256_hash": "737a01e998c7016cfb00e597dad85807b4e0beca553613e186d1cf14c1240766",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.080174793Z"
+}

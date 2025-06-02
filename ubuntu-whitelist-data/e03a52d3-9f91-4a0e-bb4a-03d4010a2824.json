@@ -1,0 +1,15 @@
+{
+  "uuid": "e03a52d3-9f91-4a0e-bb4a-03d4010a2824",
+  "path": "/usr/sbin/dbslower-bpfcc",
+  "size": 7391,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.520499194Z",
+  "sha256_hash": "a6d95f213155b48c663ef9d7cc7138fd31433f13287701fa5b021804f1a3b7d9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.178839927Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "cdf83322-e56a-4e69-bdce-534466048770",
+  "path": "/bin/mesg",
+  "size": 14720,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:20.172893228Z",
+  "sha256_hash": "fc913940203c8de5a9485da1c69b1fb4a6ca5febe721380b0853e3e46c5c1b6d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.884953778Z"
+}

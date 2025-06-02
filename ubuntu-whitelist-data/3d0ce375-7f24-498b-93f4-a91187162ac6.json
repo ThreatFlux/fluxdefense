@@ -1,0 +1,17 @@
+{
+  "uuid": "3d0ce375-7f24-498b-93f4-a91187162ac6",
+  "path": "/usr/lib/x86_64-linux-gnu/blas/libblas.so.3.12.0",
+  "size": 677880,
+  "modified": "2024-08-09T02:33:22Z",
+  "created": "2025-05-09T05:09:25.337983061Z",
+  "sha256_hash": "e748efcae5753fe4a652877fccdb5895ac6f7605668a2db878b19c914e78e3a8",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.903773233Z"
+}

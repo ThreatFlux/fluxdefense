@@ -1,0 +1,17 @@
+{
+  "uuid": "f767f360-61b3-459b-8f4c-709d40e43537",
+  "path": "/usr/lib/x86_64-linux-gnu/libvpx.so.9.0.0",
+  "size": 3405896,
+  "modified": "2024-06-05T13:49:38Z",
+  "created": "2025-05-09T05:07:32.365707171Z",
+  "sha256_hash": "4b5269a6a014dd072e9c424c80fd5b9e142fe117a92c3fd9ac325ab46aeacefb",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.504050098Z"
+}

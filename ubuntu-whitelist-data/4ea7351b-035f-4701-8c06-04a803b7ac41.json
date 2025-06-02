@@ -1,0 +1,15 @@
+{
+  "uuid": "4ea7351b-035f-4701-8c06-04a803b7ac41",
+  "path": "/usr/lib/llvm-18/lib/libclangTidyReadabilityModule.a",
+  "size": 8636744,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.896528748Z",
+  "sha256_hash": "c3d5747cf7fed2e0f31c8cd3ff6f8dc09786d67b4518e6750bd85929cf57da53",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:30.403121025Z"
+}

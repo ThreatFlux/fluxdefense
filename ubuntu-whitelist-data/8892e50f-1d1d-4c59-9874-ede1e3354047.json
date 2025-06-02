@@ -1,0 +1,17 @@
+{
+  "uuid": "8892e50f-1d1d-4c59-9874-ede1e3354047",
+  "path": "/lib/x86_64-linux-gnu/libbluetooth.so.3.19.12",
+  "size": 189936,
+  "modified": "2025-02-25T06:11:15Z",
+  "created": "2025-05-09T05:24:20.097864190Z",
+  "sha256_hash": "1092e8149ac03380d11248346fcc08d116d5a88d9e0e4e352fd0508ac010d423",
+  "file_type": {
+    "Other": "12"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.753344184Z"
+}

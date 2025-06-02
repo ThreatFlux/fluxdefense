@@ -1,0 +1,17 @@
+{
+  "uuid": "be1f120b-4c86-4481-b711-20cc421c8ccc",
+  "path": "/lib/grub/x86_64-efi/cat.mod",
+  "size": 4528,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.802708552Z",
+  "sha256_hash": "387ae8640cd8db92c7208e47d290308917417009cae0a975c5b09d16a68dc08b",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.018351720Z"
+}

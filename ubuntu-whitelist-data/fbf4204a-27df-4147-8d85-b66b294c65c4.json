@@ -1,0 +1,15 @@
+{
+  "uuid": "fbf4204a-27df-4147-8d85-b66b294c65c4",
+  "path": "/usr/lib/x86_64-linux-gnu/krb5/plugins/authdata/sssd_pac_plugin.so",
+  "size": 27384,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:35.814654540Z",
+  "sha256_hash": "d0aa06a3a6d4e1807e9af687e6c908b444f1eafa28edf8bd89b598dffcef216b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.607716801Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c1eae7a6-f1a6-4ec3-9665-4441099da6e5",
+  "path": "/lib/llvm-18/include/clang-tidy/cert/FloatLoopCounter.h",
+  "size": 1349,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "65e0273b05deb4ad62df29f71405fbc40198319c7119002ef7937a6e72fc0556",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.912657833Z"
+}

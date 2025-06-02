@@ -1,0 +1,17 @@
+{
+  "uuid": "5833214c-ce07-43eb-a2ee-563a557f79ec",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/StringIntegerAssignmentCheck.h",
+  "size": 1355,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "b32ecfa4595f092573a2d00258511c4e429ba2ff880ff08148a012a1d15fb1bc",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.894501677Z"
+}

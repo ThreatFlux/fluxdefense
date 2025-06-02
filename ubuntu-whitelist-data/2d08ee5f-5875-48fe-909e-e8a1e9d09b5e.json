@@ -1,0 +1,17 @@
+{
+  "uuid": "2d08ee5f-5875-48fe-909e-e8a1e9d09b5e",
+  "path": "/usr/lib/udev/rules.d/70-uaccess.rules",
+  "size": 3438,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.527779534Z",
+  "sha256_hash": "4d35c39e93fea7cbcde5d08f77fea8b9f7995ec8f793a6646cb24fc7cce37718",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.102611570Z"
+}

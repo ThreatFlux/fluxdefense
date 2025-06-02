@@ -1,0 +1,17 @@
+{
+  "uuid": "ead5a744-4732-4698-b5ce-617af00a39aa",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/i-fortra.adb",
+  "size": 4809,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.072344846Z",
+  "sha256_hash": "2beff788f1a16a6474d9ae650474a935aad55b2b4d0dfb1e6be2cbf2900a735d",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.863066391Z"
+}

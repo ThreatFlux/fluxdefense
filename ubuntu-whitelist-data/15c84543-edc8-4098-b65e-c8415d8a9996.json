@@ -1,0 +1,15 @@
+{
+  "uuid": "15c84543-edc8-4098-b65e-c8415d8a9996",
+  "path": "/lib/llvm-18/lib/libLLVMXCoreInfo.a",
+  "size": 4544,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.086460400Z",
+  "sha256_hash": "cd2f2c208912a9c74f8aa29c35d4630cf9366463d2a03fb9dc4a630d9209b622",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:43.759074750Z"
+}

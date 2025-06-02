@@ -1,0 +1,17 @@
+{
+  "uuid": "b242f629-b1d1-42bc-94ed-275caf8c6e55",
+  "path": "/lib/firmware/qca/nvm_00440302_eu.bin.zst",
+  "size": 1166,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.968535773Z",
+  "sha256_hash": "11de8f6aac451f7ba11c20da6cb986e6960b5ecaed232d049165f75ad2fe8097",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.156191694Z"
+}

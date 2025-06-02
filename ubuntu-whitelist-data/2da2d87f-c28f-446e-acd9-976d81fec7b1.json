@@ -1,0 +1,17 @@
+{
+  "uuid": "2da2d87f-c28f-446e-acd9-976d81fec7b1",
+  "path": "/usr/lib/firmware/v4l-cx23418-dig.fw.zst",
+  "size": 7925,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.081534208Z",
+  "sha256_hash": "5488becc0aaa8d26bb289d536e6bb1134447d3ef08e57e446de8d784945d3ced",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.506444275Z"
+}

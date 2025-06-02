@@ -1,0 +1,17 @@
+{
+  "uuid": "db9ec9f7-5a5e-4b5c-89eb-04860b5f9ea2",
+  "path": "/usr/lib/sysusers.d/systemd-journal.conf",
+  "size": 314,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.527779534Z",
+  "sha256_hash": "5adaf2b31e29c259e0c8e1c40dd8da8620cde4e60f1d204aea92a0f46047524b",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.296954223Z"
+}

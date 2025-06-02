@@ -1,0 +1,17 @@
+{
+  "uuid": "6e64ee61-8e30-4132-a72c-eb31dea4adad",
+  "path": "/usr/lib/x86_64-linux-gnu/libaccountsservice.so.0.0.0",
+  "size": 221104,
+  "modified": "2024-04-03T16:37:38Z",
+  "created": "2025-05-09T05:07:29.064757542Z",
+  "sha256_hash": "bf29faa99c86cc61dd6c8c09fbb2f4b1cfde5754bf04ba5992fb200b3c8bfe24",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:30.626887806Z"
+}

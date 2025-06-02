@@ -1,0 +1,17 @@
+{
+  "uuid": "68c2c050-8bd9-46a4-933d-94f1cd2bc5ad",
+  "path": "/lib/x86_64-linux-gnu/libvirt-qemu.so.0.10000.0",
+  "size": 18680,
+  "modified": "2025-03-13T16:25:50Z",
+  "created": "2025-05-20T14:31:33.889801169Z",
+  "sha256_hash": "bc0a35b0a0dfb3a2644875fb08d63bf56673db435945fd0e08756bd655a10b02",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.503678673Z"
+}

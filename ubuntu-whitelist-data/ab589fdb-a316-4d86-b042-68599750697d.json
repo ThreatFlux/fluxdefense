@@ -1,0 +1,15 @@
+{
+  "uuid": "ab589fdb-a316-4d86-b042-68599750697d",
+  "path": "/sbin/tarcat",
+  "size": 936,
+  "modified": "2024-01-01T21:15:10Z",
+  "created": "2025-05-09T05:07:38.433614575Z",
+  "sha256_hash": "4307aa7cc97a4db32a674ad32f893b251188903cafa6d5266c813fc5c9ea755e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.681160963Z"
+}

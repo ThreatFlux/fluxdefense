@@ -1,0 +1,15 @@
+{
+  "uuid": "9608a1ba-d4e5-4983-acf1-d701bb767fc3",
+  "path": "/usr/sbin/nft",
+  "size": 26856,
+  "modified": "2024-04-08T16:14:26Z",
+  "created": "2025-05-09T05:07:38.370615536Z",
+  "sha256_hash": "799c987ac904ea8b0d7b88a6c3df25f3ca9ffc8eb7173c6d9d1efa44ca90b948",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.187830569Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "c9531b5b-3e98-4292-8a0f-9398cb0c7ef0",
+  "path": "/sbin/userdel",
+  "size": 93192,
+  "modified": "2024-05-30T14:52:35Z",
+  "created": "2025-05-09T05:07:38.455614239Z",
+  "sha256_hash": "c7b1b5a0df79fefc5f758fef348c351370f6aa4e03bd4c89378d7464368034cc",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.689397382Z"
+}

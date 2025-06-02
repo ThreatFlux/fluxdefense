@@ -1,0 +1,15 @@
+{
+  "uuid": "06fd4245-fb3f-4778-aecb-e3670b6bdd98",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstvolume.so",
+  "size": 39160,
+  "modified": "2024-12-17T13:24:56Z",
+  "created": "2025-05-09T05:07:35.776655120Z",
+  "sha256_hash": "0d05affd5e469cc97a146a1243ec77064c0d4a307c4d6a0133f7dad5a8d49a1b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.023490183Z"
+}

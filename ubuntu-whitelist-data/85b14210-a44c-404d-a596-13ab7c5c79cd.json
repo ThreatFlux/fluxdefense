@@ -1,0 +1,15 @@
+{
+  "uuid": "85b14210-a44c-404d-a596-13ab7c5c79cd",
+  "path": "/usr/lib/x86_64-linux-gnu/espeak-ng-data/bn_dict",
+  "size": 89979,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.382661132Z",
+  "sha256_hash": "562a64ec5ea319622ec2286c103d4110222a1712129a3a9f07f2ea14a660038a",
+  "file_type": "Executable",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.792096977Z"
+}

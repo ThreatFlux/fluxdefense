@@ -1,0 +1,17 @@
+{
+  "uuid": "265f4f66-be8f-4a9a-884f-4330374abd5a",
+  "path": "/lib/x86_64-linux-gnu/libde265.so.0.1.8",
+  "size": 358752,
+  "modified": "2024-04-15T19:09:53Z",
+  "created": "2025-05-09T05:07:29.299753956Z",
+  "sha256_hash": "a61df60964038aab51882ab37b477b7223fa1b68d5e5341619d70be1f8cda89e",
+  "file_type": {
+    "Other": "8"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.383525090Z"
+}

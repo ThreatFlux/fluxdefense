@@ -1,0 +1,15 @@
+{
+  "uuid": "0c4f71ca-d85f-4e40-a7d6-37965c51a1d0",
+  "path": "/lib/x86_64-linux-gnu/spa-0.2/bluez5/libspa-codec-bluez5-faststream.so",
+  "size": 35128,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.285853656Z",
+  "sha256_hash": "d6c0df7e9a5e3c2c61356d42388c2a4d63aab802de4a87baee2cd3e55313ea03",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.788676385Z"
+}

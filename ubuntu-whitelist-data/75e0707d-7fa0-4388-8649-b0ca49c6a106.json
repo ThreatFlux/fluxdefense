@@ -1,0 +1,17 @@
+{
+  "uuid": "75e0707d-7fa0-4388-8649-b0ca49c6a106",
+  "path": "/usr/lib/x86_64-linux-gnu/libbd_utils.so.3.0.0",
+  "size": 43088,
+  "modified": "2024-03-26T13:32:04Z",
+  "created": "2025-05-09T05:07:29.183755726Z",
+  "sha256_hash": "2f0c4e0700a13623beeb5027b19968a677ff421485513d30abe78ef808c165d4",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:26.250816559Z"
+}

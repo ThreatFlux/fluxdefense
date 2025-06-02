@@ -1,0 +1,17 @@
+{
+  "uuid": "8c8fca25-09dd-4753-9442-1292bf5dd9e8",
+  "path": "/usr/lib/firmware/ea/mona_361_1_asic_96.fw.zst",
+  "size": 16701,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.529541854Z",
+  "sha256_hash": "b7a30726028e289b722db3831713f8c3404b86b856b3e80f0f510b521d54fb72",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.653247399Z"
+}

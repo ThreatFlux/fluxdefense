@@ -1,0 +1,17 @@
+{
+  "uuid": "e24566ec-ea6f-4b99-b224-08aefde26244",
+  "path": "/usr/lib/x86_64-linux-gnu/libpocketsphinx.so.3.0.0",
+  "size": 293728,
+  "modified": "2024-03-31T08:15:01Z",
+  "created": "2025-05-09T05:09:25.924974102Z",
+  "sha256_hash": "9df7cf49d5dcf285284a23b0a9c9feb1db1fba82225bca05c77fdfd47c269a8f",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:30.026511073Z"
+}

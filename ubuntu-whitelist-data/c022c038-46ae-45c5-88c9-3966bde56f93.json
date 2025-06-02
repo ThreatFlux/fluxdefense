@@ -1,0 +1,17 @@
+{
+  "uuid": "c022c038-46ae-45c5-88c9-3966bde56f93",
+  "path": "/usr/lib/llvm-18/include/clang/Testing/TestAST.h",
+  "size": 3818,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.552533279Z",
+  "sha256_hash": "2dddf91a29d02320b8e37c7188e55b52b2f298d2275e9f3cbb859620855bab97",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.309866139Z"
+}

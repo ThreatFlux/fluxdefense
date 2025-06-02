@@ -1,0 +1,15 @@
+{
+  "uuid": "72529a3c-d1b0-4a93-abe4-b597f8a54ca8",
+  "path": "/lib/google-cloud-sdk/lib/surface/auth/activate_service_account.py",
+  "size": 6221,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.732931938Z",
+  "sha256_hash": "70f33f1a96f12b17b0b1c03a0c1d23bce1e62397315537794c783f269bc45781",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.039686317Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "4b908409-9e07-4a03-a5f7-baa911d86fc1",
+  "path": "/usr/lib/i386-linux-gnu/libbsd.so.0.12.1",
+  "size": 83932,
+  "modified": "2024-10-02T12:40:50Z",
+  "created": "2025-05-09T12:55:58.656865089Z",
+  "sha256_hash": "d94f9967fd72e58367afe07c3c83a538e5070f5f44d840f0f55e5d27c2d73220",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.327192128Z"
+}

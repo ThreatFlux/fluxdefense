@@ -1,0 +1,17 @@
+{
+  "uuid": "04ccdab6-8583-4c9a-8328-4ba4c12dcfb1",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-casi128.ali",
+  "size": 2444,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.136343967Z",
+  "sha256_hash": "e910154ea858b529530dd61b95e62854118a58ce9393c9d820c6840aebaf9c1c",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.895418965Z"
+}

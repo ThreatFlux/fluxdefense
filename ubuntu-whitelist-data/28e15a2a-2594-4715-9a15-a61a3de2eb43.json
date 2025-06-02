@@ -1,0 +1,17 @@
+{
+  "uuid": "28e15a2a-2594-4715-9a15-a61a3de2eb43",
+  "path": "/usr/lib/llvm-18/include/clang/AST/ASTLambda.h",
+  "size": 3770,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.511533818Z",
+  "sha256_hash": "c9226b3eb77c56bc49ebc065d784e3c84e83bf2b7903af621cd1f47c898c7315",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.391596532Z"
+}

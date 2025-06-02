@@ -1,0 +1,17 @@
+{
+  "uuid": "bb67b2ca-6e35-4d83-b521-45e8748a9666",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-siocst.adb",
+  "size": 3891,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.055345079Z",
+  "sha256_hash": "dde3444e4c7e709387f4f50865864a63ef438ca54ca243d935f051cb36030420",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.140541085Z"
+}

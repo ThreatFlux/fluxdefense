@@ -1,0 +1,17 @@
+{
+  "uuid": "8318ba05-81f5-435c-9ae2-f715e9d8d88b",
+  "path": "/usr/lib/llvm-18/include/clang/Driver/OffloadBundler.h",
+  "size": 4309,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.540533437Z",
+  "sha256_hash": "9410b8e4efbd2b83c65cb449951890238026549bf7710687b33f1d3a4952dd8e",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.430287254Z"
+}

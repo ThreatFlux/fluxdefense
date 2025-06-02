@@ -1,0 +1,17 @@
+{
+  "uuid": "48198332-1eb2-432c-96ec-7216dc7b0c19",
+  "path": "/lib/firmware/meson/vdec/g12a_vp9.bin.zst",
+  "size": 4355,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.790538238Z",
+  "sha256_hash": "7136524b5b87834500b9a58e7e6e9b8a3a19a300d28ff012d9f986d0ae04668f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.620484433Z"
+}

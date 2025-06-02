@@ -1,0 +1,17 @@
+{
+  "uuid": "ff28bd80-4c5e-4699-8606-692b9b676eea",
+  "path": "/usr/lib/x86_64-linux-gnu/liblttng-ust-pthread-wrapper.so.1.0.0",
+  "size": 27952,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:31.331722949Z",
+  "sha256_hash": "280414728cd59b6bf92c739f66eb967a4b19b2695176f1c3e2401ac5fde4f8f8",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.371078411Z"
+}

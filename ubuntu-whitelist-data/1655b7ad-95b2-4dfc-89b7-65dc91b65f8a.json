@@ -1,0 +1,15 @@
+{
+  "uuid": "1655b7ad-95b2-4dfc-89b7-65dc91b65f8a",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/config/cc_fan.py",
+  "size": 1997,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.235037163Z",
+  "sha256_hash": "41fccf0391fafbef1d941e7d83f6ea5127b306c00288f7ccf28bf4685583fe4d",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.858344431Z"
+}

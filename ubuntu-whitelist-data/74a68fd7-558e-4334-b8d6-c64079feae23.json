@@ -1,0 +1,17 @@
+{
+  "uuid": "74a68fd7-558e-4334-b8d6-c64079feae23",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/g-zstspl.ali",
+  "size": 7144,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.110344324Z",
+  "sha256_hash": "33f86928105f8ffa190a9d30936d984b36b956724139bf70fd7d1b77e5451b83",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.594498635Z"
+}

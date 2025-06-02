@@ -1,0 +1,17 @@
+{
+  "uuid": "063f0f81-61e2-4a94-979f-831df7c61eb2",
+  "path": "/lib/firmware/nvidia/gk20a/sw_nonctx.bin.zst",
+  "size": 525,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.937536202Z",
+  "sha256_hash": "e9c2f9759b4b5dad1f50418b5c9686efa8069e0a7a9fd0f553c2b17969bc68d7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.425054615Z"
+}

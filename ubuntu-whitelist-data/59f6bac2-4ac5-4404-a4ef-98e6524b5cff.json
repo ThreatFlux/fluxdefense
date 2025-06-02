@@ -1,0 +1,15 @@
+{
+  "uuid": "59f6bac2-4ac5-4404-a4ef-98e6524b5cff",
+  "path": "/usr/libexec/gnome-control-center-search-provider",
+  "size": 88864,
+  "modified": "2025-01-29T10:50:35Z",
+  "created": "2025-05-09T05:24:20.496869375Z",
+  "sha256_hash": "cd8da93df62e94c38042bec0f0cb78b78a46ef5c7421745cc6f2e31085e94879",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.116981441Z"
+}

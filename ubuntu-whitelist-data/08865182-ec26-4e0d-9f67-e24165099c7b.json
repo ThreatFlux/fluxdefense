@@ -1,0 +1,17 @@
+{
+  "uuid": "08865182-ec26-4e0d-9f67-e24165099c7b",
+  "path": "/usr/lib/firmware/radeon/R520_cp.bin.zst",
+  "size": 743,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "35054309dc88d3c7c2d114791d1c1f419228ac388115919459e2ecfc28b8efbd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.376300166Z"
+}

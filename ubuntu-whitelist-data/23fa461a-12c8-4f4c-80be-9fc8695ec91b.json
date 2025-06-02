@@ -1,0 +1,17 @@
+{
+  "uuid": "23fa461a-12c8-4f4c-80be-9fc8695ec91b",
+  "path": "/lib/update-notifier/update-motd-updates-available",
+  "size": 1726,
+  "modified": "2024-10-08T13:47:14Z",
+  "created": "2025-05-09T05:24:21.991888836Z",
+  "sha256_hash": "67534b56d8258013df3f4994b5738d9178278362af77da07da9afb902ab3a9cf",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.764383031Z"
+}

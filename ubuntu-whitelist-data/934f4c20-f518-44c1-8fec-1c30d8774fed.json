@@ -1,0 +1,17 @@
+{
+  "uuid": "934f4c20-f518-44c1-8fec-1c30d8774fed",
+  "path": "/usr/lib/firmware/mwl8k/helper_8687.fw.zst",
+  "size": 1672,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.892536826Z",
+  "sha256_hash": "7ca7f9e365e94158e73362662d1c2c4a70de45a9a58f6a6e24e8d75d54b4adb4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.477409472Z"
+}

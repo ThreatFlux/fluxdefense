@@ -1,0 +1,15 @@
+{
+  "uuid": "8fa86503-368d-4262-9b28-c040b4e3e148",
+  "path": "/usr/lib/x86_64-linux-gnu/sssd/libsss_child.so",
+  "size": 31288,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:37.244632719Z",
+  "sha256_hash": "04a01f4593f13eb9ccfd0997c4da07bebea56d65f10c69ec7b4aeb74da129291",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.027268929Z"
+}

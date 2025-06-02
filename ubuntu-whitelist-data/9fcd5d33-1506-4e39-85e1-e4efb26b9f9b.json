@@ -1,0 +1,17 @@
+{
+  "uuid": "9fcd5d33-1506-4e39-85e1-e4efb26b9f9b",
+  "path": "/usr/lib/evolution-data-server/camel-providers/libcamelnntp.urls",
+  "size": 10,
+  "modified": "2024-06-28T07:29:41Z",
+  "created": "2025-05-09T05:07:21.658870553Z",
+  "sha256_hash": "9b8ea3d252a435f4a31527f5988f964196d845099c87350c276cc96e38b20b67",
+  "file_type": {
+    "Other": "urls"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.035430180Z"
+}

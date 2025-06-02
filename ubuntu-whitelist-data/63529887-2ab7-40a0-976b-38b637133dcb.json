@@ -1,0 +1,15 @@
+{
+  "uuid": "63529887-2ab7-40a0-976b-38b637133dcb",
+  "path": "/lib/google-cloud-sdk/bin/docker-credential-gcloud",
+  "size": 5864,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.327921832Z",
+  "sha256_hash": "ddd3754a0399fd78134f9c10515257ee5032005725e61319a99bc419ed7835fd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.933930230Z"
+}

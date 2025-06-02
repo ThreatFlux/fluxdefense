@@ -1,0 +1,17 @@
+{
+  "uuid": "493c0b91-ba07-4727-a036-69d6c21b4bc0",
+  "path": "/usr/lib/firmware/cxgb4/configs/t5-config-default.txt.zst",
+  "size": 6597,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.512542089Z",
+  "sha256_hash": "05c74b64d92ea6fc6247f04a6a8883458da21b62083e6e7461001cc2f2bfd134",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.689434454Z"
+}

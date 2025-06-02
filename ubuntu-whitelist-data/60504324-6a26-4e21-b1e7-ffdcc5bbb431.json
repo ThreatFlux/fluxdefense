@@ -1,0 +1,15 @@
+{
+  "uuid": "60504324-6a26-4e21-b1e7-ffdcc5bbb431",
+  "path": "/usr/lib/recovery-mode/options/failsafeX",
+  "size": 274,
+  "modified": "2018-10-02T17:24:12Z",
+  "created": "2025-05-09T05:07:27.534780889Z",
+  "sha256_hash": "3fb7d551b6ea0ef15b6360e32dddfd0992deb8a9bd49c3bc4a6b3a4fde081226",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.275034451Z"
+}

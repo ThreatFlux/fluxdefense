@@ -1,0 +1,17 @@
+{
+  "uuid": "f1c5d2d8-eaa9-4858-a4ec-57fafca487a9",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/include/avx512vlbwintrin.h",
+  "size": 145769,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.243389853Z",
+  "sha256_hash": "1f4c9c1d79aeedf47c218c5366ae8b97c3475cc546a7587ecaa2aef74c988f9f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.910925977Z"
+}

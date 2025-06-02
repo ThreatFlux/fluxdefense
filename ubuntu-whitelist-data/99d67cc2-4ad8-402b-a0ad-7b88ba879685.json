@@ -1,0 +1,17 @@
+{
+  "uuid": "99d67cc2-4ad8-402b-a0ad-7b88ba879685",
+  "path": "/usr/lib/llvm-18/include/clang/Frontend/SerializedDiagnostics.h",
+  "size": 1505,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "e2274f6b47a39920f5876aebc1dfc0d2d17b43809b3a8d370b1a9bfcfc602b22",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.293191405Z"
+}

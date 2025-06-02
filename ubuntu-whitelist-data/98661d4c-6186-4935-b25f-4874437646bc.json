@@ -1,0 +1,15 @@
+{
+  "uuid": "98661d4c-6186-4935-b25f-4874437646bc",
+  "path": "/usr/lib/llvm-18/lib/libLLVMTableGenGlobalISel.a",
+  "size": 159876,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.035461072Z",
+  "sha256_hash": "f6f7b25cdc65b7b17e17b060477046ffa469923970665d0603fb99f55f635997",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.234816748Z"
+}

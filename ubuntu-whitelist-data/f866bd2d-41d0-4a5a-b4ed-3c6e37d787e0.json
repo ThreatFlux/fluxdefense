@@ -1,0 +1,17 @@
+{
+  "uuid": "f866bd2d-41d0-4a5a-b4ed-3c6e37d787e0",
+  "path": "/usr/lib/x86_64-linux-gnu/libexslt.so.0.8.21",
+  "size": 96416,
+  "modified": "2025-03-19T16:53:59Z",
+  "created": "2025-05-09T05:11:21.612208287Z",
+  "sha256_hash": "2e455cecd03012453e2a57eb1521da5bf6e5e0bb467ff5829bafc2934e483c7c",
+  "file_type": {
+    "Other": "21"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.656420929Z"
+}

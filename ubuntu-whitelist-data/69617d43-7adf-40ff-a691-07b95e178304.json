@@ -1,0 +1,17 @@
+{
+  "uuid": "69617d43-7adf-40ff-a691-07b95e178304",
+  "path": "/lib/grub/x86_64-efi/test.mod",
+  "size": 7776,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "87e3352b628ffd638d5e43919e59d27512a9203924b1a93aed107c9e895ff64d",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.033999162Z"
+}

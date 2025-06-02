@@ -1,0 +1,17 @@
+{
+  "uuid": "649dd3f8-2cc4-4ddf-bb3f-6d9bbe0bc155",
+  "path": "/lib/x86_64-linux-gnu/gstreamer1.0/gstreamer-1.0/gst-ptp-helper",
+  "size": 534872,
+  "modified": "2024-12-17T12:53:48Z",
+  "created": "2025-05-09T05:07:35.789654922Z",
+  "sha256_hash": "b29f66a95a5a99cfa956120c86409550a1c43a9a38dffe9faaa5b8313900a945",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.547179265Z"
+}

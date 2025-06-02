@@ -1,0 +1,17 @@
+{
+  "uuid": "81db5643-8877-466e-916b-5471d6ff0a23",
+  "path": "/usr/lib/firmware/amdgpu/beige_goby_rlc.bin.zst",
+  "size": 42660,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.387543820Z",
+  "sha256_hash": "48d85f67a043c9a8b9a977836964c8afa11f212b585d1eb021abdeccd812fbe6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.845381886Z"
+}

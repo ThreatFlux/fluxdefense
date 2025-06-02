@@ -1,0 +1,15 @@
+{
+  "uuid": "fd042313-10de-4699-939a-0dc2e6eb8de4",
+  "path": "/bin/gnome-session-properties",
+  "size": 63752,
+  "modified": "2024-04-15T15:49:55Z",
+  "created": "2025-05-09T05:07:19.661901025Z",
+  "sha256_hash": "2c7f648ec61ddad809402f23a5e15087a9f78a5a9525a86e5f12676892ca7a42",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.532305965Z"
+}

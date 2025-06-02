@@ -1,0 +1,17 @@
+{
+  "uuid": "b8507957-45d7-4c17-82a7-0ce664b4e635",
+  "path": "/usr/lib/python3.12/test/decimaltestdata/dqScaleB.decTest",
+  "size": 16059,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.994551736Z",
+  "sha256_hash": "366d708dd66fdb696bf88e9dd28ff159c97908a856e487fa1d5f538aceb22470",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.984031242Z"
+}

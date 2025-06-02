@@ -1,0 +1,15 @@
+{
+  "uuid": "f807a177-25c7-4354-ac67-0e8ba9d5ea17",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/IBM939.so",
+  "size": 100560,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.666656799Z",
+  "sha256_hash": "d63b0863bea46234da57ceff3d6b36ccb9d2adbca725453b40b21916f0756541",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.568576008Z"
+}

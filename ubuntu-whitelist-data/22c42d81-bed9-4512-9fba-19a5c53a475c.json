@@ -1,0 +1,15 @@
+{
+  "uuid": "22c42d81-bed9-4512-9fba-19a5c53a475c",
+  "path": "/lib/x86_64-linux-gnu/xtables/libebt_among.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.324631498Z",
+  "sha256_hash": "7cfa96291ac5a7aa3f8a1108db462ff9103011bf660fa5fe859e231a1c34e99a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.667745426Z"
+}

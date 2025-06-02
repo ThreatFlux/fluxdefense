@@ -1,0 +1,17 @@
+{
+  "uuid": "8c50e8ec-f2c5-4617-920a-e44ecbbc9620",
+  "path": "/usr/lib/x86_64-linux-gnu/libxcb-present.so.0.0.0",
+  "size": 14536,
+  "modified": "2024-04-18T14:21:22Z",
+  "created": "2025-05-09T05:07:35.149664688Z",
+  "sha256_hash": "d06d982abe6e9202aecd22322166be8ba49e68e05889fb6c6faec0daa88530a4",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:08.625288172Z"
+}

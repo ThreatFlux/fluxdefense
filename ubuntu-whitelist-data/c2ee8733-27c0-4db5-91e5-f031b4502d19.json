@@ -1,0 +1,15 @@
+{
+  "uuid": "c2ee8733-27c0-4db5-91e5-f031b4502d19",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/ai_platform/predict.py",
+  "size": 5455,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.641933484Z",
+  "sha256_hash": "9016e1d56d1defb7b6079737148fc1c5e7d9bacf5960436a5487db903320f4d5",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.748989969Z"
+}

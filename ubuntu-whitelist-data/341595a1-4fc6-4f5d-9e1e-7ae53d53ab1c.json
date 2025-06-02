@@ -1,0 +1,17 @@
+{
+  "uuid": "341595a1-4fc6-4f5d-9e1e-7ae53d53ab1c",
+  "path": "/lib/systemd/system/fstrim.service",
+  "size": 477,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:28.299769216Z",
+  "sha256_hash": "9d5ab55ca0f12257edd33d154e5dc523ddea4d5f2525557cbf96e30b97deab56",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.108079953Z"
+}

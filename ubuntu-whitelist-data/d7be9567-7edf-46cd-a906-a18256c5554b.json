@@ -1,0 +1,17 @@
+{
+  "uuid": "d7be9567-7edf-46cd-a906-a18256c5554b",
+  "path": "/lib/firmware/ti-connectivity/wl18xx-fw-4.bin.zst",
+  "size": 323815,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.079534235Z",
+  "sha256_hash": "de96dd07a2a17c79f6f3dda261422a0e880eb3725eb7231379c8ab687e988989",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.543942283Z"
+}

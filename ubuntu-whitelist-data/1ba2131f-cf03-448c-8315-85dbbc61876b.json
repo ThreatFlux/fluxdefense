@@ -1,0 +1,15 @@
+{
+  "uuid": "1ba2131f-cf03-448c-8315-85dbbc61876b",
+  "path": "/usr/bin/dpkg-divert",
+  "size": 121416,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T05:07:19.180908365Z",
+  "sha256_hash": "ec6aa23d5576697f3d7bdb74cf91341078203eb8f36c8c97f2f77eca8cceebc2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:08.252668687Z"
+}

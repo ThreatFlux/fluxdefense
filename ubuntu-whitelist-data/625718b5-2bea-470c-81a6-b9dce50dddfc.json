@@ -1,0 +1,17 @@
+{
+  "uuid": "625718b5-2bea-470c-81a6-b9dce50dddfc",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/Hash/Util.pm",
+  "size": 25477,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.517591342Z",
+  "sha256_hash": "7b7d29a6204804c3229353daaa3736e4cc5ca94b086e7c9f58649dd231f8d3b2",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.595199199Z"
+}

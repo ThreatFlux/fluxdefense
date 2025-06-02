@@ -1,0 +1,17 @@
+{
+  "uuid": "e7fef28c-f5b8-4c10-a926-e718e33db404",
+  "path": "/usr/lib/firmware/amdgpu/navi12_rlc.bin.zst",
+  "size": 14894,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.405543571Z",
+  "sha256_hash": "e45b366b03fe187dfaaa43a8be9cda08e6bb77f9993739b6211d60363f5507ea",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.776581923Z"
+}

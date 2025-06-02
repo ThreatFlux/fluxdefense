@@ -1,0 +1,17 @@
+{
+  "uuid": "3f022b4b-bc70-41be-a55c-570a1f8fa34e",
+  "path": "/usr/lib/firmware/ath11k/IPQ8074/hw2.0/board-2.bin.zst",
+  "size": 21543,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.452542920Z",
+  "sha256_hash": "917ae83d0fbba12c1780ab98d7820c2fa29d5583dc258105e405015a5e034bd0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:58.198310138Z"
+}

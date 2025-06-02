@@ -1,0 +1,15 @@
+{
+  "uuid": "41001c10-16e5-4f30-80e0-fe1f05337757",
+  "path": "/lib/x86_64-linux-gnu/samba/ldb/tdb.so",
+  "size": 14560,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.128634489Z",
+  "sha256_hash": "05f1fe0d43747968dfd3adfaf541e051bd2bc41efc8239c88c6fc60d1e7cfb14",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.481818147Z"
+}

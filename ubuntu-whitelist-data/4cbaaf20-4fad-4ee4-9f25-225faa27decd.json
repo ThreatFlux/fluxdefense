@@ -1,0 +1,17 @@
+{
+  "uuid": "4cbaaf20-4fad-4ee4-9f25-225faa27decd",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/lib/ts_bm.ko.zst",
+  "size": 3600,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.115797254Z",
+  "sha256_hash": "25bbe2d3d5039814ee155ec7faeb28e666628461c36de6e25a274db237b803ab",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.269092491Z"
+}

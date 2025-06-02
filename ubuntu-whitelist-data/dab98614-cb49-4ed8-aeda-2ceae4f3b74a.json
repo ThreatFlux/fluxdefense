@@ -1,0 +1,17 @@
+{
+  "uuid": "dab98614-cb49-4ed8-aeda-2ceae4f3b74a",
+  "path": "/usr/lib/x86_64-linux-gnu/libpulse.so.0.24.2",
+  "size": 326856,
+  "modified": "2024-12-10T08:35:27Z",
+  "created": "2025-05-09T05:07:31.892714388Z",
+  "sha256_hash": "3d78bd6bfcebccb7d4e65bac298c3aef5b0906fc4c6a4bebcd761c845f4c3c4a",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:15.992613513Z"
+}

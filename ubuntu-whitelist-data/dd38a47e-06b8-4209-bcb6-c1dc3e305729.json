@@ -1,0 +1,17 @@
+{
+  "uuid": "dd38a47e-06b8-4209-bcb6-c1dc3e305729",
+  "path": "/lib/firmware/go7007/px-tv402u.fw.zst",
+  "size": 4298,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.530541840Z",
+  "sha256_hash": "a00a135a0f320301b770f23b0e47ab0f01c3d4bf5353163c9c3e5d4b275e0f80",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.726865478Z"
+}

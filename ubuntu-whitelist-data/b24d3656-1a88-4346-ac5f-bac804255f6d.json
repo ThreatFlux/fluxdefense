@@ -1,0 +1,17 @@
+{
+  "uuid": "b24d3656-1a88-4346-ac5f-bac804255f6d",
+  "path": "/lib/X11/xedit/lisp/progmodes/rpm.lsp",
+  "size": 5667,
+  "modified": "2024-03-31T17:26:36Z",
+  "created": "2025-05-09T05:07:20.995880669Z",
+  "sha256_hash": "b4c94c580334ef7429a9bdac604211346a85e4cf492f21dde6498783be587c35",
+  "file_type": {
+    "Other": "lsp"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.465901238Z"
+}

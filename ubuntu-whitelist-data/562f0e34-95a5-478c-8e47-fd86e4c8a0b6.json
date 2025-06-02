@@ -1,0 +1,17 @@
+{
+  "uuid": "562f0e34-95a5-478c-8e47-fd86e4c8a0b6",
+  "path": "/lib/x86_64-linux-gnu/libargon2.so.1",
+  "size": 34808,
+  "modified": "2024-04-08T15:54:09Z",
+  "created": "2025-05-09T05:07:29.170755925Z",
+  "sha256_hash": "3c593c01d1c3497b1276537a1002c90ce3beb729a3520087608838cf8bbd847d",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.407612932Z"
+}

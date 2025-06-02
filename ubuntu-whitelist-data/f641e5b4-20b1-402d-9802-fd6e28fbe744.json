@@ -1,0 +1,17 @@
+{
+  "uuid": "f641e5b4-20b1-402d-9802-fd6e28fbe744",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/s-diflio.adb",
+  "size": 4689,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.075344805Z",
+  "sha256_hash": "7992773c1451e739e23ace490f1c6c03a525504c97594e9ff1429006016406ff",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.085017359Z"
+}

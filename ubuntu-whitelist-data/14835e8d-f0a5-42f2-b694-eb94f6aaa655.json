@@ -1,0 +1,17 @@
+{
+  "uuid": "14835e8d-f0a5-42f2-b694-eb94f6aaa655",
+  "path": "/lib/llvm-18/include/clang-c/ExternC.h",
+  "size": 2007,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.554533252Z",
+  "sha256_hash": "d64d9d58750dc7d240a8c35b3192d8801672200f3df3d6417695ae5e59c12cbc",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.887537584Z"
+}

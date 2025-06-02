@@ -1,0 +1,17 @@
+{
+  "uuid": "a4a01c90-fe49-4cab-831f-dba317f86d07",
+  "path": "/usr/lib/firmware/intel/ibt-0093-0291.sfi.zst",
+  "size": 663879,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.555541493Z",
+  "sha256_hash": "a62e6c24ad181b9a55ef132112ec7d9a939bfffba5029b6cf9622596cd54b903",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.750724310Z"
+}

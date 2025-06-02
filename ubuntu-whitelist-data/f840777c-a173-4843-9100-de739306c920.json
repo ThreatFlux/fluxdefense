@@ -1,0 +1,15 @@
+{
+  "uuid": "f840777c-a173-4843-9100-de739306c920",
+  "path": "/bin/resolvectl",
+  "size": 162480,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:12.157762052Z",
+  "sha256_hash": "5f2b39f43838d73783fe5f43a9f8f26514fd1155ea71042f06602189cd4e7cab",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.941436359Z"
+}

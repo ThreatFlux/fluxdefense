@@ -1,0 +1,17 @@
+{
+  "uuid": "28ee7b01-dd5a-442d-b90c-9c9eb8ab5af0",
+  "path": "/lib/firmware/intel/sof-tplg/sof-imx8mp-compr-wm8960-mixer.tplg.zst",
+  "size": 1105,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.060490953Z",
+  "sha256_hash": "98b73cfada1ec15b4f5835a66dc0798330fd7ceb5c14ebf3127eec89ef3236cb",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.206451983Z"
+}

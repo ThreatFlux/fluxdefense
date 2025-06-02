@@ -1,0 +1,17 @@
+{
+  "uuid": "a0ae2f3e-a391-48d0-9cdb-ba46c895957a",
+  "path": "/usr/lib/x86_64-linux-gnu/libwpg-0.3.so.3.0.4",
+  "size": 121640,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:35.018666687Z",
+  "sha256_hash": "3b3ecdf474b3e3776805612d57adcc6d5d0295a896ed93e9a80eb66df8338391",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.473022315Z"
+}

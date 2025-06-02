@@ -1,0 +1,17 @@
+{
+  "uuid": "33a46715-769d-48aa-8279-ea18996a8f59",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/include/emmintrin.h",
+  "size": 52354,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.244389832Z",
+  "sha256_hash": "e49e99cb09f4f7d94d0bc21cffba7c9eb328b903603eadf795b24b646c5257f0",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.920381464Z"
+}

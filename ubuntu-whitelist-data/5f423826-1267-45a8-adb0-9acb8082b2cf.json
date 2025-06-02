@@ -1,0 +1,17 @@
+{
+  "uuid": "5f423826-1267-45a8-adb0-9acb8082b2cf",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-pie.so.1.2.1",
+  "size": 92464,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.149634168Z",
+  "sha256_hash": "d75294272ad60e605bb598f7f78c7c420a02a5989a39c5728aac23e22f08e799",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.197707089Z"
+}

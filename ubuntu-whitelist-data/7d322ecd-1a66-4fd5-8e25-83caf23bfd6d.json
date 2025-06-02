@@ -1,0 +1,15 @@
+{
+  "uuid": "7d322ecd-1a66-4fd5-8e25-83caf23bfd6d",
+  "path": "/usr/lib/klibc/bin/sleep",
+  "size": 9024,
+  "modified": "2024-05-21T08:39:42Z",
+  "created": "2025-05-09T05:07:21.713869713Z",
+  "sha256_hash": "6d99593a13e17940f345bf86c3cf3892a4ae72c91dcb9b86582952c047f42409",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.566651186Z"
+}

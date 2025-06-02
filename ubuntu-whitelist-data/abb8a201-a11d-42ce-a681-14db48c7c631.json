@@ -1,0 +1,17 @@
+{
+  "uuid": "abb8a201-a11d-42ce-a681-14db48c7c631",
+  "path": "/lib/firmware/imx/sdma/sdma-imx7d.bin.zst",
+  "size": 1617,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.546541618Z",
+  "sha256_hash": "bd63a75711c37679037683fd1e2978a3c124e8816e7549a859e0f8c7f4a213c7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.497423723Z"
+}

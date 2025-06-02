@@ -1,0 +1,15 @@
+{
+  "uuid": "e5ae9433-4ddc-49cf-a5c9-075bd09046ee",
+  "path": "/usr/libexec/x86_64-linux-gnu/isa-support/test-amd64-baseline",
+  "size": 19520,
+  "modified": "2024-04-18T17:54:37Z",
+  "created": "2025-05-26T20:18:23.196081220Z",
+  "sha256_hash": "281df0d91de83091c19b4bf752692f2e916667b4d58d0f205ab0cc1c7fc72abd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.532700330Z"
+}

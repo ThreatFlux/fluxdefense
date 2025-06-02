@@ -1,0 +1,17 @@
+{
+  "uuid": "c335b646-d453-4a20-aca5-14a1e8d4f575",
+  "path": "/lib/systemd/user/update-notifier-crash.service",
+  "size": 235,
+  "modified": "2024-10-08T13:47:14Z",
+  "created": "2025-05-09T05:24:21.710885176Z",
+  "sha256_hash": "11e276a3c128de5b39b7ffb056d18837c5c70c5d2966d33a858d15884972e08e",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.140186840Z"
+}

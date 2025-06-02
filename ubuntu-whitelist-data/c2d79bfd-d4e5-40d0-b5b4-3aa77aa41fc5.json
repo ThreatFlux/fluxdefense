@@ -1,0 +1,17 @@
+{
+  "uuid": "c2d79bfd-d4e5-40d0-b5b4-3aa77aa41fc5",
+  "path": "/lib/systemd/system/systemd-pcrextend@.service",
+  "size": 650,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "3bf975fbb9737019c65718d9796cc17c031296b439a412e45f3a92495fb9fc2e",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.122341368Z"
+}

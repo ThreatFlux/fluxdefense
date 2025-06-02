@@ -1,0 +1,17 @@
+{
+  "uuid": "8ae707a1-e41a-4eb4-81d1-55276b25d0eb",
+  "path": "/lib/systemd/system/accounts-daemon.service",
+  "size": 1965,
+  "modified": "2024-04-03T16:37:38Z",
+  "created": "2025-05-09T05:07:28.297769246Z",
+  "sha256_hash": "d551d73b16a5cf72cbb2b46613856b1aa1d47d89449926e20c903c34b5559d49",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.129282197Z"
+}

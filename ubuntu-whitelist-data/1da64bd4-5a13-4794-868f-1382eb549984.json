@@ -1,0 +1,17 @@
+{
+  "uuid": "1da64bd4-5a13-4794-868f-1382eb549984",
+  "path": "/lib/systemd/system/udisks2.service",
+  "size": 207,
+  "modified": "2024-11-18T16:06:30Z",
+  "created": "2025-05-09T05:07:28.304769139Z",
+  "sha256_hash": "edbe6a50b0f8bdbd29f01fba10e96333c3523c2c1cbb6d91c1326da99b2ff3c2",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.125892894Z"
+}

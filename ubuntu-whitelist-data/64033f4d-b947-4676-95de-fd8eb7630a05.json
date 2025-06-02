@@ -1,0 +1,15 @@
+{
+  "uuid": "64033f4d-b947-4676-95de-fd8eb7630a05",
+  "path": "/bin/who",
+  "size": 59928,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:20.884882363Z",
+  "sha256_hash": "1f04b2653316092f61a6f838c9f63595f6833c30fd2815a062c040f7b7f61e34",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.233776894Z"
+}

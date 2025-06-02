@@ -1,0 +1,15 @@
+{
+  "uuid": "8873e7ba-044b-4ff0-a994-30e0446fa087",
+  "path": "/lib/x86_64-linux-gnu/rygel-2.8/plugins/mpris.plugin",
+  "size": 148,
+  "modified": "2024-03-31T08:21:52Z",
+  "created": "2025-05-09T05:07:37.027636030Z",
+  "sha256_hash": "6424b6496b9e56092da9becc9b274e321c61d4b543a4d180b8f11e67b00e5826",
+  "file_type": "Bundle",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.370532075Z"
+}

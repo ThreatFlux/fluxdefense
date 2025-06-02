@@ -1,0 +1,17 @@
+{
+  "uuid": "826247cc-9609-4359-85bb-aa8e983a4668",
+  "path": "/usr/lib/x86_64-linux-gnu/libnvcuvid.so.550.144.03",
+  "size": 10566992,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:00.712916588Z",
+  "sha256_hash": "9cbd07ee1eebefe5b43ba0b1cb88cf09cefaedf70b932de63a8ef5eb55c4ce3b",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.402252303Z"
+}

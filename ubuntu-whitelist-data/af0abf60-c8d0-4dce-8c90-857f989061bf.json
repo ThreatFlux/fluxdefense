@@ -1,0 +1,17 @@
+{
+  "uuid": "af0abf60-c8d0-4dce-8c90-857f989061bf",
+  "path": "/lib/llvm-18/include/clang-tidy/android/CloexecEpollCreate1Check.h",
+  "size": 1226,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "bcc37009b88e8ba987bc1cf6ee921180bb22023e6b3478a87639df03ccd760e6",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.892539947Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "daeb46b2-a1a6-4708-b04e-3dac1d8b27ab",
+  "path": "/usr/lib/grub/x86_64-efi/gzio.mod",
+  "size": 13032,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.810708430Z",
+  "sha256_hash": "2b3ffd8d749efc2e8259dfaa60f6eb9e15305c0c3da0256bd331fbe9985c9b56",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.470815230Z"
+}

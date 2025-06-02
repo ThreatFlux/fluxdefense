@@ -1,0 +1,15 @@
+{
+  "uuid": "29fd1d8b-cbc0-41ce-b816-f20b13da0b39",
+  "path": "/usr/lib/x86_64-linux-gnu/sssd/modules/sssd_krb5_localauth_plugin.so",
+  "size": 31520,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:37.290632017Z",
+  "sha256_hash": "f18481fb9287fa84442fa52af8cbb45038a6c0df3796e7d73956957a53125cfb",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.028698637Z"
+}

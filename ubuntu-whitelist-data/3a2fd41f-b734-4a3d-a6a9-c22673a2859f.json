@@ -1,0 +1,17 @@
+{
+  "uuid": "3a2fd41f-b734-4a3d-a6a9-c22673a2859f",
+  "path": "/lib/firmware/amdgpu/vangogh_vcn.bin.zst",
+  "size": 395473,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.419543377Z",
+  "sha256_hash": "820b0476cca3ed9db3310b68f65270c4808341b1c96e3ba3dd2a01a2ded3c417",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.949031112Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "dec38c2c-4a55-44c5-9578-2a581e7f34b3",
+  "path": "/lib/python3.12/test/test_importlib/namespace_pkgs/nested_portion1.zip",
+  "size": 556,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.023551355Z",
+  "sha256_hash": "9d6e1c27870cb53512a2e29ab03e61c25188ebed57e933ee5ce4e749d72c0a87",
+  "file_type": {
+    "Other": "zip"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.268590820Z"
+}

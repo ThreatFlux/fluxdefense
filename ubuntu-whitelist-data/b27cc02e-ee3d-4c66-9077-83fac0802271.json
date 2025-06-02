@@ -1,0 +1,17 @@
+{
+  "uuid": "b27cc02e-ee3d-4c66-9077-83fac0802271",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/g-thread.adb",
+  "size": 6857,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.072344846Z",
+  "sha256_hash": "9464aabb9d13f584feebda2504418098c954adc288a29dd0c6582923afee24c8",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.146243020Z"
+}

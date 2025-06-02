@@ -1,0 +1,15 @@
+{
+  "uuid": "e541f4f3-fc58-4696-9e41-7ded5db6d05b",
+  "path": "/usr/lib/i386-linux-gnu/gconv/EUC-JP.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.273663522Z",
+  "sha256_hash": "ffd7376c5ce3a0318591102a90894ff36eafffe8826a9f2adf43a94cf0ae2e50",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.982130848Z"
+}

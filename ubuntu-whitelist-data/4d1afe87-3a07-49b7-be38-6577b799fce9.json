@@ -1,0 +1,15 @@
+{
+  "uuid": "4d1afe87-3a07-49b7-be38-6577b799fce9",
+  "path": "/usr/bin/bpftrace",
+  "size": 2250576,
+  "modified": "2025-02-05T01:33:14Z",
+  "created": "2025-05-09T05:08:51.879493715Z",
+  "sha256_hash": "d2846f3400bb129b1a569aae64adf548de99ff41f247823ff8caf1fbde40ff1e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.070532613Z"
+}

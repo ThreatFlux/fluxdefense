@@ -1,0 +1,15 @@
+{
+  "uuid": "7aa57430-0788-489f-a162-67329ec35d23",
+  "path": "/lib/libreoffice/program/libxsec_xmlsec.so",
+  "size": 370480,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:20.113231168Z",
+  "sha256_hash": "074568776e089e2f1735b5463994597021c30d26d97bf0e7b0b173d96292bd7a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:50.146773204Z"
+}

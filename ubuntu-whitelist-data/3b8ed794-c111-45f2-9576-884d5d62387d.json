@@ -1,0 +1,17 @@
+{
+  "uuid": "3b8ed794-c111-45f2-9576-884d5d62387d",
+  "path": "/usr/lib/llvm-18/include/clang/CodeGen/ConstantInitBuilder.h",
+  "size": 21791,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.539533450Z",
+  "sha256_hash": "6e8f0229f24865369933d994fc1cbf7a4fb326b6c07cdf586fb806bea872c3c3",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.311109852Z"
+}

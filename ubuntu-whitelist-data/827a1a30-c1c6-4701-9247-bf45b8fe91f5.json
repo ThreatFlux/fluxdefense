@@ -1,0 +1,15 @@
+{
+  "uuid": "827a1a30-c1c6-4701-9247-bf45b8fe91f5",
+  "path": "/usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-raop-discover.so",
+  "size": 22800,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.784860128Z",
+  "sha256_hash": "16f4aa5fe37703ad65beca8a4404a5177ad5664f90df490a3a82366d206a4324",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.405621560Z"
+}

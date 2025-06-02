@@ -1,0 +1,15 @@
+{
+  "uuid": "91859bb5-5c05-462b-a8f1-3d5e1421ab89",
+  "path": "/usr/lib/systemd/systemd-sysv-install",
+  "size": 1360,
+  "modified": "2025-02-18T17:24:37Z",
+  "created": "2025-05-09T05:24:13.525779508Z",
+  "sha256_hash": "dba758ee9a9c9a5c76047b275ce6215c8f669cc7689548e9ac8ff32a9513eff4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.561957739Z"
+}

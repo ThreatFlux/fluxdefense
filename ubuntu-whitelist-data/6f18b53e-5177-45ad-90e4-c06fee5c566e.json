@@ -1,0 +1,17 @@
+{
+  "uuid": "6f18b53e-5177-45ad-90e4-c06fee5c566e",
+  "path": "/lib/llvm-18/include/clang/AST/VTTBuilder.h",
+  "size": 5313,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.521533687Z",
+  "sha256_hash": "30e8bbb32312a42fb5a10141ed2738ddc6c71ac9a2e7713eaafa83ea03e3782c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.966339902Z"
+}

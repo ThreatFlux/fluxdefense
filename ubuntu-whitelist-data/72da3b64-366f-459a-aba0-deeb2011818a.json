@@ -1,0 +1,17 @@
+{
+  "uuid": "72da3b64-366f-459a-aba0-deeb2011818a",
+  "path": "/lib/firmware/radeon/BONAIRE_pfp.bin.zst",
+  "size": 3310,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.059534513Z",
+  "sha256_hash": "6174991c23b50875f53e342873505d2833f69a6a6cc8441cb775f5ed34835bae",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.378182287Z"
+}

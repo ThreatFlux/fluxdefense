@@ -1,0 +1,17 @@
+{
+  "uuid": "83c1472c-aa84-4e48-a052-f1ec18b81678",
+  "path": "/usr/lib/x86_64-linux-gnu/perl5/5.38/Net/DBus.pm",
+  "size": 18988,
+  "modified": "2019-12-16T21:36:06Z",
+  "created": "2025-05-09T05:07:36.878638304Z",
+  "sha256_hash": "05197e1cb6fcdb1d0bc79c2a9c7f42a3901789180fc6ddc1a62242d7241c71e3",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.615741915Z"
+}

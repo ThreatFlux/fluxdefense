@@ -1,0 +1,17 @@
+{
+  "uuid": "3c35f9fd-dfb7-46cb-ac36-8fb2c5b43015",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-epson.so.1.2.1",
+  "size": 167480,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.140634306Z",
+  "sha256_hash": "7a886e2d0590a4c07590222cc38e2c2a556bb23285ba0e1a78b4ebd1373c438c",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.761481908Z"
+}

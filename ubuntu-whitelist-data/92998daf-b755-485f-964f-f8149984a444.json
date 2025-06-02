@@ -1,0 +1,17 @@
+{
+  "uuid": "92998daf-b755-485f-964f-f8149984a444",
+  "path": "/lib/llvm-18/include/clang/Basic/DiagnosticDriver.h",
+  "size": 921,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.527533608Z",
+  "sha256_hash": "02effac4e7c305343d163fb4dd4e0d763b2626e50a255d999091c74f9ef0858f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.120597442Z"
+}

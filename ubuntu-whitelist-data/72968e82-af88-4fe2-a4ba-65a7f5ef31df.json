@@ -1,0 +1,17 @@
+{
+  "uuid": "72968e82-af88-4fe2-a4ba-65a7f5ef31df",
+  "path": "/lib/firmware/nvidia/gv100/sec2/desc.bin.zst",
+  "size": 158,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.941536147Z",
+  "sha256_hash": "b51e218f1b3534186e1911ca7aed9e6149e75d6ab03e1aaf82869cd8f55d6072",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.425577140Z"
+}

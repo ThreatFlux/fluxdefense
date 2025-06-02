@@ -1,0 +1,15 @@
+{
+  "uuid": "8238c02d-e7d5-4241-ac8e-294cfc0f4f7f",
+  "path": "/usr/lib/x86_64-linux-gnu/rsyslog/lmzlibw.so",
+  "size": 14632,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.547922264Z",
+  "sha256_hash": "8524907066db9b52d63439a75f8aa379c3814e8a2a66614b17f79552aaa02add",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.172994503Z"
+}

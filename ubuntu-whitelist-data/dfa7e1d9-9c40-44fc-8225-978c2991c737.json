@@ -1,0 +1,17 @@
+{
+  "uuid": "dfa7e1d9-9c40-44fc-8225-978c2991c737",
+  "path": "/usr/lib/firmware/rtlwifi/rtl8192eu_wowlan.bin.zst",
+  "size": 17467,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.068534388Z",
+  "sha256_hash": "0c08e527f365f209017513f09407ac7bb150ea5d7649f98a86c9253b37a3a104",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.509268889Z"
+}

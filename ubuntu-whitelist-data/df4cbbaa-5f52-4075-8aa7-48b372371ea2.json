@@ -1,0 +1,17 @@
+{
+  "uuid": "df4cbbaa-5f52-4075-8aa7-48b372371ea2",
+  "path": "/usr/lib/llvm-18/include/clang/Sema/ScopeInfo.h",
+  "size": 38960,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.548533331Z",
+  "sha256_hash": "6aa2bf1ee82752d2feea076bba16a4cf379ec9044e55bdc1c2c18f2fb0b2b83c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.477542445Z"
+}

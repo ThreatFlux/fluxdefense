@@ -1,0 +1,17 @@
+{
+  "uuid": "59a9189a-df62-4c9f-8c06-47a5aeb069a3",
+  "path": "/usr/lib/x86_64-linux-gnu/libclucene-shared.so.2.3.3.4",
+  "size": 142152,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.237754902Z",
+  "sha256_hash": "bad6accc120569cdfadf90af5a0d6175b82032004d0f259ecdc67f3e507fd6af",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.365400857Z"
+}

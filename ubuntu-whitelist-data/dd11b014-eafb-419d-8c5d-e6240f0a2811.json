@@ -1,0 +1,15 @@
+{
+  "uuid": "dd11b014-eafb-419d-8c5d-e6240f0a2811",
+  "path": "/usr/sbin/ppchcalls-bpfcc",
+  "size": 14224,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "0e1fc56c76bae6da0d613b6f1e3457353d4f57a1d0e350190336887fe6734568",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.226471929Z"
+}

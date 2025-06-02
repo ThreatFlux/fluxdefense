@@ -1,0 +1,17 @@
+{
+  "uuid": "a371d5cd-c0fa-42e5-bee7-5adb6eccf17b",
+  "path": "/lib/llvm-18/include/clang/Sema/HLSLExternalSemaSource.h",
+  "size": 1777,
+  "modified": "2023-12-09T22:26:51Z",
+  "created": "2025-05-12T13:34:31.547533344Z",
+  "sha256_hash": "acdbe39cb37adce0a1755e2a5c3890b91f95db192b58b9febb89f1615bf73d0c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.065973887Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "5cd648a9-aea5-4c9b-9e55-43f3c4d2441d",
+  "path": "/usr/lib/cups/filter/pdftoraster",
+  "size": 14664,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.357875146Z",
+  "sha256_hash": "81af5338f3de6e91366ee239f856f30826acc20fce8ab05f6bcdd357948c6d5f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.997949409Z"
+}

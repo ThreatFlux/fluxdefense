@@ -1,0 +1,17 @@
+{
+  "uuid": "180af465-6948-4a6d-b7f5-8595f9dc9b6c",
+  "path": "/lib/x86_64-linux-gnu/libgamemodeauto.so.0.0.0",
+  "size": 18432,
+  "modified": "2024-04-08T15:58:08Z",
+  "created": "2025-05-09T05:07:29.761746906Z",
+  "sha256_hash": "b762bba2a80fe5ad5dfb56c672bd5b8d55754be9d7e4f5dae65528f7c39b2b10",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.185419413Z"
+}

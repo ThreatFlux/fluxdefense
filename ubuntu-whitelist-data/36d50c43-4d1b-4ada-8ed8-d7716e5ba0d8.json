@@ -1,0 +1,17 @@
+{
+  "uuid": "36d50c43-4d1b-4ada-8ed8-d7716e5ba0d8",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/liblzma.pc",
+  "size": 441,
+  "modified": "2025-03-31T18:22:22Z",
+  "created": "2025-05-29T11:16:02.375109903Z",
+  "sha256_hash": "a89c9f50186e04f4db527c423b7fa68f6fdfa6623f44862eac6752319a041e2c",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.057979475Z"
+}

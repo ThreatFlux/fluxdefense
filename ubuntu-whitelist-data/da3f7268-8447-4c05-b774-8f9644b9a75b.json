@@ -1,0 +1,15 @@
+{
+  "uuid": "da3f7268-8447-4c05-b774-8f9644b9a75b",
+  "path": "/lib/python3.12/lib-dynload/ossaudiodev.cpython-312-x86_64-linux-gnu.so",
+  "size": 33576,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:10:59.932539216Z",
+  "sha256_hash": "c55dd6a1c28d5f1d4d32881f516b8cad54eb64a0c71c101fbaa9e215f6570bfb",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.219135180Z"
+}

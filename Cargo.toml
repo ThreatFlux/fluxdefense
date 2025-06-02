@@ -22,11 +22,33 @@ hex = "0.4"
 clap = { version = "4.4", features = ["derive"] }
 chrono = { version = "0.4", features = ["serde"] }
 num_cpus = "1.16"
+ctrlc = "3.4"
+# Web API dependencies
+axum = { version = "0.7", features = ["ws"] }
+tower = "0.4"
+tower-http = { version = "0.5", features = ["cors", "fs", "trace"] }
+tokio-tungstenite = "0.21"
+futures-util = "0.3"
+# System monitoring
+sysinfo = "0.30"
+procfs = "0.16"
+
+# Optional Linux-specific dependencies
+pcap = { version = "1.1", optional = true }
+gtk = { version = "0.18", optional = true }
+libappindicator = { version = "0.9", optional = true }
+glib = { version = "0.18", optional = true }
+
+# Additional dependencies for Phase 1
+regex = "1.10"
+trust-dns-resolver = "0.23"
 
 [features]
 default = ["passive-mode"]
 esf = []
 passive-mode = []
+linux-tray = ["gtk", "libappindicator", "glib"]
+api-server = []
 
 [build-dependencies]
 bindgen = "0.69"
@@ -46,3 +68,28 @@ path = "src/bin/file_scanner.rs"
 [[bin]]
 name = "flux-monitor"
 path = "src/bin/flux_monitor.rs"
+
+[[bin]]
+name = "flux-tray-linux"
+path = "src/bin/flux_tray_linux.rs"
+required-features = ["linux-tray"]
+
+[[bin]]
+name = "test-enhanced-monitor"
+path = "src/bin/test_enhanced_monitor.rs"
+
+[[bin]]
+name = "test-network-filter"
+path = "src/bin/test_network_filter.rs"
+
+[[bin]]
+name = "fluxdefense-api"
+path = "src/bin/api_server.rs"
+
+[[bin]]
+name = "test-phase1"
+path = "src/bin/test_phase1.rs"
+
+[[bin]]
+name = "test-phase1-simple"
+path = "src/bin/test_phase1_simple.rs"

@@ -1,0 +1,15 @@
+{
+  "uuid": "42ff248a-bc3f-4189-9c0a-1f5abaa00ff7",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM1124.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.275663492Z",
+  "sha256_hash": "2df6ebdcbad2da3f83cd29f10f30225f87f19173790000b505dc835b6210e59f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.955101665Z"
+}

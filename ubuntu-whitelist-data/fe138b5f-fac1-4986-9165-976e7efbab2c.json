@@ -1,0 +1,17 @@
+{
+  "uuid": "fe138b5f-fac1-4986-9165-976e7efbab2c",
+  "path": "/lib/firmware/ath10k/QCA9887/hw1.0/firmware-5.bin.zst",
+  "size": 204880,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.438543114Z",
+  "sha256_hash": "2f3b871816770a48dde3d89e1f46c0a81b83ca0d1b749d90211495636b94444f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.971399618Z"
+}

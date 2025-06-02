@@ -1,0 +1,17 @@
+{
+  "uuid": "d1d5461a-b941-49c2-b18c-2705e07ed268",
+  "path": "/lib/firmware/hfi1_sbus.fw.zst",
+  "size": 4327,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.531541826Z",
+  "sha256_hash": "e752cd5bbe1b5375109deb7f6fee1f7dba1fe41b57ecc4875e3eff965d66a57a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.464925287Z"
+}

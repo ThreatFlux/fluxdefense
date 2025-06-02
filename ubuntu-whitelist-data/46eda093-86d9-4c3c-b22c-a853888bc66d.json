@@ -1,0 +1,15 @@
+{
+  "uuid": "46eda093-86d9-4c3c-b22c-a853888bc66d",
+  "path": "/sbin/alsa-info",
+  "size": 29365,
+  "modified": "2024-04-07T07:09:55Z",
+  "created": "2025-05-09T05:07:38.123619305Z",
+  "sha256_hash": "4b42c3bcdadcb3d41762be6772d91f5b995aecd915cb075d6bf1a56fae0de84a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.932030793Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "92f48ef1-a4e2-495b-b241-7988a4a60819",
+  "path": "/lib/grub/x86_64-efi/gcry_dsa.mod",
+  "size": 3472,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.806708491Z",
+  "sha256_hash": "954881610a30c6c009fb36e9ccb3c6daa17cd31fb1736805ce97631b9f890f70",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.018214204Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "326020bb-ff52-4566-9360-d11070e7c38c",
+  "path": "/lib/valgrind/ncurses.supp",
+  "size": 4930,
+  "modified": "2020-02-02T23:34:34Z",
+  "created": "2025-05-12T13:34:34.211498265Z",
+  "sha256_hash": "c039ee2d2abff2952356405854dec58690dde544d994b3ca4b9236aac9b74033",
+  "file_type": {
+    "Other": "supp"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.172160208Z"
+}

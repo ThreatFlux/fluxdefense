@@ -1,0 +1,17 @@
+{
+  "uuid": "5dcb9a24-0a6a-45b1-a604-868b45e06310",
+  "path": "/usr/lib/systemd/system/systemd-sysext.socket",
+  "size": 683,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "7a53fef70ffd2d200d2bcbb65b878c23d2305aebd7b2af371782359a990ee6f0",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.484507457Z"
+}

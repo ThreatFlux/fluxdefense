@@ -1,0 +1,17 @@
+{
+  "uuid": "54a0f6e1-03ec-4e98-8b70-c33a8438fde6",
+  "path": "/lib/llvm-18/include/clang/Basic/TargetBuiltins.h",
+  "size": 10837,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.532533542Z",
+  "sha256_hash": "94432c8c9813dfd58954726499795abd3b59c10a701ade141e30efd8d87cac9d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.072131916Z"
+}

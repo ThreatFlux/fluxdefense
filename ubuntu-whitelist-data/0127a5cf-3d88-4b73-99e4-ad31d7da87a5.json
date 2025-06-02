@@ -1,0 +1,17 @@
+{
+  "uuid": "0127a5cf-3d88-4b73-99e4-ad31d7da87a5",
+  "path": "/lib/x86_64-linux-gnu/perl5/5.38/Text/CharWidth.pm",
+  "size": 2040,
+  "modified": "2003-06-25T08:59:49Z",
+  "created": "2025-05-09T05:07:36.887638166Z",
+  "sha256_hash": "6ab868439fe5c571bd80e8f16b9a9f8380a1d227c50e0138045544be575c6ee9",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.335342094Z"
+}

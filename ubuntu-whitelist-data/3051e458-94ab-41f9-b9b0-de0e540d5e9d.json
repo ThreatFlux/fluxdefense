@@ -1,0 +1,17 @@
+{
+  "uuid": "3051e458-94ab-41f9-b9b0-de0e540d5e9d",
+  "path": "/lib/firmware/amdgpu/vegam_pfp.bin.zst",
+  "size": 8109,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.426543280Z",
+  "sha256_hash": "e581033c8f31b7cb4aa4b03edca141df0cd3f7b8e59177ce1db53a52c62f5e7b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.067780129Z"
+}

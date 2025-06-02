@@ -1,0 +1,15 @@
+{
+  "uuid": "b8b559e7-9c54-4595-9f00-59df0a25dd8c",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/sources/DataSourceAzure.py",
+  "size": 77321,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.241037243Z",
+  "sha256_hash": "ab75672a57dfcc4d5810aa45da96fc496d64e35c5313b1aa204e1faeb558fd92",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.831392703Z"
+}

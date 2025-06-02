@@ -1,0 +1,17 @@
+{
+  "uuid": "1d028689-d42a-4bff-8396-600e124e1ce1",
+  "path": "/lib/x86_64-linux-gnu/libcdio_paranoia.so.2.0.0",
+  "size": 35016,
+  "modified": "2024-03-31T07:45:38Z",
+  "created": "2025-05-09T05:07:29.208755345Z",
+  "sha256_hash": "94598f6c40e267e5d456588dda7b20c981857163565e1db85d5e6f742b88385d",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.372338623Z"
+}

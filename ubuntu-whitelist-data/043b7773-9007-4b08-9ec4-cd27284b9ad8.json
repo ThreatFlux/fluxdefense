@@ -1,0 +1,17 @@
+{
+  "uuid": "043b7773-9007-4b08-9ec4-cd27284b9ad8",
+  "path": "/lib/firmware/ath6k/AR6003/hw2.0/data.patch.bin.zst",
+  "size": 2102,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.474542615Z",
+  "sha256_hash": "18ef9c192e281781dc242d492dc7621f79216017f32a004e4f0224b20d3fa20d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.244330426Z"
+}

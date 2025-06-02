@@ -1,0 +1,17 @@
+{
+  "uuid": "1361fb21-a408-43cb-8337-15eea6e00ddb",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/include/serializeintrin.h",
+  "size": 1624,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.246389788Z",
+  "sha256_hash": "fa9bdfa95137bcbbf368cd5515de5df95e41f18c9dc4a9b59757a8eb938774c6",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.910741184Z"
+}

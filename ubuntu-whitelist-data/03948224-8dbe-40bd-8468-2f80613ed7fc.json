@@ -1,0 +1,15 @@
+{
+  "uuid": "03948224-8dbe-40bd-8468-2f80613ed7fc",
+  "path": "/usr/lib/grub/x86_64-efi/modinfo.sh",
+  "size": 2591,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.815708353Z",
+  "sha256_hash": "84336eff8f490451215fce126d01c3b10b6718dc17985b654ccec8d5f7f1acf5",
+  "file_type": "Script",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.450241264Z"
+}

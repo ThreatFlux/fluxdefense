@@ -1,0 +1,15 @@
+{
+  "uuid": "382f0e2d-059b-401a-aa40-0149108668a9",
+  "path": "/lib/x86_64-linux-gnu/gconv/IBM1046.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.625657424Z",
+  "sha256_hash": "7a1aeb986b805286422c6c1be420cfb975c06007717d2ab8bda71914d02e4988",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.772236033Z"
+}

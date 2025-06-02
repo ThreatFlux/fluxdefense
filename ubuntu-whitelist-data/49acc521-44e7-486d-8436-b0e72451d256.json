@@ -1,0 +1,17 @@
+{
+  "uuid": "49acc521-44e7-486d-8436-b0e72451d256",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-stzfix.adb",
+  "size": 20454,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.058345038Z",
+  "sha256_hash": "dc92461dcf2fc880d7a71c68f8cc8d1bf97d6b71fe3dede1d10ede1f116a041e",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.008513924Z"
+}

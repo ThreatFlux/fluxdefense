@@ -1,0 +1,15 @@
+{
+  "uuid": "a2023930-83ab-443f-bffd-ff90fe2e6fa9",
+  "path": "/lib/x86_64-linux-gnu/libnfsidmap/nsswitch.so",
+  "size": 35056,
+  "modified": "2024-10-02T12:40:50Z",
+  "created": "2025-05-09T05:07:35.871653670Z",
+  "sha256_hash": "809ee356bd7a73c90739fcf27ede12093e3901bc2b2cece6da92fef0fca08a91",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.460825992Z"
+}

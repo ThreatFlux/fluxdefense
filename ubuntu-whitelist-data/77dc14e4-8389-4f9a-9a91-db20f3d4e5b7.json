@@ -1,0 +1,17 @@
+{
+  "uuid": "77dc14e4-8389-4f9a-9a91-db20f3d4e5b7",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/IncDecInConditionsCheck.h",
+  "size": 1472,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "ed6be67fb7d4ce8e6544ea154dac0e814a0f879ed14e747c86ebd394255c0ab6",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.231889578Z"
+}

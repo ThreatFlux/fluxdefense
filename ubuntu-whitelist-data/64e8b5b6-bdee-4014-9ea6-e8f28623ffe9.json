@@ -1,0 +1,17 @@
+{
+  "uuid": "64e8b5b6-bdee-4014-9ea6-e8f28623ffe9",
+  "path": "/usr/lib/systemd/repart/definitions/sysext.repart.d/10-root.conf",
+  "size": 453,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.510779317Z",
+  "sha256_hash": "adc888213aefce7da3d9be8ba132975ade3d69690ed6b559bef4d835cc2f7b35",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.543398430Z"
+}

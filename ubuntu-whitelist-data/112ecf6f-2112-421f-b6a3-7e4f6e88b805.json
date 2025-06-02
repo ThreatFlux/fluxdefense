@@ -1,0 +1,17 @@
+{
+  "uuid": "112ecf6f-2112-421f-b6a3-7e4f6e88b805",
+  "path": "/lib/grub/x86_64-efi/btrfs.mod",
+  "size": 28656,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.801708567Z",
+  "sha256_hash": "1f4374b73fe8326357a96097d8ba5d7be087a0c57a8ecdf4b5af3ad08a4672ed",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.139343106Z"
+}

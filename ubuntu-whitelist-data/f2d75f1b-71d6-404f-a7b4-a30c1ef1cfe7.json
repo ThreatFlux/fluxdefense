@@ -1,0 +1,17 @@
+{
+  "uuid": "f2d75f1b-71d6-404f-a7b4-a30c1ef1cfe7",
+  "path": "/usr/lib/firmware/rtl_bt/rtl8822cs_config.bin.zst",
+  "size": 46,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.066534416Z",
+  "sha256_hash": "3cb8414b1495d2a9c66c134dcda1a8de205abbd1dc13a8b4242d8d5d9ff6ece3",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.535972828Z"
+}

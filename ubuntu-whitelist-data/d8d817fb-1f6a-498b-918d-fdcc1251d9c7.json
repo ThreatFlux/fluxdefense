@@ -1,0 +1,17 @@
+{
+  "uuid": "d8d817fb-1f6a-498b-918d-fdcc1251d9c7",
+  "path": "/usr/lib/grub/x86_64-efi/gcry_twofish.mod",
+  "size": 33432,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.808708460Z",
+  "sha256_hash": "5caf9c909d8773f103b78f008ce5fab8dda68e21d5304401aa1b0bc027098241",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.487256159Z"
+}

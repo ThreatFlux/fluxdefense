@@ -1,0 +1,17 @@
+{
+  "uuid": "79add221-3846-40ca-a7f1-0cf4aa7baaae",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/bits/waitflags.ph",
+  "size": 816,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.559590701Z",
+  "sha256_hash": "6abf4e79b1bf6fe7203cc60721a2cfa1dd5d1569381366039f5ff29d5158c2af",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.685051608Z"
+}

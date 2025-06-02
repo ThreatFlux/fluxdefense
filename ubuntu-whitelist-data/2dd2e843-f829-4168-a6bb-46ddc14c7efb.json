@@ -1,0 +1,15 @@
+{
+  "uuid": "2dd2e843-f829-4168-a6bb-46ddc14c7efb",
+  "path": "/usr/lib/pm-utils/sleep.d/40inputattach",
+  "size": 664,
+  "modified": "2016-01-09T14:46:35Z",
+  "created": "2025-05-09T05:07:25.895805899Z",
+  "sha256_hash": "3ce78adf6740c9ce3504cff873329ac1baf9d8ba89f67a8ab37ccf5ab59ac3bf",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:48.951692871Z"
+}

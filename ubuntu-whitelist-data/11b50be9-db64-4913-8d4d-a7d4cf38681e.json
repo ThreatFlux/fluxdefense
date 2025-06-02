@@ -1,0 +1,17 @@
+{
+  "uuid": "11b50be9-db64-4913-8d4d-a7d4cf38681e",
+  "path": "/lib/systemd/system/dpkg-db-backup.timer",
+  "size": 154,
+  "modified": "2024-02-06T02:53:51Z",
+  "created": "2025-05-09T05:07:28.298769231Z",
+  "sha256_hash": "2e0dd766329313bfabd86b1acbd40069510afcfef3935cdea010168b503afde1",
+  "file_type": {
+    "Other": "timer"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.102971502Z"
+}

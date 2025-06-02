@@ -1,0 +1,17 @@
+{
+  "uuid": "8843561f-8628-41cb-b773-7b46cfed21a9",
+  "path": "/lib/x86_64-linux-gnu/libotf.so.1.0.0",
+  "size": 100424,
+  "modified": "2024-03-31T07:54:22Z",
+  "created": "2025-05-09T05:07:31.779716112Z",
+  "sha256_hash": "fc0d9ced852543967b341e6eaa8ad052bcd99a647357ac5eb8362b174c47a625",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.636135401Z"
+}

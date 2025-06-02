@@ -1,0 +1,15 @@
+{
+  "uuid": "4771c9ec-3f7f-4b52-8a46-48ff4e5c959a",
+  "path": "/usr/lib/x86_64-linux-gnu/libgphoto2_port/0.12.2/ptpip.so",
+  "size": 14496,
+  "modified": "2024-03-31T02:00:03Z",
+  "created": "2025-05-09T05:07:35.856653899Z",
+  "sha256_hash": "8add8653a472d691d0905ae70cd0e55dc5651a0d54c999149ea1d82c58969b55",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.333223991Z"
+}

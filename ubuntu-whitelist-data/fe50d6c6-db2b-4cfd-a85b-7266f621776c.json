@@ -1,0 +1,15 @@
+{
+  "uuid": "fe50d6c6-db2b-4cfd-a85b-7266f621776c",
+  "path": "/usr/sbin/rubyflow-bpfcc",
+  "size": 54,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "7852d8337810ef723d7dc5e572c86d3d21e9ba6a67f427dbde5c4b429bad4690",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.272498074Z"
+}

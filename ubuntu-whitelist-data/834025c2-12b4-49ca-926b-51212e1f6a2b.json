@@ -1,0 +1,17 @@
+{
+  "uuid": "834025c2-12b4-49ca-926b-51212e1f6a2b",
+  "path": "/lib/firmware/qca/crbtfw21.tlv.zst",
+  "size": 119366,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.966535801Z",
+  "sha256_hash": "68cfb923a6527a91e983279122ecb6b3920973bdcbc10f18f068a7c132f94009",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.159778095Z"
+}

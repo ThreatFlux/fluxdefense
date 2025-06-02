@@ -1,0 +1,17 @@
+{
+  "uuid": "8c0096fb-b7a6-4dfc-91bf-7c4c019531b9",
+  "path": "/usr/lib/x86_64-linux-gnu/libtag.so.1.19.1",
+  "size": 969040,
+  "modified": "2024-04-08T16:20:43Z",
+  "created": "2025-05-09T05:07:32.293708269Z",
+  "sha256_hash": "8e22f2a0f386d8951375a0937bbb2e50cedf6c92db7c7ff8cfcb8d42ee7b1ef4",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.356715891Z"
+}

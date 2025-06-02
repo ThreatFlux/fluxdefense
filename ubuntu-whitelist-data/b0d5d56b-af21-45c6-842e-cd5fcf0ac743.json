@@ -1,0 +1,17 @@
+{
+  "uuid": "b0d5d56b-af21-45c6-842e-cd5fcf0ac743",
+  "path": "/lib/os-probes/mounted/10freedos",
+  "size": 517,
+  "modified": "2023-03-07T13:24:16Z",
+  "created": "2025-05-09T05:07:25.893805930Z",
+  "sha256_hash": "d71aaa67a1f4a12e623ed33b79b3eb84de58edc967b8a9065e3d43a9837c656f",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.144880937Z"
+}

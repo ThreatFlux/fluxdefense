@@ -1,0 +1,15 @@
+{
+  "uuid": "1488f2b8-1e9d-4815-9245-e3e44f46e13c",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM424.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.278663446Z",
+  "sha256_hash": "2062918f73fae17de72bc3c749a2a63899e8c373d01a35f9cd72583585e3a796",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.981597195Z"
+}

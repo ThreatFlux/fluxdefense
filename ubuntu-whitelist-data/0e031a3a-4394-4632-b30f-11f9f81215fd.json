@@ -1,0 +1,17 @@
+{
+  "uuid": "0e031a3a-4394-4632-b30f-11f9f81215fd",
+  "path": "/usr/lib/firmware/radeon/R600_rlc.bin.zst",
+  "size": 1428,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "10b8f42ecc7a577d7d9facdf9ce46f1a2981295aa2ee254b8c51b110187284df",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.404532346Z"
+}

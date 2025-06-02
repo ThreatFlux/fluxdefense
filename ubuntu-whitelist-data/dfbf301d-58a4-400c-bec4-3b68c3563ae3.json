@@ -1,0 +1,17 @@
+{
+  "uuid": "dfbf301d-58a4-400c-bec4-3b68c3563ae3",
+  "path": "/usr/lib/systemd/network/80-container-host0.network",
+  "size": 947,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.510779317Z",
+  "sha256_hash": "cb425bbe38d19e5cde214bb02feffe79de11cb057eb13941488e9c3942770e1c",
+  "file_type": {
+    "Other": "network"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.561168772Z"
+}

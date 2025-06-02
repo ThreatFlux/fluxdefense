@@ -1,0 +1,15 @@
+{
+  "uuid": "d25718c3-983b-45ca-b3e5-42c7de3829b9",
+  "path": "/usr/libexec/bluetooth/obexd",
+  "size": 652328,
+  "modified": "2025-02-25T06:11:15Z",
+  "created": "2025-05-09T05:24:27.990967568Z",
+  "sha256_hash": "4198324b61c8c417362cd4e78864762f392c7ef234616a2964b79a3c7474a1c1",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.188889427Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "b25ec509-e3c6-4fa0-b174-6de098f2d664",
+  "path": "/lib/llvm-18/lib/libLLVMOrcTargetProcess.a",
+  "size": 374508,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.959462072Z",
+  "sha256_hash": "932b85cc92008b0b0d6cc34432d64da3b51aa1487d9ffff41e98c523099772e2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:40.629889359Z"
+}

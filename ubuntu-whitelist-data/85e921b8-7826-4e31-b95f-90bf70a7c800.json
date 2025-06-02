@@ -1,0 +1,17 @@
+{
+  "uuid": "85e921b8-7826-4e31-b95f-90bf70a7c800",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/crypto/algif_rng.ko.zst",
+  "size": 4595,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.077797913Z",
+  "sha256_hash": "eb4962ca1052ebeeef74023dc323c2e5fa7756d499cfeb1a1fdb4eefafab5417",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.257910841Z"
+}

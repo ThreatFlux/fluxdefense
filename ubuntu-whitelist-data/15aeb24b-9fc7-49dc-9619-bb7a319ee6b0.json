@@ -1,0 +1,17 @@
+{
+  "uuid": "15aeb24b-9fc7-49dc-9619-bb7a319ee6b0",
+  "path": "/lib/x86_64-linux-gnu/libplist-2.0.so.4.3.0",
+  "size": 100344,
+  "modified": "2024-03-31T02:10:53Z",
+  "created": "2025-05-09T05:07:31.849715044Z",
+  "sha256_hash": "4177ee2d671eacd7b1a952702ef7e14a479acede369396b2a532de1f142491a4",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.128165237Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "076b8915-3c3a-4c76-a989-11aedbb11729",
+  "path": "/usr/lib/x86_64-linux-gnu/libtss2-tctildr.so.0.0.0",
+  "size": 35456,
+  "modified": "2024-05-24T20:06:42Z",
+  "created": "2025-05-09T05:07:32.326707766Z",
+  "sha256_hash": "93bd8e976738d4bcf6b89d2eedb8eb6c5a5d495bd4e3de0e41a7ffb058c4782f",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.774197625Z"
+}

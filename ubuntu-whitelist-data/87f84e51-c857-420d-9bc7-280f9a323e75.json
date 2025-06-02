@@ -1,0 +1,17 @@
+{
+  "uuid": "87f84e51-c857-420d-9bc7-280f9a323e75",
+  "path": "/lib/systemd/system/systemd-timedated.service",
+  "size": 1162,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "2b6d4cc3f5dc57549dbf49987bd07983fd3eaa115c68d61ead2c480ecaea7917",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.103696826Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "98f9082e-a667-43f3-aea1-2f28242f35f4",
+  "path": "/lib/systemd/system/system-update-cleanup.service",
+  "size": 1525,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "97597c8bcc74f345344d0a727fc0a2b08355e48ec034fc497710a44fa131c578",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.126084882Z"
+}

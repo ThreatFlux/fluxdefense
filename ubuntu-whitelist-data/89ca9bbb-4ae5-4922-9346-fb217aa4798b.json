@@ -1,0 +1,17 @@
+{
+  "uuid": "89ca9bbb-4ae5-4922-9346-fb217aa4798b",
+  "path": "/lib/systemd/user/gnome-initial-setup-first-login.service",
+  "size": 354,
+  "modified": "2024-08-12T18:30:31Z",
+  "created": "2025-05-09T05:07:28.305769124Z",
+  "sha256_hash": "c61ff7f929d336c3954f727d812be91add23249bd8a31ece368c5ec90facb21b",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.141675617Z"
+}

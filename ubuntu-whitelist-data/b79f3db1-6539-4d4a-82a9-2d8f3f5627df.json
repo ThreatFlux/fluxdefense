@@ -1,0 +1,15 @@
+{
+  "uuid": "b79f3db1-6539-4d4a-82a9-2d8f3f5627df",
+  "path": "/usr/sbin/ugc",
+  "size": 7823,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.523499148Z",
+  "sha256_hash": "9c3e46edba5698491d14e0eeb76cbec1b427fa572a261ceed86191722d9397bd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.598897995Z"
+}

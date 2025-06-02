@@ -1,0 +1,15 @@
+{
+  "uuid": "fcb77196-fe59-4934-a4c3-cf8d94bee724",
+  "path": "/usr/lib/x86_64-linux-gnu/gawk/readdir.so",
+  "size": 14584,
+  "modified": "2024-03-31T05:33:52Z",
+  "created": "2025-05-23T03:43:48.621716868Z",
+  "sha256_hash": "149b0ee652dc63f1327b6d069b64672dab725aba4c22e5a293e8cff0317212d5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.318664204Z"
+}

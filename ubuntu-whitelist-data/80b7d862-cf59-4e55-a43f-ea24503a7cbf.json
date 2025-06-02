@@ -1,0 +1,17 @@
+{
+  "uuid": "80b7d862-cf59-4e55-a43f-ea24503a7cbf",
+  "path": "/lib/firmware/amdgpu/navi14_mec2_wks.bin.zst",
+  "size": 31549,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.405543571Z",
+  "sha256_hash": "28baa7a118f25af46f00602c5ea98a7d2452a6c6555020c21ad46218e1d4ed39",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.865414694Z"
+}

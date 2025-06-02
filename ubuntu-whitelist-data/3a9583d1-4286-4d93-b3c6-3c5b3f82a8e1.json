@@ -1,0 +1,17 @@
+{
+  "uuid": "3a9583d1-4286-4d93-b3c6-3c5b3f82a8e1",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/unistd.ph",
+  "size": 10358,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.560590686Z",
+  "sha256_hash": "117efb47da8b1531b5a52bcfcae137b8a6ee6947fbe2a8341fa7c15e5e26d077",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.698107460Z"
+}

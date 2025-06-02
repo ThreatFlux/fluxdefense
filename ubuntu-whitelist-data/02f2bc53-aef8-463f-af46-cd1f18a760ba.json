@@ -1,0 +1,17 @@
+{
+  "uuid": "02f2bc53-aef8-463f-af46-cd1f18a760ba",
+  "path": "/lib/llvm-18/lib/cmake/llvm/VersionFromVCS.cmake",
+  "size": 1926,
+  "modified": "2022-01-23T00:26:57Z",
+  "created": "2025-05-12T13:34:36.685465681Z",
+  "sha256_hash": "25237009ef66de60b44a8bada3ad5219cf67a7a415fac72479d060abf71685f2",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.505815295Z"
+}

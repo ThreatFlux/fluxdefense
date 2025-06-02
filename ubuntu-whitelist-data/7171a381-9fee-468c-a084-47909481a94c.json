@@ -1,0 +1,17 @@
+{
+  "uuid": "7171a381-9fee-468c-a084-47909481a94c",
+  "path": "/lib/x86_64-linux-gnu/samba/libwind-samba4.so.0",
+  "size": 166192,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.120634611Z",
+  "sha256_hash": "446469bba418042f6bebae8b9f47fef5046252784058394518debfb89c921eb2",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.573617943Z"
+}

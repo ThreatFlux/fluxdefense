@@ -1,0 +1,17 @@
+{
+  "uuid": "28fe7833-ee43-4f03-a0c8-3e4ed3e07da9",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/fribidi.pc",
+  "size": 399,
+  "modified": "2024-04-08T15:57:48Z",
+  "created": "2025-05-29T11:16:06.342055469Z",
+  "sha256_hash": "6aebca1a29aa51d3dfa047d5ba51f6d52b8cb38653d43f8339724632bac65e44",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.065083752Z"
+}

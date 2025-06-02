@@ -1,0 +1,15 @@
+{
+  "uuid": "d22f4fa1-5910-4c2c-848e-f5b39ecdb25f",
+  "path": "/usr/lib/libreoffice/program/liblocaledata_euro.so",
+  "size": 3116176,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:19.851235168Z",
+  "sha256_hash": "c80ddba59f18944b0b300b44711fcf66ea51badfa6a902a465b442aabb5e0a62",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:42.874973492Z"
+}

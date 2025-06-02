@@ -1,0 +1,17 @@
+{
+  "uuid": "132bd8e0-2264-4c31-b7a0-e17b3a35ca53",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/asm/unistd.ph",
+  "size": 435,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.521591281Z",
+  "sha256_hash": "8ad21844d01ed73921b8abb013ae9309192bdf66d2aa1c03e2d27aa1b6a0cf76",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.587862984Z"
+}

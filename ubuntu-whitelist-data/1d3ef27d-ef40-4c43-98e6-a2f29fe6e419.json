@@ -1,0 +1,17 @@
+{
+  "uuid": "1d3ef27d-ef40-4c43-98e6-a2f29fe6e419",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/include/avx512ifmavlintrin.h",
+  "size": 4762,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.242389875Z",
+  "sha256_hash": "552487bf054ba9fa1960a52091963a2bee0b499bfd15d1a2638fc691912c6662",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.938023657Z"
+}

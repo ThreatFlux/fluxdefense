@@ -1,0 +1,17 @@
+{
+  "uuid": "e9de20a1-34b6-4db5-9216-9955a2a1b0e9",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/performance/ForRangeCopyCheck.h",
+  "size": 2083,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "38b1ba5b18c8ab27e2ba84e68697bb22a421929eab62db13f12cd6ab34d4d003",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.281855230Z"
+}

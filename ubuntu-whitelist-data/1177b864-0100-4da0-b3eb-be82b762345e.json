@@ -1,0 +1,15 @@
+{
+  "uuid": "1177b864-0100-4da0-b3eb-be82b762345e",
+  "path": "/sbin/e4defrag",
+  "size": 35128,
+  "modified": "2024-04-28T23:44:46Z",
+  "created": "2025-05-09T05:07:38.190618283Z",
+  "sha256_hash": "f8b4f021a1afe4c8283bb374af2899d010788c48d6f3e75342abc86489a16088",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.660221437Z"
+}

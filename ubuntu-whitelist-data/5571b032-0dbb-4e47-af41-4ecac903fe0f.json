@@ -1,0 +1,17 @@
+{
+  "uuid": "5571b032-0dbb-4e47-af41-4ecac903fe0f",
+  "path": "/lib/x86_64-linux-gnu/libcodec2.so.1.2",
+  "size": 16838248,
+  "modified": "2024-04-18T17:48:19Z",
+  "created": "2025-05-09T05:09:18.317090218Z",
+  "sha256_hash": "b54a235c5bd6424cc03ba736ee3889afba5cf4f4d02a134c4ea554d3ec8bd299",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:28.903364148Z"
+}

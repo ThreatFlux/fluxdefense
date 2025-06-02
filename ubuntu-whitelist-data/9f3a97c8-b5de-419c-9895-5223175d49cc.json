@@ -1,0 +1,17 @@
+{
+  "uuid": "9f3a97c8-b5de-419c-9895-5223175d49cc",
+  "path": "/lib/sysusers.d/gamemode.conf",
+  "size": 15,
+  "modified": "2024-04-08T15:58:08Z",
+  "created": "2025-05-09T05:07:28.308769079Z",
+  "sha256_hash": "974aca09ca389195ef456fe71bcccae577f1e279be3c83ff037f4a9cac0ae169",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.405994268Z"
+}

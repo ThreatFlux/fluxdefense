@@ -1,0 +1,15 @@
+{
+  "uuid": "d4016cb3-9130-4662-8dd2-791969c1a3d2",
+  "path": "/usr/lib/llvm-18/lib/libLLVMARMDisassembler.a",
+  "size": 539692,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.780464430Z",
+  "sha256_hash": "715a7d2000842841eb161c17822820f17a483408330cf063b3b66aa7692efd99",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:34.196936204Z"
+}

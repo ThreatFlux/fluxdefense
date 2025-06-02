@@ -1,0 +1,17 @@
+{
+  "uuid": "221994fc-d90d-4883-bc04-fd25787bfa6f",
+  "path": "/usr/lib/x86_64-linux-gnu/libgstva-1.0.so.0.2402.0",
+  "size": 90096,
+  "modified": "2024-04-15T13:00:06Z",
+  "created": "2025-05-09T05:09:28.092941013Z",
+  "sha256_hash": "94d12d84cd385ca448b4873e29058694e0be4bcba8b141d4184d8d45f2cddde4",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.782741555Z"
+}

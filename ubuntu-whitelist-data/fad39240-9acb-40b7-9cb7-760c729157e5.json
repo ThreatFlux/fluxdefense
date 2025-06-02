@@ -1,0 +1,15 @@
+{
+  "uuid": "fad39240-9acb-40b7-9cb7-760c729157e5",
+  "path": "/bin/grub-mkpasswd-pbkdf2",
+  "size": 113992,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.596711696Z",
+  "sha256_hash": "3c99c919a332a29e138bc945c2a8b7226604ab80e3e2563f46af98472464f1ec",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.037337170Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "9fbe3698-d521-41f6-b2a8-1a87a1731dad",
+  "path": "/usr/lib/systemd/system/saned.socket",
+  "size": 133,
+  "modified": "2018-08-15T09:03:20Z",
+  "created": "2025-05-09T05:07:28.300769200Z",
+  "sha256_hash": "ba12aeff111bc29f7472eac060ce2a7dfdddf60bf374bc6b43160bb4d40e1bd8",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.465880823Z"
+}

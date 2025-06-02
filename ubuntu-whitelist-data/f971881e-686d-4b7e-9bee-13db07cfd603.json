@@ -1,0 +1,15 @@
+{
+  "uuid": "f971881e-686d-4b7e-9bee-13db07cfd603",
+  "path": "/usr/lib/libreoffice/program/libfilelo.so",
+  "size": 789296,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:19.848235213Z",
+  "sha256_hash": "dd13471a65d503139a6df6b0359d3e6beeb496a60bcb8095c202f95898621bb1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:45.031960926Z"
+}

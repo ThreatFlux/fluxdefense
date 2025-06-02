@@ -1,0 +1,17 @@
+{
+  "uuid": "ba90d9f4-1a0f-4657-b4f6-00fcdb597b29",
+  "path": "/usr/lib/python3.12/test/xmltestdata/c14n-20/out_inNsDefault_c14nDefault.xml",
+  "size": 72,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.054550948Z",
+  "sha256_hash": "a933e5e1381412a4f4a0ca0a58843ff70e8fc367a954fb1318270e2ecb9205d2",
+  "file_type": {
+    "Other": "xml"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.747968642Z"
+}

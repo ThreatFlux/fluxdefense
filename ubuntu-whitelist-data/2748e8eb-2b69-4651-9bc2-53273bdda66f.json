@@ -1,0 +1,17 @@
+{
+  "uuid": "2748e8eb-2b69-4651-9bc2-53273bdda66f",
+  "path": "/usr/bin/ifpc-3.2.2",
+  "size": 892880,
+  "modified": "2024-01-05T07:40:08Z",
+  "created": "2025-05-29T11:16:19.051881062Z",
+  "sha256_hash": "0d70827111f11d0eb1f066dd0921344db053176368e6fbe781a7be56cc98c01b",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:13.934867566Z"
+}

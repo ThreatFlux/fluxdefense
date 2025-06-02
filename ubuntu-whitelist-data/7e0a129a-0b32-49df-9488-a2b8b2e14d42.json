@@ -1,0 +1,15 @@
+{
+  "uuid": "7e0a129a-0b32-49df-9488-a2b8b2e14d42",
+  "path": "/usr/libexec/gnome-system-monitor/gsm-kill",
+  "size": 14656,
+  "modified": "2024-03-31T06:12:43Z",
+  "created": "2025-05-09T05:07:38.039620587Z",
+  "sha256_hash": "8eaf6f1de6fbadb77b159f3399af8354f407b65f09cd23b3859d7954abac10ae",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.110495213Z"
+}

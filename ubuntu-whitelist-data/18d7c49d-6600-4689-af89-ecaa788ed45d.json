@@ -1,0 +1,17 @@
+{
+  "uuid": "18d7c49d-6600-4689-af89-ecaa788ed45d",
+  "path": "/usr/lib/google-cloud-sdk/platform/ext-runtime/php/runtime.yaml",
+  "size": 188,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.305922206Z",
+  "sha256_hash": "1034ecd689c14335b863a1cf3956452cc9cd17dff45e7e9d79759a68af390850",
+  "file_type": {
+    "Other": "yaml"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.590816828Z"
+}

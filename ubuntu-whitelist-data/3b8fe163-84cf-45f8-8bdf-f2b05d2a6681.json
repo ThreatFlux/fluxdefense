@@ -1,0 +1,17 @@
+{
+  "uuid": "3b8fe163-84cf-45f8-8bdf-f2b05d2a6681",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-valint.adb",
+  "size": 2596,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.093344557Z",
+  "sha256_hash": "e198c1c7c63e19f6f0194dbe396846f415c79cfba369b7770bca27ec4aeda24a",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.134969352Z"
+}

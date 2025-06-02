@@ -1,0 +1,17 @@
+{
+  "uuid": "120e03ec-5681-45c9-94eb-4cc42b07bc4e",
+  "path": "/lib/x86_64-linux-gnu/libgupnp-av-1.0.so.3.14.1",
+  "size": 174672,
+  "modified": "2024-03-31T01:18:07Z",
+  "created": "2025-05-09T05:07:30.162740787Z",
+  "sha256_hash": "be464a0c0f735d6f9a483831faa71c4f2d6a968adbef1c1c7c7edc14f516791b",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:18.254691107Z"
+}

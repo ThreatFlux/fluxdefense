@@ -1,0 +1,17 @@
+{
+  "uuid": "58f45c13-1462-4bf2-99f8-39627773ae5b",
+  "path": "/usr/lib/firmware/rtl_nic/rtl8411-2.fw.zst",
+  "size": 532,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.067534402Z",
+  "sha256_hash": "f0e2e08c13380d4ecaca5ae8da590f5d698fd2afd6b29475ad7707444c90eda0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.566995205Z"
+}

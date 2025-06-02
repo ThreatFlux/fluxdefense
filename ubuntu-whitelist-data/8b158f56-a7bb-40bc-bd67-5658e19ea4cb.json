@@ -1,0 +1,17 @@
+{
+  "uuid": "8b158f56-a7bb-40bc-bd67-5658e19ea4cb",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/memtrack.ali",
+  "size": 8335,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.135343981Z",
+  "sha256_hash": "641cb19cb06b416eeb44182d5ee8235bfaa7c8881afc2828b761144f3dd78cbb",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.817672082Z"
+}

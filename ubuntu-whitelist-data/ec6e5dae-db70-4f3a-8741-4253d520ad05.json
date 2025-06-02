@@ -1,0 +1,15 @@
+{
+  "uuid": "ec6e5dae-db70-4f3a-8741-4253d520ad05",
+  "path": "/usr/sbin/update-initramfs",
+  "size": 6908,
+  "modified": "2025-02-07T09:55:44Z",
+  "created": "2025-05-09T05:24:23.380906980Z",
+  "sha256_hash": "12f355680d6e12835e3c9761d24477e7d85ce5ac364e1050b32f6e8825553d17",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.517781193Z"
+}

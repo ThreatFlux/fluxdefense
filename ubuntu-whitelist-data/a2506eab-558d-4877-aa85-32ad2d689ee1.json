@@ -1,0 +1,17 @@
+{
+  "uuid": "a2506eab-558d-4877-aa85-32ad2d689ee1",
+  "path": "/lib/systemd/system/suspend.target",
+  "size": 511,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "173f4a87e1dab4263c919400dc77b32e3f5913ee72b8cbd37cbe024b768b5fd0",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.130606477Z"
+}

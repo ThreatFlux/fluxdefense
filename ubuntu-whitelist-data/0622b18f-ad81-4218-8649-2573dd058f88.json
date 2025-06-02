@@ -1,0 +1,17 @@
+{
+  "uuid": "0622b18f-ad81-4218-8649-2573dd058f88",
+  "path": "/usr/lib/udev/hwdb.d/20-libgphoto2-6t64.hwdb",
+  "size": 221605,
+  "modified": "2024-03-31T02:00:03Z",
+  "created": "2025-05-09T05:07:28.402767644Z",
+  "sha256_hash": "42e2047fbc415c8971cf960357bc0ac63a4fc8bafc09827bc41b1f7c7c720acc",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.178923464Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "23de5d11-023a-49c8-9417-f357f0fa325f",
+  "path": "/sbin/uthreads",
+  "size": 4100,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.524499133Z",
+  "sha256_hash": "cc53b2ae40fc01d15cf6ee2f60336c61bfeb364fdc07d83ce955469a305f0ce3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.673697161Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "61c7b097-85b0-49bc-be1f-102dc4c62028",
+  "path": "/usr/lib/firmware/intel/sof-ipc4-tplg/sof-mtl-sdw-cs42l42-l0-max98363-l2.tplg.zst",
+  "size": 3826,
+  "modified": "2025-01-06T07:09:53Z",
+  "created": "2025-05-09T05:08:52.056491014Z",
+  "sha256_hash": "7d78b426c4cf2062cad11dfb36b374f2eb448489af3e3a9259e133909de29fd1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.694420479Z"
+}

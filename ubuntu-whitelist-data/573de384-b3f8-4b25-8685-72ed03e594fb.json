@@ -1,0 +1,17 @@
+{
+  "uuid": "573de384-b3f8-4b25-8685-72ed03e594fb",
+  "path": "/lib/x86_64-linux-gnu/libm17n-gui.so.0.4.2",
+  "size": 171928,
+  "modified": "2024-03-31T08:04:12Z",
+  "created": "2025-05-09T05:07:31.337722858Z",
+  "sha256_hash": "31ff9b3db5ed3c3b7771b72276cd51030de5c760cbf5a34bfc79ff1281e3cb56",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.819518528Z"
+}

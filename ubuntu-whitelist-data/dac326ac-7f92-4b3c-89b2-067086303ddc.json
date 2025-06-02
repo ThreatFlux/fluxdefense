@@ -1,0 +1,15 @@
+{
+  "uuid": "dac326ac-7f92-4b3c-89b2-067086303ddc",
+  "path": "/usr/lib/llvm-18/lib/libLLVMTableGen.a",
+  "size": 1108050,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.033461098Z",
+  "sha256_hash": "864d904bc68caaa7bca00d3cf2f58e27ba294f145016634f353e1efc4952e7eb",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:35.081607230Z"
+}

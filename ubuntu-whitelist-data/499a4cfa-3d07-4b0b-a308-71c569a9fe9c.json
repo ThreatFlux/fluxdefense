@@ -1,0 +1,17 @@
+{
+  "uuid": "499a4cfa-3d07-4b0b-a308-71c569a9fe9c",
+  "path": "/lib/firmware/i915/adlp_dmc_ver2_12.bin.zst",
+  "size": 13170,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.531541826Z",
+  "sha256_hash": "db0d6a8c80855c2c56cf88f1ed2929820d3b4079bd4092a7116a7191af43d3ae",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.711361054Z"
+}

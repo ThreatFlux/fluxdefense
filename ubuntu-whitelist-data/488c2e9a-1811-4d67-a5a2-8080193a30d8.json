@@ -1,0 +1,17 @@
+{
+  "uuid": "488c2e9a-1811-4d67-a5a2-8080193a30d8",
+  "path": "/lib/llvm-18/include/clang/Basic/BuiltinsLoongArchLSX.def",
+  "size": 50740,
+  "modified": "2024-01-24T12:45:36Z",
+  "created": "2025-05-12T13:34:31.525533634Z",
+  "sha256_hash": "e3bfed6b24e2ff90476f22bb65fa7f2a3c92136bbfbb20df0cde71b3a4e5ca88",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.137951802Z"
+}

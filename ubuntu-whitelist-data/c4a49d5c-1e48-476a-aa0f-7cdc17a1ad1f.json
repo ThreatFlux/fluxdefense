@@ -1,0 +1,17 @@
+{
+  "uuid": "c4a49d5c-1e48-476a-aa0f-7cdc17a1ad1f",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/lib/libcrc32c.ko.zst",
+  "size": 2550,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.114797272Z",
+  "sha256_hash": "b95118572e38f49f8318665aa85521ddd0f65a8be2e7a9cfd162685832b9a786",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.269489532Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "681ba74e-7d7a-4772-a248-a09b20e0459f",
+  "path": "/bin/ubuntu-report",
+  "size": 7261600,
+  "modified": "2024-10-24T00:39:02Z",
+  "created": "2025-05-09T05:07:20.807883538Z",
+  "sha256_hash": "49465c2dbb8adeaa073c22a351676b956a1d1c9793465540d02086d41c4ccda8",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.166732633Z"
+}

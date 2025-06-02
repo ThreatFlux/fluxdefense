@@ -1,0 +1,17 @@
+{
+  "uuid": "7681bae9-697d-4a8c-82df-a4abb8e0b71d",
+  "path": "/lib/llvm-18/include/clang/Basic/SourceLocation.h",
+  "size": 17226,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.532533542Z",
+  "sha256_hash": "0c81e0089ba916be862a822c34939284d314ace5ff509420418ac544aeb68602",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.082255976Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "a408a0dd-d795-461e-bcfd-b72af1ac9181",
+  "path": "/usr/lib/llvm-18/lib/libLLVMDebugInfoBTF.a",
+  "size": 111184,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.862463350Z",
+  "sha256_hash": "b4529dc9f30a88e41655a909f97346c037b69856ea79de1779556b1a6fa6983c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:31.174161176Z"
+}

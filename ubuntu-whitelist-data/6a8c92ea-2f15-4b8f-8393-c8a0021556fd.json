@@ -1,0 +1,15 @@
+{
+  "uuid": "6a8c92ea-2f15-4b8f-8393-c8a0021556fd",
+  "path": "/lib/x86_64-linux-gnu/xtables/libip6t_dst.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.326631467Z",
+  "sha256_hash": "10740143f20be29c5efb567748818440e33a316f0bf057795eb18cee275f9aac",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.671607070Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a9ff7482-2bc8-42cb-9aca-3037f36268ec",
+  "path": "/usr/lib/firmware/nvidia/tu117/gr/fecs_data.bin.zst",
+  "size": 703,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.961535870Z",
+  "sha256_hash": "faf3784d4df34c0c6c89f63ec7a0b725e578ecae9c480aee21842ac93e3b32ca",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.258209106Z"
+}

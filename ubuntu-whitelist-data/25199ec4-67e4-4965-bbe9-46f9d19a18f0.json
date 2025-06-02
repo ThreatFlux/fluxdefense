@@ -1,0 +1,17 @@
+{
+  "uuid": "25199ec4-67e4-4965-bbe9-46f9d19a18f0",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/BadSignalToKillThreadCheck.h",
+  "size": 1475,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "8cb557e2dd85b09bf03442bd69651abee3f23898898011bdee72f3be0d94c174",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.895655530Z"
+}

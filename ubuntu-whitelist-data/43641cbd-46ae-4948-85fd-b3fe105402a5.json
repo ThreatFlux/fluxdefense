@@ -1,0 +1,15 @@
+{
+  "uuid": "43641cbd-46ae-4948-85fd-b3fe105402a5",
+  "path": "/usr/bin/snap",
+  "size": 18728376,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.385025837Z",
+  "sha256_hash": "b50881a50633699a98d33c2484803e2cccbe379a72598e2c4a20303b73f8a78e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:08.473239733Z"
+}

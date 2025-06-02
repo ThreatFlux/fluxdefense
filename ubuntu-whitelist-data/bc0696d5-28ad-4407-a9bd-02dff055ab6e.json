@@ -1,0 +1,15 @@
+{
+  "uuid": "bc0696d5-28ad-4407-a9bd-02dff055ab6e",
+  "path": "/usr/bin/dpkg-scanpackages",
+  "size": 8656,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T06:33:31.737357690Z",
+  "sha256_hash": "6f2a4e932d7cc8dc1c3010541297adddd09a96c3460f87b6edbde3203679d848",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:08.023397879Z"
+}

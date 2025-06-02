@@ -1,0 +1,17 @@
+{
+  "uuid": "6344f9c2-8be4-4936-af00-1b067f9c838d",
+  "path": "/usr/lib/udev/rules.d/50-firmware.rules",
+  "size": 210,
+  "modified": "2025-02-18T17:24:37Z",
+  "created": "2025-05-09T05:24:14.060786348Z",
+  "sha256_hash": "37895a6ae81ab0e8753eb97a7c11b7cf578549e06fbbf2d6b192d109bc2cd9a3",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.099989733Z"
+}

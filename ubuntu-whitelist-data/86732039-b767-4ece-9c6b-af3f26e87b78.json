@@ -1,0 +1,17 @@
+{
+  "uuid": "86732039-b767-4ece-9c6b-af3f26e87b78",
+  "path": "/opt/google/chrome/chrome-management-service",
+  "size": 4241928,
+  "modified": "2025-05-26T20:54:34Z",
+  "created": "2025-05-27T21:53:47.323430897Z",
+  "sha256_hash": "7d5a32bcaf75181521d02864774cc45572c2508a5f36126c4d1e452ad6f82544",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:43.781209432Z"
+}

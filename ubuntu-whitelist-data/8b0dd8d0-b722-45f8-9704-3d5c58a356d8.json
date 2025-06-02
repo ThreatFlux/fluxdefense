@@ -1,0 +1,15 @@
+{
+  "uuid": "8b0dd8d0-b722-45f8-9704-3d5c58a356d8",
+  "path": "/sbin/swaplabel",
+  "size": 18816,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.431614605Z",
+  "sha256_hash": "700736e587f6323e19d59990aa725514367fa5ecc66977fe76b2206fc21bc02f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.171042027Z"
+}

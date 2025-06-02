@@ -1,0 +1,17 @@
+{
+  "uuid": "902672f9-ac98-40bb-b181-c4eb6e691c19",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/include/mwaitxintrin.h",
+  "size": 1747,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.245389810Z",
+  "sha256_hash": "b37eab8b0d8f5377d02be56e8ed01546c30fd26d317264dd150cc1e0d8cb6846",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.920408027Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e553d4b3-3dc8-45a4-8a58-f26f388b9193",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/libavdevice.pc",
+  "size": 700,
+  "modified": "2024-04-05T17:28:52Z",
+  "created": "2025-05-12T13:32:32.869095864Z",
+  "sha256_hash": "586991c6f6c2472a4d2940cfc4a60389a0f3017d9061702437ebd90ae90b815b",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.096153382Z"
+}

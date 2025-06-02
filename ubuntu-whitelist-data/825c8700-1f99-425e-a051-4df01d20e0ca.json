@@ -1,0 +1,17 @@
+{
+  "uuid": "825c8700-1f99-425e-a051-4df01d20e0ca",
+  "path": "/lib/llvm-18/include/clang-tidy/abseil/NoNamespaceCheck.h",
+  "size": 1337,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.555533239Z",
+  "sha256_hash": "51b328419894d1eed9d86e8749c7e052e64c044100c0c1d3879553f87f6477e2",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.902396137Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "98fe649c-738a-496c-8ae4-b0b544a1c90a",
+  "path": "/usr/sbin/isosize",
+  "size": 14720,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.352615811Z",
+  "sha256_hash": "44bbf9e5f13dea794a9641eb8f8b2276a481ba9fd3ae02b162a5e3ad2582f262",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.527178963Z"
+}

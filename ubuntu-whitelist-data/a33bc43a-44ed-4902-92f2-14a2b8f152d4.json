@@ -1,0 +1,15 @@
+{
+  "uuid": "a33bc43a-44ed-4902-92f2-14a2b8f152d4",
+  "path": "/lib/x86_64-linux-gnu/libfl.a",
+  "size": 2628,
+  "modified": "2024-04-08T15:57:47Z",
+  "created": "2025-05-28T13:47:39.479578950Z",
+  "sha256_hash": "3a5ad4f24edaf8f8e2d205c5a723559a480c02efdc9e575ce3e6eab14a68dc1f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.860430043Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d8e3492f-3b8a-4033-b48f-457ab69c421e",
+  "path": "/lib/firmware/vicam/firmware.fw.zst",
+  "size": 1243,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.082534194Z",
+  "sha256_hash": "267223797baa4a07ef30cac556f9e499c89a6eb316f224995ae4c7c45db05d69",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.612331063Z"
+}

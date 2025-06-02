@@ -1,0 +1,17 @@
+{
+  "uuid": "5f87135b-60aa-413b-a37e-b6a987e5692f",
+  "path": "/usr/lib/x86_64-linux-gnu/libGLESv2_nvidia.so.550.144.03",
+  "size": 117144,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:01.937947955Z",
+  "sha256_hash": "14b8d2f8999135db562325506262fbc4f367d19cd29373fb08c62aa322ef0fa5",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:26.099537812Z"
+}

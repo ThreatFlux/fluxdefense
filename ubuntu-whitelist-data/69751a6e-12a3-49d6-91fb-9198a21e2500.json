@@ -1,0 +1,17 @@
+{
+  "uuid": "69751a6e-12a3-49d6-91fb-9198a21e2500",
+  "path": "/usr/lib/firmware/intel/sof/sof-tgl.ldc.zst",
+  "size": 17824,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.046491166Z",
+  "sha256_hash": "b9545f54b70b5704ba8d0fe1da55ed644ad0eff8a4b3980ebd1ce8d35e93c83a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.651995091Z"
+}

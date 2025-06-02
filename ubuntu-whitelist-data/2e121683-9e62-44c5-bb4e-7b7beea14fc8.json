@@ -1,0 +1,17 @@
+{
+  "uuid": "2e121683-9e62-44c5-bb4e-7b7beea14fc8",
+  "path": "/lib/llvm-18/include/clang-tidy/hicpp/ExceptionBaseclassCheck.h",
+  "size": 1335,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "b6315bf8eb708f6c487820eecb88a112c82fb577c18d9fb42b6965f6920a97e4",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.915984299Z"
+}

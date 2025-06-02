@@ -1,0 +1,17 @@
+{
+  "uuid": "c1300aa7-8211-40c7-b8c4-39d877fb63ab",
+  "path": "/lib/grub/x86_64-efi/tpm.mod",
+  "size": 8288,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "fbf7df75fa7f0825a72d20b8c5067991f0d35c529ebcc7d87eb62801b09da83a",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.048304299Z"
+}

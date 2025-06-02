@@ -1,0 +1,17 @@
+{
+  "uuid": "168f4768-dcea-4db5-865c-5123635f8621",
+  "path": "/lib/libnvidia-gtk2.so.510.47.03",
+  "size": 1310088,
+  "modified": "2024-03-31T08:10:30Z",
+  "created": "2025-05-09T12:56:04.829024010Z",
+  "sha256_hash": "41d97e808d29c198883bd156f6eb3c6f1aa374f3abd29f1cdee3c51dd715a0b3",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.586746389Z"
+}

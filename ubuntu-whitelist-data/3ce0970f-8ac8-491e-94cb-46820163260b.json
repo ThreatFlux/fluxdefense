@@ -1,0 +1,17 @@
+{
+  "uuid": "3ce0970f-8ac8-491e-94cb-46820163260b",
+  "path": "/lib/firmware/rtlwifi/rtl8821aefw_wowlan.bin.zst",
+  "size": 10124,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.069534374Z",
+  "sha256_hash": "8757c07b1205627f4c7df30f58b0a1a93cb6d2753308b6d86fdcaf64c9df8b41",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.481961207Z"
+}

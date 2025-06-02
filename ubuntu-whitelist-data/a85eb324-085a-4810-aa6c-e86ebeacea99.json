@@ -1,0 +1,17 @@
+{
+  "uuid": "a85eb324-085a-4810-aa6c-e86ebeacea99",
+  "path": "/lib/firmware/meson/vdec/gxl_hevc_mmu.bin.zst",
+  "size": 7946,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.791538225Z",
+  "sha256_hash": "960a45c7987f375fc19aa036a5b129b896e4e286d67b397fecdf696a4dbae094",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.620247010Z"
+}

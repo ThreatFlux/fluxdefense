@@ -1,0 +1,17 @@
+{
+  "uuid": "192012b2-f5d0-4164-8525-9f979f2b4972",
+  "path": "/usr/lib/firmware/amdgpu/navy_flounder_smc.bin.zst",
+  "size": 110147,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.406543557Z",
+  "sha256_hash": "06772ab18285a30b24175f075021931a9a80713730155ff436926843e9c89226",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.035734989Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "36e60df9-570f-483a-8815-dff423109368",
+  "path": "/usr/lib/x86_64-linux-gnu/libvirt.so.0.10000.0",
+  "size": 4896096,
+  "modified": "2025-03-13T16:25:50Z",
+  "created": "2025-05-20T14:31:33.889801169Z",
+  "sha256_hash": "b4c7f3820a8a775d1c67c24185c503b69c5b79f39feadee5dda074ed6a9c7450",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.196806917Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "fca24753-2ef4-4924-98e3-1ab4f2ee14e0",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/mpi/TypeMismatchCheck.h",
+  "size": 2068,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "d2a0970ab665a611ded805eca99465a5596c0ed357f82293c5e2d86c3aabfcac",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.262195385Z"
+}

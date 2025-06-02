@@ -1,0 +1,17 @@
+{
+  "uuid": "bf8644ba-7f0d-4994-85ee-a02ef1b2de9e",
+  "path": "/usr/lib/firmware/amdgpu/navi14_pfp_wks.bin.zst",
+  "size": 13591,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.405543571Z",
+  "sha256_hash": "2b9cbc49b6bdbd1e685f4bbc89ae887588aced39fb07ceb468356db69dae3c37",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.071805257Z"
+}

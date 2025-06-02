@@ -1,0 +1,17 @@
+{
+  "uuid": "f6458577-26fc-4aba-849e-f1ec0d161bbe",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/sdl2.pc",
+  "size": 705,
+  "modified": "2025-01-29T06:24:18Z",
+  "created": "2025-05-29T11:16:28.745748036Z",
+  "sha256_hash": "afdae94627956130f23f87a426cebceb0a7e35bb4ec968d2b316b6d7522cc9a9",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.096019172Z"
+}

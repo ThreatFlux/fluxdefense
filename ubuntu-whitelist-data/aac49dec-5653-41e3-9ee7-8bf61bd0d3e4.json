@@ -1,0 +1,15 @@
+{
+  "uuid": "aac49dec-5653-41e3-9ee7-8bf61bd0d3e4",
+  "path": "/usr/bin/dh_compress",
+  "size": 7850,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.513341269Z",
+  "sha256_hash": "a67915ba7366cac2e060316a0ca0cb1ece7a6d9b1c13c0b40db0e243144e321a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:11.662482260Z"
+}

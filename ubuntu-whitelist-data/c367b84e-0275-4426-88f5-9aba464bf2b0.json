@@ -1,0 +1,17 @@
+{
+  "uuid": "c367b84e-0275-4426-88f5-9aba464bf2b0",
+  "path": "/usr/lib/x86_64-linux-gnu/libtevent-util.so.0.0.1",
+  "size": 22760,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:32.318707888Z",
+  "sha256_hash": "be15ff8af2000a2b1da577014b304cd44de8b3662bb612f9776589f36c8ab8dc",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.504400665Z"
+}

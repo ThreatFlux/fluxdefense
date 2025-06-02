@@ -1,0 +1,17 @@
+{
+  "uuid": "539bdc10-7990-43f1-a3d9-4f0542f2a778",
+  "path": "/lib/firmware/rsi/rs9116_wlan.rps.zst",
+  "size": 53583,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.065534429Z",
+  "sha256_hash": "95466627897c5b009c310073885ea9d1015ba309cd5ef058a89c9a95cb9f38dd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.359339660Z"
+}

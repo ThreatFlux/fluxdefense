@@ -1,0 +1,15 @@
+{
+  "uuid": "c9ea75a1-13fc-4a9b-bd4f-077b76203777",
+  "path": "/usr/lib/llvm-18/lib/libclangTidyMiscModule.a",
+  "size": 3843318,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.871529077Z",
+  "sha256_hash": "afa68cf6e08e2cd0769b7288fe36cb0cc6e126a9cfcf414c8f83b0c221f625b0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:33.748291266Z"
+}

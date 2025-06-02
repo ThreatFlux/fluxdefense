@@ -1,0 +1,17 @@
+{
+  "uuid": "4b46bd2e-3525-4fdd-82c0-fccdcfe4c3fe",
+  "path": "/usr/lib/firmware/radeon/VERDE_mc2.bin.zst",
+  "size": 11986,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.063534457Z",
+  "sha256_hash": "dcfc1f4b69e0a6be9cfd9f9035b5d6332f7c05886557d87063724780ae0efe6d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.397306506Z"
+}

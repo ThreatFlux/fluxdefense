@@ -1,0 +1,17 @@
+{
+  "uuid": "5b162e4b-693b-4b39-a6c9-727232e703e4",
+  "path": "/usr/lib/grub/x86_64-efi/memrw.mod",
+  "size": 4360,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.814708369Z",
+  "sha256_hash": "c6ab127be43c8569754c706aca946d76043cbe5a8b01a07c508ab19c3b5d27c2",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.470524760Z"
+}

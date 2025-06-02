@@ -1,0 +1,17 @@
+{
+  "uuid": "3fc8e1b8-12c1-472a-a0c6-47c05f115435",
+  "path": "/lib/llvm-18/include/clang-tidy/readability/RedundantFunctionPtrDereferenceCheck.h",
+  "size": 1316,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "047939925e794403c0c51ffdbc7d6d75d3593f0e9bd820a281e89b6f2e1a8854",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.923860234Z"
+}

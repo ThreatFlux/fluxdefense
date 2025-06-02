@@ -1,0 +1,17 @@
+{
+  "uuid": "f05e0475-f3ad-4f78-a218-10abfe3ffd42",
+  "path": "/lib/x86_64-linux-gnu/libdcerpc-samr.so.0.0.1",
+  "size": 14192,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:29.291754078Z",
+  "sha256_hash": "56c9e726daecc18e0b88f68239dea77aaf1eb0887c04b069ebf303787a01a3b0",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:31.095853590Z"
+}

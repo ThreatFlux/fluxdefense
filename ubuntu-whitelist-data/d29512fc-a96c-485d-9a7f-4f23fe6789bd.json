@@ -1,0 +1,17 @@
+{
+  "uuid": "d29512fc-a96c-485d-9a7f-4f23fe6789bd",
+  "path": "/usr/lib/llvm-18/include/clang/Analysis/CFG.h",
+  "size": 52953,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.523533660Z",
+  "sha256_hash": "4160985b30ff11370113096140d57c3bb6aa48da1098cd568d4b5edac592c8a3",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.630036112Z"
+}

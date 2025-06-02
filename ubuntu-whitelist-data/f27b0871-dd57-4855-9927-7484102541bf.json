@@ -1,0 +1,15 @@
+{
+  "uuid": "f27b0871-dd57-4855-9927-7484102541bf",
+  "path": "/usr/lib/systemd/systemd-pcrlock",
+  "size": 137928,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.523779483Z",
+  "sha256_hash": "ae1a95ba09ba2fb10fa6a7f02cc16723c565316c4eea5d17b8fbe35100322f45",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.558350470Z"
+}

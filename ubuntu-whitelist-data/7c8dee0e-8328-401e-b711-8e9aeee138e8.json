@@ -1,0 +1,15 @@
+{
+  "uuid": "7c8dee0e-8328-401e-b711-8e9aeee138e8",
+  "path": "/usr/lib/x86_64-linux-gnu/libgphoto2/2.5.31/canon.so",
+  "size": 150128,
+  "modified": "2024-03-31T02:00:03Z",
+  "created": "2025-05-09T05:07:35.831654281Z",
+  "sha256_hash": "0279d49a1dcbbd1c8c64005ea752cf2cf9c3ae6699fcf7c124488bc49bd0c306",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.180953801Z"
+}

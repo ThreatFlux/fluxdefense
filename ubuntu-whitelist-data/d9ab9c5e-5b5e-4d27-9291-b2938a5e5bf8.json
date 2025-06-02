@@ -1,0 +1,17 @@
+{
+  "uuid": "d9ab9c5e-5b5e-4d27-9291-b2938a5e5bf8",
+  "path": "/usr/lib/firmware/i915/tgl_guc_62.0.0.bin.zst",
+  "size": 117671,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.544541646Z",
+  "sha256_hash": "098c56cee6c7810e1f8c8c3d1bf3987e9051bd1221f012755fe81a78d7bfa0c2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.771638608Z"
+}

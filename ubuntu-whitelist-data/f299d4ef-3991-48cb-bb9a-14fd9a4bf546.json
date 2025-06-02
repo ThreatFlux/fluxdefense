@@ -1,0 +1,15 @@
+{
+  "uuid": "f299d4ef-3991-48cb-bb9a-14fd9a4bf546",
+  "path": "/usr/lib/python3.12/test/crashers/gc_inspection.py",
+  "size": 1092,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.989551801Z",
+  "sha256_hash": "c7dffdd959f93d592641017d63dd2e23c75a066a5bab5b2938bf4e67f5e54e37",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.812834528Z"
+}

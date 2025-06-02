@@ -1,0 +1,17 @@
+{
+  "uuid": "c2035391-3787-4b9d-870b-b554dc173080",
+  "path": "/lib/llvm-18/include/clang/Basic/ProfileList.h",
+  "size": 2101,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "344e5608518e6d160459cd9dc9df180574d0645321cda1cc0a68669e2a5d6252",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.095287860Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "4b6e1277-f0a8-435a-aa21-7ef67918d199",
+  "path": "/lib/x86_64-linux-gnu/libfakeroot/libfakeroot-sysv.so",
+  "size": 61520,
+  "modified": "2024-01-21T16:56:06Z",
+  "created": "2025-05-09T06:33:34.148305859Z",
+  "sha256_hash": "b6fbdfd865c8116bc59591183550fae8612222e3afd9b3c85136267e99691582",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.165725696Z"
+}

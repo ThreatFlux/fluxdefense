@@ -1,0 +1,17 @@
+{
+  "uuid": "9587c351-f166-4a04-a079-b89da0c331a5",
+  "path": "/lib/x86_64-linux-gnu/libvisio-0.1.so.1.0.7",
+  "size": 642424,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:32.356707308Z",
+  "sha256_hash": "7a01ba1182dba21f4385e42aedde1c1802af0882f4a478ddd580141234c02320",
+  "file_type": {
+    "Other": "7"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.950570484Z"
+}

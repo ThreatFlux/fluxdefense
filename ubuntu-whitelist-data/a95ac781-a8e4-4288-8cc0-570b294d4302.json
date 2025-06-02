@@ -1,0 +1,17 @@
+{
+  "uuid": "a95ac781-a8e4-4288-8cc0-570b294d4302",
+  "path": "/lib/firmware/ixp4xx/NPE-A.zst",
+  "size": 4677,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.667539942Z",
+  "sha256_hash": "79b2e1549aa5266e19bbb19f5398356487c8ac4c683fda914c83d63761734cbb",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.636911979Z"
+}

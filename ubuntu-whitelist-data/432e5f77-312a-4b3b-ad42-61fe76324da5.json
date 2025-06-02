@@ -1,0 +1,15 @@
+{
+  "uuid": "432e5f77-312a-4b3b-ad42-61fe76324da5",
+  "path": "/lib/google-cloud-sdk/lib/third_party/dns/inet.py",
+  "size": 3377,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.114942437Z",
+  "sha256_hash": "0bbf3156ad2ec488743d82c7ed2e3c0cf55a51e27519f17daded70ec1388bbbd",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.876109556Z"
+}

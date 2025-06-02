@@ -1,0 +1,17 @@
+{
+  "uuid": "2d7f2891-5fa8-4944-a757-62bbcf52e1d6",
+  "path": "/usr/bin/ppdep-3.2.2",
+  "size": 241760,
+  "modified": "2024-01-05T07:40:08Z",
+  "created": "2025-05-29T11:16:19.067880843Z",
+  "sha256_hash": "17336fc6ab0cf0426c7ab71375a71c56da8be0992309dc59a52cea39ba669abc",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.334730377Z"
+}

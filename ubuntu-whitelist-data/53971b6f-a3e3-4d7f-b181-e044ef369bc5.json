@@ -1,0 +1,15 @@
+{
+  "uuid": "53971b6f-a3e3-4d7f-b181-e044ef369bc5",
+  "path": "/lib/llvm-18/lib/libLLVMX86Disassembler.a",
+  "size": 2554720,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.081460466Z",
+  "sha256_hash": "e694bcaab49942930c378e28e28945639a3693e48224a3a1d4ad75fe05e83547",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:37.678289721Z"
+}

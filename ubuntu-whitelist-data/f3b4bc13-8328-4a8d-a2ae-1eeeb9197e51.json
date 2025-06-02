@@ -1,0 +1,15 @@
+{
+  "uuid": "f3b4bc13-8328-4a8d-a2ae-1eeeb9197e51",
+  "path": "/usr/bin/dbus-run-session",
+  "size": 14640,
+  "modified": "2024-08-09T02:33:22Z",
+  "created": "2025-05-09T05:07:19.142908945Z",
+  "sha256_hash": "72aace7d816ab450f09757034093e08b70cdff8f3cc43e4183dbcf0a845b6678",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.337551884Z"
+}

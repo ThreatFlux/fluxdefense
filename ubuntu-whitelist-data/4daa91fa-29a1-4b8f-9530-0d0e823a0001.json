@@ -1,0 +1,17 @@
+{
+  "uuid": "4daa91fa-29a1-4b8f-9530-0d0e823a0001",
+  "path": "/usr/lib/firmware/qca/nvm_usb_00130200_0104.bin.zst",
+  "size": 2616,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.968535773Z",
+  "sha256_hash": "cf88ba5fad6965b0c900f49b1a556c7a4d6ad855c41c664f8b16b7741da81afc",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.457777858Z"
+}

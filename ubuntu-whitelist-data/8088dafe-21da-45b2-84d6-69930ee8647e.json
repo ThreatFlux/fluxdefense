@@ -1,0 +1,15 @@
+{
+  "uuid": "8088dafe-21da-45b2-84d6-69930ee8647e",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstcairo.so",
+  "size": 22928,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.771655196Z",
+  "sha256_hash": "e0bd9ed1e7dfaaa7c25f9a61fd62333283f0d012cd66e60c7997c7e2843511ba",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.922753188Z"
+}

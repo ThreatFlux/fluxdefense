@@ -1,0 +1,17 @@
+{
+  "uuid": "5fb34fe6-b912-40ab-8ab2-3393dbf038a2",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/debian-config-data-5.38.2/config.sh.debug.gz",
+  "size": 13661,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.560590686Z",
+  "sha256_hash": "f214e7639ae8c7becc96d2167285c9c131a7acf3a3a8b6c49a65291d4967ffba",
+  "file_type": {
+    "Other": "gz"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.701405003Z"
+}

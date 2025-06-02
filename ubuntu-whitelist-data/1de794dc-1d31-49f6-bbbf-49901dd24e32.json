@@ -1,0 +1,15 @@
+{
+  "uuid": "1de794dc-1d31-49f6-bbbf-49901dd24e32",
+  "path": "/usr/lib/llvm-18/lib/libLLVMBPFAsmParser.a",
+  "size": 57532,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.817463943Z",
+  "sha256_hash": "b063c5623fa31d71acb20eafe043681f1646fdb9e5f93c95add44bcd70d8e819",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:30.186552413Z"
+}

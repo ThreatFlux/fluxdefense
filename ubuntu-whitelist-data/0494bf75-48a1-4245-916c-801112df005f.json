@@ -1,0 +1,17 @@
+{
+  "uuid": "0494bf75-48a1-4245-916c-801112df005f",
+  "path": "/usr/lib/firmware/nvidia/gp107/gr/sw_nonctx.bin.zst",
+  "size": 711,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.940536161Z",
+  "sha256_hash": "cc70521df3551e7842a5fe887235e4c5381a901cd9d87d3f7a9e7fa3b5ff9e6c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.298499934Z"
+}

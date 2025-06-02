@@ -1,0 +1,15 @@
+{
+  "uuid": "14ff84c6-f9ac-45aa-b112-68a0afb90f60",
+  "path": "/usr/lib/systemd/systemd-timedated",
+  "size": 43488,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.525779508Z",
+  "sha256_hash": "47975431241fb37c1ebb34f656fdafedbbc5eb4dc26dd60a8527234e201f84e4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.528594646Z"
+}

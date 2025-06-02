@@ -1,0 +1,15 @@
+{
+  "uuid": "22d95c58-aea9-49b2-ba2d-6afc57a35c73",
+  "path": "/lib/x86_64-linux-gnu/spa-0.2/bluez5/libspa-codec-bluez5-lc3.so",
+  "size": 43344,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.285853656Z",
+  "sha256_hash": "6c84ee21e256d97890e73e3039f6f83082fadf4f56dae74baf23b2627894725a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.778238995Z"
+}

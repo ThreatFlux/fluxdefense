@@ -1,0 +1,17 @@
+{
+  "uuid": "c2eaf95c-c652-4e96-9a0f-011024666f33",
+  "path": "/lib/llvm-18/include/clang-tidy/altera/StructPackAlignCheck.h",
+  "size": 1523,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "a2cc2456f3073de1eca462b5d45282f9c35ba8d7c0d2f1bee6c33e163ea89458",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.893486493Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f5b017bc-b69d-4b1f-a7ae-c55356595ee7",
+  "path": "/usr/lib/x86_64-linux-gnu/libtheora.so.0.3.10",
+  "size": 301360,
+  "modified": "2024-03-31T02:18:19Z",
+  "created": "2025-05-09T05:07:32.318707888Z",
+  "sha256_hash": "4ac647d1997863aa1bcf8175ce356d1b87b8a88a18015548c07783241c7a9203",
+  "file_type": {
+    "Other": "10"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.360617345Z"
+}

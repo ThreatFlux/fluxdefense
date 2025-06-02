@@ -1,0 +1,15 @@
+{
+  "uuid": "9810ec40-feca-457d-b9ac-7444506fac85",
+  "path": "/usr/lib/x86_64-linux-gnu/libnss3.so",
+  "size": 1229736,
+  "modified": "2024-04-08T16:14:43Z",
+  "created": "2025-05-09T05:07:31.728716891Z",
+  "sha256_hash": "ba1f351fee961ca346cc303a2e484102e7a679ab52073966ea4351734650d52d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:08.575178856Z"
+}

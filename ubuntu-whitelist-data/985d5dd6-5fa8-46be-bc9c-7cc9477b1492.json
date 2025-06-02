@@ -1,0 +1,15 @@
+{
+  "uuid": "985d5dd6-5fa8-46be-bc9c-7cc9477b1492",
+  "path": "/usr/lib/llvm-18/lib/libLLVMExegesis.a",
+  "size": 915034,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.877463153Z",
+  "sha256_hash": "f75e718287136acc4c463dd1c3fbdb35283d02d37b2e70c341e6f21316e7e5fd",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:29.081963636Z"
+}

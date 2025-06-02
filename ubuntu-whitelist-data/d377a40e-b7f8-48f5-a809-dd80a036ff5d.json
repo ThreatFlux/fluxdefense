@@ -1,0 +1,17 @@
+{
+  "uuid": "d377a40e-b7f8-48f5-a809-dd80a036ff5d",
+  "path": "/usr/lib/firmware/intel/sof/community/sof-cnl.ri.zst",
+  "size": 216741,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.041491243Z",
+  "sha256_hash": "70f8fe1c2caf0d45e1c371a6cd0b801b60a8ec350d47de652b912c337d460360",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.651644519Z"
+}

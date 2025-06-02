@@ -1,0 +1,15 @@
+{
+  "uuid": "2b8fc71b-fc03-4dca-a520-e39701377d33",
+  "path": "/usr/lib/x86_64-linux-gnu/deja-dup/libdeja.so",
+  "size": 506080,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:35.184664154Z",
+  "sha256_hash": "9978d1aa5b34688abf5a562bf805264d6e7eda31bd4f5fd191aaa0f02ba1d35f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:13.898258115Z"
+}

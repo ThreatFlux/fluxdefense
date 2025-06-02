@@ -1,0 +1,17 @@
+{
+  "uuid": "452dcee0-aaea-49e5-acd4-542f4af4bb51",
+  "path": "/lib/systemd/system/sssd-pac.socket",
+  "size": 362,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:28.301769185Z",
+  "sha256_hash": "fde182ec6f70bccc4d5d9e3b8f4ccf3e3d004076a35b7a82c007c899426c4f9b",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.103551965Z"
+}

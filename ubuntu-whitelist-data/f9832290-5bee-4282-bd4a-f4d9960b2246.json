@@ -1,0 +1,15 @@
+{
+  "uuid": "f9832290-5bee-4282-bd4a-f4d9960b2246",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/libgcc.a",
+  "size": 3093656,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.253389638Z",
+  "sha256_hash": "d9376c55f97863a4e5fbb6c6beca2591b319bf786f3a7ca56da8964c5662171f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.340696730Z"
+}

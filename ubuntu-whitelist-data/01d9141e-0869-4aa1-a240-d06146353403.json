@@ -1,0 +1,15 @@
+{
+  "uuid": "01d9141e-0869-4aa1-a240-d06146353403",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/botocore/compress.py",
+  "size": 4430,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.169941503Z",
+  "sha256_hash": "17479534b2c703d688296001fd09cc6f6f61839d01082a408c2670845a21562e",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.588143866Z"
+}

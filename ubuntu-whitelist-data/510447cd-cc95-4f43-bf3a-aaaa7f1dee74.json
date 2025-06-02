@@ -1,0 +1,15 @@
+{
+  "uuid": "510447cd-cc95-4f43-bf3a-aaaa7f1dee74",
+  "path": "/sbin/update-pciids",
+  "size": 1778,
+  "modified": "2024-04-08T16:15:21Z",
+  "created": "2025-05-09T05:07:38.450614315Z",
+  "sha256_hash": "6aa2d3b498703e662b0ccc87067bb05844a75195fd5945e5ff74d0156a18231c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.685237585Z"
+}

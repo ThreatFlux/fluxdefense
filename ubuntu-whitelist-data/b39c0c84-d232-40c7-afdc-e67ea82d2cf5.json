@@ -1,0 +1,17 @@
+{
+  "uuid": "b39c0c84-d232-40c7-afdc-e67ea82d2cf5",
+  "path": "/lib/x86_64-linux-gnu/samba/libhttp-samba4.so.0",
+  "size": 47336,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.059635542Z",
+  "sha256_hash": "29939f8c6a7f25bfaa6b4248c8297f9d4ea9dedd28cc3d17445948d3f61b4e7f",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.531090446Z"
+}

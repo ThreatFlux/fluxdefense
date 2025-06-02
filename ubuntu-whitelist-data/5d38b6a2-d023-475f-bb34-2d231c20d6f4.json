@@ -1,0 +1,15 @@
+{
+  "uuid": "5d38b6a2-d023-475f-bb34-2d231c20d6f4",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstlibav.so",
+  "size": 269184,
+  "modified": "2024-03-31T08:55:00Z",
+  "created": "2025-05-09T05:09:27.042957038Z",
+  "sha256_hash": "5a93293c85512800d42956476145232517c26288b2414dc72cc27c9d411814df",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.874815591Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "40eddcce-34d0-4166-bbb7-b0819fc7e85d",
+  "path": "/lib/x86_64-linux-gnu/Mcrt1.o",
+  "size": 608,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:08:53.060475691Z",
+  "sha256_hash": "1b165117d5d8c017d10f018ab553052946385361b3130067adbedc2b04cfa900",
+  "file_type": {
+    "Other": "o"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.380587856Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e130ac3d-5499-46f2-be48-2fc70624a6ec",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/include/stdalign.h",
+  "size": 1290,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.246389788Z",
+  "sha256_hash": "e119f674e1f6194b6d561f95b01270aff8570cfdaf460098d08be38d92fe910d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.909360345Z"
+}

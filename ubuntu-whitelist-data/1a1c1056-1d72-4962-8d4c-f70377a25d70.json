@@ -1,0 +1,15 @@
+{
+  "uuid": "1a1c1056-1d72-4962-8d4c-f70377a25d70",
+  "path": "/usr/lib/llvm-18/lib/libLLVMCoverage.a",
+  "size": 543714,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.859463389Z",
+  "sha256_hash": "fe0e86672c8b7e18c655917a44be573f8741353d23be2f497bb6b1c3c89fdfc5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:31.180389550Z"
+}

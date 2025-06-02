@@ -1,0 +1,15 @@
+{
+  "uuid": "68b73906-3830-4623-b652-5ba75f546b52",
+  "path": "/bin/suricatasc",
+  "size": 3386,
+  "modified": "2024-04-01T09:12:58Z",
+  "created": "2025-05-26T20:18:27.620014393Z",
+  "sha256_hash": "d54b3b9d4c249f3fa136e7b272c881c8a3098670b9b549aacede88ff573d5fc0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.767431796Z"
+}

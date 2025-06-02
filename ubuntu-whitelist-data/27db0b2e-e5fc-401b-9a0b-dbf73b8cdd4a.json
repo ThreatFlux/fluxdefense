@@ -1,0 +1,17 @@
+{
+  "uuid": "27db0b2e-e5fc-401b-9a0b-dbf73b8cdd4a",
+  "path": "/usr/lib/firmware/mediatek/mt7615_cr4.bin.zst",
+  "size": 121777,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.676539818Z",
+  "sha256_hash": "8429c7aa54e7c28f8f0b2a3702dca4f3ab17366dd57f2f0a9809397540953227",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.305397151Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "f5c5ef23-4c58-4ac9-8ea6-f7c8f37dc65c",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libxt_MARK.so",
+  "size": 15512,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.331631391Z",
+  "sha256_hash": "cdc77d4c261e7cbbba490adc2d4eb11f1d2a7f618d45fa1d6b1cc4e2e5d01c9d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.245442155Z"
+}

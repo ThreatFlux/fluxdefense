@@ -1,0 +1,15 @@
+{
+  "uuid": "821cd0d5-36fd-4160-abb8-bbeb33e949c6",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/libJIS.so",
+  "size": 104440,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.697656326Z",
+  "sha256_hash": "f751c1629e0dcaeef34d64e361f1ba73ae35ae60e3370eac4d8a42120ba198e9",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.519658533Z"
+}

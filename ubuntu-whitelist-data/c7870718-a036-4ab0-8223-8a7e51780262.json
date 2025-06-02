@@ -1,0 +1,15 @@
+{
+  "uuid": "c7870718-a036-4ab0-8223-8a7e51780262",
+  "path": "/lib/python3.12/test/tracedmodules/testmod.py",
+  "size": 143,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.051550987Z",
+  "sha256_hash": "28c96e551b734847c72fc13bf627f73e698245e9eccc787aa03b7ba6215d12af",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.166694495Z"
+}

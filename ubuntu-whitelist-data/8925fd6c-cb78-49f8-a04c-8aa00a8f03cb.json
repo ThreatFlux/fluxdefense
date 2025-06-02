@@ -1,0 +1,15 @@
+{
+  "uuid": "8925fd6c-cb78-49f8-a04c-8aa00a8f03cb",
+  "path": "/lib/x86_64-linux-gnu/libVkLayer_MESA_overlay.so",
+  "size": 888072,
+  "modified": "2024-12-16T10:17:11Z",
+  "created": "2025-05-09T05:07:29.056757664Z",
+  "sha256_hash": "d47f9a58b124dc4e19b84f837f56944ac402a927483dfe9fafc2137d448b8518",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.123494895Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a70f8d6b-822d-4c41-bdd6-80649d144477",
+  "path": "/lib/firmware/amdgpu/fiji_pfp.bin.zst",
+  "size": 7829,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.393543737Z",
+  "sha256_hash": "a48999f8fa70c146e7cdac54606f1b16f31bba92cc09703fa0664a90ca299d40",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.974999346Z"
+}

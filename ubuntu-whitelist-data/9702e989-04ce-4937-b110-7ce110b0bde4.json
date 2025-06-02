@@ -1,0 +1,15 @@
+{
+  "uuid": "9702e989-04ce-4937-b110-7ce110b0bde4",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstjack.so",
+  "size": 72080,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.773655166Z",
+  "sha256_hash": "a066cf5d5029b044f8883db6f965f43546673a4b5a9da8ad1972ec96a9815fe8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.197415578Z"
+}

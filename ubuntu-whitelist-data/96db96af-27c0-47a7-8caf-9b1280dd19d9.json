@@ -1,0 +1,15 @@
+{
+  "uuid": "96db96af-27c0-47a7-8caf-9b1280dd19d9",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/botocore/monitoring.py",
+  "size": 20597,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.307939158Z",
+  "sha256_hash": "989fc85a8a928e369412555391b43ad8eacd97c446b2980ee82ece51eaf3def5",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.584328089Z"
+}

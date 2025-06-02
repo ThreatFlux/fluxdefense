@@ -1,0 +1,17 @@
+{
+  "uuid": "ce88e5fd-1e8b-4b84-99df-09bed864626d",
+  "path": "/lib/udev/rules.d/77-mm-longcheer-port-types.rules",
+  "size": 14434,
+  "modified": "2024-02-19T14:58:32Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "e667d292eec05b801e16603c4c9ad98ddf8c8b90d22df25abfb93019433350bc",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.240314336Z"
+}

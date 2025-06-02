@@ -1,0 +1,15 @@
+{
+  "uuid": "cc757831-d578-4b5a-9ae8-f610b0b447e5",
+  "path": "/lib/x86_64-linux-gnu/gconv/IBM437.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.649657058Z",
+  "sha256_hash": "09d339f5407ab47311774bfbb9ad4e6ac0b7f5e9a866f51b28f370e08f4b3811",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.768884241Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d5200708-69b6-4687-bcb9-a062c0cf2083",
+  "path": "/lib/firmware/advansys/38C1600.bin.zst",
+  "size": 4657,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.385543848Z",
+  "sha256_hash": "0aa0c49eb307d6e7833742e8d65ac549e335573b3d0effab6eccb02b779054cf",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.017259981Z"
+}

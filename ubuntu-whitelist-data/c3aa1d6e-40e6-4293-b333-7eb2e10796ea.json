@@ -1,0 +1,15 @@
+{
+  "uuid": "c3aa1d6e-40e6-4293-b333-7eb2e10796ea",
+  "path": "/usr/lib/google-cloud-sdk/platform/bq/frontend/bq_cached_client.py",
+  "size": 7390,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.813930562Z",
+  "sha256_hash": "bd97af75431c9eb4426087f16d663cee8e4c80c84163a37e961ba56d405090d0",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.625447810Z"
+}

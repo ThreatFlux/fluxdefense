@@ -1,0 +1,17 @@
+{
+  "uuid": "a27e1ca2-6341-46b0-9e01-26d5375a523e",
+  "path": "/usr/lib/x86_64-linux-gnu/libdaemon.so.0.5.0",
+  "size": 31208,
+  "modified": "2024-04-08T16:02:18Z",
+  "created": "2025-05-09T05:07:29.270754399Z",
+  "sha256_hash": "d53a4bb4f1abb9d3a311f8e776977bcacd2825edf027d1cd590514d35dc81211",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.865758939Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "664da5c4-04c4-4df4-9243-c8a7e7922d8d",
+  "path": "/usr/lib/ipxe/qemu/compat-256k-efi-virtio.rom",
+  "size": 248320,
+  "modified": "2024-04-16T21:48:11Z",
+  "created": "2025-05-09T05:56:50.555631197Z",
+  "sha256_hash": "04b526b7493566495cf75b6ce26799ce99b210f3d54e1f0064f3dad9cb826358",
+  "file_type": {
+    "Other": "rom"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.316588421Z"
+}

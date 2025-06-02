@@ -1,0 +1,15 @@
+{
+  "uuid": "9d266032-8087-479c-bead-5406d448c447",
+  "path": "/usr/lib/xorg/modules/drivers/vmware_drv.so",
+  "size": 170376,
+  "modified": "2024-04-08T16:23:53Z",
+  "created": "2025-05-09T05:07:37.399630353Z",
+  "sha256_hash": "d0c8891eb3d1fea81acf686d61b91303150086971c8e318b81287f2290b6f160",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.619846756Z"
+}

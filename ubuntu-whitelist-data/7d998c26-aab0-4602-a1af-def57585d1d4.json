@@ -1,0 +1,17 @@
+{
+  "uuid": "7d998c26-aab0-4602-a1af-def57585d1d4",
+  "path": "/usr/lib/llvm-18/include/clang-c/Index.h",
+  "size": 211198,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.554533252Z",
+  "sha256_hash": "15bcd5f87222fcdedb9e29668597ddf427f7de447a255858a9c7be4ce2145186",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.219342962Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "0ddb99c5-6e97-4f3d-808b-ee7b80b13627",
+  "path": "/usr/lib/google-cloud-sdk/platform/gsutil/gslib/gcs_json_media.py",
+  "size": 29180,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.848929967Z",
+  "sha256_hash": "75aa8a42f10e793c6cc8bcb20af96c904f210ebbb08f5138738ea62cc3391ed3",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.579808804Z"
+}

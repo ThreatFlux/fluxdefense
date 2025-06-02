@@ -1,0 +1,15 @@
+{
+  "uuid": "014a3cda-de1f-456d-a00a-923e0ecdbe3b",
+  "path": "/usr/lib/klibc/bin/zcat",
+  "size": 36504,
+  "modified": "2024-05-21T08:39:42Z",
+  "created": "2025-05-09T05:07:21.717869652Z",
+  "sha256_hash": "556993614ab079243794d455febd4e05db995034546fe30e257fd001663e267a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.567096805Z"
+}

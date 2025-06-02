@@ -1,0 +1,15 @@
+{
+  "uuid": "7eec8a74-e36e-499a-899d-7e8f3aa34ffc",
+  "path": "/usr/bin/gnome-shell",
+  "size": 31456,
+  "modified": "2025-04-14T09:35:20Z",
+  "created": "2025-05-21T14:13:56.577918586Z",
+  "sha256_hash": "5557f85ee0e795ac7b3beca788201ce1340c494cc013e5a70376f4c22e0534f1",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.692718116Z"
+}

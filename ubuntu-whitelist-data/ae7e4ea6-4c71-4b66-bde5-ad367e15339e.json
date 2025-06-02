@@ -1,0 +1,17 @@
+{
+  "uuid": "ae7e4ea6-4c71-4b66-bde5-ad367e15339e",
+  "path": "/lib/x86_64-linux-gnu/libSM.so.6.0.1",
+  "size": 39280,
+  "modified": "2024-04-08T16:07:20Z",
+  "created": "2025-05-09T05:07:29.048757786Z",
+  "sha256_hash": "c9301f0ff852c0edcfc766f91c5df4f73b1b300c0303ac188524154588892fd0",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:28.932782983Z"
+}

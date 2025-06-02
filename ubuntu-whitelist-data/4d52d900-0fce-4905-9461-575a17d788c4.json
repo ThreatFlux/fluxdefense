@@ -1,0 +1,17 @@
+{
+  "uuid": "4d52d900-0fce-4905-9461-575a17d788c4",
+  "path": "/lib/llvm-18/include/clang-tidy/misc/UnconventionalAssignOperatorCheck.h",
+  "size": 1667,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "7e4f7c4cbbdb27f8b37bb6cb5dd03ec72fb42e286224a9b6bec0f6e53ff41eae",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.919783317Z"
+}

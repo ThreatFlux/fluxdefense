@@ -1,0 +1,17 @@
+{
+  "uuid": "02b716d8-cfc6-4540-a6db-b10f8f581cd1",
+  "path": "/usr/lib/x86_64-linux-gnu/libabsl_bad_variant_access.so.20220623.0.0",
+  "size": 14576,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.938492440Z",
+  "sha256_hash": "675c9583fba0c0eb14493c6ebd87e84ba84ca4b4cc496ff986b8db1cf0bf6ac1",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.335702534Z"
+}

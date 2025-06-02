@@ -1,0 +1,15 @@
+{
+  "uuid": "c2d6b812-c903-4c3e-ade1-c45bcc7a4201",
+  "path": "/usr/lib/x86_64-linux-gnu/libheif/plugins/libheif-aomdec.so",
+  "size": 14440,
+  "modified": "2024-10-21T10:48:55Z",
+  "created": "2025-05-09T05:07:35.858653869Z",
+  "sha256_hash": "a6409853d6a398a0128fd634bf24b57536a725630c68016907fe2d9ad6422a8b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.830696090Z"
+}

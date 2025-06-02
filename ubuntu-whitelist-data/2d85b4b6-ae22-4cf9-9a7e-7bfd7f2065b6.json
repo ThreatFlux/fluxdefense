@@ -1,0 +1,17 @@
+{
+  "uuid": "2d85b4b6-ae22-4cf9-9a7e-7bfd7f2065b6",
+  "path": "/lib/llvm-18/include/clang-tidy/readability/ContainerContainsCheck.h",
+  "size": 1443,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "b969cdb44952f8d634f70a11762555764c782fdf673eaa1a5d1ff06c560f44cd",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.925380160Z"
+}

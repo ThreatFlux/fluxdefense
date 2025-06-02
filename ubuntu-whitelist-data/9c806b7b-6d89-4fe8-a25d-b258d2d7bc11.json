@@ -1,0 +1,17 @@
+{
+  "uuid": "9c806b7b-6d89-4fe8-a25d-b258d2d7bc11",
+  "path": "/lib/systemd/system/swap.target",
+  "size": 402,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "10e164b86720b9d3397ed934471dd2f1830909731bc4a3dc69f62635e1c0cdfa",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.111747184Z"
+}

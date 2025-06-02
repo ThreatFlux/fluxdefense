@@ -1,0 +1,17 @@
+{
+  "uuid": "698a9970-0520-4945-ac1b-e28af7ef0cd2",
+  "path": "/lib/llvm-18/include/clang-tidy/google/UsingNamespaceDirectiveCheck.h",
+  "size": 1842,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "5f759747ada1a2e0be0166915214448ac5e80d8890bee775cb42c7a6c016251a",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.916758313Z"
+}

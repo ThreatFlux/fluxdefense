@@ -1,0 +1,17 @@
+{
+  "uuid": "d7ac9b55-bdea-4774-9acd-62726d54d5da",
+  "path": "/lib/modules/6.11.0-25-generic/modules.alias",
+  "size": 1705151,
+  "modified": "2025-05-09T12:56:07.363092782Z",
+  "created": "2025-05-09T12:56:07.357092616Z",
+  "sha256_hash": "a66c102872bbbd8faf3ecb42a06e4e7b659ff3ebad78ec83ca12b51c5dc40686",
+  "file_type": {
+    "Other": "alias"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.627403463Z"
+}

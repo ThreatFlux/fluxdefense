@@ -1,0 +1,17 @@
+{
+  "uuid": "53ea1bfc-8de6-4118-8e74-b059d9f95116",
+  "path": "/lib/llvm-18/include/clang/Driver/ToolChain.h",
+  "size": 32231,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.541533423Z",
+  "sha256_hash": "4ddfed2996928964c7706bf9ec94ad35336d31a4d3c1b9b38b9ed370de9853af",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.028780092Z"
+}

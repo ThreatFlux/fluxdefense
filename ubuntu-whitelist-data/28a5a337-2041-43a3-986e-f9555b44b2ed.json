@@ -1,0 +1,15 @@
+{
+  "uuid": "28a5a337-2041-43a3-986e-f9555b44b2ed",
+  "path": "/usr/lib/x86_64-linux-gnu/engines-3/padlock.so",
+  "size": 26848,
+  "modified": "2025-02-05T13:17:43Z",
+  "created": "2025-05-09T05:10:59.224550023Z",
+  "sha256_hash": "d254a275a64e6e55c8c298f5dafe62d0c393d4b59c93797486e2e6a6e97f49e7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.846506383Z"
+}

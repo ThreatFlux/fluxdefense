@@ -1,0 +1,17 @@
+{
+  "uuid": "21753308-feef-4727-85a7-92d4772a3343",
+  "path": "/usr/lib/x86_64-linux-gnu/libarchive.so.13.7.2",
+  "size": 854168,
+  "modified": "2025-04-10T17:28:58Z",
+  "created": "2025-05-09T05:11:32.445042928Z",
+  "sha256_hash": "f982c246893216b308975c90ca620f0afa7b43ca2ec0690dce1e26864aae6153",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.726260342Z"
+}

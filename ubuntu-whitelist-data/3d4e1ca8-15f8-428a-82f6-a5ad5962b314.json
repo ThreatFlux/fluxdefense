@@ -1,0 +1,15 @@
+{
+  "uuid": "3d4e1ca8-15f8-428a-82f6-a5ad5962b314",
+  "path": "/usr/lib/cups/backend/cups-brf",
+  "size": 14488,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.037880029Z",
+  "sha256_hash": "03444770c6d5302eaa86123fcc77561d0aa31b379b962d58b29fd80f5c818bb0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.011547100Z"
+}

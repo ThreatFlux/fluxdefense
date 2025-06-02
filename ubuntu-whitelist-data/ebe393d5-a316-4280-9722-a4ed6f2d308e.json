@@ -1,0 +1,15 @@
+{
+  "uuid": "ebe393d5-a316-4280-9722-a4ed6f2d308e",
+  "path": "/usr/lib/os-probes/mounted/40lsb",
+  "size": 891,
+  "modified": "2023-03-07T13:24:16Z",
+  "created": "2025-05-09T05:07:25.893805930Z",
+  "sha256_hash": "b597c834f9894a0e9d98cc7ce20b62c75ace73c7860798950321fccc35164ef2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.606932930Z"
+}

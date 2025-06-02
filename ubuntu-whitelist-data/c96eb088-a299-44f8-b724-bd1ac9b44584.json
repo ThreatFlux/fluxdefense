@@ -1,0 +1,17 @@
+{
+  "uuid": "c96eb088-a299-44f8-b724-bd1ac9b44584",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-ibm.so.1.2.1",
+  "size": 67848,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.144634245Z",
+  "sha256_hash": "d526ca3f147a2a10e19525149761721e48565b703ba25a7932f1e5b87157ce0a",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.242712587Z"
+}

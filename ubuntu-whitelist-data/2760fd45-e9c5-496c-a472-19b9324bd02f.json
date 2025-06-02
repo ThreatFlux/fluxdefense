@@ -1,0 +1,17 @@
+{
+  "uuid": "2760fd45-e9c5-496c-a472-19b9324bd02f",
+  "path": "/usr/lib/x86_64-linux-gnu/libva.so.2.2000.0",
+  "size": 190992,
+  "modified": "2024-04-18T17:47:47Z",
+  "created": "2025-05-09T05:09:17.230106808Z",
+  "sha256_hash": "3c1b8d82ec88770035c62cfe79c4e8ae7c4116725b365e6ed36633ec570518bf",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.002996447Z"
+}

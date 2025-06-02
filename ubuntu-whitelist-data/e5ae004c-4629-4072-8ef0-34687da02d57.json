@@ -1,0 +1,17 @@
+{
+  "uuid": "e5ae004c-4629-4072-8ef0-34687da02d57",
+  "path": "/lib/llvm-18/include/clang/Basic/LangStandard.h",
+  "size": 4363,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "9805cab46f1128665b03872bb489ac5061873e46641c88ee337bea0e5e627027",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.072237844Z"
+}

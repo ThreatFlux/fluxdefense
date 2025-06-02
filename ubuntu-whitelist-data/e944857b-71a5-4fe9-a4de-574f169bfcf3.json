@@ -1,0 +1,15 @@
+{
+  "uuid": "e944857b-71a5-4fe9-a4de-574f169bfcf3",
+  "path": "/bin/killall",
+  "size": 32096,
+  "modified": "2024-03-31T17:02:29Z",
+  "created": "2025-05-09T05:07:20.081894616Z",
+  "sha256_hash": "652c8fbdc799d5edb2e4893dee3a7b6ca95ccd497c720446032bf558d6874bc0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.009840546Z"
+}

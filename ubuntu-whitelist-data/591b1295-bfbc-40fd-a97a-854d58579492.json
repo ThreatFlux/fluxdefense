@@ -1,0 +1,17 @@
+{
+  "uuid": "591b1295-bfbc-40fd-a97a-854d58579492",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/xwayland.pc",
+  "size": 504,
+  "modified": "2025-03-26T11:19:46Z",
+  "created": "2025-05-09T05:24:32.993033935Z",
+  "sha256_hash": "446033dc73753ab43878de53d5851ebe16db27fb60cca1420b1cf5a84d6bd748",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.096910184Z"
+}

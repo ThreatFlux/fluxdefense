@@ -1,0 +1,17 @@
+{
+  "uuid": "23ab56aa-78c3-4b3c-9eaa-19f572df9d47",
+  "path": "/usr/lib/grub/x86_64-efi/gcry_rsa.mod",
+  "size": 3368,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.807708476Z",
+  "sha256_hash": "33da10458f2a25d83f2d397276c13e38f0decf9851a4289a154f1bc494af507d",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.473629013Z"
+}

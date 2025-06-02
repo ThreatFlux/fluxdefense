@@ -1,0 +1,17 @@
+{
+  "uuid": "093617d8-fc0d-4ed8-b490-60b89255c4ae",
+  "path": "/usr/lib/firmware/keyspan/usa18x.fw.zst",
+  "size": 3341,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.667539942Z",
+  "sha256_hash": "36d90ccb5c032762ef4f67d25cd43429211d175b5dcc50d00446092299efdf23",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.590976639Z"
+}

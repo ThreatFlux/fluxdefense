@@ -1,0 +1,17 @@
+{
+  "uuid": "5fb5d0f1-ddaf-425c-a901-b4532933762e",
+  "path": "/usr/lib/llvm-18/include/clang/AST/TypeLocVisitor.h",
+  "size": 1800,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.521533687Z",
+  "sha256_hash": "d1550bedaf678ffc7b63a033b91de10646c7288db32b16264f8c529dba7772b9",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.394049794Z"
+}

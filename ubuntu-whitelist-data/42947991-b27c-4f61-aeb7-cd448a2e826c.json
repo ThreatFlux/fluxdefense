@@ -1,0 +1,17 @@
+{
+  "uuid": "42947991-b27c-4f61-aeb7-cd448a2e826c",
+  "path": "/lib/systemd/portable/profile/default/service.conf",
+  "size": 1038,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:56:53.645596490Z",
+  "sha256_hash": "0d1c2f7411d9c4d9a56ad0e67d020a6ee9187b5b885386c17095ed92ed9b817f",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.185012635Z"
+}

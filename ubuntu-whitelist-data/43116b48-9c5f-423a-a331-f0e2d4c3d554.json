@@ -1,0 +1,17 @@
+{
+  "uuid": "43116b48-9c5f-423a-a331-f0e2d4c3d554",
+  "path": "/lib/systemd/user/evolution-source-registry.service",
+  "size": 163,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:28.305769124Z",
+  "sha256_hash": "ea8f53e2be45a995f7d867fe2a9fa1d3075902b2b74f754dcc952b958cb2f1af",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.140246191Z"
+}

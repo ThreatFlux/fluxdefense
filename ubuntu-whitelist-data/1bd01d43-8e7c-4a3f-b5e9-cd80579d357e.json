@@ -1,0 +1,15 @@
+{
+  "uuid": "1bd01d43-8e7c-4a3f-b5e9-cd80579d357e",
+  "path": "/usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-session-manager.so",
+  "size": 166128,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.785860141Z",
+  "sha256_hash": "726ed9cc1b058141e21e43a6cdb3e1ff1d750fbc18362069eb239a7eda6beb41",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.413298665Z"
+}

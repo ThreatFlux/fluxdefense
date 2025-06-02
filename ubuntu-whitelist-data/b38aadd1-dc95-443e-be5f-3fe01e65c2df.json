@@ -1,0 +1,17 @@
+{
+  "uuid": "b38aadd1-dc95-443e-be5f-3fe01e65c2df",
+  "path": "/usr/lib/firmware/liquidio/lio_23xx_nic.bin.zst",
+  "size": 403939,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.670539900Z",
+  "sha256_hash": "1c941d3508ea3ec27be47965443a834411678474d0d4c263421dde9b8bce5bc8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.333761078Z"
+}

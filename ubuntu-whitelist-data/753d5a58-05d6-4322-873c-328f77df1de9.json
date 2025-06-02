@@ -1,0 +1,15 @@
+{
+  "uuid": "753d5a58-05d6-4322-873c-328f77df1de9",
+  "path": "/usr/libexec/goa-oauth2-handler",
+  "size": 14736,
+  "modified": "2024-08-09T12:09:20Z",
+  "created": "2025-05-09T05:07:37.498628843Z",
+  "sha256_hash": "b6e4eef40929c8e0e4aea0973d082d2896e26c0466ea2a2b2519fd142310fae5",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.457194274Z"
+}

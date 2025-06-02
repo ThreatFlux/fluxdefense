@@ -1,0 +1,17 @@
+{
+  "uuid": "79d2b5c6-9797-404f-ab3e-855871e75186",
+  "path": "/lib/grub/x86_64-efi/blocklist.mod",
+  "size": 3080,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.801708567Z",
+  "sha256_hash": "e5e3a01acda7ff92e313e10fa5c4544103cc7ef1cd17cbe7981192629547bd05",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.043876669Z"
+}

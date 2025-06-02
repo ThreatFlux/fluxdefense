@@ -1,0 +1,17 @@
+{
+  "uuid": "31825549-295a-4241-abcf-a15a7808ad6b",
+  "path": "/lib/llvm-18/include/clang/AST/StmtVisitor.h",
+  "size": 8953,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.520533700Z",
+  "sha256_hash": "cda158ed59dd6e06d1f9c16d37d01f0d3914fc3eba45022757f0701a8b3c7dfa",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.006301421Z"
+}

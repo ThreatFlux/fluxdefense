@@ -1,0 +1,15 @@
+{
+  "uuid": "53f676f1-740e-468e-9976-432e37c878a0",
+  "path": "/usr/bin/systemd-cryptsetup",
+  "size": 80840,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.505779253Z",
+  "sha256_hash": "f6d6818f67a61043f582e233cf6f0d2c968a628cc0a6bed576173e390a9ed3dd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:14.444029591Z"
+}

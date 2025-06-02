@@ -1,0 +1,17 @@
+{
+  "uuid": "528c6b74-3b2c-4a2a-b154-f16b50536931",
+  "path": "/lib/firmware/atmel/wilc1000_p2p_fw.bin.zst",
+  "size": 78885,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.476542588Z",
+  "sha256_hash": "4f2dbb008ba4d9191c4826e7a642af990b1a69e0b1f6e18d05290d97bef8c76e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.390653956Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "e28dd7e4-98cb-488c-b3e3-6a7817acd88b",
+  "path": "/usr/sbin/dcstat-bpfcc",
+  "size": 3859,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "f7af6e01a680a31aaae08ea0272ea9a3af137e7d0ffbe580aef0c1e5b015abce",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.251329853Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a168e03d-dc3c-4d2b-b0da-329b694d7dd4",
+  "path": "/lib/systemd/system/systemd-pstore.service",
+  "size": 815,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "6480e7b711ee6f6f4c2a96d0c197f4ee32601743d97de421b4a6d40f73fa851e",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.116676320Z"
+}

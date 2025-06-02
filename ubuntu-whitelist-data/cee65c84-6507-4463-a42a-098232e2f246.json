@@ -1,0 +1,17 @@
+{
+  "uuid": "cee65c84-6507-4463-a42a-098232e2f246",
+  "path": "/usr/bin/mkx86ins-3.2.2",
+  "size": 199744,
+  "modified": "2024-01-05T07:40:08Z",
+  "created": "2025-05-29T11:16:19.056880994Z",
+  "sha256_hash": "50eba907148d5978bc446ed05ac2d66cd986c11b24d3534416672065ab89577c",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.095155691Z"
+}

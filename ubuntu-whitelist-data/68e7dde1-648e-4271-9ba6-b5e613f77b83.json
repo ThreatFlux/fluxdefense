@@ -1,0 +1,17 @@
+{
+  "uuid": "68e7dde1-648e-4271-9ba6-b5e613f77b83",
+  "path": "/usr/lib/firmware/r8a779x_usb3_v2.dlmem.zst",
+  "size": 6231,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.058534526Z",
+  "sha256_hash": "db9d4ff4d0a5e8004f2b7d9daddac1ef5f95d9e0fb9ef5e30c4699457c3cff76",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.074875998Z"
+}

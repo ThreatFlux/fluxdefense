@@ -1,0 +1,17 @@
+{
+  "uuid": "2af9d5d7-042c-40bc-8e15-63dfe384be94",
+  "path": "/lib/llvm-18/include/clang-tidy/cppcoreguidelines/NoSuspendWithLockCheck.h",
+  "size": 1928,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "e48a4e5a471e58ae1ceb77176200b1f3f38a0e87fd0e3750088297a5a71188f1",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.906823257Z"
+}

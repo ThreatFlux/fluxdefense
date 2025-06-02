@@ -1,0 +1,15 @@
+{
+  "uuid": "cd5f70d9-3a94-4d84-84c5-76931b39dfe7",
+  "path": "/lib/x86_64-linux-gnu/libsepol.a",
+  "size": 1547656,
+  "modified": "2024-04-08T16:07:01Z",
+  "created": "2025-05-13T14:30:45.003500172Z",
+  "sha256_hash": "b390135c50dcde4b580e9fb5f6858ab21f7cee399f8e85c8f2fa6344efb76398",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.058321980Z"
+}

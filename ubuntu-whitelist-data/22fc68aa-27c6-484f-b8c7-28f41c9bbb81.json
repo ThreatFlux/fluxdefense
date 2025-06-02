@@ -1,0 +1,17 @@
+{
+  "uuid": "22fc68aa-27c6-484f-b8c7-28f41c9bbb81",
+  "path": "/lib/systemd/system/systemd-suspend-then-hibernate.service",
+  "size": 601,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "f51e0b9bc3c60c06f982926a5903a1884ae94b65bda082b86d9fbca25b5c4c4d",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.131528517Z"
+}

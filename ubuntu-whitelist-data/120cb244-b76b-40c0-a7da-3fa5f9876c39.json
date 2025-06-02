@@ -1,0 +1,15 @@
+{
+  "uuid": "120cb244-b76b-40c0-a7da-3fa5f9876c39",
+  "path": "/usr/lib/dhcpcd/dhcpcd-hooks/01-test",
+  "size": 734,
+  "modified": "2024-05-07T10:12:01Z",
+  "created": "2025-05-09T05:07:21.655870599Z",
+  "sha256_hash": "0a4a1efe4e105e68e564a49cc8de40de2263166a65478ceafd94236661f1a75d",
+  "file_type": "Executable",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.748764082Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "3ad51c6b-e78e-4e5a-a361-06e452d90c8f",
+  "path": "/usr/lib/grub/x86_64-efi/gcry_blowfish.mod",
+  "size": 9192,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.805708506Z",
+  "sha256_hash": "798f36bca60caa00e12ff31de4cb71a5d781070037b8b6cb5623823012e62b7f",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.469074593Z"
+}

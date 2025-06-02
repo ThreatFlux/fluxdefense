@@ -1,0 +1,17 @@
+{
+  "uuid": "d5b7bae2-17ec-408f-9451-bc5e71c863fd",
+  "path": "/lib/python3/dist-packages/apt_inst-stubs/__init__.pyi",
+  "size": 862,
+  "modified": "2025-01-27T11:40:02Z",
+  "created": "2025-05-09T05:07:26.509796530Z",
+  "sha256_hash": "c9ba8811c884b2dcb8a2ac19c50f7795e86a5cdc360f995ecf9327efd0cb54ea",
+  "file_type": {
+    "Other": "pyi"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.095122523Z"
+}

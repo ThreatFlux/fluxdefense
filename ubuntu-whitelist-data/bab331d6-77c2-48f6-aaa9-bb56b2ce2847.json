@@ -1,0 +1,15 @@
+{
+  "uuid": "bab331d6-77c2-48f6-aaa9-bb56b2ce2847",
+  "path": "/sbin/NetworkManager",
+  "size": 3407256,
+  "modified": "2024-10-23T11:04:42Z",
+  "created": "2025-05-09T05:07:38.110619504Z",
+  "sha256_hash": "dada2ab1d871c17101cbf5e645b10b609d51845d9b59ffa81de92f2b5454de7e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.845702840Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "29710b41-438c-4650-ab35-f0b2e0ed69d4",
+  "path": "/usr/lib/systemd/user/pipewire-pulse.socket",
+  "size": 172,
+  "modified": "2024-04-15T07:33:15Z",
+  "created": "2025-05-09T05:24:18.216839817Z",
+  "sha256_hash": "c3abbf9ac1fdd17c252dafbf40293cde60fdf11b545b79cef48129e632bcf414",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.493812003Z"
+}

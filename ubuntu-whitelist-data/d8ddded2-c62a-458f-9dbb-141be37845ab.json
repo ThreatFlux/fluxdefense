@@ -1,0 +1,17 @@
+{
+  "uuid": "d8ddded2-c62a-458f-9dbb-141be37845ab",
+  "path": "/bin/x86_64-linux-gnu-fpcres-3.2.2",
+  "size": 1191552,
+  "modified": "2024-01-05T07:40:08Z",
+  "created": "2025-05-29T11:15:46.756324214Z",
+  "sha256_hash": "fbf5d54ad7ea3896e7e1d44301ac28b0c45f307878f48d4915a0df7fd2676c0e",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.850741834Z"
+}

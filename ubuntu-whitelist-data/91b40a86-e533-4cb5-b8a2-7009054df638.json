@@ -1,0 +1,17 @@
+{
+  "uuid": "91b40a86-e533-4cb5-b8a2-7009054df638",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/DiagnosticCommentKinds.inc",
+  "size": 7516,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.527533608Z",
+  "sha256_hash": "63c82edbf588ce27ad1f1f22507252100ac184a1d31824015a30e37163e1f515",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.481637592Z"
+}

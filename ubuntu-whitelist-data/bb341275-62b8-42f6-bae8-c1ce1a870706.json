@@ -1,0 +1,15 @@
+{
+  "uuid": "bb341275-62b8-42f6-bae8-c1ce1a870706",
+  "path": "/usr/lib/evolution-data-server/camel-providers/libcamellocal.so",
+  "size": 179992,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:21.658870553Z",
+  "sha256_hash": "3cab0ee525b1e30390330764dfaac3e21abf1672919cdaa571b449ecd48310a2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.037419470Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c842164c-2e74-45b5-956c-9137523aa54b",
+  "path": "/usr/lib/firmware/xe/bmg_guc_70.bin.zst",
+  "size": 168690,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.084534166Z",
+  "sha256_hash": "041b42b447921545a8fbcba87a90afc676ebe9d93606be7b5793224a33d387a5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.372303562Z"
+}

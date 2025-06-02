@@ -1,0 +1,17 @@
+{
+  "uuid": "ad5f5ac5-6a9a-4b37-b36f-e85c41e49a7e",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/xpm.pc",
+  "size": 242,
+  "modified": "2024-03-31T08:02:41Z",
+  "created": "2025-05-29T11:16:22.798829644Z",
+  "sha256_hash": "a40b122634d35402bca95df81d3e1983438674b34973006cabc72e07264f6996",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.056259977Z"
+}

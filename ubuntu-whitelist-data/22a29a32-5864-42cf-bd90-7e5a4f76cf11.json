@@ -1,0 +1,17 @@
+{
+  "uuid": "22a29a32-5864-42cf-bd90-7e5a4f76cf11",
+  "path": "/usr/lib/llvm-18/include/clang/AST/StmtOpenMP.h",
+  "size": 246944,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.520533700Z",
+  "sha256_hash": "1158ce6ae342f568cb6662f61d270a68c63e59592e45cfd379ae42e422a2f5c7",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.390140614Z"
+}

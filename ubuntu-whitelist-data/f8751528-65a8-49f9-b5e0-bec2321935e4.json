@@ -1,0 +1,17 @@
+{
+  "uuid": "f8751528-65a8-49f9-b5e0-bec2321935e4",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/g-crc32.adb",
+  "size": 3696,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.067344915Z",
+  "sha256_hash": "8274ced8ee9f1647095e0d81a7672101e1d42d3eb6d3f07a6dcd52fcd0754cb5",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.152267225Z"
+}

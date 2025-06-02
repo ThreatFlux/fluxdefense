@@ -1,0 +1,15 @@
+{
+  "uuid": "93f1db5a-856b-419b-ae05-0b36a0c7bfd3",
+  "path": "/bin/nmcli",
+  "size": 1009552,
+  "modified": "2024-10-23T11:04:42Z",
+  "created": "2025-05-09T05:07:20.223892450Z",
+  "sha256_hash": "8deaf7fa5f9b05a27a8b2cfe06573621bf90b2a9489e9447d06f837cd0b306e7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.004292500Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "ec1c54b1-c4fe-4484-90ec-eb7c139b85e1",
+  "path": "/lib/x86_64-linux-gnu/libevent_pthreads-2.1.so.7.0.1",
+  "size": 14256,
+  "modified": "2024-03-31T07:48:09Z",
+  "created": "2025-05-26T20:18:23.710073456Z",
+  "sha256_hash": "9d1cbb4b2598f7e1e02f161547a61dcb527beb6fb9afec2109e40cb5fc82a263",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:18.260254996Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "7e7cded4-6cfd-4a76-b119-41ed83557d2a",
+  "path": "/lib/python3/dist-packages/cloudinit/handlers/boot_hook.py",
+  "size": 2003,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.239037216Z",
+  "sha256_hash": "2ffa73f3d5dbdb2a06cd5326c05d0a2945aa07046c198a0402ea3af5266f1bc4",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.923110784Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "683a3237-f334-4f23-bb59-a302de34b263",
+  "path": "/usr/lib/firmware/rtlwifi/rtl8723aufw_A.bin.zst",
+  "size": 11328,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.068534388Z",
+  "sha256_hash": "2f1f14bdc3f928faa3e72434a214872662a7c3d8834266e753df8dbfcd54c5b0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.508910322Z"
+}

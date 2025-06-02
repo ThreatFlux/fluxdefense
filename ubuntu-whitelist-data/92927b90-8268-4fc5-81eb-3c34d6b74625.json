@@ -1,0 +1,17 @@
+{
+  "uuid": "92927b90-8268-4fc5-81eb-3c34d6b74625",
+  "path": "/lib/llvm-18/include/clang/AST/OSLog.h",
+  "size": 5171,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.518533726Z",
+  "sha256_hash": "fc4208d7c46463d44d637c11c95715306927588c394cf2c68cd2ff57689caadd",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.004185824Z"
+}

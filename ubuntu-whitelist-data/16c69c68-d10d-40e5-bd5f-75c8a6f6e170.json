@@ -1,0 +1,17 @@
+{
+  "uuid": "16c69c68-d10d-40e5-bd5f-75c8a6f6e170",
+  "path": "/usr/lib/firmware/nvidia/gp100/gr/sw_method_init.bin.zst",
+  "size": 2533,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.938536188Z",
+  "sha256_hash": "ca487559205fab3f26f47807feb85446a242c71bdf718a325de66db86082d73f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.244429266Z"
+}

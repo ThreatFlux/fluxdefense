@@ -1,0 +1,15 @@
+{
+  "uuid": "0ff1c46e-35a2-49c1-9dac-b300282d0eb0",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstopus.so",
+  "size": 72208,
+  "modified": "2024-12-17T13:24:56Z",
+  "created": "2025-05-09T05:07:35.774655151Z",
+  "sha256_hash": "9327988c8fb02f14fe729ba515167bc22054e65480cc1f72c067f993cbb0df09",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.992293454Z"
+}

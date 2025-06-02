@@ -1,0 +1,15 @@
+{
+  "uuid": "6e8b3de3-3580-4796-ae78-7eb1df15a4dc",
+  "path": "/usr/bin/dpkg-split",
+  "size": 100896,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T05:07:19.182908334Z",
+  "sha256_hash": "91c336dd3cba82900a5d62441178a8e81ae12f28a25e647080d3ffde02469271",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.884935718Z"
+}

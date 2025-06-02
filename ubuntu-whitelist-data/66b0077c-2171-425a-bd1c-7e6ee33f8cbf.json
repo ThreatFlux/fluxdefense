@@ -1,0 +1,15 @@
+{
+  "uuid": "66b0077c-2171-425a-bd1c-7e6ee33f8cbf",
+  "path": "/bin/zgrep",
+  "size": 8103,
+  "modified": "2024-04-08T15:58:45Z",
+  "created": "2025-05-09T05:07:20.956881265Z",
+  "sha256_hash": "2f506d3547724df8e8dc9bdfa73bccb1a641b530fd5a40adc9b537f851d86b7f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.383183538Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "80cb6387-7d37-42c7-8450-eda1c7f6f243",
+  "path": "/lib/x86_64-linux-gnu/libbd_loop.so.3.0.0",
+  "size": 18424,
+  "modified": "2024-03-26T13:32:04Z",
+  "created": "2025-05-09T05:07:29.183755726Z",
+  "sha256_hash": "a6e9f506acf43a07aa9310f106361b1bbba00fd1ae6349ef041568df04c94e93",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.187451781Z"
+}

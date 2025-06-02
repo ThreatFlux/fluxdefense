@@ -2,6 +2,8 @@ use std::fs::File;
 use std::os::unix::io::{AsRawFd, RawFd};
 use std::path::PathBuf;
 use std::sync::Arc;
+use std::collections::HashMap;
+use std::time::{Duration, Instant};
 use anyhow::{Result, anyhow};
 use tracing::{info, warn, error, debug};
 use libc::{self, c_int};
@@ -54,9 +56,20 @@ struct FanotifyResponse {
     response: u32,
 }
 
+#[derive(Debug, Clone)]
+struct FileMetadata {
+    path: PathBuf,
+    sha256_hash: Option<String>,
+    size: u64,
+    last_modified: std::time::SystemTime,
+    cached_at: Instant,
+}
+
 pub struct FanotifyMonitor {
     fd: RawFd,
     running: bool,
+    file_cache: HashMap<PathBuf, FileMetadata>,
+    cache_ttl: Duration,
 }
 
 impl FanotifyMonitor {
@@ -90,6 +103,8 @@ impl FanotifyMonitor {
         Ok(Self {
             fd,
             running: false,
+            file_cache: HashMap::new(),
+            cache_ttl: Duration::from_secs(300), // 5 minute cache
         })
     }
     
@@ -138,6 +153,70 @@ impl FanotifyMonitor {
         Ok(())
     }
     
+    pub fn add_directory_mark(&self, dir_path: &str, mask: u64, recursive: bool) -> Result<()> {
+        let path_cstr = std::ffi::CString::new(dir_path)?;
+        
+        // Add mark for the directory itself
+        let ret = unsafe {
+            libc::syscall(
+                libc::SYS_fanotify_mark,
+                self.fd,
+                FAN_MARK_ADD,
+                mask,
+                libc::AT_FDCWD,
+                path_cstr.as_ptr()
+            )
+        };
+        
+        if ret < 0 {
+            let err = std::io::Error::last_os_error();
+            return Err(anyhow!("Failed to add fanotify mark on directory {}: {}", dir_path, err));
+        }
+        
+        info!("Added fanotify mark on directory: {} with mask: 0x{:x}", dir_path, mask);
+        
+        // If recursive, walk subdirectories
+        if recursive {
+            if let Ok(entries) = std::fs::read_dir(dir_path) {
+                for entry in entries.flatten() {
+                    if let Ok(file_type) = entry.file_type() {
+                        if file_type.is_dir() {
+                            if let Some(path_str) = entry.path().to_str() {
+                                // Recursively add marks, ignoring errors
+                                let _ = self.add_directory_mark(path_str, mask, true);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        
+        Ok(())
+    }
+    
+    pub fn remove_mark(&self, path: &str) -> Result<()> {
+        let path_cstr = std::ffi::CString::new(path)?;
+        
+        let ret = unsafe {
+            libc::syscall(
+                libc::SYS_fanotify_mark,
+                self.fd,
+                libc::FAN_MARK_REMOVE,
+                0, // Remove all masks
+                libc::AT_FDCWD,
+                path_cstr.as_ptr()
+            )
+        };
+        
+        if ret < 0 {
+            let err = std::io::Error::last_os_error();
+            return Err(anyhow!("Failed to remove fanotify mark from {}: {}", path, err));
+        }
+        
+        info!("Removed fanotify mark from: {}", path);
+        Ok(())
+    }
+    
     pub fn start_monitoring(&mut self) -> Result<()> {
         if self.running {
             return Ok(());
@@ -166,8 +245,11 @@ impl FanotifyMonitor {
         Ok(())
     }
     
-    pub fn read_events(&self) -> Result<Vec<FanotifyEvent>> {
-        let mut buffer = vec![0u8; 4096];
+    pub fn read_events<F>(&self, decision_callback: F) -> Result<Vec<FanotifyEvent>> 
+    where
+        F: Fn(&FanotifyEvent) -> bool
+    {
+        let mut buffer = vec![0u8; 8192]; // Increased buffer size
         let mut events = Vec::new();
         
         let bytes_read = unsafe {
@@ -204,12 +286,16 @@ impl FanotifyMonitor {
                 path: self.get_path_from_fd(metadata.fd),
             };
             
-            events.push(event);
-            
-            // Respond to permission events
-            if metadata.mask & (FAN_OPEN_PERM | FAN_ACCESS_PERM | FAN_OPEN_EXEC_PERM) != 0 {
-                self.respond_to_event(metadata.fd, FAN_ALLOW)?;
+            // For permission events, get decision from callback
+            if event.is_permission_event() {
+                let allow = decision_callback(&event);
+                let response = if allow { FAN_ALLOW } else { FAN_DENY };
+                
+                debug!("Permission event for {:?}: {}", event.path, if allow { "ALLOW" } else { "DENY" });
+                self.respond_to_event(metadata.fd, response)?;
             }
+            
+            events.push(event);
             
             // Close the file descriptor
             if metadata.fd >= 0 {
@@ -256,6 +342,39 @@ impl FanotifyMonitor {
             self.running = false;
         }
         Ok(())
+    }
+    
+    fn get_file_metadata(&mut self, path: &PathBuf) -> Option<FileMetadata> {
+        // Check cache first
+        if let Some(cached) = self.file_cache.get(path) {
+            if cached.cached_at.elapsed() < self.cache_ttl {
+                return Some(cached.clone());
+            }
+        }
+        
+        // Get fresh metadata
+        if let Ok(metadata) = std::fs::metadata(path) {
+            let file_meta = FileMetadata {
+                path: path.clone(),
+                sha256_hash: None, // Will be calculated on demand
+                size: metadata.len(),
+                last_modified: metadata.modified().unwrap_or(std::time::SystemTime::UNIX_EPOCH),
+                cached_at: Instant::now(),
+            };
+            
+            self.file_cache.insert(path.clone(), file_meta.clone());
+            Some(file_meta)
+        } else {
+            None
+        }
+    }
+    
+    pub fn clear_cache(&mut self) {
+        self.file_cache.clear();
+    }
+    
+    pub fn set_cache_ttl(&mut self, ttl: Duration) {
+        self.cache_ttl = ttl;
     }
 }
 

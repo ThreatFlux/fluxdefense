@@ -1,0 +1,15 @@
+{
+  "uuid": "acb1ccd5-0dab-4372-a838-f4304a100e3d",
+  "path": "/lib/python3/dist-packages/cloudinit/config/cc_rh_subscription.py",
+  "size": 15577,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.235037163Z",
+  "sha256_hash": "30c8d286ef3a162551b459c392a8e342bbc0b12a583476b96f5f5f61abf1e174",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.913450459Z"
+}

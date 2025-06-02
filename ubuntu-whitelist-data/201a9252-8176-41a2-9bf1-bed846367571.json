@@ -1,0 +1,17 @@
+{
+  "uuid": "201a9252-8176-41a2-9bf1-bed846367571",
+  "path": "/usr/lib/python3.12/test/decimaltestdata/copysign.decTest",
+  "size": 7378,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.990551788Z",
+  "sha256_hash": "dc029f6e776f414660996c23d3522deca07327e8b1d397aca00eb4b06f8fce3f",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.965014121Z"
+}

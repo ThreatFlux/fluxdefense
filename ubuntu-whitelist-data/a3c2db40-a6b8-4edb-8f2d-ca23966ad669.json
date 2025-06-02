@@ -1,0 +1,17 @@
+{
+  "uuid": "a3c2db40-a6b8-4edb-8f2d-ca23966ad669",
+  "path": "/usr/share/applications/org.gnome.eog.desktop",
+  "size": 1021,
+  "modified": "2024-03-31T08:51:33Z",
+  "created": "2025-05-09T05:07:38.596612087Z",
+  "sha256_hash": "5901b42072b8c84011fb1f19aa45448e151fe143662cd7df16f0d94459c1b757",
+  "file_type": {
+    "Other": "desktop"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.545939244Z"
+}

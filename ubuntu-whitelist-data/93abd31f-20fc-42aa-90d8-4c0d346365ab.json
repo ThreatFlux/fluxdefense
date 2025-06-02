@@ -1,0 +1,17 @@
+{
+  "uuid": "93abd31f-20fc-42aa-90d8-4c0d346365ab",
+  "path": "/usr/lib/udev/hwdb.d/60-evdev.hwdb",
+  "size": 25549,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.059786335Z",
+  "sha256_hash": "6bf92cc6bd3bde3a57188d97ed1874565cd93b5660dc9fe8d55276c7b41df936",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.116233515Z"
+}

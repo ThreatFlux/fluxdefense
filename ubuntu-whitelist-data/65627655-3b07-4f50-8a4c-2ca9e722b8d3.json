@@ -1,0 +1,15 @@
+{
+  "uuid": "65627655-3b07-4f50-8a4c-2ca9e722b8d3",
+  "path": "/usr/libexec/gnome-initial-setup",
+  "size": 1308216,
+  "modified": "2024-08-12T18:30:31Z",
+  "created": "2025-05-09T05:07:37.452629545Z",
+  "sha256_hash": "e8c2461abba2ab7412b62514eca262fb0a3f3a3125612e3ac0aa595c5919de6b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.519976768Z"
+}

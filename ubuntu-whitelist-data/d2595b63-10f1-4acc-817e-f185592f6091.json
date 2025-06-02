@@ -1,0 +1,17 @@
+{
+  "uuid": "d2595b63-10f1-4acc-817e-f185592f6091",
+  "path": "/usr/lib/firmware/intel/sof-ipc4-tplg/sof-mtl-hdmi-ssp02.tplg.zst",
+  "size": 1134,
+  "modified": "2025-01-06T07:09:53Z",
+  "created": "2025-05-09T05:08:52.055491029Z",
+  "sha256_hash": "f19e51602ebafa69b17f1bc968819341ad6ea4d8f383dc81f441955de2240aa0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.690629559Z"
+}

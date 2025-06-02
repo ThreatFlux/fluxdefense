@@ -1,0 +1,17 @@
+{
+  "uuid": "b7f04449-af03-409a-9a6a-3b7a8a5d04e8",
+  "path": "/usr/lib/firmware/amdgpu/polaris10_me_2.bin.zst",
+  "size": 6046,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.408543530Z",
+  "sha256_hash": "e253aa91777d78ea2fa47d293d7b2167d03e4bc48631ee9aca2235b064cf8f67",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.851000776Z"
+}

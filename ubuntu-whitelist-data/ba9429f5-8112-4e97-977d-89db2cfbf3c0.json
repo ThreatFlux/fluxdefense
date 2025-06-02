@@ -1,0 +1,17 @@
+{
+  "uuid": "ba9429f5-8112-4e97-977d-89db2cfbf3c0",
+  "path": "/usr/lib/i386-linux-gnu/libdrm.so.2.4.0",
+  "size": 99912,
+  "modified": "2024-08-02T12:33:15Z",
+  "created": "2025-05-09T12:55:58.892870899Z",
+  "sha256_hash": "a9bcb4438247757b809980131e0f3d1faf7d49ed2115d731a9e2460eb9892560",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.990194687Z"
+}

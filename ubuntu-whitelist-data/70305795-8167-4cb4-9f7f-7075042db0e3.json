@@ -1,0 +1,15 @@
+{
+  "uuid": "70305795-8167-4cb4-9f7f-7075042db0e3",
+  "path": "/bin/whiptail",
+  "size": 30888,
+  "modified": "2024-03-31T08:10:06Z",
+  "created": "2025-05-09T05:07:20.884882363Z",
+  "sha256_hash": "bb022a1331456607ed366d2fcc7e41076d8a9c0011b35cca2ef6cf7657b1b345",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.985587279Z"
+}

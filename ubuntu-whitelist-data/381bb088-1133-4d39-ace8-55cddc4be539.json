@@ -1,0 +1,17 @@
+{
+  "uuid": "381bb088-1133-4d39-ace8-55cddc4be539",
+  "path": "/usr/sbin/fsck.fat",
+  "size": 80264,
+  "modified": "2024-03-31T08:49:11Z",
+  "created": "2025-05-09T05:07:38.200618131Z",
+  "sha256_hash": "b50007e331e857d68ebb40985d3c2b625de7f790c8e923a734208b1fe558cda4",
+  "file_type": {
+    "Other": "fat"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.149668319Z"
+}

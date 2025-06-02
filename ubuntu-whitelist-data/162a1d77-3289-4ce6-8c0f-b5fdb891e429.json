@@ -1,0 +1,15 @@
+{
+  "uuid": "162a1d77-3289-4ce6-8c0f-b5fdb891e429",
+  "path": "/lib/google-cloud-sdk/lib/surface/auth/login.py",
+  "size": 20055,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.733931921Z",
+  "sha256_hash": "1b404ca5c8d50684716a06e7c9349c69623326bb995adb6e39acdcb5c89989bb",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.039556235Z"
+}

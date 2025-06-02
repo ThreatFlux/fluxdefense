@@ -1,0 +1,15 @@
+{
+  "uuid": "51b02807-bfcf-42a6-bdeb-94ce83799eed",
+  "path": "/usr/bin/growpart",
+  "size": 29895,
+  "modified": "2022-06-03T10:51:54Z",
+  "created": "2025-05-09T05:07:19.749899683Z",
+  "sha256_hash": "5b52d058d8c6d21494e1f2a2bdeba63c06f217690136def8fb666c29b29a580e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:13.924786957Z"
+}

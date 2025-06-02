@@ -1,0 +1,17 @@
+{
+  "uuid": "af0a5fb1-f609-41a8-a801-9b2ce061d54c",
+  "path": "/lib/firmware/mrvl/usbusb8997_combo_v4.bin.zst",
+  "size": 402794,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.891536840Z",
+  "sha256_hash": "3d2f8718d4839ddd241dde883b27406d6236ee3f137a03004b678e621251cf3b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.876379125Z"
+}

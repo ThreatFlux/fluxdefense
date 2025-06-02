@@ -1,0 +1,17 @@
+{
+  "uuid": "15bcbc1a-eb3f-44fb-91a6-d597c24fd862",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/libmodplug.pc",
+  "size": 278,
+  "modified": "2024-04-18T17:49:26Z",
+  "created": "2025-05-29T11:16:26.682776346Z",
+  "sha256_hash": "c67d0497adebecfebeebfd703602b4d0068b1f6b9b8da90a0bbc787f55abf782",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.059884400Z"
+}

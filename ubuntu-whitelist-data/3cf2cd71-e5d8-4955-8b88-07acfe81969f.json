@@ -1,0 +1,17 @@
+{
+  "uuid": "3cf2cd71-e5d8-4955-8b88-07acfe81969f",
+  "path": "/lib/systemd/system/brltty.service",
+  "size": 613,
+  "modified": "2022-11-21T01:23:37Z",
+  "created": "2025-05-09T05:07:28.297769246Z",
+  "sha256_hash": "07af286c3984464603272a4275f32a77eafeb06380c8271b5ac44cfbe6482a1e",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.101162798Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "508c1c08-e870-4d14-9915-16ce24cd3b14",
+  "path": "/usr/lib/x86_64-linux-gnu/perl5/5.38/HTML/LinkExtor.pm",
+  "size": 4504,
+  "modified": "2023-01-31T03:12:33Z",
+  "created": "2025-05-09T05:07:36.877638319Z",
+  "sha256_hash": "5534a9a3684b8fca01c06b15da169d909ac527041a40711a876856868779901d",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.613774154Z"
+}

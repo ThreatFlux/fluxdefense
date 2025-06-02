@@ -1,0 +1,17 @@
+{
+  "uuid": "c0eac070-71a0-4d68-b398-06ee0126e165",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-cbdlli.ali",
+  "size": 40420,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.095344530Z",
+  "sha256_hash": "a71533ad5b0c76b9e5f495c9d791e02f91a0e456aa3f7983bcad9fc20fe6c2c3",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.863868554Z"
+}

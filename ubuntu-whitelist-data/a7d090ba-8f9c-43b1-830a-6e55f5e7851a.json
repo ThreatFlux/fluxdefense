@@ -1,0 +1,17 @@
+{
+  "uuid": "a7d090ba-8f9c-43b1-830a-6e55f5e7851a",
+  "path": "/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0",
+  "size": 14552,
+  "modified": "2024-04-18T14:21:22Z",
+  "created": "2025-05-09T05:07:35.149664688Z",
+  "sha256_hash": "ad78a7b22409685ca82e54346c2b9465d697f303e69e74a9c1693bb206e319df",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.037997169Z"
+}

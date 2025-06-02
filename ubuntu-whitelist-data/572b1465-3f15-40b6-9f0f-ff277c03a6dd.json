@@ -1,0 +1,17 @@
+{
+  "uuid": "572b1465-3f15-40b6-9f0f-ff277c03a6dd",
+  "path": "/usr/lib/llvm-18/include/clang/Sema/RISCVIntrinsicManager.h",
+  "size": 1270,
+  "modified": "2023-06-30T07:30:45Z",
+  "created": "2025-05-12T13:34:31.548533331Z",
+  "sha256_hash": "bcb032f0c364be60d5fdf36f80f7aad9efd99c3d24e0916094450cdc07a21a1f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.470478166Z"
+}

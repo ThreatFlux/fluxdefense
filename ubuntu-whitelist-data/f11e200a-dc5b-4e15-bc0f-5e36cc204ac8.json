@@ -1,0 +1,15 @@
+{
+  "uuid": "f11e200a-dc5b-4e15-bc0f-5e36cc204ac8",
+  "path": "/lib/x86_64-linux-gnu/wireplumber-0.4/libwireplumber-module-default-nodes.so",
+  "size": 26864,
+  "modified": "2024-03-31T08:33:26Z",
+  "created": "2025-05-09T05:07:37.319631574Z",
+  "sha256_hash": "75e0731431fae98db80331c91a8856cc359cfea98424433d3fced57beee3a502",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.134293860Z"
+}

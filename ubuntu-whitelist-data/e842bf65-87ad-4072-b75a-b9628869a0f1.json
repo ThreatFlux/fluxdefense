@@ -1,0 +1,15 @@
+{
+  "uuid": "e842bf65-87ad-4072-b75a-b9628869a0f1",
+  "path": "/lib/python3.12/lib-dynload/_bz2.cpython-312-x86_64-linux-gnu.so",
+  "size": 32112,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:10:59.925539323Z",
+  "sha256_hash": "60f9a09d17b1c67783377d52e3ef0457a3e086f41fdb762c77b44ad36005ebbf",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.216821624Z"
+}

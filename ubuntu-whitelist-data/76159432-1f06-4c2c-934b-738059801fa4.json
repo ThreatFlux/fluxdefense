@@ -1,0 +1,17 @@
+{
+  "uuid": "76159432-1f06-4c2c-934b-738059801fa4",
+  "path": "/lib/grub/x86_64-efi/usbserial_pl2303.mod",
+  "size": 3840,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.840707972Z",
+  "sha256_hash": "46fce5061a6f6831c5febd4cf9c2667953d28682da140377aa0faca66dca1623",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.024685657Z"
+}

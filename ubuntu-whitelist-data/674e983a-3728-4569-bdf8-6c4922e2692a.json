@@ -1,0 +1,17 @@
+{
+  "uuid": "674e983a-3728-4569-bdf8-6c4922e2692a",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/cairo-xcb.pc",
+  "size": 207,
+  "modified": "2024-04-16T13:33:30Z",
+  "created": "2025-05-29T11:16:06.229057020Z",
+  "sha256_hash": "bee77aa2ea69c6eb1ba7781c59633d8411af8110875fdf9c7b0084e2a6518ca1",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.105099270Z"
+}

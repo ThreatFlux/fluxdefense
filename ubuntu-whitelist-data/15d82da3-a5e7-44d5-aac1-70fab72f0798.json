@@ -1,0 +1,17 @@
+{
+  "uuid": "15d82da3-a5e7-44d5-aac1-70fab72f0798",
+  "path": "/lib/libreoffice/program/opengl/vortexVertexShader.glsl",
+  "size": 5008,
+  "modified": "2024-10-29T11:14:30Z",
+  "created": "2025-05-09T05:11:19.580239304Z",
+  "sha256_hash": "7d6cb0b0da9d6f4e5af97f219b72639e826d330282095cb01c95cd979a87bf10",
+  "file_type": {
+    "Other": "glsl"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:50.103328361Z"
+}

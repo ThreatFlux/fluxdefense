@@ -1,0 +1,17 @@
+{
+  "uuid": "039cc742-de96-4cf5-b32a-85b3ae58cc7b",
+  "path": "/lib/grub/x86_64-efi/ahci.mod",
+  "size": 22192,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.800708582Z",
+  "sha256_hash": "0af893a36327a53ad5b6445aaf6fcf36eb24f1c65ee10e5fbaf2016e09d57765",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.030582107Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "cbd7b5d2-ae52-4a08-a849-0b899328bb17",
+  "path": "/lib/systemd/system/plymouth-halt.service",
+  "size": 475,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:27.491960985Z",
+  "sha256_hash": "0ce121d741ce9164a8243412f462838b3511fa6ebf90f7a1d89667146630548d",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.108345167Z"
+}

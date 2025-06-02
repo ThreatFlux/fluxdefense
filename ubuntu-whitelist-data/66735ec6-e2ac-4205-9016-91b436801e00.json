@@ -1,0 +1,17 @@
+{
+  "uuid": "66735ec6-e2ac-4205-9016-91b436801e00",
+  "path": "/lib/llvm-18/include/clang/Basic/SyncScope.h",
+  "size": 8835,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.532533542Z",
+  "sha256_hash": "5b0ef05f88bf21f5bc8421b342af4cff5ba2ced998b8262ca29c15fadcdd1afb",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.099535235Z"
+}

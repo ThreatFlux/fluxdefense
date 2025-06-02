@@ -1,0 +1,15 @@
+{
+  "uuid": "46aa3314-34ea-4c6d-8010-6255c37e2b7b",
+  "path": "/usr/lib/x86_64-linux-gnu/colord-plugins/libcolord_sensor_camera.so",
+  "size": 18576,
+  "modified": "2024-03-31T07:30:41Z",
+  "created": "2025-05-09T05:07:35.183664169Z",
+  "sha256_hash": "18927fb24aa7190d226926e6754c5c009dbb5a8f4e194ed3ed520f82a23817c6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.126336694Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "95afaacf-1851-40b1-aa3c-4f6e36501668",
+  "path": "/usr/lib/systemd/user/gnome-session-failed.service",
+  "size": 702,
+  "modified": "2024-04-15T15:49:55Z",
+  "created": "2025-05-09T05:07:28.305769124Z",
+  "sha256_hash": "4a13a84e80fa6be7f7daf74a21546022632e140018ba856e7a775dc302b64e50",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.493940742Z"
+}

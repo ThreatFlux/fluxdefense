@@ -1,0 +1,17 @@
+{
+  "uuid": "dac20bb5-e16e-4abd-bce8-974f981d3e13",
+  "path": "/lib/systemd/system/kexec.target",
+  "size": 549,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "2784a212e430f7932572e5c2989a15738d6c7302eecf1d5c59ec79924af91e94",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.113571948Z"
+}

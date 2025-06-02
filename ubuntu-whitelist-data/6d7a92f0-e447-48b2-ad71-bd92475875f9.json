@@ -1,0 +1,17 @@
+{
+  "uuid": "6d7a92f0-e447-48b2-ad71-bd92475875f9",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/IO/Select.pm",
+  "size": 9307,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.518591327Z",
+  "sha256_hash": "51dc411f53b0591d5adec0499691d4e2aa87e315cdd4edbccb8abd9d17af25e9",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.574697435Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "14493ec4-b97e-4867-b7d0-0e16d4618029",
+  "path": "/lib/x86_64-linux-gnu/libndr-nbt.so.0.0.1",
+  "size": 166192,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:31.649718096Z",
+  "sha256_hash": "88519634c396651d63bd92503ef84d2678bda67b3bd67bc1e37d9c72abb391e6",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.177521689Z"
+}

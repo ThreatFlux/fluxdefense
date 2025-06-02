@@ -1,0 +1,17 @@
+{
+  "uuid": "6f0fe0e0-91dd-4f80-9afe-55f0603d870d",
+  "path": "/lib/i386-linux-gnu/libdl.so.2",
+  "size": 13672,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.291663248Z",
+  "sha256_hash": "4ab5b96b4ad552d5abe4041cadfb17aa8bd52c2a6810b0aeea8941f756b35b82",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:48.441285200Z"
+}

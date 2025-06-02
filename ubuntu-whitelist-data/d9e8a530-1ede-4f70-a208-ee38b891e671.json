@@ -1,0 +1,15 @@
+{
+  "uuid": "d9e8a530-1ede-4f70-a208-ee38b891e671",
+  "path": "/usr/sbin/virtlockd",
+  "size": 94112,
+  "modified": "2025-03-13T16:25:50Z",
+  "created": "2025-05-20T14:31:33.106814732Z",
+  "sha256_hash": "b62073aef0df741e9a15d7417cb66abae5132eefbf9a6622b91daacccece6028",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.237577665Z"
+}

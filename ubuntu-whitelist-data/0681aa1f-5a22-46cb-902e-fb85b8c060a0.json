@@ -1,0 +1,17 @@
+{
+  "uuid": "0681aa1f-5a22-46cb-902e-fb85b8c060a0",
+  "path": "/usr/lib/firmware/amdgpu/gc_11_0_3_mec.bin.zst",
+  "size": 77815,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.396543696Z",
+  "sha256_hash": "2a8f53dc5c0e1955b10c97a8c97b2bc0b4f18a6646219d2d8cea7686fc64e066",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.856362038Z"
+}

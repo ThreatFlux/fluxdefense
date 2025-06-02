@@ -1,0 +1,17 @@
+{
+  "uuid": "6137efbf-cc68-4073-ba40-6017409c78d0",
+  "path": "/usr/lib/modules/6.11.0-25-generic/kernel/lib/pm-notifier-error-inject.ko.zst",
+  "size": 2585,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.134459300Z",
+  "sha256_hash": "f1385dacf7fe1498cad889532f4bdb7dd2fb4f9ddb6a680d73e7bcf4aac5f439",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.043599850Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "5c8cc63b-723b-4153-9417-d3b622cef701",
+  "path": "/lib/x86_64-linux-gnu/libbpf.so.1.3.0",
+  "size": 387728,
+  "modified": "2024-03-31T07:44:47Z",
+  "created": "2025-05-09T05:07:29.189755635Z",
+  "sha256_hash": "0e9998e17e38d78e5ce953f89a5e6a7c8b457d3e1bfe71e3ec5a1cfb05bbd1c3",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:12.689646914Z"
+}

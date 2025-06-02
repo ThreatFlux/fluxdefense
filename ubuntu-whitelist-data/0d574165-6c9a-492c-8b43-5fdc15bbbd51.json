@@ -1,0 +1,15 @@
+{
+  "uuid": "0d574165-6c9a-492c-8b43-5fdc15bbbd51",
+  "path": "/sbin/pdata_tools",
+  "size": 1430568,
+  "modified": "2024-07-01T18:48:29Z",
+  "created": "2025-05-09T05:56:58.525541687Z",
+  "sha256_hash": "acaff72e57d75c198f14cec301b22a5dfecfd5121b86ea2593a16fa4147be3eb",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.034016419Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "9741e96f-b3bd-41b9-9150-b6c0d933ff0d",
+  "path": "/lib/snapd/snap-device-helper",
+  "size": 18664,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.450026703Z",
+  "sha256_hash": "a85b8350c1257c81a72ff151d1db2566cd5a44941e2fd05c9d25ed14707fb195",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.987864145Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "ae245e38-9ffe-4000-98a6-9537e459b9f4",
+  "path": "/lib/llvm-18/include/clang/Analysis/AnalysisDeclContext.h",
+  "size": 16861,
+  "modified": "2023-06-29T07:31:24Z",
+  "created": "2025-05-12T13:34:31.523533660Z",
+  "sha256_hash": "59e3da9d7269b4233009dc22da3d619d85c1671d7b299db2bb8a11ba752b7b07",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.187635831Z"
+}

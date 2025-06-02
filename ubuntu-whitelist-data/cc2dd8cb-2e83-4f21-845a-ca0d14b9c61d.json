@@ -1,0 +1,15 @@
+{
+  "uuid": "cc2dd8cb-2e83-4f21-845a-ca0d14b9c61d",
+  "path": "/lib/google-cloud-sdk/lib/third_party/websocket/_handshake.py",
+  "size": 6244,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.307939158Z",
+  "sha256_hash": "305135a1a088a062776e739b26751fd141cd8322251924df9f1a7abe4b2eb28a",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.015301295Z"
+}

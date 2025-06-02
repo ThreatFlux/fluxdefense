@@ -1,0 +1,15 @@
+{
+  "uuid": "f1e45bfa-607d-409a-9f09-f51b522ab241",
+  "path": "/sbin/deluser",
+  "size": 18977,
+  "modified": "2023-07-05T17:42:39Z",
+  "created": "2025-05-09T05:07:38.160618741Z",
+  "sha256_hash": "01f189bd336d46f0943ec421c474eb66694b518fb02c9eb52e7db2c0c3c37e1a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.782118217Z"
+}

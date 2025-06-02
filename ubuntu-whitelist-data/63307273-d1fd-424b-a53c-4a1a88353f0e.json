@@ -1,0 +1,15 @@
+{
+  "uuid": "63307273-d1fd-424b-a53c-4a1a88353f0e",
+  "path": "/sbin/ModemManager",
+  "size": 2165576,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:38.100619656Z",
+  "sha256_hash": "fd6ed35189e324f45d83739499e8d8ecdd986039e97f8a9f7d9cb138a7c747df",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.956050038Z"
+}

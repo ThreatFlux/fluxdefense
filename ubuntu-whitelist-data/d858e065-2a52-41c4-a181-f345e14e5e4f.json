@@ -1,0 +1,15 @@
+{
+  "uuid": "d858e065-2a52-41c4-a181-f345e14e5e4f",
+  "path": "/usr/lib/x86_64-linux-gnu/rhythmbox/plugins/ipod/libipod.so",
+  "size": 108848,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:36.991636579Z",
+  "sha256_hash": "35509278b68ee82b02a1a4c9a16191b5a9c20fa3950d181971936aee5ef980ee",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.573312740Z"
+}

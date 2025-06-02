@@ -1,0 +1,15 @@
+{
+  "uuid": "bb675bba-5371-4e06-ac3b-84d66e3678a2",
+  "path": "/sbin/aa-status",
+  "size": 40000,
+  "modified": "2025-03-19T18:09:43Z",
+  "created": "2025-05-09T05:24:25.755938123Z",
+  "sha256_hash": "82a15c1e027390655ea5b409eb1de1358115b23a6944677ed8fc2c5e2bff6bbb",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.735439778Z"
+}

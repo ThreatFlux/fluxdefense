@@ -1,0 +1,17 @@
+{
+  "uuid": "d79f5e7c-c796-4ab9-8027-d6d43cd2af51",
+  "path": "/lib/x86_64-linux-gnu/libref_array.so.1.2.1",
+  "size": 14408,
+  "modified": "2024-03-31T07:32:33Z",
+  "created": "2025-05-09T05:07:32.064711764Z",
+  "sha256_hash": "80c70733792da128f0d3fad529e115809c1a8ecd6a6b0279bf45b2093cf6fc38",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.624101152Z"
+}

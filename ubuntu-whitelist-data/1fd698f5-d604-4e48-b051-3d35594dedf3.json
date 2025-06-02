@@ -1,0 +1,17 @@
+{
+  "uuid": "1fd698f5-d604-4e48-b051-3d35594dedf3",
+  "path": "/usr/lib/grub/x86_64-efi/scsi.mod",
+  "size": 7232,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.838708002Z",
+  "sha256_hash": "1ad9cfd58bae34ec3b529ae17118ef1cf98186adb3f05f31ef6a6339adfb0822",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.463420006Z"
+}

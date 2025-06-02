@@ -1,0 +1,17 @@
+{
+  "uuid": "83f6f979-801e-4d42-a06f-caef8dfddb13",
+  "path": "/lib/ipxe/qemu/pxe-rtl8139.rom",
+  "size": 92672,
+  "modified": "2024-04-16T21:17:04Z",
+  "created": "2025-05-09T05:56:50.419632725Z",
+  "sha256_hash": "7113631bc627ffab70546a006f16cf794a238630027f97f210b893e028fd51b0",
+  "file_type": {
+    "Other": "rom"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.444933963Z"
+}

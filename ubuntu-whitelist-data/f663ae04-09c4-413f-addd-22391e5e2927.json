@@ -1,0 +1,17 @@
+{
+  "uuid": "f663ae04-09c4-413f-addd-22391e5e2927",
+  "path": "/lib/llvm-18/include/clang/AST/CommentParser.h",
+  "size": 3258,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.515533766Z",
+  "sha256_hash": "ab7e93b87ace2f84f3e85aa3162e4c044ed0031108cfee6a4c09670a67afc8cd",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.991939706Z"
+}

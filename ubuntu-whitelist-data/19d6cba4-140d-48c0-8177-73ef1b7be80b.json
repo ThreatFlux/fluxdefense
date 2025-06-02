@@ -1,0 +1,17 @@
+{
+  "uuid": "19d6cba4-140d-48c0-8177-73ef1b7be80b",
+  "path": "/lib/systemd/system/systemd-udev-settle.service",
+  "size": 863,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.044786143Z",
+  "sha256_hash": "363f7496d0613fd14f020629e7057f54afe84c9c6d2b4d94153ac09f0aee8f5c",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.112620854Z"
+}

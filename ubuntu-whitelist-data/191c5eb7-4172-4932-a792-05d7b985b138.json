@@ -1,0 +1,17 @@
+{
+  "uuid": "191c5eb7-4172-4932-a792-05d7b985b138",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/Digest/SHA.pm",
+  "size": 22322,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.513591403Z",
+  "sha256_hash": "9007e730ef20e390060fdcac2e13f25dff89476ccb95264f0adaa2b8d258d49c",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.463133953Z"
+}

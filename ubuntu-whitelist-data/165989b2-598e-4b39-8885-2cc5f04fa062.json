@@ -1,0 +1,17 @@
+{
+  "uuid": "165989b2-598e-4b39-8885-2cc5f04fa062",
+  "path": "/usr/lib/x86_64-linux-gnu/libmpc.so.3.3.1",
+  "size": 134440,
+  "modified": "2024-10-02T12:40:51Z",
+  "created": "2025-05-09T05:07:31.522720034Z",
+  "sha256_hash": "91d2b2b0b794028c733431e01acc227ff39ee289384fdf22869c8b42ad3aaa3b",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.932027638Z"
+}

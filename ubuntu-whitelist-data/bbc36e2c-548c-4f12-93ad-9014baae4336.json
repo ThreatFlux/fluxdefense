@@ -1,0 +1,15 @@
+{
+  "uuid": "bbc36e2c-548c-4f12-93ad-9014baae4336",
+  "path": "/lib/libreoffice/program/libdeploymentgui.so",
+  "size": 399968,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:19.838235366Z",
+  "sha256_hash": "c78a291d1f14588aa33e0df4abd483f061fc2e2922074920bc0dc2c3428ff180",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:49.638787920Z"
+}

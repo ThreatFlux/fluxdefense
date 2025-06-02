@@ -1,0 +1,15 @@
+{
+  "uuid": "a1c5c75e-f6bd-424d-875d-90cb6b1cd09c",
+  "path": "/usr/lib/evolution-data-server/registry-modules/module-webdav-backend.so",
+  "size": 14496,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:21.658870553Z",
+  "sha256_hash": "2db0a4681326b47401ee0cfc0ea84d1b646ee46b5c0617963110d2c57f7eb20c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.049019054Z"
+}

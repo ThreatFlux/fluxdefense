@@ -1,0 +1,17 @@
+{
+  "uuid": "c1de8b08-d8fc-41a9-b6d1-555847102989",
+  "path": "/usr/lib/systemd/system/network-pre.target",
+  "size": 490,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "014233df77916a140d401445cf513f23d0695570ecd544b63405e5d801dda269",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.470848733Z"
+}

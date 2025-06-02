@@ -1,0 +1,15 @@
+{
+  "uuid": "e5c0709b-7bd6-46b3-84f7-2607c54fb4f0",
+  "path": "/bin/gio",
+  "size": 104856,
+  "modified": "2025-05-15T12:06:49Z",
+  "created": "2025-05-27T10:16:57.350734852Z",
+  "sha256_hash": "da38b7ad449db5d7ec38d067aee5cbb14e218f56ee876e02adef18e09aafe1ba",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.177659228Z"
+}

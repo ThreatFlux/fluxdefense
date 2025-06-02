@@ -1,0 +1,15 @@
+{
+  "uuid": "0d8b23ef-6bce-4a48-834e-9a01fa69a2b0",
+  "path": "/usr/lib/cloud-init/hook-hotplug",
+  "size": 1010,
+  "modified": "2025-04-02T15:09:15Z",
+  "created": "2025-05-09T05:24:33.233037137Z",
+  "sha256_hash": "a55867f1671a665581c625002db2a57bf14d973794b43e7353f557f9dfcf6927",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.608820019Z"
+}

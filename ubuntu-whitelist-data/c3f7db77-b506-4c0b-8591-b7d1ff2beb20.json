@@ -1,0 +1,17 @@
+{
+  "uuid": "c3f7db77-b506-4c0b-8591-b7d1ff2beb20",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/readability/RedundantCastingCheck.h",
+  "size": 1526,
+  "modified": "2024-01-24T12:45:36Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "fbd4810df5a483dee0678e2007e4bfc61fa4bc90eb82bdcab2be1d4c5ff87893",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.286867483Z"
+}

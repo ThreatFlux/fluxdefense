@@ -1,0 +1,15 @@
+{
+  "uuid": "bfc1dc08-85cb-4afe-8eb9-7f05b1f50f9d",
+  "path": "/lib/x86_64-linux-gnu/NetworkManager/1.46.0/libnm-device-plugin-wwan.so",
+  "size": 35120,
+  "modified": "2024-10-23T11:04:42Z",
+  "created": "2025-05-09T05:07:35.174664306Z",
+  "sha256_hash": "1ce27ce5f0e320368e25db38444985a17d68fc5bf9780d9de1cbb781ae7bfab4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.720552850Z"
+}

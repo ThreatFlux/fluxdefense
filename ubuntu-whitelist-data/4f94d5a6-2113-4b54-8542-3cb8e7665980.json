@@ -1,0 +1,15 @@
+{
+  "uuid": "4f94d5a6-2113-4b54-8542-3cb8e7665980",
+  "path": "/lib/x86_64-linux-gnu/cryptsetup/libcryptsetup-token-systemd-fido2.so",
+  "size": 18736,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.527779534Z",
+  "sha256_hash": "d96a554373d52d4e0866fb088d3f392bf84f737529654147fb82b94c50ca0471",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.491625631Z"
+}

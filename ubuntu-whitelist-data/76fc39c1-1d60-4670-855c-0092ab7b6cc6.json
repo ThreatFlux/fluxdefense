@@ -1,0 +1,17 @@
+{
+  "uuid": "76fc39c1-1d60-4670-855c-0092ab7b6cc6",
+  "path": "/lib/x86_64-linux-gnu/libgmp.so.10.5.0",
+  "size": 534896,
+  "modified": "2024-10-02T12:40:51Z",
+  "created": "2025-05-09T05:07:29.819746021Z",
+  "sha256_hash": "0ccdfb6d6f5c039465f6d002cf7e4c072d48ac6a2cffc8dd6c748dec31592804",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:32.899362388Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "a635ee3e-0d22-4fe5-a028-7b5362ef2cae",
+  "path": "/usr/lib/python3/dist-packages/apport/hookutils.py",
+  "size": 36269,
+  "modified": "2025-05-23T12:41:47Z",
+  "created": "2025-05-30T21:04:51.639610648Z",
+  "sha256_hash": "12fcd3c7128b1340b21f79db9dcaa7b871576e9610d56f6a51d98fb7e7178b70",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.075924014Z"
+}

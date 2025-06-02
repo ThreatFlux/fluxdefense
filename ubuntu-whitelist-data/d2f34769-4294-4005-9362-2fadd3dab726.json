@@ -1,0 +1,15 @@
+{
+  "uuid": "d2f34769-4294-4005-9362-2fadd3dab726",
+  "path": "/usr/lib/llvm-18/lib/libclangDaemonTweaks.a",
+  "size": 3262254,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.690531461Z",
+  "sha256_hash": "8d9d4061daa27f5a20a72c1ca8d10e1ef1e75f8f84d0f767e468f1717b522947",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.346907318Z"
+}

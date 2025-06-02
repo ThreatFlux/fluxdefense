@@ -1,0 +1,17 @@
+{
+  "uuid": "22213de4-2f6b-454d-9e20-7846fb2bbfb9",
+  "path": "/lib/firmware/nvidia/gv100/gr/fecs_inst.bin.zst",
+  "size": 13607,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.941536147Z",
+  "sha256_hash": "c6c1d99d490acdd1259b60614635f6ef9b3ff4dd62b9f3eb2fd7688c49b95158",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.425789637Z"
+}

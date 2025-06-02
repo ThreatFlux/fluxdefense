@@ -1,0 +1,15 @@
+{
+  "uuid": "a36b7480-8c68-4fcd-9e08-a50362e5f6ae",
+  "path": "/usr/sbin/nfsdist-bpfcc",
+  "size": 5068,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "7ac67e95d288581ea25bae1d8518d9f4126ad56cc9f15829256735a9c9c6a14f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.172128824Z"
+}

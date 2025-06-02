@@ -1,0 +1,15 @@
+{
+  "uuid": "c884e76c-1b92-4c7f-808b-612f17072c27",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstspectrum.so",
+  "size": 30968,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.776655120Z",
+  "sha256_hash": "6039146fc3017e710e72c6a86d3b0f877b421c148bd74ad958d4558370beaa33",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.908787199Z"
+}

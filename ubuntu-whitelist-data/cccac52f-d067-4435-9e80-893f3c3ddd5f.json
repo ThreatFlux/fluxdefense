@@ -1,0 +1,17 @@
+{
+  "uuid": "cccac52f-d067-4435-9e80-893f3c3ddd5f",
+  "path": "/lib/x86_64-linux-gnu/libyajl.so.2.1.0",
+  "size": 43312,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:35.159664535Z",
+  "sha256_hash": "e2f03ac7f73cdef2d6600bdc0e9ad728a85b3febc45ef0079f9d97921d3c21aa",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.421654207Z"
+}

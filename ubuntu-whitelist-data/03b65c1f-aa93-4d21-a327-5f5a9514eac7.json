@@ -1,0 +1,17 @@
+{
+  "uuid": "03b65c1f-aa93-4d21-a327-5f5a9514eac7",
+  "path": "/lib/binfmt.d/llvm-18-runtime.binfmt.conf",
+  "size": 48,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:34.558493695Z",
+  "sha256_hash": "ef6c33f69793acf981e249e497074810f62ba15053377f3e93c622f76ed05e8a",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.737161619Z"
+}

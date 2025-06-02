@@ -1,0 +1,15 @@
+{
+  "uuid": "cb94bf96-d318-47ba-bcb7-0a6cf2b906d0",
+  "path": "/usr/lib/x86_64-linux-gnu/qemu/hw-usb-redirect.so",
+  "size": 64688,
+  "modified": "2025-03-13T16:15:00Z",
+  "created": "2025-05-22T16:56:50.592978675Z",
+  "sha256_hash": "3f69ce871ea599e1566ba28720e67df798695487ace42fd7a2519cabd20217db",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.902645855Z"
+}

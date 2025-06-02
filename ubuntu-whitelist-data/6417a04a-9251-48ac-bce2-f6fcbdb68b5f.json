@@ -1,0 +1,15 @@
+{
+  "uuid": "6417a04a-9251-48ac-bce2-f6fcbdb68b5f",
+  "path": "/usr/sbin/on_ac_power",
+  "size": 2228,
+  "modified": "2022-08-20T17:35:03Z",
+  "created": "2025-05-09T05:07:38.385615307Z",
+  "sha256_hash": "71df780c5048354d192175751686be1fb12aa57556b4b91eb9c4d07bb0991d67",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.677823371Z"
+}

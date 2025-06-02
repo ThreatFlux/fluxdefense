@@ -1,0 +1,17 @@
+{
+  "uuid": "68088acb-869b-46eb-bd1b-cd25ac091a73",
+  "path": "/lib/firmware/intel/sof-ipc4-tplg/sof-imx8mp-wm8960.tplg.zst",
+  "size": 659,
+  "modified": "2025-01-06T07:09:53Z",
+  "created": "2025-05-09T05:08:52.055491029Z",
+  "sha256_hash": "5d6d20a0b6f4fac5a411462b0b540efc27ee9f64cfa0e144778bf3f44337d4c3",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.065056194Z"
+}

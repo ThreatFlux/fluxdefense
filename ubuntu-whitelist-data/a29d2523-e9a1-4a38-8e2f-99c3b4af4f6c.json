@@ -1,0 +1,17 @@
+{
+  "uuid": "a29d2523-e9a1-4a38-8e2f-99c3b4af4f6c",
+  "path": "/lib/firmware/amdgpu/hawaii_rlc.bin.zst",
+  "size": 2467,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.401543627Z",
+  "sha256_hash": "eb76603bb7bdd108a6a2593db8ea0f71fe38268a0f29dc2e00de9f2141099dcc",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.850467510Z"
+}

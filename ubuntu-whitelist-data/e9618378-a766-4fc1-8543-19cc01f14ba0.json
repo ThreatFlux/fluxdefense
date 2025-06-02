@@ -1,0 +1,17 @@
+{
+  "uuid": "e9618378-a766-4fc1-8543-19cc01f14ba0",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/objc/MissingHashCheck.h",
+  "size": 1322,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "f009aee9b4bc78d96a943a44067a2ee35db33a09aaccd456f917ccd6cf879f2f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.245782728Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "0297e233-d040-4be0-a066-9b51d9199848",
+  "path": "/usr/lib/firmware/radeon/kaveri_mec.bin.zst",
+  "size": 8711,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.063534457Z",
+  "sha256_hash": "796c2ac5ae7546b3c75f9a8915411e101b191b8e958da9ef159a9d4b1cbf49c9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.393081799Z"
+}

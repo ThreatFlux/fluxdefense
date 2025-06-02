@@ -1,0 +1,17 @@
+{
+  "uuid": "392ec3c7-dd32-41ba-849b-4627e222af5a",
+  "path": "/lib/x86_64-linux-gnu/perl-base/Scalar/Util.pm",
+  "size": 1096,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.353578582Z",
+  "sha256_hash": "69411b613a3195cdd68322bc9d40b4fd6bc04ecce827c7c61020f50347d4a43e",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.904967914Z"
+}

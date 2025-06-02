@@ -1,0 +1,15 @@
+{
+  "uuid": "4eb08890-7a6c-4a50-bbb3-62224446eec4",
+  "path": "/usr/lib/llvm-18/lib/libLLVMObjCARCOpts.a",
+  "size": 263814,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.939462336Z",
+  "sha256_hash": "39954904e31a45f57c9bea7fea8e64a436925cdef1131c89024c6185e9d32667",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:34.001319922Z"
+}

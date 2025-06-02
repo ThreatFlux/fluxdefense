@@ -1,0 +1,15 @@
+{
+  "uuid": "eb5eac33-16a4-44ca-a6a3-1e82d2cbcfe1",
+  "path": "/bin/dpkg-mergechangelogs",
+  "size": 9082,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T06:33:31.737357690Z",
+  "sha256_hash": "72d5bb1f9c93730cf1a67e1d93065b7582a9ef3ff9013d89e07071f47fba13e5",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.676218634Z"
+}

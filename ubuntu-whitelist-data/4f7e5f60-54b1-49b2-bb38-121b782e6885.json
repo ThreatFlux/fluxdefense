@@ -1,0 +1,15 @@
+{
+  "uuid": "4f7e5f60-54b1-49b2-bb38-121b782e6885",
+  "path": "/usr/bin/xsm",
+  "size": 101080,
+  "modified": "2024-03-31T17:26:54Z",
+  "created": "2025-05-09T05:07:20.943881463Z",
+  "sha256_hash": "a90dd31b6930d130267f9c44788f34407a89199d80cf343988de49ecd66c8b96",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:11.643655413Z"
+}

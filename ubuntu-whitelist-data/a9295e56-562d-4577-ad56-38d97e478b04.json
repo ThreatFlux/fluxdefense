@@ -1,0 +1,17 @@
+{
+  "uuid": "a9295e56-562d-4577-ad56-38d97e478b04",
+  "path": "/lib/x86_64-linux-gnu/caca/libx11_plugin.so.0.0.0",
+  "size": 14104,
+  "modified": "2024-03-31T07:45:02Z",
+  "created": "2025-05-09T05:07:35.182664184Z",
+  "sha256_hash": "2a8430a28b46bed7c1d18faada782cc8aaefcc630a2f7d2d2c0add79a991c181",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.187190003Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "46d352b5-e4f0-4afa-b981-64c185950536",
+  "path": "/usr/lib/llvm-18/bin/verify-uselistorder",
+  "size": 39704,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.090486688Z",
+  "sha256_hash": "13e5e7d7739bc1e5e6b9babdc8fab90b69da2abd1f602f89b1266ed448b63f41",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:27.087033106Z"
+}

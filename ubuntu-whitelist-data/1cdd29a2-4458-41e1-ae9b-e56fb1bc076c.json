@@ -1,0 +1,15 @@
+{
+  "uuid": "1cdd29a2-4458-41e1-ae9b-e56fb1bc076c",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstauparse.so",
+  "size": 31120,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.771655196Z",
+  "sha256_hash": "89827e8c890838197c84fca38c69de65b7c56b2ff0d9ba3fe615a63286a2d6de",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.876012505Z"
+}

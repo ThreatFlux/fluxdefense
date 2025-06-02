@@ -1,0 +1,15 @@
+{
+  "uuid": "578dff6b-6fb1-489a-99b6-c8e734edd410",
+  "path": "/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-ericsson-mbm.so",
+  "size": 55616,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.160664520Z",
+  "sha256_hash": "82d5297d9c0eb2b0caa676dfa30fa3d922051a865cc0ec90735db38d69f5985b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.571484164Z"
+}

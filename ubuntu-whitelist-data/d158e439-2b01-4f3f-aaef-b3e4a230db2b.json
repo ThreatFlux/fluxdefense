@@ -1,0 +1,15 @@
+{
+  "uuid": "d158e439-2b01-4f3f-aaef-b3e4a230db2b",
+  "path": "/usr/lib/python3.12/lib-dynload/_posixshmem.cpython-312-x86_64-linux-gnu.so",
+  "size": 15080,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:10:59.929539262Z",
+  "sha256_hash": "6be471398277c3019b2f4b7693d1b8c251c3cd40a6b91fea737f36a0838bb9d1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.977219192Z"
+}

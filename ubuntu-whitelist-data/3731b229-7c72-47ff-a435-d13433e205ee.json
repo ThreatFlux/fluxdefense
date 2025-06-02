@@ -1,0 +1,15 @@
+{
+  "uuid": "3731b229-7c72-47ff-a435-d13433e205ee",
+  "path": "/usr/lib/google-cloud-sdk/platform/gsutil/gslib/wildcard_iterator.py",
+  "size": 38631,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.817930494Z",
+  "sha256_hash": "768ba55e84e8b60a8cee97bfa5005a9a5d3132e28cb14ed5be9082afadf8fa6b",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.574950067Z"
+}

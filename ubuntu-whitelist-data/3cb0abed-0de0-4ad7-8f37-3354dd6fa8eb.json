@@ -1,0 +1,17 @@
+{
+  "uuid": "3cb0abed-0de0-4ad7-8f37-3354dd6fa8eb",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-calari.ali",
+  "size": 2897,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.095344530Z",
+  "sha256_hash": "681745b3172f67da013ca6446d4b458a1871dc9e971879be464d2554653dc36b",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.597617075Z"
+}

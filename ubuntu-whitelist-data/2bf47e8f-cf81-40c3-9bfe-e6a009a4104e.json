@@ -1,0 +1,17 @@
+{
+  "uuid": "2bf47e8f-cf81-40c3-9bfe-e6a009a4104e",
+  "path": "/lib/python3.12/test/recursion.tar",
+  "size": 516,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.001551644Z",
+  "sha256_hash": "d80f55ac66a2570c8a19d2b1dad7c057cf4c944d9c2f8adaf5bf6c8539881e13",
+  "file_type": {
+    "Other": "tar"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.547916657Z"
+}

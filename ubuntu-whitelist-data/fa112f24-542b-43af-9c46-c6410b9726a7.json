@@ -1,0 +1,15 @@
+{
+  "uuid": "fa112f24-542b-43af-9c46-c6410b9726a7",
+  "path": "/usr/lib/byobu/disk_io",
+  "size": 3065,
+  "modified": "2024-02-10T17:03:36Z",
+  "created": "2025-05-23T03:43:49.241694174Z",
+  "sha256_hash": "74a0c68ab280300284089c3fab87491d072986894cd2caa7c441a6345bde58bd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.306950015Z"
+}

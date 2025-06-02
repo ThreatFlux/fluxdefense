@@ -1,0 +1,17 @@
+{
+  "uuid": "b7d20720-6db0-4a29-9f62-0842cc21d3c6",
+  "path": "/lib/x86_64-linux-gnu/samba/libasn1util-samba4.so.0",
+  "size": 30952,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.035635908Z",
+  "sha256_hash": "03a8ddeb147ed1b37086dc2db89217e62913e7f0f804e793fbca46d908d5cfc4",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.452374406Z"
+}

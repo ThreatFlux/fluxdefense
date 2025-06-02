@@ -1,0 +1,17 @@
+{
+  "uuid": "0c883a0f-8ba5-4fea-a7f0-b132679436fc",
+  "path": "/usr/lib/firmware/v4l-cx2341x-dec.fw.zst",
+  "size": 38906,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.081534208Z",
+  "sha256_hash": "73a70a3d2ff1f7520bfd711dcc2edadcec254702d1e9a267eb03ca5c5126808d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.538439544Z"
+}

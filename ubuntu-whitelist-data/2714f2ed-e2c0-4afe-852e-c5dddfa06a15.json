@@ -1,0 +1,15 @@
+{
+  "uuid": "2714f2ed-e2c0-4afe-852e-c5dddfa06a15",
+  "path": "/usr/lib/llvm-18/lib/libLLVMXtensaDesc.a",
+  "size": 147836,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.087460387Z",
+  "sha256_hash": "7e72452961b73bd79261ef555471b32bc9d48172e88382f295c8b84b7ddcd4bb",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.067564941Z"
+}

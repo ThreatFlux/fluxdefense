@@ -1,0 +1,17 @@
+{
+  "uuid": "25b4ec5b-97e5-4bb4-a287-409fe4ca1982",
+  "path": "/usr/sbin/invoke-rc.d",
+  "size": 16517,
+  "modified": "2023-12-06T07:46:52Z",
+  "created": "2025-05-09T05:07:38.271617047Z",
+  "sha256_hash": "1d389fa6f6297e77b2ba1d2df4a6ec60f4d4d37815b727889f38ba602e713f77",
+  "file_type": {
+    "Other": "d"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.317421829Z"
+}

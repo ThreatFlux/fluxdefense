@@ -1,0 +1,15 @@
+{
+  "uuid": "53cc22c9-a3b0-411c-b52e-3c662cfe0fd9",
+  "path": "/usr/lib/cups/filter/hpcupsfax",
+  "size": 31048,
+  "modified": "2024-03-31T07:39:41Z",
+  "created": "2025-05-09T05:07:21.355875176Z",
+  "sha256_hash": "1a25fb3e96255db68767fc4c8fbbd7d61de692cf043478bec6384500331a80b4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.992078550Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "03489ac9-6410-41de-83a1-ab0caa73f138",
+  "path": "/lib/linux-hwe-6.11-tools-6.11.0-25/x86_energy_perf_policy",
+  "size": 47744,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:56.894417177Z",
+  "sha256_hash": "e6a5763bf083a0591c3c189eeee1d3e03ddc128e1a5feee29652ed659544eb39",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.475992864Z"
+}

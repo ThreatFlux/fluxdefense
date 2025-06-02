@@ -1,0 +1,17 @@
+{
+  "uuid": "19796196-240b-426d-9ad0-f9e06aba5e4f",
+  "path": "/lib/x86_64-linux-gnu/mutter-14/libmutter-cogl-14.so.0.0.0",
+  "size": 597440,
+  "modified": "2025-04-09T06:13:33Z",
+  "created": "2025-05-09T05:24:17.522830853Z",
+  "sha256_hash": "11456c80859e18d536caa4bef90d1a7f249e986ff3a9244c29bdf2a5e899f383",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.814559341Z"
+}

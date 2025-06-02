@@ -1,0 +1,17 @@
+{
+  "uuid": "760e368d-a031-49eb-b496-8001c0a88da4",
+  "path": "/usr/lib/x86_64-linux-gnu/libwebp.so.7.1.8",
+  "size": 494136,
+  "modified": "2024-03-31T08:02:02Z",
+  "created": "2025-05-09T05:07:34.994667053Z",
+  "sha256_hash": "9664db51ec65209078abbb8bc7b699888a43ecc2f3c74ce8dd4e497175aa5bf0",
+  "file_type": {
+    "Other": "8"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.512058075Z"
+}

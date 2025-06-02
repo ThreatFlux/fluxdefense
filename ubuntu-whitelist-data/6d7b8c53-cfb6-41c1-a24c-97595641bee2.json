@@ -1,0 +1,17 @@
+{
+  "uuid": "6d7b8c53-cfb6-41c1-a24c-97595641bee2",
+  "path": "/usr/lib/x86_64-linux-gnu/libsphinxbase.so.3.0.0",
+  "size": 260432,
+  "modified": "2024-03-31T08:24:34Z",
+  "created": "2025-05-09T05:09:25.795976071Z",
+  "sha256_hash": "a810b1db08b2aca7ccddc6059ae99203242aa9b61072c98799497c7388123a8d",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.092670286Z"
+}

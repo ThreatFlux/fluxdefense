@@ -1,0 +1,17 @@
+{
+  "uuid": "d238bbb2-37a0-4750-905d-7b41e94062c7",
+  "path": "/lib/grub/x86_64-efi/appleldr.mod",
+  "size": 5128,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.800708582Z",
+  "sha256_hash": "c49e5f2c1f50a6107c2835979493ac1e2230673b7be1e33ddd40a7443ad9c2e5",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.018506449Z"
+}

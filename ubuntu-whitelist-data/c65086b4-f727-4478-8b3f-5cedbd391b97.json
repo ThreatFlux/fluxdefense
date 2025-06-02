@@ -1,0 +1,15 @@
+{
+  "uuid": "c65086b4-f727-4478-8b3f-5cedbd391b97",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/GBBIG5.so",
+  "size": 63696,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.620657500Z",
+  "sha256_hash": "1b692387946b4babddf1f5e6d70f7de1ac83b4d6b8eb61fbd48310b6da3a942d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.534160793Z"
+}

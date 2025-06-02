@@ -1,0 +1,15 @@
+{
+  "uuid": "09d6510a-299e-445f-ad6f-a257e389f780",
+  "path": "/bin/suricatactl",
+  "size": 1397,
+  "modified": "2024-04-01T09:12:58Z",
+  "created": "2025-05-26T20:18:27.620014393Z",
+  "sha256_hash": "7290ebb0284d18029c04f44a30ee1d9080a67dd69517ca6b713e2b9798ec8bef",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:20.228545453Z"
+}

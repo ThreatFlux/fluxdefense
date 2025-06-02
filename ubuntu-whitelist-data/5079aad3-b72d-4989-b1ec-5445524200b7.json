@@ -1,0 +1,17 @@
+{
+  "uuid": "5079aad3-b72d-4989-b1ec-5445524200b7",
+  "path": "/usr/lib/udev/rules.d/80-iio-sensor-proxy.rules",
+  "size": 1557,
+  "modified": "2023-07-25T08:28:22Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "b5f075ca8e8701aa4743e95ad3e86514119b6a84cdac35741d63ebd9572a79d6",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.100705765Z"
+}

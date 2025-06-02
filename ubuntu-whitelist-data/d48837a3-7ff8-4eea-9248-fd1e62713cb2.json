@@ -1,0 +1,17 @@
+{
+  "uuid": "d48837a3-7ff8-4eea-9248-fd1e62713cb2",
+  "path": "/lib/systemd/system/alsa-restore.service",
+  "size": 613,
+  "modified": "2024-04-07T07:09:55Z",
+  "created": "2025-05-09T05:07:28.297769246Z",
+  "sha256_hash": "ad47562bf39044547594b9cb306804820c0a53ae4dda2d2279bd5de4627fe946",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.125627028Z"
+}

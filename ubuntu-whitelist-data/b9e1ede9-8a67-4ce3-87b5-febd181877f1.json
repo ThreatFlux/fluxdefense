@@ -1,0 +1,17 @@
+{
+  "uuid": "b9e1ede9-8a67-4ce3-87b5-febd181877f1",
+  "path": "/usr/lib/x86_64-linux-gnu/libmaxminddb.so.0.0.7",
+  "size": 22520,
+  "modified": "2024-04-08T16:05:12Z",
+  "created": "2025-05-09T05:07:31.337722858Z",
+  "sha256_hash": "1d5dccc962dc80967d2fe62a7d9254eb99b2ab885587e1f160b76b1c87d44833",
+  "file_type": {
+    "Other": "7"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.841070493Z"
+}

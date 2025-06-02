@@ -1,0 +1,15 @@
+{
+  "uuid": "fce18201-815a-4d33-b892-ad854e40d843",
+  "path": "/usr/lib/x86_64-linux-gnu/liblzma.a",
+  "size": 349226,
+  "modified": "2025-03-31T18:22:22Z",
+  "created": "2025-05-29T11:16:02.374109917Z",
+  "sha256_hash": "0a8a7dc55ccfa787b9ca305b927408b342e3f0e3d9df2056954b2e10de793b1b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.360822193Z"
+}

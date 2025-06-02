@@ -1,0 +1,15 @@
+{
+  "uuid": "1d111998-f5d8-4eac-9155-64707c26d975",
+  "path": "/usr/lib/python3.12/decimal.py",
+  "size": 320,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:10:59.923539353Z",
+  "sha256_hash": "000c00bad31d126b054c6ec7f3e02b27c0f9a4d579f987d3c4f879cee1bacb81",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.003750478Z"
+}

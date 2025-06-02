@@ -1,0 +1,17 @@
+{
+  "uuid": "9e8249b6-e2fe-4a1d-9b75-5381fd7b0e6c",
+  "path": "/lib/systemd/system/kmod-static-nodes.service",
+  "size": 711,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "b9b4525566b10f1f2bbd30d86c0c85495c2bab360714c2f4f8e549533fb6a2d7",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.119748872Z"
+}

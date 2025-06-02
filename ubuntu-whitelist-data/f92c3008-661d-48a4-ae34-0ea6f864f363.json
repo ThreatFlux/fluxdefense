@@ -1,0 +1,15 @@
+{
+  "uuid": "f92c3008-661d-48a4-ae34-0ea6f864f363",
+  "path": "/usr/lib/cups/driver/foomatic-db-compressed-ppds",
+  "size": 392203,
+  "modified": "2023-02-04T22:03:02Z",
+  "created": "2025-05-09T05:07:21.064879617Z",
+  "sha256_hash": "250a8df9638c134d51ab668cb6af6445b7d1b8a9fac8e962998754473fd75efe",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.021934610Z"
+}

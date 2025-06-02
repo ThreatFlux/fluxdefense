@@ -1,0 +1,17 @@
+{
+  "uuid": "90faf173-e9a5-4afc-a140-c5f601d32f5f",
+  "path": "/lib/x86_64-linux-gnu/libepubgen-0.1.so.1.0.1",
+  "size": 355680,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.371752858Z",
+  "sha256_hash": "d31bd7fbd72c75b5f4c41511b79f89003aa22f43d1c1a0f634d2ea62d4d82f77",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.041836290Z"
+}

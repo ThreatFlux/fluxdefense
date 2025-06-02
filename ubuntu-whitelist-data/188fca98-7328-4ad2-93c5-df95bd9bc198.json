@@ -1,0 +1,15 @@
+{
+  "uuid": "188fca98-7328-4ad2-93c5-df95bd9bc198",
+  "path": "/usr/bin/foo2zjs-wrapper",
+  "size": 25952,
+  "modified": "2024-04-10T21:38:27Z",
+  "created": "2025-05-09T05:07:19.224907694Z",
+  "sha256_hash": "7f8d98f9edab2d5675b59fa89a4cb1f1056b8117bddd62d2c0c36ac59171e799",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.496825610Z"
+}

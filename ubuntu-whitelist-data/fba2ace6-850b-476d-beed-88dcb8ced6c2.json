@@ -1,0 +1,15 @@
+{
+  "uuid": "fba2ace6-850b-476d-beed-88dcb8ced6c2",
+  "path": "/sbin/pam-auth-update",
+  "size": 21465,
+  "modified": "2024-04-30T20:54:55Z",
+  "created": "2025-05-09T05:07:38.389615246Z",
+  "sha256_hash": "6a934164a4f70a0ce0637b054752aee6adceec694f530eb0aae6af179c0e12c3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.001852577Z"
+}

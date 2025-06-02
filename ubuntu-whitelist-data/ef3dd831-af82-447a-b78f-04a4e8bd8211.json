@@ -1,0 +1,17 @@
+{
+  "uuid": "ef3dd831-af82-447a-b78f-04a4e8bd8211",
+  "path": "/usr/lib/firmware/amdgpu/gc_11_0_2_pfp.bin.zst",
+  "size": 36061,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.396543696Z",
+  "sha256_hash": "97a6dbcd3b3f9d476afc8cb5bb0f6636d7fda21d5746c9a7d3a1fe4df6ef098a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.938496953Z"
+}

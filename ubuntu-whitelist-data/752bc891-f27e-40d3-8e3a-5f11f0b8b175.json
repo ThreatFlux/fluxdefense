@@ -1,0 +1,15 @@
+{
+  "uuid": "752bc891-f27e-40d3-8e3a-5f11f0b8b175",
+  "path": "/usr/lib/x86_64-linux-gnu/fwupd-1.9.29/libfwupdutil.so",
+  "size": 104592,
+  "modified": "2025-03-25T17:48:06Z",
+  "created": "2025-05-09T05:24:28.647976251Z",
+  "sha256_hash": "decc8279a08c0665b3eafe5e44b88a77775b145fd64a46750e7a17b89976bc95",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.978003911Z"
+}

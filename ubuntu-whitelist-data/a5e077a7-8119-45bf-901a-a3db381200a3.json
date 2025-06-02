@@ -1,0 +1,15 @@
+{
+  "uuid": "a5e077a7-8119-45bf-901a-a3db381200a3",
+  "path": "/usr/sbin/anacron",
+  "size": 34992,
+  "modified": "2024-04-08T15:54:08Z",
+  "created": "2025-05-09T05:07:38.125619275Z",
+  "sha256_hash": "89797efc771366c6010951f778cd09ce492ffdb887bebe71a2903fcf1517491d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.309002179Z"
+}

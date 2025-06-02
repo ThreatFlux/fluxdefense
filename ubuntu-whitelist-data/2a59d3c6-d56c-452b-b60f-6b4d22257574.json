@@ -1,0 +1,17 @@
+{
+  "uuid": "2a59d3c6-d56c-452b-b60f-6b4d22257574",
+  "path": "/lib/firmware/korg/k1212.dsp.zst",
+  "size": 3051,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.668539928Z",
+  "sha256_hash": "86076a0d1b9e4c9241a98e1fd67280b4a2312b863fd4c8dcc803e50d69af2831",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.497120737Z"
+}

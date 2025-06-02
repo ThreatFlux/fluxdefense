@@ -1,0 +1,17 @@
+{
+  "uuid": "f719838b-3182-4bac-9707-b7c178af0b6c",
+  "path": "/lib/systemd/system/systemd-sysupdate-reboot.timer",
+  "size": 573,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "d69dc1b24d75fc3acefd435539e5c2444d88726626f4a0d986378952f158ea2e",
+  "file_type": {
+    "Other": "timer"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.126394860Z"
+}

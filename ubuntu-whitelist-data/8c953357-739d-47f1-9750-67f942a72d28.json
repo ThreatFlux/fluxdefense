@@ -1,0 +1,17 @@
+{
+  "uuid": "8c953357-739d-47f1-9750-67f942a72d28",
+  "path": "/usr/lib/x86_64-linux-gnu/perl5/5.38/HTML/Parser.pm",
+  "size": 39705,
+  "modified": "2024-03-31T07:49:59Z",
+  "created": "2025-05-09T05:07:36.877638319Z",
+  "sha256_hash": "681e0429859271ba12c8669a161ff6fcd197d939162c96854f69264444808391",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.613307072Z"
+}

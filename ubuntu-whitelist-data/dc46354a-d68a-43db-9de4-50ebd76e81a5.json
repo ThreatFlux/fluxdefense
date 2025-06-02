@@ -1,0 +1,15 @@
+{
+  "uuid": "dc46354a-d68a-43db-9de4-50ebd76e81a5",
+  "path": "/usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-portal.so",
+  "size": 22800,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.782860102Z",
+  "sha256_hash": "e9cc92733ed7a0895d319538464fd9874c3805560afb7ecc3c39782f8aaa4476",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.416474591Z"
+}

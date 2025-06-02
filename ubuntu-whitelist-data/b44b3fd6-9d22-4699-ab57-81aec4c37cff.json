@@ -1,0 +1,17 @@
+{
+  "uuid": "b44b3fd6-9d22-4699-ab57-81aec4c37cff",
+  "path": "/lib/grub/x86_64-efi/lsefisystab.mod",
+  "size": 4608,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.813708384Z",
+  "sha256_hash": "a140e2add8a384b2158cc92a9bc7ae84476c49dae876285281f224ce45ef188b",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.037321229Z"
+}

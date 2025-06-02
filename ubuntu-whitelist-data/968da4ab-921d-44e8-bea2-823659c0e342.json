@@ -1,0 +1,15 @@
+{
+  "uuid": "968da4ab-921d-44e8-bea2-823659c0e342",
+  "path": "/bin/virt-host-validate",
+  "size": 27176,
+  "modified": "2025-03-13T16:25:50Z",
+  "created": "2025-05-20T14:31:32.944817538Z",
+  "sha256_hash": "54065d69e56b235ef2e17e4f6a88bb607d2778a9c21f1294df2058787d7e9f5c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.316925272Z"
+}

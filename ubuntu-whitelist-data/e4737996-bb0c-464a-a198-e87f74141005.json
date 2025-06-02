@@ -1,0 +1,15 @@
+{
+  "uuid": "e4737996-bb0c-464a-a198-e87f74141005",
+  "path": "/bin/ntfsfallocate",
+  "size": 27016,
+  "modified": "2024-04-08T14:46:29Z",
+  "created": "2025-05-09T05:07:20.244892129Z",
+  "sha256_hash": "84b9e319307bebd21e4a6811db6090d087a16cb66a2f87e2a73618ca7eab35ea",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.348877942Z"
+}

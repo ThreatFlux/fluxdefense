@@ -1,0 +1,17 @@
+{
+  "uuid": "d001baaf-99f5-48ef-b318-9d1bc323cf9b",
+  "path": "/lib/firmware/amdgpu/hawaii_pfp.bin.zst",
+  "size": 4101,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.401543627Z",
+  "sha256_hash": "e3b575fe780444c427fb2cd123b3ef890ce0077f1b1f34636daea01bd24ee297",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.965778164Z"
+}

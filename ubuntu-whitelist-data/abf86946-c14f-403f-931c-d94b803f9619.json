@@ -1,0 +1,15 @@
+{
+  "uuid": "abf86946-c14f-403f-931c-d94b803f9619",
+  "path": "/usr/lib/llvm-18/lib/libclangInterpreter.a",
+  "size": 392918,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.736530855Z",
+  "sha256_hash": "472aad3e04bbc057e3c2945eec341b918ff20f4eb9aea939393f46db97ceab70",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.176866104Z"
+}

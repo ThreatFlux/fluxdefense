@@ -1,0 +1,15 @@
+{
+  "uuid": "17fcd04d-ad1a-4699-aa6b-3350b7d6d7cd",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libxt_recent.so",
+  "size": 19256,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.336631315Z",
+  "sha256_hash": "b9e97b50289f860cc7d1b4e59490aa3b023c66c8d77e3e1f7be208f35858c577",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.242143520Z"
+}

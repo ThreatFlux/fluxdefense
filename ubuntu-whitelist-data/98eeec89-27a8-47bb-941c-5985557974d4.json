@@ -1,0 +1,17 @@
+{
+  "uuid": "98eeec89-27a8-47bb-941c-5985557974d4",
+  "path": "/usr/lib/firmware/intel/dsp_fw_kbl_v3266.bin.zst",
+  "size": 144213,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.549541576Z",
+  "sha256_hash": "23a083891c1f41ef050ccf57538b78966bbd90b63d6de8754e4a5ae07ca6f5a5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.728007539Z"
+}

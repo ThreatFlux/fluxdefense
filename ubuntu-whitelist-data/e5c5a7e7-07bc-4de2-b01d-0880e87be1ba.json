@@ -1,0 +1,15 @@
+{
+  "uuid": "e5c5a7e7-07bc-4de2-b01d-0880e87be1ba",
+  "path": "/lib/google-cloud-sdk/lib/third_party/botocore/hooks.py",
+  "size": 25060,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.169941503Z",
+  "sha256_hash": "ce82c8d7d5e9a3077fcfe9983336fdc7f619bbd502746a7ea00aec6327f091fe",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.902367804Z"
+}

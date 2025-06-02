@@ -1,0 +1,17 @@
+{
+  "uuid": "2a28f9e5-12da-4d73-83f3-8efb983441d7",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-hs2p.so.1.2.1",
+  "size": 127864,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.144634245Z",
+  "sha256_hash": "a589e1dc7e9164b7f6e965e44613ac53d909c056739e21541c91d3e393abcdd6",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.756389198Z"
+}

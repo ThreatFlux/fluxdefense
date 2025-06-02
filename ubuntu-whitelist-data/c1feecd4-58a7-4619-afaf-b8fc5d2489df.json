@@ -1,0 +1,17 @@
+{
+  "uuid": "c1feecd4-58a7-4619-afaf-b8fc5d2489df",
+  "path": "/usr/lib/udev/rules.d/66-azure-ephemeral.rules",
+  "size": 1951,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.233037137Z",
+  "sha256_hash": "667c9de8deeab80f02218c5976d0a2587f3c38e8542d2131fdff5fc0066bd207",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.105179917Z"
+}

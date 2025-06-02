@@ -1,0 +1,15 @@
+{
+  "uuid": "372fb925-79e8-4111-a9a9-93d81031eb2f",
+  "path": "/usr/lib/python3/dist-packages/_snack.cpython-312-x86_64-linux-gnu.so",
+  "size": 47864,
+  "modified": "2024-03-31T08:10:06Z",
+  "created": "2025-05-23T03:43:48.806710057Z",
+  "sha256_hash": "9cb90f178316e1206c3a2789ca7e8e5757b09d607e2db41cf616fcbb96323d7c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.746261444Z"
+}

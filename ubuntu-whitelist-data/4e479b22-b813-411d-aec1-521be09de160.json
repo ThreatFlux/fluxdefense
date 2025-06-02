@@ -1,0 +1,17 @@
+{
+  "uuid": "4e479b22-b813-411d-aec1-521be09de160",
+  "path": "/usr/lib/firmware/amd-ucode/microcode_amd.bin",
+  "size": 12684,
+  "modified": "2023-10-21T18:01:08Z",
+  "created": "2025-05-09T05:08:55.077444908Z",
+  "sha256_hash": "8a9d9e8b788e31e61cddc03cb1eeab5db99e0f667128943ff0780e6437d2e43e",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.548659162Z"
+}

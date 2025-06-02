@@ -1,0 +1,15 @@
+{
+  "uuid": "f4db80a3-28c9-403a-9fe6-cd2289edde6b",
+  "path": "/bin/zegrep",
+  "size": 29,
+  "modified": "2024-04-08T15:58:45Z",
+  "created": "2025-05-09T05:07:20.951881341Z",
+  "sha256_hash": "67ee7fadec7ea53b4c1f8cfc3c81427b29c0b1381e80b55642617620c84d0bcc",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:20.242532016Z"
+}

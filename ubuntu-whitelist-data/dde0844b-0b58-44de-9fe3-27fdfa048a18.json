@@ -1,0 +1,17 @@
+{
+  "uuid": "dde0844b-0b58-44de-9fe3-27fdfa048a18",
+  "path": "/usr/lib/systemd/system/plymouth-quit-wait.service",
+  "size": 224,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:27.491960985Z",
+  "sha256_hash": "d8e61c8e77040ba5da5650fa64c5b68a74383f15eda2ddb9310c3e898d108e5d",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.484440272Z"
+}

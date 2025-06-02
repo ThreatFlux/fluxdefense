@@ -1,0 +1,15 @@
+{
+  "uuid": "0caab6bd-b766-408f-9d9e-a297b8337cfe",
+  "path": "/usr/bin/strace",
+  "size": 2087432,
+  "modified": "2024-04-18T09:32:42Z",
+  "created": "2025-05-09T05:07:20.625886315Z",
+  "sha256_hash": "28f957c227012de0b18d1bd7fff2d396cb693ea60ed8013be68de071e84b5001",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.327172997Z"
+}

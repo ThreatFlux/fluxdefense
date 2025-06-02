@@ -1,0 +1,17 @@
+{
+  "uuid": "a5887fe0-c044-4dd7-9d66-448ee7c84fb5",
+  "path": "/lib/llvm-18/include/clang/Driver/Types.h",
+  "size": 4536,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.541533423Z",
+  "sha256_hash": "2a651b4c94ce75867971160081bb10e252551650e4fedef0b099563100cc4f82",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.042383372Z"
+}

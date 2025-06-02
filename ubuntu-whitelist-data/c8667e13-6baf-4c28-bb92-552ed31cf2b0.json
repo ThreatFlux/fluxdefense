@@ -1,0 +1,17 @@
+{
+  "uuid": "c8667e13-6baf-4c28-bb92-552ed31cf2b0",
+  "path": "/usr/lib/modules/6.11.0-26-generic/kernel/lib/lru_cache.ko.zst",
+  "size": 6636,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.114797272Z",
+  "sha256_hash": "93f7628e8ae83a9ffbb0415b1e6f162e058a6ae6b8d2ff415ece940c2ea8e821",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.651151163Z"
+}

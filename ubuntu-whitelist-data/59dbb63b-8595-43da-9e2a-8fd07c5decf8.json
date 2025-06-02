@@ -1,0 +1,17 @@
+{
+  "uuid": "59dbb63b-8595-43da-9e2a-8fd07c5decf8",
+  "path": "/lib/x86_64-linux-gnu/libbluray.so.2.4.3",
+  "size": 355304,
+  "modified": "2024-04-18T17:47:48Z",
+  "created": "2025-05-09T05:09:21.637039547Z",
+  "sha256_hash": "d76b9963fbf40813e2f3428f57b407bfd931f9ed8b99e0812a923f40025bb62a",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.281962345Z"
+}

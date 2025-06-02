@@ -1,0 +1,15 @@
+{
+  "uuid": "a7952eee-7acf-479b-b494-92de8c920fe0",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstpango.so",
+  "size": 105152,
+  "modified": "2024-12-17T13:24:56Z",
+  "created": "2025-05-09T05:07:35.774655151Z",
+  "sha256_hash": "29f4aa746cc9b520d181d35b8d171064337fd58b471135f39f1700c3831893c5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.133285575Z"
+}

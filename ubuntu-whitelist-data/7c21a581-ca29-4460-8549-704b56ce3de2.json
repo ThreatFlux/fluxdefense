@@ -1,0 +1,17 @@
+{
+  "uuid": "7c21a581-ca29-4460-8549-704b56ce3de2",
+  "path": "/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0",
+  "size": 149760,
+  "modified": "2024-10-02T12:40:50Z",
+  "created": "2025-05-09T05:07:29.826745914Z",
+  "sha256_hash": "6cb18a007bfcb623029f4528a36b46578fea7dc34c2b505b8e6e0d99e6348cd1",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.594266631Z"
+}

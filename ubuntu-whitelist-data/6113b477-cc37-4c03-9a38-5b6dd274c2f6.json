@@ -1,0 +1,15 @@
+{
+  "uuid": "6113b477-cc37-4c03-9a38-5b6dd274c2f6",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/kms/mac_sign.py",
+  "size": 5351,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.761931445Z",
+  "sha256_hash": "e98e6b4790e173d0e43382e93fbcd4c2894c9e18fb47457dd6e4f50f8c9cf116",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.838882262Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "d9c38cbd-b5b2-4131-be02-d67f62f8a53b",
+  "path": "/usr/lib/cups/filter/rastertosag-gdi",
+  "size": 15964,
+  "modified": "2021-09-06T09:35:42Z",
+  "created": "2025-05-09T05:07:21.361875085Z",
+  "sha256_hash": "6232e627b2a506fb7f5cce1d3749efea8bc33f6d6c6b60eefac93769b6421696",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.997633231Z"
+}

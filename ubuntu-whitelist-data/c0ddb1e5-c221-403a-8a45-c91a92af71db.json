@@ -1,0 +1,17 @@
+{
+  "uuid": "c0ddb1e5-c221-403a-8a45-c91a92af71db",
+  "path": "/lib/x86_64-linux-gnu/libvorbisenc.so.2.0.12",
+  "size": 694408,
+  "modified": "2024-04-08T16:08:48Z",
+  "created": "2025-05-09T05:07:32.360707247Z",
+  "sha256_hash": "f62e5237a789185d6a08c66745b585edd9e1c6956c16ee34d98ad6435efc7881",
+  "file_type": {
+    "Other": "12"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.818344005Z"
+}

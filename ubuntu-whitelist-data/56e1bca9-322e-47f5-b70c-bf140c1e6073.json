@@ -1,0 +1,15 @@
+{
+  "uuid": "56e1bca9-322e-47f5-b70c-bf140c1e6073",
+  "path": "/usr/libexec/x86_64-linux-gnu/isa-support/test-x86-64-v3",
+  "size": 20320,
+  "modified": "2024-04-18T17:54:37Z",
+  "created": "2025-05-26T20:18:23.196081220Z",
+  "sha256_hash": "bde3442e1af686e43a2a33ae497dadedf7d710c1a69c9c9029863095b9e025f7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.532160604Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a6941cae-74d6-42c4-8016-992746cfa20e",
+  "path": "/lib/firmware/ti-connectivity/wl127x-fw-4-mr.bin.zst",
+  "size": 151299,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.075534291Z",
+  "sha256_hash": "623b76ff815a29b2f0c8ff7a366489233e3f7a65bbdf4b3556a043269e6f01a7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.537006805Z"
+}

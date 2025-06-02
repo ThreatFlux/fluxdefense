@@ -1,0 +1,17 @@
+{
+  "uuid": "ab3b8f4a-d44f-412f-9389-ffc95a18ff00",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/s-arit64.adb",
+  "size": 3247,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.073344832Z",
+  "sha256_hash": "59de03ef68bb5c02525093d03b028cc2ac5f0206bb1e6ec6bbd01a955e958b9a",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.870288705Z"
+}

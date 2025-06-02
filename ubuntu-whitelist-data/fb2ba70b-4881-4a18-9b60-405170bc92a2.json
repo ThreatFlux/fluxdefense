@@ -1,0 +1,17 @@
+{
+  "uuid": "fb2ba70b-4881-4a18-9b60-405170bc92a2",
+  "path": "/lib/x86_64-linux-gnu/liburing-ffi.so.2.5",
+  "size": 39144,
+  "modified": "2024-04-08T16:08:15Z",
+  "created": "2025-05-09T05:56:52.314611440Z",
+  "sha256_hash": "b44e585ee8873029ec112e988f57664e7e72cdd5c5a54e60b0d5d0c5de90ddf5",
+  "file_type": {
+    "Other": "5"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.230887660Z"
+}

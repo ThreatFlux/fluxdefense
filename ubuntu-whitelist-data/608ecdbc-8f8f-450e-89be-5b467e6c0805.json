@@ -1,0 +1,15 @@
+{
+  "uuid": "608ecdbc-8f8f-450e-89be-5b467e6c0805",
+  "path": "/lib/python3/dist-packages/cloudinit/distros/dragonflybsd.py",
+  "size": 230,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.237037190Z",
+  "sha256_hash": "8427bd65f07aeb5d83fa8b4c990f098b45a68d6f664876a4e0b7f2e5498ab85f",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.909813884Z"
+}

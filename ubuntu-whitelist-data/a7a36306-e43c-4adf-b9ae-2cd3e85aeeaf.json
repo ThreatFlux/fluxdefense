@@ -1,0 +1,17 @@
+{
+  "uuid": "a7a36306-e43c-4adf-b9ae-2cd3e85aeeaf",
+  "path": "/usr/lib/firmware/mediatek/mt7996/mt7996_wm.bin.zst",
+  "size": 2540851,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.687539665Z",
+  "sha256_hash": "4010ff42cbf8f57651b47d22c176dbd82af76ee1d92c09809e1c3d8adce49160",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.296501656Z"
+}

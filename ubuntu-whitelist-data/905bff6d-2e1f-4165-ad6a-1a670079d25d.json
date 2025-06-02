@@ -1,0 +1,15 @@
+{
+  "uuid": "905bff6d-2e1f-4165-ad6a-1a670079d25d",
+  "path": "/bin/geteltorito",
+  "size": 6210,
+  "modified": "2024-03-14T16:53:13Z",
+  "created": "2025-05-09T15:50:18.769385352Z",
+  "sha256_hash": "b3813779efe8e48a298f8dd419c588515624972ed21e5871a61a91e884d0af66",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.454405715Z"
+}

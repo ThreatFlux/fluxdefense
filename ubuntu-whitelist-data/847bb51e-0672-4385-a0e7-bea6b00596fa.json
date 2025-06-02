@@ -1,0 +1,15 @@
+{
+  "uuid": "847bb51e-0672-4385-a0e7-bea6b00596fa",
+  "path": "/usr/lib/update-notifier/update-motd-updates-available",
+  "size": 1726,
+  "modified": "2024-10-08T13:47:14Z",
+  "created": "2025-05-09T05:24:21.991888836Z",
+  "sha256_hash": "67534b56d8258013df3f4994b5738d9178278362af77da07da9afb902ab3a9cf",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.266404881Z"
+}

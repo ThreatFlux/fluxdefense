@@ -1,0 +1,17 @@
+{
+  "uuid": "8651a821-7dcb-4110-8c64-09487d709460",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/harfbuzz-gobject.pc",
+  "size": 302,
+  "modified": "2024-03-31T01:19:37Z",
+  "created": "2025-05-29T11:16:06.885048018Z",
+  "sha256_hash": "5eefffeace1a14275d8cdd9d9d60ea319e59300de6cf5037115c8717e3c4095e",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.103703997Z"
+}

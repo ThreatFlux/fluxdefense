@@ -1,0 +1,17 @@
+{
+  "uuid": "e9925350-c2ca-4322-aa02-20febf29a595",
+  "path": "/lib/python3.12/test/decimaltestdata/copy.decTest",
+  "size": 3376,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.990551788Z",
+  "sha256_hash": "02de30424d9642545e1cdb566b895c61fc537ad4e11f309d225344824cb61ed4",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.424761584Z"
+}

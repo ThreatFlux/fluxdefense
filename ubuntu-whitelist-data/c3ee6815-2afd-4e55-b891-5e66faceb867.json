@@ -1,0 +1,17 @@
+{
+  "uuid": "c3ee6815-2afd-4e55-b891-5e66faceb867",
+  "path": "/lib/python3.12/test/decimaltestdata/dqCopyNegate.decTest",
+  "size": 4248,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.993551749Z",
+  "sha256_hash": "f5ebaabb2b1362cb112f7abc40bbb0894dc84ea49ad6aab9b6f8d6b9cd338958",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.455200687Z"
+}

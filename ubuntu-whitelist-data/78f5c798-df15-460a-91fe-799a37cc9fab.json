@@ -1,0 +1,17 @@
+{
+  "uuid": "78f5c798-df15-460a-91fe-799a37cc9fab",
+  "path": "/lib/x86_64-linux-gnu/samba/libMESSAGING-SEND-samba4.so.0",
+  "size": 14568,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.031635969Z",
+  "sha256_hash": "755b95eb7ff320f00543b2eb84872ff0de4ca572fc201517ff41386610f496f9",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.435466377Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "5c455f0a-e0f8-4e53-a25c-ad9ac11450e7",
+  "path": "/lib/x86_64-linux-gnu/libslang.so.2.3.3",
+  "size": 2157592,
+  "modified": "2024-03-31T08:22:56Z",
+  "created": "2025-05-09T05:07:32.160710299Z",
+  "sha256_hash": "af564bc54e7c7bc51c21de935846ac6fe5bd551c22ab5af72927ff5e31aaaac4",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.721735607Z"
+}

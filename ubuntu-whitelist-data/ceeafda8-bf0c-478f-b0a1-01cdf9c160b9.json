@@ -1,0 +1,17 @@
+{
+  "uuid": "ceeafda8-bf0c-478f-b0a1-01cdf9c160b9",
+  "path": "/lib/x86_64-linux-gnu/libbcc_bpf.so.0.29.1",
+  "size": 410896,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:50.948507924Z",
+  "sha256_hash": "3393d953ae376704b244a7c56a1cd3f5373d9e7802c4fdf87c0a3a17aae409de",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:18.250831978Z"
+}

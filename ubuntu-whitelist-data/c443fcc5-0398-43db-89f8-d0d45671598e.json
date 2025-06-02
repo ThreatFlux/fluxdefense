@@ -1,0 +1,17 @@
+{
+  "uuid": "c443fcc5-0398-43db-89f8-d0d45671598e",
+  "path": "/lib/firmware/amdgpu/vega10_acg_smc.bin.zst",
+  "size": 63372,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.423543322Z",
+  "sha256_hash": "13e903c4667bf9d230b6906a9af3b44dbf1e50d770fed7fd60a2aa3dcfdd9188",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.952753376Z"
+}

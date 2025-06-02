@@ -1,0 +1,15 @@
+{
+  "uuid": "8a300f2f-cc07-40d3-abea-5d1702123dc4",
+  "path": "/usr/lib/x86_64-linux-gnu/rhythmbox/plugins/power-manager/libpower-manager.so",
+  "size": 14496,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:36.999636458Z",
+  "sha256_hash": "9b70b1caf99eaed51802fa8f522c7ee24dd0097eb45745db6bf1b56789fe1c4f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.571592460Z"
+}

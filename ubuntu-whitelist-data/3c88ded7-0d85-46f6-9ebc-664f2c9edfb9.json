@@ -1,0 +1,15 @@
+{
+  "uuid": "3c88ded7-0d85-46f6-9ebc-664f2c9edfb9",
+  "path": "/usr/lib/x86_64-linux-gnu/tracker-3.0/libtracker-http-soup3.so",
+  "size": 22768,
+  "modified": "2024-03-31T08:29:02Z",
+  "created": "2025-05-09T05:07:37.308631742Z",
+  "sha256_hash": "f58670c433d3a6ac1a8f1da746d80d38d4d431aa16471adb4352a5376bcee76b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.693694297Z"
+}

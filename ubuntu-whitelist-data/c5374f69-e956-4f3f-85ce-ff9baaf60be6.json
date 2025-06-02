@@ -1,0 +1,15 @@
+{
+  "uuid": "c5374f69-e956-4f3f-85ce-ff9baaf60be6",
+  "path": "/usr/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-nokia-icera.so",
+  "size": 14440,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.160664520Z",
+  "sha256_hash": "8d0d88b4701a1c18cc02c7f4b6bcc0dbed8d02bfb1def7d6647ed12a3aca022b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.073709515Z"
+}

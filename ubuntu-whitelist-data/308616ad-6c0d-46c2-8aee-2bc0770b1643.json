@@ -1,0 +1,17 @@
+{
+  "uuid": "308616ad-6c0d-46c2-8aee-2bc0770b1643",
+  "path": "/lib/systemd/system/plymouth-read-write.service",
+  "size": 268,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:27.491960985Z",
+  "sha256_hash": "da37f940b98d08ba26b48a43dcaba270782c7b757a7c8acc55f19c76f363c403",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.107946444Z"
+}

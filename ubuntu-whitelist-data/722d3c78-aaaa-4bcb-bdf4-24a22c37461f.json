@@ -1,0 +1,17 @@
+{
+  "uuid": "722d3c78-aaaa-4bcb-bdf4-24a22c37461f",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/altera/IdDependentBackwardBranchCheck.h",
+  "size": 3924,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "b3a7caadaa353b55db52df91f46ca2f2c866eb95b7a595d2215d2f8a701147db",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.225922089Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "cd846b4c-445d-4a4c-9fe8-4539ba9bd342",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-wichun.ali",
+  "size": 5903,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.104344406Z",
+  "sha256_hash": "d4ae334375198051899eaeb4d64b16140fe70609fbf9e880081a8c07b24952d7",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.676727715Z"
+}

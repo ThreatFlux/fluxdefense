@@ -1,0 +1,15 @@
+{
+  "uuid": "bf9af25e-c1a9-440d-8788-e0ad69f8f45e",
+  "path": "/lib/google-cloud-sdk/lib/third_party/dns/ttl.py",
+  "size": 2349,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.114942437Z",
+  "sha256_hash": "e6cba4606e607645e0b6446387c703009d19b6149d478d90b0f46c84340926e7",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.873027757Z"
+}

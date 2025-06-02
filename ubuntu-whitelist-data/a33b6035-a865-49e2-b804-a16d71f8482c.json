@@ -1,0 +1,15 @@
+{
+  "uuid": "a33b6035-a865-49e2-b804-a16d71f8482c",
+  "path": "/usr/lib/cups/daemon/cups-driverd",
+  "size": 133968,
+  "modified": "2024-09-26T11:15:36Z",
+  "created": "2025-05-09T05:07:21.047879876Z",
+  "sha256_hash": "75efd9e961e0f1714882dafe7f1a43e2fcab362a055647a9d7d29ea09392c593",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.124696530Z"
+}

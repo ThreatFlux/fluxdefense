@@ -1,0 +1,17 @@
+{
+  "uuid": "a982ebf1-13c5-402e-a2ed-1d8342dc6729",
+  "path": "/usr/lib/firmware/brcm/brcmfmac43241b4-sdio.Advantech-MICA-071.txt.zst",
+  "size": 906,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.482542505Z",
+  "sha256_hash": "bea8e4c22fc00f92c54497338293f0bf1fa399dcb068dc1867b9070dbb536855",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.667838476Z"
+}

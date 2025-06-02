@@ -1,0 +1,17 @@
+{
+  "uuid": "76fcd9eb-2126-4436-bccb-b099173cae1c",
+  "path": "/lib/systemd/system/systemd-pcrlock-file-system.service",
+  "size": 767,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "fa24d6cf2812f8544aeb04f35a5ab10af0385ab0d08eea5e11c1f4e7fccdacf5",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.112360498Z"
+}

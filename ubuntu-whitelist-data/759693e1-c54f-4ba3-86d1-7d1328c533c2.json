@@ -1,0 +1,17 @@
+{
+  "uuid": "759693e1-c54f-4ba3-86d1-7d1328c533c2",
+  "path": "/lib/firmware/amdgpu/dcn_3_2_1_dmcub.bin.zst",
+  "size": 138616,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.391543765Z",
+  "sha256_hash": "d00a12a62e39596f9481ed21f6fd0ffc75d0df4301d680fb83141d14f08bf3d2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.955852567Z"
+}

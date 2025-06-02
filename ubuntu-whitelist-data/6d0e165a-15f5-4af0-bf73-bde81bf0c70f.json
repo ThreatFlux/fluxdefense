@@ -1,0 +1,15 @@
+{
+  "uuid": "6d0e165a-15f5-4af0-bf73-bde81bf0c70f",
+  "path": "/usr/lib/linux-hwe-6.11-tools-6.11.0-25/acpidbg",
+  "size": 855008,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:56.848417879Z",
+  "sha256_hash": "0af6d3d15dff39329a3bac81f88039c2c34137f04b61b15a7698dac149177f84",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.093211874Z"
+}

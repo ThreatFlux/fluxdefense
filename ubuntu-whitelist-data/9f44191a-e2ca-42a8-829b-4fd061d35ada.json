@@ -1,0 +1,17 @@
+{
+  "uuid": "9f44191a-e2ca-42a8-829b-4fd061d35ada",
+  "path": "/lib/cups/filter/hpcdmfax",
+  "size": 31320,
+  "modified": "2024-03-31T07:39:41Z",
+  "created": "2025-05-09T05:07:21.347875298Z",
+  "sha256_hash": "065251bad16ed986379d584a53a10740d471df07a71055c88bb99eff4c39e2d4",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.625898838Z"
+}

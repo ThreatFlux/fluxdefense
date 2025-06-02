@@ -1,0 +1,17 @@
+{
+  "uuid": "874f6a19-cafe-46e2-b890-b1050d587a4f",
+  "path": "/lib/udev/rules.d/60-persistent-storage-mtd.rules",
+  "size": 411,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "dfcf0368c920cc08825f10aa1b305b810515ac25b79f32aa56a74303ce3b20d6",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.245504879Z"
+}

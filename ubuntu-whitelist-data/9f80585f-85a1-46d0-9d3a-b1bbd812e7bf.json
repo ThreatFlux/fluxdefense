@@ -1,0 +1,17 @@
+{
+  "uuid": "9f80585f-85a1-46d0-9d3a-b1bbd812e7bf",
+  "path": "/usr/lib/firmware/ti/vpdma-1b8.bin.zst",
+  "size": 1897,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.075534291Z",
+  "sha256_hash": "6b3d0538eeee4fc7a11b9378421135e4328e8b6edced69af15860afc27b1d5f9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.667964501Z"
+}

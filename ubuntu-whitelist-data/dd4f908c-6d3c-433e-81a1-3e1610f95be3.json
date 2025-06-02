@@ -1,0 +1,15 @@
+{
+  "uuid": "dd4f908c-6d3c-433e-81a1-3e1610f95be3",
+  "path": "/lib/google-cloud-sdk/lib/third_party/rsa/transform.py",
+  "size": 2200,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.096942743Z",
+  "sha256_hash": "9f8e033eb3b50992e029762d2644e4be1c32153708b7586b6c3fe333429106ed",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.926812128Z"
+}

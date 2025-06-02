@@ -1,0 +1,17 @@
+{
+  "uuid": "d14e237d-c0a8-4b0f-baac-7f7a8601873c",
+  "path": "/lib/x86_64-linux-gnu/librte_log.so.24.0",
+  "size": 22816,
+  "modified": "2024-12-18T18:31:38Z",
+  "created": "2025-05-26T20:18:24.999053984Z",
+  "sha256_hash": "3bfaac4013038bdf2052ccb42a72ca83b2a3034625336e2253fb34663e0d7433",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.575881226Z"
+}

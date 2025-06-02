@@ -1,0 +1,17 @@
+{
+  "uuid": "e69412c9-5d6c-415b-88b3-dc4cf59bd498",
+  "path": "/lib/llvm-18/include/clang/Tooling/StandaloneExecution.h",
+  "size": 3458,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.554533252Z",
+  "sha256_hash": "d7faa2d05c8fef8ec52f6c7ce32130a0aee01fec229376e942c40606db4edc82",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.017603318Z"
+}

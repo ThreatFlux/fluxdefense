@@ -1,0 +1,17 @@
+{
+  "uuid": "6bcf9b85-7255-41ff-bb6a-6e210bcff178",
+  "path": "/usr/lib/x86_64-linux-gnu/libwmflite-0.2.so.7.0.6",
+  "size": 133552,
+  "modified": "2024-03-31T02:20:53Z",
+  "created": "2025-05-09T05:07:35.013666763Z",
+  "sha256_hash": "614dcf454c7b8965672d7b5fd6ecf02a808c651b45b6cfe90664ea30fb35dfb2",
+  "file_type": {
+    "Other": "6"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:17.981348875Z"
+}

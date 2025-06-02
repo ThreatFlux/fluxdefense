@@ -1,0 +1,15 @@
+{
+  "uuid": "510a9285-c5e9-4f33-bffd-e801082a6370",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/pyasn1_modules/rfc5280.py",
+  "size": 49505,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.101942658Z",
+  "sha256_hash": "308fa93e1b6bd3f45f565eda974a8f062566d5e557960b2522abafd92b15a343",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.727312821Z"
+}

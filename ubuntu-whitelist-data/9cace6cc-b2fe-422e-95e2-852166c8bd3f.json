@@ -1,0 +1,17 @@
+{
+  "uuid": "9cace6cc-b2fe-422e-95e2-852166c8bd3f",
+  "path": "/lib/llvm-18/include/clang/AST/CharUnits.h",
+  "size": 8683,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.515533766Z",
+  "sha256_hash": "e401aac8bc9e1b23cf76e143469e73ea9e51ad68f4e799d1617bd9cc61d64df9",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.957541947Z"
+}

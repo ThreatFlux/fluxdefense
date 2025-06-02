@@ -1,0 +1,17 @@
+{
+  "uuid": "8df4d671-be2d-43a8-8f8a-7f3c1ad8cd4f",
+  "path": "/lib/firmware/amdgpu/vegam_mec.bin.zst",
+  "size": 25080,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.426543280Z",
+  "sha256_hash": "dc3aff1aa63016c1f0bc16da1273fdae1f64c1ba7f49146f44fa2c017dfadf95",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.876584532Z"
+}

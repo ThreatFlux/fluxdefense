@@ -1,0 +1,17 @@
+{
+  "uuid": "081270b5-3acb-4509-b5d9-bf7a55a3abfa",
+  "path": "/lib/firmware/ath10k/QCA988X/hw2.0/firmware-5.bin.zst",
+  "size": 214828,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.440543086Z",
+  "sha256_hash": "b66dddfec0866d0d6d23bb00b0e2c1d45df4f72a824ab353bf5c038251a9f00e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.938042310Z"
+}

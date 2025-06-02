@@ -1,0 +1,17 @@
+{
+  "uuid": "0ef5397e-52b4-4ea1-b2af-cdf12db41f17",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-cml-rt5682-kwd.tplg.zst",
+  "size": 1802,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.058490984Z",
+  "sha256_hash": "b58fc8011c15402c86f98d04c0b866bf68f92fb05b07eee43354931c59ec5392",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.893951603Z"
+}

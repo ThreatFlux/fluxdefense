@@ -1,0 +1,17 @@
+{
+  "uuid": "cbe64797-e272-4a40-a8b9-43b4ea5a4eac",
+  "path": "/usr/lib/x86_64-linux-gnu/libxmlb.so.2.0.0",
+  "size": 170056,
+  "modified": "2024-04-09T20:52:31Z",
+  "created": "2025-05-09T05:07:35.158664550Z",
+  "sha256_hash": "2b6e6a9110c07ab52d2530688e36edf12393859006a76b4d25f43b4925143393",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.875064888Z"
+}

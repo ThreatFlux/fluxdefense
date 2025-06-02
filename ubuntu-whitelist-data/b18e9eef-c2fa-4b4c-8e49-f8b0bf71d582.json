@@ -1,0 +1,17 @@
+{
+  "uuid": "b18e9eef-c2fa-4b4c-8e49-f8b0bf71d582",
+  "path": "/usr/lib/systemd/system/user-.slice.d/10-defaults.conf",
+  "size": 458,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "f8779864a6741f9a80eb803a651c38914a002330dcc17f048716f1d6f0cab983",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.457692012Z"
+}

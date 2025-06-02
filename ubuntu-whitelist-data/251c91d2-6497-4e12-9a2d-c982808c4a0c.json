@@ -1,0 +1,17 @@
+{
+  "uuid": "251c91d2-6497-4e12-9a2d-c982808c4a0c",
+  "path": "/lib/grub/x86_64-efi/morse.mod",
+  "size": 3304,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.836708033Z",
+  "sha256_hash": "9fc4194dadb2ee39b3e91a3113179d8cf6fd752a8b923562f2bb234fe0cf5619",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.039146013Z"
+}

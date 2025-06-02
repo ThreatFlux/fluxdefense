@@ -1,0 +1,17 @@
+{
+  "uuid": "229e4a8a-2297-429c-85a1-97c8cf8ac594",
+  "path": "/lib/aspell/cp1250.cmap",
+  "size": 31404,
+  "modified": "2024-04-08T15:54:10Z",
+  "created": "2025-05-09T05:07:21.010880441Z",
+  "sha256_hash": "85d529c9d15c233148c30b2d9f5b1698dc04f42b1e50d009b8dd15c8cc01311f",
+  "file_type": {
+    "Other": "cmap"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.777500913Z"
+}

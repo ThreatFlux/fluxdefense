@@ -1,0 +1,17 @@
+{
+  "uuid": "840d5f7e-efa2-4b97-a7ab-12cd8941ec44",
+  "path": "/lib/x86_64-linux-gnu/vdpau/libvdpau_trace.so.1.0.0",
+  "size": 63640,
+  "modified": "2024-04-08T16:08:28Z",
+  "created": "2025-05-09T05:09:17.703099589Z",
+  "sha256_hash": "66b86cda588b4d7e8cf9cf7e04a4cef737028bec3e0c879e9d8add5f305d6d53",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.402317905Z"
+}

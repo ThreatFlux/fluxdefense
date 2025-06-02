@@ -1,0 +1,15 @@
+{
+  "uuid": "0445fdb7-2001-4276-b4ba-a48464d08eee",
+  "path": "/lib/llvm-18/lib/libLLVMAVRDisassembler.a",
+  "size": 30102,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.783464390Z",
+  "sha256_hash": "5d0a0c9966dbc9324f03f3228665b7d9b7c40a3a7aad15ed9655d99e71d6a517",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.625921764Z"
+}

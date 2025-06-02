@@ -1,0 +1,17 @@
+{
+  "uuid": "6282f5da-8446-4e36-8690-f5f89b3a4f10",
+  "path": "/lib/llvm-18/include/clang-tidy/modernize/DeprecatedIosBaseAliasesCheck.h",
+  "size": 1467,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "e48c0cee89ecfb7b0fd8c86023b278784025199ffeefb333c57b2ccd5cc445bd",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.907940291Z"
+}

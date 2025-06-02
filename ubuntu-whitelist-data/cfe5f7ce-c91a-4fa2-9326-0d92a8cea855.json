@@ -1,0 +1,17 @@
+{
+  "uuid": "cfe5f7ce-c91a-4fa2-9326-0d92a8cea855",
+  "path": "/bin/gst-inspect-1.0",
+  "size": 68072,
+  "modified": "2024-12-17T12:53:48Z",
+  "created": "2025-05-09T05:07:19.873897791Z",
+  "sha256_hash": "6664091cc6486ddab6a07a4512f3f11ab2cbba0911f9ac0534dd9ef2ab542d49",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:18.311722367Z"
+}

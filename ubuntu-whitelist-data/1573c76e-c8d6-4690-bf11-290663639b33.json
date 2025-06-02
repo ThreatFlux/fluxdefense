@@ -1,0 +1,17 @@
+{
+  "uuid": "1573c76e-c8d6-4690-bf11-290663639b33",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/gtk+-x11-2.0.pc",
+  "size": 397,
+  "modified": "2024-07-15T16:53:59Z",
+  "created": "2025-05-29T11:16:08.321028314Z",
+  "sha256_hash": "2356a3ef4ca5228ad8cd8087b9fbdb20aa50c90c3deb012036e604c69ddf7a86",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.106834357Z"
+}

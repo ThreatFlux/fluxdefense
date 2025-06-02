@@ -1,0 +1,17 @@
+{
+  "uuid": "0f7d2d6e-f037-4541-816f-c8d6fe6b82cf",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/modernize/ShrinkToFitCheck.h",
+  "size": 1576,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "8aec751719ec27f268f8caefb1305615539fa1a57d21117ddfe3f6af19af2b75",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.255288859Z"
+}

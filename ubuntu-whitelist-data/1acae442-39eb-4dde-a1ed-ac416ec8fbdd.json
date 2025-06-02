@@ -1,0 +1,17 @@
+{
+  "uuid": "1acae442-39eb-4dde-a1ed-ac416ec8fbdd",
+  "path": "/usr/lib/firmware/amdgpu/aldebaran_smc.bin.zst",
+  "size": 66820,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.385543848Z",
+  "sha256_hash": "e78bc5660aadc6176cbfa096f2b2ed5d1b4aed76176b680961ecd6312063a72c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.812631693Z"
+}

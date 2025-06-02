@@ -1,0 +1,17 @@
+{
+  "uuid": "0e0f29fb-30fd-44eb-888c-522105b0a3d4",
+  "path": "/usr/lib/x86_64-linux-gnu/libgstwebrtc-1.0.so.0.2402.0",
+  "size": 76024,
+  "modified": "2024-04-15T13:00:06Z",
+  "created": "2025-05-09T05:09:28.093940997Z",
+  "sha256_hash": "10e43fede4aa65f97b1209b7f7acaf856fd6016dbcb094f2f283456bb61ba032",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.476670142Z"
+}

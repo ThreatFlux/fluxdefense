@@ -1,0 +1,15 @@
+{
+  "uuid": "d7450051-c6d9-4037-89c4-e0edd057ba64",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/IBM1130.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.626657409Z",
+  "sha256_hash": "92d55dfd262cf1845af252da69e556d8cd7e0a8370542e8887a1e846803c40e4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.557551017Z"
+}

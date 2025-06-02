@@ -1,0 +1,17 @@
+{
+  "uuid": "2846d7e5-6742-4333-aaaa-6818eceea0cb",
+  "path": "/lib/firmware/ueagle-atm/DSP4p.bin.zst",
+  "size": 171284,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.080534222Z",
+  "sha256_hash": "bf105f6f6623fae3d2db8aecf4d1be783df70df95c0a6ccc903db1b51613fb02",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.336017121Z"
+}

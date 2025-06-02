@@ -1,0 +1,15 @@
+{
+  "uuid": "74092f2b-ae31-44ff-b7aa-c7fcf82f69a2",
+  "path": "/usr/bin/lspci",
+  "size": 102512,
+  "modified": "2024-04-08T16:15:21Z",
+  "created": "2025-05-09T05:07:20.153893518Z",
+  "sha256_hash": "841665a0acd8b22c8d2fdcb236c8f943306052d407e3c6f3f9ba6148a4b00f19",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:06.056938193Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "717340e1-944f-4426-ba9a-c8d52e524f18",
+  "path": "/usr/lib/firmware/yamaha/yss225_registers.bin.zst",
+  "size": 1973,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.087534125Z",
+  "sha256_hash": "cc850350f503afe7231da92e62142ef819e8de9b90d50ca49f1393f53f92c6b0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.489836125Z"
+}

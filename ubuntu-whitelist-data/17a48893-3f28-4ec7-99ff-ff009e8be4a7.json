@@ -1,0 +1,17 @@
+{
+  "uuid": "17a48893-3f28-4ec7-99ff-ff009e8be4a7",
+  "path": "/lib/x86_64-linux-gnu/libshine.so.3.0.1",
+  "size": 43240,
+  "modified": "2024-04-18T17:49:09Z",
+  "created": "2025-05-09T05:09:19.265075749Z",
+  "sha256_hash": "48d786bf744f131b49aed602024658aff32cc906e83555133304adb8dc687941",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.286929027Z"
+}

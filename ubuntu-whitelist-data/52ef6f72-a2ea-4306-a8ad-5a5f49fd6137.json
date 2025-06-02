@@ -1,0 +1,17 @@
+{
+  "uuid": "52ef6f72-a2ea-4306-a8ad-5a5f49fd6137",
+  "path": "/lib/llvm-18/include/clang-c/BuildSystem.h",
+  "size": 5490,
+  "modified": "2023-12-18T16:32:15Z",
+  "created": "2025-05-12T13:34:31.554533252Z",
+  "sha256_hash": "86499535ba7be756f76a2afdbe9249aed6ee85229c76832fd5db17480d7f1bf2",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.887787450Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "2968fc9d-7352-407e-8f31-251d4d70575d",
+  "path": "/usr/bin/dh_strip_nondeterminism",
+  "size": 3198,
+  "modified": "2023-01-15T19:53:45Z",
+  "created": "2025-05-29T11:15:44.553354440Z",
+  "sha256_hash": "a0d1a41a5d0547c2aaae1f3fa8a89f3b0dcb726ccbf505794a32ab4f747255bf",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.331487815Z"
+}

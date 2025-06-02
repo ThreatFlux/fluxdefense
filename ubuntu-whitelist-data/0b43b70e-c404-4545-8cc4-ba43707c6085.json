@@ -1,0 +1,15 @@
+{
+  "uuid": "0b43b70e-c404-4545-8cc4-ba43707c6085",
+  "path": "/sbin/xtables-nft-multi",
+  "size": 224424,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:38.497613598Z",
+  "sha256_hash": "a1610dd70bb5ab04180671280df65b0077b680b627c0b6c51480b327732a762d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.732879897Z"
+}

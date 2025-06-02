@@ -1,0 +1,15 @@
+{
+  "uuid": "f7e65d42-e026-4b54-b5bc-1155b01f0a9e",
+  "path": "/usr/sbin/cfdisk",
+  "size": 97008,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.132619168Z",
+  "sha256_hash": "dbbd7e31ef992a460e2dcd44bb3edeccf80e6a8f9ff6f299e485acb0fe47ad3d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.173345998Z"
+}

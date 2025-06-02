@@ -1,0 +1,17 @@
+{
+  "uuid": "5a5b0876-929d-4c88-85b8-58694aa05e20",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/alsa.pc",
+  "size": 283,
+  "modified": "2024-03-31T00:17:56Z",
+  "created": "2025-05-29T11:16:20.005867971Z",
+  "sha256_hash": "8428a3aa1df23b7a4b67787ef2843dedaa5e3bb8d3edf3cd7ca4851b173bc0f4",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.106286114Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c570ef46-5bbb-4b31-81bc-4927d76ae2dc",
+  "path": "/lib/cloud-init/uncloud-init",
+  "size": 4092,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.233037137Z",
+  "sha256_hash": "4f9424ea6007cc8d0d9ca367c8777d1834997115724b75def8c6ce8ea6bb930c",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.146976717Z"
+}

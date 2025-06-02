@@ -1,0 +1,15 @@
+{
+  "uuid": "08c64cf1-247a-4ab0-b95a-887b72398bed",
+  "path": "/lib/libreoffice/program/libwriterlo.so",
+  "size": 205024,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:06.727435497Z",
+  "sha256_hash": "e5974e076226ccb6c4c91f3ea664957e4b8fb3994fc1b8a4b364c6ebdeb7b26a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:49.490468989Z"
+}

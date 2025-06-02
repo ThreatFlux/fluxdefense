@@ -1,0 +1,17 @@
+{
+  "uuid": "e222ec36-1e3e-428e-81c9-e34027bc03fb",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/include/waitpkgintrin.h",
+  "size": 2000,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.246389788Z",
+  "sha256_hash": "bc231fc228c06451b3bc7d640b51b2b48e1cb2ce37890cc8596d3db31c445307",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.927238197Z"
+}

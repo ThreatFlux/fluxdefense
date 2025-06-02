@@ -1,0 +1,17 @@
+{
+  "uuid": "3ff18dd1-8890-4971-ad49-3d118aec977c",
+  "path": "/usr/lib/google-cloud-sdk/.install/bq.manifest",
+  "size": 24261,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.314922053Z",
+  "sha256_hash": "edb3dcbc0130fe536456cb5aad0cd13107950afb9d7859e3835f171fa7739e88",
+  "file_type": {
+    "Other": "manifest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.556994872Z"
+}

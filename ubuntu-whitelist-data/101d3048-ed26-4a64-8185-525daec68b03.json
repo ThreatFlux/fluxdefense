@@ -1,0 +1,17 @@
+{
+  "uuid": "101d3048-ed26-4a64-8185-525daec68b03",
+  "path": "/usr/lib/firmware/amdgpu/topaz_me.bin.zst",
+  "size": 6145,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.419543377Z",
+  "sha256_hash": "dac1eaa7c1c27812748d7c5178f638ae13004ebe517bb3a1e95e4eec984d8446",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.976613046Z"
+}

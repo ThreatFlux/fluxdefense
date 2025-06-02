@@ -1,0 +1,17 @@
+{
+  "uuid": "d156052d-271e-41c8-b936-02905ae0aef1",
+  "path": "/lib/binfmt.d/python3.12.conf",
+  "size": 54,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:11:00.434531553Z",
+  "sha256_hash": "d3611447c5163739a93bcc173594603564769ebd909e9530f86d4781f8ef5791",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.737094083Z"
+}

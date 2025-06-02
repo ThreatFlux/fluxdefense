@@ -1,0 +1,15 @@
+{
+  "uuid": "40889ce9-1974-48bf-8f87-c486d7470e61",
+  "path": "/usr/bin/dumpkeys",
+  "size": 166760,
+  "modified": "2024-03-31T09:02:08Z",
+  "created": "2025-05-09T05:07:19.186908274Z",
+  "sha256_hash": "aea3a3260d80ade162dea0dc0b492c527f98a80a81a1866de691f8a8102424c4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:06.320195904Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "963468d9-595d-4dd4-9ce4-f811b11fd996",
+  "path": "/bin/unsquashfs",
+  "size": 151448,
+  "modified": "2024-04-08T16:20:03Z",
+  "created": "2025-05-09T05:07:20.828883218Z",
+  "sha256_hash": "b305985eb764b6d0ef757571e3e44044ebf71c827c4263efe576e9e14b4abcfb",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.210815765Z"
+}

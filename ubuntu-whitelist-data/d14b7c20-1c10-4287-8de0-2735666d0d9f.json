@@ -1,0 +1,17 @@
+{
+  "uuid": "d14b7c20-1c10-4287-8de0-2735666d0d9f",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/IPC/SysV.pm",
+  "size": 4565,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.518591327Z",
+  "sha256_hash": "3005af22664588caaddc4f305919baab8025f4f8b1c892981b9d465468334a41",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.577133850Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "dec82a67-e2a4-467e-8169-9c2f3817ed53",
+  "path": "/usr/lib/firmware/xe/bmg_huc.bin.zst",
+  "size": 152279,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.084534166Z",
+  "sha256_hash": "b02b9f1d1d5bc2918406da8334c6b5f7c72e028f9ed1edcca691db18d160bbee",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.365928455Z"
+}

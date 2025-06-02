@@ -1,0 +1,17 @@
+{
+  "uuid": "cda81a5f-c7f4-42cc-903e-df213d20dc60",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/android/CloexecPipe2Check.h",
+  "size": 1168,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "3f672162c41ac988da67e7f71523d7f0840c68235c214914e6b6eb6c3413e264",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.222777099Z"
+}

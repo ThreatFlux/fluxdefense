@@ -1,0 +1,17 @@
+{
+  "uuid": "f1fc94a1-8bfa-48e7-a35f-edbc931e8982",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/modernize/UseEqualsDefaultCheck.h",
+  "size": 1636,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "c7e6fee32507ce8bd54b642577fc429d26e6cbd88821f0661077603c749c39a1",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.259672021Z"
+}

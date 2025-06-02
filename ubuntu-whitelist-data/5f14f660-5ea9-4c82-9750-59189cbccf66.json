@@ -1,0 +1,17 @@
+{
+  "uuid": "5f14f660-5ea9-4c82-9750-59189cbccf66",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-vafi64.ali",
+  "size": 3789,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.145343843Z",
+  "sha256_hash": "3ed2284598bf079e2f0de1eb6bae9f189cf8c2276324a735ab612f2456684755",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.650304590Z"
+}

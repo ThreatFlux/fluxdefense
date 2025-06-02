@@ -1,0 +1,17 @@
+{
+  "uuid": "5fdc4bce-ed5e-477c-b772-b62acb72de3a",
+  "path": "/usr/lib/systemd/user/snapd.session-agent.socket",
+  "size": 152,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.599028688Z",
+  "sha256_hash": "aac4edde42d58f6246a28bf53b4c3f917d3ccf5064ccf401f14d918df68eccfa",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.500663717Z"
+}

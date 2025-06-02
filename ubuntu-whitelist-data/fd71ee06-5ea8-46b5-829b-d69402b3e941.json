@@ -1,0 +1,17 @@
+{
+  "uuid": "fd71ee06-5ea8-46b5-829b-d69402b3e941",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-interr.adb",
+  "size": 5137,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.052345121Z",
+  "sha256_hash": "50dc2d5de7b3b63af706088e5f50747839cfa594c833b66bd80c1e95f352fdb1",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.978141132Z"
+}

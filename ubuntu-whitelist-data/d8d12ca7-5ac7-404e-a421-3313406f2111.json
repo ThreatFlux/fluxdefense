@@ -1,0 +1,17 @@
+{
+  "uuid": "d8d12ca7-5ac7-404e-a421-3313406f2111",
+  "path": "/usr/lib/x86_64-linux-gnu/libmpfr.so.6.2.1",
+  "size": 760464,
+  "modified": "2024-10-02T12:40:52Z",
+  "created": "2025-05-09T05:07:31.529719928Z",
+  "sha256_hash": "2156351fa3dedd04a7381c6ac7a8a26efa2d6fb08b80f8a2d644ccdd653710ae",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.184378581Z"
+}

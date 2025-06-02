@@ -1,0 +1,17 @@
+{
+  "uuid": "0dec2827-6207-4d8a-ab1a-396603a8a1b7",
+  "path": "/lib/python3.12/test/sndhdrdata/sndhdr.voc",
+  "size": 63,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.001551644Z",
+  "sha256_hash": "f1bce46556ff43645e932299187a821683171f734f5231cf696a68aa3c81e047",
+  "file_type": {
+    "Other": "voc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.533689436Z"
+}

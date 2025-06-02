@@ -1,0 +1,17 @@
+{
+  "uuid": "ace20a1c-3d66-4c2f-9449-3c5d7d44f3e0",
+  "path": "/lib/systemd/system/virtlogd-admin.socket",
+  "size": 271,
+  "modified": "2025-03-13T16:25:50Z",
+  "created": "2025-05-20T14:31:33.305811285Z",
+  "sha256_hash": "7f512eb34d9e6e97cbb55179a2496e9e8848017915a05d44b3e847002d098501",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.124678618Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d5294525-8a3e-4657-a4eb-fd947fe574ce",
+  "path": "/usr/lib/firmware/iwlwifi-6050-5.ucode.zst",
+  "size": 151501,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.583541106Z",
+  "sha256_hash": "4693b2e1d2f740ca46938013463fff5baf818d079f5da6b6925d6554ce0b51dc",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.483359439Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "21e2f6a9-007c-4be6-824c-90bc880195c1",
+  "path": "/bin/dpkg-buildapi",
+  "size": 1835,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T06:33:31.736357711Z",
+  "sha256_hash": "69d8be5bc1d2e8b17fc6096912b07b72bcda3759de2301062c2fa5a0aa9e842d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.096600055Z"
+}

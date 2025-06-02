@@ -1,0 +1,17 @@
+{
+  "uuid": "03742ba5-5896-472f-859f-bdf0ef215004",
+  "path": "/usr/lib/firmware/mrvl/usb8897_uapsta.bin.zst",
+  "size": 488385,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.890536853Z",
+  "sha256_hash": "a6994d2e75ff608c45ce24b17c241d7fb8b36360839e9af5c85e84ec15a3cf9c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.399722963Z"
+}

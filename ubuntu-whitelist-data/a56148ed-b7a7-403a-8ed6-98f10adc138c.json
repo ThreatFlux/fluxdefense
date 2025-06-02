@@ -1,0 +1,17 @@
+{
+  "uuid": "a56148ed-b7a7-403a-8ed6-98f10adc138c",
+  "path": "/usr/lib/systemd/catalog/systemd.zh_TW.catalog",
+  "size": 7039,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.509779304Z",
+  "sha256_hash": "7915fe2c20cdc65d50f852eff7bef84d35e529fe0ef031337fb48d73b7ebe304",
+  "file_type": {
+    "Other": "catalog"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.549566523Z"
+}

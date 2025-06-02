@@ -1,0 +1,17 @@
+{
+  "uuid": "51ee3023-6d2c-4485-8240-3b56b9a5b62c",
+  "path": "/usr/lib/x86_64-linux-gnu/libxcb-icccm.so.4.0.0",
+  "size": 22592,
+  "modified": "2024-04-08T16:22:44Z",
+  "created": "2025-05-09T05:07:35.149664688Z",
+  "sha256_hash": "3373d6518194012d73658443165450232f0dcb08bf126d09da67cbe0ec4c29df",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.690697721Z"
+}

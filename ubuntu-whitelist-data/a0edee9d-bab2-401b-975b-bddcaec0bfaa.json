@@ -1,0 +1,17 @@
+{
+  "uuid": "a0edee9d-bab2-401b-975b-bddcaec0bfaa",
+  "path": "/usr/lib/ipxe/qemu/efi-vmxnet3.rom",
+  "size": 524288,
+  "modified": "2024-04-16T21:17:04Z",
+  "created": "2025-05-09T05:56:50.418632736Z",
+  "sha256_hash": "1b2a64a0660262d45d6223af798e9586f79f7e05e15df04407812f3ecf34cbad",
+  "file_type": {
+    "Other": "rom"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.340555448Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "5276f6c8-0a7e-42e9-8dd6-0d4068c4ca66",
+  "path": "/lib/llvm-18/include/clang-tidy/ExpandModularHeadersPPCallbacks.h",
+  "size": 6031,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.555533239Z",
+  "sha256_hash": "30a71fec1d3a3986fb096dbeeed1ad3c6efaa8168597d62712bda99f1ba541df",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.893903892Z"
+}

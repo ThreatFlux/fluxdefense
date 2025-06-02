@@ -1,0 +1,15 @@
+{
+  "uuid": "628d59a5-3521-4c17-a810-afe698e9974d",
+  "path": "/lib/evolution-data-server/calendar-backends/libecalbackendcaldav.so",
+  "size": 71840,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:21.657870568Z",
+  "sha256_hash": "4b5f75adf7eb640b134f0c0ccc9ea5ab6948a4e78bbbd323d5bdf5c0adeeb80a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.295439092Z"
+}

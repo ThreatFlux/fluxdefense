@@ -1,0 +1,15 @@
+{
+  "uuid": "b390ee63-2c00-431d-a0e2-1fbf5bf7269e",
+  "path": "/usr/lib/systemd/systemd-import-fs",
+  "size": 31200,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:56:53.646596479Z",
+  "sha256_hash": "acac987722bdecd76973d6848097880c75ea065e0765ef58bf9f98a5054818c7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.558864406Z"
+}

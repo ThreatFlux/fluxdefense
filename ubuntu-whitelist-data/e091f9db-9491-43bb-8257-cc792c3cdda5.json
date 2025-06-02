@@ -1,0 +1,17 @@
+{
+  "uuid": "e091f9db-9491-43bb-8257-cc792c3cdda5",
+  "path": "/usr/lib/systemd/user/paths.target",
+  "size": 402,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.526779521Z",
+  "sha256_hash": "5d1426401aa2b79ff4a9bb711ab781a5e70894a9da985e0a8b389121ecc8a0ce",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.505034236Z"
+}

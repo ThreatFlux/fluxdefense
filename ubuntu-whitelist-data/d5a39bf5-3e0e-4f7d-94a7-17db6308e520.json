@@ -1,0 +1,15 @@
+{
+  "uuid": "d5a39bf5-3e0e-4f7d-94a7-17db6308e520",
+  "path": "/usr/lib/python3/dist-packages/duplicity/backends/azurebackend.py",
+  "size": 5536,
+  "modified": "2025-02-15T08:51:42Z",
+  "created": "2025-05-09T05:07:26.869791037Z",
+  "sha256_hash": "c3a2551d282777d20f4d878ac7165488afb12a9afcc2c76c98302c219f1595ff",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.653347641Z"
+}

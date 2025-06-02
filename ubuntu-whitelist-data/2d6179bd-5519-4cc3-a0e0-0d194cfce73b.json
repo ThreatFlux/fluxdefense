@@ -1,0 +1,17 @@
+{
+  "uuid": "2d6179bd-5519-4cc3-a0e0-0d194cfce73b",
+  "path": "/lib/llvm-18/include/clang/Basic/DiagnosticAST.h",
+  "size": 903,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.527533608Z",
+  "sha256_hash": "c3e884dedeeb81d2a00c0295c0ef787c846212ded1348c272e462daaec1980c5",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.123262966Z"
+}

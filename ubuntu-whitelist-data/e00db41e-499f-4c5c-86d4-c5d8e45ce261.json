@@ -1,0 +1,17 @@
+{
+  "uuid": "e00db41e-499f-4c5c-86d4-c5d8e45ce261",
+  "path": "/usr/bin/grab_vcsa-3.2.2",
+  "size": 213536,
+  "modified": "2024-01-05T07:40:08Z",
+  "created": "2025-05-29T11:16:19.049881089Z",
+  "sha256_hash": "97554f26884d8e9cf835e814b3b980514f3d34b045bef64884e327246cf3ce1e",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.295324181Z"
+}

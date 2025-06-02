@@ -1,0 +1,17 @@
+{
+  "uuid": "2a854237-20c7-49ce-b66d-f8b91ea4e370",
+  "path": "/usr/lib/systemd/system/dev-hugepages.mount",
+  "size": 775,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "1bc85908a9d696f8dc68e4be7529c29139c2de056a7eb524a04925300364fdef",
+  "file_type": {
+    "Other": "mount"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.482695998Z"
+}

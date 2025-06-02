@@ -1,0 +1,15 @@
+{
+  "uuid": "f0303c6a-4a49-4890-9b91-e5ab371de224",
+  "path": "/usr/bin/containerd",
+  "size": 57370816,
+  "modified": "2025-03-31T12:35:03Z",
+  "created": "2025-05-09T05:49:09.666890658Z",
+  "sha256_hash": "c3e2653a5d592e9c1a17616010d59321f383f76d6acf9c76365df44d16112af9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.110993811Z"
+}

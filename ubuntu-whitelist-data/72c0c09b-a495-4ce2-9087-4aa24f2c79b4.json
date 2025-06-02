@@ -1,0 +1,17 @@
+{
+  "uuid": "72c0c09b-a495-4ce2-9087-4aa24f2c79b4",
+  "path": "/usr/sbin/runqlen.bt",
+  "size": 1037,
+  "modified": "2024-03-07T22:14:52Z",
+  "created": "2025-05-09T05:08:51.886493608Z",
+  "sha256_hash": "3384363e1f4d05bcdfdf22b6958b977f5a9ec52795779f035aa6ea8fb5907880",
+  "file_type": {
+    "Other": "bt"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.313684598Z"
+}

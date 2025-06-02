@@ -1,0 +1,17 @@
+{
+  "uuid": "ed89421f-081f-4e75-8bed-181ea372901d",
+  "path": "/lib/systemd/system/virt-guest-shutdown.target",
+  "size": 85,
+  "modified": "2024-01-15T09:58:03Z",
+  "created": "2025-05-20T14:31:33.305811285Z",
+  "sha256_hash": "82404c042125462fed713de95f0d631d52dec9eb5fb3aca2daefb63318b388db",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.115168547Z"
+}

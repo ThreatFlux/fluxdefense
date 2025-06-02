@@ -1,0 +1,15 @@
+{
+  "uuid": "07748385-c8cd-4698-8d34-eaf75a1e459b",
+  "path": "/lib/x86_64-linux-gnu/libxml2.a",
+  "size": 2791286,
+  "modified": "2025-04-24T18:42:32Z",
+  "created": "2025-05-12T13:34:34.367496210Z",
+  "sha256_hash": "edf4b4c1f9d4f8d5a2bbf39bebd5c699f7bc966a4d8d575fdee7f3c686bd4612",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.789395976Z"
+}

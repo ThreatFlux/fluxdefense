@@ -1,0 +1,17 @@
+{
+  "uuid": "7e1382c7-e5d3-47af-a93a-35204d265c6c",
+  "path": "/usr/lib/grub/x86_64-efi/video_fb.mod",
+  "size": 30016,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.840707972Z",
+  "sha256_hash": "dea639ab327ef83ee51ca6d2580a04c129a837c8db8ce95c431e224f7cf0633e",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.489691609Z"
+}

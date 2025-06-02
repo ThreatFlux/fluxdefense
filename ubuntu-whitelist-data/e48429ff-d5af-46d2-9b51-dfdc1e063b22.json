@@ -1,0 +1,17 @@
+{
+  "uuid": "e48429ff-d5af-46d2-9b51-dfdc1e063b22",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/readability/IdentifierLengthCheck.h",
+  "size": 1821,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "a6c7a965e9d556029ba2ec68c06734ea7db6e4926ace0d95e9ffa0e8be928a65",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.285800679Z"
+}

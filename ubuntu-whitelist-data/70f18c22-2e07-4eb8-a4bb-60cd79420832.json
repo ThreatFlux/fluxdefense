@@ -1,0 +1,15 @@
+{
+  "uuid": "70f18c22-2e07-4eb8-a4bb-60cd79420832",
+  "path": "/usr/lib/aspell/x86_64-linux-gnu/email-filter.so",
+  "size": 18664,
+  "modified": "2024-04-08T15:54:10Z",
+  "created": "2025-05-09T05:07:21.019880303Z",
+  "sha256_hash": "c06603460a40ffff596be69804b8aa4f4defb1c283c11cd7b80549757b9d9faf",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.316500676Z"
+}

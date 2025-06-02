@@ -1,0 +1,15 @@
+{
+  "uuid": "b067b999-bad1-4a0f-9b71-949c1bef8ee6",
+  "path": "/usr/lib/python3.12/test/encoded_modules/module_iso_8859_1.py",
+  "size": 238,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.998551683Z",
+  "sha256_hash": "7879299a86de5e7bda68136e07221d3aabecd775a7545911bc676a2bd106479a",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.214604612Z"
+}

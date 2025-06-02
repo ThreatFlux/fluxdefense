@@ -1,0 +1,17 @@
+{
+  "uuid": "6940015e-dbb5-4552-bcdd-992fc56d461c",
+  "path": "/usr/lib/udev/rules.d/80-net-setup-link.rules",
+  "size": 295,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "7056ebc8ef611d0f61b2ac01e20fa8cca035f957e58fd60600e3eec9bab927c2",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.101093416Z"
+}

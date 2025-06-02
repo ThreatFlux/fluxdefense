@@ -1,0 +1,17 @@
+{
+  "uuid": "00d5e5f3-3719-4fb7-8df6-75d4e81fd1bf",
+  "path": "/usr/lib/firmware/mediatek/mt7601u.bin.zst",
+  "size": 25190,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.676539818Z",
+  "sha256_hash": "0144a51c4203f867079afa123e8b281f630419289abd7e6075fe22e2a5271918",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.263945835Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "60dc1778-495f-467e-b508-107e56f6e43a",
+  "path": "/lib/systemd/system/whoopsie.service",
+  "size": 217,
+  "modified": "2024-03-31T08:32:58Z",
+  "created": "2025-05-09T05:07:28.305769124Z",
+  "sha256_hash": "8c0145b192dc8656157160ea06b7228a686786e0b22ba76c06e339e23b36117b",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.117625641Z"
+}

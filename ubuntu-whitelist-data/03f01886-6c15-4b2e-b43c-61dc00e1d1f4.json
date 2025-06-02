@@ -1,0 +1,15 @@
+{
+  "uuid": "03f01886-6c15-4b2e-b43c-61dc00e1d1f4",
+  "path": "/usr/lib/x86_64-linux-gnu/plymouth/ubuntu-text.so",
+  "size": 23216,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:27.028954877Z",
+  "sha256_hash": "922ff426ba38f72c3a2eeec99b7c3e8174b3a7de0878011158978fe1ad470f65",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.017431353Z"
+}

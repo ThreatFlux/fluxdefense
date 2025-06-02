@@ -1,0 +1,17 @@
+{
+  "uuid": "c8a823e3-4fce-46f0-8c22-1c641fe952aa",
+  "path": "/lib/firmware/dpaa2/mc/mc_10.14.3_lx2160a.itb.zst",
+  "size": 380233,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.523541937Z",
+  "sha256_hash": "1dc4848b9226a22d9340fec98a1112a974cfb3db75811ae532af4e0c515242f0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.821658685Z"
+}

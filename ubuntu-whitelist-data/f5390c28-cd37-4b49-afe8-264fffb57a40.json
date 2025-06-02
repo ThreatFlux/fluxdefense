@@ -1,0 +1,17 @@
+{
+  "uuid": "f5390c28-cd37-4b49-afe8-264fffb57a40",
+  "path": "/lib/x86_64-linux-gnu/gstreamer1.0/gstreamer-1.0/gst-plugin-scanner",
+  "size": 14656,
+  "modified": "2024-12-17T12:53:48Z",
+  "created": "2025-05-09T05:07:35.789654922Z",
+  "sha256_hash": "014cf7881160c1fc7acdc3b6e617883e1c69f981080c7d2daf463b911ef89e19",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.541200202Z"
+}

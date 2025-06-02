@@ -1,0 +1,15 @@
+{
+  "uuid": "78a2ca5f-deaf-49f6-879a-4553c68e1c44",
+  "path": "/usr/lib/gnupg/dirmngr_ldap",
+  "size": 44016,
+  "modified": "2025-03-28T15:23:49Z",
+  "created": "2025-05-09T05:11:23.111185406Z",
+  "sha256_hash": "97fd24bb2fbd381adc69aad8f1a0744d7437108ccb566c4029f9d2925af7794d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.238925865Z"
+}

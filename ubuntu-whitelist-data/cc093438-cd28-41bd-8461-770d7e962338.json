@@ -1,0 +1,17 @@
+{
+  "uuid": "cc093438-cd28-41bd-8461-770d7e962338",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/asm/posix_types_x32.ph",
+  "size": 332,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.521591281Z",
+  "sha256_hash": "23d3de13e92514357936e365d020e9cf48b080e221573bc3f8d961409489cf26",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.587796710Z"
+}

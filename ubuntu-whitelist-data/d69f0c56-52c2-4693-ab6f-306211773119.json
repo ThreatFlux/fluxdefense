@@ -1,0 +1,15 @@
+{
+  "uuid": "d69f0c56-52c2-4693-ab6f-306211773119",
+  "path": "/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-cinterion.so",
+  "size": 133448,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.160664520Z",
+  "sha256_hash": "de7852eb276ca1cd28cf42039a43b691dcb1624a6882932f723e2b38a4e0183e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.575017655Z"
+}

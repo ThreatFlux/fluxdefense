@@ -1,0 +1,17 @@
+{
+  "uuid": "61ede639-c181-4043-beca-cc39f62c61a9",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-kodak.so.1.2.1",
+  "size": 84224,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.144634245Z",
+  "sha256_hash": "924ee1d0a39d00aa24c3b0adcc565b4d1ddb99f744e477c03ba835dd4a4141f1",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.152975452Z"
+}

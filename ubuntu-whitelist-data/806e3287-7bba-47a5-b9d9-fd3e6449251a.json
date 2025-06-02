@@ -1,0 +1,17 @@
+{
+  "uuid": "806e3287-7bba-47a5-b9d9-fd3e6449251a",
+  "path": "/usr/lib/firmware/amdgpu/fiji_smc.bin.zst",
+  "size": 48889,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.393543737Z",
+  "sha256_hash": "7977eacb7d43248f5e77cbb76dc69d4379d865b9c9f25ffaa1dee7eaca7ea97f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.930892499Z"
+}

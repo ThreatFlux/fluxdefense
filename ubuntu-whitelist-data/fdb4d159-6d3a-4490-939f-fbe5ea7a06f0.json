@@ -1,0 +1,17 @@
+{
+  "uuid": "fdb4d159-6d3a-4490-939f-fbe5ea7a06f0",
+  "path": "/lib/python3.12/test/decimaltestdata/squareroot.decTest",
+  "size": 192459,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.997551697Z",
+  "sha256_hash": "03d25202b5127a3c53347d2bcce28ee47ad72e542d45629b5e23c4beaf46064d",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.423057635Z"
+}

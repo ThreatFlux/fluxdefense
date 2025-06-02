@@ -1,0 +1,15 @@
+{
+  "uuid": "8bbd027d-6b6b-4390-a322-2dfda8922720",
+  "path": "/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-pnm.so",
+  "size": 18800,
+  "modified": "2024-06-03T16:36:10Z",
+  "created": "2025-05-09T05:07:35.705656203Z",
+  "sha256_hash": "79b6ae2c7fa12a248a5da5137a49ea4384223c88491a9567fc6306773a786bf8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.168247079Z"
+}

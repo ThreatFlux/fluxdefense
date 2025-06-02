@@ -1,0 +1,15 @@
+{
+  "uuid": "8dcd5f0c-b070-4caa-a1da-14ebc8e7158b",
+  "path": "/usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-roc-source.so",
+  "size": 43280,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.784860128Z",
+  "sha256_hash": "0afcc3b8471a4df3105f56ed3011b8d4c0e9411c3a998175e454dff4d7736240",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.406785853Z"
+}

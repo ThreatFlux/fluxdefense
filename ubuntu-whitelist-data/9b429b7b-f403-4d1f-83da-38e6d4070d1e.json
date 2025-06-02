@@ -1,0 +1,17 @@
+{
+  "uuid": "9b429b7b-f403-4d1f-83da-38e6d4070d1e",
+  "path": "/usr/lib/llvm-18/include/clang/AST/StmtDataCollectors.inc",
+  "size": 4627,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.520533700Z",
+  "sha256_hash": "364e13e128927fd117c37748e42c70021034545103be660aaba2ce35323f5f47",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.391973823Z"
+}

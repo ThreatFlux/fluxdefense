@@ -1,0 +1,17 @@
+{
+  "uuid": "9447c796-888a-4fa0-bbfe-75bff5c66fcd",
+  "path": "/lib/firmware/mediatek/mt7986_wo_0.bin.zst",
+  "size": 44102,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.685539693Z",
+  "sha256_hash": "1dcc611811a177366cdbdc966365d459a7d40811b02e9049a73e118c37c693f4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.115356319Z"
+}

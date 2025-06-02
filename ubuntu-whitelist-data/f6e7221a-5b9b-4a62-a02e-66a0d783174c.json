@@ -1,0 +1,15 @@
+{
+  "uuid": "f6e7221a-5b9b-4a62-a02e-66a0d783174c",
+  "path": "/sbin/memleak-bpfcc",
+  "size": 21298,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "15a4b5cda820822f87d738da4a6fb37d4afb8c8fe18d56f6980f7082078c1c03",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.685773262Z"
+}

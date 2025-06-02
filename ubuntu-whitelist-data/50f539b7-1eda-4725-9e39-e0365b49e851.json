@@ -1,0 +1,17 @@
+{
+  "uuid": "50f539b7-1eda-4725-9e39-e0365b49e851",
+  "path": "/lib/llvm-18/include/clang-tidy/abseil/UpgradeDurationConversionsCheck.h",
+  "size": 1539,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "607354040c53eb7fcb457a5aad77500255c82b6ad5a0cfd854f26d93e9a825ed",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.903666497Z"
+}

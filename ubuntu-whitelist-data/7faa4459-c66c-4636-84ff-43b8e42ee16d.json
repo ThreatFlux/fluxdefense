@@ -1,0 +1,15 @@
+{
+  "uuid": "7faa4459-c66c-4636-84ff-43b8e42ee16d",
+  "path": "/usr/lib/llvm-18/lib/libLLVMExtensions.a",
+  "size": 2058,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.878463139Z",
+  "sha256_hash": "dbcd2b62e4112b2795db42377716e73b5dc411d528c2e2804a6a2dd7ca36a859",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:29.141811268Z"
+}

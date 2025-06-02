@@ -1,0 +1,15 @@
+{
+  "uuid": "c4137df2-3e2c-47bf-8e05-29712c04c1fb",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstdvdsub.so",
+  "size": 39504,
+  "modified": "2024-03-31T08:55:07Z",
+  "created": "2025-05-09T05:09:27.687947194Z",
+  "sha256_hash": "2c7c5f5881d76b6c9e47bad8bccba712bfcf6979b9e02e26f6a9ffc223094159",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.197899029Z"
+}

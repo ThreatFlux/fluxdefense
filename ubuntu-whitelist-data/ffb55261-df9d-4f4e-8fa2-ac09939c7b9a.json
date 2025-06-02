@@ -1,0 +1,17 @@
+{
+  "uuid": "ffb55261-df9d-4f4e-8fa2-ac09939c7b9a",
+  "path": "/lib/firmware/intel/dsp_fw_bxtn_v3366.bin.zst",
+  "size": 178596,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.547541604Z",
+  "sha256_hash": "61111b1173547a9f9c36f9b083cd8656af6e824e2f73aa6f5a6dc301dd62c602",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.267874609Z"
+}

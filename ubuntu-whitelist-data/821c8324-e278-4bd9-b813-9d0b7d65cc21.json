@@ -1,0 +1,15 @@
+{
+  "uuid": "821c8324-e278-4bd9-b813-9d0b7d65cc21",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libebt_arpreply.so",
+  "size": 14784,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.324631498Z",
+  "sha256_hash": "2ee833c299b7f450134304c043fa3606cf3c99cdb2641b120131a6c8a9d75e55",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.271213091Z"
+}

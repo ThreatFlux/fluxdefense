@@ -1,0 +1,15 @@
+{
+  "uuid": "1888da9d-2b29-4121-b55e-c649cd9bbbdc",
+  "path": "/lib/x86_64-linux-gnu/rsyslog/mmanon.so",
+  "size": 27128,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.547922264Z",
+  "sha256_hash": "4efc16acddb0bbc3f33ede8c1ef7b34c8b962ac2460c244f50442977aaee182f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.851557392Z"
+}

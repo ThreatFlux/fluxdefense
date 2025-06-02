@@ -1,0 +1,15 @@
+{
+  "uuid": "5e0214ce-6669-4458-b490-a4f988cb834a",
+  "path": "/bin/apt-cache",
+  "size": 88544,
+  "modified": "2024-10-22T13:02:22Z",
+  "created": "2025-05-30T21:04:50.158634132Z",
+  "sha256_hash": "7b9f8a0a1c6d6e547df46b8401b5fa521d324d959dc29f84927910af64a9401f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.721302756Z"
+}

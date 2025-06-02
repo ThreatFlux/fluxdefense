@@ -1,0 +1,17 @@
+{
+  "uuid": "b8f10538-f3b7-41b1-b1ad-7e2cfdfafee9",
+  "path": "/lib/systemd/system/getty-pre.target",
+  "size": 518,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "fa43115dfbf48f1ce0aa67308cd3d2e3bf948cd071faa6b5422f9559a15ed038",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.113221565Z"
+}

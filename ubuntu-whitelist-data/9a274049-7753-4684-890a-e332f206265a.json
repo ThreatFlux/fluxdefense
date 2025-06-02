@@ -1,0 +1,17 @@
+{
+  "uuid": "9a274049-7753-4684-890a-e332f206265a",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/pthread-stubs.pc",
+  "size": 251,
+  "modified": "2024-04-08T16:06:30Z",
+  "created": "2025-05-29T11:16:05.517066790Z",
+  "sha256_hash": "987f5e6ed4b260cbcae53d59e57fc5100f0758c7d4e9907bd44205ae23977fdc",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.064576686Z"
+}

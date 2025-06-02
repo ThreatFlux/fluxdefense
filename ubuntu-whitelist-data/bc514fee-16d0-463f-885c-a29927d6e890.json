@@ -1,0 +1,17 @@
+{
+  "uuid": "bc514fee-16d0-463f-885c-a29927d6e890",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-charac.ali",
+  "size": 484,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.096344516Z",
+  "sha256_hash": "c250821b8b1ccf219df57ff0914f0294a4ef7f90b051e4ce2a8f25e162cbbcae",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.714081591Z"
+}

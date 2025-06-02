@@ -1,0 +1,17 @@
+{
+  "uuid": "fec64be7-f3a6-4d80-a5fc-1962df18eded",
+  "path": "/opt/google/chrome/resources.pak",
+  "size": 11971982,
+  "modified": "2025-05-26T20:54:34Z",
+  "created": "2025-05-27T21:53:47.953421786Z",
+  "sha256_hash": "2ed54161cae413bed3a23f622e1c5f29a4f8aace3e3859b3b7563ef9432a6814",
+  "file_type": {
+    "Other": "pak"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:43.659516032Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "035f13bc-aac1-4b2a-b64c-d9ac3d17e98d",
+  "path": "/usr/lib/aspell/english-variant_0.alias",
+  "size": 82,
+  "modified": "2020-12-08T01:19:37Z",
+  "created": "2025-05-09T05:07:21.014880380Z",
+  "sha256_hash": "af761cb63fcd9c418bccb4a51f5926cecee3e3f5f1379b96f8a59d07e84830ff",
+  "file_type": {
+    "Other": "alias"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.283592228Z"
+}

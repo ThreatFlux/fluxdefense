@@ -1,0 +1,17 @@
+{
+  "uuid": "5ad8fd65-1a05-451c-bb77-c03bf8e3d536",
+  "path": "/usr/lib/udev/rules.d/60-libsane1.rules",
+  "size": 3693,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:28.436767125Z",
+  "sha256_hash": "e5d4bce2b861f96c05796e594122e76398f050ac7f7fa91decc249a95fbab144",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.106434019Z"
+}

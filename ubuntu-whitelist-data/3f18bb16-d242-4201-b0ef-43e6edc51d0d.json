@@ -1,0 +1,17 @@
+{
+  "uuid": "3f18bb16-d242-4201-b0ef-43e6edc51d0d",
+  "path": "/lib/x86_64-linux-gnu/evince/4/backends/comicsdocument.evince-backend",
+  "size": 4244,
+  "modified": "2024-10-15T07:35:01Z",
+  "created": "2025-05-09T05:07:35.586658019Z",
+  "sha256_hash": "cdc707cd8baf5c3f7e11e1a7c88d13e762acfaff567a2986ba10fdd573fec0ed",
+  "file_type": {
+    "Other": "evince-backend"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.705547616Z"
+}

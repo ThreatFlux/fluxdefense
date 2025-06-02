@@ -1,0 +1,15 @@
+{
+  "uuid": "4e2a581c-85b4-4b49-a092-c118c307cc9e",
+  "path": "/usr/bin/fakeroot-tcp",
+  "size": 3990,
+  "modified": "2024-01-21T16:56:06Z",
+  "created": "2025-05-09T06:33:34.273303175Z",
+  "sha256_hash": "1a5215afef6865141acf411933b5f4cba9e68cd4d02944006be50f7ab40568b4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.110059342Z"
+}

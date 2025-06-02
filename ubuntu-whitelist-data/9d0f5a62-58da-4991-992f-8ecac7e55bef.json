@@ -1,0 +1,17 @@
+{
+  "uuid": "9d0f5a62-58da-4991-992f-8ecac7e55bef",
+  "path": "/lib/grub/x86_64-efi/efinet.mod",
+  "size": 11088,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.804708521Z",
+  "sha256_hash": "4f053b95c9c3a76a73a305c1dc43efc6d58aaf901dc800fb80f64340750a2968",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.019416086Z"
+}

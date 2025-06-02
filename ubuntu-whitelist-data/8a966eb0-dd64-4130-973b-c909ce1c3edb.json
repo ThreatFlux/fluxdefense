@@ -1,0 +1,17 @@
+{
+  "uuid": "8a966eb0-dd64-4130-973b-c909ce1c3edb",
+  "path": "/usr/lib/x86_64-linux-gnu/libabsl_time_zone.so.20220623.0.0",
+  "size": 104784,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.941492393Z",
+  "sha256_hash": "1f2c9c6bedd75a526d10243d5093fb8688cdeca987c02cfef8476fc64097d984",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.427517123Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "cdf7908e-3d06-4ffe-b9e0-f4d731848bec",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-vauspe.ali",
+  "size": 1507,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.146343830Z",
+  "sha256_hash": "ed477ca84e3a27283171393ef263b26d2436e8e1d4fd2d3556a4ab6fb6a1f071",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.708673342Z"
+}

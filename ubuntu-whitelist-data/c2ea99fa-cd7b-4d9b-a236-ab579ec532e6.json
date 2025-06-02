@@ -1,0 +1,17 @@
+{
+  "uuid": "c2ea99fa-cd7b-4d9b-a236-ab579ec532e6",
+  "path": "/usr/lib/firmware/radeon/VERDE_rlc.bin.zst",
+  "size": 4479,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.063534457Z",
+  "sha256_hash": "13832c4462eca89bfd77532e4442f08bd88705dc6961789b1634321b096acb25",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.405130679Z"
+}

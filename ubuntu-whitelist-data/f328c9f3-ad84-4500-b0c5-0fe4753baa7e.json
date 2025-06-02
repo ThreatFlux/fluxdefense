@@ -1,0 +1,17 @@
+{
+  "uuid": "f328c9f3-ad84-4500-b0c5-0fe4753baa7e",
+  "path": "/usr/lib/firmware/iwlwifi-4965-2.ucode.zst",
+  "size": 73731,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.582541119Z",
+  "sha256_hash": "4e13462505c3dae29872ca529e24ae351ff7a53522768ebc44369f462a0948e0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:57.051380680Z"
+}

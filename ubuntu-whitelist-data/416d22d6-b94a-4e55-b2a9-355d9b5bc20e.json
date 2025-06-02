@@ -1,0 +1,17 @@
+{
+  "uuid": "416d22d6-b94a-4e55-b2a9-355d9b5bc20e",
+  "path": "/lib/x86_64-linux-gnu/libbabeltrace-ctf-text.so.1.0.0",
+  "size": 47456,
+  "modified": "2024-03-31T07:28:41Z",
+  "created": "2025-05-09T05:07:29.182755741Z",
+  "sha256_hash": "de4a8b88283c492bb287093bcebc5503eef91e42851dc79c8d6e47c17a76e553",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.306998837Z"
+}

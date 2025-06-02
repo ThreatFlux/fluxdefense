@@ -1,0 +1,15 @@
+{
+  "uuid": "6f411f38-4913-41c6-ac09-3726af170631",
+  "path": "/lib/python3/dist-packages/cloudinit/sources/DataSourceOpenNebula.py",
+  "size": 16042,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.241037243Z",
+  "sha256_hash": "91023b074658cdbff3a16619c812874636eb7c9a86c08a6b8c00dc2bd8100cbe",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.898531614Z"
+}

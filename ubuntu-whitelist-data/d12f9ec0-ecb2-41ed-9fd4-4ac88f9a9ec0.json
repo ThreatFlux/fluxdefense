@@ -1,0 +1,17 @@
+{
+  "uuid": "d12f9ec0-ecb2-41ed-9fd4-4ac88f9a9ec0",
+  "path": "/lib/x86_64-linux-gnu/libserd-0.so.0.32.2",
+  "size": 92152,
+  "modified": "2024-01-24T16:38:42Z",
+  "created": "2025-05-09T05:09:24.293998995Z",
+  "sha256_hash": "604ff236c92ce0ee75f0508d326e4dae5fe2dddaa9440cc876ce688a79bc284e",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.575511748Z"
+}

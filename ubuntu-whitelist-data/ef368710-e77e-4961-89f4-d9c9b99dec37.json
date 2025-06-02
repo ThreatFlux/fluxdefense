@@ -1,0 +1,15 @@
+{
+  "uuid": "ef368710-e77e-4961-89f4-d9c9b99dec37",
+  "path": "/bin/foo2lava-wrapper",
+  "size": 20083,
+  "modified": "2024-04-10T21:38:27Z",
+  "created": "2025-05-09T05:07:19.222907724Z",
+  "sha256_hash": "cc9718b290a71329dbb10b1830c938f82faf55b08a4901b2b8692616f89d4d9b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.033095902Z"
+}

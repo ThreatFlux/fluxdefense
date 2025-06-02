@@ -1,0 +1,17 @@
+{
+  "uuid": "d247e198-e492-48ef-b6e4-55e49384c522",
+  "path": "/usr/lib/x86_64-linux-gnu/libpinyin/data/nature.bin",
+  "size": 13017,
+  "modified": "2024-04-06T01:15:02Z",
+  "created": "2025-05-09T05:07:36.279647444Z",
+  "sha256_hash": "785706ca321d02ee92570f70b25f71fb944594e8b045dbe9606db3d31f93bb9c",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.288260842Z"
+}

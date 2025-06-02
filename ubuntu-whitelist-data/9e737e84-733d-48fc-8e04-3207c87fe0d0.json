@@ -1,0 +1,17 @@
+{
+  "uuid": "9e737e84-733d-48fc-8e04-3207c87fe0d0",
+  "path": "/usr/lib/libreoffice/program/opengl/glitterFragmentShader.glsl",
+  "size": 1039,
+  "modified": "2024-10-29T11:14:30Z",
+  "created": "2025-05-09T05:11:19.580239304Z",
+  "sha256_hash": "e20e18272727bf250d505b3203bbb489e2cdf54ba50dfedf821878dabd51880c",
+  "file_type": {
+    "Other": "glsl"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:43.498261113Z"
+}

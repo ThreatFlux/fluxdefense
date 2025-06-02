@@ -1,0 +1,17 @@
+{
+  "uuid": "b618c484-0e70-4790-a683-7775011601b4",
+  "path": "/usr/lib/libreoffice/program/libstaroffice-0.0-lo.so.0",
+  "size": 2621408,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:20.099231382Z",
+  "sha256_hash": "e8b5f7c78d7c0f9c88ccb2b6629bba31f8f4a85e6ae209377e68743d5987d814",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:45.004509368Z"
+}

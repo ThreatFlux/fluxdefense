@@ -1,0 +1,17 @@
+{
+  "uuid": "f4c0b7ab-3fb4-4637-a3bf-10b39ba923bf",
+  "path": "/usr/lib/systemd/user/org.gnome.SettingsDaemon.A11ySettings.target",
+  "size": 356,
+  "modified": "2024-04-18T10:59:35Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "09af57506fbb1c03c2072463eee33b0d24c57c6b2066120568750b40907f34a0",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.508300721Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "f61a94eb-4651-454f-91c6-fdfa4c32ec24",
+  "path": "/usr/lib/x86_64-linux-gnu/gtk-4.0/4.0.0/media/libmedia-gstreamer.so",
+  "size": 194720,
+  "modified": "2025-04-10T13:30:28Z",
+  "created": "2025-05-22T00:31:07.333065493Z",
+  "sha256_hash": "30eeebf996d9bdc9b2aa53c5f17eecb3808d9ee5612373b600c3f76e56e914c2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.368944158Z"
+}

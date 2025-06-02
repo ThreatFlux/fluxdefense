@@ -1,0 +1,17 @@
+{
+  "uuid": "282198f5-76a0-4cbe-bd28-133fc09f5234",
+  "path": "/lib/firmware/amdgpu/raven2_mec.bin.zst",
+  "size": 29952,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.414543446Z",
+  "sha256_hash": "2b1e50bace5cfcdad3b858f6b587b0e51ac66408b5f1eb30c95ea83b88587cb7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.894223848Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "1c59d7ef-81aa-4989-8b7c-d61526f4178a",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/a-cohase.adb",
+  "size": 61349,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.049345162Z",
+  "sha256_hash": "b6574060a4f436ced25a02aa6f16d972127e79ce5ee78806dca8bbc56faf7866",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.876676812Z"
+}

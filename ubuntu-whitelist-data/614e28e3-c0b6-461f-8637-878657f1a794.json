@@ -1,0 +1,15 @@
+{
+  "uuid": "614e28e3-c0b6-461f-8637-878657f1a794",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_esp.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.334631345Z",
+  "sha256_hash": "7662e5111332297ba71562ce306ec515f70f9c8f59910cbc12a18dee30cdd7ee",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.678636402Z"
+}

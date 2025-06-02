@@ -1,0 +1,17 @@
+{
+  "uuid": "d4be3e28-43c5-4fc9-a905-ec703af2ca54",
+  "path": "/lib/systemd/system/initrd-switch-root.target",
+  "size": 779,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "5d9620d86c1e929a8f279d9d0055c2f3983ef7438e9d0856a0b41cdb6c2a87ab",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.118428428Z"
+}

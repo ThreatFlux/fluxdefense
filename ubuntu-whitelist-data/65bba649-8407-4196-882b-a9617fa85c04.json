@@ -1,0 +1,17 @@
+{
+  "uuid": "65bba649-8407-4196-882b-a9617fa85c04",
+  "path": "/usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0",
+  "size": 910592,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:12.575767380Z",
+  "sha256_hash": "9cb64219e25c3f1750549370660a0d270c83ac5a9fe53c905b619b425da63273",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:26.227170278Z"
+}

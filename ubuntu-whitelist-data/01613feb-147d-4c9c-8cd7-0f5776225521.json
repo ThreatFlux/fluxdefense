@@ -1,0 +1,17 @@
+{
+  "uuid": "01613feb-147d-4c9c-8cd7-0f5776225521",
+  "path": "/lib/firmware/amdgpu/hawaii_ce.bin.zst",
+  "size": 1631,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.401543627Z",
+  "sha256_hash": "8d75ea1f393ae5f77cc65eb27ae5f4158b690d61ec6521d1053fea010940fd92",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.876666084Z"
+}

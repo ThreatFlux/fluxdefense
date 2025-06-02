@@ -1,0 +1,17 @@
+{
+  "uuid": "511bf4cd-6ff5-4fb3-b3ae-74a94ae23d9a",
+  "path": "/lib/x86_64-linux-gnu/ldscripts/i386pep.xbn",
+  "size": 10946,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:52.050575349Z",
+  "sha256_hash": "103dab9a8f44279345284decac0413b6e2c453d57717bbe5dde3a1bed60665f9",
+  "file_type": {
+    "Other": "xbn"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:18.246384913Z"
+}

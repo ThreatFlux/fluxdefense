@@ -1,0 +1,15 @@
+{
+  "uuid": "dd4ae10a-4e7d-4b2e-b863-5acff92c7652",
+  "path": "/usr/lib/llvm-18/lib/libclangTidyCERTModule.a",
+  "size": 1404568,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.860529222Z",
+  "sha256_hash": "8a8aac1d364ae3346e0025ae332e885d9344475f901a1aeaca015918f0a883cd",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:35.160563182Z"
+}

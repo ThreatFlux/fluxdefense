@@ -1,0 +1,17 @@
+{
+  "uuid": "5f63f0db-9e9a-43ed-a7b4-d4d97ed5492a",
+  "path": "/lib/x86_64-linux-gnu/libnetsnmpagent.so.40.2.1",
+  "size": 465288,
+  "modified": "2025-03-06T06:51:59Z",
+  "created": "2025-05-09T05:24:31.366012282Z",
+  "sha256_hash": "cbdd137b375a6161f0fa6d42b871042a84637296eaf99c1eb7f47b9e52b4eae1",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.956825940Z"
+}

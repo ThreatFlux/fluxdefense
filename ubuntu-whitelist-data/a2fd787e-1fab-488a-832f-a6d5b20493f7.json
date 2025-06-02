@@ -1,0 +1,17 @@
+{
+  "uuid": "a2fd787e-1fab-488a-832f-a6d5b20493f7",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-comutr.ali",
+  "size": 41554,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.097344503Z",
+  "sha256_hash": "168fcea072ffa8c931fd86e4c53a8f246a94c706f2a8294177b7cfc47d4d586f",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.844779069Z"
+}

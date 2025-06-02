@@ -1,0 +1,15 @@
+{
+  "uuid": "ef70ec54-a8f0-44d7-aacb-28c53cf29131",
+  "path": "/usr/bin/rgrep",
+  "size": 30,
+  "modified": "2023-07-21T14:47:24Z",
+  "created": "2025-05-09T05:07:20.392889871Z",
+  "sha256_hash": "0a8dd42a068115f058ae57f9f6347e1ef0ae2ffea89bf658b132974246577748",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.088350064Z"
+}

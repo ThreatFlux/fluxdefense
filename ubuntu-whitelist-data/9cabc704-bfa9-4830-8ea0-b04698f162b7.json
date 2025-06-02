@@ -1,0 +1,15 @@
+{
+  "uuid": "9cabc704-bfa9-4830-8ea0-b04698f162b7",
+  "path": "/usr/sbin/dpkg-preconfigure",
+  "size": 4356,
+  "modified": "2024-04-12T12:40:53Z",
+  "created": "2025-05-09T05:07:38.180618436Z",
+  "sha256_hash": "8f389d049e6b15029ca7311cd449861f47b7e3381f4083646b812380f07f28c9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.729275147Z"
+}

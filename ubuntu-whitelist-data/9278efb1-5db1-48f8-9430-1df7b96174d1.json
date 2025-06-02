@@ -1,0 +1,17 @@
+{
+  "uuid": "9278efb1-5db1-48f8-9430-1df7b96174d1",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/readability/RedundantPreprocessorCheck.h",
+  "size": 1296,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "dc398545e14c691271ccb123f1610d1b40e49dc96057b74fc71fe390643155a5",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.286517171Z"
+}

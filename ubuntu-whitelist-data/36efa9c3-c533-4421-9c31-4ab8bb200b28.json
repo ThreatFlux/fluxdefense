@@ -1,0 +1,17 @@
+{
+  "uuid": "36efa9c3-c533-4421-9c31-4ab8bb200b28",
+  "path": "/usr/lib/firmware/intel/sof/sof-jsl.ldc.zst",
+  "size": 17641,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.046491166Z",
+  "sha256_hash": "404529b4b2fbff4a833f079eb8ebe58230ffb275197221f48f7499dc638e4fe6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.652669165Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "cae9d134-c769-4a73-a552-0bef3b2f67a9",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/workstations/delete.yaml",
+  "size": 680,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.647933382Z",
+  "sha256_hash": "04d0013a32f06ff04344ce7e8a246e1f64c1c652ac3ea39f07f12aa98c783de8",
+  "file_type": {
+    "Other": "yaml"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.822187391Z"
+}

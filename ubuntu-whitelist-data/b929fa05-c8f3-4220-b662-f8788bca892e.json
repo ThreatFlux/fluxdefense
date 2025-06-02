@@ -1,0 +1,17 @@
+{
+  "uuid": "b929fa05-c8f3-4220-b662-f8788bca892e",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/finclude/openacc_kinds.mod",
+  "size": 711,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:14.305355382Z",
+  "sha256_hash": "b01c3c030b397244a83c4f29fe0f8144c3511ee77fad598c613372a545dd97dd",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.584564050Z"
+}

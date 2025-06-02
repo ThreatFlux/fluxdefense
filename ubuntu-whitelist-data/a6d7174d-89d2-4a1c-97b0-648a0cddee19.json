@@ -1,0 +1,17 @@
+{
+  "uuid": "a6d7174d-89d2-4a1c-97b0-648a0cddee19",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/abseil/StringFindStartswithCheck.h",
+  "size": 1860,
+  "modified": "2023-12-06T09:23:46Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "dede8d213bad528eb7dc97e0f6d9662ba57373549a855eb97a6010d0fde1a4b8",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.244006434Z"
+}

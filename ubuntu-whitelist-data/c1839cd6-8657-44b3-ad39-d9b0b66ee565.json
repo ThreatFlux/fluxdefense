@@ -1,0 +1,17 @@
+{
+  "uuid": "c1839cd6-8657-44b3-ad39-d9b0b66ee565",
+  "path": "/lib/x86_64-linux-gnu/libsynctex.so.2.0.0",
+  "size": 123832,
+  "modified": "2024-03-31T08:27:34Z",
+  "created": "2025-05-09T05:07:32.213709490Z",
+  "sha256_hash": "9d811b987922ce896d662a7dce04dd008df7127babcd632a29449ecd29b0ae92",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:18.261633257Z"
+}

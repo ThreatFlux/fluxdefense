@@ -1,0 +1,15 @@
+{
+  "uuid": "1963b43a-32cc-4f2a-8584-a2bb74237c76",
+  "path": "/lib/x86_64-linux-gnu/sssd/libsss_ldap_common.so",
+  "size": 698088,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:37.268632352Z",
+  "sha256_hash": "d1d5f95518603d34ca445070b42549d0d64aa3bac617565faf44899e2c971a2e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.863706697Z"
+}

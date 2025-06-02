@@ -1,0 +1,15 @@
+{
+  "uuid": "56337bfd-39e0-4ff4-8cc5-1ef6152ad358",
+  "path": "/usr/lib/llvm-18/lib/libLLVMFileCheck.a",
+  "size": 279230,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.878463139Z",
+  "sha256_hash": "1627d6305fda96078bf9b62eabba7b964b40ae4a6530f672d72d4dade4f13dbe",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:33.943352947Z"
+}

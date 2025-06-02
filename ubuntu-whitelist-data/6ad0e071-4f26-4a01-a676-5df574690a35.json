@@ -1,0 +1,17 @@
+{
+  "uuid": "6ad0e071-4f26-4a01-a676-5df574690a35",
+  "path": "/lib/firmware/amphion/vpu/vpu_fw_imx8_dec.bin.zst",
+  "size": 275706,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.429543239Z",
+  "sha256_hash": "f4aa4af73d75fde9b93e7867aa972b88e8096d773825f503471f93c69b0575b2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.298732737Z"
+}

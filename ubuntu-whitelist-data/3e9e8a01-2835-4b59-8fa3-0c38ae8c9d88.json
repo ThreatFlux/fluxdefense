@@ -1,0 +1,15 @@
+{
+  "uuid": "3e9e8a01-2835-4b59-8fa3-0c38ae8c9d88",
+  "path": "/usr/libexec/gvfsd-dnssd",
+  "size": 39376,
+  "modified": "2024-04-18T13:39:03Z",
+  "created": "2025-05-09T05:07:37.510628660Z",
+  "sha256_hash": "5c78dd018622d7815a1f8b326d97ab7f811141831b593943a330c734797e73d9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.464603945Z"
+}

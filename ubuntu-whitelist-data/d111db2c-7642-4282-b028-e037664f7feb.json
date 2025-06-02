@@ -1,0 +1,17 @@
+{
+  "uuid": "d111db2c-7642-4282-b028-e037664f7feb",
+  "path": "/lib/firmware/amdgpu/yellow_carp_toc.bin.zst",
+  "size": 915,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.427543266Z",
+  "sha256_hash": "c399a735d621893f97f7b9de26ac1ac40e327095402039adc1728c7dbddd80e3",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.873181884Z"
+}

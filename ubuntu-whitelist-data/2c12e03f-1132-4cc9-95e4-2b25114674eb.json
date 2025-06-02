@@ -1,0 +1,17 @@
+{
+  "uuid": "2c12e03f-1132-4cc9-95e4-2b25114674eb",
+  "path": "/usr/lib/grub/x86_64-efi/gfxterm_menu.mod",
+  "size": 7768,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.810708430Z",
+  "sha256_hash": "9e8830a200aea1add2e6fbdffe352e08ddad97610bfcad722367cf7a6a5b3152",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.447998072Z"
+}

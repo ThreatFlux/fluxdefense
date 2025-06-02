@@ -1,0 +1,15 @@
+{
+  "uuid": "af991aaf-594c-4e87-aa5d-6ebfbd121c1f",
+  "path": "/usr/sbin/sudo_sendlog",
+  "size": 134832,
+  "modified": "2024-04-08T14:50:39Z",
+  "created": "2025-05-09T05:07:38.429614636Z",
+  "sha256_hash": "bce3163a46289bc4e3eca7c778f395c3c58369de29b354aa67a63cc67c66aeda",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.539119641Z"
+}

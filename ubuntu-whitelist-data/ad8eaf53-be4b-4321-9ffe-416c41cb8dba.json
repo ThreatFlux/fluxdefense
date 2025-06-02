@@ -1,0 +1,17 @@
+{
+  "uuid": "ad8eaf53-be4b-4321-9ffe-416c41cb8dba",
+  "path": "/lib/llvm-18/include/clang-tidy/llvmlibc/InlineFunctionDeclCheck.h",
+  "size": 1759,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "1330c28f81a1c02d7afe0c70195f84719afc6673a81b740946eebbaf54470bcd",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.911437165Z"
+}

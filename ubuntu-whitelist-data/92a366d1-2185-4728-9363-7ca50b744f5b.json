@@ -1,0 +1,15 @@
+{
+  "uuid": "92a366d1-2185-4728-9363-7ca50b744f5b",
+  "path": "/lib/x86_64-linux-gnu/libbz2.a",
+  "size": 82042,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-29T11:16:04.067086686Z",
+  "sha256_hash": "311e9e4f44d6330807f9f90eab57c59e15c842e57c2aab29f17618b579f7c293",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.842838088Z"
+}

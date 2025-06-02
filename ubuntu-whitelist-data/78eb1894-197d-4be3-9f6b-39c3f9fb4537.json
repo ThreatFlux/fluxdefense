@@ -1,0 +1,17 @@
+{
+  "uuid": "78eb1894-197d-4be3-9f6b-39c3f9fb4537",
+  "path": "/lib/modules-load.d/fwupd-msr.conf",
+  "size": 4,
+  "modified": "2025-03-18T08:21:05Z",
+  "created": "2025-05-09T05:24:28.638976132Z",
+  "sha256_hash": "0ddfd6290cf2263f5e6be277a9d45e42cbbe1d2f1298fb0f352b7f07c36dd545",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.494299756Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "9b30999c-1155-49fe-85c8-ad22815c96d9",
+  "path": "/usr/lib/x86_64-linux-gnu/liblilv-0.so.0.24.22",
+  "size": 96248,
+  "modified": "2024-04-18T17:48:24Z",
+  "created": "2025-05-09T05:09:24.892989853Z",
+  "sha256_hash": "be488ddc8b92267b80517b46a6c31699d8f1695d6ae26c728d9b83ee3ee74093",
+  "file_type": {
+    "Other": "22"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:22.047654469Z"
+}

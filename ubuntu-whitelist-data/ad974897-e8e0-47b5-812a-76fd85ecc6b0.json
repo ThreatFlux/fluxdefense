@@ -1,0 +1,15 @@
+{
+  "uuid": "ad974897-e8e0-47b5-812a-76fd85ecc6b0",
+  "path": "/usr/lib/i386-linux-gnu/gconv/NATS-SEFI.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.283663370Z",
+  "sha256_hash": "c8eac5664214cb0b58d396bfb7ed7cdfac8fc0f49f15128a17f3b1f012228200",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.963844797Z"
+}

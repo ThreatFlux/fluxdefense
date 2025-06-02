@@ -1,0 +1,17 @@
+{
+  "uuid": "b1292177-c42b-4bc8-97c8-aae5fc0f1a84",
+  "path": "/lib/x86_64-linux-gnu/libgif.so.7.2.0",
+  "size": 38904,
+  "modified": "2024-04-05T08:31:09Z",
+  "created": "2025-05-09T05:07:29.795746387Z",
+  "sha256_hash": "9519aa5c1eac9582c409ed9cff4ab88ac50dc7094e4baa9b1f16134eded2d812",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.073289119Z"
+}

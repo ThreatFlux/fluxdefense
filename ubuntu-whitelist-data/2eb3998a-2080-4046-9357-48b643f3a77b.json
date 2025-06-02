@@ -1,0 +1,17 @@
+{
+  "uuid": "2eb3998a-2080-4046-9357-48b643f3a77b",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/libwebp.pc",
+  "size": 285,
+  "modified": "2024-03-31T08:02:02Z",
+  "created": "2025-05-29T11:16:02.933102247Z",
+  "sha256_hash": "1b9ad4c6cbad0cf3f578ed8c4b68bb3086d63520dabdcd3cf72b59861580713b",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.061247954Z"
+}

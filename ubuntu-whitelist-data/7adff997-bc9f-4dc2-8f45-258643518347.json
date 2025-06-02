@@ -1,0 +1,17 @@
+{
+  "uuid": "7adff997-bc9f-4dc2-8f45-258643518347",
+  "path": "/lib/systemd/user/org.gnome.SettingsDaemon.Datetime.target",
+  "size": 350,
+  "modified": "2024-04-18T10:59:35Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "d598d8236795e7c353ac695916e6fde5dc0a1ca7ccf1c5588d13eb1040ca3386",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.145561186Z"
+}

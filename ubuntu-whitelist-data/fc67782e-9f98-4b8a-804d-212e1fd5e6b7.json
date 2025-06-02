@@ -1,0 +1,17 @@
+{
+  "uuid": "fc67782e-9f98-4b8a-804d-212e1fd5e6b7",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/llvmlibc/ImplementationInNamespaceCheck.h",
+  "size": 1398,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "bc06e568872ad65c9e815465668185992f35645065f2c50098ff1a7d745f008b",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.261796052Z"
+}

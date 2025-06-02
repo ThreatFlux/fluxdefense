@@ -1,0 +1,17 @@
+{
+  "uuid": "fb024431-f2cf-4494-8515-581f4e96adef",
+  "path": "/lib/llvm-18/include/clang/AST/ASTConsumer.h",
+  "size": 6116,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.510533832Z",
+  "sha256_hash": "f9a34bb74634c79b263739b1326b424a4a31b5f127ac8a7b9b4058456eca398b",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.952756057Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "5c245008-a7d4-4778-8bff-b939f13e8624",
+  "path": "/bin/choom",
+  "size": 22912,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:19.100909586Z",
+  "sha256_hash": "92910cedc6991a58295b4d625c696fb9ff1e602345dc23e14604f43014839f27",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.935199559Z"
+}

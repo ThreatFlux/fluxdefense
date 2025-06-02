@@ -1,0 +1,17 @@
+{
+  "uuid": "c8da7b66-a3bb-4196-9fe7-81960f1bd885",
+  "path": "/usr/lib/blt2.5/tvutil.tcl",
+  "size": 16986,
+  "modified": "2024-04-08T15:54:39Z",
+  "created": "2025-05-28T17:29:44.079603140Z",
+  "sha256_hash": "7223ce7d38cc4b01746ae1764421dee1d785b5e65af1fae574cdfee400247e91",
+  "file_type": {
+    "Other": "tcl"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.370198870Z"
+}

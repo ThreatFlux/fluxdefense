@@ -1,0 +1,15 @@
+{
+  "uuid": "97e9a89a-75aa-4d66-8b4d-c2e149982cfc",
+  "path": "/bin/dpkg-shlibdeps",
+  "size": 32219,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T06:33:31.737357690Z",
+  "sha256_hash": "06d7129cf40b0186dfa961f277e79664970d9f9207ae23ab11f8135aef488b02",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.313629020Z"
+}

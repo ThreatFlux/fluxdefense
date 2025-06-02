@@ -1,0 +1,15 @@
+{
+  "uuid": "2ac496d6-fb2b-416b-a6ec-241a24e3655b",
+  "path": "/lib/llvm-18/bin/llvm-cxxfilt",
+  "size": 27304,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:34.910489059Z",
+  "sha256_hash": "f1f3bdc50296a40fb099a5b6558a85cfddb27bbd96d01b38dd42a2db13141a8c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.872335139Z"
+}

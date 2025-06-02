@@ -1,0 +1,15 @@
+{
+  "uuid": "65c16a41-718d-407d-b804-985deef7cae9",
+  "path": "/usr/lib/python3/dist-packages/duplicity/backends/lftpbackend.py",
+  "size": 9199,
+  "modified": "2025-02-15T08:51:42Z",
+  "created": "2025-05-09T05:07:26.870791021Z",
+  "sha256_hash": "05152e448b9028025a8cffd6998655ba78c6d5dd4b4d9e2479fd3fbf1d391504",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.650874481Z"
+}

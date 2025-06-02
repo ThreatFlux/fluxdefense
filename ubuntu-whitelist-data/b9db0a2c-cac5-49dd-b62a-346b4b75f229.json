@@ -1,0 +1,17 @@
+{
+  "uuid": "b9db0a2c-cac5-49dd-b62a-346b4b75f229",
+  "path": "/usr/lib/firmware/i915/kbl_guc_62.0.0.bin.zst",
+  "size": 86016,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.540541701Z",
+  "sha256_hash": "5389ba83f040669a0c0ef202d9e25d3550f82374d0fb066452007d44342d6c38",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.818839218Z"
+}

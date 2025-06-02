@@ -1,0 +1,15 @@
+{
+  "uuid": "8e57be71-fd3c-479f-947c-03af0db8ec9e",
+  "path": "/lib/x86_64-linux-gnu/ModemManager/libmm-shared-fibocom.so",
+  "size": 22776,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.161664505Z",
+  "sha256_hash": "76ebef3d76ba8f5be7244a7568e048fbd9ef367bf131d207522e13cfce7597b4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.580138818Z"
+}

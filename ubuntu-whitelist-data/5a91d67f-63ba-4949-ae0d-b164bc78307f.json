@@ -1,0 +1,15 @@
+{
+  "uuid": "5a91d67f-63ba-4949-ae0d-b164bc78307f",
+  "path": "/sbin/phpstat-bpfcc",
+  "size": 53,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "905ee6828fd66c8ef30f0a302ce7e8b4511cc776d5c48c611da9a836b9e86af5",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.178171558Z"
+}

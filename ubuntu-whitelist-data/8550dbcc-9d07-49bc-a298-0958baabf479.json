@@ -1,0 +1,15 @@
+{
+  "uuid": "8550dbcc-9d07-49bc-a298-0958baabf479",
+  "path": "/usr/lib/x86_64-linux-gnu/gvfs/libgvfsdaemon.so",
+  "size": 162024,
+  "modified": "2024-04-18T13:39:03Z",
+  "created": "2025-05-09T05:07:35.814654540Z",
+  "sha256_hash": "c95194b090e7960478a256709a2d678f43f8906bfdaeadfd2d6956f7e50eab57",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.927699418Z"
+}

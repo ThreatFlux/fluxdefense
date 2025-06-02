@@ -1,0 +1,17 @@
+{
+  "uuid": "e14e0ba0-5810-48af-b38a-fcd5086cdd33",
+  "path": "/lib/x86_64-linux-gnu/libcolord.so.2.0.5",
+  "size": 326944,
+  "modified": "2024-03-31T07:30:41Z",
+  "created": "2025-05-09T05:07:29.238754887Z",
+  "sha256_hash": "82eec8f0da7d833308bcbb39bc5aebf4213f0b163b34b06b95b3a761c40e2e3d",
+  "file_type": {
+    "Other": "5"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.926596343Z"
+}

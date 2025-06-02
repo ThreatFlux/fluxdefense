@@ -1,0 +1,17 @@
+{
+  "uuid": "fa1d2cce-0e95-45d1-9abe-ce93707f71e1",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-adl-rt5650.tplg.zst",
+  "size": 2017,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.057490999Z",
+  "sha256_hash": "a2491841c7d7067078a3f10217a2fa6cf40431eb137321793670cc7f5c8abfca",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.874731735Z"
+}

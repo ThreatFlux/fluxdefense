@@ -1,0 +1,15 @@
+{
+  "uuid": "1a7f851c-c906-4cd7-8eb7-c0a80c200117",
+  "path": "/lib/google-cloud-sdk/lib/surface/auth/print_refresh_token.py",
+  "size": 1415,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.733931921Z",
+  "sha256_hash": "763160bf7d3c074b1bc26aa9635d636bca7ca45bd6bc1d26cf33a973bdaf7915",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.039278747Z"
+}

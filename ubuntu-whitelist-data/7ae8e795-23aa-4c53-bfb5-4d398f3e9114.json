@@ -1,0 +1,15 @@
+{
+  "uuid": "7ae8e795-23aa-4c53-bfb5-4d398f3e9114",
+  "path": "/usr/lib/linux-boot-probes/mounted/90fallback",
+  "size": 2102,
+  "modified": "2023-03-07T13:24:16Z",
+  "created": "2025-05-09T05:07:25.745808188Z",
+  "sha256_hash": "f224b89f3d379751d87b39ba7a63489226879d4e9dea798e54590059c4532004",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.562444835Z"
+}

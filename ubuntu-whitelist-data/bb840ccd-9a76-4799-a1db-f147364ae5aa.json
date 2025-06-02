@@ -1,0 +1,17 @@
+{
+  "uuid": "bb840ccd-9a76-4799-a1db-f147364ae5aa",
+  "path": "/lib/x86_64-linux-gnu/libsamba-errors.so.1.0.0",
+  "size": 1300784,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:32.108711092Z",
+  "sha256_hash": "8702fec1dcdf8fb95f8ac62a58648a6e6e7f29272c08178fbfcca78a4ca34b34",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.561035532Z"
+}

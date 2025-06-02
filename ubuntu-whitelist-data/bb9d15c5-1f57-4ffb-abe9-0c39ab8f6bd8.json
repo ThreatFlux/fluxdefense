@@ -1,0 +1,15 @@
+{
+  "uuid": "bb9d15c5-1f57-4ffb-abe9-0c39ab8f6bd8",
+  "path": "/lib/python3/dist-packages/cloudinit/config/cc_disk_setup.py",
+  "size": 30316,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.234037150Z",
+  "sha256_hash": "46949062dd069d3acef5a38ae063404347cc323f760a463d612e6ff3d47cf4c4",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.912956267Z"
+}

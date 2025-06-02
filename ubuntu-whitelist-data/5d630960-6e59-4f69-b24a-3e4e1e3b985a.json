@@ -1,0 +1,17 @@
+{
+  "uuid": "5d630960-6e59-4f69-b24a-3e4e1e3b985a",
+  "path": "/lib/udev/rules.d/90-bolt.rules",
+  "size": 359,
+  "modified": "2024-02-19T08:46:07Z",
+  "created": "2025-05-09T05:07:28.439767079Z",
+  "sha256_hash": "960fb7013d86b6466f6b0243bb3dc4f92d98f726255d63c449ea2bb0011653f7",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.249947187Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "2b169dea-8e97-4c17-a248-1085ba9cc6a0",
+  "path": "/usr/lib/x86_64-linux-gnu/libosinfo-1.0.so.0.1011.0",
+  "size": 272624,
+  "modified": "2024-03-31T02:09:47Z",
+  "created": "2025-05-09T05:56:58.795538654Z",
+  "sha256_hash": "c43a7e71cff7dff0cbdcb454fb89d7303e52cc1fdaace331892263a0e55d5fd3",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:08.025566050Z"
+}

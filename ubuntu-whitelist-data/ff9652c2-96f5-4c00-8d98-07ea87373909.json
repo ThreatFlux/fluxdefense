@@ -1,0 +1,15 @@
+{
+  "uuid": "ff9652c2-96f5-4c00-8d98-07ea87373909",
+  "path": "/usr/lib/apparmor/profile-load",
+  "size": 1984,
+  "modified": "2025-03-19T18:09:43Z",
+  "created": "2025-05-09T05:24:25.749938044Z",
+  "sha256_hash": "d1c100514f5674097606e593c08a2a604105e7dce5054307bb7e9151d2044579",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.362510641Z"
+}

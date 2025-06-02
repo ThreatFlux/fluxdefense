@@ -1,0 +1,17 @@
+{
+  "uuid": "15e8e09e-3170-4056-a30c-7e315c1f06f6",
+  "path": "/usr/lib/x86_64-linux-gnu/libnetfilter_conntrack.so.3.8.0",
+  "size": 124552,
+  "modified": "2024-04-08T16:05:42Z",
+  "created": "2025-05-09T05:07:31.684717562Z",
+  "sha256_hash": "9c7872c3790aca2e044a3dbdca44479e90c3e5a0f28115814851ac0d2a32618a",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:15.594076721Z"
+}

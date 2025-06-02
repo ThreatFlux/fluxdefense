@@ -1,0 +1,17 @@
+{
+  "uuid": "b1fd60d7-de08-4981-9489-f5df50c4f5d7",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/errno.ph",
+  "size": 23,
+  "modified": "2024-04-05T19:56:49Z",
+  "created": "2025-05-09T05:10:56.559590701Z",
+  "sha256_hash": "7201ec151c2fd7b3928d02c4d6e84fb5197804fb5817ad06013a673a6eb07c2c",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.474677397Z"
+}

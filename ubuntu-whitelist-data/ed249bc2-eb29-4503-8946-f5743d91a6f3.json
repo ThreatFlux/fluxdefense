@@ -1,0 +1,17 @@
+{
+  "uuid": "ed249bc2-eb29-4503-8946-f5743d91a6f3",
+  "path": "/lib/python3.12/test/certdata/selfsigned_pythontestdotnet.pem",
+  "size": 2130,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.987551828Z",
+  "sha256_hash": "3879632e778cb56dfc6df5b9d2f60c5e39c264338f6647f11568837f9d62e535",
+  "file_type": {
+    "Other": "pem"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.632697644Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e81aab04-3846-4886-a5f2-c84ddd9a1e8e",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/NoEscapeCheck.h",
+  "size": 1421,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "5349a8ec74929c69c2039e54cf24b0daeca5f83249fbe805a8cb3373a2838443",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.234928270Z"
+}

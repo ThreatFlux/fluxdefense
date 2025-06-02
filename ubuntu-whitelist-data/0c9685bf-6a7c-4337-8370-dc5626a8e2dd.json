@@ -1,0 +1,17 @@
+{
+  "uuid": "0c9685bf-6a7c-4337-8370-dc5626a8e2dd",
+  "path": "/lib/firmware/brcm/brcmfmac43241b0-sdio.bin.zst",
+  "size": 287508,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.481542518Z",
+  "sha256_hash": "5a629ecf2eeb664243efe6822ad587043b64d4e1e2f1665871319e3efc539204",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.517332315Z"
+}

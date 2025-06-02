@@ -1,0 +1,17 @@
+{
+  "uuid": "42a29364-d34a-45b1-85d1-da2779f05b3a",
+  "path": "/lib/firmware/ea/layla20_dsp.fw.zst",
+  "size": 8255,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.529541854Z",
+  "sha256_hash": "0fc0299e06bdfdfdbfdccc8d7088f1ca951975eb12c6dbe95810b0918b2c3036",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.609050032Z"
+}

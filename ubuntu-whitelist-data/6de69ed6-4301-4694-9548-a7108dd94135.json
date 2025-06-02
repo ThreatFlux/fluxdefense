@@ -1,0 +1,17 @@
+{
+  "uuid": "6de69ed6-4301-4694-9548-a7108dd94135",
+  "path": "/usr/lib/firmware/nvidia/tu104/gr/gpccs_sig.bin.zst",
+  "size": 111,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.959535898Z",
+  "sha256_hash": "d4c4d3b99fe59f95d412ebd18a263a6c37875aa4c1cfa4cf9b932b9a7611456c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.291416439Z"
+}

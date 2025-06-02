@@ -1,0 +1,17 @@
+{
+  "uuid": "08898a54-5421-489f-8e2e-0405893b4189",
+  "path": "/lib/i386-linux-gnu/libanl.so.1",
+  "size": 13672,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.287663309Z",
+  "sha256_hash": "4a296a530344b6bc021cc1ecccb06bdaa9b91d7fb9c7d80122b3858f91cb1d5a",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:45.183415984Z"
+}

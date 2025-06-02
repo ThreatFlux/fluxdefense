@@ -1,0 +1,15 @@
+{
+  "uuid": "f16be209-15bc-46af-9a14-3a686ead8019",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/builds/log.py",
+  "size": 3428,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.665933076Z",
+  "sha256_hash": "bd8249217e4039de41da44ae5fde45a2495f50baa832e3f0ccb9e5cdf5b689f5",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.829751019Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "81e5cf73-89ef-4274-a818-10067350eb61",
+  "path": "/lib/x86_64-linux-gnu/sssd/libsss_debug.so",
+  "size": 27184,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:37.245632703Z",
+  "sha256_hash": "6d4083cf9fa3466859fddf0eafe5c9731932101a8459535d4dcccb213f7d705a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.881111153Z"
+}

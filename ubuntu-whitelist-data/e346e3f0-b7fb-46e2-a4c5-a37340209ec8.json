@@ -1,0 +1,15 @@
+{
+  "uuid": "e346e3f0-b7fb-46e2-a4c5-a37340209ec8",
+  "path": "/lib/google-cloud-sdk/platform/gsutil/gslib/gcs_json_api.py",
+  "size": 106518,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.817930494Z",
+  "sha256_hash": "d500d95c558fe27843fbf1f0802de3f45145bdef016591cfabd6615c95b98374",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.975474216Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "7712ee06-173f-45dc-9028-005f4747d86a",
+  "path": "/lib/llvm-18/include/clang-tidy/performance/TriviallyDestructibleCheck.h",
+  "size": 1539,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "cb1534595091900ab1ccf442dec129cda3d48bd256ccce77aa6fa2937f6d9c6c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.920910310Z"
+}

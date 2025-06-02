@@ -1,0 +1,15 @@
+{
+  "uuid": "b47529ad-73d8-4407-a179-ccf8eb08afe0",
+  "path": "/usr/bin/flock",
+  "size": 23024,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:19.217907800Z",
+  "sha256_hash": "e0854854f6154262470fb7d208fa29a8c069a78ddb387430fc1c0d68e420321c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.164396846Z"
+}

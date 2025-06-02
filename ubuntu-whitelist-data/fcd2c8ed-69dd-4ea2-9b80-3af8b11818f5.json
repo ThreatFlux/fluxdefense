@@ -1,0 +1,17 @@
+{
+  "uuid": "fcd2c8ed-69dd-4ea2-9b80-3af8b11818f5",
+  "path": "/usr/lib/x86_64-linux-gnu/libgme.so.0.6.3",
+  "size": 305328,
+  "modified": "2024-04-18T17:47:47Z",
+  "created": "2025-05-09T05:09:21.977034358Z",
+  "sha256_hash": "70f3bc0133a2c991bd89ba85cfd248e4facf2276a9c6205957f15ecb16e5276c",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:27.966560288Z"
+}

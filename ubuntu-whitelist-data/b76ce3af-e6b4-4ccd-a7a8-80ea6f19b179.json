@@ -1,0 +1,17 @@
+{
+  "uuid": "b76ce3af-e6b4-4ccd-a7a8-80ea6f19b179",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/Encode.pm",
+  "size": 32201,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.514591388Z",
+  "sha256_hash": "3be99c4bbe26852962528287c24d34aecd28f0719d2750cbbb8faeebe4d67cde",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.538308243Z"
+}

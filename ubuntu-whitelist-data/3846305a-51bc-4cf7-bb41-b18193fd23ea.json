@@ -1,0 +1,17 @@
+{
+  "uuid": "3846305a-51bc-4cf7-bb41-b18193fd23ea",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/a-tigeau.adb",
+  "size": 16248,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.061344997Z",
+  "sha256_hash": "92df409b1c14c0caf0885b91bff79adf0f477d22a0e14fc471663780d73dcf8f",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.948850939Z"
+}

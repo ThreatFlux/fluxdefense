@@ -1,0 +1,17 @@
+{
+  "uuid": "0af3158d-122c-4c0b-b094-40fc3feed12b",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/g-hesorg.ali",
+  "size": 1694,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.108344351Z",
+  "sha256_hash": "e58110d0b9a43a9930c6e1bb0dfec7487fcd2b26dc574ec05da28cc7300b9ac8",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.480189167Z"
+}

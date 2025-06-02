@@ -1,0 +1,15 @@
+{
+  "uuid": "7c544e36-a23f-462c-a833-9a5ca97c7e3c",
+  "path": "/usr/bin/byobu-quiet",
+  "size": 1410,
+  "modified": "2024-02-10T17:03:36Z",
+  "created": "2025-05-23T03:43:49.240694211Z",
+  "sha256_hash": "9dd324c535548b3c2b57aa382e8f38bd6c4e3d6236f264ce51259bd3db0b1cec",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.691731741Z"
+}

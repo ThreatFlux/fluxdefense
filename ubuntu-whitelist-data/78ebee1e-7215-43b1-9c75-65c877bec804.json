@@ -1,0 +1,17 @@
+{
+  "uuid": "78ebee1e-7215-43b1-9c75-65c877bec804",
+  "path": "/lib/firmware/ath11k/IPQ6018/hw1.0/m3_fw.b01.zst",
+  "size": 2498,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.449542962Z",
+  "sha256_hash": "0766e935bff31b76e5532bae6ce7794e740cbb30e3ce958e26a8b97901155c80",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:03.354089076Z"
+}

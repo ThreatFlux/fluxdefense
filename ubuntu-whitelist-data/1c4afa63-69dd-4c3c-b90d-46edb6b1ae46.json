@@ -1,0 +1,17 @@
+{
+  "uuid": "1c4afa63-69dd-4c3c-b90d-46edb6b1ae46",
+  "path": "/usr/lib/x86_64-linux-gnu/libgck-2.so.2.2.0",
+  "size": 211080,
+  "modified": "2024-04-04T14:50:15Z",
+  "created": "2025-05-09T05:07:29.765746845Z",
+  "sha256_hash": "ef7c10851a903bc768d30a7a998b27fea9835a5541fb3540e012027420c37de9",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.429818958Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c00cf05a-389d-4e3e-aaee-d430b90fad2b",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/libgomp.spec",
+  "size": 164,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.641381281Z",
+  "sha256_hash": "06851fc0a32d1c008b3ea56bdb562c2922b9f50a6da08d31c9783708cbb06681",
+  "file_type": {
+    "Other": "spec"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.628780536Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "62c8314b-a3fc-4da6-aa5f-52041668c8fd",
+  "path": "/usr/lib/x86_64-linux-gnu/libxxhash.so.0.8.2",
+  "size": 71752,
+  "modified": "2024-04-08T16:23:58Z",
+  "created": "2025-05-09T05:07:35.159664535Z",
+  "sha256_hash": "a43c43c2fbb643f42572577b6c2514905804f963d186d4d630e184c4015e68a7",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.510630982Z"
+}

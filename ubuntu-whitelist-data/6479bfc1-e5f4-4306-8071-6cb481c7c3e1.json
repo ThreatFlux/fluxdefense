@@ -1,0 +1,17 @@
+{
+  "uuid": "6479bfc1-e5f4-4306-8071-6cb481c7c3e1",
+  "path": "/usr/lib/llvm-18/lib/cmake/llvm/FindZ3.cmake",
+  "size": 4582,
+  "modified": "2023-12-03T09:16:41Z",
+  "created": "2025-05-12T13:34:36.684465694Z",
+  "sha256_hash": "0413b4e7b5d6dd064a4644e1b19af9b3cbde224e1b07782ca83b6c372a68f302",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:31.095526771Z"
+}

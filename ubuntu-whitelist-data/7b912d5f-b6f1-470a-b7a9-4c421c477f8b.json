@@ -1,0 +1,15 @@
+{
+  "uuid": "7b912d5f-b6f1-470a-b7a9-4c421c477f8b",
+  "path": "/lib/python3/dist-packages/cloudinit/sources/DataSourceVultr.py",
+  "size": 4614,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.242037257Z",
+  "sha256_hash": "cb5b5822cb9a9c41f153096a5b82d911822adc7fb9764b4cc0b90fc52e05b7e9",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.897916777Z"
+}

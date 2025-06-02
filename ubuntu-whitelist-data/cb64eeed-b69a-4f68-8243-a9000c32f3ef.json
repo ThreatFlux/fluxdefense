@@ -1,0 +1,17 @@
+{
+  "uuid": "cb64eeed-b69a-4f68-8243-a9000c32f3ef",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adalib/s-imfi64.ali",
+  "size": 7840,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.139343925Z",
+  "sha256_hash": "54882e60e0d741ef4caae9905164a60c83f096b3f25186563a611e27203816f5",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.892364008Z"
+}

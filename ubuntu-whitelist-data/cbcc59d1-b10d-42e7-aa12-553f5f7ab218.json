@@ -1,0 +1,17 @@
+{
+  "uuid": "cbcc59d1-b10d-42e7-aa12-553f5f7ab218",
+  "path": "/usr/lib/systemd/system/suricata.service",
+  "size": 631,
+  "modified": "2024-02-05T08:15:14Z",
+  "created": "2025-05-26T20:18:27.621014378Z",
+  "sha256_hash": "529138ea1bfbf6c6c6e581aed35fc14c7714a473a5e60ef4777acead24b536b0",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.445285066Z"
+}

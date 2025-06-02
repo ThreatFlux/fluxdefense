@@ -1,0 +1,15 @@
+{
+  "uuid": "31763195-bd15-474d-80ac-cc0fec45efca",
+  "path": "/usr/libexec/gnome-terminal-server",
+  "size": 330656,
+  "modified": "2024-03-31T06:13:09Z",
+  "created": "2025-05-09T05:07:37.496628873Z",
+  "sha256_hash": "f2a5ee124c692861d7a3d60f6da1a9fded2a17ee8c1712c02e0131a9db971dfe",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.160641337Z"
+}

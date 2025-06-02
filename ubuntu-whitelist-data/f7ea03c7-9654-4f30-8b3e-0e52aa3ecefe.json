@@ -1,0 +1,17 @@
+{
+  "uuid": "f7ea03c7-9654-4f30-8b3e-0e52aa3ecefe",
+  "path": "/usr/lib/x86_64-linux-gnu/perl-base/AutoLoader.pm",
+  "size": 5487,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.348578658Z",
+  "sha256_hash": "750ee369fbf3c34f72a823ca261d33a89bba98ad1d4a967f4f89e19b122eaabf",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.752997043Z"
+}

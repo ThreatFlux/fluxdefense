@@ -1,0 +1,15 @@
+{
+  "uuid": "acf3046b-9081-438d-97c6-47e132db3f8a",
+  "path": "/usr/bin/devdump",
+  "size": 187776,
+  "modified": "2024-03-14T16:53:13Z",
+  "created": "2025-05-09T15:50:18.768385366Z",
+  "sha256_hash": "24b3758d0c0d4a4105cdc3f7c0d84e9c001a2f6e3345afc3c27783057ab96dcd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.847865320Z"
+}

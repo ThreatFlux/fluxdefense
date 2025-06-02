@@ -1,0 +1,17 @@
+{
+  "uuid": "497daccc-05a2-4e1f-9b46-9a52b897ae43",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/libdeflate.pc",
+  "size": 777,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-29T11:16:03.209098459Z",
+  "sha256_hash": "aac3549a7f4dc8c36a95ace0dd3bbffff3251bfb9319595d523cb73f5e4a2da6",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.108265607Z"
+}

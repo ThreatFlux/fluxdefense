@@ -1,0 +1,15 @@
+{
+  "uuid": "a1cf045d-154e-4b55-b469-169492e33c49",
+  "path": "/usr/bin/rrsync",
+  "size": 12639,
+  "modified": "2025-01-16T09:29:26Z",
+  "created": "2025-05-09T05:07:20.393889856Z",
+  "sha256_hash": "cb46c1bf89c25e1193eb16e9201405bc0e39d2c2d03bff42d3cee86ef15e3050",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:13.873766873Z"
+}

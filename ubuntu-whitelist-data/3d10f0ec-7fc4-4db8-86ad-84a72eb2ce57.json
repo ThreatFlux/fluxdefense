@@ -1,0 +1,15 @@
+{
+  "uuid": "3d10f0ec-7fc4-4db8-86ad-84a72eb2ce57",
+  "path": "/usr/bin/x86_64-linux-gnu-objcopy",
+  "size": 166536,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:52.044575440Z",
+  "sha256_hash": "5dc8fbfabcd338efd14bf29f7e13c5d558bd029725f21632c56bfd53e1330100",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:08.270052560Z"
+}

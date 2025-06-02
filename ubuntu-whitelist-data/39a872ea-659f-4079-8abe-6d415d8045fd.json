@@ -1,0 +1,15 @@
+{
+  "uuid": "39a872ea-659f-4079-8abe-6d415d8045fd",
+  "path": "/lib/x86_64-linux-gnu/security/pam_fprintd.so",
+  "size": 31232,
+  "modified": "2024-04-04T01:58:13Z",
+  "created": "2025-05-09T05:07:37.199633405Z",
+  "sha256_hash": "058e2d57d47dd29e79f8f7a1762e00045af96753ff5f71a8dbd117d4a7d77582",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.385731984Z"
+}

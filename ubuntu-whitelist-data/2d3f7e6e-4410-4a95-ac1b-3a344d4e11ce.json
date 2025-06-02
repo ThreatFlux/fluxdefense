@@ -1,0 +1,17 @@
+{
+  "uuid": "2d3f7e6e-4410-4a95-ac1b-3a344d4e11ce",
+  "path": "/usr/lib/firmware/mediatek/mt8173/vpu_d.bin.zst",
+  "size": 21312,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.690539624Z",
+  "sha256_hash": "b66e52e406cb863a5b57f6225e1c2f81b35089a14545bd35804cb9aec3380d0f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.240555290Z"
+}

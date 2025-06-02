@@ -1,0 +1,17 @@
+{
+  "uuid": "3d13a84e-583d-40cf-8d00-c6afe1f987ad",
+  "path": "/lib/x86_64-linux-gnu/perl-base/SelectSaver.pm",
+  "size": 344,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.353578582Z",
+  "sha256_hash": "f6f2b9bf40423e54466311866dc9f67a1318396d2d162cf84722e28d715a0ca9",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.906406447Z"
+}

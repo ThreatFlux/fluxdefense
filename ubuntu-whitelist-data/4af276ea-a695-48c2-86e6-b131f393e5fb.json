@@ -1,0 +1,17 @@
+{
+  "uuid": "4af276ea-a695-48c2-86e6-b131f393e5fb",
+  "path": "/usr/lib/llvm-18/include/clang/Lex/LexDiagnostic.h",
+  "size": 496,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.544533384Z",
+  "sha256_hash": "6c1ce64e861995553123d364829a5f6b6806f25e12273246b7a59a5f5f1ea0e9",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.618073493Z"
+}

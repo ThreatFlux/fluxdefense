@@ -1,0 +1,15 @@
+{
+  "uuid": "c95f0057-c1f1-463b-826c-4a168709ffa4",
+  "path": "/bin/ischroot",
+  "size": 14824,
+  "modified": "2024-03-31T08:47:33Z",
+  "created": "2025-05-09T05:07:20.075894708Z",
+  "sha256_hash": "115afdea031142fd734509138abf8a212636f6d4dac049cbe60651d700a4fe91",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.288284562Z"
+}

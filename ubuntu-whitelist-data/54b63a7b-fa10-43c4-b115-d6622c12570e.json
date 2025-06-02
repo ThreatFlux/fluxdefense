@@ -1,0 +1,17 @@
+{
+  "uuid": "54b63a7b-fa10-43c4-b115-d6622c12570e",
+  "path": "/lib/llvm-18/include/clang/Basic/Thunk.h",
+  "size": 5480,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.532533542Z",
+  "sha256_hash": "67412d3b4338efc95f8884547b0a6f3b2fe03df2f73b5f815f311e4dc5c5eed6",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.087678643Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "8edb94de-6536-40af-8a3b-dd6df5f3ed84",
+  "path": "/usr/lib/firmware/liquidio/lio_210nv_nic.bin.zst",
+  "size": 424866,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.669539914Z",
+  "sha256_hash": "58224b48ab0da8a7cbbb64e854e93b33067761b72781708ae622b607d23a9d14",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.319287418Z"
+}

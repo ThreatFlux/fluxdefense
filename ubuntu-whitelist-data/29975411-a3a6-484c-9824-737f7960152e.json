@@ -1,0 +1,17 @@
+{
+  "uuid": "29975411-a3a6-484c-9824-737f7960152e",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/SignalHandlerCheck.h",
+  "size": 3987,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "c450b558f06412931c23dc7962dca9b785f542a1588ef8b0c767f41bc2d8af08",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.894845318Z"
+}

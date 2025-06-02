@@ -1,0 +1,17 @@
+{
+  "uuid": "e9adf2cd-0f8c-4123-82f7-3f8867b9cf93",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-soflin.adb",
+  "size": 8954,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.089344612Z",
+  "sha256_hash": "246781272cc5580bd520582b3cdd9c4e4269b3794e20753461586fa81155fa99",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.890292049Z"
+}

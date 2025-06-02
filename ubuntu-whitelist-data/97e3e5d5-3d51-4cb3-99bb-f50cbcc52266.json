@@ -1,0 +1,17 @@
+{
+  "uuid": "97e3e5d5-3d51-4cb3-99bb-f50cbcc52266",
+  "path": "/usr/lib/firmware/i915/bmg_dmc.bin.zst",
+  "size": 10518,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.532541812Z",
+  "sha256_hash": "84913373817e86c18ed714b8c420ee835655bcda2ae6cde13a85538235dd3efc",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.782065120Z"
+}

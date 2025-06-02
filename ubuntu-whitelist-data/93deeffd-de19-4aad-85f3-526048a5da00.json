@@ -1,0 +1,17 @@
+{
+  "uuid": "93deeffd-de19-4aad-85f3-526048a5da00",
+  "path": "/lib/systemd/user/graphical-session-pre.target",
+  "size": 576,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.526779521Z",
+  "sha256_hash": "52aec1721523cf15f1840ea5696c19824c24924cb32b0ad3d08237d25ddf2a81",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.145497598Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "424f672e-ee79-4469-88f6-0941e3ba9a6f",
+  "path": "/lib/firmware/amdgpu/bonaire_pfp.bin.zst",
+  "size": 3608,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.389543793Z",
+  "sha256_hash": "2a10c0e3ae978fd3952038d637ce509fc03ddf36855468076ad633c022d9ad58",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.942113527Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "207b1fcd-178e-458d-bcae-48f756c174d5",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-powlfl.ali",
+  "size": 678,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.143343871Z",
+  "sha256_hash": "5d101817f9e42a18405800d02aa262fa34cff74265c31f6b17e35f6e73267a57",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.696738544Z"
+}

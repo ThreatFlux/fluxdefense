@@ -1,0 +1,15 @@
+{
+  "uuid": "23f93ee4-d918-40ef-aeb5-dd9f0f94d769",
+  "path": "/sbin/badblocks",
+  "size": 35144,
+  "modified": "2024-04-28T23:44:46Z",
+  "created": "2025-05-09T05:07:38.126619260Z",
+  "sha256_hash": "6d99eb9e32d73af8e97119729b914b02c1e1f5e4af1548fdc5938881d5552ccf",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.966008840Z"
+}

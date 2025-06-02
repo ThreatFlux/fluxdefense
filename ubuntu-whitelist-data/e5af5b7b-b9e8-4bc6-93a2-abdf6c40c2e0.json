@@ -1,0 +1,17 @@
+{
+  "uuid": "e5af5b7b-b9e8-4bc6-93a2-abdf6c40c2e0",
+  "path": "/lib/llvm-18/include/clang/Parse/LoopHint.h",
+  "size": 1413,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.545533371Z",
+  "sha256_hash": "976a22a0ee61e352ed0afe29d9d348ad219001203e126129515fc04792811b06",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.180105250Z"
+}

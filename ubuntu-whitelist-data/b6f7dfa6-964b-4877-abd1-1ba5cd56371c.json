@@ -1,0 +1,15 @@
+{
+  "uuid": "b6f7dfa6-964b-4877-abd1-1ba5cd56371c",
+  "path": "/lib/google-cloud-sdk/lib/third_party/dns/edns.py",
+  "size": 7424,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.114942437Z",
+  "sha256_hash": "2138d0b9a3d7756ed91e593ba92c8762c164dd89358ea6a0c1a89ad74690c7b8",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.873942563Z"
+}

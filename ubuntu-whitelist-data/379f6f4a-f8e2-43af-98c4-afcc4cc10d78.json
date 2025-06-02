@@ -1,0 +1,17 @@
+{
+  "uuid": "379f6f4a-f8e2-43af-98c4-afcc4cc10d78",
+  "path": "/lib/firmware/amdgpu/navy_flounder_rlc.bin.zst",
+  "size": 48570,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.406543557Z",
+  "sha256_hash": "6c2e981c1c7c90f214c2833a0d5e2d3603a7129432c25bed0e8bcb02f4081d06",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.944087590Z"
+}

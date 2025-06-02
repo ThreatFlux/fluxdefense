@@ -1,0 +1,15 @@
+{
+  "uuid": "cd565700-8326-43ed-9513-c1ade53ec731",
+  "path": "/usr/lib/google-cloud-sdk/platform/gsutil/gslib/storage_url.py",
+  "size": 16545,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.848929967Z",
+  "sha256_hash": "9f095ecac9ae3f65f6dc616afc34b5b024aef1c7c21edf31a66189dcd8a3b6a3",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.569015910Z"
+}

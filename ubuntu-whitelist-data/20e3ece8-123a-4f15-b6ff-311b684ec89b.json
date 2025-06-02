@@ -1,0 +1,17 @@
+{
+  "uuid": "20e3ece8-123a-4f15-b6ff-311b684ec89b",
+  "path": "/lib/x86_64-linux-gnu/libgrlpls-0.3.so.0.316.0",
+  "size": 39064,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.833745808Z",
+  "sha256_hash": "3faa03bfd1b5836aec28315fa862777dc2d696e70dc871ecb14f9dec4d7e27a9",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.964392635Z"
+}

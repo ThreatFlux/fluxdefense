@@ -1,0 +1,17 @@
+{
+  "uuid": "f5bad9db-08b5-46da-9b78-389a521360d0",
+  "path": "/usr/lib/evolution-data-server/camel-providers/libcamelimapx.urls",
+  "size": 6,
+  "modified": "2024-06-28T07:29:41Z",
+  "created": "2025-05-09T05:07:21.658870553Z",
+  "sha256_hash": "3652ff7310493943ca870cc974d5e0dea374ca5521e4b63008328cde5a6be554",
+  "file_type": {
+    "Other": "urls"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.034180205Z"
+}

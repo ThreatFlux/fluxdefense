@@ -1,0 +1,17 @@
+{
+  "uuid": "4d22541f-65b9-4ac3-9e23-a35d0cf8ffaa",
+  "path": "/lib/llvm-18/lib/libLTO.so.18.1",
+  "size": 69576,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:30.769543591Z",
+  "sha256_hash": "c1613d9811c040c243497e3bf31c926703112c40074951e0bd8a306680b41e67",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:42.311806130Z"
+}

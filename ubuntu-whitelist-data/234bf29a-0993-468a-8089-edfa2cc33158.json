@@ -1,0 +1,17 @@
+{
+  "uuid": "234bf29a-0993-468a-8089-edfa2cc33158",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/IPC/Msg.pm",
+  "size": 4520,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.518591327Z",
+  "sha256_hash": "83b0cbd80555e8824675e731876163123f6aabdc4d698ffa0d4bcc38c1d1b01b",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.577371092Z"
+}

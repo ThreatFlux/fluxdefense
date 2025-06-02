@@ -1,0 +1,17 @@
+{
+  "uuid": "44622b77-0a98-494a-b4ed-55559019f962",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/finclude/openacc.mod",
+  "size": 3533,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:14.305355382Z",
+  "sha256_hash": "f23c5d7a36508da5a44e6c2e19ff104ed5ad632c65ce6b900b461acd7f89ce50",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.629568782Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "231490fe-8af5-4e15-a540-e1a364133849",
+  "path": "/lib/x86_64-linux-gnu/libpinyin/data/opengram.bin",
+  "size": 821157,
+  "modified": "2024-04-06T01:15:02Z",
+  "created": "2025-05-09T05:07:36.279647444Z",
+  "sha256_hash": "befe455429f476a36a95ba0d554ce76dfae28a5cb5413f060b0de4ad90f390b2",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.167784192Z"
+}

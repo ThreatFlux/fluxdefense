@@ -1,0 +1,17 @@
+{
+  "uuid": "9275de68-ebae-4980-bafb-ab092c6f708a",
+  "path": "/lib/llvm-18/include/clang/Analysis/AnyCall.h",
+  "size": 6806,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.523533660Z",
+  "sha256_hash": "b51ceb9598c86430a124433eab928f6fb9ec9587f6cf2a9ea585c53f8c947a3f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.185590004Z"
+}

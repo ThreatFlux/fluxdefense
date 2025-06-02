@@ -1,0 +1,17 @@
+{
+  "uuid": "3f4dcbc2-0b1a-4f12-8d07-c5cfca8decb3",
+  "path": "/lib/grub/x86_64-efi/newc.mod",
+  "size": 4920,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.837708018Z",
+  "sha256_hash": "1362b09456215628efa62c393ece4f6978e144761c24bfacd8a3cec4882fe415",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.039049764Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "8d1b92ce-627e-4a5f-8e9f-712be1c0bb4f",
+  "path": "/sbin/iwlist",
+  "size": 43400,
+  "modified": "2024-03-31T08:33:19Z",
+  "created": "2025-05-09T05:07:38.353615796Z",
+  "sha256_hash": "b60e73dcf618e14996c32b9867736bf47bab365a1a33b451cacad0f152263532",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.992351456Z"
+}

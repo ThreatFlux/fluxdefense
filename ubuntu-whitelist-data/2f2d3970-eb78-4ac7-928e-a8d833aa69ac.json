@@ -1,0 +1,15 @@
+{
+  "uuid": "2f2d3970-eb78-4ac7-928e-a8d833aa69ac",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstlibcamera.so",
+  "size": 97248,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:35.773655166Z",
+  "sha256_hash": "45afd7b8cda7858c23f3880e801c80aec7e8f1d2c247397486fd8810835f6a2d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.881826894Z"
+}

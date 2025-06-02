@@ -1,0 +1,15 @@
+{
+  "uuid": "79d19560-f327-45dd-b1a8-4a014b955c69",
+  "path": "/usr/bin/busctl",
+  "size": 96864,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.499779176Z",
+  "sha256_hash": "4a31d48325dea9bcc39291445c4822b7eab81b8cdb8420ffaaa57c042bbb65d4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.696889875Z"
+}

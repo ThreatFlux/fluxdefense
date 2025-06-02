@@ -1,0 +1,17 @@
+{
+  "uuid": "d8fe380c-35c0-407b-a915-aaec97805eb4",
+  "path": "/usr/lib/firmware/mrvl/cpt03/ie.out.zst",
+  "size": 28408,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.792538211Z",
+  "sha256_hash": "a9638adabf1cb8e31ddf4e3a01d09c4faafee765517718334cfd79b4f3547129",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.388632796Z"
+}

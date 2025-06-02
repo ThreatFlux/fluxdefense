@@ -1,0 +1,17 @@
+{
+  "uuid": "cea5e58f-7ce2-482a-8378-bd7436e649ad",
+  "path": "/usr/lib/python3.12/test/certdata/pycacert.pem",
+  "size": 5664,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.987551828Z",
+  "sha256_hash": "dc42f71ddb9289969f6895c6c906460eef3f84dc348a831e1381f8c94c89c6d6",
+  "file_type": {
+    "Other": "pem"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.236006288Z"
+}

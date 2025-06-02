@@ -1,0 +1,15 @@
+{
+  "uuid": "22705941-4dfa-4345-a15f-1267a3874347",
+  "path": "/usr/libexec/goa-identity-service",
+  "size": 133520,
+  "modified": "2024-08-09T12:09:20Z",
+  "created": "2025-05-09T05:07:37.497628858Z",
+  "sha256_hash": "f36a8ccbad9e2ec171ea4e578bade3e95652948718d3539cf187d4b5e7d57879",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.249531619Z"
+}

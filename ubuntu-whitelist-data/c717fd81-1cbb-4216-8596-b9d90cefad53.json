@@ -1,0 +1,17 @@
+{
+  "uuid": "c717fd81-1cbb-4216-8596-b9d90cefad53",
+  "path": "/usr/lib/x86_64-linux-gnu/libsratom-0.so.0.6.16",
+  "size": 43000,
+  "modified": "2024-04-18T17:48:28Z",
+  "created": "2025-05-09T05:09:24.754991959Z",
+  "sha256_hash": "80cd34a4b2073aaf0155070e8871fd94a1e9597de44db972d63f17d624c5c98d",
+  "file_type": {
+    "Other": "16"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.086706310Z"
+}

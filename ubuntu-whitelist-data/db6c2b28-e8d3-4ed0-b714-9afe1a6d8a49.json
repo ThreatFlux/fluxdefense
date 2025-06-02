@@ -1,0 +1,17 @@
+{
+  "uuid": "db6c2b28-e8d3-4ed0-b714-9afe1a6d8a49",
+  "path": "/lib/python3.12/test/test_email/data/python.pgm",
+  "size": 269,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.015551460Z",
+  "sha256_hash": "3c27b4cdc7089ddb410ddb81a5ccf42662972e07dfc44fc429d3056af6dd128e",
+  "file_type": {
+    "Other": "pgm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.590959072Z"
+}

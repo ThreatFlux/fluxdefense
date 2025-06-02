@@ -1,0 +1,17 @@
+{
+  "uuid": "6f631e18-5c6c-41a1-bb53-f88b888ae274",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/RedundantBranchConditionCheck.h",
+  "size": 1453,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "73e88d6e76443fa34ffe3b9ab2deb76946818a81467c2bf13598ae218b442bc8",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.234249738Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "e8d737b0-3fa5-4c2a-af2e-6c6e5c56606e",
+  "path": "/lib/llvm-18/lib/libLLVMWebAssemblyAsmParser.a",
+  "size": 200620,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.053460834Z",
+  "sha256_hash": "e712aeea85d8afdf6ed49c583a961f0df59afe97022cdf71b84c5450c332fd45",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.771758934Z"
+}

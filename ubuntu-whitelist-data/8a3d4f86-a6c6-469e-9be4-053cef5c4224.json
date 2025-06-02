@@ -1,0 +1,17 @@
+{
+  "uuid": "8a3d4f86-a6c6-469e-9be4-053cef5c4224",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/lib/notifier-error-inject.ko.zst",
+  "size": 3201,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.114797272Z",
+  "sha256_hash": "078e9abbbce2ed7aa3063d056e78954c4f9670a114cedeec0b7f9afaa820ebb6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.267834354Z"
+}

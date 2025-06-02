@@ -1,0 +1,17 @@
+{
+  "uuid": "e5dfa4ba-861a-48d5-86ee-cfbd7b9f1037",
+  "path": "/usr/lib/X11/xedit/lisp/progmodes/c.lsp",
+  "size": 30099,
+  "modified": "2024-03-31T17:26:36Z",
+  "created": "2025-05-09T05:07:20.994880685Z",
+  "sha256_hash": "47f56800c7807405b613c50dc43abe957968062ac8ae5029b03e7c988adaca4e",
+  "file_type": {
+    "Other": "lsp"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.365529163Z"
+}

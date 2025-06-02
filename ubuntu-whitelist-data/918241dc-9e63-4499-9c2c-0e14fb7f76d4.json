@@ -1,0 +1,17 @@
+{
+  "uuid": "918241dc-9e63-4499-9c2c-0e14fb7f76d4",
+  "path": "/lib/x86_64-linux-gnu/libunity.so.9.0.2",
+  "size": 658160,
+  "modified": "2024-03-31T00:09:17Z",
+  "created": "2025-05-09T05:07:32.342707522Z",
+  "sha256_hash": "cdae0c2193818e705df7eb753903c4be89a4af96371f371af165a8a5869e2e12",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.848538567Z"
+}

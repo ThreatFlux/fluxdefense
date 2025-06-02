@@ -1,0 +1,17 @@
+{
+  "uuid": "8f64edb3-969f-4176-bf7f-a33a7fca989c",
+  "path": "/lib/x86_64-linux-gnu/samba/libhcrypto-samba4.so.0",
+  "size": 207760,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.058635557Z",
+  "sha256_hash": "acd5b10fdc9da7ee9e8346e04f9ba1bdfaf1d13a4326c7142466a2a4ec283119",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.413230710Z"
+}

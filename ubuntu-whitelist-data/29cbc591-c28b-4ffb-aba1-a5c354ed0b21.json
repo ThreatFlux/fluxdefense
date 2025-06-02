@@ -1,0 +1,17 @@
+{
+  "uuid": "29cbc591-c28b-4ffb-aba1-a5c354ed0b21",
+  "path": "/usr/lib/python3.12/test/decimaltestdata/dqRotate.decTest",
+  "size": 20980,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.994551736Z",
+  "sha256_hash": "969ea96851f427582edaa35f8dbafadec2485f3d3242b223a1e6fbf09db082e1",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.979459819Z"
+}

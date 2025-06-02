@@ -1,0 +1,17 @@
+{
+  "uuid": "cd3b5a67-073b-40e1-8e28-45385fbc71d2",
+  "path": "/lib/x86_64-linux-gnu/libpathplan.so.4.0.0",
+  "size": 35000,
+  "modified": "2024-05-11T18:31:23Z",
+  "created": "2025-05-29T11:16:24.406807579Z",
+  "sha256_hash": "5d1cc507658b46c55cf1fa68b48c7c338d83f9966c18ad7acefa05dc2f80a37a",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.996858129Z"
+}

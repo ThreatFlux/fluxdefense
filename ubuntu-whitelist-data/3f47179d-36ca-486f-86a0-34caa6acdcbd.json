@@ -1,0 +1,17 @@
+{
+  "uuid": "3f47179d-36ca-486f-86a0-34caa6acdcbd",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/AttrSubjectMatchRules.h",
+  "size": 1062,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.525533634Z",
+  "sha256_hash": "1f409732c87f5c04dcc8158f56ff26197725f7f6b187517d87233c9618c97eb3",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.561754634Z"
+}

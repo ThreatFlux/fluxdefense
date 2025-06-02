@@ -1,0 +1,15 @@
+{
+  "uuid": "5483cbe4-b3de-4f2f-a998-033d87186a5a",
+  "path": "/usr/libexec/evolution-data-server/csv2vcard",
+  "size": 7138,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:37.582627561Z",
+  "sha256_hash": "104b9d2206e78d1cc3735c43e78b81850a20bb866ddf3936ba8f1271f3a3e1bd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.524130666Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "07da0636-82e0-4e67-841d-78505fae509b",
+  "path": "/lib/llvm-18/include/clang-tidy/misc/ConfusableIdentifierCheck.h",
+  "size": 1975,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "09431d08b0c8e10d74bb656bf17b60ee42dbc83414ce8d77489809d2c83e9ceb",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.919479050Z"
+}

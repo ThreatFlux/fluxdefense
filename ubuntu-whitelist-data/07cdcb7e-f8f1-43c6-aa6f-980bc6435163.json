@@ -1,0 +1,17 @@
+{
+  "uuid": "07cdcb7e-f8f1-43c6-aa6f-980bc6435163",
+  "path": "/lib/x86_64-linux-gnu/libpfm.so.4.13.0",
+  "size": 3383128,
+  "modified": "2024-02-21T23:11:36Z",
+  "created": "2025-05-12T13:34:34.794490586Z",
+  "sha256_hash": "b11c8b5e7314247d4a08a1e960bd0fea33614edfab547fe15bf764cd6b695a9b",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.279530882Z"
+}

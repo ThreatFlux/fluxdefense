@@ -1,0 +1,15 @@
+{
+  "uuid": "7774eb4b-4d41-4522-beb4-9aec5b4c5d87",
+  "path": "/usr/lib/python3/dist-packages/apport/crashdb_impl/github.py",
+  "size": 11072,
+  "modified": "2024-04-18T12:31:35Z",
+  "created": "2025-05-30T21:04:51.639610648Z",
+  "sha256_hash": "8e526d2cd84414314a5dfd6361d43a735b0d7f3551dab96b2c22e4a4ba4f9d6c",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.071431138Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "e1c8b108-c67d-4465-b6a6-4c80bb1851f2",
+  "path": "/usr/lib/x86_64-linux-gnu/libsmime3.so",
+  "size": 162208,
+  "modified": "2024-04-08T16:14:43Z",
+  "created": "2025-05-09T05:07:32.169710161Z",
+  "sha256_hash": "3edc3d3e5a01ab9278d1e7b65735ab30039e2c35e7b95d5d6f0f51e3b2a12368",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:29.985337329Z"
+}

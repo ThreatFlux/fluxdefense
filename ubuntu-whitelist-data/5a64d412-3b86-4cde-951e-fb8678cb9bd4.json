@@ -1,0 +1,15 @@
+{
+  "uuid": "5a64d412-3b86-4cde-951e-fb8678cb9bd4",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM863.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.279663431Z",
+  "sha256_hash": "fe724a18aaf731049ad164e8fdbbe1c28fc56f8887e4c5242351760bd5489ee4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:41.005007166Z"
+}

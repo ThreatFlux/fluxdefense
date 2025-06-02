@@ -1,0 +1,17 @@
+{
+  "uuid": "97198555-ab90-4ffa-9b42-baa77fc78193",
+  "path": "/lib/i386-linux-gnu/libthread_db.so.1",
+  "size": 46796,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.294663202Z",
+  "sha256_hash": "dd17f9a65726f6d1b3ddb9556dab48974889e430d5f5c2039e5b63541e7eabfd",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.873708422Z"
+}

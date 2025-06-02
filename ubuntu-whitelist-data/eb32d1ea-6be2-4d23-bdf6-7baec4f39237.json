@@ -1,0 +1,15 @@
+{
+  "uuid": "eb32d1ea-6be2-4d23-bdf6-7baec4f39237",
+  "path": "/sbin/e2freefrag",
+  "size": 18744,
+  "modified": "2024-04-28T23:44:46Z",
+  "created": "2025-05-09T05:07:38.187618329Z",
+  "sha256_hash": "9de5bd9de98e36c4540bc41e63b3c2159700fb2236058945ac831fa3adec326f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.932375745Z"
+}

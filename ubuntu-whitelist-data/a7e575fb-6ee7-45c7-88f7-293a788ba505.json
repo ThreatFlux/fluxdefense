@@ -1,0 +1,15 @@
+{
+  "uuid": "a7e575fb-6ee7-45c7-88f7-293a788ba505",
+  "path": "/usr/lib/sysstat/debian-sa1",
+  "size": 446,
+  "modified": "2024-01-09T20:31:44Z",
+  "created": "2025-05-09T05:07:28.222770390Z",
+  "sha256_hash": "dbcc108e4c4b56ce676a2e512ffd0dc06fd211dfb606d9fd25764f71ea62f9b0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.368678412Z"
+}

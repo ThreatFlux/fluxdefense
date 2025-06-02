@@ -1,0 +1,17 @@
+{
+  "uuid": "da419930-5601-4150-b1ee-907c44bcc714",
+  "path": "/lib/llvm-18/include/clang/APINotes/APINotesOptions.h",
+  "size": 1123,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.510533832Z",
+  "sha256_hash": "ec340c62e2ef280844e023a2566406f3bae378b3d6a2b4fe53c2c5ae9bb55af5",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.935690607Z"
+}

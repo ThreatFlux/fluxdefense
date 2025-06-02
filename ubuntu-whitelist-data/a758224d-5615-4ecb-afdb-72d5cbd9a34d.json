@@ -1,0 +1,17 @@
+{
+  "uuid": "a758224d-5615-4ecb-afdb-72d5cbd9a34d",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/NoLintDirectiveHandler.h",
+  "size": 1587,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.555533239Z",
+  "sha256_hash": "137524963bf3b1d76c72354e7dded08f37198c2a910339c67dc107da83a14a33",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.241081254Z"
+}

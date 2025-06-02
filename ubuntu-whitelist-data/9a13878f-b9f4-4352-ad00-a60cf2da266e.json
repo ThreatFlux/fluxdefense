@@ -1,0 +1,17 @@
+{
+  "uuid": "9a13878f-b9f4-4352-ad00-a60cf2da266e",
+  "path": "/lib/x86_64-linux-gnu/libpath_utils.so.1.0.1",
+  "size": 18504,
+  "modified": "2024-03-31T07:32:33Z",
+  "created": "2025-05-09T05:07:31.787715991Z",
+  "sha256_hash": "2d89b7f57c43b3af4e56f74b1d8986cba6fa7306d65961c531597b15e339463c",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.336018452Z"
+}

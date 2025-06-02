@@ -1,0 +1,17 @@
+{
+  "uuid": "49ad2c9b-8b45-4ea8-bf35-f5c14e95e6b8",
+  "path": "/lib/grub/x86_64-efi/part_plan.mod",
+  "size": 2536,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.838708002Z",
+  "sha256_hash": "b48380461595992e37407e4b97902f3d6be3a3c1749e4e0249b9dbcbe20cb9fb",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.018091495Z"
+}

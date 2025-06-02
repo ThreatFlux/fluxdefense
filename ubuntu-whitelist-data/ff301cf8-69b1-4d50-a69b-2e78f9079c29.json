@@ -1,0 +1,15 @@
+{
+  "uuid": "ff301cf8-69b1-4d50-a69b-2e78f9079c29",
+  "path": "/usr/sbin/kbdrate",
+  "size": 18752,
+  "modified": "2024-03-31T09:02:08Z",
+  "created": "2025-05-09T05:07:38.354615780Z",
+  "sha256_hash": "73645e38eb0a4439a02ecedf34ea59e5d0cc883977fe01c435699ff8afd610f9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.710087399Z"
+}

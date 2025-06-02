@@ -1,0 +1,15 @@
+{
+  "uuid": "fa5b0020-81a5-40d2-aa3a-a6b070ec0afc",
+  "path": "/lib/x86_64-linux-gnu/libdrm.a",
+  "size": 127336,
+  "modified": "2024-08-02T12:33:15Z",
+  "created": "2025-05-29T11:16:21.140852396Z",
+  "sha256_hash": "decc1a83372340d06d0eae3828c7d69a5f16d35a049acb554a094e6956871398",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.242189601Z"
+}

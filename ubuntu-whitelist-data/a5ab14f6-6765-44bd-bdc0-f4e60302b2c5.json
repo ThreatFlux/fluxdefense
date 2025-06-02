@@ -1,0 +1,15 @@
+{
+  "uuid": "a5ab14f6-6765-44bd-bdc0-f4e60302b2c5",
+  "path": "/usr/libexec/pk-offline-update",
+  "size": 26936,
+  "modified": "2025-01-08T16:35:09Z",
+  "created": "2025-05-09T05:24:26.876952875Z",
+  "sha256_hash": "02e23695bd6f99800922b3253e601f28cfdda74afcdedca66634f499aabd8a30",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.490999058Z"
+}

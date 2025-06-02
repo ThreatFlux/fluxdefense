@@ -1,0 +1,15 @@
+{
+  "uuid": "61046e67-34ff-4e1f-b20d-8fbcf0407d8d",
+  "path": "/usr/lib/update-notifier/update-motd-reboot-required",
+  "size": 115,
+  "modified": "2024-10-08T13:47:14Z",
+  "created": "2025-05-09T05:24:21.991888836Z",
+  "sha256_hash": "e18f8d28bdff7d892991fb2c9d723964672f651225aaf03fe3848c215da1ecbe",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.269335602Z"
+}

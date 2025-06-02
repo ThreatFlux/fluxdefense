@@ -1,0 +1,17 @@
+{
+  "uuid": "18dc49c5-73ac-4328-8bda-3ba8d6876893",
+  "path": "/lib/x86_64-linux-gnu/libpcaudio.so.0.0.1",
+  "size": 22520,
+  "modified": "2024-04-07T07:20:44Z",
+  "created": "2025-05-09T05:07:31.787715991Z",
+  "sha256_hash": "dfbf3bd587f9057caa4558263efdb1be5f00cb405c09b05bbb2d994fdaeb2af3",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.561608681Z"
+}

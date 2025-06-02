@@ -1,0 +1,17 @@
+{
+  "uuid": "5a035132-ab12-4d98-9cab-48d0d0bc4f2c",
+  "path": "/lib/firmware/nvidia/gv100/gr/gpccs_data.bin.zst",
+  "size": 618,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.941536147Z",
+  "sha256_hash": "4763b95f770357179f9ed29b4783815bf2e51905bbb1767608cbef2891ebe0bb",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.425937673Z"
+}

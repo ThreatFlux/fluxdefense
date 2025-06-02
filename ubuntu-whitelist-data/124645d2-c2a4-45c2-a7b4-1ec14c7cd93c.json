@@ -1,0 +1,17 @@
+{
+  "uuid": "124645d2-c2a4-45c2-a7b4-1ec14c7cd93c",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-jsl-da7219.tplg.zst",
+  "size": 1962,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.060490953Z",
+  "sha256_hash": "ee852e7cf7a92ab51640b9b43e5fef13db1c2550878d262b6a239532a7773b0a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.868823717Z"
+}

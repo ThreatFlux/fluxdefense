@@ -1,0 +1,15 @@
+{
+  "uuid": "db8837ec-1a7b-420b-829f-3546ba8ea152",
+  "path": "/sbin/e2image",
+  "size": 43328,
+  "modified": "2024-04-28T23:44:46Z",
+  "created": "2025-05-09T05:07:38.188618314Z",
+  "sha256_hash": "0fb49d96fb6b0035798bfc06eb1ab5dc4661b9f33c62e3978f00834d2c8d0c0c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.043068045Z"
+}

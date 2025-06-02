@@ -1,0 +1,15 @@
+{
+  "uuid": "c258a8dc-6c10-44cb-b24c-862c7573d7e6",
+  "path": "/usr/bin/lpq",
+  "size": 22912,
+  "modified": "2024-09-26T11:15:36Z",
+  "created": "2025-05-09T05:07:20.121894006Z",
+  "sha256_hash": "ca4cfb9f8885ca75e62af9f3b7ee0d70e662f1dcb7796664437d8cc07312f348",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.863631152Z"
+}

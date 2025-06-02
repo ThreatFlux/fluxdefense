@@ -1,0 +1,17 @@
+{
+  "uuid": "bc7d9878-ef40-45e8-a443-3298a56a2de9",
+  "path": "/lib/grub/x86_64-efi/time.mod",
+  "size": 2416,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "9c13bec6951e96baa3821de6f3a781b0f428c5f51afcd25be7bf5cb02a46e351",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.015318602Z"
+}

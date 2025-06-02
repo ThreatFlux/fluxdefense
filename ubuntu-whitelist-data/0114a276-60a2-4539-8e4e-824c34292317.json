@@ -1,0 +1,17 @@
+{
+  "uuid": "0114a276-60a2-4539-8e4e-824c34292317",
+  "path": "/lib/llvm-18/include/clang/Basic/DiagnosticCrossTU.h",
+  "size": 927,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.527533608Z",
+  "sha256_hash": "5e7947bf2ecebcafafd8f20eaec8385183634059b93f652a008c21bac4f658f2",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.071677909Z"
+}

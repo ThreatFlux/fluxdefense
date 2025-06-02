@@ -1,0 +1,17 @@
+{
+  "uuid": "b7175785-bdf7-4558-81b9-68ab9f09352b",
+  "path": "/usr/lib/llvm-18/include/clang/Serialization/ContinuousRangeMap.h",
+  "size": 4481,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.550533305Z",
+  "sha256_hash": "4d89e51c0ea6cb57c6ecb449b4901455ec8e1cbfa798acf8ff8d1acd4e0376a8",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.422595928Z"
+}

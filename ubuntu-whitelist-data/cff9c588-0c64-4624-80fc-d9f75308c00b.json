@@ -1,0 +1,15 @@
+{
+  "uuid": "cff9c588-0c64-4624-80fc-d9f75308c00b",
+  "path": "/usr/libexec/fwupd/fwupdoffline",
+  "size": 39216,
+  "modified": "2025-03-25T17:48:06Z",
+  "created": "2025-05-09T05:24:28.648976264Z",
+  "sha256_hash": "5573d8643852e86e7e16271fa8ebdb109a3337b4d3fe7cdd3a1835de3cf38f91",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.493508870Z"
+}

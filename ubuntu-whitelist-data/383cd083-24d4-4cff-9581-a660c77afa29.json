@@ -1,0 +1,17 @@
+{
+  "uuid": "383cd083-24d4-4cff-9581-a660c77afa29",
+  "path": "/lib/i386-linux-gnu/libnvidia-gpucomp.so.550.144.03",
+  "size": 62014624,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:02.745968958Z",
+  "sha256_hash": "aa7bf5c8a203395b0d3cfe3e85185e4c50878d6b154dccdc6537fbd1518d1b9e",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:45.850845691Z"
+}

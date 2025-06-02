@@ -1,0 +1,17 @@
+{
+  "uuid": "ea7b05b3-0e1b-4788-aa04-98c657cacc5e",
+  "path": "/usr/lib/firmware/radeon/PITCAIRN_rlc.bin.zst",
+  "size": 2434,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "1f3d2a11e725e7c964d505c7a28f58045d14a046736b6ae46d731fa13cd2a9c9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.375218104Z"
+}

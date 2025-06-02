@@ -1,0 +1,15 @@
+{
+  "uuid": "b0756314-8b81-45d0-be89-2708b615ceb3",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM9448.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.281663400Z",
+  "sha256_hash": "0a332712e172c324c2f6edb868a2bcf2e8aa24c8e89f19e0e924397ea5878e9d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:41.046053199Z"
+}

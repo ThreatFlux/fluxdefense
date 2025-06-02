@@ -1,0 +1,17 @@
+{
+  "uuid": "cf1d573a-a5d5-4b02-9a25-73e8998c0814",
+  "path": "/usr/lib/grub/x86_64-efi/crypto.lst",
+  "size": 936,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.802708552Z",
+  "sha256_hash": "1b766f38a94927fe9b7bc1e809f0363e778e14c601e800faea271a2e75d3fc43",
+  "file_type": {
+    "Other": "lst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.451785166Z"
+}

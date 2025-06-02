@@ -1,0 +1,17 @@
+{
+  "uuid": "96ac4f30-5a34-44c4-8980-53dd66b27fa9",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-tiinio.ali",
+  "size": 9824,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.104344406Z",
+  "sha256_hash": "665f016940e30192bc7f527de0761058e17e5e2f3833330f6711dfccf6ab5f9a",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.647705095Z"
+}

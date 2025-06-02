@@ -1,0 +1,17 @@
+{
+  "uuid": "a91b1376-5e4a-45a0-aa5f-51d121528f52",
+  "path": "/usr/lib/python3.12/test/test_module/__pycache__/bad_getattr.cpython-312.pyc",
+  "size": 230,
+  "modified": "2025-05-28T17:29:54.370468016Z",
+  "created": "2025-05-28T17:29:54.370468016Z",
+  "sha256_hash": "8a5fec22ff094c372944b9cc9ecc6f4a45248056c45a504da3e3d57609c95db7",
+  "file_type": {
+    "Other": "pyc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.813807217Z"
+}

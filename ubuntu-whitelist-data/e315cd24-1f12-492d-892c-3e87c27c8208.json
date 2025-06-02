@@ -1,0 +1,15 @@
+{
+  "uuid": "e315cd24-1f12-492d-892c-3e87c27c8208",
+  "path": "/usr/libexec/ubuntu-advantage-desktop-daemon",
+  "size": 63720,
+  "modified": "2024-10-04T16:05:56Z",
+  "created": "2025-05-09T05:07:37.565627820Z",
+  "sha256_hash": "ee35ab1cb674b70d93e227c4dde4cffcf4ad1ee8d6e2a74749da5edd5cbdbb2b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.202907724Z"
+}

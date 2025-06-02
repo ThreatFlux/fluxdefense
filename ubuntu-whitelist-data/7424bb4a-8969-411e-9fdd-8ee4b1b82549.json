@@ -1,0 +1,17 @@
+{
+  "uuid": "7424bb4a-8969-411e-9fdd-8ee4b1b82549",
+  "path": "/usr/lib/firmware/amdgpu/aldebaran_sdma.bin.zst",
+  "size": 9571,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.385543848Z",
+  "sha256_hash": "633ef8f2a21a3601d8528a3fcaa76926dfb15674c5caefda6c0049066eb3de86",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.054591531Z"
+}

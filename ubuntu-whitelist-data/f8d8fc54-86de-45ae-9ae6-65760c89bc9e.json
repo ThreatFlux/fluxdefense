@@ -1,0 +1,17 @@
+{
+  "uuid": "f8d8fc54-86de-45ae-9ae6-65760c89bc9e",
+  "path": "/usr/lib/tmpfiles.d/var.conf",
+  "size": 568,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.527779534Z",
+  "sha256_hash": "285585556332d5f014914358d1053d8af48617e01eccab9c49666e14459e6306",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.134637259Z"
+}

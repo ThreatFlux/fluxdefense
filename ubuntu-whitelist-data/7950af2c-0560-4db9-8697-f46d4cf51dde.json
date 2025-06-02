@@ -1,0 +1,15 @@
+{
+  "uuid": "7950af2c-0560-4db9-8697-f46d4cf51dde",
+  "path": "/usr/libexec/evolution-calendar-factory-subprocess",
+  "size": 137824,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:37.412630155Z",
+  "sha256_hash": "e6315c5d060392e7315c3940f12651fe15546144048ad3830c138aa480a64bab",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.207785202Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "4fbb46b2-49a5-44e7-8ee5-5b883d60970e",
+  "path": "/lib/x86_64-linux-gnu/libnvidia-container.so.1.17.8",
+  "size": 199952,
+  "modified": "2025-05-30T13:48:00Z",
+  "created": "2025-05-30T21:04:54.215569801Z",
+  "sha256_hash": "cc4531f61d5faea1fd2ac567f757d2d46670105f9bf38785b41f05fcc42df938",
+  "file_type": {
+    "Other": "8"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.742312991Z"
+}

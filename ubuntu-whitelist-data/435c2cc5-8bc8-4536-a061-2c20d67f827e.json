@@ -1,0 +1,15 @@
+{
+  "uuid": "435c2cc5-8bc8-4536-a061-2c20d67f827e",
+  "path": "/sbin/swapoff",
+  "size": 22912,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.431614605Z",
+  "sha256_hash": "111d69b5400bf341dbb4ca0f43da98e987cb9698e5f0edf567a7c27b7ccb0210",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.139597393Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d0017c02-7341-4044-bf14-c48a9a632a4f",
+  "path": "/usr/lib/firmware/amdgpu/beige_goby_dmcub.bin.zst",
+  "size": 74553,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.387543820Z",
+  "sha256_hash": "e095010915468c30598c1118b0d955762e49f08f9e835fe5d1f9ecb0788fb016",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.905179986Z"
+}

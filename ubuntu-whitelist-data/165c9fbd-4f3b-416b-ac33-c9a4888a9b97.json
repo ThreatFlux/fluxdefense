@@ -1,0 +1,17 @@
+{
+  "uuid": "165c9fbd-4f3b-416b-ac33-c9a4888a9b97",
+  "path": "/usr/lib/llvm-18/include/clang/AST/Attr.h",
+  "size": 13072,
+  "modified": "2024-01-09T22:37:53Z",
+  "created": "2025-05-12T13:34:31.511533818Z",
+  "sha256_hash": "f1e30a6179c3ae1e01985bd14a4cc7f42aca80b07869950872b5b3a575087d6c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.383747242Z"
+}

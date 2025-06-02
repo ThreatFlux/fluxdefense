@@ -1,0 +1,17 @@
+{
+  "uuid": "45ca0d92-f420-4fd0-9d58-04fcf814dd4f",
+  "path": "/usr/lib/firmware/i915/kbl_dmc_ver1_04.bin.zst",
+  "size": 2608,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.540541701Z",
+  "sha256_hash": "ac9725e1eb36c4484a4909e32e709179e1502ee41ab2f9f94e0c63be8b2bb475",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.714234400Z"
+}

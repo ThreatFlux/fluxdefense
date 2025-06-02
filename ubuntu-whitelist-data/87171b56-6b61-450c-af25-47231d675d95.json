@@ -1,0 +1,17 @@
+{
+  "uuid": "87171b56-6b61-450c-af25-47231d675d95",
+  "path": "/lib/x86_64-linux-gnu/samba/libcommon-auth-samba4.so.0",
+  "size": 67816,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.044635771Z",
+  "sha256_hash": "6daadf6ef985d260607c6ec551d5df86a1ec432b9ba38d4bc254950a883687e3",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.414017708Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "d51ae034-ebd5-4ec7-9c2e-1501160be7ac",
+  "path": "/lib/llvm-18/lib/libLLVMBOLTProfile.a",
+  "size": 1012886,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.812464009Z",
+  "sha256_hash": "05865d1643cebce19cd06cae17dc1a58ca1c022a4e0cfdce7de6b684cf35285c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.357258553Z"
+}

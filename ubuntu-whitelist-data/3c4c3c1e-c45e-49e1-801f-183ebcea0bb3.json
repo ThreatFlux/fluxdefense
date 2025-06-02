@@ -1,0 +1,17 @@
+{
+  "uuid": "3c4c3c1e-c45e-49e1-801f-183ebcea0bb3",
+  "path": "/usr/lib/systemd/portable/profile/nonetwork/service.conf",
+  "size": 975,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:56:53.645596490Z",
+  "sha256_hash": "632122ca4e0284ec2bc7f19cc535f3ba5458a2554f0cbed62dcc31082d9c620e",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.547098763Z"
+}

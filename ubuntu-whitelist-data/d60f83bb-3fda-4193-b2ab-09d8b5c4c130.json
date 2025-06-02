@@ -1,0 +1,15 @@
+{
+  "uuid": "d60f83bb-3fda-4193-b2ab-09d8b5c4c130",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/kms/mac_verify.py",
+  "size": 5730,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.760931462Z",
+  "sha256_hash": "b632ab1e89d41d503420d2c7a746331b3a0c1f62acabbad98e649ad4c358d413",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.837090980Z"
+}

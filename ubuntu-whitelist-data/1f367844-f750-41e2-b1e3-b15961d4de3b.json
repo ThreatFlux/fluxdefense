@@ -1,0 +1,17 @@
+{
+  "uuid": "1f367844-f750-41e2-b1e3-b15961d4de3b",
+  "path": "/lib/firmware/mediatek/mt7925/WIFI_RAM_CODE_MT7925_1_1.bin.zst",
+  "size": 1086834,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.682539734Z",
+  "sha256_hash": "344c123a52a7eb46e186c0d931bfe5d9e0bc35bd9c9b347973170203ecb7e8e8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.081013974Z"
+}

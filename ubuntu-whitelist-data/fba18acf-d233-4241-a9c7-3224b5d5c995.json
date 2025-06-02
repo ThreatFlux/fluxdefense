@@ -1,0 +1,17 @@
+{
+  "uuid": "fba18acf-d233-4241-a9c7-3224b5d5c995",
+  "path": "/lib/x86_64-linux-gnu/libtpms.so.0.9.3",
+  "size": 960336,
+  "modified": "2024-03-31T19:48:06Z",
+  "created": "2025-05-09T05:56:52.183612911Z",
+  "sha256_hash": "ddaf36539d48d26056a71f4abcf834bdb05d75b7ad442f891a853dfe96cbfa49",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.497157132Z"
+}

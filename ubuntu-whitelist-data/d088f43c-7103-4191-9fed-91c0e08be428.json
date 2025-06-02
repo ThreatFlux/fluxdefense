@@ -1,0 +1,17 @@
+{
+  "uuid": "d088f43c-7103-4191-9fed-91c0e08be428",
+  "path": "/usr/lib/firmware/inside-secure/eip197_minifw/ifpp.bin.zst",
+  "size": 94,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.546541618Z",
+  "sha256_hash": "8efab864792c04f192e7932d7cd7ef5ffda15ba114093d8eddc01cf87453413b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.546784746Z"
+}

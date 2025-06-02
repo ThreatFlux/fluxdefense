@@ -1,0 +1,15 @@
+{
+  "uuid": "0ec210e7-9ed8-4bd6-b1e7-b65e17786c70",
+  "path": "/usr/sbin/cracklib-check",
+  "size": 14488,
+  "modified": "2024-03-31T07:30:49Z",
+  "created": "2025-05-09T05:07:38.142619015Z",
+  "sha256_hash": "507256e37442045dcbf0523aa7935edf3eeddac89b018da31dc5f9339359b103",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.314533076Z"
+}

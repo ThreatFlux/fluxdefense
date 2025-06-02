@@ -1,0 +1,17 @@
+{
+  "uuid": "bd44486b-89c6-4782-aa09-b3a7d404ac25",
+  "path": "/lib/systemd/system-generators/friendly-recovery",
+  "size": 286,
+  "modified": "2019-06-21T12:28:42Z",
+  "created": "2025-05-09T05:07:28.275769582Z",
+  "sha256_hash": "21fc559808b8ff2f0ae3b8b80908286b7bd482bd5428f85bad3aacd689ddc7d2",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.086807768Z"
+}

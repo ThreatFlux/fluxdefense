@@ -1,0 +1,17 @@
+{
+  "uuid": "52ff0c38-7e53-4448-b7f2-67e386c2e325",
+  "path": "/usr/lib/firmware/s5p-mfc-v6-v2.fw.zst",
+  "size": 159939,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.072534332Z",
+  "sha256_hash": "17be4ef0cb36a1606e4062b9f444a4c8523c6ab905a87558b1707de63f12ae57",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.492411425Z"
+}

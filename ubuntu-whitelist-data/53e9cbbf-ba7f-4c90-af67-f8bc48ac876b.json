@@ -1,0 +1,17 @@
+{
+  "uuid": "53e9cbbf-ba7f-4c90-af67-f8bc48ac876b",
+  "path": "/lib/systemd/system/local-fs.target",
+  "size": 556,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "e5d89211320e68ef825ead92050da8a9ca6c60f04594308878f5b57f3634a175",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.109820840Z"
+}

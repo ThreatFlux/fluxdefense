@@ -1,0 +1,15 @@
+{
+  "uuid": "1ce2654d-0976-4688-bf9e-38df4ed43af3",
+  "path": "/usr/bin/iostat",
+  "size": 55744,
+  "modified": "2024-01-09T20:31:44Z",
+  "created": "2025-05-09T05:07:20.070894784Z",
+  "sha256_hash": "54d1fa35d42c408b2a418bec2350b66bcd412b4ddc76eeabb5c56088574d3022",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:14.995271562Z"
+}

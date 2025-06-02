@@ -1,0 +1,15 @@
+{
+  "uuid": "c98d2410-6e8b-4b53-810c-7c70cc98fd03",
+  "path": "/lib/llvm-18/bin/llvm-bcanalyzer",
+  "size": 23160,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:34.907489098Z",
+  "sha256_hash": "f4853fca8903003eccb80d8ddbee8fdf9a68bbd6a221b12b70b5a150c19cf390",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.849980193Z"
+}

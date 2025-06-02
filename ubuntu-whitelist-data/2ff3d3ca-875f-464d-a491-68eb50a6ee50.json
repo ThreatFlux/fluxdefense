@@ -1,0 +1,15 @@
+{
+  "uuid": "2ff3d3ca-875f-464d-a491-68eb50a6ee50",
+  "path": "/usr/bin/dpkg-deb",
+  "size": 146000,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T05:07:19.178908395Z",
+  "sha256_hash": "9162e685682253fb9a0783988ddd32b093ed3d60bac3f7b1a61d5d0143882394",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.207870764Z"
+}

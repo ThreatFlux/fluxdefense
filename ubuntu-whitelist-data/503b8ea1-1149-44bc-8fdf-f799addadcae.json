@@ -1,0 +1,17 @@
+{
+  "uuid": "503b8ea1-1149-44bc-8fdf-f799addadcae",
+  "path": "/usr/lib/modules/6.11.0-26-generic/kernel/crypto/aegis128.ko.zst",
+  "size": 7015,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.077797913Z",
+  "sha256_hash": "deb48c704eaf104b11d01b82b8318ce18c6811449f4586dddc5217f7d8fd4c6c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.637997007Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "16a5a0fe-2b3a-4a72-b709-08a94b3dbe8a",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/cppcoreguidelines/ProTypeConstCastCheck.h",
+  "size": 1562,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "94b22beb2bc60fd58d9957a45b35f16f304d4f3ec917ff03b31111d4f91b4541",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.249189495Z"
+}

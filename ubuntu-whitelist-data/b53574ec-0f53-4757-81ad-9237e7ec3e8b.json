@@ -1,0 +1,15 @@
+{
+  "uuid": "b53574ec-0f53-4757-81ad-9237e7ec3e8b",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/dns/query.py",
+  "size": 23691,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.114942437Z",
+  "sha256_hash": "c17bccae11919867a349ad8e3816413a997cdd6783dfee43eeefe2b100afb5a6",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.550850253Z"
+}

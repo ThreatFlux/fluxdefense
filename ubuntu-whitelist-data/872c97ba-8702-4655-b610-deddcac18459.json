@@ -1,0 +1,15 @@
+{
+  "uuid": "872c97ba-8702-4655-b610-deddcac18459",
+  "path": "/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-ublox.so",
+  "size": 92440,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.161664505Z",
+  "sha256_hash": "a84f1a748d847e247796778e942c4f7a0f9cdf489b8a7aa8525874f4acf415be",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.576594707Z"
+}

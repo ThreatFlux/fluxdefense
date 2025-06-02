@@ -1,0 +1,17 @@
+{
+  "uuid": "b92f2434-f689-443a-8546-8f1fa05af768",
+  "path": "/usr/lib/grub/x86_64-efi/exfat.mod",
+  "size": 8704,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.804708521Z",
+  "sha256_hash": "26c5f7ba76f30252de5a20dc2657b5125d7ee424f5133244fb9c42a382484fee",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.504074049Z"
+}

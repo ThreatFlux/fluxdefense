@@ -1,0 +1,15 @@
+{
+  "uuid": "46233ab1-47bd-44ed-a6a1-3d03ae5230f7",
+  "path": "/bin/bison",
+  "size": 504656,
+  "modified": "2024-04-08T15:54:34Z",
+  "created": "2025-05-28T13:47:39.092584573Z",
+  "sha256_hash": "fa37741dacd93974fb0b21b403a8d8ea50e3bb3a21352ac7aca45f33551a6585",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.927665357Z"
+}

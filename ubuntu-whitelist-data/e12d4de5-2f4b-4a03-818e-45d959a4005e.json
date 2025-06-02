@@ -1,0 +1,17 @@
+{
+  "uuid": "e12d4de5-2f4b-4a03-818e-45d959a4005e",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-bytswa.ali",
+  "size": 1278,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.136343967Z",
+  "sha256_hash": "1b89a370e2e8848ecf92939cd0be1560dcc87344dafdda867fd47d2d5830503b",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.860442281Z"
+}

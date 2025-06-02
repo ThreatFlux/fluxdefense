@@ -1,0 +1,17 @@
+{
+  "uuid": "ece8bc2b-279c-4c1c-9731-85bfa92c6dee",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/s-fatgen.adb",
+  "size": 30338,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.077344777Z",
+  "sha256_hash": "af9effe594c873fac3b768e20bf84d0041c06b8b782bdc4723576ce0e6e719f4",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.047281189Z"
+}

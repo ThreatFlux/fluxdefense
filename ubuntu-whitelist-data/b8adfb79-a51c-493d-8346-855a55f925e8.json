@@ -1,0 +1,17 @@
+{
+  "uuid": "b8adfb79-a51c-493d-8346-855a55f925e8",
+  "path": "/usr/lib/x86_64-linux-gnu/perl-base/POSIX.pm",
+  "size": 20442,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.353578582Z",
+  "sha256_hash": "2dee2c60ef0268aa704ccb9db556a6a5e8e10c2c57009683065231bfb84c888b",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.727040025Z"
+}

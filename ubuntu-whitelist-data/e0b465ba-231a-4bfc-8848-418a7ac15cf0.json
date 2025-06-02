@@ -1,0 +1,15 @@
+{
+  "uuid": "e0b465ba-231a-4bfc-8848-418a7ac15cf0",
+  "path": "/usr/lib/x86_64-linux-gnu/gtk-2.0/modules/libferret.so",
+  "size": 61352,
+  "modified": "2024-07-15T16:53:59Z",
+  "created": "2025-05-09T05:07:35.800654754Z",
+  "sha256_hash": "7ead7a8c6a24be16bfda6e976523698e88dde406872c1e19859b4d2d983e68b9",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.317807159Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "01c2ab9d-3d59-4976-be4d-9e675ff91d32",
+  "path": "/lib/systemd/system/sssd-pam.socket",
+  "size": 391,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:28.301769185Z",
+  "sha256_hash": "6760940940471d5bb1b09652b1632db1251b90c3a028efcf11a1b731bb0ab43c",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.121503906Z"
+}

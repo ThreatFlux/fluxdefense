@@ -1,0 +1,17 @@
+{
+  "uuid": "f0b65f2a-d626-4bea-be30-0729585ce51e",
+  "path": "/lib/firmware/nvidia/tu102/sec2/image.bin.zst",
+  "size": 13110,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.959535898Z",
+  "sha256_hash": "8d8797d821ac955825bb40ccb12108348422144cdb7919c952e40cc443f0395b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.445717222Z"
+}

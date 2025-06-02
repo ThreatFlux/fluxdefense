@@ -1,0 +1,17 @@
+{
+  "uuid": "d6e04b72-7e70-4ddb-8795-0986565087c0",
+  "path": "/usr/lib/firmware/iwlwifi-5000-5.ucode.zst",
+  "size": 122861,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.582541119Z",
+  "sha256_hash": "700a85bd3e81cf44d76ab94d54e58a17f06ac0d5698d82e621bec5d6804c9270",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.716128063Z"
+}

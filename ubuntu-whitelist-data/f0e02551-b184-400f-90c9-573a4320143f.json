@@ -1,0 +1,17 @@
+{
+  "uuid": "f0e02551-b184-400f-90c9-573a4320143f",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-mantis.ali",
+  "size": 943,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.139343925Z",
+  "sha256_hash": "41213e22d80562e0bf3e53090254c9ae69c6f047d28bde8baf89233e4039846c",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.605296688Z"
+}

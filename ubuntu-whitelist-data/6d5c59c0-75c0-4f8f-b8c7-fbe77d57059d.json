@@ -1,0 +1,17 @@
+{
+  "uuid": "6d5c59c0-75c0-4f8f-b8c7-fbe77d57059d",
+  "path": "/lib/firmware/qcom/qrb4210/adsp.mbn.zst",
+  "size": 4887151,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.999535344Z",
+  "sha256_hash": "fee2523b0df2c6f36e5bef1e06584a7f4689180dcbe6e1877692eb00b6caa0d8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.066338765Z"
+}

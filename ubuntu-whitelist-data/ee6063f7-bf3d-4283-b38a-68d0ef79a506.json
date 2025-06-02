@@ -1,0 +1,15 @@
+{
+  "uuid": "ee6063f7-bf3d-4283-b38a-68d0ef79a506",
+  "path": "/lib/x86_64-linux-gnu/security/pam_tty_audit.so",
+  "size": 14488,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:37.206633299Z",
+  "sha256_hash": "d6836564a41f476be43c7f4f1e51d53eb070dacd8d992846662d8a59965e0b30",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.371845091Z"
+}

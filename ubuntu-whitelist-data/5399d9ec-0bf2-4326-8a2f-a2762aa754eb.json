@@ -1,0 +1,17 @@
+{
+  "uuid": "5399d9ec-0bf2-4326-8a2f-a2762aa754eb",
+  "path": "/usr/lib/grub/x86_64-efi/font.mod",
+  "size": 19608,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.805708506Z",
+  "sha256_hash": "be4d291d99e8fd7f831946b773b1e1992b4f95ba4d72923a6aa16e8331db82d2",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.485928891Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "44129c49-bc26-4115-b5fb-8921a62a92e1",
+  "path": "/usr/lib/x86_64-linux-gnu/libssh-gcrypt.so.4.9.6",
+  "size": 572856,
+  "modified": "2024-03-31T02:17:37Z",
+  "created": "2025-05-09T05:09:23.144016547Z",
+  "sha256_hash": "b954f78c20eaa4144d0a27ef66cffc53d8a29fc76d7ef9a4b32d8522ef2b5b14",
+  "file_type": {
+    "Other": "6"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.343586224Z"
+}

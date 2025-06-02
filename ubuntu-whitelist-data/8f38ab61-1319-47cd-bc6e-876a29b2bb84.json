@@ -1,0 +1,17 @@
+{
+  "uuid": "8f38ab61-1319-47cd-bc6e-876a29b2bb84",
+  "path": "/usr/lib/llvm-18/include/clang/Analysis/CallGraph.h",
+  "size": 10862,
+  "modified": "2023-06-29T07:31:24Z",
+  "created": "2025-05-12T13:34:31.523533660Z",
+  "sha256_hash": "ab2253f6853c44e31a6ef5b99bbf91ea968bf015b378abac9180552e1b07e736",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.628044488Z"
+}

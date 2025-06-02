@@ -1,0 +1,17 @@
+{
+  "uuid": "a818f13a-6cff-4820-8edf-d882695d6dc5",
+  "path": "/usr/lib/python3.12/test/testtar.tar",
+  "size": 435200,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.050551Z",
+  "sha256_hash": "760200dda3cfdff2cd31d8ab6c806794f3770faa465e7eae00a1cb3a2fbcbe3a",
+  "file_type": {
+    "Other": "tar"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.668085004Z"
+}

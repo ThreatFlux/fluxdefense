@@ -1,0 +1,17 @@
+{
+  "uuid": "379e8ee3-4d19-45d7-b295-cde2214d4bf3",
+  "path": "/usr/lib/grub/x86_64-efi/zfscrypt.mod",
+  "size": 8584,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.840707972Z",
+  "sha256_hash": "e0933d94fd2ad500586b5c7b71b3470e7d7aefa4f6001f3d7b7a77cabead513e",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.452372358Z"
+}

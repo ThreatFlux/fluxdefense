@@ -1,0 +1,17 @@
+{
+  "uuid": "49e6bb91-5ae2-4fa1-a50d-151c65a4174a",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/DebugOptions.def",
+  "size": 6026,
+  "modified": "2023-12-06T09:23:46Z",
+  "created": "2025-05-12T13:34:31.527533608Z",
+  "sha256_hash": "c2287ef7c79ed159c52ac501d357e8de9cff0a6fbc1f497231a33b5b71152d31",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.517723489Z"
+}

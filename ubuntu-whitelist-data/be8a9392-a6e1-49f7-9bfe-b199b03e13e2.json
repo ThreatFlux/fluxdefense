@@ -1,0 +1,17 @@
+{
+  "uuid": "be8a9392-a6e1-49f7-9bfe-b199b03e13e2",
+  "path": "/usr/lib/systemd/repart/definitions/portable.repart.d/10-root.conf",
+  "size": 433,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.510779317Z",
+  "sha256_hash": "6a412fc1785e513ff5ae68fc4524b80447c6adfb97f45e5e064b84a7ea0ffbf3",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.543956148Z"
+}

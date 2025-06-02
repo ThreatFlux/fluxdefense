@@ -1,0 +1,17 @@
+{
+  "uuid": "5c5af8c1-dd38-4804-83da-36934ad3de71",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/harfbuzz-subset.pc",
+  "size": 269,
+  "modified": "2024-03-31T01:19:37Z",
+  "created": "2025-05-29T11:16:06.885048018Z",
+  "sha256_hash": "19c2cd6aa239295097f5c392a1c7bd6332022088f796fd84cfece6afbac0fbbb",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.058126039Z"
+}

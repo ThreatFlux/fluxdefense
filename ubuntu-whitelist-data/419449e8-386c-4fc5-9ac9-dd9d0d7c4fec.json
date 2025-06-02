@@ -1,0 +1,17 @@
+{
+  "uuid": "419449e8-386c-4fc5-9ac9-dd9d0d7c4fec",
+  "path": "/lib/x86_64-linux-gnu/libjansson.so.4.14.0",
+  "size": 64008,
+  "modified": "2024-03-31T01:26:06Z",
+  "created": "2025-05-09T05:07:30.610733951Z",
+  "sha256_hash": "c49935a4b3ac599064281b1f257576087806d0dad7ec46f353bd983b052c5e26",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.462370944Z"
+}

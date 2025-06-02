@@ -1,0 +1,17 @@
+{
+  "uuid": "f02c83a6-dc06-433a-9a8a-25cdc03287da",
+  "path": "/lib/x86_64-linux-gnu/libabsl_civil_time.so.20220623.0.0",
+  "size": 26872,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.938492440Z",
+  "sha256_hash": "4ada31337caa5b4e676cf3fb59db87b31f513f949e9dd68d90fa9cccdc7c7cfb",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.821141594Z"
+}

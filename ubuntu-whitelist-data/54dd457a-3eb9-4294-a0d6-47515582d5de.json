@@ -1,0 +1,17 @@
+{
+  "uuid": "54dd457a-3eb9-4294-a0d6-47515582d5de",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/s-stache.adb",
+  "size": 2580,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.089344612Z",
+  "sha256_hash": "167224c228b2482cf2a24a42397480119f9a363385c848c654f0e5f10771db60",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.010713570Z"
+}

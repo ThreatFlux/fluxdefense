@@ -1,0 +1,15 @@
+{
+  "uuid": "53e47840-9ec0-4d7a-87f2-3900ab1ccb98",
+  "path": "/lib/google-cloud-sdk/lib/surface/auth/revoke.py",
+  "size": 7270,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.732931938Z",
+  "sha256_hash": "ed945fce0e1d2faa0a9886de9fe6e94cb751f2b6fb34a48bb82d7e761f90a298",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.039204128Z"
+}

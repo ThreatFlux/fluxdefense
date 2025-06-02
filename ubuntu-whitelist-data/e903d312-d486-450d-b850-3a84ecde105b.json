@@ -1,0 +1,17 @@
+{
+  "uuid": "e903d312-d486-450d-b850-3a84ecde105b",
+  "path": "/lib/grub/x86_64-efi/iorw.mod",
+  "size": 4392,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.811708415Z",
+  "sha256_hash": "c0f0c663cdc92bafb6f58e9299eb0908a0f328ca9df6def681cd5620f5422456",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.046867628Z"
+}

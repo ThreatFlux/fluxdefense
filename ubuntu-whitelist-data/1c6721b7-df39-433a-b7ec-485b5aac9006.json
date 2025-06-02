@@ -1,0 +1,17 @@
+{
+  "uuid": "1c6721b7-df39-433a-b7ec-485b5aac9006",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/Time/Piece.pm",
+  "size": 32207,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.520591297Z",
+  "sha256_hash": "ce3db81fcba099819738e9bab35805b5e7f0ea2b269de80a8785a7c6f8522b14",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.468320819Z"
+}

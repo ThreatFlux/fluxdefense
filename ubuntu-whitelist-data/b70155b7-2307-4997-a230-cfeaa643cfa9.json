@@ -1,0 +1,17 @@
+{
+  "uuid": "b70155b7-2307-4997-a230-cfeaa643cfa9",
+  "path": "/lib/modules/6.11.0-26-generic/modules.order",
+  "size": 267863,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.135796908Z",
+  "sha256_hash": "58e6c8f1f9a30e0542f988fabeb30797e29cdbc36b996e80ac590437587afc47",
+  "file_type": {
+    "Other": "order"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.217031438Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "846b1c6f-3d85-45f1-9d21-16f7515a545a",
+  "path": "/usr/lib/systemd/systemd-boot-check-no-failures",
+  "size": 14792,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.517779406Z",
+  "sha256_hash": "ac22027b7e46e0325a5f47c0f97c42510019c70cc34b31fa43a2c262a90ef640",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.537797212Z"
+}

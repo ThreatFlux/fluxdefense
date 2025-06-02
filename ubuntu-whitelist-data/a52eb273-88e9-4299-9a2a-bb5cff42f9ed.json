@@ -1,0 +1,17 @@
+{
+  "uuid": "a52eb273-88e9-4299-9a2a-bb5cff42f9ed",
+  "path": "/usr/lib/firmware/arm/mali/arch10.8/mali_csffw.bin.zst",
+  "size": 54708,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.431543211Z",
+  "sha256_hash": "96dd46223b0976c868b182257bd58d7856a64ca5f5d638bad1324c045a800813",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.698848353Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "34dd6273-1020-4285-96d6-ae3e4dcf6880",
+  "path": "/sbin/newusers",
+  "size": 89048,
+  "modified": "2024-05-30T14:52:35Z",
+  "created": "2025-05-09T05:07:38.368615567Z",
+  "sha256_hash": "2b062bd0230f70e54f4aac75224d812daada0e39cb421485bd898ddeed5ca12e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.139296192Z"
+}

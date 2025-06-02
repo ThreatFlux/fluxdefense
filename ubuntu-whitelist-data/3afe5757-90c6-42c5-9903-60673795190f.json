@@ -1,0 +1,17 @@
+{
+  "uuid": "3afe5757-90c6-42c5-9903-60673795190f",
+  "path": "/lib/cups/backend/hp",
+  "size": 22832,
+  "modified": "2024-03-31T07:39:41Z",
+  "created": "2025-05-09T05:07:21.037880029Z",
+  "sha256_hash": "b070650e78bcb9c2a247841728cf1a6b55b13996c9e33af976ae1285e5a1d30b",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.644257265Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b5aaa501-d922-476a-a44f-fa5c88a12a07",
+  "path": "/usr/lib/x86_64-linux-gnu/perl5/5.38/XML/Parser.pm",
+  "size": 27719,
+  "modified": "2023-12-29T00:27:50Z",
+  "created": "2025-05-09T05:07:36.887638166Z",
+  "sha256_hash": "aa18f6b0d7ce57e153f17c89a1c5fcda01032a27e2ed00fcdf7b939ecc2e70da",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.614306958Z"
+}

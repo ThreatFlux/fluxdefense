@@ -1,0 +1,17 @@
+{
+  "uuid": "bf4a9504-441e-4308-b9a4-d170e1a79dd0",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/shn_dict",
+  "size": 88377,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.545658645Z",
+  "sha256_hash": "173dbb10a1bec6daf347c481899754b0caa8977bb78c585bf2c7a2ac4e9f7730",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.278159567Z"
+}

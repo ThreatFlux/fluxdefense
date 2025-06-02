@@ -1,0 +1,17 @@
+{
+  "uuid": "a2438b79-ffa9-43a2-af45-44fa6f899754",
+  "path": "/lib/firmware/qcom/vpu-2.0/venus.mbn.zst",
+  "size": 626440,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.043534734Z",
+  "sha256_hash": "61abd8cece23badc560ecee288b44fb1515d5145c209a2cb3165d66952378146",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.656559182Z"
+}

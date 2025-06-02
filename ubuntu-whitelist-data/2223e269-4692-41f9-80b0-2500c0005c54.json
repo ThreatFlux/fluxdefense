@@ -1,0 +1,15 @@
+{
+  "uuid": "2223e269-4692-41f9-80b0-2500c0005c54",
+  "path": "/lib/python3/dist-packages/cloudinit/sources/DataSourceDigitalOcean.py",
+  "size": 4300,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.241037243Z",
+  "sha256_hash": "9679018e0e9c413be058aba40d0024af0b6f045368770f68422e70c045e5d4da",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.903432378Z"
+}

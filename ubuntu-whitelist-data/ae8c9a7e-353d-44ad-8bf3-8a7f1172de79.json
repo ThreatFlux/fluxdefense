@@ -1,0 +1,17 @@
+{
+  "uuid": "ae8c9a7e-353d-44ad-8bf3-8a7f1172de79",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/misc/UnusedUsingDeclsCheck.h",
+  "size": 2198,
+  "modified": "2024-01-17T08:14:10Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "82c52b3fd5b2c35c58dca21500d1971e267d15ece7a64e39c7c9372cde707583",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.277886258Z"
+}

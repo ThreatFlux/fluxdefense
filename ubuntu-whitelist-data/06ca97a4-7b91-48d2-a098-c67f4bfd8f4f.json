@@ -1,0 +1,17 @@
+{
+  "uuid": "06ca97a4-7b91-48d2-a098-c67f4bfd8f4f",
+  "path": "/lib/firmware/ath12k/WCN7850/hw2.0/board-2.bin.zst",
+  "size": 33090,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.474542615Z",
+  "sha256_hash": "0713e03f82a343d01b009ec78ce926869555e1ebd9ebb0d47f31a19ffd52b22d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.351284523Z"
+}

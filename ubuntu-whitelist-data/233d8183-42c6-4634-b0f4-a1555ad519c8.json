@@ -1,0 +1,17 @@
+{
+  "uuid": "233d8183-42c6-4634-b0f4-a1555ad519c8",
+  "path": "/usr/lib/firmware/cirrus/cs35l41/v6.39.0/halo_cspl_RAM_revB2_29.41.0.wmfw.zst",
+  "size": 16199,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.491542380Z",
+  "sha256_hash": "34935a44d7539be6edc33a7bb2b6c31c2b208b58561762ea01591c2b95294bf8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.363311397Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "f73b5beb-aff5-4588-98b7-753443bd3dff",
+  "path": "/usr/lib/x86_64-linux-gnu/wireplumber-0.4/libwireplumber-module-logind.so",
+  "size": 14496,
+  "modified": "2024-03-31T08:33:26Z",
+  "created": "2025-05-09T05:07:37.319631574Z",
+  "sha256_hash": "e8022be789ad3331804ada95a1f081f55b426b8c29e867a85e6ef307ba80927d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.089554355Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "a54ec088-13b1-44b5-9bac-c66bb82043ce",
+  "path": "/lib/x86_64-linux-gnu/gconv/HP-GREEK8.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.624657440Z",
+  "sha256_hash": "39359eb9fed817014a93a6dd2933cbca7441aa43606a7439efc39897a6a3b7b0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.757393877Z"
+}

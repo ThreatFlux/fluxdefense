@@ -1,0 +1,15 @@
+{
+  "uuid": "9c0a1d08-4e13-4275-be2d-f00c3a6d789a",
+  "path": "/usr/bin/cpupower",
+  "size": 1622,
+  "modified": "2025-04-15T17:24:36Z",
+  "created": "2025-05-16T01:21:37.095297880Z",
+  "sha256_hash": "2d0953085bf720a25efbe24f853e97d27b1f12f18a398255ff82cbafde254dad",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.182494066Z"
+}

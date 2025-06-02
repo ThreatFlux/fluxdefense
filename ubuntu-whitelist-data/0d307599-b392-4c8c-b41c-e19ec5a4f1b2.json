@@ -1,0 +1,17 @@
+{
+  "uuid": "0d307599-b392-4c8c-b41c-e19ec5a4f1b2",
+  "path": "/usr/lib/x86_64-linux-gnu/libcrack.so.2.9.0",
+  "size": 47176,
+  "modified": "2024-03-31T07:30:49Z",
+  "created": "2025-05-09T05:07:29.238754887Z",
+  "sha256_hash": "1e1cf652c015212899b72fb9503b25fce8234b2847b3012660a0ea256d635abd",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:28.097839105Z"
+}

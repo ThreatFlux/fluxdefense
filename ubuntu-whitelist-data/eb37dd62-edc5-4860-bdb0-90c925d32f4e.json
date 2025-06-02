@@ -1,0 +1,17 @@
+{
+  "uuid": "eb37dd62-edc5-4860-bdb0-90c925d32f4e",
+  "path": "/usr/sbin/mkfs.cramfs",
+  "size": 35144,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.363615643Z",
+  "sha256_hash": "719ecf8eed84df69afdbd9e936db65f0d1ff2d512a2813f267efd1d6cd64094a",
+  "file_type": {
+    "Other": "cramfs"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.292908486Z"
+}

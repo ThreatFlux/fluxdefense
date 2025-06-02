@@ -1,0 +1,17 @@
+{
+  "uuid": "f891c3c8-4ae0-481b-af5f-ba960a52703f",
+  "path": "/usr/lib/llvm-18/include/clang/AST/DeclFriend.h",
+  "size": 8171,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.516533752Z",
+  "sha256_hash": "48eddf471b0b1bebccb0d4544c60d9bc0a1246ae30cb1925937eed314d9b62e4",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.326722581Z"
+}

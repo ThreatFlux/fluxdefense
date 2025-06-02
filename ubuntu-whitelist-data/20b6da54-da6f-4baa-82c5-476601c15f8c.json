@@ -1,0 +1,17 @@
+{
+  "uuid": "20b6da54-da6f-4baa-82c5-476601c15f8c",
+  "path": "/lib/firmware/iwlwifi-3945-2.ucode.zst",
+  "size": 59867,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.581541133Z",
+  "sha256_hash": "50f65aa68fd5a25424185abc3089464c01daf15093890d78f20823c959736a71",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.630697115Z"
+}

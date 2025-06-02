@@ -1,0 +1,17 @@
+{
+  "uuid": "da370fc4-d0ea-4223-85d3-db6e09694e2d",
+  "path": "/usr/lib/firmware/intel/ibt-hw-37.8.10-fw-22.50.19.14.f.bseq.zst",
+  "size": 29058,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.565541355Z",
+  "sha256_hash": "eb84ab538d25bc89b79afb413d83d964aa241897d9f3c4b624a9baa8b0a76582",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.849054898Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "f6bf46d1-65df-4569-a877-6bd378a2c61e",
+  "path": "/sbin/pam_timestamp_check",
+  "size": 14656,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:38.392615201Z",
+  "sha256_hash": "0123a965f3205ccc64784e136c47afe455650093cfd211c24a25cd7a18b149bc",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.857734548Z"
+}

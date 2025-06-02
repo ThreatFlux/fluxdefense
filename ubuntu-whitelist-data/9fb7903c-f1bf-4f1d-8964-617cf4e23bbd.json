@@ -1,0 +1,15 @@
+{
+  "uuid": "9fb7903c-f1bf-4f1d-8964-617cf4e23bbd",
+  "path": "/lib/python3.12/lib-dynload/_xxtestfuzz.cpython-312-x86_64-linux-gnu.so",
+  "size": 23144,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:10:59.931539231Z",
+  "sha256_hash": "0a504911443cad90c73f4ab09b79c4656ceed21021279d56480964d8afc33f8f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.239071370Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "eebbb1e3-c511-445e-80cb-fbdd69229ec0",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/llvm/TwineLocalCheck.h",
+  "size": 1095,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "2bf3db5bd0532c23500aa0ae60a9b02748e119834a70443dd21934e1e0de9d32",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.252654690Z"
+}

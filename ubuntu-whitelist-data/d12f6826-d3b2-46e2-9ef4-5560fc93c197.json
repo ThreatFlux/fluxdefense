@@ -1,0 +1,17 @@
+{
+  "uuid": "d12f6826-d3b2-46e2-9ef4-5560fc93c197",
+  "path": "/lib/llvm-18/include/clang-tidy/cppcoreguidelines/SpecialMemberFunctionsCheck.h",
+  "size": 3977,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "cc3448d7ef49a31f7f96b981ffb4c797d03295e9de3956c1a6a487df59d02b9e",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.907043477Z"
+}

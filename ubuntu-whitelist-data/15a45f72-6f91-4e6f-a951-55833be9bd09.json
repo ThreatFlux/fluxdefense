@@ -1,0 +1,17 @@
+{
+  "uuid": "15a45f72-6f91-4e6f-a951-55833be9bd09",
+  "path": "/usr/lib/systemd/system/systemd-pcrextend.socket",
+  "size": 649,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "8e246031ea1f180183e9b8e973bba514e54fadff485b4925f6c5d5b40a61d2bd",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.457760199Z"
+}

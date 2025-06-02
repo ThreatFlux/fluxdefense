@@ -1,0 +1,17 @@
+{
+  "uuid": "7ba21dbc-76b0-4908-8c48-a7369b9c5e45",
+  "path": "/lib/x86_64-linux-gnu/libspice-server.so.1.14.2",
+  "size": 1116448,
+  "modified": "2024-04-01T04:49:16Z",
+  "created": "2025-05-09T05:56:52.049614416Z",
+  "sha256_hash": "04d42e854e91ebb1b65eb11197811078ae562f60f1f18962afa44a12109469f2",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.234315910Z"
+}

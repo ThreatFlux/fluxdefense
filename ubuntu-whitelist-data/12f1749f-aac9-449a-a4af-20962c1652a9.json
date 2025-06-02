@@ -1,0 +1,17 @@
+{
+  "uuid": "12f1749f-aac9-449a-a4af-20962c1652a9",
+  "path": "/lib/i386-linux-gnu/libwayland-client.so.0.22.0",
+  "size": 59360,
+  "modified": "2024-04-08T16:21:56Z",
+  "created": "2025-05-09T12:56:00.972923177Z",
+  "sha256_hash": "f0494213e6550bb4135b2c76c649540d55204a14decf036d910c71891b055047",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:48.268436653Z"
+}

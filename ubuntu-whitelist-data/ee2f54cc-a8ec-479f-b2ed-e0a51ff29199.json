@@ -1,0 +1,17 @@
+{
+  "uuid": "ee2f54cc-a8ec-479f-b2ed-e0a51ff29199",
+  "path": "/usr/lib/llvm-18/include/clang/Serialization/ASTRecordReader.h",
+  "size": 12083,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.549533318Z",
+  "sha256_hash": "0e195ab193b7ce629731680df40e96a3774a7d9b9ac9d3b0237d063bfbe76edd",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.424949736Z"
+}

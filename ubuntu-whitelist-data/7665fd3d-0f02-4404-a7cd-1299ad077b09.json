@@ -1,0 +1,17 @@
+{
+  "uuid": "7665fd3d-0f02-4404-a7cd-1299ad077b09",
+  "path": "/lib/llvm-18/include/clang/Analysis/CFGStmtMap.h",
+  "size": 1617,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.523533660Z",
+  "sha256_hash": "e2fe161d6ff6832e694a63850a38ec3a88b909b178fca48717fd323da23e39aa",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.185687957Z"
+}

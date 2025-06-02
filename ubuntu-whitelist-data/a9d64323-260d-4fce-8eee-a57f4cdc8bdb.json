@@ -1,0 +1,17 @@
+{
+  "uuid": "a9d64323-260d-4fce-8eee-a57f4cdc8bdb",
+  "path": "/usr/lib/x86_64-linux-gnu/libpspell.so.15.3.1",
+  "size": 14120,
+  "modified": "2024-04-08T15:54:10Z",
+  "created": "2025-05-09T05:07:31.892714388Z",
+  "sha256_hash": "76ba55e92bfb440031d4e8882d2c779be5f7f92efc5b5afdd3e18588eddfd650",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.413857014Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "52903a64-25ca-4b7e-83cc-8a33144e52cd",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_ipcomp.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.335631330Z",
+  "sha256_hash": "792d1d0bde7652cedaaed741e2088cb949d8d878e5396ccc8f27da0b3f7ef190",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.667967601Z"
+}

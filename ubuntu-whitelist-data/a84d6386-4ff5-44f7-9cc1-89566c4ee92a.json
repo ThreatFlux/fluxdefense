@@ -1,0 +1,15 @@
+{
+  "uuid": "a84d6386-4ff5-44f7-9cc1-89566c4ee92a",
+  "path": "/lib/x86_64-linux-gnu/rhythmbox/plugins/mtpdevice/libmtpdevice.so",
+  "size": 96736,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:36.998636473Z",
+  "sha256_hash": "03dc3a1ab6746b363e32a8478cd4f0a341326c6274e911a8497ccb8d86cd2298",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.310335290Z"
+}

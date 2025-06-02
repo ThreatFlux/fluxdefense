@@ -1,0 +1,17 @@
+{
+  "uuid": "ae634cf1-0ae2-4dc4-9208-4e9adb26b5fb",
+  "path": "/usr/lib/systemd/system/gdm.service",
+  "size": 1144,
+  "modified": "2024-12-02T22:47:57Z",
+  "created": "2025-05-09T05:07:28.299769216Z",
+  "sha256_hash": "df5237232febe66a9bb20c51aff22456c73947fad3301175c89cab69450d6fc8",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.469368520Z"
+}

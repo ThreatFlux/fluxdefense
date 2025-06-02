@@ -1,0 +1,15 @@
+{
+  "uuid": "2ada7360-7b6c-439a-ba2a-f0310d1b9068",
+  "path": "/usr/bin/gatttool",
+  "size": 118384,
+  "modified": "2025-02-25T06:11:15Z",
+  "created": "2025-05-09T05:24:15.924810262Z",
+  "sha256_hash": "6755ab6bbd628e2841ebc660334cfbc83c243f9a6d25836b72672a843baa3040",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.184504365Z"
+}

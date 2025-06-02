@@ -1,0 +1,15 @@
+{
+  "uuid": "0f9d3fef-3a20-444e-9f2a-27b6958ebcb8",
+  "path": "/usr/lib/x86_64-linux-gnu/ModemManager/libmm-shared-telit.so",
+  "size": 80120,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.164664459Z",
+  "sha256_hash": "05fc8b085d5d4da4f8152a919b05f9df904858c9e42ab164c0f73f9c9abc1d5c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.063837815Z"
+}

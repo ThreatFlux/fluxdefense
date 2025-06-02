@@ -1,0 +1,17 @@
+{
+  "uuid": "b1bfd39c-f9e4-4a09-83f0-76adf725e293",
+  "path": "/lib/x86_64-linux-gnu/libphonenumber.so.8.12",
+  "size": 725248,
+  "modified": "2024-04-03T20:35:55Z",
+  "created": "2025-05-09T05:07:31.841715167Z",
+  "sha256_hash": "ae9661ce1505dc1d41716367323eae710da96180da488ba50364e918bb7d9e2c",
+  "file_type": {
+    "Other": "12"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.920982766Z"
+}

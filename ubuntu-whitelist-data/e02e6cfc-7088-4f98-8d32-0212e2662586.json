@@ -1,0 +1,17 @@
+{
+  "uuid": "e02e6cfc-7088-4f98-8d32-0212e2662586",
+  "path": "/lib/firmware/cypress/cyfmac4356-pcie.bin.zst",
+  "size": 379571,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.518542006Z",
+  "sha256_hash": "9c3dcb30f4bcb5ac4a0db67649c8ec1684097280d75f837d5259e9be07fe3e28",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.593601273Z"
+}

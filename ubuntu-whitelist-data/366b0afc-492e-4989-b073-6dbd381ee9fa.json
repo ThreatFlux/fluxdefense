@@ -1,0 +1,17 @@
+{
+  "uuid": "366b0afc-492e-4989-b073-6dbd381ee9fa",
+  "path": "/lib/firmware/intel/ibt-12-16.sfi.zst",
+  "size": 379000,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.560541424Z",
+  "sha256_hash": "ca69a1e8dc6c14a59898e11d8153a08168518516265b65caafaebd09d7598b45",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.141271336Z"
+}

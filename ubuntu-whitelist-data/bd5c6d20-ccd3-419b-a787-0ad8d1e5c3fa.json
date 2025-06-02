@@ -1,0 +1,15 @@
+{
+  "uuid": "bd5c6d20-ccd3-419b-a787-0ad8d1e5c3fa",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_addrtype.so",
+  "size": 14968,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.332631376Z",
+  "sha256_hash": "a1a6f8b541557c1023df16e0fdaa4711bc7309f2248c10976a8aa654f4ba1a9e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.686179883Z"
+}

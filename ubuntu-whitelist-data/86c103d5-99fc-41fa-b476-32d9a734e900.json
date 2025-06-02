@@ -1,0 +1,15 @@
+{
+  "uuid": "86c103d5-99fc-41fa-b476-32d9a734e900",
+  "path": "/usr/lib/x86_64-linux-gnu/grilo-0.3/libgrlopticalmedia.so",
+  "size": 27024,
+  "modified": "2025-03-17T11:05:34Z",
+  "created": "2025-05-12T03:14:18.439811199Z",
+  "sha256_hash": "5d9cf68eb682899b7a9817995346b502d3d8235efe13c8561468483f6d62c65a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.517607045Z"
+}

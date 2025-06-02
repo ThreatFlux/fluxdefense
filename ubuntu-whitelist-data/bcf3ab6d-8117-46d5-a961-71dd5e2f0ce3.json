@@ -1,0 +1,15 @@
+{
+  "uuid": "bcf3ab6d-8117-46d5-a961-71dd5e2f0ce3",
+  "path": "/lib/python3/dist-packages/suricata/update/sources.py",
+  "size": 6959,
+  "modified": "2023-07-07T17:38:45Z",
+  "created": "2025-05-26T20:18:27.985008880Z",
+  "sha256_hash": "c9ca9634cc0c6e2cbf8e50e024eb9d0df97573e4d7784f9814dfcd4613001571",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.362311112Z"
+}

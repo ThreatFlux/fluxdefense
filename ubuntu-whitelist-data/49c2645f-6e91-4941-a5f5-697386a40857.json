@@ -1,0 +1,17 @@
+{
+  "uuid": "49c2645f-6e91-4941-a5f5-697386a40857",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/lib/ts_kmp.ko.zst",
+  "size": 3322,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.115797254Z",
+  "sha256_hash": "3d7ac24f4c6303bbf596d4948debffeaff6a9f507a4a363b19bb9a9abaac1d38",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.267734087Z"
+}

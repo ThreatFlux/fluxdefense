@@ -1,0 +1,17 @@
+{
+  "uuid": "5f0d83cc-fb3b-4207-916f-9a518be62a4f",
+  "path": "/lib/python3.12/test/randv2_64.pck",
+  "size": 7365,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.001551644Z",
+  "sha256_hash": "ce2909421055dfd251fb73e3aa43ccb8dedcd9aa0ff40a9ef8a3835271b13944",
+  "file_type": {
+    "Other": "pck"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.286225928Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "6cd017d7-e892-4c91-933c-252385ac9587",
+  "path": "/usr/lib/llvm-18/lib/libclangdMonitoringServiceProto.a",
+  "size": 299360,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.920528432Z",
+  "sha256_hash": "4e1144480cbc81037ee416b2cd44e012ea9bdf1d2bbda9e590e43bc8b6b3e72d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:32.938720041Z"
+}

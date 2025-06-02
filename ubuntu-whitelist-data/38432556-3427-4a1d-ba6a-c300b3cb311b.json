@@ -1,0 +1,17 @@
+{
+  "uuid": "38432556-3427-4a1d-ba6a-c300b3cb311b",
+  "path": "/lib/systemd/system/tpm-udev.path",
+  "size": 148,
+  "modified": "2022-11-21T19:30:15Z",
+  "created": "2025-05-09T05:07:28.304769139Z",
+  "sha256_hash": "a6b8053ea748341299c318274f94b23afb3f018529c1ac2721e59147328442b4",
+  "file_type": {
+    "Other": "path"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.122136275Z"
+}

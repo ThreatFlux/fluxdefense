@@ -1,0 +1,17 @@
+{
+  "uuid": "440fa310-26f3-496f-8510-239b3e3d5072",
+  "path": "/lib/firmware/amdgpu/picasso_rlc_am4.bin.zst",
+  "size": 10548,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.407543543Z",
+  "sha256_hash": "be10cd84ec16356fb360a5692862d931e9ed44cf0bbf21f4687e920993690b46",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.894593498Z"
+}

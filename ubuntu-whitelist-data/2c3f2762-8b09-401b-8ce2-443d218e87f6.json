@@ -1,0 +1,17 @@
+{
+  "uuid": "2c3f2762-8b09-401b-8ce2-443d218e87f6",
+  "path": "/usr/lib/firmware/amdtee/773bd96f-b83f-4d52-b12dc529b13d8543.bin.zst",
+  "size": 6026,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.428543253Z",
+  "sha256_hash": "c9047b65fbed4aa2478e797ce8932ac944c8494b2b0e78c5292d2b4bf31ae80a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.546478787Z"
+}

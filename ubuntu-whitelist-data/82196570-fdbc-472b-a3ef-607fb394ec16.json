@@ -1,0 +1,17 @@
+{
+  "uuid": "82196570-fdbc-472b-a3ef-607fb394ec16",
+  "path": "/usr/lib/systemd/user/gnome-keyring-daemon.service",
+  "size": 338,
+  "modified": "2024-03-31T06:07:47Z",
+  "created": "2025-05-09T05:07:28.305769124Z",
+  "sha256_hash": "00fd9dc412bef3f31e4c45d51e5b85ed2bc3861056f3d181ac18f266f00da35d",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.500086613Z"
+}

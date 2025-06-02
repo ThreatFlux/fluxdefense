@@ -1,0 +1,17 @@
+{
+  "uuid": "7bfcbd7f-5115-4fc3-b4df-54b9168e114f",
+  "path": "/lib/firmware/htc_9271.fw.zst",
+  "size": 27771,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.531541826Z",
+  "sha256_hash": "9fbe3b9db4b6f8062d05cab4d760f9dae28b54f7816ae3fc3060916a51d09def",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.668968150Z"
+}

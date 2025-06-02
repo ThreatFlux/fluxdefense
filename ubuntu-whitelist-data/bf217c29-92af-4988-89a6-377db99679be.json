@@ -1,0 +1,17 @@
+{
+  "uuid": "bf217c29-92af-4988-89a6-377db99679be",
+  "path": "/usr/lib/firmware/nvidia/gp102/gr/fecs_data.bin.zst",
+  "size": 516,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.939536174Z",
+  "sha256_hash": "df66194c2b80a21d4bc6686b58ba049d8d8af364b6a6114aaa6a42d7ef7989fa",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.288248697Z"
+}

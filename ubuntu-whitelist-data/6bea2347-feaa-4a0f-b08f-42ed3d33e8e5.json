@@ -1,0 +1,17 @@
+{
+  "uuid": "6bea2347-feaa-4a0f-b08f-42ed3d33e8e5",
+  "path": "/lib/aspell/en_GB-wo_accents.multi",
+  "size": 90,
+  "modified": "2020-12-08T01:19:37Z",
+  "created": "2025-05-09T05:07:21.014880380Z",
+  "sha256_hash": "43c6fb569953d95d0c745c5cb97eb051a2206ec0d64fc96fa7b0d2d5fa271b98",
+  "file_type": {
+    "Other": "multi"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.799536782Z"
+}

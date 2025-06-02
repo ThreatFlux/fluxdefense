@@ -1,0 +1,17 @@
+{
+  "uuid": "8199ba4e-76ab-48b3-b024-d95cecd49d98",
+  "path": "/lib/x86_64-linux-gnu/libgupnp-dlna-gst-2.0.so.4.0.0",
+  "size": 51360,
+  "modified": "2024-03-31T01:18:14Z",
+  "created": "2025-05-09T05:07:30.162740787Z",
+  "sha256_hash": "2d21f3ba39b3043421cee22c92d7c64292ae9dd5ee56e5d76220317acaa2d1cf",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:18.310441142Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "58bed2ca-2594-4749-886c-bebb8dad5fb5",
+  "path": "/usr/lib/firmware/ath11k/QCA2066/hw2.1/Notice.txt.zst",
+  "size": 12057,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.456542865Z",
+  "sha256_hash": "c527a10314d6cba1b428a73b875080e3a318d84b73522d29d798d005c935c474",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:58.055238154Z"
+}

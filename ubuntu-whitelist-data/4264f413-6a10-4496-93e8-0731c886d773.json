@@ -1,0 +1,15 @@
+{
+  "uuid": "4264f413-6a10-4496-93e8-0731c886d773",
+  "path": "/lib/google-cloud-sdk/platform/gsutil/gslib/cloud_api_delegator.py",
+  "size": 30589,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.817930494Z",
+  "sha256_hash": "acb0871d99a0f909a25433f87fec23b4b2aafbd1d75493fe356fd81a94197d0e",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.968276989Z"
+}

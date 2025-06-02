@@ -1,0 +1,17 @@
+{
+  "uuid": "e89a0b73-fb64-476a-be58-07bd0277e3d1",
+  "path": "/lib/x86_64-linux-gnu/libabsl_demangle_internal.so.20220623.0.0",
+  "size": 39240,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.938492440Z",
+  "sha256_hash": "7b5dedce477e918b7acb98cad7245c291bdc56e64bd77a1c43fd66203c9094e3",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:18.309356689Z"
+}

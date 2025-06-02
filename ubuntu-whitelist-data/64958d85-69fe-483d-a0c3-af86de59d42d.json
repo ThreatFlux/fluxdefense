@@ -1,0 +1,17 @@
+{
+  "uuid": "64958d85-69fe-483d-a0c3-af86de59d42d",
+  "path": "/lib/firmware/ath10k/QCA99X0/hw2.0/notice_ath10k_firmware-5.txt.zst",
+  "size": 4743,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.441543072Z",
+  "sha256_hash": "fe91774fe2efa8affb0564371935ec827d01205cf6d891dfc009c40b4b55ebd1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.950097649Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "74ddd684-d0d7-436d-a28f-32e1d49c4ff4",
+  "path": "/lib/x86_64-linux-gnu/libpipewire-0.3.so.0.1005.0",
+  "size": 908400,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.139851763Z",
+  "sha256_hash": "1096592d1758daea6808147c39fbe0ea58067fb55d5b0d3bc35d8f91a19ff182",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.646299951Z"
+}

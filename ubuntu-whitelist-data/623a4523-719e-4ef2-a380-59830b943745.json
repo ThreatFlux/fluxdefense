@@ -1,0 +1,17 @@
+{
+  "uuid": "623a4523-719e-4ef2-a380-59830b943745",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/include/cpuid.h",
+  "size": 10103,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.244389832Z",
+  "sha256_hash": "034704208a2785e19985b5f05d393c6818be633fcecc0bfce1ea0f39a733ed71",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.916702614Z"
+}

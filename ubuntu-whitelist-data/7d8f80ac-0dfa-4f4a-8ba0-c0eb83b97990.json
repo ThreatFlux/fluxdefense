@@ -1,0 +1,17 @@
+{
+  "uuid": "7d8f80ac-0dfa-4f4a-8ba0-c0eb83b97990",
+  "path": "/lib/x86_64-linux-gnu/libhiredis.so.1.1.0",
+  "size": 80280,
+  "modified": "2024-03-31T18:25:36Z",
+  "created": "2025-05-26T20:18:23.852071311Z",
+  "sha256_hash": "f075a3e97f536723ebfde914e6838ccf8083e6970eb49c5cee00a0be93cc07a1",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:12.239112607Z"
+}

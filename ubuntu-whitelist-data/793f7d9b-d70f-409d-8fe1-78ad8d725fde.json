@@ -1,0 +1,17 @@
+{
+  "uuid": "793f7d9b-d70f-409d-8fe1-78ad8d725fde",
+  "path": "/lib/firmware/qcom/apq8016/WCNSS_qcom_wlan_nv_sbc.bin.zst",
+  "size": 4028,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.970535745Z",
+  "sha256_hash": "1e1a7793f2f4824594f2e95146d5b463be2e46f8b574d5c4214f8a902c0d0b95",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.851886324Z"
+}

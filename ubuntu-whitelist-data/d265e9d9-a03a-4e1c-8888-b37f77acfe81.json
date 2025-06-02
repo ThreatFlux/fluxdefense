@@ -1,0 +1,17 @@
+{
+  "uuid": "d265e9d9-a03a-4e1c-8888-b37f77acfe81",
+  "path": "/usr/lib/firmware/amdgpu/fiji_me.bin.zst",
+  "size": 6069,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.393543737Z",
+  "sha256_hash": "d420a9bd7a0504e00df890f909db00c132870ea3fea5f160e89baba506ba9691",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.818030374Z"
+}

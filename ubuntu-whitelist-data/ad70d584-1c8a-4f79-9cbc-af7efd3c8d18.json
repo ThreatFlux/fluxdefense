@@ -1,0 +1,17 @@
+{
+  "uuid": "ad70d584-1c8a-4f79-9cbc-af7efd3c8d18",
+  "path": "/lib/llvm-18/include/clang/Tooling/ReplacementsYaml.h",
+  "size": 2531,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.554533252Z",
+  "sha256_hash": "02f7cd09250e74869075e4e91980b3d5e3c843406684b0fe7962f6b741a057e8",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.017696021Z"
+}

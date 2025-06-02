@@ -1,0 +1,17 @@
+{
+  "uuid": "bc87b8ae-38bb-4a95-9191-d73b9b1fc456",
+  "path": "/lib/firmware/amdgpu/carrizo_ce.bin.zst",
+  "size": 2317,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.389543793Z",
+  "sha256_hash": "e7d27c42e28f8bf5fe961017a7d5dd9b364b8913beb8653e1d87a1c94bec7c4a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.081756212Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "cb9a6dee-3a77-437f-934e-dafaf00a8de9",
+  "path": "/bin/linux-check-removal",
+  "size": 4090,
+  "modified": "2025-02-27T07:59:00Z",
+  "created": "2025-05-09T05:24:23.959914556Z",
+  "sha256_hash": "3847b5781a820f3083344bce5c42afa41ab90519f35d622f32a2dd16f25ed207",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:18.980385353Z"
+}

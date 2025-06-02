@@ -1,0 +1,17 @@
+{
+  "uuid": "cffa55d3-9e57-4996-bea0-67c39cef2f26",
+  "path": "/usr/lib/systemd/system/systemd-time-wait-sync.service",
+  "size": 1209,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "91cbc016cd9dc754df62230f525c90d0f339208ae8d02bd77652bcef34c66d5a",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.450279035Z"
+}

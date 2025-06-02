@@ -1,0 +1,17 @@
+{
+  "uuid": "68c7c65f-7ad7-4fbe-b50f-60b26c76e130",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-imgbiu.ali",
+  "size": 1413,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.139343925Z",
+  "sha256_hash": "2af5aef8a69632ad8b8b56912a9806b7d0928882720d85ccb3d888c5371ae11a",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.696195203Z"
+}

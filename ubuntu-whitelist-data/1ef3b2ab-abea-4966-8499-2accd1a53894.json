@@ -1,0 +1,17 @@
+{
+  "uuid": "1ef3b2ab-abea-4966-8499-2accd1a53894",
+  "path": "/usr/lib/firmware/nvidia/gp102/sec2/image.bin.zst",
+  "size": 13427,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.939536174Z",
+  "sha256_hash": "bcf06eb9586632215c762fc7c3a552dd8755e90d668545483341c923219618ab",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.287094611Z"
+}

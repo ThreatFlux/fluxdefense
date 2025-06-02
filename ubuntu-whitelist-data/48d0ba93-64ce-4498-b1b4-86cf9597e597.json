@@ -1,0 +1,17 @@
+{
+  "uuid": "48d0ba93-64ce-4498-b1b4-86cf9597e597",
+  "path": "/lib/llvm-18/include/clang/Serialization/ASTRecordWriter.h",
+  "size": 9778,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.549533318Z",
+  "sha256_hash": "0efc01cb96a42c850328dbdd384c5850e2b9fd2b4b849a8d4f7925cba5fe181f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.026014812Z"
+}

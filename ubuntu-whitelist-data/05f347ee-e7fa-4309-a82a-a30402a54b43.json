@@ -1,0 +1,17 @@
+{
+  "uuid": "05f347ee-e7fa-4309-a82a-a30402a54b43",
+  "path": "/lib/x86_64-linux-gnu/libctf-nobfd.so.0.0.0",
+  "size": 216096,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:51.581582507Z",
+  "sha256_hash": "9304c836e82270bb3fe9150f58e33497adaa6db67cee27d9b6df3fcf3a2f7afe",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.820714207Z"
+}

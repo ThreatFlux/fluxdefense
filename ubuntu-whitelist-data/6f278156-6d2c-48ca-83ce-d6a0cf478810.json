@@ -1,0 +1,15 @@
+{
+  "uuid": "6f278156-6d2c-48ca-83ce-d6a0cf478810",
+  "path": "/lib/python3/dist-packages/uaclient/cli/cve.py",
+  "size": 6692,
+  "modified": "2025-02-24T19:52:49Z",
+  "created": "2025-05-09T05:24:25.025928532Z",
+  "sha256_hash": "64b2ea934004a50afa573f60e2ce5d910163fe95a550c3c7e34b8e5a2747270f",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.866366239Z"
+}

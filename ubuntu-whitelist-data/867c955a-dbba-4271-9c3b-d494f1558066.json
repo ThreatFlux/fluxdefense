@@ -1,0 +1,17 @@
+{
+  "uuid": "867c955a-dbba-4271-9c3b-d494f1558066",
+  "path": "/lib/llvm-18/include/clang-tidy/utils/ASTUtils.h",
+  "size": 2263,
+  "modified": "2024-01-03T13:06:20Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "183ab4846e88b8dd996ec75b8368720a4011f23e5d4cdc2563c6448015fdd08e",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.915570186Z"
+}

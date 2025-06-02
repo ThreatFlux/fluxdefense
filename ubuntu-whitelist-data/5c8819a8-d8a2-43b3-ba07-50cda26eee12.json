@@ -1,0 +1,15 @@
+{
+  "uuid": "5c8819a8-d8a2-43b3-ba07-50cda26eee12",
+  "path": "/sbin/cgdisk",
+  "size": 170480,
+  "modified": "2024-03-31T05:38:03Z",
+  "created": "2025-05-09T05:07:38.136619107Z",
+  "sha256_hash": "657d907d4a39339492a27c1faafd643388ee9219acbd11368fe40cccfd8376e7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.808428782Z"
+}

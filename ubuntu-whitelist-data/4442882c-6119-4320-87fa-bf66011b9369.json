@@ -1,0 +1,15 @@
+{
+  "uuid": "4442882c-6119-4320-87fa-bf66011b9369",
+  "path": "/usr/libexec/sudo/group_file.so",
+  "size": 14544,
+  "modified": "2024-04-08T14:50:39Z",
+  "created": "2025-05-09T05:07:38.092619779Z",
+  "sha256_hash": "afa07c4ed6ddb7ea893d1a7981f3b32cc805f1fd28ff99a36e67442ea99b8883",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.190238764Z"
+}

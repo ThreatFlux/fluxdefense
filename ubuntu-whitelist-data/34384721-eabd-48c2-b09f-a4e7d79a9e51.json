@@ -1,0 +1,15 @@
+{
+  "uuid": "34384721-eabd-48c2-b09f-a4e7d79a9e51",
+  "path": "/usr/sbin/syncsnoop-bpfcc",
+  "size": 1300,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.523499148Z",
+  "sha256_hash": "4480e0f2e73263d6c7daf8966060303818a397c52a5e3e6ac6257e21389253be",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.174680671Z"
+}

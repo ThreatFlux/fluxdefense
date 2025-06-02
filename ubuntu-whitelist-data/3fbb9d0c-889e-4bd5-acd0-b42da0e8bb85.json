@@ -1,0 +1,15 @@
+{
+  "uuid": "3fbb9d0c-889e-4bd5-acd0-b42da0e8bb85",
+  "path": "/lib/x86_64-linux-gnu/libnssdbm3.so",
+  "size": 137520,
+  "modified": "2024-04-08T16:14:43Z",
+  "created": "2025-05-09T05:07:31.750716555Z",
+  "sha256_hash": "61b7405918c5cb9e71f7c6d2a059fbc398d84e215bb567a490ca1e067504519a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.283480667Z"
+}

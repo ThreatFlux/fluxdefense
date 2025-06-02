@@ -1,0 +1,17 @@
+{
+  "uuid": "2f0de567-234c-415e-bdfc-6e06bfb4e2b4",
+  "path": "/usr/lib/python3/dist-packages/jsonschema/schemas/draft6.json",
+  "size": 4437,
+  "modified": "2023-08-14T21:45:04Z",
+  "created": "2025-05-09T05:07:26.942789923Z",
+  "sha256_hash": "c29dfce9f54835c3a06c03b3c5d5ec0eda77706568f9c4df7cfbc7566a51006d",
+  "file_type": {
+    "Other": "json"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.537914214Z"
+}

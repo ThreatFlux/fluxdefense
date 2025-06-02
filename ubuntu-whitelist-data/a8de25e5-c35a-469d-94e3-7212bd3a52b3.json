@@ -1,0 +1,15 @@
+{
+  "uuid": "a8de25e5-c35a-469d-94e3-7212bd3a52b3",
+  "path": "/lib/llvm-18/lib/libLLVMAMDGPUDisassembler.a",
+  "size": 1388646,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.758464720Z",
+  "sha256_hash": "6a4e335ccf96fe0b5259631ec5278672103edfecb7408196c5e823d2baafc398",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.632656404Z"
+}

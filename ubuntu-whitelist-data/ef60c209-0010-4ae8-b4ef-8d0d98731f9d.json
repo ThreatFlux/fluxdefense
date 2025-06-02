@@ -1,0 +1,17 @@
+{
+  "uuid": "ef60c209-0010-4ae8-b4ef-8d0d98731f9d",
+  "path": "/usr/lib/udev/hwdb.d/60-autosuspend-libfprint-2.hwdb",
+  "size": 7153,
+  "modified": "2025-03-10T15:54:46Z",
+  "created": "2025-05-09T05:24:30.141996032Z",
+  "sha256_hash": "0f0a4c441e77c7b63174996148041bfd5c381feaa771fb8b3b73ea9ce0908815",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.111864570Z"
+}

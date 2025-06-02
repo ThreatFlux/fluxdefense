@@ -1,0 +1,17 @@
+{
+  "uuid": "9b21f510-2de2-42a3-9729-8f4e5929da5b",
+  "path": "/lib/x86_64-linux-gnu/sasl2/libplain.so.2.0.25",
+  "size": 22904,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T05:07:37.177633741Z",
+  "sha256_hash": "808f11aea54cf05610ae93067a744a9e7333d359e11599d90afc1ba4a07e6b38",
+  "file_type": {
+    "Other": "25"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.867447854Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "6cdecf85-cd48-4cab-b0c3-df4b3345926e",
+  "path": "/usr/lib/x86_64-linux-gnu/libgnome-bluetooth-ui-3.0.so.13.2.0",
+  "size": 178408,
+  "modified": "2024-10-08T05:18:25Z",
+  "created": "2025-05-09T05:07:29.820746006Z",
+  "sha256_hash": "e01d4fcf5f41a1f3ffcedd9aaf1f82136db0da5f40d3d9824a988c368401857b",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.862288373Z"
+}

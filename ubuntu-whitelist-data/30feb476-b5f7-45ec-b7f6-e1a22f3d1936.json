@@ -1,0 +1,17 @@
+{
+  "uuid": "30feb476-b5f7-45ec-b7f6-e1a22f3d1936",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-calcon.ali",
+  "size": 4672,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.095344530Z",
+  "sha256_hash": "c6eb5875e8cecb02856a946ea4a969b53caf41131785c0229ac44a55f6ddb315",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.705278337Z"
+}

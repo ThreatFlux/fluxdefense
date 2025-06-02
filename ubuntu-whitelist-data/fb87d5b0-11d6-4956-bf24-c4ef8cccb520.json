@@ -1,0 +1,17 @@
+{
+  "uuid": "fb87d5b0-11d6-4956-bf24-c4ef8cccb520",
+  "path": "/usr/lib/i386-linux-gnu/libnvidia-encode.so.550.144.03",
+  "size": 300540,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:01.322932157Z",
+  "sha256_hash": "af211b45bfc9deafd2dcc032ddcce7f92ad688fd8437c49fb9a460a0efbc9a4d",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.330851885Z"
+}

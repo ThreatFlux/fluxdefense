@@ -1,0 +1,17 @@
+{
+  "uuid": "3f0ac06d-ecd2-4381-86ff-f55dd1f1a4a8",
+  "path": "/lib/X11/xedit/lisp/xedit.lsp",
+  "size": 18401,
+  "modified": "2024-03-31T17:26:36Z",
+  "created": "2025-05-09T05:07:20.994880685Z",
+  "sha256_hash": "9b9f544508b8ee0b26d942e53d08e01af386aaea1fa211ddabffaca32b33048d",
+  "file_type": {
+    "Other": "lsp"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.464066575Z"
+}

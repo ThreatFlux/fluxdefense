@@ -1,0 +1,17 @@
+{
+  "uuid": "74e8ffd6-2bdb-4113-9981-8ff942feeeac",
+  "path": "/lib/firmware/qcom/sdm845/modem_nm.mbn.zst",
+  "size": 1786750,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.026534970Z",
+  "sha256_hash": "99a89113bc054d374e59159d6f87b01e7a4f0c400dd114b496befb8b49b85e00",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.677273945Z"
+}

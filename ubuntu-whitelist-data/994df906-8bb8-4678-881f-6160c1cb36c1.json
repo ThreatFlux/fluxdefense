@@ -1,0 +1,15 @@
+{
+  "uuid": "994df906-8bb8-4678-881f-6160c1cb36c1",
+  "path": "/usr/lib/snapd/snap-fde-keymgr",
+  "size": 4463752,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.464026890Z",
+  "sha256_hash": "ff13c9cfb7c949ca4bb8e1f140c9bed7adeda083a13e215d208be9985d99c7bd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:48.340735414Z"
+}

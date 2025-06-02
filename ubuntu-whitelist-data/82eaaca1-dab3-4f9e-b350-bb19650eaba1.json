@@ -1,0 +1,17 @@
+{
+  "uuid": "82eaaca1-dab3-4f9e-b350-bb19650eaba1",
+  "path": "/lib/firmware/radeon/KAVERI_me.bin.zst",
+  "size": 3660,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.060534499Z",
+  "sha256_hash": "b0245f12d6a0aa47de17a67da9b1f72ded59a99c19cc7716951b18464dc2e936",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.387515859Z"
+}

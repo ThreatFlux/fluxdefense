@@ -1,0 +1,17 @@
+{
+  "uuid": "a7af7cb2-152c-4fdf-949e-23b89dcc2769",
+  "path": "/usr/lib/x86_64-linux-gnu/libsmbconf.so.0.0.1",
+  "size": 585288,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:32.168710177Z",
+  "sha256_hash": "252188b0323a6130564013388c99940f76d70fed885bd6b29138732563a7bdb6",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.443476472Z"
+}

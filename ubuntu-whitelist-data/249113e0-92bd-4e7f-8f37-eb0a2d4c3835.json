@@ -1,0 +1,17 @@
+{
+  "uuid": "249113e0-92bd-4e7f-8f37-eb0a2d4c3835",
+  "path": "/lib/firmware/amdgpu/arcturus_smc.bin.zst",
+  "size": 75061,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.386543834Z",
+  "sha256_hash": "b1e9234276ca1f99b6437fa119efeb92e5dda743551064b1ae10bf6b95b111da",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.999333973Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "e3976769-7cd2-46c9-a63e-ca94b6d79889",
+  "path": "/lib/x86_64-linux-gnu/tracker-miners-3.0/extract-modules/libextract-abw.so",
+  "size": 35112,
+  "modified": "2024-03-31T17:20:13Z",
+  "created": "2025-05-09T05:07:37.308631742Z",
+  "sha256_hash": "78979b39d6812cf2e2c7693f7298c61e4e42eb621c3e1354342f7efaaf6e126e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.704718843Z"
+}

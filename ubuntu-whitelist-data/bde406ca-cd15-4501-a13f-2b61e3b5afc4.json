@@ -1,0 +1,17 @@
+{
+  "uuid": "bde406ca-cd15-4501-a13f-2b61e3b5afc4",
+  "path": "/usr/lib/modules/6.11.0-26-generic/kernel/lib/polynomial.ko.zst",
+  "size": 2652,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.114797272Z",
+  "sha256_hash": "6b3a0438f13efec033d34ef859e508cf471270c2e0e0ca9263d94b2eb8ae5015",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.650723547Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "0a51a792-2dcb-4a9c-b67b-1fe99de3ce62",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adalib/g-binenv.ali",
+  "size": 1854,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.107344365Z",
+  "sha256_hash": "877d8f3d6165867354d8f3ca6529dd94b8f735b1cca8da932959ff730a989f1a",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.711634399Z"
+}

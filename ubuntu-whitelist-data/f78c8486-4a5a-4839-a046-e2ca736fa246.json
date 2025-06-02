@@ -1,0 +1,15 @@
+{
+  "uuid": "f78c8486-4a5a-4839-a046-e2ca736fa246",
+  "path": "/lib/python3/dist-packages/cloudinit/distros/aosc.py",
+  "size": 4488,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.237037190Z",
+  "sha256_hash": "346ec3dbc74a500bcccbe83657cea48aaa97800efcb78a2c160f2b5cd46c5afb",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.908601682Z"
+}

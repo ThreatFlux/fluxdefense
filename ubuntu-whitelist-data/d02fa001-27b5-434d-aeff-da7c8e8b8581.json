@@ -1,0 +1,17 @@
+{
+  "uuid": "d02fa001-27b5-434d-aeff-da7c8e8b8581",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/include/lzcntintrin.h",
+  "size": 2365,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.245389810Z",
+  "sha256_hash": "07d37acd70437d9cc8d62340443786c4c66452ec6117bbe68fbbcf8b83909c83",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.922561985Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "93bd221a-7374-4086-a8e6-1c294433dc00",
+  "path": "/lib/x86_64-linux-gnu/fpc/3.2.2/msg/errord.msg",
+  "size": 283445,
+  "modified": "2024-01-05T07:40:08Z",
+  "created": "2025-05-29T11:15:46.758324186Z",
+  "sha256_hash": "de6a7e230c3300e61a1f4ad09ae2e3a0ebe2f1ee6771160f3f713bff47162912",
+  "file_type": {
+    "Other": "msg"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.759838949Z"
+}

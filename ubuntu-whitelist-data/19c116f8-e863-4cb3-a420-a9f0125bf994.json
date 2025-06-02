@@ -1,0 +1,17 @@
+{
+  "uuid": "19c116f8-e863-4cb3-a420-a9f0125bf994",
+  "path": "/lib/x86_64-linux-gnu/libperl.so.5.38.2",
+  "size": 3853344,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.484591846Z",
+  "sha256_hash": "99fd846d52aae2fdc1dd791b5521d0d07d2c942f7717be44ba1e716b3764f7d6",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.260101849Z"
+}

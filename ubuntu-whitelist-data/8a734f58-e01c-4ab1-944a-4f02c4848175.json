@@ -1,0 +1,17 @@
+{
+  "uuid": "8a734f58-e01c-4ab1-944a-4f02c4848175",
+  "path": "/lib/firmware/rtl_nic/rtl8168fp-3.fw.zst",
+  "size": 268,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.067534402Z",
+  "sha256_hash": "fe129e4790fa794c338cfac99fb2c5a41ffd41f34ab5ab4954cbe8b0b154a912",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.421075708Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "8eacacb0-ecab-43f9-bfec-232079786af0",
+  "path": "/sbin/setcap",
+  "size": 14648,
+  "modified": "2025-02-20T15:49:57Z",
+  "created": "2025-05-09T05:11:26.265137262Z",
+  "sha256_hash": "25eb93fd5713138f458006098c1211813735bd72cc92036e6899b9e220a57b3c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.059579014Z"
+}

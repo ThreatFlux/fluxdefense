@@ -1,0 +1,17 @@
+{
+  "uuid": "d70b42a9-c997-4f5b-b5c0-b0d0a0f8df54",
+  "path": "/lib/firmware/nvidia/gp102/nvdec/scrubber.bin.zst",
+  "size": 2010,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.939536174Z",
+  "sha256_hash": "ed84c6f34f57aea519e4fa9c377a8568d6a45308d85a6c585503b7d1cd8c7720",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.438693299Z"
+}

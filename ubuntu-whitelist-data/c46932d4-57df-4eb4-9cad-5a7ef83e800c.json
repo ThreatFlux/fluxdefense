@@ -1,0 +1,15 @@
+{
+  "uuid": "c46932d4-57df-4eb4-9cad-5a7ef83e800c",
+  "path": "/usr/bin/mdig",
+  "size": 51608,
+  "modified": "2025-01-28T14:26:30Z",
+  "created": "2025-05-09T05:07:20.171893243Z",
+  "sha256_hash": "89d9b37f738aa3ed22480926befe748935efcc9ba05cc261a227f10d6e14587a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.047273244Z"
+}

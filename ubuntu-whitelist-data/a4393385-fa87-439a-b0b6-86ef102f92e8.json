@@ -1,0 +1,17 @@
+{
+  "uuid": "a4393385-fa87-439a-b0b6-86ef102f92e8",
+  "path": "/lib/tmpfiles.d/colord.conf",
+  "size": 112,
+  "modified": "2024-03-31T07:30:41Z",
+  "created": "2025-05-09T05:07:28.308769079Z",
+  "sha256_hash": "81e06f312b30f164803291d20ff7f13f7bed0b221594ac7048d0bed6fe0223a9",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.759941753Z"
+}

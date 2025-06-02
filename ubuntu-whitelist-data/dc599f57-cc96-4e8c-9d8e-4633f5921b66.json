@@ -1,0 +1,17 @@
+{
+  "uuid": "dc599f57-cc96-4e8c-9d8e-4633f5921b66",
+  "path": "/usr/lib/x86_64-linux-gnu/libnotify.so.4.0.0",
+  "size": 55368,
+  "modified": "2024-03-31T02:08:51Z",
+  "created": "2025-05-09T05:07:31.724716952Z",
+  "sha256_hash": "1e1f85ad389e11b126c8b8580fe75fa9f7aa7871f2bb21fdc4ac9d4f8d3253a1",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.123038630Z"
+}

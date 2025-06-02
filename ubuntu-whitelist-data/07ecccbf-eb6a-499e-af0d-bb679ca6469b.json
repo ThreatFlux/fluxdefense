@@ -1,0 +1,15 @@
+{
+  "uuid": "07ecccbf-eb6a-499e-af0d-bb679ca6469b",
+  "path": "/lib/xorg/modules/libshadow.so",
+  "size": 39400,
+  "modified": "2025-03-04T04:58:03Z",
+  "created": "2025-05-09T05:24:13.316776837Z",
+  "sha256_hash": "b71899243ac64a9eb10a282bdb1b26348ad8efa2976e5d8dc168a6017910e5cb",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.675096253Z"
+}

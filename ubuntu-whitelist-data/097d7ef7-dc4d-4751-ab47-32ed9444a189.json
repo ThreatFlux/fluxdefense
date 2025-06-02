@@ -1,0 +1,17 @@
+{
+  "uuid": "097d7ef7-dc4d-4751-ab47-32ed9444a189",
+  "path": "/usr/lib/x86_64-linux-gnu/libjson-glib-1.0.so.0.800.0",
+  "size": 178328,
+  "modified": "2024-03-31T01:27:08Z",
+  "created": "2025-05-09T05:07:31.328722995Z",
+  "sha256_hash": "f633e2720c6d7706dabe44241a4050efdc0e7df9ab43f3fb58a165eb3c2d5ec5",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.363576954Z"
+}

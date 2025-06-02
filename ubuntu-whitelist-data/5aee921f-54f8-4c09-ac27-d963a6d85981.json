@@ -1,0 +1,17 @@
+{
+  "uuid": "5aee921f-54f8-4c09-ac27-d963a6d85981",
+  "path": "/usr/lib/firmware/radeon/RV670_me.bin.zst",
+  "size": 4582,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "0ed73f16df2610029f172f9d8263d94bdc562ec648aa7fd58f737228263edb66",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.398596506Z"
+}

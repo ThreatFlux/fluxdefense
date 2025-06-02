@@ -1,0 +1,15 @@
+{
+  "uuid": "7947fdef-f9ed-415e-97b1-0d7b1a8eed02",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstflac.so",
+  "size": 84560,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.772655181Z",
+  "sha256_hash": "17de6b458e0d0b7a7d9a5b220ad17887f1754a668b3573f637c129be59b6d0ac",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.083394473Z"
+}

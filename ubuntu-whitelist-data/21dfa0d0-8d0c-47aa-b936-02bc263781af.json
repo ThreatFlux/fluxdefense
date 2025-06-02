@@ -1,0 +1,17 @@
+{
+  "uuid": "21dfa0d0-8d0c-47aa-b936-02bc263781af",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/bits/socket2.ph",
+  "size": 177,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.558590717Z",
+  "sha256_hash": "5f2342bdc8940f002512b693205da74c58474b0457c0abb5aad1039250b13533",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.594759890Z"
+}

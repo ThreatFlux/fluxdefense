@@ -1,0 +1,17 @@
+{
+  "uuid": "92f5b4d6-5892-49f1-9af1-bc54b579421c",
+  "path": "/lib/firmware/1a98-INTEL-EDK2-2-tplg.bin.zst",
+  "size": 1179,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.384543862Z",
+  "sha256_hash": "80aecbf6aa00881a6bc392c97b937bd42889a37cfacc83f20a53f5509b420c6f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.826645870Z"
+}

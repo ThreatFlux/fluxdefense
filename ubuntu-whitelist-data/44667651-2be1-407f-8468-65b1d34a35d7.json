@@ -1,0 +1,15 @@
+{
+  "uuid": "44667651-2be1-407f-8468-65b1d34a35d7",
+  "path": "/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-generic.so",
+  "size": 14392,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.160664520Z",
+  "sha256_hash": "2ed27be6c13f89807d0d475a167b45fdb6b237804ee612ac46f4b51543b8deca",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.571702491Z"
+}

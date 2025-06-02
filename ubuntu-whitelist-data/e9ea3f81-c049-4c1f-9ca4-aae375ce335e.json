@@ -1,0 +1,17 @@
+{
+  "uuid": "e9ea3f81-c049-4c1f-9ca4-aae375ce335e",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/g-sptavs.ali",
+  "size": 9671,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.109344338Z",
+  "sha256_hash": "47dd511285f94379c8b220aa5dc8f70ab235094e769bd775a917ea4aea8d1fc7",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.712190934Z"
+}

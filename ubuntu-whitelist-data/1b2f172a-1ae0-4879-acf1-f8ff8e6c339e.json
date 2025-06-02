@@ -1,0 +1,17 @@
+{
+  "uuid": "1b2f172a-1ae0-4879-acf1-f8ff8e6c339e",
+  "path": "/lib/libreoffice/program/smath",
+  "size": 63,
+  "modified": "2024-10-29T11:14:30Z",
+  "created": "2025-05-09T05:11:07.053430520Z",
+  "sha256_hash": "e61707bb9da60af64327710a0e981595f96c23c232ebf6361dc822b122419755",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:49.446530395Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "647f2a34-8a48-4393-a48e-81572938cba1",
+  "path": "/lib/firmware/amdgpu/picasso_ta.bin.zst",
+  "size": 13730,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.407543543Z",
+  "sha256_hash": "6b99de5532a2e51e8ebf5b491b8a4fc14e48f9bd338f8c9f5eb7e94a0a990c3b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.129842297Z"
+}

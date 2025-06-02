@@ -1,0 +1,15 @@
+{
+  "uuid": "9fe3ed2a-4885-4437-93bf-250c03a8aa4a",
+  "path": "/usr/sbin/arpd",
+  "size": 26960,
+  "modified": "2024-03-31T09:00:13Z",
+  "created": "2025-05-09T05:07:38.126619260Z",
+  "sha256_hash": "6dcbbc6726064432dc424846fd6f25e78edb602aaf7bb72f130420216e1e68c1",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.183455882Z"
+}

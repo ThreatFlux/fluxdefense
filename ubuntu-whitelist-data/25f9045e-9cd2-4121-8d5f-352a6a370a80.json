@@ -1,0 +1,15 @@
+{
+  "uuid": "25f9045e-9cd2-4121-8d5f-352a6a370a80",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/asset/get_history.py",
+  "size": 2771,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.715932227Z",
+  "sha256_hash": "8cf27751ad21f11b4aafe986dcbda9e64061df310343cfd645cb274a29084304",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.771407203Z"
+}

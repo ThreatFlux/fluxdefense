@@ -1,0 +1,17 @@
+{
+  "uuid": "dcc647d1-595f-4e20-83bb-4ec4720eab5f",
+  "path": "/usr/lib/llvm-18/include/clang/AST/DeclTemplate.h",
+  "size": 128613,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.517533740Z",
+  "sha256_hash": "bd9e12ed86b058e29468b365c1f50ee25246506f6a24aa23b4080e68de92598d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.374576305Z"
+}

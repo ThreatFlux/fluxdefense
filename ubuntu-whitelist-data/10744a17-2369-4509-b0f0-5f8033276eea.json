@@ -1,0 +1,17 @@
+{
+  "uuid": "10744a17-2369-4509-b0f0-5f8033276eea",
+  "path": "/usr/lib/firmware/intel/sof-ipc4-tplg/sof-tgl-rt711-rt1308-rt715.tplg.zst",
+  "size": 2064,
+  "modified": "2025-01-06T07:09:53Z",
+  "created": "2025-05-09T05:08:52.056491014Z",
+  "sha256_hash": "d9d76812775ecf09485f5c46d699fb334e9183f674ac1ace7b0d301c7a0da5f8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.687207664Z"
+}

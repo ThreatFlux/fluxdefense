@@ -1,0 +1,17 @@
+{
+  "uuid": "1ed6b1d5-8c17-4a85-b7ae-d65852aff446",
+  "path": "/lib/firmware/radeon/bonaire_mec.bin.zst",
+  "size": 8622,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.063534457Z",
+  "sha256_hash": "76160c29e448a583d8c616c141b5342b95c74236a9e0e85975a79714b2442d3a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.397058451Z"
+}

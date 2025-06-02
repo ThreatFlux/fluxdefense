@@ -1,0 +1,17 @@
+{
+  "uuid": "792edf20-e142-49c0-9066-75dc9f57d67f",
+  "path": "/usr/lib/x86_64-linux-gnu/libjson-c.so.5.3.0",
+  "size": 76168,
+  "modified": "2024-04-08T16:00:48Z",
+  "created": "2025-05-09T05:07:31.328722995Z",
+  "sha256_hash": "5cb4dfc866c13becb4d447440c4efbbd4114a469e348209f6f86d9741c12661f",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.626497766Z"
+}

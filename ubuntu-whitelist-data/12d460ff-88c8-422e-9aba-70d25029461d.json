@@ -1,0 +1,17 @@
+{
+  "uuid": "12d460ff-88c8-422e-9aba-70d25029461d",
+  "path": "/lib/llvm-18/include/clang-tidy/misc/DefinitionsInHeadersCheck.h",
+  "size": 2103,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "8ada5e293b07a210e1f811e5abdfd2c951aaf6b8ce14f18690d1ac1b621c160b",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.918596152Z"
+}

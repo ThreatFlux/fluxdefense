@@ -1,0 +1,15 @@
+{
+  "uuid": "4a1bd90d-74b2-4489-9dff-575ac1ac5db8",
+  "path": "/bin/grub-syslinux2cfg",
+  "size": 715480,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.601711619Z",
+  "sha256_hash": "7bf0bb889caf74b18eb78f4535a2d5004de4fc3f5f76cefb3791b5d2ecf26086",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.243818999Z"
+}

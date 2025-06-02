@@ -1,0 +1,17 @@
+{
+  "uuid": "6ab91d1e-deb9-4fd2-956b-21b3a5fb5196",
+  "path": "/lib/llvm-18/include/clang-tidy/misc/UniqueptrResetReleaseCheck.h",
+  "size": 1865,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "9fb9c30b5a0dfc13cfa39bad277b53ed428527dd2186faf96bd3b8dc36764ef5",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.918681161Z"
+}

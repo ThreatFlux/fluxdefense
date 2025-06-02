@@ -1,0 +1,17 @@
+{
+  "uuid": "a74b8990-8867-4a14-ad22-eb9f7e789156",
+  "path": "/lib/x86_64-linux-gnu/libnetfilter_log_libipulog.so.1.0.0",
+  "size": 14128,
+  "modified": "2024-04-22T09:46:06Z",
+  "created": "2025-05-26T20:18:24.712058319Z",
+  "sha256_hash": "2e4408083ee9bf02becc4a8cb59d0e1f21d380843be022e11e354c1de3c2a1a3",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.748437882Z"
+}

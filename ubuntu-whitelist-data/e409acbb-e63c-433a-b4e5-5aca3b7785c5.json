@@ -1,0 +1,17 @@
+{
+  "uuid": "e409acbb-e63c-433a-b4e5-5aca3b7785c5",
+  "path": "/lib/systemd/system/systemd-hibernate.service",
+  "size": 562,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "bbea5a43167aead72d63da505e5cea9c103bdac06af2ed11ba9363c2aa1e73a0",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.121381307Z"
+}

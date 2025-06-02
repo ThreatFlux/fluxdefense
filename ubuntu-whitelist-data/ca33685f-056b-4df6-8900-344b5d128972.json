@@ -1,0 +1,17 @@
+{
+  "uuid": "ca33685f-056b-4df6-8900-344b5d128972",
+  "path": "/lib/systemd/system/e2scrub@.service",
+  "size": 438,
+  "modified": "2024-04-28T23:44:46Z",
+  "created": "2025-05-09T05:07:28.298769231Z",
+  "sha256_hash": "b99f79775ad0aa8c52187d9d5d82f34181012664a9d49e109a7fe86a42443a78",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.125296882Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "1f185f1b-490c-437a-9d65-041fce15ce93",
+  "path": "/usr/lib/llvm-18/include/clang/Sema/CleanupInfo.h",
+  "size": 1311,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.547533344Z",
+  "sha256_hash": "0b24b7e05f1c5b1282b3dfab5db88a8d83b5b846b2b2b81f906883cfed4ad39d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.471580075Z"
+}

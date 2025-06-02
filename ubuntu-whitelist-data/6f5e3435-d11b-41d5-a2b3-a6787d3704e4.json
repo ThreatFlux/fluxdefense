@@ -1,0 +1,15 @@
+{
+  "uuid": "6f5e3435-d11b-41d5-a2b3-a6787d3704e4",
+  "path": "/lib/python3/dist-packages/cloudinit/sources/DataSourceSmartOS.py",
+  "size": 35081,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.242037257Z",
+  "sha256_hash": "c12fb1e14e051bc069c145b0587c7db72a435997b078aa4a964c84babc5aa01d",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.900131228Z"
+}

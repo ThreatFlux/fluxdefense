@@ -1,0 +1,17 @@
+{
+  "uuid": "bfb82be2-360f-418e-b95c-7009762c9f44",
+  "path": "/lib/x86_64-linux-gnu/libefiboot.so.1.38",
+  "size": 101504,
+  "modified": "2024-03-31T07:33:18Z",
+  "created": "2025-05-09T05:07:29.370752873Z",
+  "sha256_hash": "1a741a09c72a732716bfe9cdb93a766729542d28ef0e3aa897ce548171c34bfa",
+  "file_type": {
+    "Other": "38"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.421133736Z"
+}

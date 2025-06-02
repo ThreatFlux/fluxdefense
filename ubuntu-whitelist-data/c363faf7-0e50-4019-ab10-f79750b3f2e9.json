@@ -1,0 +1,15 @@
+{
+  "uuid": "c363faf7-0e50-4019-ab10-f79750b3f2e9",
+  "path": "/lib/pppd/2.4.9/pppol2tp.so",
+  "size": 19424,
+  "modified": "2024-04-03T17:56:59Z",
+  "created": "2025-05-09T05:07:25.897805869Z",
+  "sha256_hash": "da83208ce21c2474a952f4c28b85d8ba7444daf2e894e7f8f77da938ef7acc26",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.134491107Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "798f5b19-a58e-4d56-a802-afb98d0bda0b",
+  "path": "/sbin/tcpretrans-bpfcc",
+  "size": 14098,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.523499148Z",
+  "sha256_hash": "4db202951b9568bed894ddcfebdf0651cdd093076cf7825fe6b9920ee84b6986",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.184201593Z"
+}

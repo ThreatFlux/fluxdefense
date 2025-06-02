@@ -1,0 +1,15 @@
+{
+  "uuid": "ff77c9e5-86a4-4a2b-bc51-a0dce1c8864f",
+  "path": "/usr/libexec/seahorse/ssh-askpass",
+  "size": 31104,
+  "modified": "2024-04-08T14:49:59Z",
+  "created": "2025-05-09T05:07:38.047620465Z",
+  "sha256_hash": "5d1e042a93b9222ccd410fa79b094a5958544a8aced4d2c25a076a6f48c129c3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.458454244Z"
+}

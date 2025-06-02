@@ -1,0 +1,15 @@
+{
+  "uuid": "c5e16252-9cb7-4243-b927-02eda8777c04",
+  "path": "/usr/libexec/fwupd/fwupd",
+  "size": 76160,
+  "modified": "2025-03-25T17:48:06Z",
+  "created": "2025-05-09T05:24:28.648976264Z",
+  "sha256_hash": "2b4d49040f778bfd44c1b150ffb9e75633457f875ae01209ef8825129922a7cc",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.495314278Z"
+}

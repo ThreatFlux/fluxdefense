@@ -1,0 +1,15 @@
+{
+  "uuid": "bd080f6c-095d-4690-a827-0bddce0ffaa1",
+  "path": "/usr/bin/dh_shlibdeps",
+  "size": 6385,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.514341255Z",
+  "sha256_hash": "855634309ebe206e462da56f684f1797c411a118e25563f6e7e0495b10076003",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.128965958Z"
+}

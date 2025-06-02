@@ -1,0 +1,15 @@
+{
+  "uuid": "22386e2d-0bd5-4642-85ea-59a7797be447",
+  "path": "/lib/x86_64-linux-gnu/spa-0.2/audiomixer/libspa-audiomixer.so",
+  "size": 80816,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.448855770Z",
+  "sha256_hash": "b29201898eecfd66753572884fe6d33cfd6c47e888eaf5c2b4ed18eeac3c1477",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.789602923Z"
+}

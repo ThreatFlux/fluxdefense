@@ -1,0 +1,17 @@
+{
+  "uuid": "ab116445-2785-4f51-a214-f2250c9ae826",
+  "path": "/usr/lib/llvm-18/include/clang/Driver/DriverDiagnostic.h",
+  "size": 511,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.540533437Z",
+  "sha256_hash": "84d266d61862955fc7df0c02c1848e985a07416c070a01b16ee7b2f7e2427ec3",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.445896476Z"
+}

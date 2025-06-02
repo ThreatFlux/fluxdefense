@@ -1,0 +1,17 @@
+{
+  "uuid": "33570ebd-cec3-4974-a503-711ec7a7760c",
+  "path": "/lib/x86_64-linux-gnu/nodejs/re2/re2.d.ts",
+  "size": 1419,
+  "modified": "2024-03-21T03:52:41Z",
+  "created": "2025-05-13T14:33:00.521888438Z",
+  "sha256_hash": "ed7c721114f5e46aa71b924fbe4f80400e0033395eb7fb94f6b0c5e3eb58d565",
+  "file_type": {
+    "Other": "ts"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.849905261Z"
+}

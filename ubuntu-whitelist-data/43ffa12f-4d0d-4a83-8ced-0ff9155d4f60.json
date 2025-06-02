@@ -1,0 +1,17 @@
+{
+  "uuid": "43ffa12f-4d0d-4a83-8ced-0ff9155d4f60",
+  "path": "/usr/lib/firmware/nvidia/tu10x/typec/ccg_secondary.cyacd.zst",
+  "size": 34856,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.960535884Z",
+  "sha256_hash": "7bfb71d97273945fe36f311923e9647f5e30b3edd1832b6bf4fabeb6eb2ddbe4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.293617673Z"
+}

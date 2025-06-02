@@ -1,0 +1,15 @@
+{
+  "uuid": "0d55033e-0751-4fa5-8dcc-0b9954538fa1",
+  "path": "/lib/x86_64-linux-gnu/spa-0.2/audioconvert/libspa-audioconvert.so",
+  "size": 510056,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.447855757Z",
+  "sha256_hash": "4b25b9916ee472aa13defc5432534babceaeb76126cac2ace19f154f1a04d850",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.766339578Z"
+}

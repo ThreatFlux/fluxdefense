@@ -1,0 +1,17 @@
+{
+  "uuid": "7201cf3f-b404-47f3-90ab-b09c7a13f0f5",
+  "path": "/lib/x86_64-linux-gnu/ldscripts/elf_x86_64.xwe",
+  "size": 9803,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:52.049575364Z",
+  "sha256_hash": "eec206accd5323a5a841e5e25a28e72c3ee0fe23d4820e9410da171ce089f474",
+  "file_type": {
+    "Other": "xwe"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:18.246034950Z"
+}

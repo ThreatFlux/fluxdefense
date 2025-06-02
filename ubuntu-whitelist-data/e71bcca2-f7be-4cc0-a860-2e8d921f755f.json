@@ -1,0 +1,17 @@
+{
+  "uuid": "e71bcca2-f7be-4cc0-a860-2e8d921f755f",
+  "path": "/lib/x86_64-linux-gnu/libgccpp.so.1.5.0",
+  "size": 14456,
+  "modified": "2024-04-08T16:03:52Z",
+  "created": "2025-05-12T13:34:30.281550017Z",
+  "sha256_hash": "ac5fbc10267c7ba8de8b8013716d811280aa26ccd22f9e6833481cbbc47fa2a3",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.933684944Z"
+}

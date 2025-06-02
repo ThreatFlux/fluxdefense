@@ -1,0 +1,15 @@
+{
+  "uuid": "40ad6828-56e5-4e1f-b1fe-78953209f583",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/IBM1097.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.625657424Z",
+  "sha256_hash": "d229cc6cfdc43efb57488befa9c793ae3965ec0497ba1e0ea9e131dee1fbc302",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.588907726Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "249b38a0-aa84-4cbb-90a5-a56e6089a242",
+  "path": "/lib/pcrlock.d/750-enter-initrd.pcrlock",
+  "size": 495,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.509779304Z",
+  "sha256_hash": "fb76ed92f16fe98ddc4aeec5ffa9f3f795ae7a253a6e9e9992693b195ae7229c",
+  "file_type": {
+    "Other": "pcrlock"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.397327339Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "fc7c11db-2f1c-47d5-8b86-3dd473ffb754",
+  "path": "/lib/llvm-18/include/clang-tidy/cert/StrToNumCheck.h",
+  "size": 1202,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "2ab06d4cfcec00dd791980b5f08958e6ab4daa992fcc1029277e95fe376f3ebb",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.912281611Z"
+}

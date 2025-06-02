@@ -1,0 +1,17 @@
+{
+  "uuid": "6ab34133-e0b4-49e1-8be3-99d244910942",
+  "path": "/lib/x86_64-linux-gnu/libgexiv2.so.2.14.2",
+  "size": 231616,
+  "modified": "2024-03-31T01:06:57Z",
+  "created": "2025-05-09T05:07:29.795746387Z",
+  "sha256_hash": "f282fad25d8a4e33a34e1025a344c64b531e5c6eca4ac941c4c212632d2d066c",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.694376279Z"
+}

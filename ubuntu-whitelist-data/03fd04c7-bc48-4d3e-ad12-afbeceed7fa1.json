@@ -1,0 +1,15 @@
+{
+  "uuid": "03fd04c7-bc48-4d3e-ad12-afbeceed7fa1",
+  "path": "/bin/arecordmidi",
+  "size": 31120,
+  "modified": "2024-04-07T07:09:55Z",
+  "created": "2025-05-09T05:07:18.929912195Z",
+  "sha256_hash": "4bd1d4897d65f2405e4ec77117c4ccdf0d5f380cec3c23a014e729f0a5a075f5",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.078301558Z"
+}

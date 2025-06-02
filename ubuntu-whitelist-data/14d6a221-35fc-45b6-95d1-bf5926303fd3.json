@@ -1,0 +1,17 @@
+{
+  "uuid": "14d6a221-35fc-45b6-95d1-bf5926303fd3",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-pack60.ali",
+  "size": 5409,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.142343884Z",
+  "sha256_hash": "73c3c03366b7fc7f538765a3de86f2c0e78baedf38fdc60b528328b4aae58749",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.668543754Z"
+}

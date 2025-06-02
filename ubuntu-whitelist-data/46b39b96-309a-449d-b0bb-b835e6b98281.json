@@ -1,0 +1,15 @@
+{
+  "uuid": "46b39b96-309a-449d-b0bb-b835e6b98281",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libxt_cpu.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.333631361Z",
+  "sha256_hash": "3ac17fa478b9c679725f626131d9ec14eafd5bc3670d51e12ef5d45bbd916c9d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.263152932Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "77bed396-c094-499f-8bfc-78047bef4878",
+  "path": "/lib/x86_64-linux-gnu/libxkbcommon-x11.so.0.0.0",
+  "size": 39848,
+  "modified": "2024-04-08T16:09:59Z",
+  "created": "2025-05-09T05:07:35.152664642Z",
+  "sha256_hash": "109a5c2095ab6bcc36f751d3c0deb3b066ecbfb664a36904b6ca212f987a408a",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:28.640464099Z"
+}

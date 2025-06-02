@@ -1,0 +1,17 @@
+{
+  "uuid": "05fa3627-102b-49df-b6f4-004d3ab4649a",
+  "path": "/usr/share/applications/org.gnome.PowerStats.desktop",
+  "size": 582,
+  "modified": "2024-03-31T06:10:18Z",
+  "created": "2025-05-09T05:07:38.596612087Z",
+  "sha256_hash": "745e481c675ba0c6cf3fba2895fb253ec9c339bac9899335dbf6b4c9eab596cd",
+  "file_type": {
+    "Other": "desktop"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.551099919Z"
+}

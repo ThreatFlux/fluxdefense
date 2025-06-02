@@ -1,0 +1,17 @@
+{
+  "uuid": "e6838e20-a7f8-4663-97f9-f50988654bc0",
+  "path": "/lib/x86_64-linux-gnu/samba/libheimbase-samba4.so.0",
+  "size": 126704,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.058635557Z",
+  "sha256_hash": "db7706a4f92ed912eaf8a885420bf0ebb4da1f61091abb9e4df824c9ad392d9d",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.536133743Z"
+}

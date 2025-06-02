@@ -1,0 +1,15 @@
+{
+  "uuid": "5a78e217-5563-4651-bb78-7dbdfa800810",
+  "path": "/usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-metadata.so",
+  "size": 51472,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.781860089Z",
+  "sha256_hash": "a66db84444d9e44b302003f29313e50edfa9e8c55e8e62adbeb0f5ea03b94480",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.391701366Z"
+}

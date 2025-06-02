@@ -1,0 +1,17 @@
+{
+  "uuid": "8652a788-6166-4eec-8c6e-d91343260588",
+  "path": "/usr/lib/x86_64-linux-gnu/libgpgmepp.so.6.15.0",
+  "size": 379048,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.827745899Z",
+  "sha256_hash": "362e385640a587e197c7be3d49de405c54f599af83684bcaa11696e3f9e288d8",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.038502601Z"
+}

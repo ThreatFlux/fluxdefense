@@ -1,0 +1,17 @@
+{
+  "uuid": "c155d8a6-0dd0-47c5-96bf-f10fcacffa09",
+  "path": "/usr/lib/systemd/system/systemd-update-done.service",
+  "size": 682,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "5196e3618c02428ed18585ea31fe44574d421b5663bf12ce4e987697d117df62",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.457131710Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "60a6264a-d010-469f-9dc9-a8ac84e8e0eb",
+  "path": "/sbin/vpddecode",
+  "size": 14928,
+  "modified": "2024-10-14T20:25:58Z",
+  "created": "2025-05-09T05:07:38.465614087Z",
+  "sha256_hash": "461debc3f245a319b03ebf5e836bce367dd8aaf3a8e104ed84c8f5f1fa1b302a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.178113650Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "b2041399-083d-4e6f-8b8f-df2529a14ba0",
+  "path": "/lib/google-cloud-sdk/lib/third_party/botocore/signers.py",
+  "size": 30691,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.169941503Z",
+  "sha256_hash": "d273428dfa66e5e29cf9a7e0765146647bcf1054ae5e33d65fb51b3aded08d99",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.901510955Z"
+}

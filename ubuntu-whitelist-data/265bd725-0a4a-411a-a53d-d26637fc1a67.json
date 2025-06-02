@@ -1,0 +1,17 @@
+{
+  "uuid": "265bd725-0a4a-411a-a53d-d26637fc1a67",
+  "path": "/lib/systemd/systemd-shutdown",
+  "size": 55760,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.524779496Z",
+  "sha256_hash": "7d7525f31966833c27c1f5e3bf9d72a4bb3cf89fed55b9fd87da355de59f12c8",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.079555709Z"
+}

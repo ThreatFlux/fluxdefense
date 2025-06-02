@@ -1,0 +1,17 @@
+{
+  "uuid": "09374920-ac68-4c6a-b9d6-a78c266fcef9",
+  "path": "/usr/lib/firmware/intel/ipu/irci_irci_ecr-master_20161208_0213_20170112_1500.bin.zst",
+  "size": 285687,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.567541327Z",
+  "sha256_hash": "c9721b74a30f2a5517c171919a54a25ba03d5ec7835233c4d521d8172b133ea3",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.798379426Z"
+}

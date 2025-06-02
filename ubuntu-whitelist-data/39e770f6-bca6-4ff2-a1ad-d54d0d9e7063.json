@@ -1,0 +1,17 @@
+{
+  "uuid": "39e770f6-bca6-4ff2-a1ad-d54d0d9e7063",
+  "path": "/lib/firmware/mediatek/mt7622_n9.bin.zst",
+  "size": 273122,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.677539804Z",
+  "sha256_hash": "bea9cd9069f00d4ceb5d0b5e9565d040c13c42b3bfe02899ff85e3c22208da08",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.052957043Z"
+}

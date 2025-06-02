@@ -1,0 +1,15 @@
+{
+  "uuid": "a1910162-920f-4457-bccc-5fe72eef7f2c",
+  "path": "/usr/lib/libreoffice/program/libunopkgapp.so",
+  "size": 147856,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:20.111231199Z",
+  "sha256_hash": "33ee0dab79b54d04d6f9a5cd5fddd3db06913dfe36d77032a89863cb47873a4b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:43.625622857Z"
+}

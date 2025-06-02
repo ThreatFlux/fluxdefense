@@ -1,0 +1,17 @@
+{
+  "uuid": "33dfa11d-111b-4431-afa1-9b6d68cae092",
+  "path": "/lib/x86_64-linux-gnu/sssd/conf/sssd.conf",
+  "size": 192,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:37.290632017Z",
+  "sha256_hash": "e92add11ace9ea849fcf178b00b2df7755c71d0ee486c708fa8d87c5b83f80cf",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.880761320Z"
+}

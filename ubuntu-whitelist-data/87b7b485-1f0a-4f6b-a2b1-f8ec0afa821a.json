@@ -1,0 +1,15 @@
+{
+  "uuid": "87b7b485-1f0a-4f6b-a2b1-f8ec0afa821a",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstxvimagesink.so",
+  "size": 88408,
+  "modified": "2024-12-17T13:24:56Z",
+  "created": "2025-05-09T05:07:35.777655105Z",
+  "sha256_hash": "bc2e4e1be8bb94fabdccbf751a4e970b2082420be1a705260e1a54e88522291c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.155101198Z"
+}

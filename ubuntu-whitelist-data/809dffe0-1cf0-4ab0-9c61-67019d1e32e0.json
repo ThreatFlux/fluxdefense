@@ -1,0 +1,17 @@
+{
+  "uuid": "809dffe0-1cf0-4ab0-9c61-67019d1e32e0",
+  "path": "/lib/x86_64-linux-gnu/libsoxr.so.0.1.2",
+  "size": 195640,
+  "modified": "2024-04-18T17:47:47Z",
+  "created": "2025-05-09T05:09:19.721068790Z",
+  "sha256_hash": "6477ceb1bb623049fe1f168d320139cd5281546ed16722e73072133acc269f93",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.887556904Z"
+}

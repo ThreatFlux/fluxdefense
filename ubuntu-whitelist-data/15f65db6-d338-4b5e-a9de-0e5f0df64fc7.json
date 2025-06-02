@@ -1,0 +1,17 @@
+{
+  "uuid": "15f65db6-d338-4b5e-a9de-0e5f0df64fc7",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/BuiltinsLoongArch.def",
+  "size": 1040,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.525533634Z",
+  "sha256_hash": "8304155511d2ca910f7694ca97cb294093928da0a00059ee3842c5e4e1e7ea12",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.503140355Z"
+}

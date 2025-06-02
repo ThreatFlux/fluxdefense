@@ -1,0 +1,15 @@
+{
+  "uuid": "aded9979-6f8e-46d5-a9af-9844f25c68c9",
+  "path": "/usr/sbin/stackcount-bpfcc",
+  "size": 16655,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.523499148Z",
+  "sha256_hash": "a120ad84eadc37f500d5555129d2835b113eeb151ddbd6bdfa1c171651f04fe0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.175347421Z"
+}

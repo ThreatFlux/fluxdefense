@@ -1,0 +1,17 @@
+{
+  "uuid": "2b01d711-440a-46b7-be83-bdede2c6c722",
+  "path": "/usr/lib/x86_64-linux-gnu/librte_ip_frag.so.24.0",
+  "size": 34896,
+  "modified": "2024-12-18T18:31:38Z",
+  "created": "2025-05-26T20:18:27.002023728Z",
+  "sha256_hash": "0646f37187e04e66a365c1d1b1c07707af3fc79b459fe9252847686c868c7694",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:15.592683942Z"
+}

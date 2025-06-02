@@ -1,0 +1,15 @@
+{
+  "uuid": "abfe5596-4567-4ffd-a21c-8318e9bae0c0",
+  "path": "/usr/sbin/javastat-bpfcc",
+  "size": 54,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "f0ad3949d887819cc733cbad32816e2c91a5945f1af84b4285ba1002e446b0b9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.677710300Z"
+}

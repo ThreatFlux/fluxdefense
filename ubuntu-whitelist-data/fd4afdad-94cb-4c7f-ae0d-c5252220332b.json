@@ -1,0 +1,17 @@
+{
+  "uuid": "fd4afdad-94cb-4c7f-ae0d-c5252220332b",
+  "path": "/lib/modules/6.11.0-25-generic/kernel/crypto/blowfish_common.ko.zst",
+  "size": 7344,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.098459849Z",
+  "sha256_hash": "1d467b4eb7be313dc23045c086ef2fee59c7c495f3086abe259916fc77096b8f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.634174284Z"
+}

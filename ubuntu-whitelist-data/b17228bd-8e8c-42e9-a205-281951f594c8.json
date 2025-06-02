@@ -1,0 +1,17 @@
+{
+  "uuid": "b17228bd-8e8c-42e9-a205-281951f594c8",
+  "path": "/lib/systemd/system/alsa-state.service",
+  "size": 565,
+  "modified": "2024-04-07T07:09:55Z",
+  "created": "2025-05-09T05:07:28.297769246Z",
+  "sha256_hash": "bcd795faa40ec7465c7ed2241e9356e59bd0ed2189a9cd4ac33c5fb7389d12e2",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.117831575Z"
+}

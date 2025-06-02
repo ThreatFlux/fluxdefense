@@ -1,0 +1,15 @@
+{
+  "uuid": "3d315551-664c-4b34-b17b-68ce17f01fe9",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/libitm.a",
+  "size": 203094,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.262389444Z",
+  "sha256_hash": "b937fc43bd148aed3eb4040a454e908bc03c558ca7ad1446c12880e659ecafc7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.582254922Z"
+}

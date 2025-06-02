@@ -1,0 +1,15 @@
+{
+  "uuid": "d3413d0d-a18b-49f2-aac5-524afc04bd60",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/subp.py",
+  "size": 12729,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.243037270Z",
+  "sha256_hash": "f6fc57f60d27a8de67bf5ba9c2aa80954448e7e23a2e54b42c0a2e9cb7d41157",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.862676579Z"
+}

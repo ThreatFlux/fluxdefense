@@ -1,0 +1,15 @@
+{
+  "uuid": "88d5dc80-37b7-426c-95d9-44f461cb7f59",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_connbytes.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.333631361Z",
+  "sha256_hash": "b55615c8df99fb699004cf518afad130a36c0a77eae1a37e8bf0285a46e99bda",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.666349012Z"
+}

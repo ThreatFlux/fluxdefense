@@ -1,0 +1,17 @@
+{
+  "uuid": "9e85ebaa-ee88-466e-beb7-1669a2a7fda2",
+  "path": "/lib/x86_64-linux-gnu/libei.so.1.2.1",
+  "size": 108616,
+  "modified": "2024-04-01T20:55:38Z",
+  "created": "2025-05-09T05:07:29.370752873Z",
+  "sha256_hash": "e1e7ad03d569215a036af2a79f6c038f82afc632ec5b6093f9a1f92b488391ae",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.393922200Z"
+}

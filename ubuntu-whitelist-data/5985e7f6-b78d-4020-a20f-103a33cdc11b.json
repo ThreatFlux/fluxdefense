@@ -1,0 +1,15 @@
+{
+  "uuid": "5985e7f6-b78d-4020-a20f-103a33cdc11b",
+  "path": "/usr/lib/x86_64-linux-gnu/rsyslog/imkmsg.so",
+  "size": 23784,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.546922251Z",
+  "sha256_hash": "88f1ee92eb047fbfe34007a9f8a9ffee6c3f6506739804d711e6a948d531e960",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.178151335Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "fc41d658-f46a-4dc5-ac0f-ce4afd24317b",
+  "path": "/lib/python3.12/test/decimaltestdata/dqShift.decTest",
+  "size": 19436,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.994551736Z",
+  "sha256_hash": "dcedc161311ed31a58f0108faa3e5a09efff9928d7672028c672c8fbb4b5b446",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.410970466Z"
+}

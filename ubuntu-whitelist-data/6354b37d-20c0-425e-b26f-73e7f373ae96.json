@@ -1,0 +1,15 @@
+{
+  "uuid": "6354b37d-20c0-425e-b26f-73e7f373ae96",
+  "path": "/usr/lib/python3/dist-packages/systemd/_reader.cpython-312-x86_64-linux-gnu.so",
+  "size": 49344,
+  "modified": "2024-04-08T16:17:49Z",
+  "created": "2025-05-09T05:07:27.422782598Z",
+  "sha256_hash": "09e08f8405c0b1951e5e1cc3b77ac6c8f45e7ac3474574b5e46ebe02c2b2d9b7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.292151512Z"
+}

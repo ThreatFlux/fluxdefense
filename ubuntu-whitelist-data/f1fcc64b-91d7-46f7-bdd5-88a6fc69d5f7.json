@@ -1,0 +1,17 @@
+{
+  "uuid": "f1fcc64b-91d7-46f7-bdd5-88a6fc69d5f7",
+  "path": "/usr/lib/x86_64-linux-gnu/perl5/5.38/Cairo/GObject.pm",
+  "size": 1109,
+  "modified": "2019-08-22T04:43:15Z",
+  "created": "2025-05-09T05:07:36.872638395Z",
+  "sha256_hash": "6cb834b7742c01ad3d665915458f7b08f4db67bd852ca16466a0bab3e23fabce",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.629814943Z"
+}

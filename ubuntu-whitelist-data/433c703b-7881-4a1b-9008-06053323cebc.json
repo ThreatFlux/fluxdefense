@@ -1,0 +1,15 @@
+{
+  "uuid": "433c703b-7881-4a1b-9008-06053323cebc",
+  "path": "/lib/llvm-18/lib/libLLVMFrontendOffloading.a",
+  "size": 58664,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.879463126Z",
+  "sha256_hash": "d1cc7e00af2cb608c6f561a73cad04e52da15c20cb46169dcfcb339215d60df6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.145797850Z"
+}

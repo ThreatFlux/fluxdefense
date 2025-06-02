@@ -1,0 +1,15 @@
+{
+  "uuid": "258d8e34-3159-44a9-bd71-4f35bd971223",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libebt_802_3.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.323631513Z",
+  "sha256_hash": "a4c505b604b078585cfe2a523f32514fc4a83d8af35d4818f9968096a4ee1853",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.259072678Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "b44a8c8c-34e1-4212-85a9-2b82b4b9406e",
+  "path": "/usr/libexec/gsd-wwan",
+  "size": 55904,
+  "modified": "2024-04-18T10:59:35Z",
+  "created": "2025-05-09T05:07:37.502628782Z",
+  "sha256_hash": "016f0b31c41ae1d4758a6008e8667a4c3534ce5ac1893ca4a6e77dbd683be1c6",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.250623064Z"
+}

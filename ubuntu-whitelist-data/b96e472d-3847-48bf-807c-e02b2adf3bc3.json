@@ -1,0 +1,17 @@
+{
+  "uuid": "b96e472d-3847-48bf-807c-e02b2adf3bc3",
+  "path": "/lib/firmware/brcm/BCM-0bb4-0306.hcd.zst",
+  "size": 36998,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.480542532Z",
+  "sha256_hash": "5d9400a9bcbc179af93c67c328e11cf785d67d66155f87aa58c52efca39556a5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.477939888Z"
+}

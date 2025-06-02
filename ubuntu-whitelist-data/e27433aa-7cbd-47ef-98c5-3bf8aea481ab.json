@@ -1,0 +1,15 @@
+{
+  "uuid": "e27433aa-7cbd-47ef-98c5-3bf8aea481ab",
+  "path": "/sbin/rtmon",
+  "size": 119312,
+  "modified": "2024-03-31T09:00:13Z",
+  "created": "2025-05-09T05:07:38.411614911Z",
+  "sha256_hash": "64a2273c5981ae714e84dff8d61a15d03b01dc244ca35cd6cc64dd50327e78ce",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.780084023Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "c4ed6b47-124e-4a38-8f1c-ed78fc24b892",
+  "path": "/usr/libexec/sssd/sssd_ssh",
+  "size": 244280,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:38.083619916Z",
+  "sha256_hash": "9bde2d68fe5c8c9b2e21e9bb4ebb671aa9fe24877192843fd92fc39c42dc906c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.142483910Z"
+}

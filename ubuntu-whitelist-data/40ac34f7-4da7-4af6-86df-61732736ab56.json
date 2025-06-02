@@ -1,0 +1,15 @@
+{
+  "uuid": "40ac34f7-4da7-4af6-86df-61732736ab56",
+  "path": "/usr/lib/systemd/systemd-cgroups-agent",
+  "size": 14712,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.517779406Z",
+  "sha256_hash": "3e0e2b49b6ad4b0727caad3b83ae70d08fe43c0559ba4b2db20e71c26b298d08",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.487574431Z"
+}

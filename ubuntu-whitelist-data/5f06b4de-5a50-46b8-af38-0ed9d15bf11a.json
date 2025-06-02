@@ -1,0 +1,15 @@
+{
+  "uuid": "5f06b4de-5a50-46b8-af38-0ed9d15bf11a",
+  "path": "/bin/ssh-import-id-lp",
+  "size": 785,
+  "modified": "2020-12-07T19:19:36Z",
+  "created": "2025-05-09T06:02:56.229534882Z",
+  "sha256_hash": "258d1550f14ff4161146c26d8aae94fbeb0d80301bd5f29d6ab888552bdde917",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.457278428Z"
+}

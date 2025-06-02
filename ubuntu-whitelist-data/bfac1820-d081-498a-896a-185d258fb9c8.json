@@ -1,0 +1,15 @@
+{
+  "uuid": "bfac1820-d081-498a-896a-185d258fb9c8",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_time.so",
+  "size": 18872,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.337631300Z",
+  "sha256_hash": "b211e878e395b95236d3adb1427968fed79763b6bc02194d66cfc8a99856b1bd",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.688408470Z"
+}

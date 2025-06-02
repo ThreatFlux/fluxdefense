@@ -1,0 +1,15 @@
+{
+  "uuid": "c30b32e9-e572-4bbf-87b6-5aa390395776",
+  "path": "/usr/lib/llvm-18/lib/libLLVMDebugInfoCodeView.a",
+  "size": 1989974,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.862463350Z",
+  "sha256_hash": "38894c1261e6e5521ce154d423a5955b8fc27481494fc964b201aa0a4c238381",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:30.636578620Z"
+}

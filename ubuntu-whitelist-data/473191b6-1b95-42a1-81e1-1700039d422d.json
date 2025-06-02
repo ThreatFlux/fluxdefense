@@ -1,0 +1,15 @@
+{
+  "uuid": "473191b6-1b95-42a1-81e1-1700039d422d",
+  "path": "/lib/python3/dist-packages/libvirtmod.cpython-312-x86_64-linux-gnu.so",
+  "size": 329680,
+  "modified": "2024-04-08T16:08:32Z",
+  "created": "2025-05-09T05:56:56.485564595Z",
+  "sha256_hash": "00b4932fe71868a8d5bbd62a1520f598bb2fa197fa24fb6e146d03ee484e3bee",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.406072372Z"
+}

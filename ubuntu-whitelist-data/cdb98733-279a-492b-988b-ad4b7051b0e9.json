@@ -1,0 +1,17 @@
+{
+  "uuid": "cdb98733-279a-492b-988b-ad4b7051b0e9",
+  "path": "/lib/x86_64-linux-gnu/samba/libsmbd-base-samba4.so.0",
+  "size": 1913520,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.101634901Z",
+  "sha256_hash": "d8b8dd6c6d20fc8ac3206fa5d85539e01f96833fd89ce637e9fbd635edf0f406",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.566120518Z"
+}

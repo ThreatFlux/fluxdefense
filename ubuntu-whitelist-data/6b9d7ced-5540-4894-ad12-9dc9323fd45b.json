@@ -1,0 +1,17 @@
+{
+  "uuid": "6b9d7ced-5540-4894-ad12-9dc9323fd45b",
+  "path": "/lib/firmware/meson/vdec/gxm_h264.bin.zst",
+  "size": 13468,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.791538225Z",
+  "sha256_hash": "0a8e3f55d5497135ff648c74b9b3320a8aa645a6868eb52dfae53186b937e3a9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.621851343Z"
+}

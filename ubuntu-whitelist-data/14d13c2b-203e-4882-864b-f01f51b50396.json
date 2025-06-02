@@ -1,0 +1,17 @@
+{
+  "uuid": "14d13c2b-203e-4882-864b-f01f51b50396",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/utils/ExprSequence.h",
+  "size": 5287,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "9519e2445ef1683e507e288227febecdc0e8a16517e95148bb025ed1cb6f5667",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.268106138Z"
+}

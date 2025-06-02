@@ -1,0 +1,17 @@
+{
+  "uuid": "cf90bdd6-e43f-48b4-a3ca-410b24ed80ba",
+  "path": "/usr/lib/systemd/system/quotaon.service",
+  "size": 634,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "9d4afede0882276255b48faed1e6a03f7883e2fbf56293c79228643c77821f22",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.470196971Z"
+}

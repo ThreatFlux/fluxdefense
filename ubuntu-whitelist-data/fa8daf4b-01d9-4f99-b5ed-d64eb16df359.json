@@ -1,0 +1,17 @@
+{
+  "uuid": "fa8daf4b-01d9-4f99-b5ed-d64eb16df359",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-tgl-max98373-rt5682.tplg.zst",
+  "size": 2357,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.061490937Z",
+  "sha256_hash": "85287df196c61a9863733a79c99738f51def1d17eaf3d7b99df8978b0f5c8f9c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.887326731Z"
+}

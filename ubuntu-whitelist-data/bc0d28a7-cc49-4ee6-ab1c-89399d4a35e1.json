@@ -1,0 +1,17 @@
+{
+  "uuid": "bc0d28a7-cc49-4ee6-ab1c-89399d4a35e1",
+  "path": "/usr/lib/x86_64-linux-gnu/liblvm2cmd.so.2.03",
+  "size": 3097664,
+  "modified": "2024-11-27T19:06:49Z",
+  "created": "2025-05-09T05:56:47.800662145Z",
+  "sha256_hash": "788064ff5c77d80fb98a462ef61a7b5a0be66f816a9b665ee58fcca1584e135d",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.464527124Z"
+}

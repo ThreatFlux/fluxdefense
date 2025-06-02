@@ -1,0 +1,15 @@
+{
+  "uuid": "2ab4e42c-ff23-4187-b499-9a52a9bc144a",
+  "path": "/usr/lib/cups/backend/parallel",
+  "size": 18744,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.040879983Z",
+  "sha256_hash": "51267bd85f32cdeeacea25e74d1b09e1d24c9e53028d4480de813f4a7e2dcfb2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.010706727Z"
+}

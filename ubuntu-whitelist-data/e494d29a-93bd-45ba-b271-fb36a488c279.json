@@ -1,0 +1,17 @@
+{
+  "uuid": "e494d29a-93bd-45ba-b271-fb36a488c279",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/Unicode/Normalize.pm",
+  "size": 19952,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.520591297Z",
+  "sha256_hash": "fe8c5504d190ab7a9ac4e2981fca42d48ccb38ae26950985a0e61a7330598f45",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.597338029Z"
+}

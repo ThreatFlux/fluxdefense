@@ -1,0 +1,17 @@
+{
+  "uuid": "994b65b3-8407-4d95-ab35-f42ea730eb90",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-colire.ali",
+  "size": 2634,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.097344503Z",
+  "sha256_hash": "dc758ef2c137050d251a168ee73fba8e93cc70f6abef501501a954300d744a91",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.593501711Z"
+}

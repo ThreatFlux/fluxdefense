@@ -1,0 +1,17 @@
+{
+  "uuid": "023899c4-6256-4d25-918d-5a3b97d8e0cf",
+  "path": "/lib/firmware/kaweth/new_code.bin.zst",
+  "size": 2031,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.667539942Z",
+  "sha256_hash": "0060edc8f09cbbb2844b69a56a9e774be2fd6b573bfd9e3365ad8b7df563b758",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.506953841Z"
+}

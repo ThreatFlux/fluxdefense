@@ -1,0 +1,17 @@
+{
+  "uuid": "18f7336e-2036-4b4c-9bd9-ba418a0cc8bb",
+  "path": "/usr/lib/x86_64-linux-gnu/libqrtr-glib.so.0.0.0",
+  "size": 38904,
+  "modified": "2024-03-31T02:12:10Z",
+  "created": "2025-05-09T05:07:32.037712176Z",
+  "sha256_hash": "2c1ef643c5ed4f9b731a0fd3b4d7c4abda5f64f5e2a20358e5e1a3cc7f30ff0d",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.786524001Z"
+}

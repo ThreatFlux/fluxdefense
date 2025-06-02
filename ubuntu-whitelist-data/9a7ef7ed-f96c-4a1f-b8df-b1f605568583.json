@@ -1,0 +1,17 @@
+{
+  "uuid": "9a7ef7ed-f96c-4a1f-b8df-b1f605568583",
+  "path": "/lib/x86_64-linux-gnu/libtsan.so.2.0.0",
+  "size": 8980352,
+  "modified": "2024-09-09T13:21:53Z",
+  "created": "2025-05-09T06:33:29.731400884Z",
+  "sha256_hash": "50389da44b837854627bd20464fa005fc985847ab1e02a19cadc8df3567bdb4b",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:31.058006635Z"
+}

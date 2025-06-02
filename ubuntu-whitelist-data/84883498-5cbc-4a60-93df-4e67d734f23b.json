@@ -1,0 +1,17 @@
+{
+  "uuid": "84883498-5cbc-4a60-93df-4e67d734f23b",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/objc/PropertyDeclarationCheck.h",
+  "size": 1427,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "e24e26b8c3891e51cf9a91823da36a220636b40372213d3ae4b7fb66625536bc",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.246123302Z"
+}

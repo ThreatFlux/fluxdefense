@@ -1,0 +1,17 @@
+{
+  "uuid": "4a704a5a-bc6e-4bfc-bcb3-d9cdad4b322d",
+  "path": "/lib/X11/xedit/lisp/progmodes/patch.lsp",
+  "size": 2212,
+  "modified": "2024-03-31T17:26:36Z",
+  "created": "2025-05-09T05:07:20.995880669Z",
+  "sha256_hash": "c1b4899a97f603b5fd5a0d9cf401293f8ae1fb940515641838b14d62ca4f49e5",
+  "file_type": {
+    "Other": "lsp"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.465073674Z"
+}

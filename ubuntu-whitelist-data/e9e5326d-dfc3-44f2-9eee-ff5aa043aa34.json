@@ -1,0 +1,17 @@
+{
+  "uuid": "e9e5326d-dfc3-44f2-9eee-ff5aa043aa34",
+  "path": "/usr/lib/firmware/radeon/TURKS_pfp.bin.zst",
+  "size": 2093,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.063534457Z",
+  "sha256_hash": "c8bf7f6f6b16c018ae8460daff9ca5deb0156cb1be088d8094a0a950d4a76b97",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.409697082Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "9b28df3e-0e79-4364-af14-730f1ee34227",
+  "path": "/usr/lib/x86_64-linux-gnu/librubberband.so.2.3.0",
+  "size": 321704,
+  "modified": "2024-04-18T17:48:07Z",
+  "created": "2025-05-09T05:09:26.340967753Z",
+  "sha256_hash": "97c10ec8328a9d5dab1b2e4c562f0a43402a30dacf9bdb20287691331e751670",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:08.684116339Z"
+}

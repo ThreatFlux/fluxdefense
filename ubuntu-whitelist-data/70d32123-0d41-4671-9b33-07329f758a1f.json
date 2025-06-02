@@ -1,0 +1,17 @@
+{
+  "uuid": "70d32123-0d41-4671-9b33-07329f758a1f",
+  "path": "/usr/lib/x86_64-linux-gnu/libeis.so.1.2.1",
+  "size": 104520,
+  "modified": "2024-04-01T20:55:38Z",
+  "created": "2025-05-09T05:07:29.370752873Z",
+  "sha256_hash": "5c2df16bfd509d59c4bcc7dc179a22e7722509f4239fcdab7a2c413ceea6451f",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.729364158Z"
+}

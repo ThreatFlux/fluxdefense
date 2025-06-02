@@ -1,0 +1,17 @@
+{
+  "uuid": "960f9e74-db8e-41cf-9739-04535398a554",
+  "path": "/usr/lib/systemd/network/80-container-vb.network",
+  "size": 940,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.510779317Z",
+  "sha256_hash": "4ce5793935e1d9bfa45c5169b04f569d23cd844adf5381087d74cc49f64ad0e4",
+  "file_type": {
+    "Other": "network"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.561325243Z"
+}

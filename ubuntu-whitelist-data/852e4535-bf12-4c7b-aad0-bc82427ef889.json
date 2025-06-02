@@ -1,0 +1,17 @@
+{
+  "uuid": "852e4535-bf12-4c7b-aad0-bc82427ef889",
+  "path": "/lib/systemd/system/cloud-config.service",
+  "size": 589,
+  "modified": "2025-04-02T15:09:15Z",
+  "created": "2025-05-09T05:24:33.233037137Z",
+  "sha256_hash": "70c670f46eea29fb91a44dddf0af86db149bd7da065b8c98410102c07c086649",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.115108094Z"
+}

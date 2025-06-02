@@ -1,0 +1,17 @@
+{
+  "uuid": "07ab7098-18c8-449a-a387-a7addbd46657",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/openssl.pc",
+  "size": 235,
+  "modified": "2025-02-05T13:17:43Z",
+  "created": "2025-05-12T13:31:13.682137834Z",
+  "sha256_hash": "37755da18a650387a4846ac48c10635bb1ab5155328ec30527e2cdb30874873f",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.065717575Z"
+}

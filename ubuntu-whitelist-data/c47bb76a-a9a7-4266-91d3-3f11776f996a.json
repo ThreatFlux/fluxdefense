@@ -1,0 +1,15 @@
+{
+  "uuid": "c47bb76a-a9a7-4266-91d3-3f11776f996a",
+  "path": "/usr/lib/systemd/systemd-measure",
+  "size": 47880,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.519779432Z",
+  "sha256_hash": "ef57a6b88dc3ef092c8a0b34e0cce6e9025c317afb757fd0213f2a628ce97fd0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.486694495Z"
+}

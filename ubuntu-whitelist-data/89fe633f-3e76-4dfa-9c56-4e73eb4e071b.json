@@ -1,0 +1,17 @@
+{
+  "uuid": "89fe633f-3e76-4dfa-9c56-4e73eb4e071b",
+  "path": "/lib/aspell/x86_64-linux-gnu/ddtp-filter.info",
+  "size": 225,
+  "modified": "2024-04-08T15:54:10Z",
+  "created": "2025-05-09T05:07:21.018880319Z",
+  "sha256_hash": "0628707d48749605fc29e2bd81c0dc9fd242f2085f25c5bec388813952131db5",
+  "file_type": {
+    "Other": "info"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.796937804Z"
+}

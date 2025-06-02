@@ -1,0 +1,17 @@
+{
+  "uuid": "edd7809f-aeb6-49e4-8af6-8cf9c687cc12",
+  "path": "/lib/systemd/system/systemd-logind.service.d/dbus.conf",
+  "size": 371,
+  "modified": "2025-02-20T15:25:51Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "2325a2f34185f01f8ca3dc3c77f6e3676cdc08d0f5023db65f4fb19987d31367",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.103623258Z"
+}

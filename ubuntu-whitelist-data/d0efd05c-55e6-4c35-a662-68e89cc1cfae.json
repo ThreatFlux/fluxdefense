@@ -1,0 +1,17 @@
+{
+  "uuid": "d0efd05c-55e6-4c35-a662-68e89cc1cfae",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-textio.adb",
+  "size": 61105,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.060345011Z",
+  "sha256_hash": "96d9f40ad40caed3249c0656065de6f227840d3e7f8a74ccce237806b0a847a6",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.147092149Z"
+}

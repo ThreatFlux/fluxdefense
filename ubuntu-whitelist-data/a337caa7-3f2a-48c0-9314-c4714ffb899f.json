@@ -1,0 +1,17 @@
+{
+  "uuid": "a337caa7-3f2a-48c0-9314-c4714ffb899f",
+  "path": "/lib/x86_64-linux-gnu/libncurses.so.6.4",
+  "size": 165968,
+  "modified": "2024-04-08T16:14:03Z",
+  "created": "2025-05-09T05:07:31.649718096Z",
+  "sha256_hash": "c090994a8fd216fafa8b4f1f4e1998e4b8bcce82dd28bfa2549acbd91fd561bd",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.691843495Z"
+}

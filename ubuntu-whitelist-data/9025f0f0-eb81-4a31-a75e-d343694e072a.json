@@ -1,0 +1,15 @@
+{
+  "uuid": "9025f0f0-eb81-4a31-a75e-d343694e072a",
+  "path": "/lib/i386-linux-gnu/gconv/ISO-2022-JP-3.so",
+  "size": 30092,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.281663400Z",
+  "sha256_hash": "a2e3ec913e03dd079a674627a9c7a37bc3d6c98139ec1c354c176443f4465e7f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.811070941Z"
+}

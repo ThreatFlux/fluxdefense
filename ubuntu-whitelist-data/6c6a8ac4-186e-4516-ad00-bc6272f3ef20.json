@@ -1,0 +1,17 @@
+{
+  "uuid": "6c6a8ac4-186e-4516-ad00-bc6272f3ef20",
+  "path": "/usr/lib/firmware/i915/dg1_guc_62.0.0.bin.zst",
+  "size": 113053,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.534541784Z",
+  "sha256_hash": "e7eb687b6105fc4e8560d8a6901590ba7296145bb01c0e75d5916c520db55323",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.839181623Z"
+}

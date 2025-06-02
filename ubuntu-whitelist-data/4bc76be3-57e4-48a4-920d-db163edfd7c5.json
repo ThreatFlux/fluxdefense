@@ -1,0 +1,17 @@
+{
+  "uuid": "4bc76be3-57e4-48a4-920d-db163edfd7c5",
+  "path": "/lib/x86_64-linux-gnu/libXau.so.6.0.0",
+  "size": 18696,
+  "modified": "2024-04-08T16:09:11Z",
+  "created": "2025-05-09T05:07:29.060757603Z",
+  "sha256_hash": "8040da3f8516c1acfe39f04ff022480cdb273705ba5e7a4ca70bbdb1527cd67a",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.413791402Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "01de55d6-281e-442e-bd29-6ec1f9e2a707",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-finroo.adb",
+  "size": 3014,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.077344777Z",
+  "sha256_hash": "341bb7bd2f41843060f2d731f0e58be4929ce31c446cec43c172ef0e5232da22",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.103602642Z"
+}

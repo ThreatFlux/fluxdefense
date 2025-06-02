@@ -1,0 +1,17 @@
+{
+  "uuid": "5913e033-4568-43d7-bc55-b4603f5c115a",
+  "path": "/lib/x86_64-linux-gnu/libipa_hbac.so.0.1.0",
+  "size": 18664,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:30.562734683Z",
+  "sha256_hash": "234c4576cabb1454aba8654b8b7c4f295fd336ad88c2dd612dc999808700e341",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.055113055Z"
+}

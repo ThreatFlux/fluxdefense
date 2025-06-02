@@ -1,0 +1,17 @@
+{
+  "uuid": "73516423-8261-4c86-a2e2-b42bc6cc95f4",
+  "path": "/usr/lib/firmware/zd1211/zd1211b_uphr.zst",
+  "size": 3037,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.087534125Z",
+  "sha256_hash": "a1d5a8d3a6af246827a87ee0cefeca9930d73172d975ba33aa0d35d4f5ce4edb",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.577907341Z"
+}

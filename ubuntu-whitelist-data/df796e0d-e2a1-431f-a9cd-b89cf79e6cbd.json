@@ -1,0 +1,15 @@
+{
+  "uuid": "df796e0d-e2a1-431f-a9cd-b89cf79e6cbd",
+  "path": "/bin/screendump",
+  "size": 14640,
+  "modified": "2024-03-31T09:02:08Z",
+  "created": "2025-05-09T05:07:20.410889596Z",
+  "sha256_hash": "194f33cc67f96b3ab260ca3de0dccbc84895d8b92db97227fb0143adfca49f2b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.812826113Z"
+}

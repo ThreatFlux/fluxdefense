@@ -1,0 +1,15 @@
+{
+  "uuid": "da8cb93f-f052-4eda-a6af-d3605113f545",
+  "path": "/usr/bin/dbus-daemon",
+  "size": 236176,
+  "modified": "2024-08-09T02:33:22Z",
+  "created": "2025-05-09T05:07:19.141908960Z",
+  "sha256_hash": "8c479f1fcddfd6693c736ce541da0955f6752834bdeeef4b928e27f5e974c247",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:06.015457031Z"
+}

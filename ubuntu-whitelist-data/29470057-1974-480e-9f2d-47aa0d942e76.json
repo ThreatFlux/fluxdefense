@@ -1,0 +1,15 @@
+{
+  "uuid": "29470057-1974-480e-9f2d-47aa0d942e76",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/sources/DataSourceGCE.py",
+  "size": 13646,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.241037243Z",
+  "sha256_hash": "ba014d2870f7c8daea2877e1e87f93cca38873f1a86eebfcc5d469d7c27991a0",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.828973323Z"
+}

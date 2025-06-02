@@ -1,0 +1,17 @@
+{
+  "uuid": "3281bfa1-abf5-4658-ac7d-98a96084add6",
+  "path": "/usr/lib/x86_64-linux-gnu/libbd_swap.so.3.0.0",
+  "size": 22600,
+  "modified": "2024-03-26T13:32:04Z",
+  "created": "2025-05-09T05:07:29.183755726Z",
+  "sha256_hash": "603d635f8c91895e5885006c4ed5a9fad7ae190d4520d4e4f755161a52dd7898",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.391914896Z"
+}

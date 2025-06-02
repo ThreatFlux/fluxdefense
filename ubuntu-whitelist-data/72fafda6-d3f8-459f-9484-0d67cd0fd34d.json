@@ -1,0 +1,15 @@
+{
+  "uuid": "72fafda6-d3f8-459f-9484-0d67cd0fd34d",
+  "path": "/lib/i386-linux-gnu/gconv/ISO_6937.so",
+  "size": 25996,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.283663370Z",
+  "sha256_hash": "913e2d2af2aea9d5a29f99dec8d144704c17fcf0a34b1e355f6f8cad1759f0d5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.821859359Z"
+}

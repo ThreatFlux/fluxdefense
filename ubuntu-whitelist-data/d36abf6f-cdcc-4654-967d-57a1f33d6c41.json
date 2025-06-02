@@ -1,0 +1,17 @@
+{
+  "uuid": "d36abf6f-cdcc-4654-967d-57a1f33d6c41",
+  "path": "/usr/lib/systemd/system/machines.target",
+  "size": 470,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:56:53.645596490Z",
+  "sha256_hash": "20b9ac01719747bce8b46406f542c7034721fcee6cba29482a11d2068b58b54a",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.476090332Z"
+}

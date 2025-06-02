@@ -1,0 +1,17 @@
+{
+  "uuid": "9eebb8c9-05cc-4be6-b0e0-bab77fe031e7",
+  "path": "/usr/lib/systemd/system/rsyslog.service",
+  "size": 890,
+  "modified": "2025-02-28T12:24:44Z",
+  "created": "2025-05-09T05:24:24.545922238Z",
+  "sha256_hash": "2728f43f3e86d6eb2480d6cbc38a977e185b369c3733351459f40a9fc7581b2c",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.447836562Z"
+}

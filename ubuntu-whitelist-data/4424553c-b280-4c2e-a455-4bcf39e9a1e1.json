@@ -1,0 +1,15 @@
+{
+  "uuid": "4424553c-b280-4c2e-a455-4bcf39e9a1e1",
+  "path": "/usr/sbin/usbmuxd",
+  "size": 92776,
+  "modified": "2024-03-31T17:24:34Z",
+  "created": "2025-05-09T05:07:38.452614285Z",
+  "sha256_hash": "d6c67da3421b3f82926ca7ac99c8b3719051e9548567d8cf6daf10a71090dfc5",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.716029451Z"
+}

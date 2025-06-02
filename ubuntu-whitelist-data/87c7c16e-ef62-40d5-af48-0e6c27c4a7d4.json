@@ -1,0 +1,17 @@
+{
+  "uuid": "87c7c16e-ef62-40d5-af48-0e6c27c4a7d4",
+  "path": "/lib/firmware/xe/lnl_guc_70.bin.zst",
+  "size": 174840,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.086534138Z",
+  "sha256_hash": "2d3b355131a5bc41f7c5789633ca8cca770020acbe791e01fcf734ab4b5d1e69",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.241674415Z"
+}

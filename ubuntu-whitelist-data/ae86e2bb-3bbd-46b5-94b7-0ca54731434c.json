@@ -1,0 +1,15 @@
+{
+  "uuid": "ae86e2bb-3bbd-46b5-94b7-0ca54731434c",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/GREEK7.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.624657440Z",
+  "sha256_hash": "005f0a515b81218ded5f1aeb233424052179e98df82c62e5060eda8494a7613b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.490025451Z"
+}

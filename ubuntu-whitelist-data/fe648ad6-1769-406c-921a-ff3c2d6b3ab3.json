@@ -1,0 +1,17 @@
+{
+  "uuid": "fe648ad6-1769-406c-921a-ff3c2d6b3ab3",
+  "path": "/lib/llvm-18/include/clang/AST/ASTConcept.h",
+  "size": 10439,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.510533832Z",
+  "sha256_hash": "bb537b4aaf212fefc64cc219fe17f29000d3d963b14814775ad2200d429ee828",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.955647222Z"
+}

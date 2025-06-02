@@ -1,0 +1,17 @@
+{
+  "uuid": "96d66fd3-d674-422f-90de-35d0ab41420a",
+  "path": "/lib/firmware/cis/RS-COM-2P.cis.zst",
+  "size": 99,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.510542117Z",
+  "sha256_hash": "f3b55a6f86662bfa2c0b5e356ac43b288585afee2409c9bdc09198e84e257a61",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.342990220Z"
+}

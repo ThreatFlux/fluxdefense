@@ -1,0 +1,17 @@
+{
+  "uuid": "a48c65fb-2326-4d07-bcd3-eba59a711314",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/s-excmac.adb",
+  "size": 2770,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.076344791Z",
+  "sha256_hash": "d1afa6dc6531a0fa97c5ea87c46dd49e6e60a67a70685cf2187f4d47e2019cb9",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.876910007Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "be853d6a-6536-448d-8ef1-8f92c991a72a",
+  "path": "/usr/lib/libreoffice/program/libscdlo.so",
+  "size": 43888,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:05.221458484Z",
+  "sha256_hash": "678da5afeb85b2e3159608cab46fdbdf2e85287655d429c1d93ec6097318d30d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:42.880576793Z"
+}

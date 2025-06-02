@@ -1,0 +1,15 @@
+{
+  "uuid": "55bb6dcd-604e-4166-9f5f-6294efe972d6",
+  "path": "/lib/x86_64-linux-gnu/gtk-2.0/2.10.0/immodules/im-xim.so",
+  "size": 39960,
+  "modified": "2024-07-15T16:53:59Z",
+  "created": "2025-05-09T05:07:35.799654769Z",
+  "sha256_hash": "78b631fb3c35a49ed6f5bfd5ef57ec019845b3a727634541ff1016fc33ad0fbf",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.901763184Z"
+}

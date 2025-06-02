@@ -1,0 +1,17 @@
+{
+  "uuid": "2ab402e2-5192-4648-9b0d-1278c0859174",
+  "path": "/usr/lib/firmware/brcm/brcmfmac43340-sdio.meegopad-t08.txt.zst",
+  "size": 812,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.484542477Z",
+  "sha256_hash": "1494a4c3a72d428a5b40db21d0aa38917cc995835ef5e1d2692cf663e7139299",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.663788364Z"
+}

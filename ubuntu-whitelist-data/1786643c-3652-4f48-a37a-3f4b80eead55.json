@@ -1,0 +1,17 @@
+{
+  "uuid": "1786643c-3652-4f48-a37a-3f4b80eead55",
+  "path": "/lib/firmware/radeon/R600_me.bin.zst",
+  "size": 4245,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "4de930626f539769caea633fcfc4d165667337f221ee5190a3a7158a5ff1e3c6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.381853185Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d288bd7e-6535-48bc-8c63-33703bf87090",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/certifi/cacert.pem",
+  "size": 299427,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.161941639Z",
+  "sha256_hash": "94edeb66e91774fcae93a05650914e29096259a5c7e871a1f65d461ab5201b47",
+  "file_type": {
+    "Other": "pem"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.654374140Z"
+}

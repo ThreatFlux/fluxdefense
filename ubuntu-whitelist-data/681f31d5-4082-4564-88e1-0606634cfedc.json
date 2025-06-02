@@ -1,0 +1,17 @@
+{
+  "uuid": "681f31d5-4082-4564-88e1-0606634cfedc",
+  "path": "/lib/systemd/systemd-pull",
+  "size": 109160,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:56:53.646596479Z",
+  "sha256_hash": "77110b5c0903db11bc28f071cfc188cbcbc4da3faaa154ee4e802a56c8432c14",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.098796213Z"
+}

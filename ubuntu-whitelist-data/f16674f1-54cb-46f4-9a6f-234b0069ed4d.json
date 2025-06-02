@@ -1,0 +1,17 @@
+{
+  "uuid": "f16674f1-54cb-46f4-9a6f-234b0069ed4d",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/readability/SimplifyBooleanExprCheck.h",
+  "size": 3209,
+  "modified": "2024-01-17T08:14:10Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "f6fd9b44b80d98438e55e71c309dfebdf9dda71f0763cc2026c3958e95bd8b28",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.285614653Z"
+}

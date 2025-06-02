@@ -1,0 +1,17 @@
+{
+  "uuid": "c5dd8451-605c-4d9f-9e89-1c29b8d5e0bc",
+  "path": "/lib/firmware/nvidia/tu102/gsp/bootloader-535.113.01.bin.zst",
+  "size": 824,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.943536119Z",
+  "sha256_hash": "bd3657b0d96185d7dc9963ba12721aa98e2d544e585809cbf5906862a1761cc8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.447445015Z"
+}

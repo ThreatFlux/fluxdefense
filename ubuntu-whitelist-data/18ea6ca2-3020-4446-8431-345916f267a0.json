@@ -1,0 +1,17 @@
+{
+  "uuid": "18ea6ca2-3020-4446-8431-345916f267a0",
+  "path": "/lib/firmware/iwlwifi-6000-4.ucode.zst",
+  "size": 144050,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.582541119Z",
+  "sha256_hash": "95630ced4720bf1cf7d9725ed2d3f587353e45a78fb1438d8f53ba3291da9652",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.620072073Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "5b9b94de-44bd-407b-b8a3-adfb04511ce5",
+  "path": "/lib/python3.12/test/audiodata/pluck-pcm8.aiff",
+  "size": 6892,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.986551841Z",
+  "sha256_hash": "93e79b29fca6d56488393712285db29e7e5a75c693f9be4008cde600b2b81700",
+  "file_type": {
+    "Other": "aiff"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.258945667Z"
+}

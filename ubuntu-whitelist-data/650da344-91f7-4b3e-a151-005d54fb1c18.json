@@ -1,0 +1,17 @@
+{
+  "uuid": "650da344-91f7-4b3e-a151-005d54fb1c18",
+  "path": "/lib/llvm-18/include/clang/Parse/AttrParserStringSwitches.inc",
+  "size": 6313,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.545533371Z",
+  "sha256_hash": "4b69448a26c7e118758a83d44ca4140522b838f81c245ab1f6f0c123ba3b8ff3",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.182290768Z"
+}

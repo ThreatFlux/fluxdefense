@@ -1,0 +1,17 @@
+{
+  "uuid": "1a3cc636-648e-4f4b-9a20-02ba2b0b1e8a",
+  "path": "/lib/udev/cdrom_id",
+  "size": 92896,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:14.044786143Z",
+  "sha256_hash": "fc5c547b7c7382733db5090a103d5b73f8af8da629a4a9dcc897fb2835992765",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.356176989Z"
+}

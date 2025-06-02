@@ -1,0 +1,15 @@
+{
+  "uuid": "22000b62-5d22-4613-b50d-24799c5dfa14",
+  "path": "/sbin/javaobjnew-bpfcc",
+  "size": 56,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "25cffdd98ca1f30e91391e1be9cac108640211778050b9f8dbc19429ab97b889",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.742080088Z"
+}

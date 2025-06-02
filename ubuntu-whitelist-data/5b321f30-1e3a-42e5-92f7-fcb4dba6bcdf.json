@@ -1,0 +1,17 @@
+{
+  "uuid": "5b321f30-1e3a-42e5-92f7-fcb4dba6bcdf",
+  "path": "/lib/firmware/intel/sof-tplg/sof-apl-nocodec.tplg.zst",
+  "size": 1944,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.057490999Z",
+  "sha256_hash": "8bc83af02b044536b9148476c940527a2189d037d6afe2363814e8a9d3d7c985",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.219698114Z"
+}

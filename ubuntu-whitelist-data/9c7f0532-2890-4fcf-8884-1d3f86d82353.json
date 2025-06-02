@@ -1,0 +1,17 @@
+{
+  "uuid": "9c7f0532-2890-4fcf-8884-1d3f86d82353",
+  "path": "/lib/systemd/user/gvfs-afc-volume-monitor.service",
+  "size": 232,
+  "modified": "2024-04-18T13:39:03Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "f9c35b5c42dc51e5a8cd918218ebca43ba6f0202de581fb118b02f0c0b45b904",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.145058037Z"
+}

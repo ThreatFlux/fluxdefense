@@ -1,0 +1,15 @@
+{
+  "uuid": "f7e362fc-38d4-4672-b693-3ce7c84d047b",
+  "path": "/lib/google-cloud-sdk/platform/gsutil/gslib/devshell_auth_plugin.py",
+  "size": 1734,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.817930494Z",
+  "sha256_hash": "5f8e33a9c4dca9f5c91b6a3c39cad5abc6e7ef8ef174c4f5fc97a65759ec1e0d",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.977297227Z"
+}

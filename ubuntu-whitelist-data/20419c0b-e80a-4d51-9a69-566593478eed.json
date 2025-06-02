@@ -1,0 +1,17 @@
+{
+  "uuid": "20419c0b-e80a-4d51-9a69-566593478eed",
+  "path": "/lib/firmware/intel/sof-tplg/sof-cht-max98090.tplg.zst",
+  "size": 1066,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.058490984Z",
+  "sha256_hash": "f108d5a438fd25a5390e60de7ee4c45cdab4956268f955c3e494bc8fa8b36a07",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.208922111Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "8b10c93d-4abe-423f-b6df-ae3d112e0d5e",
+  "path": "/lib/llvm-18/include/clang/Basic/arm_neon.inc",
+  "size": 205033,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.534533516Z",
+  "sha256_hash": "5c503470c47a234ba99aecd3955faff24ba9c8960ff60d8df20149b33ac9ce30",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.149020383Z"
+}

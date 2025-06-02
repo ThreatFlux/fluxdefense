@@ -1,0 +1,17 @@
+{
+  "uuid": "0227fc8b-fbdc-49dd-a2dd-daa14a9b9854",
+  "path": "/lib/firmware/rtlwifi/rtl8812aefw_wowlan.bin.zst",
+  "size": 10488,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.069534374Z",
+  "sha256_hash": "a7c72cd45f4ad7d5644860155e0f09ff0fbc4bdc924bb3fecd5c88d06aff2ecc",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.483030963Z"
+}

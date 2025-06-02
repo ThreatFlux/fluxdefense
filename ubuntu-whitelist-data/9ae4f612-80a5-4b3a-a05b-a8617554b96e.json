@@ -1,0 +1,17 @@
+{
+  "uuid": "9ae4f612-80a5-4b3a-a05b-a8617554b96e",
+  "path": "/usr/lib/systemd/user/update-notifier-livepatch.service",
+  "size": 131,
+  "modified": "2024-10-08T13:47:14Z",
+  "created": "2025-05-09T05:24:21.710885176Z",
+  "sha256_hash": "a424514da71982f1226ceab4c8e063f911e577c8839f727a28f2275300ec7940",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.508174035Z"
+}

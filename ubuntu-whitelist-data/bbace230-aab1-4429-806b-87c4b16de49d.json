@@ -1,0 +1,17 @@
+{
+  "uuid": "bbace230-aab1-4429-806b-87c4b16de49d",
+  "path": "/usr/lib/firmware/amdgpu/carrizo_sdma.bin.zst",
+  "size": 3961,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.389543793Z",
+  "sha256_hash": "9b64c18789d88bf75a1c0bafa3dc277e8d15163e5865a6b6dd54250b388f4c25",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.895200264Z"
+}

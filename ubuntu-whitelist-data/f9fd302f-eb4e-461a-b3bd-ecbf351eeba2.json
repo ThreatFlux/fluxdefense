@@ -1,0 +1,15 @@
+{
+  "uuid": "f9fd302f-eb4e-461a-b3bd-ecbf351eeba2",
+  "path": "/bin/machinectl",
+  "size": 105088,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:56:53.643596513Z",
+  "sha256_hash": "8124a5b6abb8d3af5d423044b30e68a8a20b6d6bef7e04000c96e1727627905e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.346708265Z"
+}

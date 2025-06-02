@@ -1,0 +1,17 @@
+{
+  "uuid": "56184c7c-48f3-48ab-9764-7a628e976d1d",
+  "path": "/lib/python3.12/test/crashers/README",
+  "size": 1029,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.989551801Z",
+  "sha256_hash": "208c654c6b8750ee12ad78422ff81e3273b345cc8ec5327afb7752d9c6711c1d",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.324781052Z"
+}

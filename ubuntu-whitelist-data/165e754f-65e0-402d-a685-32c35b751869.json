@@ -1,0 +1,15 @@
+{
+  "uuid": "165e754f-65e0-402d-a685-32c35b751869",
+  "path": "/sbin/inject-bpfcc",
+  "size": 16445,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "acef4cad7a988fd411b04614b874b7d422cb3afd7bed38f2bf5e82e0067e8112",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.062553456Z"
+}

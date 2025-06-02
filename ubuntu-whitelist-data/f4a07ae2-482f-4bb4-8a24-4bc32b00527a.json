@@ -1,0 +1,17 @@
+{
+  "uuid": "f4a07ae2-482f-4bb4-8a24-4bc32b00527a",
+  "path": "/lib/linux-hwe-6.11-tools-6.11.0-26/cpupower",
+  "size": 395576,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:32:03.131294646Z",
+  "sha256_hash": "6c35e0c1fb83117a921a63ea2e3d005b9ab7492eccfc9246aca493f0e30f76f4",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.194812086Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "107ad3fd-a5c6-4e30-89e4-accb0624a977",
+  "path": "/usr/lib/x86_64-linux-gnu/libgnome-desktop-3.so.20.0.0",
+  "size": 236928,
+  "modified": "2024-03-31T01:12:48Z",
+  "created": "2025-05-09T05:07:29.820746006Z",
+  "sha256_hash": "243103caddeb1720eba07d613da8295554395e4b97908fc63a73cde6191bf684",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.849886954Z"
+}

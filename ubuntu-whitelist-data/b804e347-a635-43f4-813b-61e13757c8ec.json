@@ -1,0 +1,15 @@
+{
+  "uuid": "b804e347-a635-43f4-813b-61e13757c8ec",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/net/cmdline.py",
+  "size": 9347,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.239037216Z",
+  "sha256_hash": "e4b13a368941ae355a55673811de97210f02256bfbb9d279cda03de799c9437c",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.820344795Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "c68491a9-1b12-4f1c-92df-9ea3c0bff1ce",
+  "path": "/usr/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-zte.so",
+  "size": 31008,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.161664505Z",
+  "sha256_hash": "297bac1cf97a63dc217c9621b0e0723760862c7501a7c54e66074b2c61339987",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.060256132Z"
+}

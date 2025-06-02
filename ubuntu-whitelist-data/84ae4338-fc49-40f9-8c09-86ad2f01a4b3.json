@@ -1,0 +1,15 @@
+{
+  "uuid": "84ae4338-fc49-40f9-8c09-86ad2f01a4b3",
+  "path": "/usr/lib/recovery-mode/options/network",
+  "size": 1805,
+  "modified": "2021-01-27T15:53:50Z",
+  "created": "2025-05-09T05:07:27.534780889Z",
+  "sha256_hash": "0184a70d55f31fe212cb7abe5525500ba1786c4a0f0aebc7c2a5ef760964ed2d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.275204908Z"
+}

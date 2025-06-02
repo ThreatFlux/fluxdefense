@@ -1,0 +1,15 @@
+{
+  "uuid": "dc4779ed-8029-4070-9821-25bbd4a95029",
+  "path": "/usr/lib/x86_64-linux-gnu/qemu/audio-alsa.so",
+  "size": 31152,
+  "modified": "2025-03-13T16:15:00Z",
+  "created": "2025-05-22T16:56:50.591978685Z",
+  "sha256_hash": "01174b6c8ff6cde937e52eb7ad74b6a8d89e7abd2787ea6dcb77cb4cd6551167",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.918806890Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "db6fae04-4f6c-4d46-b643-3b229773797e",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/compute/config_ssh.py",
+  "size": 14447,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.773931241Z",
+  "sha256_hash": "a89b89376eba4417b2a986fbe91c76c3bc17c474540606f811ec62c9f5638258",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.765490068Z"
+}

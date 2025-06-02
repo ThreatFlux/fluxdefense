@@ -1,0 +1,15 @@
+{
+  "uuid": "a14575cd-d789-4c84-85ef-a15dc625f52e",
+  "path": "/lib/x86_64-linux-gnu/xtables/libebt_mark_m.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.325631483Z",
+  "sha256_hash": "fd57ee6bc1ea7a9a85a56a0953d0151f9169758937b7edee953778bbb794f9fa",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.679069610Z"
+}

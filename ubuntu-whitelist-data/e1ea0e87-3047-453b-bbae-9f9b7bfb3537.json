@@ -1,0 +1,17 @@
+{
+  "uuid": "e1ea0e87-3047-453b-bbae-9f9b7bfb3537",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/gthread-2.0.pc",
+  "size": 240,
+  "modified": "2025-05-15T12:06:49Z",
+  "created": "2025-05-27T10:16:56.762744220Z",
+  "sha256_hash": "f2c448874eaac1a410380116ad5739a00eab536f1ef43bc8dfb23289d4f768f6",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.099768676Z"
+}

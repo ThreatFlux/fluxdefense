@@ -1,0 +1,17 @@
+{
+  "uuid": "5a2d4740-9479-4ab4-ae43-07f42bf4a3fa",
+  "path": "/lib/firmware/ipw2200-bss.fw.zst",
+  "size": 84021,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.579541161Z",
+  "sha256_hash": "543c7b17994ec2161c9e16385098e3e7fe3ee43a5e6e4beaf70ba341c725e6dd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.421080574Z"
+}

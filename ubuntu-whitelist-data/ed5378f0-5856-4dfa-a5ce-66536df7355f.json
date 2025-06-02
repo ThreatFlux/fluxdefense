@@ -1,0 +1,17 @@
+{
+  "uuid": "ed5378f0-5856-4dfa-a5ce-66536df7355f",
+  "path": "/usr/lib/udev/hwdb.d/20-pci-classes.hwdb",
+  "size": 15942,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.050786220Z",
+  "sha256_hash": "f56b790e1d668977277a0d92c59fbf7fa9ca8a2408981e550b0706a4143c0cf8",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.119125675Z"
+}

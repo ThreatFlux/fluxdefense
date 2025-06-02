@@ -1,0 +1,15 @@
+{
+  "uuid": "9c8984e4-2362-43ee-abcc-790565f3f279",
+  "path": "/usr/lib/python3.12/test/ziptestdata/exe_with_zip",
+  "size": 990,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.054550948Z",
+  "sha256_hash": "2f27f5c9108936a693fd496565e5c5050b5c62cfbb61d1d5da9d97c89533d637",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.831035220Z"
+}

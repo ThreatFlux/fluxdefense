@@ -1,0 +1,17 @@
+{
+  "uuid": "3ae876ae-1d21-49e4-8c32-7872fcf68e02",
+  "path": "/lib/llvm-18/include/clang-tidy/cppcoreguidelines/AvoidGotoCheck.h",
+  "size": 1437,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "02f8e928687223c7b72ee88f73be5b1dd0d7651fc0f601463502dc030bb56a43",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.905238139Z"
+}

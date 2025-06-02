@@ -1,0 +1,15 @@
+{
+  "uuid": "d75a8706-fb37-47f5-bf96-98dd22c5bba8",
+  "path": "/usr/bin/ssh-agent",
+  "size": 309688,
+  "modified": "2025-04-22T11:51:46Z",
+  "created": "2025-05-09T05:11:28.348105466Z",
+  "sha256_hash": "db0390302f110c4a0934c22085afdbb4d931eae9414e338b1de1c2c7242b54c7",
+  "file_type": "Executable",
+  "permissions": 34285,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.292669934Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "28dc30bc-5f4b-4131-8590-18f809a56354",
+  "path": "/usr/lib/firmware/rtlwifi/rtl8188eufw.bin.zst",
+  "size": 9967,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.067534402Z",
+  "sha256_hash": "b5c933b438deef8f4219f80c2ac971c4140346bed334f60b34b7d0c5a8493222",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.509813191Z"
+}

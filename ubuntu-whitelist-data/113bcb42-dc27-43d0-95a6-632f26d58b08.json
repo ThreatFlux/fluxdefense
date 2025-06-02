@@ -1,0 +1,15 @@
+{
+  "uuid": "113bcb42-dc27-43d0-95a6-632f26d58b08",
+  "path": "/usr/lib/x86_64-linux-gnu/ModemManager/libmm-shared-icera.so",
+  "size": 67832,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.161664505Z",
+  "sha256_hash": "51e812c51762add2546af6f6d2f0524113e7cc8b20e1bd5868d0b98e938f96fd",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.078356967Z"
+}

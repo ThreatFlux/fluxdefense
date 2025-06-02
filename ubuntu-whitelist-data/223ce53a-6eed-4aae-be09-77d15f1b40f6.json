@@ -1,0 +1,17 @@
+{
+  "uuid": "223ce53a-6eed-4aae-be09-77d15f1b40f6",
+  "path": "/usr/lib/x86_64-linux-gnu/libinih.so.55",
+  "size": 14360,
+  "modified": "2024-04-08T16:04:39Z",
+  "created": "2025-05-09T05:07:30.561734699Z",
+  "sha256_hash": "cba15bc5d7a9570a5e0adfa3b5c5a48184038b0b84cedb9a804df63aafda8c89",
+  "file_type": {
+    "Other": "55"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.115098073Z"
+}

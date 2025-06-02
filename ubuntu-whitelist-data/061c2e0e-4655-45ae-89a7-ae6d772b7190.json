@@ -1,0 +1,17 @@
+{
+  "uuid": "061c2e0e-4655-45ae-89a7-ae6d772b7190",
+  "path": "/lib/systemd/system/fprintd.service",
+  "size": 900,
+  "modified": "2024-04-04T01:58:13Z",
+  "created": "2025-05-09T05:07:28.299769216Z",
+  "sha256_hash": "75f7d0575d982d37e3e10510688180a5ac6abf64a95aa0e70f25404516214ec7",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.132488528Z"
+}

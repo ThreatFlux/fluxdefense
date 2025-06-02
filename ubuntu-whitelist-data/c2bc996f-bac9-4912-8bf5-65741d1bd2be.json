@@ -1,0 +1,17 @@
+{
+  "uuid": "c2bc996f-bac9-4912-8bf5-65741d1bd2be",
+  "path": "/lib/systemd/system/systemd-coredump@.service.d/apport-coredump-hook.conf",
+  "size": 49,
+  "modified": "2024-04-18T12:31:35Z",
+  "created": "2025-05-30T21:04:52.101603322Z",
+  "sha256_hash": "d025d2395f1d5f0e9fc183b39db11dd5f121740fd818fc2333ed5ca4a39dbfaa",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.122693114Z"
+}

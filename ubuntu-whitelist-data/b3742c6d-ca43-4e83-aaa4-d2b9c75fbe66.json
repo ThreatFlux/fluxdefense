@@ -1,0 +1,15 @@
+{
+  "uuid": "b3742c6d-ca43-4e83-aaa4-d2b9c75fbe66",
+  "path": "/usr/bin/obexctl",
+  "size": 96656,
+  "modified": "2025-02-25T06:11:15Z",
+  "created": "2025-05-09T05:24:15.925810275Z",
+  "sha256_hash": "2ccf75a072241edc771ecd1d5c73c8af42cd13fe8aba7e632d46afd5a7ad651d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:13.219373918Z"
+}

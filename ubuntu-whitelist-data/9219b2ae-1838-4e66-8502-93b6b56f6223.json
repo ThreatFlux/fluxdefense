@@ -1,0 +1,15 @@
+{
+  "uuid": "9219b2ae-1838-4e66-8502-93b6b56f6223",
+  "path": "/usr/bin/sudo",
+  "size": 277936,
+  "modified": "2024-04-08T14:50:39Z",
+  "created": "2025-05-09T05:07:20.646885995Z",
+  "sha256_hash": "e5c87bb7cefefe2a6281ecc6f29e677240230eb8d04f92ba6a7513876b6d024f",
+  "file_type": "Executable",
+  "permissions": 35309,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.870787504Z"
+}

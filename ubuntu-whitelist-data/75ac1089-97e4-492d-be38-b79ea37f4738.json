@@ -1,0 +1,17 @@
+{
+  "uuid": "75ac1089-97e4-492d-be38-b79ea37f4738",
+  "path": "/usr/lib/google-cloud-sdk/.install/anthoscli.snapshot.json",
+  "size": 1146,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:05:46.740273669Z",
+  "sha256_hash": "d134e068c63bbb776f57e701cb150daaee05bd471e38e9f8b29ac6eb931fd8f5",
+  "file_type": {
+    "Other": "json"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.556012935Z"
+}

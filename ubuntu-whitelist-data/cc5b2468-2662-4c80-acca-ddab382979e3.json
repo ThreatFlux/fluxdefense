@@ -1,0 +1,15 @@
+{
+  "uuid": "cc5b2468-2662-4c80-acca-ddab382979e3",
+  "path": "/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-filter-chain.so",
+  "size": 224104,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.780860075Z",
+  "sha256_hash": "46b240108763e6715aeac3959c09625fcab155c2fc0fdb94913537cec8a5a4ca",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.892613833Z"
+}

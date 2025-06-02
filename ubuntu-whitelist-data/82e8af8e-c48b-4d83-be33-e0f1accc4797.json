@@ -1,0 +1,17 @@
+{
+  "uuid": "82e8af8e-c48b-4d83-be33-e0f1accc4797",
+  "path": "/lib/llvm-18/include/clang/Basic/DiagnosticCommonKinds.inc",
+  "size": 31504,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.527533608Z",
+  "sha256_hash": "a73b4f5d817f5472f375769c8ca3a5b624a9d9baaa5aefcdf4362d4008ccbfe0",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.121667519Z"
+}

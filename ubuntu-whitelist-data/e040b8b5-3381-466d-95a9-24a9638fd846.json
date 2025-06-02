@@ -1,0 +1,17 @@
+{
+  "uuid": "e040b8b5-3381-466d-95a9-24a9638fd846",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/s-tassta.adb",
+  "size": 72342,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.091344585Z",
+  "sha256_hash": "b90d669484ac986df415634db7dead3f097ade0ba014c23497e4941aa0069a0d",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.878681602Z"
+}

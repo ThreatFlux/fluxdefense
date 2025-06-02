@@ -1,0 +1,17 @@
+{
+  "uuid": "5646883a-b095-461c-b6bc-d81e731233a2",
+  "path": "/usr/lib/firmware/mediatek/mt7916_wm.bin.zst",
+  "size": 447706,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.680539762Z",
+  "sha256_hash": "0acc11a685780a98dd9bc3dae1f84dd7c387f75c3ef78e0d7404e02bb4e093d3",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.199131164Z"
+}

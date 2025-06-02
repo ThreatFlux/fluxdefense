@@ -1,0 +1,17 @@
+{
+  "uuid": "b281b6e4-8ff1-4750-8194-7e461f398298",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/a-ztexio.adb",
+  "size": 52736,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.064344956Z",
+  "sha256_hash": "312db6eae7ef1d464453803834daabfbaf682e57483bed3eb507dab713f1c736",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.962184615Z"
+}

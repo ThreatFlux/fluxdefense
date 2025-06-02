@@ -1,0 +1,17 @@
+{
+  "uuid": "a8746e5a-db74-40e8-9198-4efbb50bc9df",
+  "path": "/lib/grub/x86_64-efi/mdraid1x.mod",
+  "size": 2712,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.814708369Z",
+  "sha256_hash": "18bdd4a28d84564b44da8bd4172f2f311af666437b8d2ceb63cd00722b3fb1c3",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.046730172Z"
+}

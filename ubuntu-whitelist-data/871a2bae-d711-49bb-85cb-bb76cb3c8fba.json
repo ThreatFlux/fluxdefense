@@ -1,0 +1,17 @@
+{
+  "uuid": "871a2bae-d711-49bb-85cb-bb76cb3c8fba",
+  "path": "/lib/llvm-18/include/clang/Index/CommentToXML.h",
+  "size": 1322,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "100c6ca59e0b2e8c31a1a48f7480855766c0699588e7450d81d9b30dc6791862",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.934984730Z"
+}

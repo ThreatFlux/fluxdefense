@@ -1,0 +1,17 @@
+{
+  "uuid": "ee321e35-a9b1-42de-b081-1274f25f6246",
+  "path": "/usr/lib/grub/x86_64-efi/peimage.mod",
+  "size": 9672,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.838708002Z",
+  "sha256_hash": "955f08f69493d0679f6873bed60a723fd1b0f172143e2ff75cc554b9381ee4f5",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.510563830Z"
+}

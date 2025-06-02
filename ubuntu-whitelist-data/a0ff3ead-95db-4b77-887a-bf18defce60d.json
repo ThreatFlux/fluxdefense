@@ -1,0 +1,17 @@
+{
+  "uuid": "a0ff3ead-95db-4b77-887a-bf18defce60d",
+  "path": "/usr/lib/aspell/british-wo_accents.alias",
+  "size": 86,
+  "modified": "2020-12-08T01:19:37Z",
+  "created": "2025-05-09T05:07:21.010880441Z",
+  "sha256_hash": "e544520aba9fab245e76fbc52e1b979a366e7604b7a109dfa1581412cecc50de",
+  "file_type": {
+    "Other": "alias"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.310758405Z"
+}

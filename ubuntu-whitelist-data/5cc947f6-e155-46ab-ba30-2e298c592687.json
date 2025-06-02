@@ -1,0 +1,17 @@
+{
+  "uuid": "5cc947f6-e155-46ab-ba30-2e298c592687",
+  "path": "/usr/lib/x86_64-linux-gnu/libxatracker.so.2.5.0",
+  "size": 12167480,
+  "modified": "2024-12-16T10:17:11Z",
+  "created": "2025-05-09T05:07:35.050666198Z",
+  "sha256_hash": "50d774b4cf9d9381c4b93483f2ccf652a8966921df8d0599666c558386e61c08",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:30.166455626Z"
+}

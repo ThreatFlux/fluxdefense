@@ -1,0 +1,17 @@
+{
+  "uuid": "1c4b80c0-c49d-4441-ac63-69dea7adb7d0",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-htable.ali",
+  "size": 6490,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.138343939Z",
+  "sha256_hash": "e8f85f1bf3d49591b875fc4b9ebe8211c01ed72615dee8eeb535f17901147366",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.594724896Z"
+}

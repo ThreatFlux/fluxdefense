@@ -1,0 +1,15 @@
+{
+  "uuid": "97153b6b-669c-40dc-b189-5083f086a336",
+  "path": "/lib/gnome-shell/libgvc.so",
+  "size": 125168,
+  "modified": "2025-04-14T09:35:20Z",
+  "created": "2025-05-21T14:13:56.577918586Z",
+  "sha256_hash": "932c6ced85099400750c4196c413718523160639555f8502bfcdf4bbc95349dc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.844532885Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a358fadd-103d-4340-bc12-66113dc630b6",
+  "path": "/usr/lib/firmware/nvidia/tu102/gsp/booter_unload-535.113.01.bin.zst",
+  "size": 18024,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.943536119Z",
+  "sha256_hash": "ca59839df5b980d8d2a4c6351b8fb96d94bd686054e5fdbe9d92d56348486402",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.307908272Z"
+}

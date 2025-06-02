@@ -1,0 +1,15 @@
+{
+  "uuid": "f3814258-88ad-4d6c-896a-b27cb17b7545",
+  "path": "/lib/x86_64-linux-gnu/org.gnome.Characters/libgc.so",
+  "size": 3039008,
+  "modified": "2024-03-31T06:05:22Z",
+  "created": "2025-05-09T05:07:36.556643217Z",
+  "sha256_hash": "f7fd459b775b840e8916d71d45ca6ae71cf76ea7dc4d894c4052402c46c98687",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.668696008Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "4047e64f-39a7-4758-aa88-f3ef23bd5308",
+  "path": "/usr/bin/timedatectl",
+  "size": 47560,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.507779278Z",
+  "sha256_hash": "a0d03c3346621a4d644216fd5bf548d7dcf249c91e62db78e8e4066c410ad872",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.454759119Z"
+}

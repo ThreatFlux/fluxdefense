@@ -1,0 +1,15 @@
+{
+  "uuid": "1c90e392-9d9c-4a58-81c3-70152bc0b8ec",
+  "path": "/bin/nvidia-cuda-mps-control",
+  "size": 54088,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:03.702994087Z",
+  "sha256_hash": "e087081e38a45e591a1f9e66cf5beb0ae41c26a2a1cfd068d5f817a3e050b025",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.366962808Z"
+}

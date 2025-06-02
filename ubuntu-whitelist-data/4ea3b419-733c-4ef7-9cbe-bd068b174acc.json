@@ -1,0 +1,17 @@
+{
+  "uuid": "4ea3b419-733c-4ef7-9cbe-bd068b174acc",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/MacroParenthesesCheck.h",
+  "size": 1668,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "42dc2c39097f11ea91c786b8a8f4f08a634e299e1ff8ec281ef206307fe68aaf",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.238936114Z"
+}

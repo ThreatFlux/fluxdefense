@@ -1,0 +1,15 @@
+{
+  "uuid": "e7c3c5ad-6c83-4d26-8919-876de856ac30",
+  "path": "/usr/lib/cups/filter/rastertobrlaser",
+  "size": 39160,
+  "modified": "2024-03-31T08:43:13Z",
+  "created": "2025-05-09T05:07:21.358875130Z",
+  "sha256_hash": "9a65d5896e222ae433783a6b1f21fa94116376bf0b60740bc672a0b3246048f8",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.998529197Z"
+}

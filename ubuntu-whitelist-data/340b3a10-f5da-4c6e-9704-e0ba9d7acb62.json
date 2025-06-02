@@ -1,0 +1,17 @@
+{
+  "uuid": "340b3a10-f5da-4c6e-9704-e0ba9d7acb62",
+  "path": "/lib/udev/rules.d/69-libmtp.rules",
+  "size": 1945,
+  "modified": "2024-03-31T02:08:07Z",
+  "created": "2025-05-09T05:07:28.436767125Z",
+  "sha256_hash": "3a4987923b21dcf691e3af478f8f4fd0f839f4e500bd36b9d7e309f808339665",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.249381531Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "67f58d60-7195-42bc-bb77-39d3a3c07685",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/s-taenca.adb",
+  "size": 20890,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.090344599Z",
+  "sha256_hash": "e3a34a3bcb823cf2e2243e052e9afb7f032011375e4bf904818da72ccdd3a18f",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.060909164Z"
+}

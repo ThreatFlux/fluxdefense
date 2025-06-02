@@ -1,0 +1,17 @@
+{
+  "uuid": "6da49c7a-5c1a-4808-9cf7-14af32fdc042",
+  "path": "/lib/systemd/system-sleep/unattended-upgrades",
+  "size": 219,
+  "modified": "2024-02-12T17:50:35Z",
+  "created": "2025-05-09T05:07:28.297769246Z",
+  "sha256_hash": "e2d37e96c3640b5e673b3140da52fc59f4ac21a3a7448c124af7bea13e247cc7",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.096902380Z"
+}

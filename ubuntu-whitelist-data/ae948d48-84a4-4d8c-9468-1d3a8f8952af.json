@@ -1,0 +1,15 @@
+{
+  "uuid": "ae948d48-84a4-4d8c-9468-1d3a8f8952af",
+  "path": "/lib/python3/dist-packages/cloudinit/config/cc_ntp.py",
+  "size": 19426,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.235037163Z",
+  "sha256_hash": "60d84f68306b88df6092db2e2e77ad8b5f7cbb6b7a5a6428fc7a1072045a8fed",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.913224778Z"
+}

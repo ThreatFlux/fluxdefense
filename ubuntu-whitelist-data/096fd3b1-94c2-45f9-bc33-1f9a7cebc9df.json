@@ -1,0 +1,15 @@
+{
+  "uuid": "096fd3b1-94c2-45f9-bc33-1f9a7cebc9df",
+  "path": "/bin/lp",
+  "size": 26936,
+  "modified": "2024-09-26T11:15:36Z",
+  "created": "2025-05-09T05:07:20.117894067Z",
+  "sha256_hash": "8c23f43a0167d5e8147d46d0b751ab888033a78196aaf664ebbcfa133e33b8c3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.901389586Z"
+}

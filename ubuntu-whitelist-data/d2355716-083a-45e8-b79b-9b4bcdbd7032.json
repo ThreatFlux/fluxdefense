@@ -1,0 +1,15 @@
+{
+  "uuid": "d2355716-083a-45e8-b79b-9b4bcdbd7032",
+  "path": "/usr/lib/llvm-18/lib/libLLVMMSP430CodeGen.a",
+  "size": 726722,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.926462507Z",
+  "sha256_hash": "7cfed5f003de8ed86fd2226c3b110bf9bbdab8e8359ee5217e91dc7968790698",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:35.103425320Z"
+}

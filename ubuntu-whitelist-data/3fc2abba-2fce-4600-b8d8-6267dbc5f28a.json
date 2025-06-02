@@ -1,0 +1,15 @@
+{
+  "uuid": "3fc2abba-2fce-4600-b8d8-6267dbc5f28a",
+  "path": "/usr/lib/cups/filter/c2esp",
+  "size": 35136,
+  "modified": "2024-04-08T21:36:00Z",
+  "created": "2025-05-09T05:07:21.343875359Z",
+  "sha256_hash": "705e5a657f39c79f74171ac654f7e708a8746613e5b09c44d5503cff1257695c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.990731975Z"
+}

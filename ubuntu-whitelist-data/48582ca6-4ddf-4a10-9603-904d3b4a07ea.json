@@ -1,0 +1,17 @@
+{
+  "uuid": "48582ca6-4ddf-4a10-9603-904d3b4a07ea",
+  "path": "/usr/lib/firmware/cxgb4/aq1202_fw.cld.zst",
+  "size": 95398,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.512542089Z",
+  "sha256_hash": "665a0a2343f4d45d4e9dcd65f82e4a050d5ea954c847b53979b3ad2f4146cddf",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.705247926Z"
+}

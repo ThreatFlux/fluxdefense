@@ -1,0 +1,15 @@
+{
+  "uuid": "b1f780d7-0ae6-44d3-aa98-ad2c2be63b62",
+  "path": "/bin/transmission-gtk",
+  "size": 2890688,
+  "modified": "2025-02-15T08:51:38Z",
+  "created": "2025-05-09T05:07:20.755884332Z",
+  "sha256_hash": "712c78c06dfaf380188ecce51f94a66a6af80d23c0656917d1b6ed9dbb89a264",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.040768470Z"
+}

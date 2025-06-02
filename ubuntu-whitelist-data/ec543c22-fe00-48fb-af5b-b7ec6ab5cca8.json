@@ -1,0 +1,15 @@
+{
+  "uuid": "ec543c22-fe00-48fb-af5b-b7ec6ab5cca8",
+  "path": "/usr/libexec/packagekit-direct",
+  "size": 137528,
+  "modified": "2025-01-08T16:35:09Z",
+  "created": "2025-05-09T05:24:26.875952862Z",
+  "sha256_hash": "c264712b4ee38b5190d8cd4b1f2b4b7cd7666f7c5dc6983768ffecd8548013f1",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.254183045Z"
+}

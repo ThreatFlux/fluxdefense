@@ -1,0 +1,17 @@
+{
+  "uuid": "c94939f1-fba6-4413-9241-bcf825adce34",
+  "path": "/usr/lib/x86_64-linux-gnu/libutempter.so.1.2.1",
+  "size": 14416,
+  "modified": "2024-04-08T16:08:22Z",
+  "created": "2025-05-23T03:43:49.014702408Z",
+  "sha256_hash": "ee1185b2506922223bc55b1530a391ce1bdde755c204808dcf609f1465c89004",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.869403988Z"
+}

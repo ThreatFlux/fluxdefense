@@ -1,0 +1,17 @@
+{
+  "uuid": "323148c2-8829-4488-91c5-58cf2b8e4d7d",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/PerlIO/scalar.pm",
+  "size": 1069,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.519591312Z",
+  "sha256_hash": "a4205c837c331d7945f0221600ae8b4bf6ea562812c71b535ac06693de26a859",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.600738793Z"
+}

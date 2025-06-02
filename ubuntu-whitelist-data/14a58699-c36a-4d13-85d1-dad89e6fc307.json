@@ -1,0 +1,17 @@
+{
+  "uuid": "14a58699-c36a-4d13-85d1-dad89e6fc307",
+  "path": "/lib/x86_64-linux-gnu/libmnl.so.0.2.0",
+  "size": 26776,
+  "modified": "2024-04-08T16:05:22Z",
+  "created": "2025-05-09T05:07:31.353722613Z",
+  "sha256_hash": "a166aeee69e4b89b3cdb94e9b4cf1391081c1d141e19d24f1964e76990a18435",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.390912081Z"
+}

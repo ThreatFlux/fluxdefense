@@ -1,0 +1,17 @@
+{
+  "uuid": "f32537af-3fd6-45e0-bcd6-2596e5309d84",
+  "path": "/usr/lib/llvm-18/lib/cmake/llvm/CoverageReport.cmake",
+  "size": 2813,
+  "modified": "2023-03-14T08:58:24Z",
+  "created": "2025-05-12T13:34:36.684465694Z",
+  "sha256_hash": "47ab88f15262587ae101dd572f7bfe7a366dde6c255fe656940f002c26a89bfb",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:31.095837299Z"
+}

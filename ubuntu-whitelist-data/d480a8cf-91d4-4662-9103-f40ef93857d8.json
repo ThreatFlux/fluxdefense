@@ -1,0 +1,17 @@
+{
+  "uuid": "d480a8cf-91d4-4662-9103-f40ef93857d8",
+  "path": "/usr/lib/x86_64-linux-gnu/liblangtag.so.1.4.1",
+  "size": 141856,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:31.329722979Z",
+  "sha256_hash": "c0a8326b62b5b36beca60b26d620cc1d908523e62d8b4bafc4bb8f641ab71760",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.151046850Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "ed058c29-7485-4c9c-b71a-dc45924ccb8d",
+  "path": "/lib/systemd/system/cloud-init.service",
+  "size": 859,
+  "modified": "2025-04-02T15:09:15Z",
+  "created": "2025-05-09T05:24:33.233037137Z",
+  "sha256_hash": "e13dd95a7bfac6407ea1ce45ed6683c0f4e84c791840d305c937d38ae77d9456",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.106872470Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "0492c02b-c0d1-4ca5-951a-da21037124c2",
+  "path": "/lib/NetworkManager/conf.d/20-connectivity-ubuntu.conf",
+  "size": 58,
+  "modified": "2022-08-01T12:02:38Z",
+  "created": "2025-05-09T05:07:20.992880715Z",
+  "sha256_hash": "894bf5e9500961660e4fb1d4f0bbc56893e539f9e465825cb07ddccbb5ea419e",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.407131189Z"
+}

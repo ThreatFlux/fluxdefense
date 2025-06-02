@@ -1,0 +1,17 @@
+{
+  "uuid": "adf17975-5a1a-4622-9b14-f2a67b5229e7",
+  "path": "/lib/x86_64-linux-gnu/avahi/service-types.db",
+  "size": 16384,
+  "modified": "2024-04-05T10:57:26Z",
+  "created": "2025-05-09T05:07:35.182664184Z",
+  "sha256_hash": "e7127eef5e5dbef519a8ad51bed5e84b21675b42240eb2a072220731843f3b15",
+  "file_type": {
+    "Other": "db"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.431267054Z"
+}

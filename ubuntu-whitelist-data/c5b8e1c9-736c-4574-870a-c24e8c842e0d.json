@@ -1,0 +1,17 @@
+{
+  "uuid": "c5b8e1c9-736c-4574-870a-c24e8c842e0d",
+  "path": "/usr/lib/google-cloud-sdk/platform/bundledpythonunix/bin/2to3-3.12",
+  "size": 158,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.305922206Z",
+  "sha256_hash": "f48f1c0840af7b30dac604fc0cd720b882a233b9eb571677a4df108a9eeaf32c",
+  "file_type": {
+    "Other": "12"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.633536714Z"
+}

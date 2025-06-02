@@ -1,0 +1,17 @@
+{
+  "uuid": "f328cb38-8a5e-46fc-ba2a-a89e4353aa36",
+  "path": "/usr/lib/x86_64-linux-gnu/libmediaart-2.0.so.0.906.0",
+  "size": 48120,
+  "modified": "2024-03-31T02:07:31Z",
+  "created": "2025-05-09T05:07:31.344722750Z",
+  "sha256_hash": "94609b76e90e9a58ecdc2dbe6ea511d2ee2192f24683d6993222f4c359a59601",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.845134443Z"
+}

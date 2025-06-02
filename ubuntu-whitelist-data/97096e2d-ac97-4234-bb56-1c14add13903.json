@@ -1,0 +1,15 @@
+{
+  "uuid": "97096e2d-ac97-4234-bb56-1c14add13903",
+  "path": "/usr/libexec/gcc/x86_64-linux-gnu/13/gnat1",
+  "size": 35631224,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.146343830Z",
+  "sha256_hash": "dcaa86695a0be4be4ee71db0dda2d84eea13e045a405399045cf91ab716d9a06",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.113493247Z"
+}

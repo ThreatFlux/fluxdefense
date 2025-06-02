@@ -1,0 +1,17 @@
+{
+  "uuid": "4ee5f43f-c4bc-440f-97d5-6060f2b8cda5",
+  "path": "/usr/lib/x86_64-linux-gnu/libGL.so.1.7.0",
+  "size": 547136,
+  "modified": "2024-04-08T16:04:01Z",
+  "created": "2025-05-09T05:07:28.452766881Z",
+  "sha256_hash": "67f471213576d225d38347a0b6d2a08a231980685301ff6461bd74d3994e5027",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:13.951069361Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "949b05d2-3446-4c4d-9ade-23c51c594262",
+  "path": "/usr/lib/x86_64-linux-gnu/qemu/audio-jack.so",
+  "size": 22952,
+  "modified": "2025-03-13T16:15:00Z",
+  "created": "2025-05-22T16:56:49.876985843Z",
+  "sha256_hash": "70ca601e15e485edad04f7b123dba15beeb87457539489804a67257e62fafbe5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.918269017Z"
+}

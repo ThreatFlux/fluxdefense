@@ -1,0 +1,15 @@
+{
+  "uuid": "d2f39d28-e793-47e8-87eb-f3e5811ddc27",
+  "path": "/bin/xdg-dbus-proxy",
+  "size": 59544,
+  "modified": "2024-03-31T17:27:51Z",
+  "created": "2025-05-09T05:07:20.909881982Z",
+  "sha256_hash": "a1abe37e38ae2d86891223a8a3c022ba9186a24265aec375c64beb668b7fc2be",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.561540337Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "2531f545-3302-447f-a67e-2fd214db3157",
+  "path": "/usr/bin/ps",
+  "size": 146424,
+  "modified": "2024-09-26T08:44:05Z",
+  "created": "2025-05-09T05:07:20.319890985Z",
+  "sha256_hash": "8e86f498aa4aabfcea6c179d6181557140b4597f1c39bb94e2aba32158b58297",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.489439844Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "29932b46-33da-4f45-996c-a51cb8d4982a",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/DiagnosticSema.h",
+  "size": 909,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.529533581Z",
+  "sha256_hash": "a513b2d1de67a38da75baf26c7eb3d1f7da19117b048e33c3970d92cb917b29e",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.543212707Z"
+}

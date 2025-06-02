@@ -1,0 +1,17 @@
+{
+  "uuid": "9474493a-6b7e-4857-b89a-aad1938319c9",
+  "path": "/usr/lib/grub/x86_64-efi/kernel.img",
+  "size": 124224,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.811708415Z",
+  "sha256_hash": "8065287f2104eb92db61fdf03b89445a154dae5bf7e7f9d8e4c1f0831f8634bd",
+  "file_type": {
+    "Other": "img"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.457726526Z"
+}

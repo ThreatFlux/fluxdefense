@@ -1,0 +1,15 @@
+{
+  "uuid": "b4c034d2-bb32-43c1-a6c6-4e4d6f8e80e4",
+  "path": "/bin/dvipdf",
+  "size": 1007,
+  "modified": "2025-04-30T13:26:37Z",
+  "created": "2025-05-09T05:11:28.579101940Z",
+  "sha256_hash": "61d1edb71afb82fae807e88dff81727ab8e9fb4f6733891222565d55e80cc636",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:20.245215287Z"
+}

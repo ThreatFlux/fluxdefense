@@ -1,0 +1,17 @@
+{
+  "uuid": "ed472587-1682-4cd1-92d2-39a666255aea",
+  "path": "/usr/lib/dhcpcd/dhcpcd-hooks/50-ntp.conf",
+  "size": 3548,
+  "modified": "2024-05-07T10:12:01Z",
+  "created": "2025-05-09T05:07:21.655870599Z",
+  "sha256_hash": "f4593dc2f9317ae8d72adf525c800cfc63ac52a5953a43fa0f872cca548107d4",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.749106549Z"
+}

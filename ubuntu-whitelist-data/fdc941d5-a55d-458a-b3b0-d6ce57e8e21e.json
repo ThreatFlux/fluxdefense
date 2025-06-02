@@ -1,0 +1,15 @@
+{
+  "uuid": "fdc941d5-a55d-458a-b3b0-d6ce57e8e21e",
+  "path": "/sbin/grub-macbless",
+  "size": 969128,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.602711604Z",
+  "sha256_hash": "6af8b40035c28b1c3b54efa803d835fdbb606ff303ad8ec9b299a62234e2d72a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.763439586Z"
+}

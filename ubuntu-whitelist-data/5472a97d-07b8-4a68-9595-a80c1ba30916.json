@@ -1,0 +1,17 @@
+{
+  "uuid": "5472a97d-07b8-4a68-9595-a80c1ba30916",
+  "path": "/lib/firmware/intel/vsc/ivsc_skucfg_hi556_0_1.bin.zst",
+  "size": 516,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.578541175Z",
+  "sha256_hash": "f57f35e34922d4db11f224318defc55a9f9be65446aee1b162f3eabbffa19253",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.308487985Z"
+}

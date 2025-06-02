@@ -1,0 +1,15 @@
+{
+  "uuid": "c58c4d81-7244-4883-a089-87d99cda4bc7",
+  "path": "/lib/llvm-18/bin/UnicodeNameMappingGenerator",
+  "size": 51832,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.600479971Z",
+  "sha256_hash": "43b99493139fe1681195a71bb15540165a023165e835600bea680d690ca5a468",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.574475748Z"
+}

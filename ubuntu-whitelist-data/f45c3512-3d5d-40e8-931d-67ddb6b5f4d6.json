@@ -1,0 +1,17 @@
+{
+  "uuid": "f45c3512-3d5d-40e8-931d-67ddb6b5f4d6",
+  "path": "/lib/grub/x86_64-efi/ntfscomp.mod",
+  "size": 5848,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.837708018Z",
+  "sha256_hash": "42be59618546fac94659b83372523772c75d7636ce2d3ae92e5150d281cd0d02",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.024580140Z"
+}

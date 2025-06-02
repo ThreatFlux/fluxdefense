@@ -1,0 +1,15 @@
+{
+  "uuid": "625257b6-0e1f-40e2-a23c-86728a117310",
+  "path": "/usr/bin/gnome-keyring-daemon",
+  "size": 984392,
+  "modified": "2024-03-31T06:07:47Z",
+  "created": "2025-05-09T05:07:19.652901163Z",
+  "sha256_hash": "019e427b6143f96281e4bef62afbf0862dbfc09a670d89edada4ffea9d2b63c1",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:11.699047849Z"
+}

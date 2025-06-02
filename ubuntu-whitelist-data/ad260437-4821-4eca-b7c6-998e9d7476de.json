@@ -1,0 +1,15 @@
+{
+  "uuid": "ad260437-4821-4eca-b7c6-998e9d7476de",
+  "path": "/sbin/cobjnew-bpfcc",
+  "size": 53,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.520499194Z",
+  "sha256_hash": "d5a226d026d292de1b1316b98311f2853d0000f9a319ca454d83c421139b976a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.040568786Z"
+}

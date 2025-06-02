@@ -1,0 +1,17 @@
+{
+  "uuid": "ee99818b-dff5-432e-b2f3-b0f5b2088e83",
+  "path": "/usr/lib/firmware/rtlwifi/rtl8822befw.bin.zst",
+  "size": 64716,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.069534374Z",
+  "sha256_hash": "75262e8b2aaede3cda33397137cd9099a115a745116b8cb933866432b1b62b28",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.508114852Z"
+}

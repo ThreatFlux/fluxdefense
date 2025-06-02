@@ -1,0 +1,17 @@
+{
+  "uuid": "ad91de00-1e40-4f33-b64d-76250f35bfe8",
+  "path": "/lib/x86_64-linux-gnu/libicuio.so.74.2",
+  "size": 59560,
+  "modified": "2024-08-09T02:33:20Z",
+  "created": "2025-05-09T05:07:30.559734729Z",
+  "sha256_hash": "750b18b8bd63c4b60dd346de67fee24d08cc8da3dfc4cc3f709e514dc57a8493",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.903322336Z"
+}

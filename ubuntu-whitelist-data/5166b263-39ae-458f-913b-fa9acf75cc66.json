@@ -1,0 +1,17 @@
+{
+  "uuid": "5166b263-39ae-458f-913b-fa9acf75cc66",
+  "path": "/usr/lib/firmware/ea/3g_asic.fw.zst",
+  "size": 37270,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.528541867Z",
+  "sha256_hash": "a16e29deebc718ff9f451403113fb6a8196bee1c84a4fe21c85d827c61fd16e0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.650591399Z"
+}

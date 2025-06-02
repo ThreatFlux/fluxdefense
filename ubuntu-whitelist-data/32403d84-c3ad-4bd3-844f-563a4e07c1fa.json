@@ -1,0 +1,15 @@
+{
+  "uuid": "32403d84-c3ad-4bd3-844f-563a4e07c1fa",
+  "path": "/usr/lib/llvm-18/lib/libclangASTMatchers.a",
+  "size": 1846540,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.612532488Z",
+  "sha256_hash": "a72fffb64c9336d28e102c06dbd14136811b7067423694f6c98fece05c4ce731",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:34.360107822Z"
+}

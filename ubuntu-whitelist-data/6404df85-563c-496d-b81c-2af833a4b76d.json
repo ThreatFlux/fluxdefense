@@ -1,0 +1,17 @@
+{
+  "uuid": "6404df85-563c-496d-b81c-2af833a4b76d",
+  "path": "/usr/lib/x86_64-linux-gnu/librygel-server-2.8.so.0.42.5",
+  "size": 673936,
+  "modified": "2024-03-31T08:21:52Z",
+  "created": "2025-05-09T05:07:32.107711108Z",
+  "sha256_hash": "269667cfc76144baa54e7118b8f79bc0ab110829e5ca43e515d24887826c6119",
+  "file_type": {
+    "Other": "5"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.145044952Z"
+}

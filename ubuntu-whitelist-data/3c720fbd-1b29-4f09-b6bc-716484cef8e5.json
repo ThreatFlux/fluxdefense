@@ -1,0 +1,17 @@
+{
+  "uuid": "3c720fbd-1b29-4f09-b6bc-716484cef8e5",
+  "path": "/lib/x86_64-linux-gnu/libfwupd.so.2.0.0",
+  "size": 436296,
+  "modified": "2025-03-25T17:48:06Z",
+  "created": "2025-05-09T05:24:28.419973238Z",
+  "sha256_hash": "19222e19576aac2ecaca8c6d4fc604ef826de10054d2d9a8157a5aa0919a1089",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.306293551Z"
+}

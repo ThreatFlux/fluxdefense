@@ -1,0 +1,17 @@
+{
+  "uuid": "2c5179bc-db9f-4df0-90a5-36a039f7feb1",
+  "path": "/lib/grub/x86_64-efi/video_colors.mod",
+  "size": 10072,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.840707972Z",
+  "sha256_hash": "7feee713fb6da6a89fc6d3d99efd91b8adb7ae3cdf1aaf0abe94877fab62762d",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.030976002Z"
+}

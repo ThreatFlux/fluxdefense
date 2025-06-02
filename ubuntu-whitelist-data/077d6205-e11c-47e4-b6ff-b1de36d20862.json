@@ -1,0 +1,17 @@
+{
+  "uuid": "077d6205-e11c-47e4-b6ff-b1de36d20862",
+  "path": "/lib/firmware/amdgpu/vegam_vce.bin.zst",
+  "size": 88787,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.426543280Z",
+  "sha256_hash": "910543fb263d3d64cfbfaf60d608b9a12a7c2c4452152bc4e00828f910c75b9b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.903047168Z"
+}

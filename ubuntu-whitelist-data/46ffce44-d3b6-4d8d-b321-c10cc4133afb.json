@@ -1,0 +1,17 @@
+{
+  "uuid": "46ffce44-d3b6-4d8d-b321-c10cc4133afb",
+  "path": "/usr/lib/systemd/system/NetworkManager.service",
+  "size": 1477,
+  "modified": "2024-10-23T11:04:42Z",
+  "created": "2025-05-09T05:07:28.297769246Z",
+  "sha256_hash": "fb33a80bf8c78b3af004d4b294c47a0139e37742c1d0d5a6a7663c7d1f4a2b48",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.465673036Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a42df8c5-1582-461a-95a0-e1d2ba91011b",
+  "path": "/usr/lib/firmware/mediatek/mt7915_rom_patch.bin.zst",
+  "size": 58960,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.679539776Z",
+  "sha256_hash": "6ed451618510b84a5b66720c9cf6151e2d6bb6db2ae1015b256033e0e5a47948",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.245377529Z"
+}

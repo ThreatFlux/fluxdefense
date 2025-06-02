@@ -1,0 +1,17 @@
+{
+  "uuid": "2456903d-ad07-4d1c-9410-07a4e2d9c218",
+  "path": "/lib/pcrlock.d/850-sysinit.pcrlock",
+  "size": 495,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.509779304Z",
+  "sha256_hash": "eda4752d3f7e02804b92e17bf72a457af77addbf09d51b8620c9cc5c44400f4b",
+  "file_type": {
+    "Other": "pcrlock"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.397539965Z"
+}

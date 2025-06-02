@@ -1,0 +1,15 @@
+{
+  "uuid": "0cde8a9a-83cc-4707-b0c1-12b53ae217bb",
+  "path": "/sbin/biolatency-bpfcc",
+  "size": 11365,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.520499194Z",
+  "sha256_hash": "18a9da0d1ea664a34bcc4146e58b4958e6305a6da2fe45ba14bc15cddad769c6",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.129770736Z"
+}

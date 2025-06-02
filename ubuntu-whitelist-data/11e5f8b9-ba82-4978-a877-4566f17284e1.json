@@ -1,0 +1,17 @@
+{
+  "uuid": "11e5f8b9-ba82-4978-a877-4566f17284e1",
+  "path": "/usr/lib/systemd/system/systemd-tmpfiles-clean.service",
+  "size": 747,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "91c07d7c7e13eae3dfe5c475eea3df4dc12f93d00b3b6c0b4e6f3f50e8f6cccf",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.478403504Z"
+}

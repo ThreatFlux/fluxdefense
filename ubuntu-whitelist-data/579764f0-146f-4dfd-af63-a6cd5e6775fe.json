@@ -1,0 +1,17 @@
+{
+  "uuid": "579764f0-146f-4dfd-af63-a6cd5e6775fe",
+  "path": "/lib/systemd/system/man-db.timer",
+  "size": 171,
+  "modified": "2024-04-08T14:45:49Z",
+  "created": "2025-05-09T05:07:28.299769216Z",
+  "sha256_hash": "3a3a1ca2ab2c92fe74bae1257e4c666e5dd0a31f441221dfa809bc0cf6540774",
+  "file_type": {
+    "Other": "timer"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.109552289Z"
+}

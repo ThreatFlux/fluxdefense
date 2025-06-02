@@ -1,0 +1,17 @@
+{
+  "uuid": "99ce7502-67e6-404c-a3cb-8ad3046c8b19",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/CORE/mg_vtable.h",
+  "size": 10535,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.504591541Z",
+  "sha256_hash": "eaf554cdf6e7564742b9985671747d39d99fb7f54993385b4bb0737b6df65228",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.506986837Z"
+}

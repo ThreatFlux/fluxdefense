@@ -1,0 +1,17 @@
+{
+  "uuid": "c4765d26-9025-4ce5-976b-fc188fa59b79",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/gobject-2.0.pc",
+  "size": 281,
+  "modified": "2025-05-15T12:06:49Z",
+  "created": "2025-05-27T10:16:56.762744220Z",
+  "sha256_hash": "b61dbe38dc863fa7808544be8c40bc686c4e4bf5cb7199cb54a614a0fb2b86dc",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.065657743Z"
+}

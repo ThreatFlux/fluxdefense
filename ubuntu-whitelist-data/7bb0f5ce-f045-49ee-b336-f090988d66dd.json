@@ -1,0 +1,17 @@
+{
+  "uuid": "7bb0f5ce-f045-49ee-b336-f090988d66dd",
+  "path": "/usr/lib/modules/6.11.0-25-generic/kernel/crypto/sm4_generic.ko.zst",
+  "size": 2496,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.099459834Z",
+  "sha256_hash": "e5251e8f87253a3f5fd4cc69484ccd8faa78027a0093a617ef4d46d2029e0690",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.027639755Z"
+}

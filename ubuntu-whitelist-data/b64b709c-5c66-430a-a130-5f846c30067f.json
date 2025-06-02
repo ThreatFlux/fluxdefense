@@ -1,0 +1,15 @@
+{
+  "uuid": "b64b709c-5c66-430a-a130-5f846c30067f",
+  "path": "/lib/google-cloud-sdk/platform/gsutil/gslib/progress_callback.py",
+  "size": 6225,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.854929865Z",
+  "sha256_hash": "bd80c319049c81dffcfbe06b65276e4b69b70eb2d4f5eebfabf630b7f20d6ad5",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.979937302Z"
+}

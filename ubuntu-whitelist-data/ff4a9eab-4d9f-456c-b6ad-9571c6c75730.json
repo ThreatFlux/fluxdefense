@@ -1,0 +1,17 @@
+{
+  "uuid": "ff4a9eab-4d9f-456c-b6ad-9571c6c75730",
+  "path": "/lib/llvm-18/include/clang/Basic/BuiltinsWebAssembly.def",
+  "size": 11846,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.526533621Z",
+  "sha256_hash": "23b2ea2af78f9dbc3fee8acd5694721f52e8f5abe56ec4b877a50bb1c87c65dc",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.100659282Z"
+}

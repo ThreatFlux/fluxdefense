@@ -1,0 +1,17 @@
+{
+  "uuid": "f64cc6b6-fdba-40e3-b9d0-ec66c65be50e",
+  "path": "/usr/lib/firmware/amdgpu/gc_12_0_0_rlc.bin.zst",
+  "size": 48270,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.399543654Z",
+  "sha256_hash": "35ac39d9f41103223742058865444f383fd801aa410c229a71f9920df1329e23",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.937934557Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "b427713e-fa27-4495-809f-acd850cb30f6",
+  "path": "/lib/x86_64-linux-gnu/systemd/libsystemd-shared-255.so",
+  "size": 3750936,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:12.434765583Z",
+  "sha256_hash": "9c403bc419fe28bd1819a76a293d8b52b5fddb98c684c11c7604123d959cd452",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.607011006Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "8ea43e56-4bd6-4deb-a2be-5ad23f652988",
+  "path": "/usr/bin/fusermount3",
+  "size": 39296,
+  "modified": "2024-04-08T15:57:57Z",
+  "created": "2025-05-09T05:07:19.229907617Z",
+  "sha256_hash": "d278775c1528dd32efc85c2cb322423ee93aa8dcf76aaa595f7022d427910704",
+  "file_type": "Executable",
+  "permissions": 35309,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.892417272Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "c338001f-a52a-4394-ac9c-61479efa3e68",
+  "path": "/usr/lib/llvm-18/lib/libLLVMOption.a",
+  "size": 150240,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.952462165Z",
+  "sha256_hash": "9362a9f80c2bc8a5452c65c39212d8ae730f864d8b2a421e7658eebe78babbf3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:32.940624182Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "9e2f5ad0-f3f9-4c35-839a-5f04245e2f2e",
+  "path": "/lib/llvm-18/include/clang/Basic/FileSystemOptions.h",
+  "size": 924,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.530533568Z",
+  "sha256_hash": "a72fbaa91e69aa559fdc29f753a209ffeb23eecd410c69730d9baf70b2b9828e",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.084434520Z"
+}

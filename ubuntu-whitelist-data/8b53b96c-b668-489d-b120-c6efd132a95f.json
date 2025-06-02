@@ -1,0 +1,17 @@
+{
+  "uuid": "8b53b96c-b668-489d-b120-c6efd132a95f",
+  "path": "/lib/systemd/user/session.slice",
+  "size": 443,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.526779521Z",
+  "sha256_hash": "bdc0526c3ea8634e7a22410ba70a7f4a9dc51a41a8bb7ed943c9bedd3c7069ae",
+  "file_type": {
+    "Other": "slice"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.143959869Z"
+}

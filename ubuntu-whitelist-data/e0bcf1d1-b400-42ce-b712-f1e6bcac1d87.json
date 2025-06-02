@@ -1,0 +1,17 @@
+{
+  "uuid": "e0bcf1d1-b400-42ce-b712-f1e6bcac1d87",
+  "path": "/usr/lib/llvm-18/include/clang/AST/AbstractTypeWriter.h",
+  "size": 954,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.511533818Z",
+  "sha256_hash": "b4a216d538f8997ccaf04a3981e66d9e97cf730aec8e6acb95c603ea502558f7",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.319870677Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "73961ffb-b449-4f39-8c72-df6ddae9dd50",
+  "path": "/lib/evolution-data-server/camel-providers/libcamelnntp.so",
+  "size": 105408,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:21.658870553Z",
+  "sha256_hash": "f6ec149c0aeebecc2e74d443746898223927aa358162bc7938564e0978c4b2ce",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.283123268Z"
+}

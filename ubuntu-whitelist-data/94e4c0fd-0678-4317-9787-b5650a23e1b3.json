@@ -1,0 +1,17 @@
+{
+  "uuid": "94e4c0fd-0678-4317-9787-b5650a23e1b3",
+  "path": "/usr/lib/systemd/system/systemd-hostnamed.service",
+  "size": 1206,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "04065fd6ceb7603a5aa1ac0e71d88db0007c87901690d612a0c67c41d9f8632e",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.447758797Z"
+}

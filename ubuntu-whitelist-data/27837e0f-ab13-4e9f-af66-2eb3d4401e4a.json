@@ -1,0 +1,15 @@
+{
+  "uuid": "27837e0f-ab13-4e9f-af66-2eb3d4401e4a",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/CP771.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.606657714Z",
+  "sha256_hash": "d5489f61ac513831d6ae865be6525ccb49e96ed3e0f69bffdb57e121167554c5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.552730773Z"
+}

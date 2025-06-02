@@ -1,0 +1,17 @@
+{
+  "uuid": "2f30e018-f8e9-4a31-abe3-e9e55dc4a20c",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/performance/NoexceptMoveConstructorCheck.h",
+  "size": 1824,
+  "modified": "2023-06-24T20:41:17Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "2a31a1ce20a5ea88f0937f2e9d54aadedd46c975e04e7f715cb7b5a72270f2c5",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.280931613Z"
+}

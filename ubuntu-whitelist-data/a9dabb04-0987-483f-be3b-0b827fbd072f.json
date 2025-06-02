@@ -1,0 +1,17 @@
+{
+  "uuid": "a9dabb04-0987-483f-be3b-0b827fbd072f",
+  "path": "/usr/lib/systemd/system/systemd-journald-varlink@.socket",
+  "size": 605,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "3811fcb1597218d8a254db30716df5b25eac30a9c92c34e7c4b46a4ae661b654",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.453364383Z"
+}

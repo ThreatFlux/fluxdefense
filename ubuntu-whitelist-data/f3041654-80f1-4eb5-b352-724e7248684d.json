@@ -1,0 +1,15 @@
+{
+  "uuid": "f3041654-80f1-4eb5-b352-724e7248684d",
+  "path": "/usr/lib/systemd/systemd-pcrextend",
+  "size": 27272,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.523779483Z",
+  "sha256_hash": "17d9d20f1473f5a9dbfb10cd483cd29f41465951bf55f10ec15a7538d22b154a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.439945285Z"
+}

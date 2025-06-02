@@ -1,0 +1,15 @@
+{
+  "uuid": "d7f55945-6b38-4187-bb0d-37c08b36eb2f",
+  "path": "/usr/lib/python3/dist-packages/duplicity/backends/s3_boto3_backend.py",
+  "size": 10498,
+  "modified": "2025-02-15T08:51:42Z",
+  "created": "2025-05-09T05:07:26.871791006Z",
+  "sha256_hash": "a8ce44eef099b5df5a84ec5faf954b6418dbea3544ab92c95d1d0951eaf6a94a",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.652114878Z"
+}

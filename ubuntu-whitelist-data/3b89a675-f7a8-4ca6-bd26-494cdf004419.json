@@ -1,0 +1,17 @@
+{
+  "uuid": "3b89a675-f7a8-4ca6-bd26-494cdf004419",
+  "path": "/usr/lib/grub/x86_64-efi/fs.lst",
+  "size": 219,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.805708506Z",
+  "sha256_hash": "32fc7f5de8c0a5dc0b1e7eb609ca31a77eb3475539e1d97a4543dca1b9b26c57",
+  "file_type": {
+    "Other": "lst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.493067358Z"
+}

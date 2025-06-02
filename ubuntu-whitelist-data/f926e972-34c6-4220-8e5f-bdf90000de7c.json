@@ -1,0 +1,15 @@
+{
+  "uuid": "f926e972-34c6-4220-8e5f-bdf90000de7c",
+  "path": "/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-nokia.so",
+  "size": 22872,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.160664520Z",
+  "sha256_hash": "7f11d3236d860ce9bb9346bd96d4ef9719f0f14913f863dcb5c19dd7a39c89d1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.577678138Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "fb0087f1-e4ff-4bb9-9db0-d0b0aedbe03e",
+  "path": "/usr/lib/firmware/asihpi/dsp5000.bin.zst",
+  "size": 81169,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.431543211Z",
+  "sha256_hash": "e558729485417f4fd368ecf9f777d96a73ad1bf1aa4be039e4e263e1c740222a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.524630831Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "6a5b1386-f9ca-4960-b99b-6dbdff7423cd",
+  "path": "/sbin/fileslower-bpfcc",
+  "size": 7372,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "b975ae7b1489f56af03e78b98e21c8a4abe4023d75697bb0e9f90313512dc8bc",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.996200975Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "36ec2a4f-c66f-4bcd-8e2e-8cc71de0ebf0",
+  "path": "/lib/firmware/nvidia/tu102/gr/sw_veid_bundle_init.bin.zst",
+  "size": 92,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.943536119Z",
+  "sha256_hash": "a8ee413ced7eee1d5b7f2845c3baa418337e4600e2a83a35da0854e25b69d59a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.446445110Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "587ea52e-eaf2-4bb4-b46f-a156b6424836",
+  "path": "/usr/lib/grub/x86_64-efi/fixvideo.mod",
+  "size": 2920,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.805708506Z",
+  "sha256_hash": "212f02818c3decb2fc6f9ad3e9f6e84193df9819565c8adc0767ea023c81eecf",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.453744019Z"
+}

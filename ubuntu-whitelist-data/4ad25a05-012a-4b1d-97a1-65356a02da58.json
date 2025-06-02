@@ -1,0 +1,15 @@
+{
+  "uuid": "4ad25a05-012a-4b1d-97a1-65356a02da58",
+  "path": "/usr/libexec/gsd-sharing",
+  "size": 39592,
+  "modified": "2024-04-18T10:59:35Z",
+  "created": "2025-05-09T05:07:37.500628812Z",
+  "sha256_hash": "c33e48c91029141b44b5037427d02087798adc3285fbbc317498e7476a38678f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.471017518Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b143bd20-602b-45a1-864c-cff60115199f",
+  "path": "/opt/google/chrome/default-app-block",
+  "size": 482,
+  "modified": "2025-05-26T20:54:38Z",
+  "created": "2025-05-27T21:53:47.390429928Z",
+  "sha256_hash": "4980919e3ddd448e5fe1756380b3131dc2bfeb5ebfbad330087e46e70f4b9ca6",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.557392246Z"
+}

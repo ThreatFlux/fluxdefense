@@ -1,0 +1,17 @@
+{
+  "uuid": "5e30bbb7-a634-4508-b2e1-9ab280af229a",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adalib/a-strsup.ali",
+  "size": 75139,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.102344434Z",
+  "sha256_hash": "565c7cbe11fca5b1958bcdffcadf8e0f1b12b6fecdfdb1bd2e62db87b131b1d9",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.569319737Z"
+}

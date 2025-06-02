@@ -1,0 +1,15 @@
+{
+  "uuid": "536976a3-6d8b-4d1c-8c7e-cdce667b80cb",
+  "path": "/bin/dpkg-scansources",
+  "size": 9320,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T06:33:31.737357690Z",
+  "sha256_hash": "d91bb4217786e327e16f62185daf9632c8e04f5be8d251d90f00b9945b905006",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.989141209Z"
+}

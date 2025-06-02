@@ -1,0 +1,17 @@
+{
+  "uuid": "a75f836e-251f-4d5e-954d-40be3db922fb",
+  "path": "/lib/firmware/netronome/nic-sriov/nic_AMDA0097-0001_8x10.nffw.zst",
+  "size": 135602,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.901536701Z",
+  "sha256_hash": "d32047c9d1a934935b4663c38b20fa48e292a99355da153a2222557ae0048921",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.743664928Z"
+}

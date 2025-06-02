@@ -1,0 +1,17 @@
+{
+  "uuid": "9f7e6c37-a236-49a3-960b-a1698f25cf07",
+  "path": "/lib/linux-hwe-6.11-tools-6.11.0-26/perf",
+  "size": 10836696,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:32:03.149294334Z",
+  "sha256_hash": "1b8e0eef48c5c09474940242d2b8a5dbc39f95e7568b5faf00581cb2a738f375",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.429217572Z"
+}

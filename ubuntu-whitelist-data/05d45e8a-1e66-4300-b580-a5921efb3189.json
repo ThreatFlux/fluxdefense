@@ -1,0 +1,17 @@
+{
+  "uuid": "05d45e8a-1e66-4300-b580-a5921efb3189",
+  "path": "/lib/llvm-18/include/clang/Edit/FileOffset.h",
+  "size": 1662,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.542533410Z",
+  "sha256_hash": "908a63a206d016dec89709b8b4f2a9f06dfa2518b7de01d81dac66aea5e000c8",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.019982497Z"
+}

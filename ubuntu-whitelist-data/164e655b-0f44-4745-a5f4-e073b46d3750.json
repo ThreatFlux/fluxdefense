@@ -1,0 +1,17 @@
+{
+  "uuid": "164e655b-0f44-4745-a5f4-e073b46d3750",
+  "path": "/lib/llvm-18/include/clang/Sema/ExternalSemaSource.h",
+  "size": 10161,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.547533344Z",
+  "sha256_hash": "0b8c5a00b1975811f4587562f7c7be3e5ee97ea6a28c3bd5c86689e20e4dee60",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.063138206Z"
+}

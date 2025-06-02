@@ -1,0 +1,15 @@
+{
+  "uuid": "d487ac93-3c6e-41d9-81e8-e6dab9b270f2",
+  "path": "/usr/lib/x86_64-linux-gnu/libavfilter.a",
+  "size": 9112472,
+  "modified": "2024-04-05T17:28:52Z",
+  "created": "2025-05-12T13:32:32.729097707Z",
+  "sha256_hash": "32257e6a1a82c4d5ebc41b2dbb7c8e2148298c982a9e4bf5df217e1a7420ad70",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.061037811Z"
+}

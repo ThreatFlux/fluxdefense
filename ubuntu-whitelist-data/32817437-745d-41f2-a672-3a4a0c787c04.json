@@ -1,0 +1,15 @@
+{
+  "uuid": "32817437-745d-41f2-a672-3a4a0c787c04",
+  "path": "/usr/bin/ldapexop",
+  "size": 68048,
+  "modified": "2024-12-09T02:50:18Z",
+  "created": "2025-05-09T05:24:29.623989168Z",
+  "sha256_hash": "652868fbb4194741ad3b7c0f378df51661e075b22fcdaeb699bbec9740c84393",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.168471073Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "ee0007c9-4c19-4085-977d-4e8fceb81b48",
+  "path": "/lib/systemd/system/snapd.snap-repair.timer",
+  "size": 330,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.385025837Z",
+  "sha256_hash": "0b9917717923d7e3b086c0dc6873f8df59589c26e8de32749125a1ca76036480",
+  "file_type": {
+    "Other": "timer"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.108474609Z"
+}

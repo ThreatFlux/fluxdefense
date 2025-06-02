@@ -1,0 +1,15 @@
+{
+  "uuid": "69b37433-0e7f-4099-8aa3-f35b4f3608dd",
+  "path": "/bin/zstdgrep",
+  "size": 3869,
+  "modified": "2024-08-09T02:33:22Z",
+  "created": "2025-05-09T05:07:20.981880883Z",
+  "sha256_hash": "9bc769b26542ef2efa14ae29b3178b7f10639cd95544207691cb258fe06bbe17",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.279603846Z"
+}

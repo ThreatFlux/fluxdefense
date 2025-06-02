@@ -1,0 +1,15 @@
+{
+  "uuid": "5c13cc71-d6d9-4919-beb7-d41129247d54",
+  "path": "/lib/x86_64-linux-gnu/rsyslog/mmjsonparse.so",
+  "size": 18792,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.547922264Z",
+  "sha256_hash": "87445ab8d019a7e203b715b55fc2f669998f44e62bcb891ea03e1efc99789e2c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.860686319Z"
+}

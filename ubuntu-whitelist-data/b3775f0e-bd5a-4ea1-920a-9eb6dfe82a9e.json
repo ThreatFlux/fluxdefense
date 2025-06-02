@@ -1,0 +1,15 @@
+{
+  "uuid": "b3775f0e-bd5a-4ea1-920a-9eb6dfe82a9e",
+  "path": "/usr/lib/libreoffice/program/libmergedlo.so",
+  "size": 88532736,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:19.862235Z",
+  "sha256_hash": "4c59e2ed8a514655f6797ca29d7e04552ac3e01587ce0ca147aafb255ac477cd",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:44.880652583Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "530f0ed2-3736-48d6-ac84-3eb7a3974319",
+  "path": "/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-ipa.so",
+  "size": 15320,
+  "modified": "2025-01-27T19:56:56Z",
+  "created": "2025-05-09T05:24:16.537818153Z",
+  "sha256_hash": "0ddceb6784f419f6ce92622e5d5091eafb94d14e696c919d8eda43612ba084f8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.212208842Z"
+}

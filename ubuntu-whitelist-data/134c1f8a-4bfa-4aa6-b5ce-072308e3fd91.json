@@ -1,0 +1,17 @@
+{
+  "uuid": "134c1f8a-4bfa-4aa6-b5ce-072308e3fd91",
+  "path": "/usr/lib/firmware/ath6k/AR6004/hw1.3/fw-3.bin.zst",
+  "size": 44287,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.475542602Z",
+  "sha256_hash": "83cc1195403a292b54744c09f313e25f43881c0f3e51f6140e50d07fbbdc11f6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.543759738Z"
+}

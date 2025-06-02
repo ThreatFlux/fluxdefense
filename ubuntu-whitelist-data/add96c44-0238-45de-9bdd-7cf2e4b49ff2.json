@@ -1,0 +1,15 @@
+{
+  "uuid": "add96c44-0238-45de-9bdd-7cf2e4b49ff2",
+  "path": "/usr/lib/pppd/2.4.9/winbind.so",
+  "size": 22840,
+  "modified": "2024-04-03T17:56:59Z",
+  "created": "2025-05-09T05:07:25.899805838Z",
+  "sha256_hash": "725998b9dc3bd9081f9156bc9be736b445e28dc1d0ef7d67ab48a624cef186ea",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.354346568Z"
+}

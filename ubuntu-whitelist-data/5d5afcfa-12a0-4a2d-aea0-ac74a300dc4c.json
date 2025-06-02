@@ -1,0 +1,17 @@
+{
+  "uuid": "5d5afcfa-12a0-4a2d-aea0-ac74a300dc4c",
+  "path": "/lib/x86_64-linux-gnu/librhythmbox-core.so.10.0.0",
+  "size": 1563960,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:32.071711657Z",
+  "sha256_hash": "59068abce35114b5e083efc21e9b701b68041d282ca8704a30f4741e8c5af129",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.250834741Z"
+}

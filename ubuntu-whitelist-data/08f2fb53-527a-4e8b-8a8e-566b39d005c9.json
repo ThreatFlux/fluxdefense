@@ -1,0 +1,17 @@
+{
+  "uuid": "08f2fb53-527a-4e8b-8a8e-566b39d005c9",
+  "path": "/lib/x86_64-linux-gnu/libvte-2.91.so.0.7600.0",
+  "size": 592368,
+  "modified": "2024-06-12T14:26:41Z",
+  "created": "2025-05-09T05:07:32.401706621Z",
+  "sha256_hash": "39da50a5bf2ca0a22437d358927986c5e645c248b5d6ddbfbde0f2c4d34e22a2",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.277687204Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a8e70e7c-e90c-4d26-9877-1e50bff37a0c",
+  "path": "/usr/lib/systemd/system/brltty-udev.service",
+  "size": 429,
+  "modified": "2023-10-01T23:25:04Z",
+  "created": "2025-05-09T05:07:28.297769246Z",
+  "sha256_hash": "f2d38d7171680745e7d6fa427853f94c361c0da1f15017e7b05891232a476b4f",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.447433051Z"
+}

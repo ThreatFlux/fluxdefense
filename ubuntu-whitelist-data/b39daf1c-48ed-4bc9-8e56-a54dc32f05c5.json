@@ -1,0 +1,15 @@
+{
+  "uuid": "b39daf1c-48ed-4bc9-8e56-a54dc32f05c5",
+  "path": "/usr/libexec/gvfsd-archive",
+  "size": 39224,
+  "modified": "2024-04-18T13:39:03Z",
+  "created": "2025-05-09T05:07:37.507628705Z",
+  "sha256_hash": "64d96152b5b7c7daf12d01b7d8c1ab691ebccd65ffb55ee0766d8241793bbfdc",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.208385762Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "1ee81e52-6622-41a7-b4f8-7b2444a14a78",
+  "path": "/usr/sbin/cpudist-bpfcc",
+  "size": 7013,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.520499194Z",
+  "sha256_hash": "fe3ecb2838a7989951531d4f1d1221ed935feeb39bf4f73ddec2e01d08e89d1d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.258323030Z"
+}

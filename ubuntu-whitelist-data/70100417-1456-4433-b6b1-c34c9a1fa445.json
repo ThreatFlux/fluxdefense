@@ -1,0 +1,17 @@
+{
+  "uuid": "70100417-1456-4433-b6b1-c34c9a1fa445",
+  "path": "/lib/firmware/cavium/cnn55xx_ae.fw.zst",
+  "size": 10252,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.490542394Z",
+  "sha256_hash": "c99b34dfafd1d00317e8d1d1103bf8ff9972c533cec0c825f595626d63f37bdf",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.566741948Z"
+}

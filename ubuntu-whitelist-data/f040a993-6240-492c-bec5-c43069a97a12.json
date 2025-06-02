@@ -1,0 +1,17 @@
+{
+  "uuid": "f040a993-6240-492c-bec5-c43069a97a12",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/modernize/MacroToEnumCheck.h",
+  "size": 1416,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "b98451637ecff1489cda48133dc11480791102be445fc444e242fc89bd797ce3",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.258668094Z"
+}

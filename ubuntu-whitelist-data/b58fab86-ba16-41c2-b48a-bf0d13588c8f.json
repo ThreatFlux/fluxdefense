@@ -1,0 +1,17 @@
+{
+  "uuid": "b58fab86-ba16-41c2-b48a-bf0d13588c8f",
+  "path": "/lib/firmware/intel/sof-tplg/sof-bdw-rt5677.tplg.zst",
+  "size": 1058,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.057490999Z",
+  "sha256_hash": "241e93ea384a1ba35f57ab2a798b5c0224bd31f0163b478d75e417a08fee21cd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.224991800Z"
+}

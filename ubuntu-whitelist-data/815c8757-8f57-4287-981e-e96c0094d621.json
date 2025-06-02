@@ -1,0 +1,15 @@
+{
+  "uuid": "815c8757-8f57-4287-981e-e96c0094d621",
+  "path": "/bin/dpkg-buildpackage",
+  "size": 35017,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T06:33:31.736357711Z",
+  "sha256_hash": "f1a04680031ada877a331bf744aea7ed1cb32ebac24914c7d0b9f5a0267b0d1d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.283495314Z"
+}

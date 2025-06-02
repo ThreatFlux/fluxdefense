@@ -1,0 +1,15 @@
+{
+  "uuid": "6efa9827-d334-4142-8da6-ada6ad8cc33a",
+  "path": "/usr/bin/qpdldecode",
+  "size": 23144,
+  "modified": "2024-04-10T21:38:27Z",
+  "created": "2025-05-09T05:07:20.375890130Z",
+  "sha256_hash": "a07f29d9928fe425bbcb3151be9f2df86474b46821049d99c71a5152f2c4ebaa",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.347642861Z"
+}

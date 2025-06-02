@@ -1,0 +1,15 @@
+{
+  "uuid": "9fd84b6f-eeb3-48c9-b803-2cc6d8ffa301",
+  "path": "/lib/python3/dist-packages/cloudinit/sources/DataSourceAltCloud.py",
+  "size": 8622,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.241037243Z",
+  "sha256_hash": "5c9968e2fd94bbb85186e96f5c97d2198366ca4f6fea729cea438f85e4b5ebc4",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.896808859Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "b8364ea5-6329-4eab-9b11-5ab1e898437d",
+  "path": "/lib/x86_64-linux-gnu/tracker-miners-3.0/extract-modules/libextract-epub.so",
+  "size": 39144,
+  "modified": "2024-03-31T17:20:13Z",
+  "created": "2025-05-09T05:07:37.309631727Z",
+  "sha256_hash": "628074f573f3c9df9f9eac5cd44390a30889a75d438bd1f3328d29da271a2469",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.708701953Z"
+}

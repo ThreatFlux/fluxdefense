@@ -1,0 +1,15 @@
+{
+  "uuid": "7d52c7ff-c7c3-4c12-a37b-985438d59653",
+  "path": "/usr/lib/llvm-18/lib/libLLVMWebAssemblyInfo.a",
+  "size": 16234,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.058460769Z",
+  "sha256_hash": "972228faae470922c783147bb4a67883b4232db7f3bf36c180015c51f039f336",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:29.387006614Z"
+}

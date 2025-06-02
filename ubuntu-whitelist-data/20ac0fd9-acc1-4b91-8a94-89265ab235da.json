@@ -1,0 +1,17 @@
+{
+  "uuid": "20ac0fd9-acc1-4b91-8a94-89265ab235da",
+  "path": "/usr/lib/systemd/user/filter-chain.service",
+  "size": 451,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.623858040Z",
+  "sha256_hash": "72baca9f9f13887086c6260ee6c12fe5e2e8f6e393a3e47b02cbc9fc5ef9cb97",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.497964286Z"
+}

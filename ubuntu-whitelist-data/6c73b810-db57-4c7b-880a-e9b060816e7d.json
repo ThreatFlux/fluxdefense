@@ -1,0 +1,17 @@
+{
+  "uuid": "6c73b810-db57-4c7b-880a-e9b060816e7d",
+  "path": "/usr/lib/grub/x86_64-efi/geli.mod",
+  "size": 8840,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.808708460Z",
+  "sha256_hash": "84894fe1c801c10bfaab3d1db4d88889e3828a7101357291ffd6359ab8bdc809",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.479019299Z"
+}

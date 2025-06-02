@@ -1,0 +1,15 @@
+{
+  "uuid": "4fdb9090-c164-42f4-9a27-1888d4c4341b",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstwavparse.so",
+  "size": 76112,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.777655105Z",
+  "sha256_hash": "db88e3c24577304c6dfcc42e31b953eb5cec3e40d80eddc73c60ef7e747a8dd5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.113671970Z"
+}

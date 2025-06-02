@@ -1,0 +1,17 @@
+{
+  "uuid": "65bbd8ba-9a64-45b3-9fd2-1721264b930a",
+  "path": "/lib/systemd/system/plymouth-reboot.service",
+  "size": 477,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:27.491960985Z",
+  "sha256_hash": "d044fb65212956a13d1c0b533fef01fec8075c951b56c4d5b7edb8c533ba39c7",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.112689302Z"
+}

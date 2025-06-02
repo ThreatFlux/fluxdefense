@@ -1,0 +1,17 @@
+{
+  "uuid": "0d9da25b-ea79-44b0-9af3-eedc2ac59544",
+  "path": "/usr/lib/firmware/skl_hda_dsp_generic-tplg.bin",
+  "size": 67152,
+  "modified": "2021-09-15T11:48:11Z",
+  "created": "2025-05-09T05:07:21.682870186Z",
+  "sha256_hash": "9db7ccea4edb16bebff53ea4c99d953ec862db951fb6f2ec90c3e81ee6083bab",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.603948806Z"
+}

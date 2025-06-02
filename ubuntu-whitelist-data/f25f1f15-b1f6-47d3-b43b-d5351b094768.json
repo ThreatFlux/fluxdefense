@@ -1,0 +1,17 @@
+{
+  "uuid": "f25f1f15-b1f6-47d3-b43b-d5351b094768",
+  "path": "/lib/systemd/user/pk-debconf-helper.service",
+  "size": 158,
+  "modified": "2025-01-08T16:35:09Z",
+  "created": "2025-05-09T05:24:26.874952849Z",
+  "sha256_hash": "53597c05acb3cbc740b1df64fa78c4bc411723436898b4b2fbbd633b5d10636f",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.139758551Z"
+}

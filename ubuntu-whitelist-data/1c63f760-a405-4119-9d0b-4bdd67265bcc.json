@@ -1,0 +1,15 @@
+{
+  "uuid": "1c63f760-a405-4119-9d0b-4bdd67265bcc",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/hcl2/__init__.py",
+  "size": 176,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.164941588Z",
+  "sha256_hash": "961ab2a7ed6b2fedf5c5fbb113475f2c1434dbebc80e8f7ab9287e4f5943f436",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.616409819Z"
+}

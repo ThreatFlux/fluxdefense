@@ -1,0 +1,17 @@
+{
+  "uuid": "ff40a656-3539-42bd-96d9-7887ac1197b1",
+  "path": "/lib/speech-dispatcher-modules/sd_openjtalk",
+  "size": 51592,
+  "modified": "2024-04-07T07:23:33Z",
+  "created": "2025-05-09T05:07:28.220770421Z",
+  "sha256_hash": "385a4254fafa829350016583a3e09c578f5fed1777f87a4b891666e63f590383",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.767843106Z"
+}

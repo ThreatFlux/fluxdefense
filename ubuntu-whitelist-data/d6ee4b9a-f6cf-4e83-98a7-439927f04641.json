@@ -1,0 +1,17 @@
+{
+  "uuid": "d6ee4b9a-f6cf-4e83-98a7-439927f04641",
+  "path": "/usr/lib/grub/x86_64-efi/minix.mod",
+  "size": 5984,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.814708369Z",
+  "sha256_hash": "75eb024c06f2dacbc71a5733c8e867813b6f11b06906bea2eb1937c7f58f1020",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.478467894Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "9f5585f3-1340-4914-9994-b0af61cd67a7",
+  "path": "/usr/lib/firmware/mediatek/mt7981_rom_patch.bin.zst",
+  "size": 4936,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.683539721Z",
+  "sha256_hash": "f1d20bee187118429cf890a612bda1bf2ee1e409647e0c9dc3bf9fb135c657a3",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.159215764Z"
+}

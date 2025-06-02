@@ -1,0 +1,15 @@
+{
+  "uuid": "c0bf5632-cd3c-4350-9f9d-d5b410af00f9",
+  "path": "/sbin/slattach",
+  "size": 36944,
+  "modified": "2025-05-28T13:23:35Z",
+  "created": "2025-05-29T10:40:06.156574722Z",
+  "sha256_hash": "486f471a5a8b4aa5ef7a2ec32fcf89d8769fbc2589a2825df44425d56ef1f470",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.003716213Z"
+}

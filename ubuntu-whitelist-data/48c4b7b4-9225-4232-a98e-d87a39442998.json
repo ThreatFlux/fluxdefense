@@ -1,0 +1,15 @@
+{
+  "uuid": "48c4b7b4-9225-4232-a98e-d87a39442998",
+  "path": "/usr/libexec/gvfsd-network",
+  "size": 39296,
+  "modified": "2024-04-18T13:39:03Z",
+  "created": "2025-05-09T05:07:37.516628568Z",
+  "sha256_hash": "c704c869625006ce7fd722d268ea0af057eaf85da4e3c7f1c0ef39df1dd5ea46",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.487519989Z"
+}

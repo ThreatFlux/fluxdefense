@@ -1,0 +1,17 @@
+{
+  "uuid": "dbce4332-b717-40c6-a5fd-8ce714e91009",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-ztinio.ali",
+  "size": 9734,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.105344393Z",
+  "sha256_hash": "9546d176b24858e87640f9e0020295e252caae5eaac19d478d9ff4c8173e9607",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.895928313Z"
+}

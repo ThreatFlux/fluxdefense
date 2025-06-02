@@ -1,0 +1,17 @@
+{
+  "uuid": "58035fde-9387-487a-a288-e33b1212b5aa",
+  "path": "/lib/udev/rules.d/90-console-setup.rules",
+  "size": 265,
+  "modified": "2024-02-26T12:58:31Z",
+  "created": "2025-05-09T05:07:28.439767079Z",
+  "sha256_hash": "01468d685ee97aecd6b66413f6bdf8ffe696ba7c65146fef842ff4fa3d814621",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.246007947Z"
+}

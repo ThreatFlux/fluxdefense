@@ -1,0 +1,17 @@
+{
+  "uuid": "f9f8f988-2901-419f-b1fe-c5dc8f24e84a",
+  "path": "/lib/x86_64-linux-gnu/samba/libtalloc-report-printf-samba4.so.0",
+  "size": 14568,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.119634626Z",
+  "sha256_hash": "5096b83afe6e915bf46d4250dc560d04a6d69ab558c69f750a833ff7c903ce3d",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.502618477Z"
+}

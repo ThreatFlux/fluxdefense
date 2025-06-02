@@ -1,0 +1,17 @@
+{
+  "uuid": "7302812f-dcd8-4355-badb-14e888071969",
+  "path": "/usr/lib/systemd/user/gnome-remote-desktop-handover.service",
+  "size": 233,
+  "modified": "2024-07-11T15:32:56Z",
+  "created": "2025-05-09T05:07:28.305769124Z",
+  "sha256_hash": "09aec76153498016fc07ca89e7ded5fa6d9a6644bf9d86efecd7fee468ac7899",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.500459447Z"
+}

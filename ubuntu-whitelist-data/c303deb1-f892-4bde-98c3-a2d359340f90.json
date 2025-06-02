@@ -1,0 +1,17 @@
+{
+  "uuid": "c303deb1-f892-4bde-98c3-a2d359340f90",
+  "path": "/lib/firmware/dvb-usb-it9135-02.fw.zst",
+  "size": 3844,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.528541867Z",
+  "sha256_hash": "2a78fbe9c2033448e96ce360fa8d95cc7dbaef9059c38805d4f0552c2ab38102",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.404418761Z"
+}

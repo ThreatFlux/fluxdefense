@@ -1,0 +1,15 @@
+{
+  "uuid": "b45baa66-1b3e-44be-9c54-341dba7254d4",
+  "path": "/usr/lib/x86_64-linux-gnu/rhythmbox/plugins/android/libandroid.so",
+  "size": 59696,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:36.982636717Z",
+  "sha256_hash": "08f3b254071464c3f974b82a17553bf7a60615d67ad1b7e3986685a6b0071a38",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.567244949Z"
+}

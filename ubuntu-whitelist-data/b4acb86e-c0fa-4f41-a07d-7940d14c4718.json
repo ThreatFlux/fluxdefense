@@ -1,0 +1,17 @@
+{
+  "uuid": "b4acb86e-c0fa-4f41-a07d-7940d14c4718",
+  "path": "/lib/systemd/catalog/systemd.pl.catalog",
+  "size": 23943,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.509779304Z",
+  "sha256_hash": "f24b36b390a3fc2b07fefd986c3ec8cef541b8b49f835632372f5cec5c4f29de",
+  "file_type": {
+    "Other": "catalog"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.186004436Z"
+}

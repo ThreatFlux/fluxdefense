@@ -1,0 +1,15 @@
+{
+  "uuid": "d368e7b8-aa95-4b16-a399-29a8269d80fa",
+  "path": "/usr/libexec/pk-gstreamer-install",
+  "size": 22680,
+  "modified": "2025-01-08T16:35:09Z",
+  "created": "2025-05-09T05:24:26.578948952Z",
+  "sha256_hash": "115b9a5a47a9d907c51dbcd3eda87cb9f6a9e62b026f9ce05d52519f3258dca8",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.111568405Z"
+}

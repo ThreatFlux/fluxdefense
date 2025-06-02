@@ -1,0 +1,15 @@
+{
+  "uuid": "a8653dcf-03b4-4ab6-b6f6-fedee20db66f",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstcompositor.so",
+  "size": 137616,
+  "modified": "2024-12-17T13:24:56Z",
+  "created": "2025-05-09T05:07:35.771655196Z",
+  "sha256_hash": "45509cfb0fffd6ff005c4e3c4e092f37129d3ef0f121eff97dffd1177520c046",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.180509082Z"
+}

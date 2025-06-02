@@ -1,0 +1,17 @@
+{
+  "uuid": "c978da05-4993-4ce0-aca8-882d6da10595",
+  "path": "/lib/llvm-18/include/clang/Basic/OpenMPKinds.def",
+  "size": 6871,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "ddbecab31dc13586e49dba62d7b60e563088ab8285d849353d3b6ddeb4237030",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.119974580Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e7596226-5453-4a28-8961-ea3f72014ea6",
+  "path": "/lib/python3.12/test/sndhdrdata/sndhdr.wav",
+  "size": 64,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.001551644Z",
+  "sha256_hash": "54e018785efc750bbbafe910f4b4e4240995b5a2143a4341dc5c1bb73151c1d8",
+  "file_type": {
+    "Other": "wav"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.533614947Z"
+}

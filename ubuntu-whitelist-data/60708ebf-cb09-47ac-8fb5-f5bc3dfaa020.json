@@ -1,0 +1,17 @@
+{
+  "uuid": "60708ebf-cb09-47ac-8fb5-f5bc3dfaa020",
+  "path": "/lib/firmware/regulatory.db.p7s",
+  "size": 1085,
+  "modified": "2025-02-28T16:29:03Z",
+  "created": "2025-05-30T21:04:55.096555831Z",
+  "sha256_hash": "4242d15defb0608b917a2c3cd0dbea21c026a4acc905093e8947dd494c2e26b1",
+  "file_type": {
+    "Other": "p7s"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.605607260Z"
+}

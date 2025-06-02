@@ -1,0 +1,17 @@
+{
+  "uuid": "66044abf-e093-4bab-bf04-404fc01665f9",
+  "path": "/usr/lib/modules/6.11.0-26-generic/kernel/crypto/chacha_generic.ko.zst",
+  "size": 3694,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.078797895Z",
+  "sha256_hash": "90fb73c3cebc706540938e5c03c9c2c5996c6be05c741fc7f55a3d16e303f6fb",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.631895188Z"
+}

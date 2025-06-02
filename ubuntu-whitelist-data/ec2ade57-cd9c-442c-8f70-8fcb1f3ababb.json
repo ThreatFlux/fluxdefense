@@ -1,0 +1,15 @@
+{
+  "uuid": "ec2ade57-cd9c-442c-8f70-8fcb1f3ababb",
+  "path": "/bin/ucfq",
+  "size": 19367,
+  "modified": "2023-01-27T13:29:51Z",
+  "created": "2025-05-09T05:07:20.816883401Z",
+  "sha256_hash": "b1e4a6d73b74e73ba6f1b2ff45093127a7f11b4e59443df43c008edb8e9f4cc8",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.234551325Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "c60c106a-c84b-4413-8ae2-3a1c691cfd9d",
+  "path": "/sbin/pidpersec-bpfcc",
+  "size": 1111,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "2881c55e1d0ebae1b985e59b9321d7c8d269a1c4cc0f752c15311cc37bb46ac2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.162708388Z"
+}

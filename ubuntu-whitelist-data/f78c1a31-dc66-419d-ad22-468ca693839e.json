@@ -1,0 +1,17 @@
+{
+  "uuid": "f78c1a31-dc66-419d-ad22-468ca693839e",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-suteio.ali",
+  "size": 6825,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.103344420Z",
+  "sha256_hash": "43aa4961048f24dbf2bfe96a7b4d03eceb1e647b50165f51bd555da58399e575",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.598051563Z"
+}

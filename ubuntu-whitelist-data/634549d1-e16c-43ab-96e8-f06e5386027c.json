@@ -1,0 +1,17 @@
+{
+  "uuid": "634549d1-e16c-43ab-96e8-f06e5386027c",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/SizeofExpressionCheck.h",
+  "size": 1435,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "a8b6d042c6b6a7cb96c29e912af08368be38abd9c4881d93e91ff7369ee203ee",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.239942796Z"
+}

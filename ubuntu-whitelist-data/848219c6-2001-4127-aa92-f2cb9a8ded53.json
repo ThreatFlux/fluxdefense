@@ -1,0 +1,15 @@
+{
+  "uuid": "848219c6-2001-4127-aa92-f2cb9a8ded53",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstvideo4linux2.so",
+  "size": 355136,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.776655120Z",
+  "sha256_hash": "d8788b47fa8bc353db0b5b5e9563064bfe03a8092d57d4615e0450b472c146ec",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.150688868Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d3f3a814-182d-4c4e-a9c7-9e5a3661329b",
+  "path": "/lib/x86_64-linux-gnu/libpkgconf.so.3.0.0",
+  "size": 69056,
+  "modified": "2024-04-08T16:15:39Z",
+  "created": "2025-05-09T12:56:02.966974709Z",
+  "sha256_hash": "519e14004c822ce83c50dadbe3f2fd1d664364bed89961da7cf5253e8c872ed8",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.675964200Z"
+}

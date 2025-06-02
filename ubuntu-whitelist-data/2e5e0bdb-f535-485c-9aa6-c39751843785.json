@@ -1,0 +1,15 @@
+{
+  "uuid": "2e5e0bdb-f535-485c-9aa6-c39751843785",
+  "path": "/lib/python3/dist-packages/cloudinit/socket.py",
+  "size": 6068,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.241037243Z",
+  "sha256_hash": "3d5d97386f7d09fb36d26fe88197f3675e6e0569ac3567d31a4f3216f26841e5",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.882265294Z"
+}

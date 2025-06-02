@@ -1,0 +1,15 @@
+{
+  "uuid": "bfba974c-3181-4d34-8f05-76a8f5d54e52",
+  "path": "/usr/lib/x86_64-linux-gnu/qemu/ui-egl-headless.so",
+  "size": 14640,
+  "modified": "2025-03-13T16:15:00Z",
+  "created": "2025-05-22T16:56:49.751987094Z",
+  "sha256_hash": "0a8bc39b5d6b936658b5fe835700ee0f822ec6b6fbd158f9a28a9b9a80639d62",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.901735376Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b367ddd4-ff1f-42d3-bb0a-2726fa6417af",
+  "path": "/lib/systemd/import-pubring.gpg",
+  "size": 9551,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:56:53.645596490Z",
+  "sha256_hash": "faa8bdde01dd587e7384511626a0fa24ac72f5f1b3b3ff73ad42476f3094d55f",
+  "file_type": {
+    "Other": "gpg"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.150332928Z"
+}

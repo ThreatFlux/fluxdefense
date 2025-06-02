@@ -1,0 +1,17 @@
+{
+  "uuid": "b1566a0c-f54a-45c6-a7b2-86906c6db56b",
+  "path": "/lib/llvm-18/include/clang/AST/DependenceFlags.h",
+  "size": 12752,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.517533740Z",
+  "sha256_hash": "c902e31b77bd34e2e36f8369413e40178a4681bcab147c6979470f1d75ffb6b0",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.006145020Z"
+}

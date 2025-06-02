@@ -1,0 +1,15 @@
+{
+  "uuid": "62c8f513-d0e1-4269-bace-d2a489488295",
+  "path": "/usr/lib/cups/filter/vectortobrf",
+  "size": 1608,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.362875070Z",
+  "sha256_hash": "43077defa546835f52c2a3f8cafc4979839160ac66b6e5ac1d2c85d6c8c9eb8b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.985410808Z"
+}

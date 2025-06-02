@@ -1,0 +1,17 @@
+{
+  "uuid": "87cede96-70ed-4592-a2b3-164cbad048b2",
+  "path": "/lib/llvm-18/include/clang/Serialization/AttrPCHWrite.inc",
+  "size": 96411,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.550533305Z",
+  "sha256_hash": "481a689c135e4e80fa29dce5ba3bb4a048af3ad872dafecb22fa08d17f40d3f2",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.025284119Z"
+}

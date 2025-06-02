@@ -1,0 +1,15 @@
+{
+  "uuid": "27acade8-fb0c-4140-ad2c-64fdc2aa11b4",
+  "path": "/bin/mokutil",
+  "size": 60904,
+  "modified": "2024-04-08T14:46:10Z",
+  "created": "2025-05-09T05:08:38.471698342Z",
+  "sha256_hash": "0ff1c00d896e95ba9ae5df2d7491153abeae95eb2bbc919ba4df38bad80798ce",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.768143279Z"
+}

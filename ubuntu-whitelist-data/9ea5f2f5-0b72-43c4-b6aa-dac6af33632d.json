@@ -1,0 +1,15 @@
+{
+  "uuid": "9ea5f2f5-0b72-43c4-b6aa-dac6af33632d",
+  "path": "/bin/nvidia-settings",
+  "size": 244088,
+  "modified": "2024-03-31T08:10:30Z",
+  "created": "2025-05-09T12:56:04.828023984Z",
+  "sha256_hash": "770cd5f5b0919eed7930276322c82a6beececb714fd7a5789f9bad766041cf60",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.438971899Z"
+}

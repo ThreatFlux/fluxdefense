@@ -1,0 +1,15 @@
+{
+  "uuid": "81be3247-b19b-4eb0-905f-5bb8be5c089a",
+  "path": "/lib/google-cloud-sdk/platform/gsutil/gslib/pubsub_api.py",
+  "size": 11440,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.849929950Z",
+  "sha256_hash": "6df146bbc698e293c422a0ccde73799ab0ce12844332d215ecd1975d86f23509",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.975848564Z"
+}

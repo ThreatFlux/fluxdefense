@@ -1,0 +1,17 @@
+{
+  "uuid": "000c6428-ffb7-4344-a645-48d0d37a0220",
+  "path": "/usr/lib/llvm-18/include/clang/Lex/DependencyDirectivesScanner.h",
+  "size": 4560,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.544533384Z",
+  "sha256_hash": "1eec4cead30442c0d5783e0c6758f4340d59f7807e6bb729a9734b2620efe389",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.619839808Z"
+}

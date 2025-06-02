@@ -1,0 +1,17 @@
+{
+  "uuid": "cf7ac5ce-1b8f-435a-8d95-a842c3bee8f8",
+  "path": "/usr/lib/firmware/radeon/MULLINS_pfp.bin.zst",
+  "size": 3293,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "e0903bcfb2af91d8980b9267e01c969121cfdbf10667c3738be65ebe5dfb96bd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.376535043Z"
+}

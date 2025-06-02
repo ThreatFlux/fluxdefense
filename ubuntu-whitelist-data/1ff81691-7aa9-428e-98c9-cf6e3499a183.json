@@ -1,0 +1,15 @@
+{
+  "uuid": "1ff81691-7aa9-428e-98c9-cf6e3499a183",
+  "path": "/lib/x86_64-linux-gnu/pkcs11/gnome-keyring-pkcs11.so",
+  "size": 72424,
+  "modified": "2024-03-31T06:07:47Z",
+  "created": "2025-05-09T05:07:36.957637099Z",
+  "sha256_hash": "c7a889ca41e36a80665348a7a49a7be93ff54a5fb2abeecf52ea1b5d410a0ddc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.416116879Z"
+}

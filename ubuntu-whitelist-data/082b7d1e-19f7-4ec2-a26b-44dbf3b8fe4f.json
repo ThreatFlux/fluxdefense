@@ -1,0 +1,17 @@
+{
+  "uuid": "082b7d1e-19f7-4ec2-a26b-44dbf3b8fe4f",
+  "path": "/lib/grub/x86_64-efi/true.mod",
+  "size": 1928,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "c76880c633984c1caba3c2c43ae4fade9b0a3c16516ffc1ddf36422833c99e2f",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.026261476Z"
+}

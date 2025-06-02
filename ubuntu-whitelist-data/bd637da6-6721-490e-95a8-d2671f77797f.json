@@ -1,0 +1,15 @@
+{
+  "uuid": "bd637da6-6721-490e-95a8-d2671f77797f",
+  "path": "/usr/lib/i386-linux-gnu/gconv/EBCDIC-DK-NO.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.272663538Z",
+  "sha256_hash": "80f0b884944c88172701a9a3f453e22a3f741c1eb211b75b34eb3bc103916845",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.932098431Z"
+}

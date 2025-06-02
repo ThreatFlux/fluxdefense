@@ -1,0 +1,15 @@
+{
+  "uuid": "2ad62045-cda3-4075-8077-5ad18ffc7d12",
+  "path": "/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/printbackends/libprintbackend-cups.so",
+  "size": 150480,
+  "modified": "2025-01-27T19:56:56Z",
+  "created": "2025-05-09T05:24:16.537818153Z",
+  "sha256_hash": "6ed8d3ba9eef25a7c784f83c420300fefcec43d95e8098fc2c61b752f41f4a40",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.217025559Z"
+}

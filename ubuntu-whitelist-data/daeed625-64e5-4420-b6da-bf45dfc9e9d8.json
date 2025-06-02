@@ -1,0 +1,15 @@
+{
+  "uuid": "daeed625-64e5-4420-b6da-bf45dfc9e9d8",
+  "path": "/usr/lib/firmware/intel-ucode/06-6a-05",
+  "size": 283648,
+  "modified": "2025-05-22T12:00:47Z",
+  "created": "2025-05-27T21:53:48.438414887Z",
+  "sha256_hash": "ec16b02ea163e8fb781b3b61b7bc58b416a7270178353a0e7aa8be6fd20ffc25",
+  "file_type": "Executable",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.187267288Z"
+}

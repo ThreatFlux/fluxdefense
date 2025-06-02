@@ -1,0 +1,17 @@
+{
+  "uuid": "564e35bf-d7bf-4c41-887d-8a20cbfc4ed4",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/libselinux.pc",
+  "size": 274,
+  "modified": "2024-10-02T12:40:52Z",
+  "created": "2025-05-13T14:30:45.617488161Z",
+  "sha256_hash": "b3246f908343f672f8a6ea4c14d769d667ebab7da6c08dfc68490fda4e01e040",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.053471553Z"
+}

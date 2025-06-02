@@ -1,0 +1,15 @@
+{
+  "uuid": "01f11ccd-ed11-4a45-90e7-8ac4d6066f46",
+  "path": "/sbin/fixparts",
+  "size": 59880,
+  "modified": "2024-03-31T05:38:03Z",
+  "created": "2025-05-09T05:07:38.197618176Z",
+  "sha256_hash": "9d2b10c9ce49113fd427463282d548369992e53901e76b009ad033cfc73b8504",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.144360271Z"
+}

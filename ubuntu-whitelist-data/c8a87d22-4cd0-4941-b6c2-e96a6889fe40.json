@@ -1,0 +1,17 @@
+{
+  "uuid": "c8a87d22-4cd0-4941-b6c2-e96a6889fe40",
+  "path": "/usr/lib/x86_64-linux-gnu/perl-base/FileHandle.pm",
+  "size": 2111,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.350578627Z",
+  "sha256_hash": "8fbf2ed47b4be67f84aa4017eec0815ba9f3bd0ab9bd2470bc5abad334bcb7e5",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.726243574Z"
+}

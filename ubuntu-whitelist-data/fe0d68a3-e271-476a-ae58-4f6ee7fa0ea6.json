@@ -1,0 +1,15 @@
+{
+  "uuid": "fe0d68a3-e271-476a-ae58-4f6ee7fa0ea6",
+  "path": "/bin/usbreset",
+  "size": 14640,
+  "modified": "2024-04-08T16:21:28Z",
+  "created": "2025-05-09T05:07:20.834883126Z",
+  "sha256_hash": "8b7b0f18a97b6bff0343c978c7c5eb0295d167c7650894dcf153f38fc65bba82",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.731609085Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f4a378cf-5654-483d-a1f6-a66dc38c7136",
+  "path": "/lib/firmware/rtlwifi/rtl8812aefw.bin.zst",
+  "size": 14051,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.069534374Z",
+  "sha256_hash": "c976199552e0353ceb8f339ea14762361dba740020b0142a650f06b9b17bbee2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.479565468Z"
+}

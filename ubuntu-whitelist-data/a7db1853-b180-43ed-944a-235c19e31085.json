@@ -1,0 +1,17 @@
+{
+  "uuid": "a7db1853-b180-43ed-944a-235c19e31085",
+  "path": "/lib/x86_64-linux-gnu/librte_ring.so.24.0",
+  "size": 14488,
+  "modified": "2024-12-18T18:31:38Z",
+  "created": "2025-05-26T20:18:25.547045706Z",
+  "sha256_hash": "6def593a36ae953c4203837b7b52f60b5b8c569d2f5e2021b6f2c093b1b4025a",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.231625326Z"
+}

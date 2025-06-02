@@ -1,0 +1,17 @@
+{
+  "uuid": "c9a91791-2bb9-4072-84ff-c58109fe0ca4",
+  "path": "/lib/x86_64-linux-gnu/perl-base/IO/Socket/INET.pm",
+  "size": 7527,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.350578627Z",
+  "sha256_hash": "77790690b3e10cf0a9bf5f0bb01bf7b3d5ac7d214eccd5efaa1be9811f241ae0",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.920688109Z"
+}

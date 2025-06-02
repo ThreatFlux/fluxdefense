@@ -1,0 +1,17 @@
+{
+  "uuid": "06058e6a-68ea-4474-8867-c4ab4ace6dfd",
+  "path": "/usr/lib/systemd/system/nm-priv-helper.service",
+  "size": 2119,
+  "modified": "2024-10-23T11:04:42Z",
+  "created": "2025-05-09T05:07:28.300769200Z",
+  "sha256_hash": "540b1c423f40e11f2e0becdc12ee3fbd193cba9bd1d5ea90fb17125179b0ad41",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.468527175Z"
+}

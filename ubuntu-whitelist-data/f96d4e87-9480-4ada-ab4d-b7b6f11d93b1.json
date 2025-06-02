@@ -1,0 +1,15 @@
+{
+  "uuid": "f96d4e87-9480-4ada-ab4d-b7b6f11d93b1",
+  "path": "/usr/bin/top",
+  "size": 134864,
+  "modified": "2024-09-26T08:44:05Z",
+  "created": "2025-05-09T05:07:20.717884912Z",
+  "sha256_hash": "6fc5a0128c67df177ac2fc87393f9bfae8b4e492ba8de79de2feddb3873ece60",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.187330852Z"
+}

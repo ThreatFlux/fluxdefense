@@ -1,0 +1,15 @@
+{
+  "uuid": "99dcfa88-7a9e-407c-9eb7-96b5ce311ed4",
+  "path": "/sbin/usb_modeswitch",
+  "size": 61096,
+  "modified": "2024-04-08T16:21:24Z",
+  "created": "2025-05-09T05:07:38.451614300Z",
+  "sha256_hash": "f29a6ef19bf48955e6037fcb9225df982a23f1dabf2b4a1bf68a9a9e05853b44",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.995046518Z"
+}

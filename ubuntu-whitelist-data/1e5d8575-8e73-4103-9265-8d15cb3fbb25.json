@@ -1,0 +1,15 @@
+{
+  "uuid": "1e5d8575-8e73-4103-9265-8d15cb3fbb25",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libxt_TEE.so",
+  "size": 14984,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.332631376Z",
+  "sha256_hash": "0bbd5dac03aeb01dc6a730a170a9316c23ce3f5526e367f9ba83c04c5f3b5d0e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.273176635Z"
+}

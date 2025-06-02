@@ -1,0 +1,17 @@
+{
+  "uuid": "3d515deb-f7bc-4bc3-9ba0-29c9ac813d6b",
+  "path": "/usr/lib/modules/6.11.0-25-generic/kernel/crypto/zstd.ko.zst",
+  "size": 4191,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.100459819Z",
+  "sha256_hash": "12f4dca563b49e8a123d7b00eb807793fca555e4b1fe8c5390d3a3276d7341e0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.036468135Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "373b6a69-97c1-4329-baf9-3257888b9acc",
+  "path": "/usr/lib/x86_64-linux-gnu/libVkLayer_INTEL_nullhw.so",
+  "size": 379360,
+  "modified": "2024-12-16T10:17:11Z",
+  "created": "2025-05-09T05:07:29.048757786Z",
+  "sha256_hash": "91a29437dd802e9fe65bad7b1c604217a6869f0c3846ef0d19dba9e2800dabb8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.709353519Z"
+}

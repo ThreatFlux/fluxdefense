@@ -1,0 +1,15 @@
+{
+  "uuid": "82b5ed49-970f-477d-89ac-70ca56eabae0",
+  "path": "/lib/x86_64-linux-gnu/traceevent/plugins/plugin_cfg80211.so",
+  "size": 13784,
+  "modified": "2024-04-03T11:46:23Z",
+  "created": "2025-05-09T05:07:37.304631803Z",
+  "sha256_hash": "5a3a7d580413bebfbd1e2b2e51a56fa79400d719f58bf22ab6693454ed3c5261",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.535096016Z"
+}

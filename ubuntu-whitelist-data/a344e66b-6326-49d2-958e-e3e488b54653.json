@@ -1,0 +1,15 @@
+{
+  "uuid": "a344e66b-6326-49d2-958e-e3e488b54653",
+  "path": "/usr/lib/python3/dist-packages/dbus/__init__.py",
+  "size": 3658,
+  "modified": "2021-10-15T08:47:26Z",
+  "created": "2025-05-09T05:07:26.805792013Z",
+  "sha256_hash": "92f7b9c7cf168e0050db87bdcbabaa4c7ea8211de298d23640c551fe5d0cb132",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.649109048Z"
+}

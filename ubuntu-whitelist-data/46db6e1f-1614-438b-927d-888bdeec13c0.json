@@ -1,0 +1,17 @@
+{
+  "uuid": "46db6e1f-1614-438b-927d-888bdeec13c0",
+  "path": "/lib/udev/rules.d/80-debian-compat.rules",
+  "size": 594,
+  "modified": "2025-02-18T17:24:37Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "a76997a57ec03550753cc9adb362e1e788fa4a845fa2ac896afb1031f70ce1e5",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.248328477Z"
+}

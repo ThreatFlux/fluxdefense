@@ -1,0 +1,17 @@
+{
+  "uuid": "78d63f63-4ca8-42c6-9de2-f450830d5805",
+  "path": "/lib/python3.12/test/decimaltestdata/dqMultiply.decTest",
+  "size": 32493,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.994551736Z",
+  "sha256_hash": "0cf9dd544e740aa467dde13541ad10c942600518cc436b1f5562bdf1be54a7d8",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.406307317Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "1e39fb94-ead8-4e8f-ab3b-1d3bebc82e4b",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstudp.so",
+  "size": 100848,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.776655120Z",
+  "sha256_hash": "7ea87e37039dae51b9d787c267da76ab164e895efb52f68317cc46aaa6bf5180",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.204176970Z"
+}

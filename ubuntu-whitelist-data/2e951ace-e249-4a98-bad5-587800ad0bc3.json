@@ -1,0 +1,17 @@
+{
+  "uuid": "2e951ace-e249-4a98-bad5-587800ad0bc3",
+  "path": "/lib/x86_64-linux-gnu/evince/4/backends/xpsdocument.evince-backend",
+  "size": 3220,
+  "modified": "2024-10-15T07:35:01Z",
+  "created": "2025-05-09T05:07:35.589657974Z",
+  "sha256_hash": "c6382b170ab633539e141197ed08b9b8b63810a9b4d8771eed04739d87101886",
+  "file_type": {
+    "Other": "evince-backend"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.709829734Z"
+}

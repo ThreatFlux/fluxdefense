@@ -1,0 +1,15 @@
+{
+  "uuid": "3fa31d03-c726-4f19-870c-f0479e8580cd",
+  "path": "/lib/google-cloud-sdk/lib/surface/backup_dr/__init__.py",
+  "size": 1238,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.721932125Z",
+  "sha256_hash": "2ecff9c6ff3dae8924465d946c20d8d54a0998c7fa2b7ebfffb8f3e829cb8d77",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.048267016Z"
+}

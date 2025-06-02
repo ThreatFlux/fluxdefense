@@ -1,0 +1,17 @@
+{
+  "uuid": "8b301bc5-2197-4958-8f54-949f412036b3",
+  "path": "/lib/x86_64-linux-gnu/samba/libmsrpc3-samba4.so.0",
+  "size": 178480,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.063635481Z",
+  "sha256_hash": "21fa8d6ab940caf8d59d8297dc17f2c50a3fa6f89d707b48aab0ad2c3731bd75",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.502400240Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "96e94d2b-c328-4995-8513-356db9ef05d6",
+  "path": "/lib/udev/rules.d/40-vm-hotadd.rules",
+  "size": 655,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:14.060786348Z",
+  "sha256_hash": "c9cbdf55ad0dfbc292c3e4789ba2e7d171fd350c08bbfe6335ba2c1d3ed527ba",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.248689841Z"
+}

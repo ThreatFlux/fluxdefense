@@ -1,0 +1,17 @@
+{
+  "uuid": "2bbc30d0-a6c7-457f-9920-6acffb001234",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-wchcnv.adb",
+  "size": 16648,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.094344544Z",
+  "sha256_hash": "9a5bf54e9a09f25ca01d5810a6f61c300def3021bc0253649ad97a6aa77b6b50",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.938338903Z"
+}

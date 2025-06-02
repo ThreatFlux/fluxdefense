@@ -1,0 +1,17 @@
+{
+  "uuid": "51b416d8-a669-46cd-a55a-1392b0d6c40c",
+  "path": "/lib/llvm-18/include/clang/Basic/arm_mve_builtin_cg.inc",
+  "size": 708608,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.533533528Z",
+  "sha256_hash": "aeec0896d5a2ddb43921150e16c438fcf6c4efa7bc7eb48f9a51c4316996aae8",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.146147383Z"
+}

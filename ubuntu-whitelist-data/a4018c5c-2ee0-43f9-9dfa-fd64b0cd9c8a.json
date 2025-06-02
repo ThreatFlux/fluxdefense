@@ -1,0 +1,17 @@
+{
+  "uuid": "a4018c5c-2ee0-43f9-9dfa-fd64b0cd9c8a",
+  "path": "/lib/firmware/amdgpu/picasso_vcn.bin.zst",
+  "size": 247826,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.407543543Z",
+  "sha256_hash": "f92de928b0e8bcb8de673508faaba6a9e67dd9b77612e425653280537ff34946",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.882324890Z"
+}

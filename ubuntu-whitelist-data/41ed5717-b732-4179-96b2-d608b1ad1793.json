@@ -1,0 +1,17 @@
+{
+  "uuid": "41ed5717-b732-4179-96b2-d608b1ad1793",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/StringLiteralWithEmbeddedNulCheck.h",
+  "size": 1293,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "00386765ac79456a4a0ab9e8015072309d4f504e6858241fc940f2b0385f1b91",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.894923504Z"
+}

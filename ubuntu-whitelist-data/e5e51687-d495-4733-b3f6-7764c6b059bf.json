@@ -1,0 +1,17 @@
+{
+  "uuid": "e5e51687-d495-4733-b3f6-7764c6b059bf",
+  "path": "/lib/x86_64-linux-gnu/samba/libgenrand-samba4.so.0",
+  "size": 18664,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.056635588Z",
+  "sha256_hash": "c399830d4dd1759d1f8d9184ecccf7063ad82651d2143f7e1b21ce802f292789",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.531350290Z"
+}

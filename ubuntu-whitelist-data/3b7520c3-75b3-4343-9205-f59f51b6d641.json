@@ -1,0 +1,15 @@
+{
+  "uuid": "3b7520c3-75b3-4343-9205-f59f51b6d641",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/MAC-IS.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.677656631Z",
+  "sha256_hash": "b67024311b939fd2b2c3d8b7d4bb0ef2c111ea1b9859451d6328af73dae64169",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.520120265Z"
+}

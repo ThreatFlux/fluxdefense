@@ -1,0 +1,17 @@
+{
+  "uuid": "d85aaa90-d720-4c09-bbc7-d8c99285582f",
+  "path": "/usr/lib/python3.12/test/decimaltestdata/xor.decTest",
+  "size": 16329,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.998551683Z",
+  "sha256_hash": "dfa2bb637db4f575a95d80381e2b757fff1747222b28a8c8eeb28ad08478e3b6",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.982517186Z"
+}

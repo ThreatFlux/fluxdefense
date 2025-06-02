@@ -1,0 +1,15 @@
+{
+  "uuid": "c00140ab-cd86-482a-afd0-d17a718c87bd",
+  "path": "/lib/x86_64-linux-gnu/libgphoto2/2.5.31/tp6801.so",
+  "size": 27144,
+  "modified": "2024-03-31T02:00:03Z",
+  "created": "2025-05-09T05:07:35.855653914Z",
+  "sha256_hash": "ddc64bce17a928a168b2a4a4215dd99a5b2a7291488e2ce3ba5f147e07b931ac",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.931794278Z"
+}

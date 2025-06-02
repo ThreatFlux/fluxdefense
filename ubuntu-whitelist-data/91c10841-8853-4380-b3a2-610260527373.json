@@ -1,0 +1,17 @@
+{
+  "uuid": "91c10841-8853-4380-b3a2-610260527373",
+  "path": "/lib/firmware/ath9k_htc/htc_9271-1.4.0.fw.zst",
+  "size": 27414,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.476542588Z",
+  "sha256_hash": "1ec4cdf426d32602034cb4731b618155911b4afc863b7e0d19407937cbd1c2a2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.505390024Z"
+}

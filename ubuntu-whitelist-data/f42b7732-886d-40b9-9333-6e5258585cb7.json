@@ -1,0 +1,17 @@
+{
+  "uuid": "f42b7732-886d-40b9-9333-6e5258585cb7",
+  "path": "/usr/lib/aspell/canadian-w_accents.alias",
+  "size": 85,
+  "modified": "2020-12-08T01:19:37Z",
+  "created": "2025-05-09T05:07:21.010880441Z",
+  "sha256_hash": "e39712ff9407506d7e98e3188c79256e821f4982afcbd332720d139bf804b533",
+  "file_type": {
+    "Other": "alias"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.302329468Z"
+}

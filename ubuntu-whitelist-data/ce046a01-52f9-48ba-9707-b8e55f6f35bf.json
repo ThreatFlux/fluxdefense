@@ -1,0 +1,17 @@
+{
+  "uuid": "ce046a01-52f9-48ba-9707-b8e55f6f35bf",
+  "path": "/lib/xorg/Xorg.wrap",
+  "size": 14488,
+  "modified": "2025-03-04T04:58:03Z",
+  "created": "2025-05-09T05:24:13.189775214Z",
+  "sha256_hash": "5538db420175925af26e80697c1ed895a44361ec0d6e526151d50034344348c3",
+  "file_type": {
+    "Other": "wrap"
+  },
+  "permissions": 36333,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.659585034Z"
+}

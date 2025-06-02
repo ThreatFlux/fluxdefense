@@ -1,0 +1,17 @@
+{
+  "uuid": "85433586-fee6-4e66-a49e-4f3d779ee6be",
+  "path": "/lib/firmware/myri10ge_rss_ethp_z8e.dat.zst",
+  "size": 108734,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.893536812Z",
+  "sha256_hash": "846051d6861ea1e5222da2c112da1c98dec893f3995ed9081f8bfe6255e179cd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:03.231442746Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "92f3e25e-e3fb-4015-ab55-82987b8af0c6",
+  "path": "/bin/sphinx-build",
+  "size": 215,
+  "modified": "2024-03-21T21:19:02Z",
+  "created": "2025-05-13T14:31:46.447298121Z",
+  "sha256_hash": "305ab49e9969f215af5b34e342a694c339f54ab71aa695d2415a5b650141c680",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.885672425Z"
+}

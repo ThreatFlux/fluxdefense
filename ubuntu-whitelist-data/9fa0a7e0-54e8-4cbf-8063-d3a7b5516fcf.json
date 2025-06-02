@@ -1,0 +1,17 @@
+{
+  "uuid": "9fa0a7e0-54e8-4cbf-8063-d3a7b5516fcf",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/xorg-wacom.pc",
+  "size": 118,
+  "modified": "2024-04-08T16:22:51Z",
+  "created": "2025-05-09T05:07:36.971636885Z",
+  "sha256_hash": "ec51d739ac8e35597d43beb9a8d0b5e7d6388de835313a15d7794b570653d0e0",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.060248299Z"
+}

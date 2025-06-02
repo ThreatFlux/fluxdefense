@@ -1,0 +1,17 @@
+{
+  "uuid": "5e2d623a-10a7-4699-822a-9d249d92f631",
+  "path": "/usr/lib/systemd/user/gvfs-gphoto2-volume-monitor.service",
+  "size": 236,
+  "modified": "2024-04-18T13:39:03Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "94596dbee34d54b6cf15e8259b2ac05ed5f88453b88a95a8d727df7abe2d3c1f",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.495966721Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "7c41d756-d456-4b05-8cf1-33341c222691",
+  "path": "/usr/lib/i386-linux-gnu/libnvidia-opticalflow.so.550.144.03",
+  "size": 46316,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:00.601913775Z",
+  "sha256_hash": "f4834139231d9997e6a7e33d95daa4e40f58be0e9cfbf4e3ea02878709f36b43",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:39.228760462Z"
+}

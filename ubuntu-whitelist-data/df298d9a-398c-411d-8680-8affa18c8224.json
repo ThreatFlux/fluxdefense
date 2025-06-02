@@ -1,0 +1,17 @@
+{
+  "uuid": "df298d9a-398c-411d-8680-8affa18c8224",
+  "path": "/usr/lib/firmware/i915/glk_dmc_ver1_04.bin.zst",
+  "size": 2533,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.537541743Z",
+  "sha256_hash": "1eed1c854fa6afe2d81bcf71b0bee20a8a0ffd13f90ca9d7096f995e53493d53",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.804034833Z"
+}

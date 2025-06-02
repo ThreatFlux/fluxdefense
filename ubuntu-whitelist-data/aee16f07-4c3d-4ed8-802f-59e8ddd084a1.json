@@ -1,0 +1,17 @@
+{
+  "uuid": "aee16f07-4c3d-4ed8-802f-59e8ddd084a1",
+  "path": "/usr/lib/firmware/ti-connectivity/wl127x-nvs.bin.zst",
+  "size": 577,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.077534263Z",
+  "sha256_hash": "5f16d5aaac3509713cf8b5920907b3940c61eebddd778d3262d8e06038172e51",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.551425808Z"
+}

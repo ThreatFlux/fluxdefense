@@ -1,0 +1,15 @@
+{
+  "uuid": "8ed7515d-5342-4ddc-92a6-1fbfb9706cce",
+  "path": "/usr/bin/dh_installifupdown",
+  "size": 1503,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.513341269Z",
+  "sha256_hash": "b51c61042517b5b7261bad567eb0436f210272e74980e97139d7d68480804b30",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:08.227659952Z"
+}

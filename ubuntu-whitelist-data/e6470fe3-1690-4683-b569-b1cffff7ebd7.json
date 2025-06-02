@@ -1,0 +1,17 @@
+{
+  "uuid": "e6470fe3-1690-4683-b569-b1cffff7ebd7",
+  "path": "/lib/llvm-18/include/clang/Serialization/InMemoryModuleCache.h",
+  "size": 3846,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.550533305Z",
+  "sha256_hash": "37bc6a30b36d46a1a8a4568ef68b8e005d6685773fbb0c13964c79f605c15965",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.027411628Z"
+}

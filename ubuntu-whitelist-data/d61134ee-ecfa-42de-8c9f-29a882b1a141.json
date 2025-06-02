@@ -1,0 +1,15 @@
+{
+  "uuid": "d61134ee-ecfa-42de-8c9f-29a882b1a141",
+  "path": "/usr/libexec/gcr4-ssh-askpass",
+  "size": 18792,
+  "modified": "2024-04-04T14:50:15Z",
+  "created": "2025-05-09T05:07:37.418630063Z",
+  "sha256_hash": "d696e360741c20fc6c7f999e4d3327a9cd35566c1fe2dd2b5919eab7fe0f7624",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.500175724Z"
+}

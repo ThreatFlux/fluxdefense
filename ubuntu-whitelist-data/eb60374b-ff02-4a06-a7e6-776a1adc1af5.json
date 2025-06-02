@@ -1,0 +1,15 @@
+{
+  "uuid": "eb60374b-ff02-4a06-a7e6-776a1adc1af5",
+  "path": "/lib/llvm-18/lib/libLLVMBOLTCore.a",
+  "size": 2255128,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.803464127Z",
+  "sha256_hash": "81fd2aca50a4aea06e0e19f928e3df775e04b7c1d08dfa8f43c4403c5e4411ec",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:40.835466012Z"
+}

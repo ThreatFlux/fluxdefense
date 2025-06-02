@@ -1,0 +1,17 @@
+{
+  "uuid": "d86ac60f-b4c2-4c9d-8494-0f947cfab1c4",
+  "path": "/usr/lib/x86_64-linux-gnu/libpgm-5.3.so.0.0.128",
+  "size": 285568,
+  "modified": "2024-03-31T07:55:33Z",
+  "created": "2025-05-09T05:09:23.470011571Z",
+  "sha256_hash": "46e1d5126ff73b9ba0c340b2cf0245d77620f85524c6fc967d533be6d19bdada",
+  "file_type": {
+    "Other": "128"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.150397378Z"
+}

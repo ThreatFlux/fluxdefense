@@ -1,0 +1,15 @@
+{
+  "uuid": "82cf94c4-0c5e-4e12-b896-f03aade18329",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/IBM862.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.650657043Z",
+  "sha256_hash": "c5b87040fe9aa8aa5032a1e0a5a85b408528323072396fb3a44261f5e83f3363",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.573765211Z"
+}

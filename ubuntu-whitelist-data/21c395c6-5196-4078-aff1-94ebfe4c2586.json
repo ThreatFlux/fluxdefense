@@ -1,0 +1,17 @@
+{
+  "uuid": "21c395c6-5196-4078-aff1-94ebfe4c2586",
+  "path": "/usr/lib/x86_64-linux-gnu/libabsl_failure_signal_handler.so.20220623.0.0",
+  "size": 19912,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.938492440Z",
+  "sha256_hash": "f6c7c627903b364d5ee323c6bacdbfd367fe83b4d21aa409f744d3725da217f3",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.627684540Z"
+}

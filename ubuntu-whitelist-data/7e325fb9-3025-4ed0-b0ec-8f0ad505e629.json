@@ -1,0 +1,17 @@
+{
+  "uuid": "7e325fb9-3025-4ed0-b0ec-8f0ad505e629",
+  "path": "/lib/grub/x86_64-efi/part_sunpc.mod",
+  "size": 2536,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.838708002Z",
+  "sha256_hash": "d9def7d8a9079e2077c15ecc467c36b7a886244b7418e654c919606c7d8630dc",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.137415781Z"
+}

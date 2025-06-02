@@ -1,0 +1,15 @@
+{
+  "uuid": "08652af5-60d5-4c0b-8cc5-43cb753a9144",
+  "path": "/lib/llvm-18/lib/libLLVMDebugInfoGSYM.a",
+  "size": 411590,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.867463284Z",
+  "sha256_hash": "a08807e3bb4f7daf3c7591e0794cf5798fe30a8e355cc80c2320d11bfe215446",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:37.981944600Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "0fbeecd3-4278-43c1-9d4d-0bf3d093cc60",
+  "path": "/usr/lib/firmware/nvidia/gp10b/acr/bl.bin.zst",
+  "size": 273,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.940536161Z",
+  "sha256_hash": "efa783366a0913068c894030cd5c09d01ad77491431635e3369c0fcc184bc3b3",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.248159043Z"
+}

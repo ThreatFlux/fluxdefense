@@ -1,0 +1,17 @@
+{
+  "uuid": "319c8650-081e-4e5a-a0a9-6cac86516a2a",
+  "path": "/lib/firmware/intel/avs/skl/dsp_basefw.bin.zst",
+  "size": 144309,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.547541604Z",
+  "sha256_hash": "98728c254f84f66b504f332af98a181b8e5cd8d14343ca42acb631af07c35cc7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.102772476Z"
+}

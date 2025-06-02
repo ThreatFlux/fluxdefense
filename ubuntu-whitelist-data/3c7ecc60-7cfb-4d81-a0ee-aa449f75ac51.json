@@ -1,0 +1,15 @@
+{
+  "uuid": "3c7ecc60-7cfb-4d81-a0ee-aa449f75ac51",
+  "path": "/lib/llvm-18/lib/libLLVMExegesisPowerPC.a",
+  "size": 39648,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.878463139Z",
+  "sha256_hash": "6b0b225de97dbe6ac54dcac49729b0d94fe5662872d1da69e838fb58e579a8a5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.262480015Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "cd488425-ffe6-4073-aa6c-aaddb7282e8a",
+  "path": "/usr/bin/smproxy",
+  "size": 27024,
+  "modified": "2024-03-31T17:26:54Z",
+  "created": "2025-05-09T05:07:20.516887979Z",
+  "sha256_hash": "91f6f405f17cf57953b86c1ce4e820566807099bf00e64384f161595318ff043",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.848784239Z"
+}

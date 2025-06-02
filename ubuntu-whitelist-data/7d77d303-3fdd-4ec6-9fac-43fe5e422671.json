@@ -1,0 +1,15 @@
+{
+  "uuid": "7d77d303-3fdd-4ec6-9fac-43fe5e422671",
+  "path": "/usr/bin/fakeroot-sysv",
+  "size": 3995,
+  "modified": "2024-01-21T16:56:06Z",
+  "created": "2025-05-09T06:33:34.273303175Z",
+  "sha256_hash": "2a63bcb741daf36f2859bb9fa6559b7e68edb5af7ac22a85ca8b0607f94a1a15",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:08.044856441Z"
+}

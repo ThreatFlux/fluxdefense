@@ -1,0 +1,15 @@
+{
+  "uuid": "9a04cff4-443a-4770-b87b-97a57b3ac343",
+  "path": "/lib/x86_64-linux-gnu/dri/libdril_dri.so",
+  "size": 104776,
+  "modified": "2024-12-16T10:17:11Z",
+  "created": "2025-05-09T05:07:35.185664138Z",
+  "sha256_hash": "0afcbf67d6fcd23c440d29d97ee0c094a4fc92e44f9c55968e3ecce55b049821",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:15.656052133Z"
+}

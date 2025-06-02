@@ -1,0 +1,15 @@
+{
+  "uuid": "afc3c7fb-a0c0-45c8-8733-fa48bc25470a",
+  "path": "/lib/x86_64-linux-gnu/tracker-miners-3.0/extract-modules/libextract-dummy.so",
+  "size": 14120,
+  "modified": "2024-03-31T17:20:13Z",
+  "created": "2025-05-09T05:07:37.309631727Z",
+  "sha256_hash": "eccb31f08f4a210825cd2ce51e3f6595422996c616b844dfeec2bf0491ec2e49",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.704932101Z"
+}

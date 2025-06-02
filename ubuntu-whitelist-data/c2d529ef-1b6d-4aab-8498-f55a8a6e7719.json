@@ -1,0 +1,17 @@
+{
+  "uuid": "c2d529ef-1b6d-4aab-8498-f55a8a6e7719",
+  "path": "/lib/systemd/systemd-quotacheck",
+  "size": 14792,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.524779496Z",
+  "sha256_hash": "d4ebc5293a8da9b86dee6e2bebe3fbb5d418d26513f0f3f67fc8975b969e433a",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.182036754Z"
+}

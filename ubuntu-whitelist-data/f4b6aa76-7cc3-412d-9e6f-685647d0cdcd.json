@@ -1,0 +1,17 @@
+{
+  "uuid": "f4b6aa76-7cc3-412d-9e6f-685647d0cdcd",
+  "path": "/usr/lib/python3.12/test/decimaltestdata/dqMinMag.decTest",
+  "size": 11649,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.993551749Z",
+  "sha256_hash": "2c79fe801a5f972461bb6055d4a3241579d1c2c9a7f5fc82f4e7aa9fd0e3865b",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.950323939Z"
+}

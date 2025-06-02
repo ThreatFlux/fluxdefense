@@ -1,0 +1,17 @@
+{
+  "uuid": "29fc2f9c-a3fd-4d2a-8819-9f71e77cb770",
+  "path": "/usr/lib/modules/6.11.0-26-generic/kernel/crypto/echainiv.ko.zst",
+  "size": 3329,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.078797895Z",
+  "sha256_hash": "136d83b01385be10ee8ed2a60b4f2d5e6107ea6eea7b7fb94c5e7eeec398a0c8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.637344273Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "058bb519-63f2-4a76-94f3-98b133aabe18",
+  "path": "/usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-adapter.so",
+  "size": 149776,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.779860062Z",
+  "sha256_hash": "34cdc357c898135068bd29eb997d56364e5bc324cc396cfc55e4ec87a46ba11b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.435884499Z"
+}

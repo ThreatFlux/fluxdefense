@@ -1,0 +1,17 @@
+{
+  "uuid": "ea6bfdba-6d45-4a75-ba09-6ae3a0a25b57",
+  "path": "/usr/lib/llvm-18/lib/cmake/llvm/UseLibtool.cmake",
+  "size": 1721,
+  "modified": "2022-01-23T00:26:57Z",
+  "created": "2025-05-12T13:34:36.685465681Z",
+  "sha256_hash": "c88d3cff98cd1cf5d2f0bd9fbf4a3af0177c7a0a37277b4335cc19923ed47d3b",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:31.098443997Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "95663992-37f5-405a-9221-302956cc3349",
+  "path": "/lib/python3/dist-packages/suricata/update/osinfo.py",
+  "size": 2370,
+  "modified": "2023-07-07T17:38:45Z",
+  "created": "2025-05-26T20:18:27.985008880Z",
+  "sha256_hash": "fdc36e783ab91c8772f4744196564e9d57d57120a75ad399fe06e010fe046465",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.362177553Z"
+}

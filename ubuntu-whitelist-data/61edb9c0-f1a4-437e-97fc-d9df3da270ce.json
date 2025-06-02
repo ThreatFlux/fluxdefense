@@ -1,0 +1,15 @@
+{
+  "uuid": "61edb9c0-f1a4-437e-97fc-d9df3da270ce",
+  "path": "/lib/llvm-18/lib/libLLVMDWARFLinkerParallel.a",
+  "size": 1076706,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.860463376Z",
+  "sha256_hash": "2b3aa56d648237740d35f271cf9847ac5eb94d58e5ced8df922798f1b04d4fc9",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.121946690Z"
+}

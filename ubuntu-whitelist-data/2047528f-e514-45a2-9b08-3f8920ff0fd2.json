@@ -1,0 +1,17 @@
+{
+  "uuid": "2047528f-e514-45a2-9b08-3f8920ff0fd2",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-strfix.adb",
+  "size": 29302,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.056345066Z",
+  "sha256_hash": "b845dea854a6b236a48e27000027fc6c92ba2805212659532c1c651ab179d7e0",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.153571561Z"
+}

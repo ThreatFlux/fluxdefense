@@ -1,0 +1,15 @@
+{
+  "uuid": "d7c77035-84bc-455b-8512-d6afc8e5bb5e",
+  "path": "/usr/lib/x86_64-linux-gnu/rhythmbox/plugins/audioscrobbler/libaudioscrobbler.so",
+  "size": 137456,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:36.986636656Z",
+  "sha256_hash": "c416d5e58e07eda12a16092a20db98979439acb147e6a2b6908fc904d79732bb",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.569082297Z"
+}

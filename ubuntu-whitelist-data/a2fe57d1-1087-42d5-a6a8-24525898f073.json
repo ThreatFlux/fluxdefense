@@ -1,0 +1,17 @@
+{
+  "uuid": "a2fe57d1-1087-42d5-a6a8-24525898f073",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/crypto/authencesn.ko.zst",
+  "size": 6349,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.078797895Z",
+  "sha256_hash": "7ab375898632cd1321f0874008bb5808fd05a5ebdd5736cc623718c39012de0e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.265028720Z"
+}

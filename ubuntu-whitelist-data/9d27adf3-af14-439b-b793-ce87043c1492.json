@@ -1,0 +1,15 @@
+{
+  "uuid": "9d27adf3-af14-439b-b793-ce87043c1492",
+  "path": "/lib/llvm-18/lib/libclangToolingASTDiff.a",
+  "size": 568890,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.910528564Z",
+  "sha256_hash": "c11e39873128f3daad0cc80cc01f50cfa2d026dca9e49763be66bd0d9f80cd02",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.051365373Z"
+}

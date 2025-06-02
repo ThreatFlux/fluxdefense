@@ -1,0 +1,15 @@
+{
+  "uuid": "fe61db5d-1aad-423f-a43c-137d5fd7de42",
+  "path": "/usr/libexec/evolution-data-server/evolution-alarm-notify",
+  "size": 51528,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:37.582627561Z",
+  "sha256_hash": "92527ea16219f513ab7cc9efb9365f40a52a6afd17658131f5dcde7720ab6c16",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.525316879Z"
+}

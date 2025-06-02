@@ -1,0 +1,17 @@
+{
+  "uuid": "63a0fd02-7da8-4036-b871-8dbb1fc7f546",
+  "path": "/lib/udev/hwdb.d/65-libwacom.hwdb",
+  "size": 58982,
+  "modified": "2024-03-31T10:29:48Z",
+  "created": "2025-05-09T05:07:28.433767171Z",
+  "sha256_hash": "2df1c0b84b51cf7e6138fa6e9c9333fe27070a9c205e1a28b3a759be082ec3f1",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.260571648Z"
+}

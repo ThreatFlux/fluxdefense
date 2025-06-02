@@ -1,0 +1,17 @@
+{
+  "uuid": "19e2f4e9-b1b6-4496-8098-ee1a2c941736",
+  "path": "/lib/snapd/snap-seccomp",
+  "size": 2380296,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.520027635Z",
+  "sha256_hash": "245f2c774f71d6ce604348a516f6e7d1ba7978a7b45b4b6a7f544d255b256620",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.099375250Z"
+}

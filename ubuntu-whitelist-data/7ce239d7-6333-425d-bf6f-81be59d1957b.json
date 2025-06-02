@@ -1,0 +1,15 @@
+{
+  "uuid": "7ce239d7-6333-425d-bf6f-81be59d1957b",
+  "path": "/usr/lib/x86_64-linux-gnu/grilo-0.3/libgrlbookmarks.so",
+  "size": 39368,
+  "modified": "2025-03-17T11:05:34Z",
+  "created": "2025-05-12T03:14:18.438811212Z",
+  "sha256_hash": "cabe7db7bfb40f3f2dfb41d83933ecf039e9b672d35bb7fb1080c3c310f4778c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.517101431Z"
+}

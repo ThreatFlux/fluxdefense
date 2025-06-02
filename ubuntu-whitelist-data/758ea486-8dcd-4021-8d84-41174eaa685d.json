@@ -1,0 +1,17 @@
+{
+  "uuid": "758ea486-8dcd-4021-8d84-41174eaa685d",
+  "path": "/usr/lib/python3.12/test/dtracedata/assert_usable.d",
+  "size": 55,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.998551683Z",
+  "sha256_hash": "e82598d4bfb28e92f2f6323226bb3d3b6c6793d6dd470ab3e649001f322eea8e",
+  "file_type": {
+    "Other": "d"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.808100142Z"
+}

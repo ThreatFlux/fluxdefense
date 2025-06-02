@@ -1,0 +1,15 @@
+{
+  "uuid": "a53dcc5b-f3ab-4d21-b64c-bd8ceaa200e7",
+  "path": "/usr/lib/llvm-18/lib/libclangDriver.a",
+  "size": 7571068,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.698531355Z",
+  "sha256_hash": "5d714df374ee2ef337991546cb1f97ce1d90c996bba64ad7313aff74bfbf6dd3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:33.849004636Z"
+}

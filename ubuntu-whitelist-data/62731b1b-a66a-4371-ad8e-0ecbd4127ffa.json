@@ -1,0 +1,17 @@
+{
+  "uuid": "62731b1b-a66a-4371-ad8e-0ecbd4127ffa",
+  "path": "/usr/lib/llvm-18/include/clang/AST/MangleNumberingContext.h",
+  "size": 2660,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.518533726Z",
+  "sha256_hash": "0de0b9ccddcf231cf9eb3efb4866432aa1c0d4af52dc942beefae1a9869a3095",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.413033323Z"
+}

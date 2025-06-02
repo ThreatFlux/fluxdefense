@@ -1,0 +1,15 @@
+{
+  "uuid": "5de19459-eebb-4ab7-8aee-3e10a376f3eb",
+  "path": "/lib/llvm-18/bin/llvm-pdbutil",
+  "size": 886928,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.064487031Z",
+  "sha256_hash": "cd601950478512922d5951175c0ed03e6710ad13e9f658cb7536af48947e6753",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.866980842Z"
+}

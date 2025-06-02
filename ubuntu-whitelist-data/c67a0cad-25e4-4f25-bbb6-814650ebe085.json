@@ -1,0 +1,17 @@
+{
+  "uuid": "c67a0cad-25e4-4f25-bbb6-814650ebe085",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/uuid.pc",
+  "size": 221,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-13T14:30:44.765504828Z",
+  "sha256_hash": "e5814dbb30b99443c3daaa7a05d9ef912d129cb552e9ce4d37b01cdeb3828c74",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.104775085Z"
+}

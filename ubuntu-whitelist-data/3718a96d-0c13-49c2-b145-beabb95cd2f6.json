@@ -1,0 +1,17 @@
+{
+  "uuid": "3718a96d-0c13-49c2-b145-beabb95cd2f6",
+  "path": "/lib/x86_64-linux-gnu/libidn.so.12.6.5",
+  "size": 211128,
+  "modified": "2024-04-08T16:04:25Z",
+  "created": "2025-05-09T05:07:30.561734699Z",
+  "sha256_hash": "6e4ac32745ab85bda9c9180adbf0f9bfd970085dce6a087ccdba45724c6fd7b1",
+  "file_type": {
+    "Other": "5"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.805122731Z"
+}

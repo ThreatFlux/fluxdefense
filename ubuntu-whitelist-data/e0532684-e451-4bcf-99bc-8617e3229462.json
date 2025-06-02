@@ -1,0 +1,17 @@
+{
+  "uuid": "e0532684-e451-4bcf-99bc-8617e3229462",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/concurrency/MtUnsafeCheck.h",
+  "size": 1306,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "b5a1b59554c302fa333df2cccf55546a5c7ea7c4379570c8c68b9a1cd035d1e5",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.271688651Z"
+}

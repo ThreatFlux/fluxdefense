@@ -1,0 +1,15 @@
+{
+  "uuid": "95424eea-54bd-40c3-8add-0c69c932c5d0",
+  "path": "/usr/sbin/unix_chkpwd",
+  "size": 31040,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:38.448614346Z",
+  "sha256_hash": "e89f4d9c1d9f2b170390c4388aa81325a507de4e7987891c8473cae4235cc9fb",
+  "file_type": "Executable",
+  "permissions": 34285,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.252008976Z"
+}

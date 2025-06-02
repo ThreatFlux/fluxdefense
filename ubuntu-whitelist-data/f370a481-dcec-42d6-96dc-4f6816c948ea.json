@@ -1,0 +1,17 @@
+{
+  "uuid": "f370a481-dcec-42d6-96dc-4f6816c948ea",
+  "path": "/lib/openssh/sftp-server",
+  "size": 88344,
+  "modified": "2025-04-22T11:51:46Z",
+  "created": "2025-05-09T06:02:55.087553535Z",
+  "sha256_hash": "0f4395782d51d890a3956a7dd23bbb73085f9deb57f414933945117b7a40ac07",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.738838828Z"
+}

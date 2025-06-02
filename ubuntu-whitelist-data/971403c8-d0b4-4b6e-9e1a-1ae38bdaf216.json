@@ -1,0 +1,17 @@
+{
+  "uuid": "971403c8-d0b4-4b6e-9e1a-1ae38bdaf216",
+  "path": "/lib/cups/driver/hplip",
+  "size": 183851,
+  "modified": "2024-03-31T07:39:41Z",
+  "created": "2025-05-09T05:07:21.076879434Z",
+  "sha256_hash": "5533fd5fb88730c47cf793e4865708d733dda68b79e9e62804272f6bfe5a1230",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.652354210Z"
+}

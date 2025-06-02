@@ -1,0 +1,17 @@
+{
+  "uuid": "6d57cf31-4aac-420e-9375-8909628a015c",
+  "path": "/usr/lib/modules/6.11.0-26-generic/kernel/lib/test_bpf.ko.zst",
+  "size": 50025,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.115797254Z",
+  "sha256_hash": "185ab9c61e2993560ead35c20fc83d075dc8b7af24493899439fa1e33dacac9b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.652583156Z"
+}

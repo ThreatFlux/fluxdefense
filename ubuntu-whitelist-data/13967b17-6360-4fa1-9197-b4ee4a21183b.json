@@ -1,0 +1,15 @@
+{
+  "uuid": "13967b17-6360-4fa1-9197-b4ee4a21183b",
+  "path": "/lib/initramfs-tools/bin/busybox",
+  "size": 330000,
+  "modified": "2024-08-13T13:42:58Z",
+  "created": "2025-05-09T05:07:21.706869820Z",
+  "sha256_hash": "836e212c2f9cbcc71abaa15fb6d5f6db8cab23fe25b2f58051c80c6bdee35cd5",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.498076924Z"
+}

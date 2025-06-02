@@ -1,0 +1,17 @@
+{
+  "uuid": "60527e42-79f8-4178-92cf-c21bed277feb",
+  "path": "/usr/lib/x86_64-linux-gnu/libxkbregistry.so.0.0.0",
+  "size": 35208,
+  "modified": "2024-04-08T16:09:59Z",
+  "created": "2025-05-09T05:07:35.153664627Z",
+  "sha256_hash": "f368dce47345415e81be57a4c1bd10f918263fbcbf809ccc71b20fe20b5f406a",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.450489966Z"
+}

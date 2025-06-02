@@ -1,0 +1,15 @@
+{
+  "uuid": "1480ef4b-1a1e-4216-b878-a040f8fc6ea0",
+  "path": "/lib/x86_64-linux-gnu/rsyslog/imfile.so",
+  "size": 65656,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.545922238Z",
+  "sha256_hash": "7e54e2f13e8fe86b41cd3ff39d37cfe4dcec350eb7cd8c012fb160e79949afec",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.852746780Z"
+}

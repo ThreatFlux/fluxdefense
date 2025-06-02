@@ -1,0 +1,17 @@
+{
+  "uuid": "db758fdf-0e3e-4675-ad01-3fef6c278086",
+  "path": "/usr/lib/firmware/iwlwifi-9000-pu-b0-jf-b0-34.ucode.zst",
+  "size": 450447,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.586541064Z",
+  "sha256_hash": "7aa5a5605548a88be314ce2bdcd4ed1ce094cf765b9acdee95a21fbcb640b295",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.528510726Z"
+}

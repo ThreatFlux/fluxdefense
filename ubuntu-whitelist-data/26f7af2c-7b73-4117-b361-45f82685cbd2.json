@@ -1,0 +1,17 @@
+{
+  "uuid": "26f7af2c-7b73-4117-b361-45f82685cbd2",
+  "path": "/lib/x86_64-linux-gnu/perl5/5.38/Glib/GenPod.pm",
+  "size": 40233,
+  "modified": "2020-06-06T05:54:25Z",
+  "created": "2025-05-09T05:07:36.873638380Z",
+  "sha256_hash": "bd50906f0a942b4304955735972d1b172e646f15152432ba3a85086b014dc50a",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.344964011Z"
+}

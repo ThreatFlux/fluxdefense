@@ -1,0 +1,17 @@
+{
+  "uuid": "affb5764-2f19-4d6c-ab3c-0e369c2d4d11",
+  "path": "/usr/lib/x86_64-linux-gnu/libwayland-cursor.so.0.22.0",
+  "size": 35352,
+  "modified": "2024-04-08T16:21:56Z",
+  "created": "2025-05-09T05:07:33.032696992Z",
+  "sha256_hash": "bcb52f21ed9a07af67795de01143fc5562939e584b5945ebbec60c054660e9f5",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.599551976Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "76312e01-7c3f-47bd-b5c4-6c0aff1e8000",
+  "path": "/lib/firmware/iwlwifi-7260-17.ucode.zst",
+  "size": 264815,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.583541106Z",
+  "sha256_hash": "9ab99585761f731e4d6ef77810798b3cc1dd2655f25df453adb198f490dd30ca",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.663825266Z"
+}

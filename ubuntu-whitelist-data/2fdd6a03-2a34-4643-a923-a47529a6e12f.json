@@ -1,0 +1,15 @@
+{
+  "uuid": "2fdd6a03-2a34-4643-a923-a47529a6e12f",
+  "path": "/bin/docker",
+  "size": 44360536,
+  "modified": "2025-05-30T12:07:27Z",
+  "created": "2025-05-30T21:04:52.360599216Z",
+  "sha256_hash": "2696b9f58a7c20f4e197520cb794322a502f6bc9e0a0980cc709325a4c23af00",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.303816940Z"
+}

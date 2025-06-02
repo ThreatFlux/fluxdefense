@@ -1,0 +1,17 @@
+{
+  "uuid": "40bf0eb1-38de-4286-960a-b91a8fd98de8",
+  "path": "/lib/udev/iphone-set-info",
+  "size": 18744,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:28.366768193Z",
+  "sha256_hash": "076862cd34dcceee2bd1e8f229615dad5fcc0f53b8a1fd89cdb6cf8ae6025885",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.356700205Z"
+}

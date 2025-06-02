@@ -1,0 +1,15 @@
+{
+  "uuid": "c159e0a1-365d-4ce6-bb7f-4b6eefedc7ee",
+  "path": "/lib/llvm-18/lib/libclangToolingRefactoring.a",
+  "size": 3756854,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.912528537Z",
+  "sha256_hash": "f2679064b64ff44b1a04c2c5e2217a19160d1269766efd90dc30caefb14ef1f4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.594170380Z"
+}

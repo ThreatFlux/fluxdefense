@@ -1,0 +1,17 @@
+{
+  "uuid": "68445852-8279-43e9-8cdf-45f72f7297ea",
+  "path": "/lib/llvm-18/include/clang-c/Rewrite.h",
+  "size": 2102,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.555533239Z",
+  "sha256_hash": "3ce45b1fd6f750376e4d23d29455de087f69043e8c14db50ca80a9c68d7fb8c1",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.890636976Z"
+}

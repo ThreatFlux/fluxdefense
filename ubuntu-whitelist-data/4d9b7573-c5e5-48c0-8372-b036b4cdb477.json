@@ -1,0 +1,15 @@
+{
+  "uuid": "4d9b7573-c5e5-48c0-8372-b036b4cdb477",
+  "path": "/usr/bin/sha1sum",
+  "size": 39336,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:20.442889108Z",
+  "sha256_hash": "df669bd8d75ade53579fa20c5eef007c8ba43f898efbd8f74993810679d11dc0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.191647160Z"
+}

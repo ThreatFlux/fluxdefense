@@ -1,0 +1,17 @@
+{
+  "uuid": "84d5f1c1-25e0-4515-a08e-f68c4bcd8e5c",
+  "path": "/usr/bin/bin2obj-3.2.2",
+  "size": 958848,
+  "modified": "2024-01-05T07:40:08Z",
+  "created": "2025-05-29T11:16:19.018881515Z",
+  "sha256_hash": "d5a04ea26ecda83901fbfa2a156e48f3fa2b117a43e98614904f0c2fcc59b25d",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:05.790078222Z"
+}

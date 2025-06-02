@@ -1,0 +1,15 @@
+{
+  "uuid": "23ea4d8b-8f39-40d0-9f6f-0b00cfb518a0",
+  "path": "/bin/ln",
+  "size": 55816,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:20.104894265Z",
+  "sha256_hash": "4a69330163565546dcea5c08c930291ee2576ef532832ddb99df450a385113ad",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.533064464Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "4353debd-e103-4e0d-8234-3e4c3419938a",
+  "path": "/bin/cargo",
+  "size": 21785728,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T17:41:10.896612118Z",
+  "sha256_hash": "0bfe04a146d020a95ebf5a28390db9fde7780f520f75d8cd6815c04b0458dec6",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.265735065Z"
+}

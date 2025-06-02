@@ -1,0 +1,17 @@
+{
+  "uuid": "6b98558b-72b9-4697-bfd7-5068e464a281",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/IPC/Semaphore.pm",
+  "size": 6422,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.518591327Z",
+  "sha256_hash": "0d9ae02a14db7d2894b62775ca292b64b92f5d3da99bb4adb8ded503a9b24b93",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.664138634Z"
+}

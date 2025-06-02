@@ -1,0 +1,15 @@
+{
+  "uuid": "ba8b8cef-a28d-4618-ba34-2ebd22ea0e8d",
+  "path": "/usr/sbin/runqlen-bpfcc",
+  "size": 8248,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "987a405b3ee81d709dcf2dddef2a3f9fb42db1684ea452af0e73076e575f4276",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.236501273Z"
+}

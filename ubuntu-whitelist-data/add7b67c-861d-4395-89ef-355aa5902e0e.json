@@ -1,0 +1,17 @@
+{
+  "uuid": "add7b67c-861d-4395-89ef-355aa5902e0e",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/readability/MisleadingIndentationCheck.h",
+  "size": 1778,
+  "modified": "2024-01-03T13:06:20Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "4618789b4fe9edcaed44749eddfc6dbab3c954498ecb835c5dd1303ad5fb3f1f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.283470855Z"
+}

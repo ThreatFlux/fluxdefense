@@ -1,0 +1,17 @@
+{
+  "uuid": "ea992703-5312-41ba-8949-c921e1f4892e",
+  "path": "/usr/lib/x86_64-linux-gnu/libgdruntime.so.4.0.0",
+  "size": 1545752,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:20:56.638070347Z",
+  "sha256_hash": "075d1099d0775c20f419977e8538094cf49383bf69a4eec19c2f221cae26fa7a",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.254735180Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "ee6447f1-972e-4333-8da3-9e978b50da7d",
+  "path": "/usr/libexec/x86_64-linux-gnu/isa-support/qemu-good-x86-64-v2",
+  "size": 343,
+  "modified": "2024-04-18T17:54:37Z",
+  "created": "2025-05-26T20:18:23.196081220Z",
+  "sha256_hash": "0a9f83f0b29bdf1a00fb3bd269f944559b2a71b9332dd112cc94d1971792c502",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.532864466Z"
+}

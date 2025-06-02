@@ -1,0 +1,17 @@
+{
+  "uuid": "61c7c997-a2b5-4d9a-a5f4-ae8bbda22fe8",
+  "path": "/lib/systemd/system-generators/systemd-hibernate-resume-generator",
+  "size": 27232,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.516779393Z",
+  "sha256_hash": "01235467de54099bc7bf2a51d7a4d8d8d0795bd17fb7e935f1dbd452cab333c5",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.085179510Z"
+}

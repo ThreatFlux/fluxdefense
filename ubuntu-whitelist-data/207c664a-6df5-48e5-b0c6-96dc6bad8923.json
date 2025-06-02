@@ -1,0 +1,17 @@
+{
+  "uuid": "207c664a-6df5-48e5-b0c6-96dc6bad8923",
+  "path": "/usr/lib/firmware/mediatek/mt7925/WIFI_MT7925_PATCH_MCU_1_1_hdr.bin.zst",
+  "size": 211827,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.681539748Z",
+  "sha256_hash": "f0c9f77c4f7a82c491599d5e6536da54c8d039406e76a6190bfba1cb2bf54534",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.177170559Z"
+}

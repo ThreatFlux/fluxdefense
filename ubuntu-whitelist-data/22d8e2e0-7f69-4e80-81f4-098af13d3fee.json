@@ -1,0 +1,17 @@
+{
+  "uuid": "22d8e2e0-7f69-4e80-81f4-098af13d3fee",
+  "path": "/lib/llvm-18/include/clang-tidy/fuchsia/DefaultArgumentsCallsCheck.h",
+  "size": 1227,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "e831ede4cce40a33c647bf7b9dd944febbcf6638f14602cb15a4dfcead62ce2c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.913757825Z"
+}

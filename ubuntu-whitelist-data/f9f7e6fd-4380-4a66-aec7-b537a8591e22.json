@@ -1,0 +1,15 @@
+{
+  "uuid": "f9f7e6fd-4380-4a66-aec7-b537a8591e22",
+  "path": "/usr/lib/udev/mtd_probe",
+  "size": 35400,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:14.060786348Z",
+  "sha256_hash": "f0843832a7a5eac6f5447e4140a8545394a61cddfbc4b829b5f038c9715dd8c6",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:48.952537442Z"
+}

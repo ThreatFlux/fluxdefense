@@ -1,0 +1,17 @@
+{
+  "uuid": "47dd8f06-087c-41f6-87a3-37467ef89ff7",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/g-alveop.adb",
+  "size": 256401,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.065344942Z",
+  "sha256_hash": "336780d6415c651055c47cfd06bc65dcddd3a083deb499a480cc5c2c1a9c7469",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.930683695Z"
+}

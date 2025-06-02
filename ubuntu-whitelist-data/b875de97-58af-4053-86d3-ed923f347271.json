@@ -1,0 +1,15 @@
+{
+  "uuid": "b875de97-58af-4053-86d3-ed923f347271",
+  "path": "/bin/gcr-viewer",
+  "size": 14712,
+  "modified": "2024-04-08T14:39:19Z",
+  "created": "2025-05-09T05:07:19.244907388Z",
+  "sha256_hash": "3ee848a37cf32dfb5393c6cfdc4269e12bc793986c43cf73a16682341db919a7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.351291291Z"
+}

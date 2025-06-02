@@ -1,0 +1,15 @@
+{
+  "uuid": "76594c93-7018-463c-9087-ae4e675665c7",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_TPROXY.so",
+  "size": 15184,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.332631376Z",
+  "sha256_hash": "7023d7957174820c78992ced176c1a5479211363dce08afdfa3b138ddc03067c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.674316945Z"
+}

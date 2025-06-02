@@ -1,0 +1,17 @@
+{
+  "uuid": "90e0819f-bf03-4cc3-bdee-a8a68731fd45",
+  "path": "/lib/systemd/system/systemd-ask-password-plymouth.path",
+  "size": 525,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:27.491960985Z",
+  "sha256_hash": "7c49dcef4bc60b8c921dea86317dda64507132d86937bc017a65d8e80e0f99ef",
+  "file_type": {
+    "Other": "path"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.104032071Z"
+}

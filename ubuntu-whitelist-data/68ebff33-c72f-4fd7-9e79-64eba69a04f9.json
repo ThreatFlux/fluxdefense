@@ -1,0 +1,17 @@
+{
+  "uuid": "68ebff33-c72f-4fd7-9e79-64eba69a04f9",
+  "path": "/usr/lib/modules/6.11.0-26-generic/kernel/v4l2loopback/v4l2loopback.ko.zst",
+  "size": 25437,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.132796960Z",
+  "sha256_hash": "e4f7c88f5c8f95b24bfd6ad06906d5d4c92aa55221796bb565848fd35ce59e4b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.935445530Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "d11e6ffc-75c6-4f25-bb7d-822d56c67d10",
+  "path": "/usr/bin/systemd-notify",
+  "size": 27304,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.506779266Z",
+  "sha256_hash": "a5d2ff10b34c254fde813ddbbc800ed0e06e48e7ebfbbb03c4ec549e3fc4a039",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:08.023851854Z"
+}

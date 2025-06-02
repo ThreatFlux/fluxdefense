@@ -1,0 +1,15 @@
+{
+  "uuid": "31430ccc-61de-4ab9-bb11-ebb60725c59a",
+  "path": "/bin/xmodmap",
+  "size": 43704,
+  "modified": "2024-03-31T17:27:26Z",
+  "created": "2025-05-09T05:07:20.938881539Z",
+  "sha256_hash": "fc986a1ad02aa33d7e4ba2779cd65dcf72df1d437ff7a39109e886235ac8d5b2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.611854428Z"
+}

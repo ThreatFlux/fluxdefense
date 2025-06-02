@@ -1,0 +1,17 @@
+{
+  "uuid": "3ca2e206-9d7a-440c-8040-42f86c0f6f55",
+  "path": "/lib/firmware/ti-connectivity/wl128x-nvs.bin.zst",
+  "size": 300,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.078534249Z",
+  "sha256_hash": "8a7886faf29d776783a74010720b342e6db2a15e328cfbd51cd5db04056bbaf8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.540074007Z"
+}

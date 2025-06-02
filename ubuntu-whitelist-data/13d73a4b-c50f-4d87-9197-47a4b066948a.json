@@ -1,0 +1,15 @@
+{
+  "uuid": "13d73a4b-c50f-4d87-9197-47a4b066948a",
+  "path": "/usr/bin/bc",
+  "size": 93000,
+  "modified": "2024-04-08T14:37:38Z",
+  "created": "2025-05-09T05:07:18.947911921Z",
+  "sha256_hash": "d055e35065d469bdf17910df03250573b84497e03f8658e3828fd07b9607e313",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:11.673864440Z"
+}

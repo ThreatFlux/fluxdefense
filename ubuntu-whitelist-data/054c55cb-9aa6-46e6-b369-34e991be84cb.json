@@ -1,0 +1,17 @@
+{
+  "uuid": "054c55cb-9aa6-46e6-b369-34e991be84cb",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/include/prfchiintrin.h",
+  "size": 2009,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.245389810Z",
+  "sha256_hash": "352153a4166fdb983b9085b790a085040e27e429f77173010ef0909d2b04df4b",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.924960611Z"
+}

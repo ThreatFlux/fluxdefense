@@ -1,0 +1,17 @@
+{
+  "uuid": "58a64891-324c-4e86-aab4-bda1e2979c7f",
+  "path": "/usr/lib/firmware/netronome/bpf/nic_AMDA0096-0001_2x10.nffw.zst",
+  "size": 121079,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.894536798Z",
+  "sha256_hash": "d34b8e020f8b955a37dd54dccf76c1bfd0e879ffa49b68cb83396ad3bdd152b3",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.658969361Z"
+}

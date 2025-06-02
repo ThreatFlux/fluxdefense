@@ -1,0 +1,15 @@
+{
+  "uuid": "77c35dd4-9908-4526-a597-9077988c58ad",
+  "path": "/usr/lib/python3/dist-packages/apt_pkg.cpython-312-x86_64-linux-gnu.so",
+  "size": 347328,
+  "modified": "2025-01-27T11:40:02Z",
+  "created": "2025-05-09T05:07:26.321799399Z",
+  "sha256_hash": "b46d50f6669a7b117b734c06f84f6d3ec13b00dfecf1c4f12339e0b871a89720",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.620090265Z"
+}

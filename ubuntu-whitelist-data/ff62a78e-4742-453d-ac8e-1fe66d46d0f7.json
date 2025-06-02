@@ -1,0 +1,17 @@
+{
+  "uuid": "ff62a78e-4742-453d-ac8e-1fe66d46d0f7",
+  "path": "/usr/lib/systemd/system/systemd-pcrlock-make-policy.service",
+  "size": 758,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "b1e4dea17c5ec9f5258030ea532908e49ee4b0bb12f4aab590f548025ed79007",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.476387084Z"
+}

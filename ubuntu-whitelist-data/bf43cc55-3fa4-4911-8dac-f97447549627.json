@@ -1,0 +1,17 @@
+{
+  "uuid": "bf43cc55-3fa4-4911-8dac-f97447549627",
+  "path": "/usr/lib/modprobe.d/blacklist_linux-hwe-6.11_6.11.0-26-generic.conf",
+  "size": 1672,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.075797947Z",
+  "sha256_hash": "e4bb7530124d67bec3590e946b65d234e33722271536223e1b53df79d81ee628",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.651718988Z"
+}

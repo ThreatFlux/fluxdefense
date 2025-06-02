@@ -1,0 +1,15 @@
+{
+  "uuid": "3837cc48-ce65-4bb2-b4cc-d34fa6e28b63",
+  "path": "/usr/bin/boltctl",
+  "size": 125792,
+  "modified": "2024-04-01T18:13:27Z",
+  "created": "2025-05-09T05:07:18.960911722Z",
+  "sha256_hash": "329893dd6ff82c8a6878ecd3c0012ff5005299d6bdaa3751cfd0ec6fe1db8ff1",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.435359296Z"
+}

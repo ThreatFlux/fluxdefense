@@ -1,0 +1,17 @@
+{
+  "uuid": "e2f0e116-f806-4a4b-a65a-47995aa438e8",
+  "path": "/usr/lib/python3.12/test/decimaltestdata/remainder.decTest",
+  "size": 27124,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.997551697Z",
+  "sha256_hash": "4d5d8ed95b9cf6750cd3b0ee046dc018d0fa41b391521d23b854a10884abd696",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.984516064Z"
+}

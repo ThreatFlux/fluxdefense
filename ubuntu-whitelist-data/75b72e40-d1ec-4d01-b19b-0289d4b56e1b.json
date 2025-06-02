@@ -1,0 +1,15 @@
+{
+  "uuid": "75b72e40-d1ec-4d01-b19b-0289d4b56e1b",
+  "path": "/lib/python3/dist-packages/cloudinit/sources/DataSourceNWCS.py",
+  "size": 4513,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.241037243Z",
+  "sha256_hash": "8842ec0802fefa429aad0de8de5616a3ac5b113a6fdb2e82e2c84a5e9613f15a",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.903023404Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "47eed689-d151-4701-8cfd-f18009edb869",
+  "path": "/usr/lib/x86_64-linux-gnu/perl-base/locale.pm",
+  "size": 3451,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.362578444Z",
+  "sha256_hash": "4cffa8a5b6d6a0df11c865529aabc3d0b0172ad55d0f18d2a4d2404cc477fcaf",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.725371542Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "39572003-f6b4-4bbc-9a8b-2f377676545c",
+  "path": "/usr/lib/firmware/iwlwifi-105-6.ucode.zst",
+  "size": 214128,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.580541147Z",
+  "sha256_hash": "4cac265bd7479a39f102bdeb9015b292bea205157767d7241c63385580e51831",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.875546990Z"
+}

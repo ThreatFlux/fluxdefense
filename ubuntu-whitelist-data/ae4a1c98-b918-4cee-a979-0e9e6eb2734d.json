@@ -1,0 +1,15 @@
+{
+  "uuid": "ae4a1c98-b918-4cee-a979-0e9e6eb2734d",
+  "path": "/lib/x86_64-linux-gnu/security/pam_debug.so",
+  "size": 14568,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:37.196633451Z",
+  "sha256_hash": "2c6b48afae9bde25219872713d199c952cf0fcc56e2af31025b4d2c0af4dbd39",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.371625812Z"
+}

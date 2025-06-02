@@ -1,0 +1,17 @@
+{
+  "uuid": "46f5a8a9-c841-4980-872a-ab8683e1f2e0",
+  "path": "/lib/x86_64-linux-gnu/perl-base/constant.pm",
+  "size": 5737,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.361578460Z",
+  "sha256_hash": "5decbf923c0f5f065147a7a1a89fd351a26d5d5efd8799ba4ee992a1d00cd837",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.905905282Z"
+}

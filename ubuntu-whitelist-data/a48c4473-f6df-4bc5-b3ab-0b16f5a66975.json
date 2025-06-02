@@ -1,0 +1,17 @@
+{
+  "uuid": "a48c4473-f6df-4bc5-b3ab-0b16f5a66975",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/arm_sme_builtins.inc",
+  "size": 57331,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.535533502Z",
+  "sha256_hash": "c12e1bf7dcb48f03f0eb3fe8d7fa6ee4ee2a2a77558ee82024affb8ef8d94202",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.500470269Z"
+}

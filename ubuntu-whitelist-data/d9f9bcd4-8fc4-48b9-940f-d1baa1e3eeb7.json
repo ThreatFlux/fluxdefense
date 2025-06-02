@@ -1,0 +1,17 @@
+{
+  "uuid": "d9f9bcd4-8fc4-48b9-940f-d1baa1e3eeb7",
+  "path": "/lib/firmware/intel/dsp_fw_glk_v2880.bin.zst",
+  "size": 177796,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.549541576Z",
+  "sha256_hash": "777ef69c2c509d756e86f3dd399fc0841fecd49bcf8449ee7d73d71ec3c87bc7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.246963609Z"
+}

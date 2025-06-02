@@ -1,0 +1,15 @@
+{
+  "uuid": "62776661-c461-4f7c-9cec-6ef416c84d54",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libebt_arp.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.324631498Z",
+  "sha256_hash": "5acf0ea4250bef0422d87c134971c19d469a1b0bf4dffd19f44bfa390a5cdcde",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.270547540Z"
+}

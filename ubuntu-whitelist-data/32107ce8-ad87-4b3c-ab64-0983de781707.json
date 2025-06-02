@@ -1,0 +1,17 @@
+{
+  "uuid": "32107ce8-ad87-4b3c-ab64-0983de781707",
+  "path": "/lib/x86_64-linux-gnu/libsidplay.so.1.0.3",
+  "size": 218552,
+  "modified": "2024-04-18T17:51:21Z",
+  "created": "2025-05-09T05:09:27.568949010Z",
+  "sha256_hash": "5c520786c449806f31382f803494e9951839ecad45c3438234bf55c47b2bfa79",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.054853722Z"
+}

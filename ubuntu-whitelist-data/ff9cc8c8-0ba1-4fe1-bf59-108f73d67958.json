@@ -1,0 +1,17 @@
+{
+  "uuid": "ff9cc8c8-0ba1-4fe1-bf59-108f73d67958",
+  "path": "/lib/x86_64-linux-gnu/libgnome-autoar-0.so.0.2.0",
+  "size": 100424,
+  "modified": "2024-04-07T07:06:27Z",
+  "created": "2025-05-09T05:07:29.820746006Z",
+  "sha256_hash": "541648e988553552fe92d410ab813458a3dd6effe1151d9aec4fdcfee54f31fd",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.281984953Z"
+}

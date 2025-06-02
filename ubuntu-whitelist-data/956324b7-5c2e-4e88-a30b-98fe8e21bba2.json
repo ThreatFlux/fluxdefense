@@ -1,0 +1,17 @@
+{
+  "uuid": "956324b7-5c2e-4e88-a30b-98fe8e21bba2",
+  "path": "/lib/tmpfiles.d/gnome-remote-desktop-tmpfiles.conf",
+  "size": 248,
+  "modified": "2024-07-11T15:32:56Z",
+  "created": "2025-05-09T05:07:28.308769079Z",
+  "sha256_hash": "b8f33e1738e680156b3b64cc8adca9aa8952fec4970e241d0ef031e8d7213f27",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.760319087Z"
+}

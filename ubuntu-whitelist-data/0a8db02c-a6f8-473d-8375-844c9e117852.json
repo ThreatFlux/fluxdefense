@@ -1,0 +1,17 @@
+{
+  "uuid": "0a8db02c-a6f8-473d-8375-844c9e117852",
+  "path": "/lib/firmware/qcom/qcm2290/modem.mbn.zst",
+  "size": 3379146,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.994535413Z",
+  "sha256_hash": "41d70bbcf69dd489ad11133e1e875e142bb8801d64a92eb08189eb32dd0a74f5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.994127776Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "135efbc8-aadc-4f0f-9015-1e2dbe67ea0e",
+  "path": "/lib/x86_64-linux-gnu/libnftables.so.1.1.0",
+  "size": 976016,
+  "modified": "2024-04-08T16:14:26Z",
+  "created": "2025-05-09T05:07:31.718717043Z",
+  "sha256_hash": "b4f4c3fe92bfa17d39cb96676a7906357a819fa245f8cda08bf25b655a107fa6",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.921644660Z"
+}

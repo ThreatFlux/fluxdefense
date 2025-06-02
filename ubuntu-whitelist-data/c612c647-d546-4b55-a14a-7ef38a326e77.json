@@ -1,0 +1,15 @@
+{
+  "uuid": "c612c647-d546-4b55-a14a-7ef38a326e77",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/net/openbsd.py",
+  "size": 2541,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.240037230Z",
+  "sha256_hash": "e2d61cd874f73313373dc1c0a84a5796d55b926859cf198dee39cb0f64b4723e",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.819920736Z"
+}

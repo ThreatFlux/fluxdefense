@@ -1,0 +1,15 @@
+{
+  "uuid": "9c72c85a-2a46-4a1d-9c84-b1a5d15d7f19",
+  "path": "/sbin/tune2fs",
+  "size": 113216,
+  "modified": "2024-04-28T23:44:46Z",
+  "created": "2025-05-09T05:07:38.447614361Z",
+  "sha256_hash": "acb929cf4ba7dd04111cf4d5092695e859e49d23c2e130bc080010c4ba788d4a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.133024908Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "8e5cf9d7-af6b-479c-9d66-0b4fa0db31a3",
+  "path": "/usr/bin/dh_libva",
+  "size": 3128,
+  "modified": "2017-11-08T20:00:02Z",
+  "created": "2025-05-12T13:47:40.267133396Z",
+  "sha256_hash": "d84f77bd436a107eb4647b4c6e74ea0bb395341509a74f2bef51f51a298eee29",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.297909980Z"
+}

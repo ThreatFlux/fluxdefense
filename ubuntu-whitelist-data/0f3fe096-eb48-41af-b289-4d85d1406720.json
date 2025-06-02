@@ -1,0 +1,17 @@
+{
+  "uuid": "0f3fe096-eb48-41af-b289-4d85d1406720",
+  "path": "/lib/x86_64-linux-gnu/libvolume_key.so.1.2.3",
+  "size": 100424,
+  "modified": "2024-03-31T08:32:01Z",
+  "created": "2025-05-09T05:07:32.357707292Z",
+  "sha256_hash": "c8db2f36a51a19879d2250a6d2a235694d4ea27d995be6d5ed2e15207afb7cb5",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.910561876Z"
+}

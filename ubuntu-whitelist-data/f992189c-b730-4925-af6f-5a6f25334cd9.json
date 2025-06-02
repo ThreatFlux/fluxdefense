@@ -1,0 +1,17 @@
+{
+  "uuid": "f992189c-b730-4925-af6f-5a6f25334cd9",
+  "path": "/lib/llvm-18/include/clang/AST/ExternalASTMerger.h",
+  "size": 8299,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.518533726Z",
+  "sha256_hash": "b4b462f43376c1e1567c0c750b496ffe8fa4c6bea9bfc051f2666d2a7b7e98fc",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.969370356Z"
+}

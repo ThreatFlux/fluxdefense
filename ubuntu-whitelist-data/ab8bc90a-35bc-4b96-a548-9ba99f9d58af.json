@@ -1,0 +1,15 @@
+{
+  "uuid": "ab8bc90a-35bc-4b96-a548-9ba99f9d58af",
+  "path": "/sbin/locale-gen",
+  "size": 4316,
+  "modified": "2024-08-08T13:37:04Z",
+  "created": "2025-05-09T05:07:38.360615689Z",
+  "sha256_hash": "a9da07503036d6a111182ab32e53d5cfeecc200c4c41f58e51f4800dc9a54202",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.135823423Z"
+}

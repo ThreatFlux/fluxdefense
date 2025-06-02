@@ -1,0 +1,17 @@
+{
+  "uuid": "e0517839-4a26-4720-b441-72a8eab318dc",
+  "path": "/usr/lib/x86_64-linux-gnu/libpangoxft-1.0.so.0.5200.1",
+  "size": 38904,
+  "modified": "2024-03-31T06:43:55Z",
+  "created": "2025-05-09T05:07:31.786716006Z",
+  "sha256_hash": "a753764c5013887d9a5ed0eaf926522d8c31349ca5f6c02ccf1e28358d4ef118",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.104295457Z"
+}

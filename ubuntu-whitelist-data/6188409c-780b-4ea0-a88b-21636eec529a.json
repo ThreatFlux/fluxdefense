@@ -1,0 +1,17 @@
+{
+  "uuid": "6188409c-780b-4ea0-a88b-21636eec529a",
+  "path": "/lib/firmware/ess/maestro3_assp_minisrc.fw.zst",
+  "size": 591,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.530541840Z",
+  "sha256_hash": "1782035732b51b0ccfcfb499af528e77afdd9495c5ebc42f0faca7077390322d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.438505032Z"
+}

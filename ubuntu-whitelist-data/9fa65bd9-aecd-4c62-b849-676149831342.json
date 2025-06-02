@@ -1,0 +1,17 @@
+{
+  "uuid": "9fa65bd9-aecd-4c62-b849-676149831342",
+  "path": "/lib/systemd/system/libvirtd-admin.socket",
+  "size": 304,
+  "modified": "2025-03-13T16:25:50Z",
+  "created": "2025-05-20T14:31:33.305811285Z",
+  "sha256_hash": "e9a0539acf6d4459f48bd4e63228fad09df9291020e2d4610cde394f13471bca",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.123909955Z"
+}

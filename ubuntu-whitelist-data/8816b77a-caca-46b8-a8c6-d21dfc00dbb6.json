@@ -1,0 +1,15 @@
+{
+  "uuid": "8816b77a-caca-46b8-a8c6-d21dfc00dbb6",
+  "path": "/usr/lib/klibc/bin/reboot",
+  "size": 9104,
+  "modified": "2024-05-21T08:39:42Z",
+  "created": "2025-05-09T05:07:21.712869729Z",
+  "sha256_hash": "4ca5019bb6683c8d33ba1015aa4a40c54a89cb7419178480aa2b8e5297e24907",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.572756071Z"
+}

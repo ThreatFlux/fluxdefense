@@ -1,0 +1,17 @@
+{
+  "uuid": "d01de309-a3fe-4d41-9250-d5519fe4c54d",
+  "path": "/sbin/tcpretrans.bt",
+  "size": 2120,
+  "modified": "2024-03-07T22:14:52Z",
+  "created": "2025-05-09T05:08:51.886493608Z",
+  "sha256_hash": "3c17d4e4ef571221f79165284751ed7ba3d4ee1df95aab890281c439259baa69",
+  "file_type": {
+    "Other": "bt"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.742710040Z"
+}

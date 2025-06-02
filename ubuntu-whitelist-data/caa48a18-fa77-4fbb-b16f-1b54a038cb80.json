@@ -1,0 +1,15 @@
+{
+  "uuid": "caa48a18-fa77-4fbb-b16f-1b54a038cb80",
+  "path": "/lib/x86_64-linux-gnu/gtk-2.0/modules/libatk-bridge.so",
+  "size": 14176,
+  "modified": "2024-04-08T14:37:40Z",
+  "created": "2025-05-09T05:07:35.800654754Z",
+  "sha256_hash": "1391615d4830a14072ca8a72a159c704888584cb87e6f784778a2d0ae0275575",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.905843034Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f55cdb71-bc4d-4b2e-ae4e-d28c43cd0e4b",
+  "path": "/lib/llvm-18/include/clang/AST/ComparisonCategories.h",
+  "size": 7565,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.515533766Z",
+  "sha256_hash": "dc971e5190adfe42e2f78bf83d0263a7ef95ba88d39fc0b92037a46333730a06",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.016643878Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "2e7cb021-e87c-4492-a97f-b7b73712c1cd",
+  "path": "/sbin/update-icon-caches",
+  "size": 596,
+  "modified": "2025-01-27T19:56:56Z",
+  "created": "2025-05-09T05:24:29.474987195Z",
+  "sha256_hash": "da3e370dd884362c0689dd3e425e81556e786c8664501047521b1b36c49171ea",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.683624245Z"
+}

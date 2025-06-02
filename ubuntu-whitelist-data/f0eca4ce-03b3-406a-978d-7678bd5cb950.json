@@ -1,0 +1,17 @@
+{
+  "uuid": "f0eca4ce-03b3-406a-978d-7678bd5cb950",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-nucoar.ali",
+  "size": 28362,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.100344461Z",
+  "sha256_hash": "c66238273d2d363f405b3661059153ac69d13085f9b7b6d8f9b8a8d004842984",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.891611674Z"
+}

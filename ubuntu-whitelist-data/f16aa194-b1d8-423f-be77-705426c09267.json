@@ -1,0 +1,17 @@
+{
+  "uuid": "f16aa194-b1d8-423f-be77-705426c09267",
+  "path": "/lib/systemd/user/org.gnome.SettingsDaemon.A11ySettings.service",
+  "size": 796,
+  "modified": "2024-04-18T10:59:35Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "377efe7720ec7e33de8c7cfa3a1e51308b19b980b957ce6a9962cb76b10248d8",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.144285807Z"
+}

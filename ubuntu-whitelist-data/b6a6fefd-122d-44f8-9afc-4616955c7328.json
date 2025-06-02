@@ -1,0 +1,15 @@
+{
+  "uuid": "b6a6fefd-122d-44f8-9afc-4616955c7328",
+  "path": "/usr/bin/tac",
+  "size": 39336,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:20.678885507Z",
+  "sha256_hash": "5763f0f6e69b5e415d4106fb78123040f2f7b014c76f1693c34b82d2bed444b9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.096731831Z"
+}

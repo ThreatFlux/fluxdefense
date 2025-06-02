@@ -1,0 +1,17 @@
+{
+  "uuid": "ea765349-64cd-4b49-a915-eb1b6b81f466",
+  "path": "/lib/firmware/nvidia/gp10b/gr/sw_nonctx.bin.zst",
+  "size": 680,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.940536161Z",
+  "sha256_hash": "2540a187f55ec49b6963b9322eb5bf0d88803287913f591bb97c0bf1a52c7167",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.419044724Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f2834c00-5505-4afd-8892-e3cf036e72d2",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/include/ammintrin.h",
+  "size": 3216,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.240389918Z",
+  "sha256_hash": "8c431898ed66a055994a89ebf2a65420b5603151edbbbef64fd2651d3d5104aa",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.932359192Z"
+}

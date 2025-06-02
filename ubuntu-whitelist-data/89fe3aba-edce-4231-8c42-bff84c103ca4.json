@@ -1,0 +1,17 @@
+{
+  "uuid": "89fe3aba-edce-4231-8c42-bff84c103ca4",
+  "path": "/lib/x86_64-linux-gnu/libcaca.so.0.99.20",
+  "size": 822512,
+  "modified": "2024-03-31T07:45:02Z",
+  "created": "2025-05-09T05:07:29.204755406Z",
+  "sha256_hash": "8e92fe422783fcae5063ad4cb9e41ff971539b4df3b94afe15c4eeb571ab9923",
+  "file_type": {
+    "Other": "20"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.938693655Z"
+}

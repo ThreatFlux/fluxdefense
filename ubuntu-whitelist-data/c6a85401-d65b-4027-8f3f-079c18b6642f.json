@@ -1,0 +1,17 @@
+{
+  "uuid": "c6a85401-d65b-4027-8f3f-079c18b6642f",
+  "path": "/lib/systemd/system/systemd-pcrlock-secureboot-authority.service",
+  "size": 822,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "b1cab03f436c6f4fa325bcd6ea0fde33e00a12e9c305fe8e377a8ea509f21079",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.113778494Z"
+}

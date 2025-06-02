@@ -1,0 +1,17 @@
+{
+  "uuid": "5124ce62-c2dc-4fae-90e0-0eb208ba3fa0",
+  "path": "/usr/lib/firmware/cxgb4/configs/t5-config-hashfilter.txt.zst",
+  "size": 5929,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.512542089Z",
+  "sha256_hash": "766bab170a5d3336d7d754794aa7f44c86bd8aa2ac2fd291a91f1c4d796f4985",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.688545020Z"
+}

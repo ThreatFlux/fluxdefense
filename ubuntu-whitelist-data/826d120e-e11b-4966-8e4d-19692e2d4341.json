@@ -1,0 +1,17 @@
+{
+  "uuid": "826d120e-e11b-4966-8e4d-19692e2d4341",
+  "path": "/usr/lib/llvm-18/include/clang/Sema/TemplateInstCallback.h",
+  "size": 2618,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.549533318Z",
+  "sha256_hash": "319a43779f343335d825a42d10f8b63903d28bd5cc8e3089a6c32df5a0c41f53",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.479387967Z"
+}

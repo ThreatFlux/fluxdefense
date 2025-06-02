@@ -1,0 +1,17 @@
+{
+  "uuid": "591e3167-81e8-46a5-8e04-91982c0ab5e1",
+  "path": "/usr/lib/x86_64-linux-gnu/libefivar.so.1.38",
+  "size": 199856,
+  "modified": "2024-03-31T07:33:18Z",
+  "created": "2025-05-09T05:07:29.370752873Z",
+  "sha256_hash": "b68162d0b0f15eb236bddffedc99f33101a20a16b53c204c0e72c0bc223a1b4e",
+  "file_type": {
+    "Other": "38"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.703647847Z"
+}

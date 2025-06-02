@@ -1,0 +1,17 @@
+{
+  "uuid": "1ad0856b-287d-43ee-90fe-de95df28e0d9",
+  "path": "/usr/lib/firmware/qat_c62x.bin.zst",
+  "size": 47696,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.965535814Z",
+  "sha256_hash": "7c694abff3e80360c37c562ffc78dde0d45eb51ab014ad350910f9edb4ac4434",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.068236188Z"
+}

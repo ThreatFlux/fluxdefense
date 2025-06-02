@@ -1,0 +1,15 @@
+{
+  "uuid": "001a6be6-13e8-4d8f-b87c-a17360a738fa",
+  "path": "/sbin/sulogin",
+  "size": 43392,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.431614605Z",
+  "sha256_hash": "adc34dc3ee024ce87386b40c68eae586d2f9bdaf3a8f5cb975320dc7c57fe015",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.752169214Z"
+}

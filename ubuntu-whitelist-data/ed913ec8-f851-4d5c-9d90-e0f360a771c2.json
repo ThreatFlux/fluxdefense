@@ -1,0 +1,15 @@
+{
+  "uuid": "ed913ec8-f851-4d5c-9d90-e0f360a771c2",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/libssp_nonshared.a",
+  "size": 1478,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.265389379Z",
+  "sha256_hash": "c70892e8fec2524db2b9b2c362a2c8c8d5338786b32160004c70e062eaff676b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.942461300Z"
+}

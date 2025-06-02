@@ -1,0 +1,17 @@
+{
+  "uuid": "dab51aff-f189-4c6f-ade9-6c2aa917e54c",
+  "path": "/usr/lib/firmware/intel/dsp_fw_cnl_v1191.bin.zst",
+  "size": 211696,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.548541590Z",
+  "sha256_hash": "d87f909ad0558fe8243ecb0470b4dcc96f4595f9f76b78ef1af83da1432fe74f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.725053635Z"
+}

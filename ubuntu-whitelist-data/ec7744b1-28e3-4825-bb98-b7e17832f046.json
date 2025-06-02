@@ -1,0 +1,17 @@
+{
+  "uuid": "ec7744b1-28e3-4825-bb98-b7e17832f046",
+  "path": "/usr/lib/libnvidia-gtk3.so.510.47.03",
+  "size": 1318792,
+  "modified": "2024-03-31T08:10:30Z",
+  "created": "2025-05-09T12:56:04.831024064Z",
+  "sha256_hash": "d04dcd43582a9ea7202f0ca28fa3714ec12a909924661fd93630dbcaa0dc09b8",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.651353689Z"
+}

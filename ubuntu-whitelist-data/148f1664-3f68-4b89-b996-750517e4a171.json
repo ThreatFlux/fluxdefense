@@ -1,0 +1,17 @@
+{
+  "uuid": "148f1664-3f68-4b89-b996-750517e4a171",
+  "path": "/lib/systemd/system/thermald.service",
+  "size": 309,
+  "modified": "2024-12-30T07:14:27Z",
+  "created": "2025-05-09T05:08:57.318410706Z",
+  "sha256_hash": "157f0324b5a9cd68108221584812b4dd6932d9e8a1144f98dc942f713427f1d6",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.102782019Z"
+}

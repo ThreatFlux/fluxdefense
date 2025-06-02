@@ -1,0 +1,17 @@
+{
+  "uuid": "e21a6fac-a927-4b3c-ae0c-0759e438ea20",
+  "path": "/lib/x86_64-linux-gnu/libmtp.so.9.4.0",
+  "size": 464192,
+  "modified": "2024-03-31T02:08:07Z",
+  "created": "2025-05-09T05:07:31.530719912Z",
+  "sha256_hash": "4d7eae950d142d6eb27e87f3e59e04aee0498b8012d9f780ce6ce7b3a223b75f",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.177163114Z"
+}

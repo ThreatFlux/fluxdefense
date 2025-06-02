@@ -1,0 +1,15 @@
+{
+  "uuid": "cdc9141c-c030-4005-8450-2b1cb4394aee",
+  "path": "/usr/lib/google-cloud-sdk/platform/bq/utils/bq_gcloud_utils.py",
+  "size": 5357,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.814930545Z",
+  "sha256_hash": "bed9a87ad6d3978b99d8ed091e456b300bff88004114b4c6de457d11d46b6387",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.630630870Z"
+}

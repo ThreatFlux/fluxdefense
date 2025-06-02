@@ -1,0 +1,17 @@
+{
+  "uuid": "c71a797c-0a6a-4a9b-a92d-40d5c950ce66",
+  "path": "/lib/x86_64-linux-gnu/libmbim-glib.so.4.8.0",
+  "size": 833608,
+  "modified": "2024-03-31T02:07:22Z",
+  "created": "2025-05-09T05:07:31.337722858Z",
+  "sha256_hash": "e84cbd7a859b1314be6d20f9c30633df4083e74977f18129dfa79655cb152b34",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.031466249Z"
+}

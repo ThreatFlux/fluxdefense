@@ -1,0 +1,17 @@
+{
+  "uuid": "b7749c95-1209-4ffe-9701-5904c9554318",
+  "path": "/usr/lib/debug/.build-id/45/02c00121ed03e9b37760a69c3659c64515e05d.debug",
+  "size": 15880,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:21.510872811Z",
+  "sha256_hash": "a8a2558f3057f6bae6843cdc64e6cfd67f4381fb1c2d51c758ac57a95abb33b0",
+  "file_type": {
+    "Other": "debug"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.908885166Z"
+}

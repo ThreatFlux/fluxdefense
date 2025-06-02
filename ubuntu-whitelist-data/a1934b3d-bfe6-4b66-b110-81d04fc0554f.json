@@ -1,0 +1,15 @@
+{
+  "uuid": "a1934b3d-bfe6-4b66-b110-81d04fc0554f",
+  "path": "/lib/x86_64-linux-gnu/xtables/libebt_stp.so",
+  "size": 18872,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.325631483Z",
+  "sha256_hash": "cb3c9564f322f861771966d333a37e904b4af643dd81775261076ccd342154bf",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.685963439Z"
+}

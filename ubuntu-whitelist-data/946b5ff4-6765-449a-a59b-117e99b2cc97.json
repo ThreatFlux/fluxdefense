@@ -1,0 +1,17 @@
+{
+  "uuid": "946b5ff4-6765-449a-a59b-117e99b2cc97",
+  "path": "/usr/lib/llvm-18/include/clang/AST/ExprObjC.h",
+  "size": 60594,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.518533726Z",
+  "sha256_hash": "2e0841c79bfebbe6b05ad2ea3284eb140a83326659acbf0c52c5740c57f0a00c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.410453755Z"
+}

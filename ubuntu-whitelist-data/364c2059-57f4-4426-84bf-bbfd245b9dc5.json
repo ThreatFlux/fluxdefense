@@ -1,0 +1,15 @@
+{
+  "uuid": "364c2059-57f4-4426-84bf-bbfd245b9dc5",
+  "path": "/usr/lib/x86_64-linux-gnu/rsyslog/pmaixforwardedfrom.so",
+  "size": 15368,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.547922264Z",
+  "sha256_hash": "156909ea2e8b39b0904045e09245c9422e91d2d54fdacd1df15bb8db1a818d45",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.167664198Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "3521aa61-f83a-4678-afc6-7bf5d9eb0aa3",
+  "path": "/usr/lib/llvm-18/lib/libLLVMLanaiCodeGen.a",
+  "size": 1116746,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.912462691Z",
+  "sha256_hash": "f0cf1e1a6d720474d61cbe416a8134e462e3d409f688eebc9c55c6f2c7159f02",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.127803490Z"
+}

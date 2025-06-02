@@ -1,0 +1,15 @@
+{
+  "uuid": "dd09f12f-a9b3-4763-8512-d737d9fe68eb",
+  "path": "/bin/dh_assistant",
+  "size": 50806,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.512341282Z",
+  "sha256_hash": "32579461859de4cfcf3b48fb03f75a938aa2ef55206eb494cb10c6c3b70fd143",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.501795437Z"
+}

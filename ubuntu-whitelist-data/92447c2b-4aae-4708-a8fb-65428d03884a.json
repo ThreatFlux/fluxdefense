@@ -1,0 +1,17 @@
+{
+  "uuid": "92447c2b-4aae-4708-a8fb-65428d03884a",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/SourceManager.h",
+  "size": 77016,
+  "modified": "2023-12-09T22:26:51Z",
+  "created": "2025-05-12T13:34:31.532533542Z",
+  "sha256_hash": "7d2589de515e659944123254cf6df32d76cd186ad276753d2ab4c1b0cccbf322",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.521836348Z"
+}

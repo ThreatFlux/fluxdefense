@@ -1,0 +1,17 @@
+{
+  "uuid": "c17d7bed-cc6f-470e-8ff3-4cb7c28531e3",
+  "path": "/lib/grub/x86_64-efi/sfs.mod",
+  "size": 8096,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "9abd64bcbd2a772cf658dd756bf8fb18687ebe0176dfc5a5f89b98b6f4695922",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.037978866Z"
+}

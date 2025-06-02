@@ -1,0 +1,17 @@
+{
+  "uuid": "07049276-6010-48bd-84c6-b1c2d3b05fbe",
+  "path": "/lib/firmware/radeon/VERDE_smc.bin.zst",
+  "size": 25002,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.063534457Z",
+  "sha256_hash": "8379748ec785ab00bdc206dacb16069eaf56ee6635c316efae70db444007f003",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.398313442Z"
+}

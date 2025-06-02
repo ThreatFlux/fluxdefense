@@ -1,0 +1,17 @@
+{
+  "uuid": "d59fccd2-3fec-4d5b-a78d-fb903a112947",
+  "path": "/lib/llvm-18/lib/cmake/llvm/LLVM-Build.cmake",
+  "size": 4100,
+  "modified": "2022-01-23T00:26:57Z",
+  "created": "2025-05-12T13:34:36.684465694Z",
+  "sha256_hash": "d99cffbb8fba80cd28562d79873a3c06d52aab30d7aea1c930560778b936a655",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.505573103Z"
+}

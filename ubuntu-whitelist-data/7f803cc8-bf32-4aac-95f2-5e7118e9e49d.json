@@ -1,0 +1,15 @@
+{
+  "uuid": "7f803cc8-bf32-4aac-95f2-5e7118e9e49d",
+  "path": "/sbin/chmem",
+  "size": 35200,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.137619092Z",
+  "sha256_hash": "54eb64092824ace3e5ab2318d604c365cb20ad3c00a8700eb1455d001a14f37d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.001561255Z"
+}

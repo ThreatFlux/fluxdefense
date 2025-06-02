@@ -1,0 +1,15 @@
+{
+  "uuid": "e575156b-2080-4871-bb6c-aa340b18dbd8",
+  "path": "/usr/bin/sss_ssh_knownhostsproxy",
+  "size": 35128,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:20.618886422Z",
+  "sha256_hash": "ef4d58f8f695f83fe4ee4b1eb2e9f78c7efbe8b256dd2ebb3f95a18141a130e9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.279957600Z"
+}

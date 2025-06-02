@@ -1,0 +1,17 @@
+{
+  "uuid": "266416ff-9057-4a6f-9554-f8bdf92c24dc",
+  "path": "/lib/x86_64-linux-gnu/caca/libgl_plugin.so.0.0.0",
+  "size": 14104,
+  "modified": "2024-03-31T07:45:02Z",
+  "created": "2025-05-09T05:07:35.182664184Z",
+  "sha256_hash": "57bac07781552d0c9233908ec7a3fce36b93f6a07aa7b6f7c8b5c03a56123af1",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.186957609Z"
+}

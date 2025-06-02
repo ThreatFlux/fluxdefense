@@ -1,0 +1,17 @@
+{
+  "uuid": "c07a7d68-2001-44ae-ada2-959203c3fbdc",
+  "path": "/usr/lib/x86_64-linux-gnu/libicalss_cxx.so.3.0.17",
+  "size": 18760,
+  "modified": "2024-04-06T01:14:50Z",
+  "created": "2025-05-09T05:07:30.188740391Z",
+  "sha256_hash": "8a67660980f6cd6a9d84a9a5122208ba7ec214199b28a31e51ad07ada290130b",
+  "file_type": {
+    "Other": "17"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:13.998476302Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "06beb25e-b576-4e69-80cf-3d3633371884",
+  "path": "/usr/lib/systemd/user/dirmngr.service",
+  "size": 231,
+  "modified": "2024-03-01T08:25:55Z",
+  "created": "2025-05-09T05:11:23.113185375Z",
+  "sha256_hash": "43483226dd0817aaf0e76b60842a470e690f93ddd09e7d6a6e00338c34ade5eb",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.497468394Z"
+}

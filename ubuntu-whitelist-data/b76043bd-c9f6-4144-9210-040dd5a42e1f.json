@@ -1,0 +1,17 @@
+{
+  "uuid": "b76043bd-c9f6-4144-9210-040dd5a42e1f",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/include/ia32intrin.h",
+  "size": 7865,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.245389810Z",
+  "sha256_hash": "f502c1ae3a3fdf9b12b54b5efdfc54ded85d612b48e1b41a22d44626d454c9a5",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.910888528Z"
+}

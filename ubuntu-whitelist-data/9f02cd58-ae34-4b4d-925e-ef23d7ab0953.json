@@ -1,0 +1,15 @@
+{
+  "uuid": "9f02cd58-ae34-4b4d-925e-ef23d7ab0953",
+  "path": "/lib/python3/dist-packages/cloudinit/sources/DataSourceIBMCloud.py",
+  "size": 14999,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.241037243Z",
+  "sha256_hash": "dbfd36025bd8f00c4a92af454664a69cb3755cb60e5adba6da783c111da2f3c4",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.900639967Z"
+}

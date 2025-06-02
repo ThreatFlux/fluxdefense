@@ -1,0 +1,17 @@
+{
+  "uuid": "c9203321-fa2a-4aa7-aa8b-75d26f78bd89",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/libgphobos.spec",
+  "size": 308,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:20:57.908052907Z",
+  "sha256_hash": "6517e60963c96923e9000c9402239f5482ebc92de99c6d1ad7a16953f0c28f93",
+  "file_type": {
+    "Other": "spec"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.585388879Z"
+}

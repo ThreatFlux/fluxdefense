@@ -1,0 +1,15 @@
+{
+  "uuid": "9a0e264a-c5b2-4958-8b20-3181366f1511",
+  "path": "/lib/llvm-18/lib/libLLVMBOLTTargetRISCV.a",
+  "size": 105994,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.816463956Z",
+  "sha256_hash": "e9cdf8f4cc52be4451a0843609dda35fe7668379e389db576187a71ab1c3e9a8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:43.397436999Z"
+}

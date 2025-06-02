@@ -1,0 +1,17 @@
+{
+  "uuid": "5f627cfb-7ed1-4210-b1aa-dff74e5f972d",
+  "path": "/lib/python3.12/test/certdata/nullbytecert.pem",
+  "size": 5435,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.987551828Z",
+  "sha256_hash": "3454585a198ffea4f78c67d58d1ebe89a0be1107612058e25ed4cb37964f2a71",
+  "file_type": {
+    "Other": "pem"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.633988322Z"
+}

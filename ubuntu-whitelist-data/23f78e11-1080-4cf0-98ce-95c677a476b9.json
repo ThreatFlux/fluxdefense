@@ -1,0 +1,17 @@
+{
+  "uuid": "23f78e11-1080-4cf0-98ce-95c677a476b9",
+  "path": "/usr/lib/firmware/ti-connectivity/wl1251-fw.bin.zst",
+  "size": 110746,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.075534291Z",
+  "sha256_hash": "088e52361dfd568ef8c697f6ee35dd3426fdad2c9d631a219af949340b0faf85",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.573057521Z"
+}

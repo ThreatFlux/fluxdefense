@@ -1,0 +1,17 @@
+{
+  "uuid": "a227dd6b-7532-43dd-b9a3-07e16d44d425",
+  "path": "/lib/firmware/intel/ibt-17-0-1.ddc.zst",
+  "size": 27,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.561541410Z",
+  "sha256_hash": "5c738e9a5b9cc10c4616857c2b728571d4c28851c845f4b0889fdcdf3d53a957",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.188247943Z"
+}

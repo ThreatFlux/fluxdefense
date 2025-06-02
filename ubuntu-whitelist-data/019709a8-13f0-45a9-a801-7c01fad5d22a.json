@@ -1,0 +1,17 @@
+{
+  "uuid": "019709a8-13f0-45a9-a801-7c01fad5d22a",
+  "path": "/lib/llvm-18/include/clang-tidy/readability/UseAnyOfAllOfCheck.h",
+  "size": 1340,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "44b7a03525e0de4aba85d735aba9f21b3f18c968ef57c295af4f134e17c79d7e",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.923078816Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "ace28608-6bdc-465d-8823-e45353ef2cc7",
+  "path": "/usr/lib/firmware/ea/loader_dsp.fw.zst",
+  "size": 291,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.529541854Z",
+  "sha256_hash": "f313df966f6e2720364c2fa5ab34dd34aa693395a4994d41e51af38b4a6b3741",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.657140950Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b3ea22da-8c1f-4ddd-bd54-65df009cbd11",
+  "path": "/lib/llvm-18/include/clang/AST/APValue.h",
+  "size": 23141,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.510533832Z",
+  "sha256_hash": "6baea571de804e9a57238a972a1c52f88fb02f581412338f3a6083336dbbb21f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.004071371Z"
+}

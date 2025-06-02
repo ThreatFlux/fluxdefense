@@ -1,0 +1,17 @@
+{
+  "uuid": "2b60314f-8ee7-4b79-a829-a2b7b0246594",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/modernize/RawStringLiteralCheck.h",
+  "size": 1716,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "707d4ce07bd57332347495c0268f111c7171a9e20c51f670c7eac7b137f8b804",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.257956410Z"
+}

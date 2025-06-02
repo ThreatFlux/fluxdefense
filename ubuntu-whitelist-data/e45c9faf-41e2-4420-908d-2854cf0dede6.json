@@ -1,0 +1,17 @@
+{
+  "uuid": "e45c9faf-41e2-4420-908d-2854cf0dede6",
+  "path": "/usr/lib/modules/6.11.0-26-generic/kernel/crypto/ccm.ko.zst",
+  "size": 10187,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.078797895Z",
+  "sha256_hash": "68b7e92111af541e489dde2190632ed55139dbf9370792d15d6d117a5f5c2a3b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.639576254Z"
+}

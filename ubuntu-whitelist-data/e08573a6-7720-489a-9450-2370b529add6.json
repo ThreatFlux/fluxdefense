@@ -1,0 +1,17 @@
+{
+  "uuid": "e08573a6-7720-489a-9450-2370b529add6",
+  "path": "/usr/lib/python3.12/test/certdata/talos-2019-0758.pem",
+  "size": 1330,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.987551828Z",
+  "sha256_hash": "1e187c9a9e0da993bd129eb8c3d188966814075ff19fe949a56e0e253245f345",
+  "file_type": {
+    "Other": "pem"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.236813269Z"
+}

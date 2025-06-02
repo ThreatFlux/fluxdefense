@@ -1,0 +1,15 @@
+{
+  "uuid": "1393b7ab-2bd1-4956-94ed-f22aea29f259",
+  "path": "/usr/bin/systemd-stdio-bridge",
+  "size": 22992,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.506779266Z",
+  "sha256_hash": "173c851beeae5c5545c7a1239cbba50fdb024ee68d1f055e7f97ffed10a4db65",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.602360316Z"
+}

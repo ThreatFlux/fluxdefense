@@ -1,0 +1,17 @@
+{
+  "uuid": "28893884-16b2-4e3b-850a-ad6e9377d3ba",
+  "path": "/lib/firmware/nvidia/tu102/gr/sw_method_init.bin.zst",
+  "size": 2875,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.943536119Z",
+  "sha256_hash": "4788bce08ef0b051e47f4db0d6b77de20f3153132e46651f80f15a39607108f0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.446246890Z"
+}

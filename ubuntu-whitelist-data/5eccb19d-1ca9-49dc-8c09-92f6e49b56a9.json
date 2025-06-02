@@ -1,0 +1,15 @@
+{
+  "uuid": "5eccb19d-1ca9-49dc-8c09-92f6e49b56a9",
+  "path": "/usr/bin/nice",
+  "size": 35336,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:20.201892785Z",
+  "sha256_hash": "9ef32a9cb2b468870f49924828fa0a14267a0f24c3bfa840ef9ace1d069704d4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.030105434Z"
+}

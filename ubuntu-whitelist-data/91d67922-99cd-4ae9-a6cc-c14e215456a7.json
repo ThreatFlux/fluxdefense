@@ -1,0 +1,17 @@
+{
+  "uuid": "91d67922-99cd-4ae9-a6cc-c14e215456a7",
+  "path": "/lib/firmware/ath10k/QCA6174/hw3.0/notice_ath10k_firmware-4.txt.zst",
+  "size": 8809,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.436543142Z",
+  "sha256_hash": "a143d325a2d4f6e91a626935534ca1bebf77ce84b854ae0b38f55a89fe9caf14",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.958764096Z"
+}

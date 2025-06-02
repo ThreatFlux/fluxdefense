@@ -1,0 +1,17 @@
+{
+  "uuid": "b0f67560-47f2-45bf-8ee9-7a363b90e890",
+  "path": "/usr/lib/udev/hwdb.d/20-acpi-vendor.hwdb",
+  "size": 155058,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.050786220Z",
+  "sha256_hash": "b6a5896d32c488a873838c4129f7b2248c11256d874c90694d56dfe2a8a82dd7",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.121170929Z"
+}

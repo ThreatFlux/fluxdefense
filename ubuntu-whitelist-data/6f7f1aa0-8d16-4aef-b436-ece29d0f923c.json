@@ -1,0 +1,17 @@
+{
+  "uuid": "6f7f1aa0-8d16-4aef-b436-ece29d0f923c",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/SwitchMissingDefaultCaseCheck.h",
+  "size": 1578,
+  "modified": "2023-07-18T07:07:17Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "c8326027117b861b5d176554f6e2f85fe632de9595c188acb7ac7bf7c2d1d6cd",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.900187886Z"
+}

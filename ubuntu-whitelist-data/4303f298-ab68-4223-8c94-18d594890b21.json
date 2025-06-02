@@ -1,0 +1,15 @@
+{
+  "uuid": "4303f298-ab68-4223-8c94-18d594890b21",
+  "path": "/usr/lib/google-cloud-sdk/platform/bq/frontend/bigquery_command.py",
+  "size": 11065,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.813930562Z",
+  "sha256_hash": "f463e4c4c992cd7d005b8c04a5c1e3ca259a766c2c9ab561cf3c2a84e501915a",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.626838596Z"
+}

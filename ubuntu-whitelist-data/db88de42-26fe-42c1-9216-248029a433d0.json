@@ -1,0 +1,17 @@
+{
+  "uuid": "db88de42-26fe-42c1-9216-248029a433d0",
+  "path": "/lib/llvm-18/include/clang/Driver/OptionUtils.h",
+  "size": 2152,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.540533437Z",
+  "sha256_hash": "8bc40a18ae4f2e20150f7d9fe89d1a4e7b6a411f51d62e48e26bcb5d4063e7a8",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.028293684Z"
+}

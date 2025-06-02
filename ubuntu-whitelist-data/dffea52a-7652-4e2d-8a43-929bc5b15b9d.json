@@ -1,0 +1,17 @@
+{
+  "uuid": "dffea52a-7652-4e2d-8a43-929bc5b15b9d",
+  "path": "/lib/firmware/radeon/KABINI_pfp.bin.zst",
+  "size": 3277,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.060534499Z",
+  "sha256_hash": "dd0999e4fb126130a1ba53412cb42f5b8b58491be804b3f5134645f6835f0af6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.387992328Z"
+}

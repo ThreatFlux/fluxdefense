@@ -1,0 +1,15 @@
+{
+  "uuid": "7d549ba0-68e3-4ed8-8f15-5cb973fa6e97",
+  "path": "/usr/lib/systemd/systemd-initctl",
+  "size": 22984,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.518779419Z",
+  "sha256_hash": "f07b71686d2631fb3e0b0f53107bc807c5c28e9380a904a4504a9a87ec04d46c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.438473868Z"
+}

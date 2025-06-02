@@ -1,0 +1,15 @@
+{
+  "uuid": "6cadb278-4e63-451d-b4ef-2ce7a5f83636",
+  "path": "/bin/gpgparsemail",
+  "size": 35200,
+  "modified": "2025-03-28T15:23:49Z",
+  "created": "2025-05-09T05:11:23.297182567Z",
+  "sha256_hash": "1f5ba936d62114c8868bf40abaf47ea804154a8ca81b6929171d8847e32cea82",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.821636421Z"
+}

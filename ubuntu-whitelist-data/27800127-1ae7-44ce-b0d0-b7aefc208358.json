@@ -1,0 +1,17 @@
+{
+  "uuid": "27800127-1ae7-44ce-b0d0-b7aefc208358",
+  "path": "/lib/x86_64-linux-gnu/libabsl_random_internal_randen.so.20220623.0.0",
+  "size": 14512,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.939492424Z",
+  "sha256_hash": "72e0ae2dd208b77f6895fe74026f5edda95f63eba77eb42f66ba95ac38f394dc",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.832422100Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "e2f29ab1-25a8-4c68-adc7-932947c459e1",
+  "path": "/lib/llvm-18/bin/lli-child-target",
+  "size": 1421760,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:34.559493682Z",
+  "sha256_hash": "9e62968df4c0e0b4a3b8945701bca62b368ffb33a88d84e724e90e7d87b7e8ea",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.657474186Z"
+}

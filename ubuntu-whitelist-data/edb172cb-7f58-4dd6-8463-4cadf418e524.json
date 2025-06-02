@@ -1,0 +1,17 @@
+{
+  "uuid": "edb172cb-7f58-4dd6-8463-4cadf418e524",
+  "path": "/lib/x86_64-linux-gnu/libportal-gtk4.so.1.0.0",
+  "size": 34728,
+  "modified": "2024-04-15T12:04:13Z",
+  "created": "2025-05-09T05:07:31.877714617Z",
+  "sha256_hash": "4b26412acdd3676ed4f264bda63cf4ae14735d602104d806de860385a485e21b",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.607320539Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "91469218-e55f-41a8-9f50-3aaccc2e418d",
+  "path": "/usr/lib/firmware/meson/vdec/gxbb_h264.bin.zst",
+  "size": 13334,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.790538238Z",
+  "sha256_hash": "2e0a8cdc7c2d27746945470b8379cd17ccb1f2163f346aad362209f370a5a2a7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.494414962Z"
+}

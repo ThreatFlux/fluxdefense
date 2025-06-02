@@ -1,0 +1,17 @@
+{
+  "uuid": "638d962b-53ba-4690-9e6f-dfa229f1b8d1",
+  "path": "/usr/lib/firmware/amdgpu/kaveri_rlc.bin.zst",
+  "size": 5121,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.403543599Z",
+  "sha256_hash": "05963bf8d212e7da9ee8d2459e801a095ae450fd4f3ee0d5523018bfdfb215f3",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.846286518Z"
+}

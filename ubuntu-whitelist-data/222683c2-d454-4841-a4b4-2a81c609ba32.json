@@ -1,0 +1,15 @@
+{
+  "uuid": "222683c2-d454-4841-a4b4-2a81c609ba32",
+  "path": "/lib/llvm-18/lib/libclangAnalysisFlowSensitive.a",
+  "size": 995142,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.622532357Z",
+  "sha256_hash": "17549a2828c884d37e4c44d79621bb8ff49531146159de627600206c78b500a3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.214638761Z"
+}

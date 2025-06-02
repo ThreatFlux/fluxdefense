@@ -1,0 +1,17 @@
+{
+  "uuid": "2596505a-b106-48e8-b5f1-09302c7e8427",
+  "path": "/lib/llvm-18/include/clang-tidy/readability/SimplifySubscriptExprCheck.h",
+  "size": 1546,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "e24ba1c1c44d915efb85974a7111295544476a012df14246a2271e2e2a5762da",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.922419235Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "ac7c0c1c-689e-4153-99c6-5cdba99e0002",
+  "path": "/usr/sbin/offcputime-bpfcc",
+  "size": 13779,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "3d80035b060f9f6954cbba46b87f7903abdb4d7de6644367c2cea78d29de9a42",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.292179480Z"
+}

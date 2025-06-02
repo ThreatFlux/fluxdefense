@@ -1,0 +1,15 @@
+{
+  "uuid": "03e8fa33-2be4-4b02-b3d8-4e5a37c4e80f",
+  "path": "/bin/sbvarsign",
+  "size": 23280,
+  "modified": "2024-04-08T14:49:32Z",
+  "created": "2025-05-09T05:07:20.406889657Z",
+  "sha256_hash": "983278f12aa21344188982f08a98b4ece35e887b8d94e2e02286fac924006489",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.434884707Z"
+}

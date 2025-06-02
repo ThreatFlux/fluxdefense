@@ -1,0 +1,17 @@
+{
+  "uuid": "80bfe675-c6f1-4679-85c1-8fa9ec43f873",
+  "path": "/usr/lib/google-cloud-sdk/.install/gcloud-crc32c-linux-x86_64.manifest",
+  "size": 63,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.314922053Z",
+  "sha256_hash": "5da2dd970e077b6315a49d9270f791ee9f65eef5c217bb0c27b87868ddefd29e",
+  "file_type": {
+    "Other": "manifest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.537405006Z"
+}

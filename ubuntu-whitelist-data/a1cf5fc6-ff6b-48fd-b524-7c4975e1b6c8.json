@@ -1,0 +1,17 @@
+{
+  "uuid": "a1cf5fc6-ff6b-48fd-b524-7c4975e1b6c8",
+  "path": "/lib/systemd/system/bluetooth.service",
+  "size": 759,
+  "modified": "2025-02-25T06:11:15Z",
+  "created": "2025-05-09T05:24:15.926810288Z",
+  "sha256_hash": "4386f57721502d49bbeffd6acb98437dd58d65419724eb5f6c8af6b78ff6ec86",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.105077471Z"
+}

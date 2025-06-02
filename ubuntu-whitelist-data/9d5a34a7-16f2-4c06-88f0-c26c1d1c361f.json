@@ -1,0 +1,17 @@
+{
+  "uuid": "9d5a34a7-16f2-4c06-88f0-c26c1d1c361f",
+  "path": "/lib/llvm-18/include/clang/Frontend/VerifyDiagnosticConsumer.h",
+  "size": 5914,
+  "modified": "2023-12-03T09:16:48Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "929d352bb5e88d4da942bc84af75a8f0baab01d525f9116bffbe9fb84d9f716b",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.926524264Z"
+}

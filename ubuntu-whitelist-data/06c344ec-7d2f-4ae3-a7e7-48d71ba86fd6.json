@@ -1,0 +1,17 @@
+{
+  "uuid": "06c344ec-7d2f-4ae3-a7e7-48d71ba86fd6",
+  "path": "/lib/firmware/mediatek/mt7615_rom_patch.bin.zst",
+  "size": 5931,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.676539818Z",
+  "sha256_hash": "33a2121f6255b6f856d72d60daa7bfcfe01892b9e4535a8fe842e81d06239ecc",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.039371991Z"
+}

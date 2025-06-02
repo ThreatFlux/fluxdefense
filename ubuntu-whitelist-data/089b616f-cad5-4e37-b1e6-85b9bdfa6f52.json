@@ -1,0 +1,17 @@
+{
+  "uuid": "089b616f-cad5-4e37-b1e6-85b9bdfa6f52",
+  "path": "/lib/firmware/amdgpu/vega10_vce.bin.zst",
+  "size": 103395,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.424543308Z",
+  "sha256_hash": "edb8a5ad2ac0b39d551fbb2d298e404b94370a5e6c2b6b949a268407bf6586e5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.943311702Z"
+}

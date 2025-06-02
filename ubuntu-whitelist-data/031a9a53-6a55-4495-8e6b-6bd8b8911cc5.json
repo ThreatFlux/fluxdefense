@@ -1,0 +1,17 @@
+{
+  "uuid": "031a9a53-6a55-4495-8e6b-6bd8b8911cc5",
+  "path": "/lib/libreoffice/program/opengl/vortexFragmentShader.glsl",
+  "size": 2119,
+  "modified": "2024-10-29T11:14:30Z",
+  "created": "2025-05-09T05:11:19.580239304Z",
+  "sha256_hash": "ece0fe97962b6e6c525f382b50efea555fcbc688a5843e462848a301c6200bd4",
+  "file_type": {
+    "Other": "glsl"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:50.104480901Z"
+}

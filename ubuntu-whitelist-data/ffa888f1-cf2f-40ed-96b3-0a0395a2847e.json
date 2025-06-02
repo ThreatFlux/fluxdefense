@@ -1,0 +1,17 @@
+{
+  "uuid": "ffa888f1-cf2f-40ed-96b3-0a0395a2847e",
+  "path": "/lib/firmware/edgeport/boot2.fw.zst",
+  "size": 3554,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.529541854Z",
+  "sha256_hash": "57e2ab228d9415213eb248201eea5f432884e86792cddab5864e7b513dde503a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.695977907Z"
+}

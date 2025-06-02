@@ -1,0 +1,17 @@
+{
+  "uuid": "32c9609d-557c-432f-ab49-5344ef17efbf",
+  "path": "/usr/lib/x86_64-linux-gnu/libXpm.so.4.11.0",
+  "size": 76528,
+  "modified": "2024-03-31T08:02:41Z",
+  "created": "2025-05-09T05:07:29.061757588Z",
+  "sha256_hash": "a04a02188e8581f3b1b8620e591aa5e5e23940d1a204afea590cffb559d4ab39",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.454009703Z"
+}

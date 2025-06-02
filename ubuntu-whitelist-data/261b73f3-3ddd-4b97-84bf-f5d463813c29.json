@@ -1,0 +1,17 @@
+{
+  "uuid": "261b73f3-3ddd-4b97-84bf-f5d463813c29",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/icu-uc.pc",
+  "size": 1286,
+  "modified": "2024-08-09T02:33:20Z",
+  "created": "2025-05-12T13:34:33.865502822Z",
+  "sha256_hash": "b761962ebddc0b234a6b61621566d4f245328d837808cfee27d01dc47249de28",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.061881236Z"
+}

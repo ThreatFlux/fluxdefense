@@ -1,0 +1,17 @@
+{
+  "uuid": "50042e3b-658c-45f4-83da-daf6e9b0dcbc",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/cairo-png.pc",
+  "size": 176,
+  "modified": "2024-04-16T13:33:30Z",
+  "created": "2025-05-29T11:16:06.229057020Z",
+  "sha256_hash": "3ee785eb75b61847cfff2ed35a6ac98f9f64c9e593291de54c71bd00725caa54",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.061735584Z"
+}

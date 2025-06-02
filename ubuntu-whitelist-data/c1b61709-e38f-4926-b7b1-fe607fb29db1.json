@@ -1,0 +1,17 @@
+{
+  "uuid": "c1b61709-e38f-4926-b7b1-fe607fb29db1",
+  "path": "/usr/lib/firmware/i915/adlp_guc_70.bin.zst",
+  "size": 128601,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.532541812Z",
+  "sha256_hash": "b791950ac08e0e7a02d9db4d649c5637ae69c9ae61ec6ad71e43a48b31486c17",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.798351782Z"
+}

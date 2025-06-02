@@ -1,0 +1,17 @@
+{
+  "uuid": "cd0d48f1-ae32-43d3-8704-c85caeaf8d43",
+  "path": "/lib/firmware/nvidia/ad102/gsp/booter_load-535.113.01.bin.zst",
+  "size": 30961,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.901536701Z",
+  "sha256_hash": "8eca833e55ceeff0855873a59b4ac074fff6a01e343168a74ff35be160d40d21",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.433607150Z"
+}

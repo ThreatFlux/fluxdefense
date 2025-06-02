@@ -1,0 +1,17 @@
+{
+  "uuid": "1d9fa17b-ee00-4d12-894f-01fc6dcae847",
+  "path": "/lib/x86_64-linux-gnu/perl5/5.38/HTML/HeadParser.pm",
+  "size": 8515,
+  "modified": "2023-01-31T03:12:33Z",
+  "created": "2025-05-09T05:07:36.877638319Z",
+  "sha256_hash": "d54683707cdcb1c88901c2892b3aedac55d3bff182fd6a75d722ac118c434be0",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.335909673Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "457d49fe-9aa0-4e63-ac01-ba5cd3aaa7c7",
+  "path": "/lib/x86_64-linux-gnu/samba/ldb/memberof.so",
+  "size": 73128,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:37.126634519Z",
+  "sha256_hash": "ed7616e365f35e778cc8e6a87ac9c8f270594b02ecfac2b381d22b962c7ebb88",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.481562410Z"
+}

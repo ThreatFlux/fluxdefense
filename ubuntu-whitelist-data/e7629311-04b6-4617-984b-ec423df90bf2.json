@@ -1,0 +1,17 @@
+{
+  "uuid": "e7629311-04b6-4617-984b-ec423df90bf2",
+  "path": "/usr/lib/firmware/ath6k/AR6003/hw2.0/otp.bin.z77.zst",
+  "size": 3324,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.474542615Z",
+  "sha256_hash": "4010d62546b4179a0ad85853d543dc96281264a58ea14abeba8f98e292570dae",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.536896453Z"
+}

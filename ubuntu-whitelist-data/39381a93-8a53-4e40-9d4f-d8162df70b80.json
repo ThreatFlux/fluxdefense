@@ -1,0 +1,15 @@
+{
+  "uuid": "39381a93-8a53-4e40-9d4f-d8162df70b80",
+  "path": "/usr/lib/llvm-18/lib/libclangTidyAndroidModule.a",
+  "size": 909330,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.840529486Z",
+  "sha256_hash": "59657dd98175d3ec27f6b8d33041dbd8637564fb8b95b336078cdd0dee67b2ca",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:33.692935628Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c5c103cc-c15b-4769-b956-bfcc68ce2816",
+  "path": "/usr/lib/llvm-18/include/clang/Lex/Pragma.h",
+  "size": 4711,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.544533384Z",
+  "sha256_hash": "601a8613f528093670364fe81f8425bd8b45024595a8c85df97f29a2dece366b",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.618276571Z"
+}

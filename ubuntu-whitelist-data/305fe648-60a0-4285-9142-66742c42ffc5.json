@@ -1,0 +1,17 @@
+{
+  "uuid": "305fe648-60a0-4285-9142-66742c42ffc5",
+  "path": "/usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/libhashbrown-2b018f940072398c.rlib",
+  "size": 1655042,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T17:41:10.542617448Z",
+  "sha256_hash": "a7ae77c1000a7ffb75a61f405a7b51cba6c9c5599e51228bcd9f5e55355c6dd8",
+  "file_type": {
+    "Other": "rlib"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.615462165Z"
+}

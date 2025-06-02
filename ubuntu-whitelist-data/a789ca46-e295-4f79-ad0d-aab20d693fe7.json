@@ -1,0 +1,17 @@
+{
+  "uuid": "a789ca46-e295-4f79-ad0d-aab20d693fe7",
+  "path": "/lib/grub/x86_64-efi/part_dfly.mod",
+  "size": 2720,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.837708018Z",
+  "sha256_hash": "580e66093b7e4d20b718cd58d363aa9d7a7ec77714531f7dfc48fbd0991d7636",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.028108071Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d8f9faad-36b9-41be-9742-4c48409587b3",
+  "path": "/lib/x86_64-linux-gnu/libgnome-desktop-4.so.2.1.0",
+  "size": 126336,
+  "modified": "2024-03-31T01:12:48Z",
+  "created": "2025-05-09T05:07:29.820746006Z",
+  "sha256_hash": "bee95c4bff128b7d41779572919811eb9ea5ea80ed749cc487b96ceba7147efa",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.996166478Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "e5ec2d23-3422-4f14-a3de-b1933d1e8c58",
+  "path": "/usr/lib/x86_64-linux-gnu/security/pam_pwquality.so",
+  "size": 14328,
+  "modified": "2024-04-08T16:06:33Z",
+  "created": "2025-05-09T05:07:37.201633375Z",
+  "sha256_hash": "85ad04f8ff6b174d344b6892869362e969f839a9fa5de0e46b1363c87fa65adc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.665797179Z"
+}

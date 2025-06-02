@@ -1,0 +1,15 @@
+{
+  "uuid": "4f789804-c265-4105-97a1-eedb038ccc77",
+  "path": "/usr/lib/evolution-data-server/camel-providers/libcamelpop3.so",
+  "size": 80800,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:21.658870553Z",
+  "sha256_hash": "fb256a173edb286587aaae8073954b8b5856179ad8c92dc4854a31f946d86070",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.038396156Z"
+}

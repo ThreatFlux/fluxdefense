@@ -1,0 +1,17 @@
+{
+  "uuid": "0ade4366-ea46-458c-9d8e-dfb8841d9cc8",
+  "path": "/usr/lib/firmware/amdgpu/picasso_rlc.bin.zst",
+  "size": 10761,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.407543543Z",
+  "sha256_hash": "f53f9f021e6bab0bf209818099ad2b68254413913130399d539680f453c04e4d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.807756264Z"
+}

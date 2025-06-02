@@ -1,0 +1,17 @@
+{
+  "uuid": "d3e3fcae-cd12-4d46-9c0c-098be9a71ddd",
+  "path": "/usr/lib/firmware/nvidia/gm20b/acr/ucode_load.bin.zst",
+  "size": 4911,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.938536188Z",
+  "sha256_hash": "1b2f4a80e99bd96ef67c15732f8892241076e367956a4b1c17ace09485e19fb8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.277862830Z"
+}

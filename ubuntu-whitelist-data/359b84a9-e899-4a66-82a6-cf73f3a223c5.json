@@ -1,0 +1,17 @@
+{
+  "uuid": "359b84a9-e899-4a66-82a6-cf73f3a223c5",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/include/nmmintrin.h",
+  "size": 1288,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.245389810Z",
+  "sha256_hash": "79d248065ced169c32fa0c89688254bc9a52cc5fd45cff1d48371dc00a8c1c04",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.923379821Z"
+}

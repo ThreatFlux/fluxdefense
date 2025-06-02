@@ -1,0 +1,17 @@
+{
+  "uuid": "188e8b65-677c-49da-aa29-59bc2a9d8e15",
+  "path": "/lib/dhcpcd/dhcpcd-hooks/30-hostname",
+  "size": 3764,
+  "modified": "2024-05-07T10:12:01Z",
+  "created": "2025-05-09T05:07:21.655870599Z",
+  "sha256_hash": "4095c986cb626310918a47209720da2b8348b1f5d50777f09cfd5538a9bb1a24",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.434401461Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "68b9b1d5-87cf-4648-b316-fa865cda0605",
+  "path": "/lib/systemd/systemd-export",
+  "size": 39376,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:56:53.645596490Z",
+  "sha256_hash": "294729e2cafd8735e9707bbda07686f263d682b0f88303dec5a0cc2ee6888f7f",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.184080516Z"
+}

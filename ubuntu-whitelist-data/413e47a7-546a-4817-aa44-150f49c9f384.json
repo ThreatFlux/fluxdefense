@@ -1,0 +1,17 @@
+{
+  "uuid": "413e47a7-546a-4817-aa44-150f49c9f384",
+  "path": "/usr/lib/udev/rules.d/90-libgpod.rules",
+  "size": 1866,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:28.439767079Z",
+  "sha256_hash": "7a72f7f9e206cdc09fb8e62af66f022b7e83d35ef93511e3ea88384ea763fcbd",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.107469295Z"
+}

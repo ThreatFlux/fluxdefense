@@ -1,0 +1,17 @@
+{
+  "uuid": "ac6468c3-9847-4d31-b3c1-d85cae7d745b",
+  "path": "/usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/libaddr2line-724ae4ee6ef0156e.rlib",
+  "size": 457836,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T17:41:10.422619255Z",
+  "sha256_hash": "b0858a888792e2f533a561ef4a66822b7b40a5629e5be57f4bb6e074b97df411",
+  "file_type": {
+    "Other": "rlib"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.419203617Z"
+}

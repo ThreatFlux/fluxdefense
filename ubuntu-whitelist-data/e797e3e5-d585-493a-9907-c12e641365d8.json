@@ -1,0 +1,17 @@
+{
+  "uuid": "e797e3e5-d585-493a-9907-c12e641365d8",
+  "path": "/lib/firmware/intel/vsc/ivsc_pkg_ovti9738_0.bin.zst",
+  "size": 402326,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.578541175Z",
+  "sha256_hash": "24c54d8391915c1fe46d58a571d696bc8bedaafb3709d8f11e1000668801ae07",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.308411632Z"
+}

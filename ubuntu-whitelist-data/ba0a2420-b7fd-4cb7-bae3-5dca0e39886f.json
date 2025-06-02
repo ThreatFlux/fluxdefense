@@ -1,0 +1,15 @@
+{
+  "uuid": "ba0a2420-b7fd-4cb7-bae3-5dca0e39886f",
+  "path": "/usr/lib/llvm-18/lib/libLLVMIRPrinter.a",
+  "size": 10462,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.898462876Z",
+  "sha256_hash": "f7d1348bfb1354db550bd0c8fe561cd889a92ac4c799668a448400e7819829b1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:29.520080863Z"
+}

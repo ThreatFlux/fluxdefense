@@ -1,0 +1,17 @@
+{
+  "uuid": "0826739a-ab83-4373-9ba7-fffc8f07c92f",
+  "path": "/usr/lib/grub/x86_64-efi/gcry_idea.mod",
+  "size": 4080,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.806708491Z",
+  "sha256_hash": "e1b398a625fa79a5aba311f1d47eb0c01db76012cb177670eb09ad341afda898",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.484992148Z"
+}

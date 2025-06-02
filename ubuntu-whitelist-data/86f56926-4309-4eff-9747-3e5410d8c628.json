@@ -1,0 +1,15 @@
+{
+  "uuid": "86f56926-4309-4eff-9747-3e5410d8c628",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/functions/set_iam_policy.py",
+  "size": 2152,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.638933535Z",
+  "sha256_hash": "70b3ecf4eb9f42ac3334d138fe8cd50bf5b45bd8f50c401ad6d97e93d7ddd0b3",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.778419405Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "3b24ba15-abfb-4687-904d-e92dbaf46c45",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/PrettyStackTrace.h",
+  "size": 1293,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "28c636561a229fe7e7d18ade312a29d7127084ad4881523b9ee5c2fae0425621",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.599509164Z"
+}

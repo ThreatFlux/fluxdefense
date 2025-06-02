@@ -1,0 +1,17 @@
+{
+  "uuid": "cca3818e-c2cb-4fc8-a668-64b4fe99767c",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/SuspiciousEnumUsageCheck.h",
+  "size": 1512,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "db71c211c51bb541c6c9e1f974ae386114b5e54736d05278b8f1b27ffbfcfd73",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.237411619Z"
+}

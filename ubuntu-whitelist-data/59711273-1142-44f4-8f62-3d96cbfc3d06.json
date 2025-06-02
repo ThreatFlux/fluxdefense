@@ -1,0 +1,17 @@
+{
+  "uuid": "59711273-1142-44f4-8f62-3d96cbfc3d06",
+  "path": "/lib/systemd/system/snapd.mounts-pre.target",
+  "size": 144,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.384025824Z",
+  "sha256_hash": "61d7f200ea95e2dfac4bbedb96c87cff294d6c2abd272da280a004e192a3a4c6",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.118360802Z"
+}

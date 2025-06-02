@@ -1,0 +1,17 @@
+{
+  "uuid": "cd915e28-5fb9-4bd5-b94f-d7e6e4c78e6e",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/xcomposite.pc",
+  "size": 300,
+  "modified": "2024-04-08T16:09:20Z",
+  "created": "2025-05-29T11:16:08.127030976Z",
+  "sha256_hash": "d85c916e495ef17725d5b1563f780aaf4a6260a25dcfcad55572081d0c2c83bd",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.059821923Z"
+}

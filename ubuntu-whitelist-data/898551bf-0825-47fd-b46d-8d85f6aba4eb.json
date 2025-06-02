@@ -1,0 +1,15 @@
+{
+  "uuid": "898551bf-0825-47fd-b46d-8d85f6aba4eb",
+  "path": "/lib/google-cloud-sdk/lib/third_party/urllib3/connectionpool.py",
+  "size": 43519,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.163941605Z",
+  "sha256_hash": "227c92fb6ad079572c34cd663af476769a10ca463e62cf82ed295dcd370571ef",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.974857722Z"
+}

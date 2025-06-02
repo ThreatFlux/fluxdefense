@@ -1,0 +1,15 @@
+{
+  "uuid": "1a868211-5e74-423a-ae0e-42f525ab1d01",
+  "path": "/bin/fc-query",
+  "size": 14720,
+  "modified": "2024-03-31T00:59:34Z",
+  "created": "2025-05-09T05:07:19.212907877Z",
+  "sha256_hash": "9aae9d3ced20be02e643c47cb026bbf43560d7443675adbc19051d068a621409",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.358334301Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "25dec53c-0611-4a28-b104-0dc0b5d1a9db",
+  "path": "/lib/x86_64-linux-gnu/libobjc.so.4.0.0",
+  "size": 92192,
+  "modified": "2024-09-09T13:21:53Z",
+  "created": "2025-05-12T13:34:30.381548701Z",
+  "sha256_hash": "1580794f8ef845c5c953af2d6978c4a0349fec8a24e9c72ec3910eda156c4db8",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.735726955Z"
+}

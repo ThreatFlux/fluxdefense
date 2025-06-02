@@ -1,0 +1,15 @@
+{
+  "uuid": "9feecd7d-578b-443a-ac8f-9d4e943f26e2",
+  "path": "/lib/x86_64-linux-gnu/rsyslog/mmrm1stspace.so",
+  "size": 14632,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.547922264Z",
+  "sha256_hash": "9a70f740d8aa55247c3a39130f145bbac9cb294cbf4f1388f0b0070e06f8343f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.854540766Z"
+}

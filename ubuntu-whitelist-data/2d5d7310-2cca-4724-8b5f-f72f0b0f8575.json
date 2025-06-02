@@ -1,0 +1,17 @@
+{
+  "uuid": "2d5d7310-2cca-4724-8b5f-f72f0b0f8575",
+  "path": "/lib/llvm-18/include/clang/Basic/IdentifierTable.h",
+  "size": 41910,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.530533568Z",
+  "sha256_hash": "9bd568b2cbae7dde5cea051802ba3d605d62b88a6d6f0bc57f14d018c63597db",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.071181964Z"
+}

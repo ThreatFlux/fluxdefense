@@ -1,0 +1,15 @@
+{
+  "uuid": "da3ec6cd-c574-4ee7-bc6a-4a2ff8f57b83",
+  "path": "/sbin/mountsnoop-bpfcc",
+  "size": 14968,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "2c2353c8d9aa24dcd996812e70b211a7dd488b49de5e722b4af4abfed305b895",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.737778959Z"
+}

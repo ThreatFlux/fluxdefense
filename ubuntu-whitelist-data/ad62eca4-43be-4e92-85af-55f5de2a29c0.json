@@ -1,0 +1,17 @@
+{
+  "uuid": "ad62eca4-43be-4e92-85af-55f5de2a29c0",
+  "path": "/usr/lib/x86_64-linux-gnu/libnvoptix.so.550.144.03",
+  "size": 59927784,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:02.221955323Z",
+  "sha256_hash": "8e72dad3b7f79d1ee3b8056611255da04e13b4ec7c46af1beed71b3338fd1bc5",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:22.979058967Z"
+}

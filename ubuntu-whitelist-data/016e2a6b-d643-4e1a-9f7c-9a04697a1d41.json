@@ -1,0 +1,17 @@
+{
+  "uuid": "016e2a6b-d643-4e1a-9f7c-9a04697a1d41",
+  "path": "/lib/firmware/nvidia/ga102/sec2/desc.bin.zst",
+  "size": 135,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.935536230Z",
+  "sha256_hash": "de7ef9ab5cc5e3111626c9c46f9f9b9c0d0d5a8db05d457a32929a1f3be96119",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.134874940Z"
+}

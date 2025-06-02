@@ -1,0 +1,17 @@
+{
+  "uuid": "18e7d27a-e3f2-4658-9beb-71928e1d9d9d",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/EmptyCatchCheck.h",
+  "size": 1508,
+  "modified": "2023-07-25T16:40:18Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "043cd8994ae9922440fd06ff199ca9211a3a6575573b758f75965b4dddc33b5e",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.900510458Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "946b6cd3-67fa-412a-81ee-c7702126c180",
+  "path": "/bin/nsupdate",
+  "size": 76344,
+  "modified": "2025-01-28T14:26:30Z",
+  "created": "2025-05-09T05:07:20.239892206Z",
+  "sha256_hash": "2b8476cb4e5904ab60aa1b12ceb57c18a993c8ce42241e2394dd5faef37ba8ba",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.643910881Z"
+}

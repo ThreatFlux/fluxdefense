@@ -1,0 +1,15 @@
+{
+  "uuid": "aec90c6e-3b64-436e-8a41-1f44d6488173",
+  "path": "/lib/google-cloud-sdk/lib/surface/iam/list_grantable_roles.py",
+  "size": 3230,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.729931989Z",
+  "sha256_hash": "e56528eaef0d8f8d25e3043056f048a549b21c0e4135d001600cfc14407c2665",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.041419852Z"
+}

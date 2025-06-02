@@ -1,0 +1,17 @@
+{
+  "uuid": "26716824-ca7a-4663-b714-ec7ff9f6ef09",
+  "path": "/lib/llvm-18/include/clang-tidy/modernize/UnaryStaticAssertCheck.h",
+  "size": 1364,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "2712e4503b324b2424612a68975cad5c001f4c43b4cb76bd3f8075f138ca8442",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.908943242Z"
+}

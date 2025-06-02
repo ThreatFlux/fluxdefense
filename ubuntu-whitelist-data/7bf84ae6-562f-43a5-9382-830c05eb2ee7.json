@@ -1,0 +1,15 @@
+{
+  "uuid": "7bf84ae6-562f-43a5-9382-830c05eb2ee7",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_limit.so",
+  "size": 14968,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.335631330Z",
+  "sha256_hash": "1469c3e1d46698c9b98dc957e1966192e8f1f9bde2e49f9b1c4503f5d7b34936",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.679956374Z"
+}

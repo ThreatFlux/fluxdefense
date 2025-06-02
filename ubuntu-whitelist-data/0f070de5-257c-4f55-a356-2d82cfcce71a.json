@@ -1,0 +1,17 @@
+{
+  "uuid": "0f070de5-257c-4f55-a356-2d82cfcce71a",
+  "path": "/usr/lib/x86_64-linux-gnu/samba/libsys-rw-samba4.so.0",
+  "size": 14568,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.119634626Z",
+  "sha256_hash": "c9684e2850777fe22759abee87d5ce4984fb13b1d063764e0672b7de7f8ee947",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.416580628Z"
+}

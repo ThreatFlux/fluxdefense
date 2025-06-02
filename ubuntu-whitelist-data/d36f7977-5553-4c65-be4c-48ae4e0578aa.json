@@ -1,0 +1,15 @@
+{
+  "uuid": "d36f7977-5553-4c65-be4c-48ae4e0578aa",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libip6t_SNPT.so",
+  "size": 14784,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.326631467Z",
+  "sha256_hash": "a3cd8e48c51e314b34fc1b38dbd4643a1e9bd5c670f895dc0d49ef11440f59cc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.251614402Z"
+}

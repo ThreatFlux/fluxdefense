@@ -1,0 +1,15 @@
+{
+  "uuid": "e322b3f1-c8c4-462e-9568-2a224f4791eb",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM274.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.277663461Z",
+  "sha256_hash": "461733a5db1f397d35e87121e14c04e7a4d84ad6a436b119e71510e303ea7725",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.986908574Z"
+}

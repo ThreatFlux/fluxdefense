@@ -1,0 +1,15 @@
+{
+  "uuid": "102d1c1b-0866-47a5-b971-a27be9e544b3",
+  "path": "/lib/x86_64-linux-gnu/rhythmbox/plugins/fmradio/libfmradio.so",
+  "size": 35296,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:36.988636625Z",
+  "sha256_hash": "deb7fc6595f14179559008b2a68bafd9e19c9308b65350a2dab5d06162ee49f1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.321089329Z"
+}

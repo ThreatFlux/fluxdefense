@@ -1,0 +1,15 @@
+{
+  "uuid": "6dd11237-79df-46e5-b412-77689c7a6dbd",
+  "path": "/lib/xorg/modules/drivers/radeon_drv.so",
+  "size": 489824,
+  "modified": "2024-04-08T16:23:28Z",
+  "created": "2025-05-09T05:07:37.390630491Z",
+  "sha256_hash": "b9e44f797d48f5b959e9c6e7b5594eb80428dd820743936aef83aded71d411cb",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.699192029Z"
+}

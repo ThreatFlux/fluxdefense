@@ -1,0 +1,17 @@
+{
+  "uuid": "d74393ae-70ee-4b89-bdd3-820023ae918a",
+  "path": "/lib/x86_64-linux-gnu/libjbig.so.0",
+  "size": 66400,
+  "modified": "2024-04-08T16:00:28Z",
+  "created": "2025-05-09T05:07:31.328722995Z",
+  "sha256_hash": "6fea8a26ef5e0d2a36d296d7d0ec0c1f0894bf796b5824317bea88c090833a62",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.557996877Z"
+}

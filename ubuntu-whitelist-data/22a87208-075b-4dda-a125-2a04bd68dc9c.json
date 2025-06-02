@@ -1,0 +1,17 @@
+{
+  "uuid": "22a87208-075b-4dda-a125-2a04bd68dc9c",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/freetype2.pc",
+  "size": 363,
+  "modified": "2024-03-31T05:23:47Z",
+  "created": "2025-05-29T11:16:04.193084957Z",
+  "sha256_hash": "0223fea432f3f7a804e48835655b567554ee7f87650f2ac863375358053d6f06",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.108914387Z"
+}

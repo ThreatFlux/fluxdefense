@@ -1,0 +1,17 @@
+{
+  "uuid": "29b18c27-a15c-4c03-b6bc-bc59ce3d1a63",
+  "path": "/lib/x86_64-linux-gnu/fpc/3.2.2/msg/errorpli.msg",
+  "size": 136471,
+  "modified": "2024-01-05T07:40:08Z",
+  "created": "2025-05-29T11:15:46.762324132Z",
+  "sha256_hash": "895d3c1c0a8492eb8a560f18a968db680d046df7956e3d9b48e811d5c3226a98",
+  "file_type": {
+    "Other": "msg"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.792795978Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "26e50933-5fbf-41a3-9cca-3ffd63b2212b",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libip6t_REJECT.so",
+  "size": 14784,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.326631467Z",
+  "sha256_hash": "3dc4276e451987732e3d30b34df8aabe92289e374438f6929de8224fb6bbd77c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.245123891Z"
+}

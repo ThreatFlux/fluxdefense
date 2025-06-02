@@ -1,0 +1,15 @@
+{
+  "uuid": "715f9c3e-8dc1-40dc-b38c-803984aa373b",
+  "path": "/lib/python3/dist-packages/cloudinit/config/cc_yum_add_repo.py",
+  "size": 4641,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.236037177Z",
+  "sha256_hash": "cdd0456d3de92ec32e997bc33ecc4839e66880fb6671fb033720605910082e0b",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.919050929Z"
+}

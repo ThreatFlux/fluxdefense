@@ -1,0 +1,17 @@
+{
+  "uuid": "95a69a3f-0cc6-4aca-9b26-f7d6587eb8e4",
+  "path": "/lib/llvm-18/include/clang/Basic/DiagnosticLexKinds.inc",
+  "size": 74089,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.528533595Z",
+  "sha256_hash": "3a756869aa19267803d804ae8f21f54bce80d0ff8b57dabc0dee34f50883f0d3",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.131036920Z"
+}

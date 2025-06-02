@@ -1,0 +1,15 @@
+{
+  "uuid": "5b6c96c0-3f8e-4e9b-b723-a78c10d90d7a",
+  "path": "/usr/lib/python3/dist-packages/systemd/test/test_daemon.py",
+  "size": 12115,
+  "modified": "2022-08-16T13:50:06Z",
+  "created": "2025-05-09T05:07:27.424782568Z",
+  "sha256_hash": "e0db48d1259f7e406da2bd02287540d8d0b8d5aa9c42b1f30a5a9f38885c9916",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.288921615Z"
+}

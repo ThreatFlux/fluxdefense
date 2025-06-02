@@ -1,0 +1,15 @@
+{
+  "uuid": "ef624fa3-d606-4423-8214-df2f17ab5d3f",
+  "path": "/bin/linkicc",
+  "size": 27000,
+  "modified": "2024-04-08T16:01:07Z",
+  "created": "2025-05-09T05:07:20.102894296Z",
+  "sha256_hash": "ddc5a14db9ba0f0b2c9dce381f8d802d78d710de026a3d516c505a7690333ce9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.811898357Z"
+}

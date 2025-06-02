@@ -1,0 +1,17 @@
+{
+  "uuid": "da5f48a3-e066-471c-8ce5-cf1be88ed512",
+  "path": "/lib/llvm-18/include/clang/Basic/BuiltinHeaders.def",
+  "size": 1565,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.525533634Z",
+  "sha256_hash": "a45b9f96e19e501cd61559b7fa6646c3ec2beb4196d00345b13c70685b4deaef",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.095907556Z"
+}

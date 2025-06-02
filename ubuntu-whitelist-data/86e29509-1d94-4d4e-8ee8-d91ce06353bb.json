@@ -1,0 +1,17 @@
+{
+  "uuid": "86e29509-1d94-4d4e-8ee8-d91ce06353bb",
+  "path": "/lib/x86_64-linux-gnu/libnvme.so.1.8.0",
+  "size": 187712,
+  "modified": "2025-02-03T13:14:35Z",
+  "created": "2025-05-09T05:24:30.804004816Z",
+  "sha256_hash": "b67ccbcd2bbbab5f88efe1d9f2b34e5f9581964c2364637b466069fd24a95e2b",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.096051775Z"
+}

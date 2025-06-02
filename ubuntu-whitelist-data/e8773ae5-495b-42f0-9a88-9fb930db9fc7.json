@@ -1,0 +1,17 @@
+{
+  "uuid": "e8773ae5-495b-42f0-9a88-9fb930db9fc7",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-glk-es8336-dmic4ch-ssp5.tplg.zst",
+  "size": 1703,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.059490968Z",
+  "sha256_hash": "5aceba54b13f7532643f10ac7050bc643770bca4377b537becd85d311bcbeaf5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.873150845Z"
+}

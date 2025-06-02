@@ -1,0 +1,17 @@
+{
+  "uuid": "01dba9cd-034f-4f8a-9675-3f50b8b5c6cf",
+  "path": "/lib/x86_64-linux-gnu/libqpdf.so.29.9.0",
+  "size": 2433552,
+  "modified": "2024-03-31T08:17:11Z",
+  "created": "2025-05-09T05:07:32.020712435Z",
+  "sha256_hash": "c2f452277b38ffe1359296c42e882cf7d6b7cf1a5593147a28f42d663bc97afb",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.885722528Z"
+}

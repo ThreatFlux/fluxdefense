@@ -1,0 +1,15 @@
+{
+  "uuid": "f9e30310-0317-47b3-9a86-a66ce13c5752",
+  "path": "/bin/calibrate_ppa",
+  "size": 27016,
+  "modified": "2024-04-08T16:15:51Z",
+  "created": "2025-05-09T05:07:19.092909708Z",
+  "sha256_hash": "3ba20612696a7658551a47fd760752a96d48e604d6856b11b68dfafe26a000a5",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.386594412Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d5fad98f-27e0-44da-a1da-4bdec0a440e0",
+  "path": "/usr/lib/grub/x86_64-efi/ufs2.mod",
+  "size": 8168,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "75ffc70f53c6be7be1f07260a26f7e916252ecf0b1da217c071ce2bcd86c6b1f",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.488958045Z"
+}

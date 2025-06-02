@@ -1,0 +1,15 @@
+{
+  "uuid": "65d34970-1683-4dc8-b1d7-4f2f4be3bf7e",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/config/cc_growpart.py",
+  "size": 18809,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.235037163Z",
+  "sha256_hash": "9faa3af2e6c627b7ccf1dcd7b57a8646258e6e93a6253f6425e9b10b243234e6",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.854825967Z"
+}

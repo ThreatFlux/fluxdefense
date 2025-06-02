@@ -1,0 +1,15 @@
+{
+  "uuid": "232aa964-e2cd-4749-b7fc-1d068b23e322",
+  "path": "/usr/bin/apt-extracttemplates",
+  "size": 23008,
+  "modified": "2024-10-22T13:02:22Z",
+  "created": "2025-05-30T21:04:51.160618244Z",
+  "sha256_hash": "5cf4205cf70707b4685c82330ceb39f2659659ce3b20abe11feb3cd2a0124cd7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.456593991Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "3a6fa084-079d-443f-832e-6a0239d61628",
+  "path": "/lib/firmware/amdgpu/oland_uvd.bin.zst",
+  "size": 142058,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.407543543Z",
+  "sha256_hash": "3743423ae996af364bd30e52fce4b713e1bd174cc3558146959ce61955501ade",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.878721568Z"
+}

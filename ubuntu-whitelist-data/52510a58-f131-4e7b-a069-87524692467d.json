@@ -1,0 +1,15 @@
+{
+  "uuid": "52510a58-f131-4e7b-a069-87524692467d",
+  "path": "/lib/x86_64-linux-gnu/evince/4/backends/libpdfdocument.so",
+  "size": 92400,
+  "modified": "2024-10-15T07:35:01Z",
+  "created": "2025-05-09T05:07:35.588657989Z",
+  "sha256_hash": "cce730eb58c3c53d1095d831ce494a074802e49432f9a9976c531034a3019540",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.706747735Z"
+}

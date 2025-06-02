@@ -1,0 +1,15 @@
+{
+  "uuid": "9fc21b10-aa5c-4009-b545-df2431cda551",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/compute/connect_to_serial_port.py",
+  "size": 12794,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.780931122Z",
+  "sha256_hash": "acdfb71023edf0fa15bfe79596fa7abc4b5ef6fa267ff20d0a097885b2e8ff9f",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.765184519Z"
+}

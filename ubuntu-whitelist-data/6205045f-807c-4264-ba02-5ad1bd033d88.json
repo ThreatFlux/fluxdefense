@@ -1,0 +1,15 @@
+{
+  "uuid": "6205045f-807c-4264-ba02-5ad1bd033d88",
+  "path": "/bin/manifest",
+  "size": 1942,
+  "modified": "2024-02-10T17:03:36Z",
+  "created": "2025-05-23T03:43:49.241694174Z",
+  "sha256_hash": "bff2620c64fbf74a5972dcac5a494b7703b0c37bb12f65a5ed51119c4a5034ce",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:18.935457079Z"
+}

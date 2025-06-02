@@ -1,0 +1,17 @@
+{
+  "uuid": "f2602ae6-7b6a-4d15-9eff-650192caf374",
+  "path": "/usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/librustc_std_workspace_core-599bfec9aeefee4c.rlib",
+  "size": 9034,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T17:41:10.592616695Z",
+  "sha256_hash": "2785f70be1621de28b57ec72f8950a1e7f62f7731e190cfe5702cb22a2e80cd9",
+  "file_type": {
+    "Other": "rlib"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:52.788394286Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "637952f0-daad-48c7-94d2-300ecb4b541e",
+  "path": "/usr/lib/x86_64-linux-gnu/libnetplan.so.1",
+  "size": 354376,
+  "modified": "2025-03-19T10:40:11Z",
+  "created": "2025-05-09T05:24:24.343919589Z",
+  "sha256_hash": "3d295bf10f6e6a3d5fc3bd1db1b4bfc3a5ff4633776339c675afcbb75d0c7371",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.369248406Z"
+}

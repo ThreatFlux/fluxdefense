@@ -1,0 +1,17 @@
+{
+  "uuid": "074a55b0-6fa3-427c-beba-c54dd933cb4c",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/libmikmod.pc",
+  "size": 307,
+  "modified": "2024-04-18T17:55:31Z",
+  "created": "2025-05-29T11:16:26.384780435Z",
+  "sha256_hash": "e39e12826c53067a22e75029d104d619204a0f2f38e06367ad7b6caa4ed53f3d",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.099705679Z"
+}

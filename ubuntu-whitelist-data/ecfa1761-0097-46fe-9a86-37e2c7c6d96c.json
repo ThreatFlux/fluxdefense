@@ -1,0 +1,17 @@
+{
+  "uuid": "ecfa1761-0097-46fe-9a86-37e2c7c6d96c",
+  "path": "/usr/lib/llvm-18/include/clang/AST/ASTDumperUtils.h",
+  "size": 3578,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.510533832Z",
+  "sha256_hash": "8bffcfef619842ccb56c5d131f72e4bac583d1bef7eec63105043f03a5443cdc",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.386625706Z"
+}

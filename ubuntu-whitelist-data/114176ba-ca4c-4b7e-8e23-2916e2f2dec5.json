@@ -1,0 +1,17 @@
+{
+  "uuid": "114176ba-ca4c-4b7e-8e23-2916e2f2dec5",
+  "path": "/usr/lib/x86_64-linux-gnu/libusbredirhost.so.1.0.3",
+  "size": 47176,
+  "modified": "2024-04-01T05:20:12Z",
+  "created": "2025-05-09T05:56:49.835639285Z",
+  "sha256_hash": "63e76bb920df6ba174335b1169447a9fafdcc14eb7979d28be2a1d605d7bc2b7",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.708604900Z"
+}

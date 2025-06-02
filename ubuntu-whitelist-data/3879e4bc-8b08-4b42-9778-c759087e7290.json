@@ -1,0 +1,17 @@
+{
+  "uuid": "3879e4bc-8b08-4b42-9778-c759087e7290",
+  "path": "/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0",
+  "size": 22736,
+  "modified": "2025-05-15T12:06:49Z",
+  "created": "2025-05-27T10:16:58.199721327Z",
+  "sha256_hash": "e8c332eb7222e06b9cc63ef5ba6df0b0b83a047ed5cea41fca6efd08c43ce300",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.159182852Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "331be430-b1e4-4d22-a33f-0013000fdc49",
+  "path": "/lib/x86_64-linux-gnu/gconv/CP774.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.606657714Z",
+  "sha256_hash": "b012003ba2999f7a9f1d2ee571c4af4ef0535d9d53da5fb1ead8f69f14413a88",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.731695652Z"
+}

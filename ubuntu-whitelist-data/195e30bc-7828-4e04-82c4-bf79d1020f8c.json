@@ -1,0 +1,17 @@
+{
+  "uuid": "195e30bc-7828-4e04-82c4-bf79d1020f8c",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/include/avx512dqintrin.h",
+  "size": 92926,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.241389896Z",
+  "sha256_hash": "8898790504437866c1f18100c204719aa48940b7a20c4add3fa430dfc9386dac",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.908918532Z"
+}

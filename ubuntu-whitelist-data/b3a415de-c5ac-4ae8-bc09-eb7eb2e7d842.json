@@ -1,0 +1,15 @@
+{
+  "uuid": "b3a415de-c5ac-4ae8-bc09-eb7eb2e7d842",
+  "path": "/lib/klibc/bin/nuke",
+  "size": 9024,
+  "modified": "2024-05-21T08:39:42Z",
+  "created": "2025-05-09T05:07:21.712869729Z",
+  "sha256_hash": "9accd41810139f342b15e2137c278f6d1bc121da34db93434237dfaf6351768e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.658529475Z"
+}

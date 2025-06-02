@@ -1,0 +1,17 @@
+{
+  "uuid": "d596979a-4ff5-4cfa-a139-696ef9704249",
+  "path": "/usr/lib/x86_64-linux-gnu/sasl2/libdigestmd5.so.2.0.25",
+  "size": 64256,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T05:07:37.175633772Z",
+  "sha256_hash": "6fb127b3803c79cfbf1ae4d5b7b45d5e8c1b46b0e1bb30adb79592501a09326f",
+  "file_type": {
+    "Other": "25"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.983029508Z"
+}

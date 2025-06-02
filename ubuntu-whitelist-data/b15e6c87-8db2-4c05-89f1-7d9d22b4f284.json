@@ -1,0 +1,15 @@
+{
+  "uuid": "b15e6c87-8db2-4c05-89f1-7d9d22b4f284",
+  "path": "/lib/llvm-18/lib/libclangFrontendTool.a",
+  "size": 30816,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.732530908Z",
+  "sha256_hash": "c7e1ef984a9c09ad79d8eced2270e8f075bbefd8f9d4e3b666ed8ae2e710e11b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.596083843Z"
+}

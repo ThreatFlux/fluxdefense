@@ -1,0 +1,15 @@
+{
+  "uuid": "5086b6d1-e8b6-43ba-9562-7a1f09667b3c",
+  "path": "/usr/libexec/gnome-remote-desktop-daemon",
+  "size": 572936,
+  "modified": "2024-07-11T15:32:56Z",
+  "created": "2025-05-09T05:07:37.466629331Z",
+  "sha256_hash": "ada7d7a9a00b62918dae47895abe9dd622df8d50572e7d0b735e5a9b72a9ca0b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.519491954Z"
+}

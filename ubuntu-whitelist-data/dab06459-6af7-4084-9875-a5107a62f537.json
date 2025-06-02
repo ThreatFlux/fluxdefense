@@ -1,0 +1,15 @@
+{
+  "uuid": "dab06459-6af7-4084-9875-a5107a62f537",
+  "path": "/usr/lib/linux-hwe-6.11-tools-6.11.0-26/rtla",
+  "size": 1723760,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:32:03.167294022Z",
+  "sha256_hash": "0d6d9bea1ebd6bf3c59c2a44e13c79ba4f6b474dea9654caf4022cf3fe6b724a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.931464235Z"
+}

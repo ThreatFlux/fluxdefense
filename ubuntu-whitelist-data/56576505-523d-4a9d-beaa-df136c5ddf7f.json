@@ -1,0 +1,17 @@
+{
+  "uuid": "56576505-523d-4a9d-beaa-df136c5ddf7f",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-bitops.adb",
+  "size": 7306,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.074344818Z",
+  "sha256_hash": "7044f3b9226a3ab8b41812aa4b778a5c46ba7322c4e64084fb6db1d96c089c2f",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.110157694Z"
+}

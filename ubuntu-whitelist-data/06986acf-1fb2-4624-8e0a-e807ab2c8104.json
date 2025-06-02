@@ -1,0 +1,17 @@
+{
+  "uuid": "06986acf-1fb2-4624-8e0a-e807ab2c8104",
+  "path": "/lib/systemd/user/systemd-exit.service",
+  "size": 598,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.526779521Z",
+  "sha256_hash": "b57f8eed3e3415326a82bdf839ad1b08ca5961c672b10de43d905c86abb6a2c8",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.142487883Z"
+}

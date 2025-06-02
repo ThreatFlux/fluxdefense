@@ -1,0 +1,17 @@
+{
+  "uuid": "3e692ade-7a65-497b-80a2-6570f0b76404",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-taster.ali",
+  "size": 6941,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.103344420Z",
+  "sha256_hash": "0f13844c70c82483ade2b501a07ca9b59094e62423335253ac57a32068366ae3",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.886841001Z"
+}

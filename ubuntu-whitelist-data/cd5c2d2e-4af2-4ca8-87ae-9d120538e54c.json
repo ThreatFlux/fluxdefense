@@ -1,0 +1,17 @@
+{
+  "uuid": "cd5c2d2e-4af2-4ca8-87ae-9d120538e54c",
+  "path": "/usr/lib/python3.12/test/audiodata/pluck-alaw.aifc",
+  "size": 6910,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.985551854Z",
+  "sha256_hash": "bd180a1145d18611e620bf7e5baa5b29f4afbaebc894befcb303251b5ccdbab8",
+  "file_type": {
+    "Other": "aifc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.711480567Z"
+}

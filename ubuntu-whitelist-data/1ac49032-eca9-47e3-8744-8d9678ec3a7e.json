@@ -1,0 +1,15 @@
+{
+  "uuid": "1ac49032-eca9-47e3-8744-8d9678ec3a7e",
+  "path": "/usr/bin/dpkg-statoverride",
+  "size": 51592,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T05:07:19.183908319Z",
+  "sha256_hash": "ea3519af3ee5471b42f92a094b4e403f9e295d61f0137be5fa2f0d2691b785bc",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.909885243Z"
+}

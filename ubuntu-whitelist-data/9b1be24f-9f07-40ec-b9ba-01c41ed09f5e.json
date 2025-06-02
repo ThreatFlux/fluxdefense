@@ -1,0 +1,17 @@
+{
+  "uuid": "9b1be24f-9f07-40ec-b9ba-01c41ed09f5e",
+  "path": "/usr/lib/firmware/tlg2300_firmware.bin.zst",
+  "size": 35523,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.079534235Z",
+  "sha256_hash": "2021b64e3fb2142c5a524b0d7a9d35c0362660047edb438b1b296a5ec350ff00",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.741291354Z"
+}

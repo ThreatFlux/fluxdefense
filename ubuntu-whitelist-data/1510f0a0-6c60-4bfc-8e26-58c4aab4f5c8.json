@@ -1,0 +1,15 @@
+{
+  "uuid": "1510f0a0-6c60-4bfc-8e26-58c4aab4f5c8",
+  "path": "/usr/lib/llvm-18/lib/libLLVMHexagonCodeGen.a",
+  "size": 8237874,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.885463047Z",
+  "sha256_hash": "25588a7d72e49f343d2a0d74924b0121203394151b30d7db8c85e7bc329ac668",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:36.624253734Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "31c2e230-2229-464a-a67b-c21f86df09ba",
+  "path": "/lib/polkit-1/polkitd",
+  "size": 125536,
+  "modified": "2024-12-02T11:59:52Z",
+  "created": "2025-05-09T05:07:25.895805899Z",
+  "sha256_hash": "3d9708932dfd7ac0b6fc324c93e7a5b2f40299908880fe0e3b0ed5d93f8ac855",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.382046611Z"
+}

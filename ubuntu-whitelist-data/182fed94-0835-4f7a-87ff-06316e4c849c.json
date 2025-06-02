@@ -1,0 +1,17 @@
+{
+  "uuid": "182fed94-0835-4f7a-87ff-06316e4c849c",
+  "path": "/lib/firmware/bnx2/bnx2-mips-09-6.2.1b.fw.zst",
+  "size": 51924,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.477542574Z",
+  "sha256_hash": "d71c44bc73224b8a62ffa16ceb92febd060ac53e180335c742ac13807fac9781",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.610189277Z"
+}

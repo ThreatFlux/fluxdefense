@@ -1,0 +1,15 @@
+{
+  "uuid": "064d597e-21d7-4ef5-9c4f-0fa7c9cbac1a",
+  "path": "/bin/hbpldecode",
+  "size": 31120,
+  "modified": "2024-04-10T21:38:27Z",
+  "created": "2025-05-09T05:07:20.036895303Z",
+  "sha256_hash": "640f70912d8455ac783a98e251771c99d1ab9a92b9a5fee6a70d29f0d0096590",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.471492417Z"
+}

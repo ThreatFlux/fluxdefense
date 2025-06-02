@@ -1,0 +1,17 @@
+{
+  "uuid": "3ca8a79e-4451-4ae8-a0f6-e403bd9971b7",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/cppcoreguidelines/AvoidConstOrRefDataMembersCheck.h",
+  "size": 1509,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "eb385d68cbca85d7146cc7cd415d21fbaa8225363370384c12ee93dab941bb85",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.248837330Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d839b558-1094-4c0e-a609-904f3728fed3",
+  "path": "/usr/lib/python3.12/test/certdata/ssl_cert.pem",
+  "size": 1570,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.987551828Z",
+  "sha256_hash": "ee4c90b3e38f21c46787d33a153c6be9b2315e8d6713932f5f8c32e52250b6e6",
+  "file_type": {
+    "Other": "pem"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.239588701Z"
+}

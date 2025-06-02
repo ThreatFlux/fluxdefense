@@ -1,0 +1,17 @@
+{
+  "uuid": "7b279b70-d050-4109-b0e7-ee5be0b64d51",
+  "path": "/lib/x86_64-linux-gnu/perl-base/overloading.pm",
+  "size": 964,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.362578444Z",
+  "sha256_hash": "5387b33943963d2e47f05b3f37926f2d454f9ded33ca857e56ffb33b3adb999d",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.924577154Z"
+}

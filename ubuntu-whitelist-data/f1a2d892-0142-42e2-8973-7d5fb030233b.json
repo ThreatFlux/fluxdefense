@@ -1,0 +1,15 @@
+{
+  "uuid": "f1a2d892-0142-42e2-8973-7d5fb030233b",
+  "path": "/usr/lib/x86_64-linux-gnu/libsoftokn3.so",
+  "size": 358016,
+  "modified": "2024-04-08T16:14:43Z",
+  "created": "2025-05-09T05:07:32.188709871Z",
+  "sha256_hash": "a01f83c2efeae6bd0f682d8971d12aaaeb7eb6f7a48a2538379dea572c54bada",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.155670467Z"
+}

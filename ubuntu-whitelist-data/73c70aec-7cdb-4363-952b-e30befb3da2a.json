@@ -1,0 +1,17 @@
+{
+  "uuid": "73c70aec-7cdb-4363-952b-e30befb3da2a",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/blkid.pc",
+  "size": 208,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-13T14:30:44.887502442Z",
+  "sha256_hash": "6d566354034721d04b69e5ecf10b75a1feca6269654bc9bf3a84cc1bc9ab20c0",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.054607553Z"
+}

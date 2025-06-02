@@ -1,0 +1,17 @@
+{
+  "uuid": "a2c23409-45c9-40f4-8a87-06a3ae1c5a2b",
+  "path": "/lib/dhcpcd/dhcpcd-hooks/20-resolv.conf",
+  "size": 6164,
+  "modified": "2024-05-07T10:12:01Z",
+  "created": "2025-05-09T05:07:21.655870599Z",
+  "sha256_hash": "875a1c7ee413d03e31d40039174b8b39d49138ae9255905711a393d1df4ad791",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.434297157Z"
+}

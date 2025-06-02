@@ -1,0 +1,15 @@
+{
+  "uuid": "08fbeb33-62a6-4594-98f5-55440fac2b82",
+  "path": "/usr/libexec/sssd/sssd_check_socket_activated_responders",
+  "size": 14648,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:38.070620114Z",
+  "sha256_hash": "e3ce22c2863556a6aaa98eb1af94625f2c53c2f57e2be756d2bbe976b3393688",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.131838263Z"
+}

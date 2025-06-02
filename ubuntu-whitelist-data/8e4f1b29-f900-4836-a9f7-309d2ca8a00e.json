@@ -1,0 +1,15 @@
+{
+  "uuid": "8e4f1b29-f900-4836-a9f7-309d2ca8a00e",
+  "path": "/usr/bin/lspower",
+  "size": 1207,
+  "modified": "2022-08-20T17:35:03Z",
+  "created": "2025-05-09T05:07:20.157893457Z",
+  "sha256_hash": "0ebebb78254e7fd8ebcb4a54051aeae77f2abae74e59cf0eaa06d558c19fe51b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.604437740Z"
+}

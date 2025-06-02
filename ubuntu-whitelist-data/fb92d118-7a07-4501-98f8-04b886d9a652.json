@@ -1,0 +1,15 @@
+{
+  "uuid": "fb92d118-7a07-4501-98f8-04b886d9a652",
+  "path": "/usr/lib/x86_64-linux-gnu/libexpat.a",
+  "size": 288086,
+  "modified": "2025-03-28T07:06:29Z",
+  "created": "2025-05-26T18:06:52.063890431Z",
+  "sha256_hash": "dc0e4056c334ee4f6dc00afe4b0fc4918aa9743978370fc2662c7da6c9c0f338",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.207334839Z"
+}

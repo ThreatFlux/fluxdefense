@@ -1,0 +1,17 @@
+{
+  "uuid": "30b0f910-b1ac-4d20-96dc-33d4db815753",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-exetim.ali",
+  "size": 8920,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.098344489Z",
+  "sha256_hash": "92230818c5f27825897b8019717326a0ec939659da323f50c18faac89c7d93ea",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.616963598Z"
+}

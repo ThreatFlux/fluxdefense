@@ -1,0 +1,17 @@
+{
+  "uuid": "18509156-c003-4f2b-8c44-4696bd538bdd",
+  "path": "/usr/lib/x86_64-linux-gnu/libatomic.so.1.2.0",
+  "size": 35120,
+  "modified": "2024-09-09T13:21:53Z",
+  "created": "2025-05-09T05:07:29.180755772Z",
+  "sha256_hash": "c8bc46cf8fb4f3c442ba599a522e111de579285880a7309cc7c228d91ad9b3d2",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.704991336Z"
+}

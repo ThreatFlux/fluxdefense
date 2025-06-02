@@ -1,0 +1,17 @@
+{
+  "uuid": "e6f57e32-1d90-4841-ae03-584cde7f3325",
+  "path": "/lib/x86_64-linux-gnu/libgstwayland-1.0.so.0.2402.0",
+  "size": 72496,
+  "modified": "2024-04-15T13:00:06Z",
+  "created": "2025-05-09T05:09:28.093940997Z",
+  "sha256_hash": "2e0440714006c6611fc782345f7395239f62bc9c1b1b8256df672f8a5215dbf0",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.259958870Z"
+}

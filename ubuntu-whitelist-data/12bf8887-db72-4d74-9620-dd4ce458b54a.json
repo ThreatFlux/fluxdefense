@@ -1,0 +1,15 @@
+{
+  "uuid": "12bf8887-db72-4d74-9620-dd4ce458b54a",
+  "path": "/usr/lib/xorg/modules/libshadowfb.so",
+  "size": 14792,
+  "modified": "2025-03-04T04:58:03Z",
+  "created": "2025-05-09T05:24:13.316776837Z",
+  "sha256_hash": "946170d053dbdb4c6b77387764b8690ff83ec65b5b1fbf16e08d95d8ca78ab40",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.579431467Z"
+}

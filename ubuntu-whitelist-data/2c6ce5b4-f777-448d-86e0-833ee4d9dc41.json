@@ -1,0 +1,17 @@
+{
+  "uuid": "2c6ce5b4-f777-448d-86e0-833ee4d9dc41",
+  "path": "/usr/lib/firmware/amdgpu/beige_goby_smc.bin.zst",
+  "size": 107018,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.388543806Z",
+  "sha256_hash": "53e7cec76aa3d1c00cb962ec4bb601e2887001ba8b5d6b014ea45e35fb99f455",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.945282143Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "acaaba9a-31bd-4b79-9196-1675fc313c67",
+  "path": "/usr/lib/gnome-settings-daemon-46/libgsd.so",
+  "size": 100592,
+  "modified": "2024-04-18T10:59:35Z",
+  "created": "2025-05-09T05:07:21.687870110Z",
+  "sha256_hash": "ff9965c46d137148fc6a1436ed7de397343426159a2e5560f57aa0d236df6415",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.242808306Z"
+}

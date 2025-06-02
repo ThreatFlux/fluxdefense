@@ -1,0 +1,15 @@
+{
+  "uuid": "f76f1da0-ad74-4245-b496-57e1678b2dc6",
+  "path": "/lib/x86_64-linux-gnu/libaom.a",
+  "size": 8475040,
+  "modified": "2024-06-05T13:21:53Z",
+  "created": "2025-05-29T11:16:19.677872472Z",
+  "sha256_hash": "37ea36aee8a08d6b33a4f9bb39e7069e6b6b281ca02812fd70db5c4953a52819",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.275312986Z"
+}

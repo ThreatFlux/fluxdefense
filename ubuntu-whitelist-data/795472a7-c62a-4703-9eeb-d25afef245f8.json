@@ -1,0 +1,17 @@
+{
+  "uuid": "795472a7-c62a-4703-9eeb-d25afef245f8",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-dwalin.ali",
+  "size": 40096,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.137343953Z",
+  "sha256_hash": "d14519cb372c04120a93d511a6417414ce3bb2bad75c98c573bc2c9aaa9ae897",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.680284911Z"
+}

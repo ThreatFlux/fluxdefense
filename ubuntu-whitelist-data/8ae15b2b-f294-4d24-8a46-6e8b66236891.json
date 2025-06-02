@@ -1,0 +1,15 @@
+{
+  "uuid": "8ae15b2b-f294-4d24-8a46-6e8b66236891",
+  "path": "/lib/llvm-18/lib/libLLVMBOLTRewrite.a",
+  "size": 2289890,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.813463995Z",
+  "sha256_hash": "59a615c931444ef91f19f757e872fccf5f2f96bc392f5e57f55acdb485ea73a8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:43.990115935Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "7eb4726f-694b-4914-aff4-137ceef0218d",
+  "path": "/usr/lib/firmware/meson/vdec/sm1_vp9_mmu.bin.zst",
+  "size": 4353,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.791538225Z",
+  "sha256_hash": "5d74c7d7c8922575295838586f985ee6d8b77ea9941f447cf2ef2e473c13cf8e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.493912447Z"
+}

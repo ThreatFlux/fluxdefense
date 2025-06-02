@@ -1,0 +1,17 @@
+{
+  "uuid": "935f7a26-e842-4192-8df5-5508ab275a9c",
+  "path": "/lib/x86_64-linux-gnu/libbrotlicommon.so.1.1.0",
+  "size": 141640,
+  "modified": "2024-03-31T07:29:06Z",
+  "created": "2025-05-09T05:07:29.190755620Z",
+  "sha256_hash": "a91ead095d2c80520c55a89057bbe10b031a075340442e63f44b310f93883a1b",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.832277208Z"
+}

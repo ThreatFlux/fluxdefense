@@ -1,0 +1,15 @@
+{
+  "uuid": "6458f90d-b5b0-44a2-b71e-a89eb0c51965",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstcacasink.so",
+  "size": 31184,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.771655196Z",
+  "sha256_hash": "84910bcc0e634e062a8d2f84f923d51b41592faad103841fd5f54cab5acdc729",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.199937662Z"
+}

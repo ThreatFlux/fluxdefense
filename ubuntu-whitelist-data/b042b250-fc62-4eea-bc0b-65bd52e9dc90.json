@@ -1,0 +1,17 @@
+{
+  "uuid": "b042b250-fc62-4eea-bc0b-65bd52e9dc90",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/mbrola_ph/us_phtrans",
+  "size": 1228,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.583658065Z",
+  "sha256_hash": "ee03b6ac2af1bb405c1bc8b9920753e9014dcaff0df1e9c035e70083d3e92b98",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.342500214Z"
+}

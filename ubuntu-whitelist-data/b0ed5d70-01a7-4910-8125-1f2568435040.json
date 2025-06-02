@@ -1,0 +1,15 @@
+{
+  "uuid": "b0ed5d70-01a7-4910-8125-1f2568435040",
+  "path": "/usr/lib/google-cloud-sdk/platform/bq/remove_pyreadline.py",
+  "size": 3485,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.817930494Z",
+  "sha256_hash": "2e029c5602aae1c5bd93b3357e5e458a84facd5524d3ba4c1349f4fcc2ffdc86",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.596401806Z"
+}

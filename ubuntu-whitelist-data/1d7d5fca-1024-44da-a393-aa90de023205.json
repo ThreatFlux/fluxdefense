@@ -1,0 +1,15 @@
+{
+  "uuid": "1d7d5fca-1024-44da-a393-aa90de023205",
+  "path": "/usr/sbin/vfscount-bpfcc",
+  "size": 1390,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.524499133Z",
+  "sha256_hash": "08b3c4a4ed7467710949cb1694529af2cbad9c0896b2343b2f46e5f39143aa03",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.273012431Z"
+}

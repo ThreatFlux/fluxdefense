@@ -1,0 +1,17 @@
+{
+  "uuid": "804e306e-5df7-4438-a8e0-be1b204733de",
+  "path": "/lib/firmware/go7007/px-m402u.fw.zst",
+  "size": 3785,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.530541840Z",
+  "sha256_hash": "52106be5a48e9737a93aab1e39220004dbf66777b736a3948f072fcc632f7b6a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.726690131Z"
+}

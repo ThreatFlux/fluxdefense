@@ -1,0 +1,17 @@
+{
+  "uuid": "18d08efb-e3d8-4a76-8dda-3472d31701e9",
+  "path": "/lib/llvm-18/include/clang/Basic/arm_mve_builtin_sema.inc",
+  "size": 20787,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.534533516Z",
+  "sha256_hash": "a5c3b6d0223c53824c7fd50b44fa36335a14a37c3fe55488a4aafa726095bf1b",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.119759188Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "834adf62-5eaa-46e4-9cb6-6195a7460d91",
+  "path": "/usr/lib/systemd/system/saned@.service",
+  "size": 347,
+  "modified": "2020-09-10T17:11:29Z",
+  "created": "2025-05-09T05:07:28.300769200Z",
+  "sha256_hash": "665159081d7cfe4d7a203fef5c9ea3ea1df01e5f511e315af42e4fa2620023a5",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.461789964Z"
+}

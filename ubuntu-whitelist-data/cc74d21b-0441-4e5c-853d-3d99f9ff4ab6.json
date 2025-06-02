@@ -1,0 +1,17 @@
+{
+  "uuid": "cc74d21b-0441-4e5c-853d-3d99f9ff4ab6",
+  "path": "/lib/kernel/install.conf",
+  "size": 407,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.508779291Z",
+  "sha256_hash": "cb18db75498358f8a861dfdffcbbaf483fcad1692cbdba9e7ae8198afcfd0ea5",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.761768704Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "5187a54f-e052-4c2a-b58a-daae41826b57",
+  "path": "/lib/llvm-18/include/clang-tidy/utils/UsingInserter.h",
+  "size": 1729,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.563533133Z",
+  "sha256_hash": "a57e91922c3eb6f517890f03dfad6d192b849866b772a60679399602bf2200ee",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.914043949Z"
+}

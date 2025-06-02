@@ -1,0 +1,17 @@
+{
+  "uuid": "753133ed-49ff-45d3-8b40-8f20df676195",
+  "path": "/lib/llvm-18/include/clang/Basic/ExpressionTraits.h",
+  "size": 1209,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.530533568Z",
+  "sha256_hash": "b8d928a893391344755bea6d8365b484fbf1a9b127d619b869d6ddf09ccbffe6",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.132697368Z"
+}

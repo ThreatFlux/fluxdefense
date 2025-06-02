@@ -1,0 +1,15 @@
+{
+  "uuid": "2204f506-8df2-4d14-b87a-8515ccbc48ea",
+  "path": "/lib/python3/dist-packages/systemd/test/test_journal.py",
+  "size": 11108,
+  "modified": "2022-08-16T13:50:06Z",
+  "created": "2025-05-09T05:07:27.424782568Z",
+  "sha256_hash": "6b936d1a499a16212c23ca683f72c2658006ab1914e3c400a23482fb8338aa34",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.219134744Z"
+}

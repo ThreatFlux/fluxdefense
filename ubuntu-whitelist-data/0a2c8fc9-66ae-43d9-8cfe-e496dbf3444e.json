@@ -1,0 +1,15 @@
+{
+  "uuid": "0a2c8fc9-66ae-43d9-8cfe-e496dbf3444e",
+  "path": "/usr/lib/i386-linux-gnu/gconv/BRF.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.271663553Z",
+  "sha256_hash": "f8c383f8ddcc854d007e928003606f04f591dff866f4bdfe49aab0dbc0683082",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.979090403Z"
+}

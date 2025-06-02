@@ -1,0 +1,15 @@
+{
+  "uuid": "1585d1fe-09b6-4587-903f-015392653bce",
+  "path": "/lib/i386-linux-gnu/gconv/NATS-DANO.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.283663370Z",
+  "sha256_hash": "89559c4c2b132a85af83b7819884d4e0ad1d6b235c740bd50971faaabd0b2a32",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.869293315Z"
+}

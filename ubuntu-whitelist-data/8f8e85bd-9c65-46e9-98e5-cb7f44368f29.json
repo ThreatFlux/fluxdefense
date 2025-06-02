@@ -1,0 +1,17 @@
+{
+  "uuid": "8f8e85bd-9c65-46e9-98e5-cb7f44368f29",
+  "path": "/usr/lib/x86_64-linux-gnu/libXfont2.so.2.0.0",
+  "size": 182152,
+  "modified": "2024-04-08T16:09:49Z",
+  "created": "2025-05-09T05:07:29.060757603Z",
+  "sha256_hash": "46ab94ba30f66f7d0102932cc2168a95ba0daaa7d0afecc533df9063cf20e7de",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.913109840Z"
+}

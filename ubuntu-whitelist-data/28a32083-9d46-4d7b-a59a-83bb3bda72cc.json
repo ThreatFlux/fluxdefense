@@ -1,0 +1,15 @@
+{
+  "uuid": "28a32083-9d46-4d7b-a59a-83bb3bda72cc",
+  "path": "/usr/lib/llvm-18/lib/libLLVMRISCVAsmParser.a",
+  "size": 300086,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.983461756Z",
+  "sha256_hash": "6d69fb750b55c5a04cdbd63d8cd1bf0ed55bb65e9831c446a8aa9733be8879d6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:34.202345886Z"
+}

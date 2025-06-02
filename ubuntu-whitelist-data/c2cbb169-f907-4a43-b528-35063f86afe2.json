@@ -1,0 +1,17 @@
+{
+  "uuid": "c2cbb169-f907-4a43-b528-35063f86afe2",
+  "path": "/lib/systemd/user/gvfs-daemon.service",
+  "size": 175,
+  "modified": "2024-04-18T13:39:03Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "af226ccb535b4e24c7e34c6a782333a1dbc887b48ea21f1aad475ed237399eba",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.141737874Z"
+}

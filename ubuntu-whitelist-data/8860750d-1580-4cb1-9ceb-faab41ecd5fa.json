@@ -1,0 +1,15 @@
+{
+  "uuid": "8860750d-1580-4cb1-9ceb-faab41ecd5fa",
+  "path": "/lib/python3/dist-packages/cloudinit/net/networkd.py",
+  "size": 13058,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.240037230Z",
+  "sha256_hash": "ba6490a894d03eb3bc389b6de63355e31bef0bc067d234b7f8966016d7887561",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.895108076Z"
+}

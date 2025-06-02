@@ -1,0 +1,17 @@
+{
+  "uuid": "9c14fe1a-9779-4823-9b29-b08e3746c161",
+  "path": "/lib/firmware/intel/sof-tplg/sof-cnl-nocodec.tplg.zst",
+  "size": 1978,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.058490984Z",
+  "sha256_hash": "d933452665e28cee1538ef6f805cc2325d6aad5bf3adb6df162f6d1cff26ac5a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.203576198Z"
+}

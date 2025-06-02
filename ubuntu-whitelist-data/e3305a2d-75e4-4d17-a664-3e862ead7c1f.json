@@ -1,0 +1,17 @@
+{
+  "uuid": "e3305a2d-75e4-4d17-a664-3e862ead7c1f",
+  "path": "/lib/llvm-18/include/clang/Basic/arm_sve_builtins.inc",
+  "size": 588392,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.535533502Z",
+  "sha256_hash": "f85f88b1fca0d8594b17364f104a2381959c22ca0621f04feeb2dcb8317ee432",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.082007141Z"
+}

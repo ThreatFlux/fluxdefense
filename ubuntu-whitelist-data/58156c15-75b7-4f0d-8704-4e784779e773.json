@@ -1,0 +1,17 @@
+{
+  "uuid": "58156c15-75b7-4f0d-8704-4e784779e773",
+  "path": "/lib/x86_64-linux-gnu/libedata-book-1.2.so.27.0.0",
+  "size": 854504,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:29.364752964Z",
+  "sha256_hash": "eaa25c988865a60439795c3d585778f2039d7dd5ebd6d42af3fed7882cb2ee32",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.587832610Z"
+}

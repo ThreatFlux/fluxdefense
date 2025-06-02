@@ -1,0 +1,17 @@
+{
+  "uuid": "ebf915e6-6366-48e8-a525-e41dd29c5ee6",
+  "path": "/lib/firmware/ea/layla24_dsp.fw.zst",
+  "size": 7682,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.529541854Z",
+  "sha256_hash": "17703752e5694c1790635d3f4f82923808b503bd49920b775d1e2b948c2963a9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.610741217Z"
+}

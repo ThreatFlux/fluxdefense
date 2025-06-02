@@ -1,0 +1,15 @@
+{
+  "uuid": "f190523d-02a1-4b28-b050-51ab3c498dc7",
+  "path": "/sbin/installkernel",
+  "size": 2659,
+  "modified": "2024-03-31T08:47:33Z",
+  "created": "2025-05-09T05:07:38.271617047Z",
+  "sha256_hash": "a9a13478fa2ebf2945f01a5275f9d9c02202ed28b320c990837926c22837ff75",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.034109603Z"
+}

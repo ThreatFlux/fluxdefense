@@ -1,0 +1,15 @@
+{
+  "uuid": "8d4630ee-be45-4eae-9091-b11838b69529",
+  "path": "/usr/sbin/funcinterval-bpfcc",
+  "size": 5590,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "287afa5625848ec1f6613ccdafac60423e35e93dc052847bd1a27b7ad2afe614",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.293346942Z"
+}

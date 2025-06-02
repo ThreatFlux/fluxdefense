@@ -1,0 +1,17 @@
+{
+  "uuid": "b10321fe-d7f7-4697-a7da-45f599b2ab45",
+  "path": "/usr/lib/systemd/user/gvfs-udisks2-volume-monitor.service",
+  "size": 233,
+  "modified": "2024-04-18T13:39:03Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "ae967e292536fec23e856b123af087b3a66c005e07820523b47e5c22538b15b8",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.496954889Z"
+}

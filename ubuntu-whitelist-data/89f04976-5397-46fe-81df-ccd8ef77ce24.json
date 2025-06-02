@@ -1,0 +1,17 @@
+{
+  "uuid": "89f04976-5397-46fe-81df-ccd8ef77ce24",
+  "path": "/lib/llvm-18/include/clang/IndexSerialization/SerializablePathCollection.h",
+  "size": 3817,
+  "modified": "2023-12-09T22:26:51Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "96eae45d0cdb1f4869ea3617d80c96a49aad206debd8ba731213217990058635",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.180010173Z"
+}

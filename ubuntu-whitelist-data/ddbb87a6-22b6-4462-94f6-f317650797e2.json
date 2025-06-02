@@ -1,0 +1,17 @@
+{
+  "uuid": "ddbb87a6-22b6-4462-94f6-f317650797e2",
+  "path": "/usr/lib/python3.12/test/decimaltestdata/ddReduce.decTest",
+  "size": 7460,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.991551775Z",
+  "sha256_hash": "2cbbcb94c168f5c88cc677715a57e2d1e8adb9e9c75e5ca539b5aee06047cda5",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.953850207Z"
+}

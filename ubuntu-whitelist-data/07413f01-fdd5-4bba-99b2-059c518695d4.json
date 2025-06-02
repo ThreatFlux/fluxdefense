@@ -1,0 +1,17 @@
+{
+  "uuid": "07413f01-fdd5-4bba-99b2-059c518695d4",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-bignum.ali",
+  "size": 10777,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.136343967Z",
+  "sha256_hash": "f1f1d83098d4b2db1836166194a6d3f3a64b3ad812b4898dae824e5846673beb",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.481207732Z"
+}

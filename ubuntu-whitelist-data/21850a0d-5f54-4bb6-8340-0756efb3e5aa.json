@@ -1,0 +1,17 @@
+{
+  "uuid": "21850a0d-5f54-4bb6-8340-0756efb3e5aa",
+  "path": "/usr/lib/systemd/user/gnome-remote-desktop.service",
+  "size": 209,
+  "modified": "2024-07-11T15:32:56Z",
+  "created": "2025-05-09T05:07:28.305769124Z",
+  "sha256_hash": "db4abfac69992492450ac12120716ec7344285ed7db08b4e1ea97ea93591953d",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.504907149Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a1cb8674-4828-42fb-8cb9-bcfc2f0ea549",
+  "path": "/lib/firmware/radeon/MULLINS_mec.bin.zst",
+  "size": 8506,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.060534499Z",
+  "sha256_hash": "9f65e5b5aa4e33f91d221e588ba010af72249badaa81ba0801ec3b6b879c6ee7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.377518418Z"
+}

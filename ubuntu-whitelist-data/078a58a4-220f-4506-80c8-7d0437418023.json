@@ -1,0 +1,15 @@
+{
+  "uuid": "078a58a4-220f-4506-80c8-7d0437418023",
+  "path": "/lib/x86_64-linux-gnu/qemu/audio-dbus.so",
+  "size": 272904,
+  "modified": "2025-03-13T16:15:00Z",
+  "created": "2025-05-22T16:56:49.749987114Z",
+  "sha256_hash": "cc821e361c03e83ccf600d961643439ba1150da481b3dba6a124b424eb4674ca",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.287055117Z"
+}

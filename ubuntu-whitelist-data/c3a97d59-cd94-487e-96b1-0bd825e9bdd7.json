@@ -1,0 +1,17 @@
+{
+  "uuid": "c3a97d59-cd94-487e-96b1-0bd825e9bdd7",
+  "path": "/lib/udev/hid2hci",
+  "size": 14720,
+  "modified": "2025-02-25T06:11:15Z",
+  "created": "2025-05-09T05:24:15.926810288Z",
+  "sha256_hash": "be29ae9a58518c2666c8ee76d1b1607cddfb3563c84295cf187f6d157f52e9cc",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.357510477Z"
+}

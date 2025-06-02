@@ -1,0 +1,17 @@
+{
+  "uuid": "452fde99-6ee3-40ec-a413-db530be04b2a",
+  "path": "/usr/lib/grub/x86_64-efi/jfs.mod",
+  "size": 9728,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.811708415Z",
+  "sha256_hash": "e4a21cb227247db3186b65e98ad1fb4ccd83d97de16fd7e8822b71325a4f96b9",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.481372606Z"
+}

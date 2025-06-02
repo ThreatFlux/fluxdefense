@@ -1,0 +1,15 @@
+{
+  "uuid": "858a0633-9ccd-418f-9631-20bd905f3c0e",
+  "path": "/usr/lib/python3/dist-packages/PIL/_imagingcms.cpython-312-x86_64-linux-gnu.so",
+  "size": 38648,
+  "modified": "2024-04-15T14:10:42Z",
+  "created": "2025-05-09T05:07:26.436797644Z",
+  "sha256_hash": "bb7fb32fd751da56832c73704037130c4afda69e493932d3eb615ccfd851e75e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.161189983Z"
+}

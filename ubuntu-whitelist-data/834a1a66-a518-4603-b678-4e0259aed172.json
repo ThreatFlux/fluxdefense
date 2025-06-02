@@ -1,0 +1,15 @@
+{
+  "uuid": "834a1a66-a518-4603-b678-4e0259aed172",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/config/cc_byobu.py",
+  "size": 2791,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.234037150Z",
+  "sha256_hash": "1fc4d25a49f1f6588e7e3b251977f64d52c85f2cc55285b02e94354f8cbde21f",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.855521912Z"
+}

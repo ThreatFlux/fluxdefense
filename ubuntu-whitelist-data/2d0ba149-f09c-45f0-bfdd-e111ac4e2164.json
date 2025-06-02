@@ -1,0 +1,17 @@
+{
+  "uuid": "2d0ba149-f09c-45f0-bfdd-e111ac4e2164",
+  "path": "/lib/udev/rules.d/71-power-switch-proliant.rules",
+  "size": 461,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "bb21a846365b3a8450e801164b6818dd8b99929afad661c4311ef349edfa90aa",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.246674200Z"
+}

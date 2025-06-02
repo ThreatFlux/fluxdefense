@@ -1,0 +1,15 @@
+{
+  "uuid": "a3625e58-521b-45b3-99ce-0e463890493f",
+  "path": "/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-roc-sink.so",
+  "size": 39184,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.784860128Z",
+  "sha256_hash": "73b955516d5642e3540d414fb6d3c82a983a8726a113abb84ff50551b76a8018",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.887164457Z"
+}

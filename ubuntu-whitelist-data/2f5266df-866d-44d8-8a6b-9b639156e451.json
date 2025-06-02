@@ -1,0 +1,15 @@
+{
+  "uuid": "2f5266df-866d-44d8-8a6b-9b639156e451",
+  "path": "/usr/sbin/syscount-bpfcc",
+  "size": 8771,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.523499148Z",
+  "sha256_hash": "3de6cb498cf4a52146b1dd6cab3e12e34dbe99e074896da09577bbf7248eef5d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.293149214Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "14a7632d-2b2c-4695-b9f9-a3bbeb8120eb",
+  "path": "/lib/recovery-mode/options/system-summary",
+  "size": 3022,
+  "modified": "2018-10-02T17:24:12Z",
+  "created": "2025-05-09T05:07:27.534780889Z",
+  "sha256_hash": "37261aa7339fe38846aa4fbaf6f7529650a847b5155c53e6468d57b24b8f2dce",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.770012102Z"
+}

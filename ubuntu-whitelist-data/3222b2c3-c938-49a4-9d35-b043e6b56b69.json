@@ -1,0 +1,17 @@
+{
+  "uuid": "3222b2c3-c938-49a4-9d35-b043e6b56b69",
+  "path": "/lib/x86_64-linux-gnu/libayatana-ido3-0.4.so.0.0.0",
+  "size": 161872,
+  "modified": "2024-03-31T07:28:25Z",
+  "created": "2025-05-09T05:07:29.182755741Z",
+  "sha256_hash": "35d5046d7789c79214243e72cffbd3feef0b72f503d7ccc440fab08774bf7f56",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.849151435Z"
+}

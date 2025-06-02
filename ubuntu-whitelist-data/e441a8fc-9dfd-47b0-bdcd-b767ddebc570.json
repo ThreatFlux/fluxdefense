@@ -1,0 +1,17 @@
+{
+  "uuid": "e441a8fc-9dfd-47b0-bdcd-b767ddebc570",
+  "path": "/usr/lib/grub/x86_64-efi/datetime.mod",
+  "size": 2936,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.803708536Z",
+  "sha256_hash": "5a4f16843cd246c3744b4aea8ab1fb116a30154dc252e2e169d0e7ba7a1936e5",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.495697019Z"
+}

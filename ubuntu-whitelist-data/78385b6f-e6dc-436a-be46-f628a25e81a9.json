@@ -1,0 +1,17 @@
+{
+  "uuid": "78385b6f-e6dc-436a-be46-f628a25e81a9",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/ExceptionEscapeCheck.h",
+  "size": 1802,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "54b60db921598a66249171a025fdc3fec6c2f9a0a48da6b42e4f8f6028622f6f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.235263684Z"
+}

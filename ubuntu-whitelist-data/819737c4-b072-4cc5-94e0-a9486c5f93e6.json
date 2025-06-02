@@ -1,0 +1,17 @@
+{
+  "uuid": "819737c4-b072-4cc5-94e0-a9486c5f93e6",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/a-dirval.adb",
+  "size": 4144,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.051345135Z",
+  "sha256_hash": "72039a073a5ca17aedf6cc054643eb492a066d5f51a458f6843a6b315f9fd27c",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.945988249Z"
+}

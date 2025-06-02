@@ -1,0 +1,15 @@
+{
+  "uuid": "ab637891-3a88-4028-860f-2caa8681c9a8",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_CONNSECMARK.so",
+  "size": 14784,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.330631406Z",
+  "sha256_hash": "3366150d71c9d48e5aed814dbedf1a049fcc99983d77af5aa327bac5604363a7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.687268985Z"
+}

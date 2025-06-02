@@ -1,0 +1,17 @@
+{
+  "uuid": "d2b8f5cc-995f-4577-9803-b58b1ef5e905",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/ClangTidyOptions.h",
+  "size": 13513,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.555533239Z",
+  "sha256_hash": "7eadc0bba9adb2b761427ce15f2995b6ecf26cf96749b29f8429f68507a89e5b",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.221941335Z"
+}

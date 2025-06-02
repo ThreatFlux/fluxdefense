@@ -1,0 +1,15 @@
+{
+  "uuid": "dc4f7091-289e-47bb-92de-f19c6154b8df",
+  "path": "/lib/llvm-18/lib/libLLVMMCDisassembler.a",
+  "size": 46412,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.923462547Z",
+  "sha256_hash": "e3cdf5ecf246544a5b8d2c39a51f8c58be08b72cb2a6781d25fdbde1640e1ba7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:40.981032110Z"
+}

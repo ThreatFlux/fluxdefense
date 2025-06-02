@@ -1,0 +1,17 @@
+{
+  "uuid": "095aaa64-ce86-4acb-87f4-1180c36be3e1",
+  "path": "/lib/x86_64-linux-gnu/libabsl_cord.so.20220623.0.0",
+  "size": 96504,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.938492440Z",
+  "sha256_hash": "9536f841b3a7d0e1acd5fbb5172076b9009f041b01df50c5386e6fc85f770a99",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.566075437Z"
+}

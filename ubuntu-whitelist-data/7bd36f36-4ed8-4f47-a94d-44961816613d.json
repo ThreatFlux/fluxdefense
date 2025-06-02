@@ -1,0 +1,17 @@
+{
+  "uuid": "7bd36f36-4ed8-4f47-a94d-44961816613d",
+  "path": "/usr/lib/systemd/system/systemd-udevd-control.socket",
+  "size": 650,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.044786143Z",
+  "sha256_hash": "7a5b56d487ff00b50c8e1cd73cdec138136f54da3e333f077e5398b5b61408b5",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.457610992Z"
+}

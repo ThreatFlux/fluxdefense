@@ -1,0 +1,17 @@
+{
+  "uuid": "e10067e0-4ea4-43a1-8d99-7262e7993760",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-decima.adb",
+  "size": 3120,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.051345135Z",
+  "sha256_hash": "59d18f3181de7f4c81201e45d7a60a7ed2969b43035ce51d0c1c3ad753297194",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.185086396Z"
+}

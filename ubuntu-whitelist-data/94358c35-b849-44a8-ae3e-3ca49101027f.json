@@ -1,0 +1,17 @@
+{
+  "uuid": "94358c35-b849-44a8-ae3e-3ca49101027f",
+  "path": "/lib/llvm-18/include/clang/AST/ASTMutationListener.h",
+  "size": 5980,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.511533818Z",
+  "sha256_hash": "79e2979fddcd93b6160f59d60c10b6b7ada84dde9c60ca2c6f24740c3a5d0e21",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.992063587Z"
+}

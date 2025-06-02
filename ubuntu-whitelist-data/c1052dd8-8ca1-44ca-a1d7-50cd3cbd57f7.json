@@ -1,0 +1,17 @@
+{
+  "uuid": "c1052dd8-8ca1-44ca-a1d7-50cd3cbd57f7",
+  "path": "/lib/pcrlock.d/900-ready.pcrlock",
+  "size": 495,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.509779304Z",
+  "sha256_hash": "2c35c52cf253995502b19e74ad2c9e6e58afb65d0218d0dc30d28f6ff829296e",
+  "file_type": {
+    "Other": "pcrlock"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.397677843Z"
+}

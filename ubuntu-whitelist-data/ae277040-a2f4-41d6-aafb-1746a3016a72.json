@@ -1,0 +1,15 @@
+{
+  "uuid": "ae277040-a2f4-41d6-aafb-1746a3016a72",
+  "path": "/usr/sbin/blkid",
+  "size": 55720,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.128619229Z",
+  "sha256_hash": "f03925ec98255f53c178742e17252192d95de4549586a750ff9b3d13e247f3f2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.530306940Z"
+}

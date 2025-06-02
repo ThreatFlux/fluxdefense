@@ -1,0 +1,15 @@
+{
+  "uuid": "aac52fa4-ab2d-4aac-817b-6df4f685c739",
+  "path": "/usr/bin/debconf-updatepo",
+  "size": 4566,
+  "modified": "2020-12-30T01:09:19Z",
+  "created": "2025-05-29T11:15:45.319343931Z",
+  "sha256_hash": "85115450346f414c665284eec1e04b26d21bda6321f68fcac5b1fc25768a2c6c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:14.913605119Z"
+}

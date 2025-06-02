@@ -1,0 +1,17 @@
+{
+  "uuid": "bfa2ecdb-0858-48c3-9926-69056a0d9faa",
+  "path": "/lib/systemd/user/xdg-desktop-autostart.target",
+  "size": 477,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.526779521Z",
+  "sha256_hash": "b252b6346dede256eab63e28240477e4df4b2f7309ef9ee0d6d0adc80354161d",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.146376297Z"
+}

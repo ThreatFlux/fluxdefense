@@ -1,0 +1,17 @@
+{
+  "uuid": "2c7a3436-7ffc-4ecd-95e1-f880fd20e618",
+  "path": "/usr/lib/firmware/radeon/hawaii_pfp.bin.zst",
+  "size": 4154,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.063534457Z",
+  "sha256_hash": "d3fc68384a4becdbabf18ff70f67f7c9748c06ed1c924041c163ea9acb7a6176",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.396846471Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "dccd2dc0-03f9-407b-b565-a42073cb20d0",
+  "path": "/lib/x86_64-linux-gnu/libpinyin/data/gb_char.bin",
+  "size": 2972097,
+  "modified": "2024-04-06T01:15:02Z",
+  "created": "2025-05-09T05:07:36.236648100Z",
+  "sha256_hash": "2c97c4981d1b19df5bd51472da1fc4f573ac01e917919733ddf9cf2f4ded8435",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.158277529Z"
+}

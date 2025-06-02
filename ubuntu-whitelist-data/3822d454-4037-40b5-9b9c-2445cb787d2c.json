@@ -1,0 +1,17 @@
+{
+  "uuid": "3822d454-4037-40b5-9b9c-2445cb787d2c",
+  "path": "/lib/firmware/intel/sof-tplg/sof-apl-pcm512x.tplg.zst",
+  "size": 1961,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.057490999Z",
+  "sha256_hash": "0c8e3553cb14716c91608424116df7208aeaa7aa0457bd8f119cf375c20fb112",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.210830712Z"
+}

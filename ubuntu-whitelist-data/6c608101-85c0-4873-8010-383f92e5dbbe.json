@@ -1,0 +1,15 @@
+{
+  "uuid": "6c608101-85c0-4873-8010-383f92e5dbbe",
+  "path": "/sbin/alsabat-test",
+  "size": 4136,
+  "modified": "2024-04-07T07:09:55Z",
+  "created": "2025-05-09T05:07:38.123619305Z",
+  "sha256_hash": "77599455a7598aac9a07722387dfe4950b275518ad9d7f5c4ec133f939e413ac",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.689829546Z"
+}

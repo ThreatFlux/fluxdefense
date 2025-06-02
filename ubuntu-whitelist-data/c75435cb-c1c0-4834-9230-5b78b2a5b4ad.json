@@ -1,0 +1,17 @@
+{
+  "uuid": "c75435cb-c1c0-4834-9230-5b78b2a5b4ad",
+  "path": "/lib/systemd/system/systemd-pcrlock-machine-id.service",
+  "size": 764,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "ee26d7a46f739ea4a830f42755bc51440ab187550faf8ba2f1702b4f54fad420",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.107073725Z"
+}

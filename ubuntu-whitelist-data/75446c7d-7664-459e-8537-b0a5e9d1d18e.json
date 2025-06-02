@@ -1,0 +1,17 @@
+{
+  "uuid": "75446c7d-7664-459e-8537-b0a5e9d1d18e",
+  "path": "/usr/lib/grub/x86_64-efi/search.mod",
+  "size": 5584,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.838708002Z",
+  "sha256_hash": "797ad660b2c48de13c6bcc65175248de67825ee296349a932d921c2615d0da43",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.479468364Z"
+}

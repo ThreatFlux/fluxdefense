@@ -1,0 +1,17 @@
+{
+  "uuid": "3137b8c0-85e1-4518-a252-f30c671527ca",
+  "path": "/lib/llvm-18/include/clang-tidy/fuchsia/DefaultArgumentsDeclarationsCheck.h",
+  "size": 1272,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "8b92b762e1756dc99ff262737687fd1dd042e44bcb1d166e6a01f6be2e857eed",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.913521584Z"
+}

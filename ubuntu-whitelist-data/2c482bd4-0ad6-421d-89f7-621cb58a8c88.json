@@ -1,0 +1,17 @@
+{
+  "uuid": "2c482bd4-0ad6-421d-89f7-621cb58a8c88",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/CodeGenOptions.h",
+  "size": 19925,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.527533608Z",
+  "sha256_hash": "ac01039c1f6045d4c0968a5f018d2bf046241a26a28b0118bf553a13d7a34a6a",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.610289866Z"
+}

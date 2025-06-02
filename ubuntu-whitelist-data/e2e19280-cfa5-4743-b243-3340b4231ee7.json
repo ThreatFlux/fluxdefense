@@ -1,0 +1,17 @@
+{
+  "uuid": "e2e19280-cfa5-4743-b243-3340b4231ee7",
+  "path": "/lib/x86_64-linux-gnu/libexif.so.12.3.4",
+  "size": 309320,
+  "modified": "2024-04-08T16:03:23Z",
+  "created": "2025-05-09T05:07:29.413752217Z",
+  "sha256_hash": "a1e8df5841b6050455047fb9dcb51d32503b9090344ead685cefc16d8f8b5ae9",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.749308248Z"
+}

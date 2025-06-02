@@ -1,0 +1,17 @@
+{
+  "uuid": "17f8bed6-b43b-4a22-b47b-321dc7d0bbbc",
+  "path": "/lib/modules/6.11.0-25-generic/kernel/crypto/chacha20poly1305.ko.zst",
+  "size": 7231,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.098459849Z",
+  "sha256_hash": "e34806af197936a032c79af3368b0f533d423dad0d277f431e66243edc78b929",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.628130629Z"
+}

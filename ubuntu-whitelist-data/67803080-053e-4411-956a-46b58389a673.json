@@ -1,0 +1,17 @@
+{
+  "uuid": "67803080-053e-4411-956a-46b58389a673",
+  "path": "/usr/lib/systemd/user/default.target",
+  "size": 471,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.526779521Z",
+  "sha256_hash": "64cd66152e3e1307bd80162c690a14fe32b98498588ebd6a642888b23e8307c3",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.505244877Z"
+}

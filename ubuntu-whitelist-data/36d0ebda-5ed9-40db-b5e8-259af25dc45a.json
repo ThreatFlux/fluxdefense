@@ -1,0 +1,15 @@
+{
+  "uuid": "36d0ebda-5ed9-40db-b5e8-259af25dc45a",
+  "path": "/usr/lib/google-cloud-sdk/platform/bundledpythonunix/bin/idle3",
+  "size": 156,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.305922206Z",
+  "sha256_hash": "4ee1fe32bc385f4a8c0126daef3d45fe83febf4d91b20669305392e01bcc343d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.634976673Z"
+}

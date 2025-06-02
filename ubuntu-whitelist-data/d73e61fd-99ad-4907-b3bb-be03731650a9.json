@@ -1,0 +1,15 @@
+{
+  "uuid": "d73e61fd-99ad-4907-b3bb-be03731650a9",
+  "path": "/usr/sbin/gethostlatency-bpfcc",
+  "size": 3914,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "55d7956af96bf198dcc9bf375a51f2a7f0cae046ed88833dc6b80a0687834b31",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.374687860Z"
+}

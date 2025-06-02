@@ -1,0 +1,17 @@
+{
+  "uuid": "d314ee71-bd20-4bab-a628-d4276b57876e",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/readability/ConvertMemberFunctionsToStatic.h",
+  "size": 1323,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "d1b2e6975dd5c19b64be29aa2fd2cddad3eb34b804de6a2dd01c71683b3b8705",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.287555583Z"
+}

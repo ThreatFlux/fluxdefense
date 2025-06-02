@@ -1,0 +1,15 @@
+{
+  "uuid": "a9320f07-2c76-4900-9c2c-088c59e48ba9",
+  "path": "/lib/libreoffice/program/libscriptframe.so",
+  "size": 222608,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:20.082231641Z",
+  "sha256_hash": "03b04c93b5d7c1b60af8a39a84903dd5cd85389491ae9bf740f9631d0947a494",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:49.933057195Z"
+}

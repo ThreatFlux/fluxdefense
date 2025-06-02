@@ -1,0 +1,17 @@
+{
+  "uuid": "13613c88-d9b0-4704-b065-e86d51a5aa91",
+  "path": "/lib/modules/6.11.0-25-generic/kernel/fs/binfmt_misc.ko.zst",
+  "size": 10437,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.127459407Z",
+  "sha256_hash": "db66775925e1ba751a32c0263dbc12b959f81b487511b675ad8ecd81fda83b7e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.637669835Z"
+}

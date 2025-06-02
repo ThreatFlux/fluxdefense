@@ -1,0 +1,17 @@
+{
+  "uuid": "f1f27f36-69fd-4e98-9692-158bea1ba8a7",
+  "path": "/usr/lib/modules/6.11.0-26-generic/kernel/lib/objagg.ko.zst",
+  "size": 18898,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.114797272Z",
+  "sha256_hash": "27df35f5487f53ee22842ccc70479b4e260fe8ad9d401837980401d59a9ac825",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.650373576Z"
+}

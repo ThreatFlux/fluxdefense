@@ -1,0 +1,15 @@
+{
+  "uuid": "7227e442-ecf3-48df-a2cf-83d26b54b53e",
+  "path": "/usr/lib/cups/filter/imagetobrf",
+  "size": 2779,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.356875161Z",
+  "sha256_hash": "923d2a9514f369c7c647a9a399d5a2e66a9f4a31301d4c1e5922fbeedc20466d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.994943508Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "10bf1952-6c0c-4396-a5bb-ef348c7f2c72",
+  "path": "/lib/x86_64-linux-gnu/libxkbfile.so.1.0.2",
+  "size": 159648,
+  "modified": "2024-04-08T16:10:04Z",
+  "created": "2025-05-09T05:07:35.153664627Z",
+  "sha256_hash": "f502634e5b3af5244bd2d666aa87284b7bc836b8dd655cf66592985d8d47985a",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.894696772Z"
+}

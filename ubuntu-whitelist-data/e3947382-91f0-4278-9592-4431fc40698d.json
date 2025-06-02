@@ -1,0 +1,17 @@
+{
+  "uuid": "e3947382-91f0-4278-9592-4431fc40698d",
+  "path": "/usr/lib/x86_64-linux-gnu/libsepol.so.2",
+  "size": 739760,
+  "modified": "2024-04-08T16:07:01Z",
+  "created": "2025-05-09T05:07:32.155710375Z",
+  "sha256_hash": "bbab0fe601f90a7e3c435a6bb3da5c85a6d80614b14af232d87387c581a77077",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.125334866Z"
+}

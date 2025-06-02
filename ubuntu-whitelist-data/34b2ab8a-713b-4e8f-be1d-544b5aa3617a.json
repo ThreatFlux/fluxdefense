@@ -1,0 +1,15 @@
+{
+  "uuid": "34b2ab8a-713b-4e8f-be1d-544b5aa3617a",
+  "path": "/usr/sbin/pam_getenv",
+  "size": 2890,
+  "modified": "2024-04-30T20:47:18Z",
+  "created": "2025-05-09T05:07:38.392615201Z",
+  "sha256_hash": "982cca7d6a9afe07d7ba3fc929082ef11ed1cadb88d253f6464bfc0a19730674",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.491146675Z"
+}

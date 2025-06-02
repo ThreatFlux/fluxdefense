@@ -1,0 +1,17 @@
+{
+  "uuid": "2c124ba7-363a-41c4-ad9c-84563974c6f4",
+  "path": "/usr/lib/x86_64-linux-gnu/libhs.so.5.4.2",
+  "size": 10127856,
+  "modified": "2024-04-19T13:15:15Z",
+  "created": "2025-05-26T20:18:24.118067293Z",
+  "sha256_hash": "bc09d609cf5a64fdcdcc0824ebaf05c7ea6784fc138f1278b2ed57c18897044b",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:22.190969533Z"
+}

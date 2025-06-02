@@ -1,0 +1,17 @@
+{
+  "uuid": "d7c61d85-17b2-46d3-bde0-3d0d2426859f",
+  "path": "/lib/x86_64-linux-gnu/libmanette-0.2.so.0",
+  "size": 190680,
+  "modified": "2024-03-31T07:52:33Z",
+  "created": "2025-05-09T05:07:31.337722858Z",
+  "sha256_hash": "90ecc0b62a14dad4c3a1ee488ad483289ddf862f32bf68d14f260bf754711aa7",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:22.503143653Z"
+}

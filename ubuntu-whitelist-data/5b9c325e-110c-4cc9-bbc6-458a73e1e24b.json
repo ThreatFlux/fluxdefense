@@ -1,0 +1,17 @@
+{
+  "uuid": "5b9c325e-110c-4cc9-bbc6-458a73e1e24b",
+  "path": "/lib/llvm-18/include/clang/Basic/BuiltinsSystemZ.def",
+  "size": 20568,
+  "modified": "2023-12-18T16:32:15Z",
+  "created": "2025-05-12T13:34:31.526533621Z",
+  "sha256_hash": "5cf6931148bfe41c1f5b1ed304bb005440f7e36bb98ef00260f01a518318bbc7",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.120879689Z"
+}

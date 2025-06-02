@@ -1,0 +1,17 @@
+{
+  "uuid": "0812064f-8be0-4b7c-a0e6-ac391b707c8a",
+  "path": "/lib/firmware/nvidia/gp10b/gr/gpccs_inst.bin.zst",
+  "size": 6071,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.940536161Z",
+  "sha256_hash": "bef433ca126e42db9c9f00d914a8fd8253c86cca790eea3a73197ca32b1718dd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.419363288Z"
+}

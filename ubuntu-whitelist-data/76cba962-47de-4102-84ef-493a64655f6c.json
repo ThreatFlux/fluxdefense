@@ -1,0 +1,15 @@
+{
+  "uuid": "76cba962-47de-4102-84ef-493a64655f6c",
+  "path": "/usr/sbin/xfsdist-bpfcc",
+  "size": 4723,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.524499133Z",
+  "sha256_hash": "b9aa409d9b674672e0ed45aad7422abef832ea4b14fac433bffa1002fa9f7b70",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.524654297Z"
+}

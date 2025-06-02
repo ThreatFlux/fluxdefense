@@ -1,0 +1,15 @@
+{
+  "uuid": "7896d258-3ed3-470a-b572-1112930ae51b",
+  "path": "/lib/python3/dist-packages/cloudinit/distros/ug_util.py",
+  "size": 10001,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.238037203Z",
+  "sha256_hash": "2d3b99b0ab6fbe9292089975c46515c41fb65c54bf19f7056a6bf2156f68f984",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.909976768Z"
+}

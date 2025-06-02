@@ -1,0 +1,17 @@
+{
+  "uuid": "f31c8b79-4665-4a3a-8bb1-7cb6c43383e2",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/libpostproc.pc",
+  "size": 333,
+  "modified": "2024-04-05T17:28:52Z",
+  "created": "2025-05-12T13:32:32.518100484Z",
+  "sha256_hash": "a9c455d8e70a12fb55fcc95ac5b7f7bfcec9bd5456e4247461ca7f39b7393fee",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.096775653Z"
+}

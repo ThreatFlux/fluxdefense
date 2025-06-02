@@ -1,0 +1,17 @@
+{
+  "uuid": "edb867b4-4593-4c34-813c-fce72204de18",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/grilo-plugins-0.3.pc",
+  "size": 91,
+  "modified": "2025-03-17T11:05:34Z",
+  "created": "2025-05-12T03:14:18.439811199Z",
+  "sha256_hash": "a11398943ab773686e88de03513cb6bc8323525fe5862e8477524196cdf7fc40",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.099569785Z"
+}

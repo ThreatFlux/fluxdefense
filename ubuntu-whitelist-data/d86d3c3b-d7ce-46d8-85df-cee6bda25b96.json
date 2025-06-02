@@ -1,0 +1,15 @@
+{
+  "uuid": "d86d3c3b-d7ce-46d8-85df-cee6bda25b96",
+  "path": "/usr/bin/nvidia-sleep.sh",
+  "size": 900,
+  "modified": "2024-12-30T17:02:36Z",
+  "created": "2025-05-09T12:56:03.411986421Z",
+  "sha256_hash": "eeedbfa3bbc7118b7d667b108076db793cba11ad1fbc9e928198c153a3da737f",
+  "file_type": "Script",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:11.677453976Z"
+}

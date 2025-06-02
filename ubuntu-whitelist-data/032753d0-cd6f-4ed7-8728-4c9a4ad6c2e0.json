@@ -1,0 +1,15 @@
+{
+  "uuid": "032753d0-cd6f-4ed7-8728-4c9a4ad6c2e0",
+  "path": "/usr/sbin/mysqld_qslower-bpfcc",
+  "size": 3125,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "80d9652f0e1252143a3a44172040edd3503622c3bcb59c982ed39142bc72eeda",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.526883914Z"
+}

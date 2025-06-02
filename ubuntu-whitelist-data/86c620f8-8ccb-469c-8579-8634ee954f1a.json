@@ -1,0 +1,17 @@
+{
+  "uuid": "86c620f8-8ccb-469c-8579-8634ee954f1a",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-ricoh.so.1.2.1",
+  "size": 67848,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.158634031Z",
+  "sha256_hash": "f6939792df06117dcabef9caf302df5e4bd7b2f5c7b5046b11e9f0ac5dc276c4",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.790451086Z"
+}

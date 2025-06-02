@@ -1,0 +1,15 @@
+{
+  "uuid": "e0bb3aba-deea-402a-8cfc-f22022b988a1",
+  "path": "/usr/bin/swtpm_bios",
+  "size": 23176,
+  "modified": "2024-07-30T22:16:43Z",
+  "created": "2025-05-09T05:56:58.425542809Z",
+  "sha256_hash": "01eb79698769711a00e095d3cf5fa27d39e49ca46f6742ba6dbeeb357ecf787f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.174331284Z"
+}

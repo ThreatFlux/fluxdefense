@@ -1,0 +1,17 @@
+{
+  "uuid": "9188a128-42e2-43a0-8b31-aa4ea4d6bd8d",
+  "path": "/usr/lib/x86_64-linux-gnu/librte_net.so.24.0",
+  "size": 30904,
+  "modified": "2024-12-18T18:31:38Z",
+  "created": "2025-05-26T20:18:26.074037746Z",
+  "sha256_hash": "9724ad6702845c90553b1f38bd840aaf09880f72196e7c545de62c6cbd6a4a63",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.506681197Z"
+}

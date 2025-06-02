@@ -1,0 +1,15 @@
+{
+  "uuid": "6937639f-e2fe-4425-9056-72777942ee89",
+  "path": "/lib/google-cloud-sdk/platform/gsutil/gslib/sig_handling.py",
+  "size": 5772,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.817930494Z",
+  "sha256_hash": "61afa0c4c0624dfa4df4c7af1105817e3d2cfd228001fed82bc5bc1a34e97cd0",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.970297338Z"
+}

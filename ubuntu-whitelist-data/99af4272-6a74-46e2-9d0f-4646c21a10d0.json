@@ -1,0 +1,15 @@
+{
+  "uuid": "99af4272-6a74-46e2-9d0f-4646c21a10d0",
+  "path": "/usr/bin/sbsign",
+  "size": 35536,
+  "modified": "2024-04-08T14:49:32Z",
+  "created": "2025-05-09T05:07:20.406889657Z",
+  "sha256_hash": "96ceb5a079ee9eadddcc704411e015be0da1343e0bb6b347b9ea17738926e3d4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:11.676596782Z"
+}

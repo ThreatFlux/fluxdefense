@@ -1,0 +1,17 @@
+{
+  "uuid": "83e87b10-2d44-4169-b24b-98e6e12b046c",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/SuspiciousIncludeCheck.h",
+  "size": 2212,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "ebb548942f6120249dba0c94ec4e53c11de48dbd1de656dfba5cd4cdddc73928",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.895574178Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "26990b58-862b-49b0-9657-57fa42d82423",
+  "path": "/usr/lib/x86_64-linux-gnu/libsamba-hostconfig.so.0.0.1",
+  "size": 203416,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:32.115710985Z",
+  "sha256_hash": "73315319ea04930d84a4f202db4077714bdf64c95123d14608e69b9056b7671e",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.627287032Z"
+}

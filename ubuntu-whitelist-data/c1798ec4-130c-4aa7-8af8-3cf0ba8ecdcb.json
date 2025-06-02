@@ -1,0 +1,17 @@
+{
+  "uuid": "c1798ec4-130c-4aa7-8af8-3cf0ba8ecdcb",
+  "path": "/usr/lib/pcrlock.d/800-leave-initrd.pcrlock",
+  "size": 495,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.509779304Z",
+  "sha256_hash": "abbfc1f8fa3d31cdad838ce8737905dc24c1f8ac2a6307ad4c1b306616e91215",
+  "file_type": {
+    "Other": "pcrlock"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.284683370Z"
+}

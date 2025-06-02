@@ -1,0 +1,15 @@
+{
+  "uuid": "1a8f312e-967d-44e7-bcba-3dc748fb4797",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/pyasn1_modules/rfc2315.py",
+  "size": 9650,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.101942658Z",
+  "sha256_hash": "279b20232e02ef8d5a736ff3a7c6f75ff1bd135c9617583ac39e12c946e4e7fa",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.723701774Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "94acbda6-eb5a-4123-a38b-d11da4e2de58",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/libde265.pc",
+  "size": 304,
+  "modified": "2024-04-15T19:09:53Z",
+  "created": "2025-05-29T11:16:20.785857268Z",
+  "sha256_hash": "451e295a15366113057843169ce381124c8b82930dd2eadade94e81f5f4cc623",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.061307896Z"
+}

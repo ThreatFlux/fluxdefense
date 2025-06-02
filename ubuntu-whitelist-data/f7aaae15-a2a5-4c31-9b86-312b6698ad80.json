@@ -1,0 +1,15 @@
+{
+  "uuid": "f7aaae15-a2a5-4c31-9b86-312b6698ad80",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM420.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.278663446Z",
+  "sha256_hash": "5e1354f6b43da8c90fae6d81856037ebd6e93f83562f28283083b8da8842ac22",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.964167357Z"
+}

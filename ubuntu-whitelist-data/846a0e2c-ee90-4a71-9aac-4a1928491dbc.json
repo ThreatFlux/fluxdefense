@@ -1,0 +1,17 @@
+{
+  "uuid": "846a0e2c-ee90-4a71-9aac-4a1928491dbc",
+  "path": "/lib/firmware/inside-secure/eip197_minifw/ipue.bin.zst",
+  "size": 118,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.546541618Z",
+  "sha256_hash": "7acadfdaa81e5f30f82accc205c68fd40ff3f08f2c7786468c9cd45d98d0243d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.669256718Z"
+}

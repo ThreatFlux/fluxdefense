@@ -1,0 +1,17 @@
+{
+  "uuid": "5f64d253-2895-4efc-bfc8-eab43de40799",
+  "path": "/usr/lib/systemd/system/update-notifier-download.timer",
+  "size": 268,
+  "modified": "2024-10-08T13:47:14Z",
+  "created": "2025-05-09T05:24:21.991888836Z",
+  "sha256_hash": "78f01ff5be8b01eee4c438d6a7971dcb9f34687cb75bd0d61f754eb5eb42ad22",
+  "file_type": {
+    "Other": "timer"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.456839086Z"
+}

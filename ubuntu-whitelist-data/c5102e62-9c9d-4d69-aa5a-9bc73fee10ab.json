@@ -1,0 +1,15 @@
+{
+  "uuid": "c5102e62-9c9d-4d69-aa5a-9bc73fee10ab",
+  "path": "/usr/bin/mtr",
+  "size": 78080,
+  "modified": "2024-10-07T02:35:31Z",
+  "created": "2025-05-09T05:07:20.190892953Z",
+  "sha256_hash": "0876719cfdc30d54f2f9de3e6c8905905bdf897e82e8119e27ff0522ac527faa",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.011785291Z"
+}

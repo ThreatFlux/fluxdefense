@@ -1,0 +1,15 @@
+{
+  "uuid": "7c198400-feb3-4328-9352-00313e18b4ea",
+  "path": "/usr/lib/cups/filter/imagetoraster",
+  "size": 14648,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.356875161Z",
+  "sha256_hash": "c46c4a1cf3ff86ee3ac9c10e1cca1972e04ffed85cb3e4c795ef06a64839072c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.003516053Z"
+}

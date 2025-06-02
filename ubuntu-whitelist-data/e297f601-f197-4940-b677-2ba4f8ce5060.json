@@ -1,0 +1,15 @@
+{
+  "uuid": "e297f601-f197-4940-b677-2ba4f8ce5060",
+  "path": "/lib/google-cloud-sdk/lib/surface/iam/list_testable_permissions.py",
+  "size": 2608,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.729931989Z",
+  "sha256_hash": "8aeade1502039476fddcd065e88677e88e5e421023b0f55948cd298d45c1e6bd",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.041317070Z"
+}

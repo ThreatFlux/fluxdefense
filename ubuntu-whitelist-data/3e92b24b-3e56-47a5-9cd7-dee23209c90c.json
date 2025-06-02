@@ -1,0 +1,17 @@
+{
+  "uuid": "3e92b24b-3e56-47a5-9cd7-dee23209c90c",
+  "path": "/lib/firmware/rtl_nic/rtl8156a-2.fw.zst",
+  "size": 2788,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.067534402Z",
+  "sha256_hash": "ca6e8bd0a62118718eccee37ef2558af6857d0b46c8600f4af8cbe3bfbca5a0f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.420230261Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "87fbfd3b-2723-405a-b45d-867251abec6f",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/panel.pc",
+  "size": 456,
+  "modified": "2024-04-08T16:14:03Z",
+  "created": "2025-05-12T13:34:34.214498225Z",
+  "sha256_hash": "66643e281acb79794391106f33f8f7a6f9ce926d5ccc435179c1a4413fdf1b3d",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.054546149Z"
+}

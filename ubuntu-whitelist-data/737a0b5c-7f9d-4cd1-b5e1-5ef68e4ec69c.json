@@ -1,0 +1,17 @@
+{
+  "uuid": "737a0b5c-7f9d-4cd1-b5e1-5ef68e4ec69c",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/readability/ConstReturnTypeCheck.h",
+  "size": 1474,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "5cd226dfc6de57dbd81fb75c28b7f91683823576bb4109f39b6315e103893395",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.292426242Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "67fd9077-2e29-4d23-9352-f563a0e6873a",
+  "path": "/usr/bin/cldrparser-3.2.2",
+  "size": 1713616,
+  "modified": "2024-01-05T07:40:08Z",
+  "created": "2025-05-29T11:16:19.022881460Z",
+  "sha256_hash": "609ec7105bc6dd53f6cda157378a8bbd72d47fd9747c3ab74e8cb533a425b964",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.313066211Z"
+}

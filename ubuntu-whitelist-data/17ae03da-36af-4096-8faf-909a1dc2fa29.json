@@ -1,0 +1,17 @@
+{
+  "uuid": "17ae03da-36af-4096-8faf-909a1dc2fa29",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-traent.ali",
+  "size": 1296,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.145343843Z",
+  "sha256_hash": "c5a714f8108eeab30d279cdab0b60642c2519c118be0cb64680a4e9bd1e1cd8f",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.682819986Z"
+}

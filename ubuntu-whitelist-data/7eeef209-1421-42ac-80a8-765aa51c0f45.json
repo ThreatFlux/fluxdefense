@@ -1,0 +1,17 @@
+{
+  "uuid": "7eeef209-1421-42ac-80a8-765aa51c0f45",
+  "path": "/usr/lib/grub/x86_64-efi/crc64.mod",
+  "size": 2216,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.802708552Z",
+  "sha256_hash": "c52f12cf678994649f57ff3c911bf04223a87f6de7ca89dfe7688bc5c56e2156",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.495868407Z"
+}

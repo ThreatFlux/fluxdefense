@@ -1,0 +1,17 @@
+{
+  "uuid": "3bbf3b6f-69a0-4e03-a794-5f7078190669",
+  "path": "/lib/llvm-18/include/clang/Sema/CodeCompleteOptions.h",
+  "size": 1894,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.547533344Z",
+  "sha256_hash": "a44a652946d5b0dd1a2bba67b2f0ad11973246769df1a9f23d6c6bdda0d58969",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.069124445Z"
+}

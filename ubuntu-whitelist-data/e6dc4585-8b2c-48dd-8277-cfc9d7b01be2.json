@@ -1,0 +1,15 @@
+{
+  "uuid": "e6dc4585-8b2c-48dd-8277-cfc9d7b01be2",
+  "path": "/usr/lib/cups/backend-available/usb",
+  "size": 35120,
+  "modified": "2024-09-26T11:15:36Z",
+  "created": "2025-05-09T05:07:21.037880029Z",
+  "sha256_hash": "7ba56b05122b0576abf722a3d3b1e8d69f62cc272be9c0ca4f0bf95e562c4051",
+  "file_type": "Executable",
+  "permissions": 33252,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.981766951Z"
+}

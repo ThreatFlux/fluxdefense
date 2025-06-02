@@ -1,0 +1,17 @@
+{
+  "uuid": "7c2cfce1-b134-4e87-9fb4-c855de21052c",
+  "path": "/lib/x86_64-linux-gnu/libEGL_nvidia.so.550.144.03",
+  "size": 1345696,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:01.935947903Z",
+  "sha256_hash": "61fcf9e29d72df8c459290fb67463153d5624dadf8b7c842e9eced43cefe9eab",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:32.517358478Z"
+}

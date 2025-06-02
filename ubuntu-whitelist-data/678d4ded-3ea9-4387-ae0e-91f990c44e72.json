@@ -1,0 +1,17 @@
+{
+  "uuid": "678d4ded-3ea9-4387-ae0e-91f990c44e72",
+  "path": "/lib/systemd/system/machine.slice",
+  "size": 453,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "0fe5e4c04a07de5e4421f00e35057f00cc17a0d39da004693f565f31c5c156b4",
+  "file_type": {
+    "Other": "slice"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.119852956Z"
+}

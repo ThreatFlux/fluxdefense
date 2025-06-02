@@ -1,0 +1,17 @@
+{
+  "uuid": "db08546a-7348-407e-86a0-8badd15837b3",
+  "path": "/lib/llvm-18/include/clang/Frontend/SARIFDiagnostic.h",
+  "size": 2851,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "dd8aadb8f5c2f23a4571f9ed6eeb119f3c9c027c74a206896dd90827887dfeb3",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.929352441Z"
+}

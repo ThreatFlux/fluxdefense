@@ -1,0 +1,17 @@
+{
+  "uuid": "80e693d9-9455-48db-8376-398efdcca828",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/g-dynhta.adb",
+  "size": 37672,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.067344915Z",
+  "sha256_hash": "006abb9f4d30af6af792b6fa5f81c0501194e1d399eaa381ccd878abf7c4c0f3",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.969146112Z"
+}

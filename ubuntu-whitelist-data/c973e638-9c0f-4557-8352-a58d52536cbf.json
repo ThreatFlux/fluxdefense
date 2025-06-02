@@ -1,0 +1,15 @@
+{
+  "uuid": "c973e638-9c0f-4557-8352-a58d52536cbf",
+  "path": "/bin/ddstdecode",
+  "size": 18752,
+  "modified": "2024-04-10T21:38:27Z",
+  "created": "2025-05-09T05:07:19.147908869Z",
+  "sha256_hash": "bb21a3ec93f2adc76d9164e7dd7db7ccb689984db56e7c8f52d49583c55bf476",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.639604634Z"
+}

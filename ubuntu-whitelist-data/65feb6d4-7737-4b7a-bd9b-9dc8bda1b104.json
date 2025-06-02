@@ -1,0 +1,17 @@
+{
+  "uuid": "65feb6d4-7737-4b7a-bd9b-9dc8bda1b104",
+  "path": "/lib/firmware/radeon/RS780_me.bin.zst",
+  "size": 4392,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "cb63e524beedcabebc24520fd07acd8f053c23a911d8fd2fc4e58997f86661c9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.379569014Z"
+}

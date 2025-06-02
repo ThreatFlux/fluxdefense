@@ -1,0 +1,15 @@
+{
+  "uuid": "c0100ef6-53b2-447b-a337-19b2fd2da840",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/docker/auth.py",
+  "size": 13241,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.310939108Z",
+  "sha256_hash": "8abe1cd9a55de477ff1da1d007bef86fa2adbe7067d76744184346adb88813d5",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.729385195Z"
+}

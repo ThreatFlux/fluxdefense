@@ -1,0 +1,15 @@
+{
+  "uuid": "30f4a8bb-eb92-4701-9785-2de07c11f173",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/distros/TencentOS.py",
+  "size": 277,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.237037190Z",
+  "sha256_hash": "ffc13b74404c103cf3b3bbe11e609ee7ac49c8f9e41ea2b8fbf0469d2713b369",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.836144792Z"
+}

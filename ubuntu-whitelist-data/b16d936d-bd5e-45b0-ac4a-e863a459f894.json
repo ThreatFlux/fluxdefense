@@ -1,0 +1,17 @@
+{
+  "uuid": "b16d936d-bd5e-45b0-ac4a-e863a459f894",
+  "path": "/usr/lib/firmware/qca/apbtfw11.tlv.zst",
+  "size": 117867,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.966535801Z",
+  "sha256_hash": "9bb69df4a677c902e2eb6eec4105dda20acda885dc710e048aa20f0b134b51b0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.460155100Z"
+}

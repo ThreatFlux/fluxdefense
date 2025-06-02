@@ -1,0 +1,17 @@
+{
+  "uuid": "0c914ad8-aa90-4953-b284-7cc70af4b52b",
+  "path": "/usr/lib/firmware/cbfw-3.2.5.1.bin.zst",
+  "size": 237694,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.490542394Z",
+  "sha256_hash": "aea9220d44fd2e251cb877a16293a8fd6f896632d5fc5a24e117c670e61e85d8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.564651007Z"
+}

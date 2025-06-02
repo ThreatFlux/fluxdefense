@@ -1,0 +1,17 @@
+{
+  "uuid": "ef21541b-74fb-4c4d-92ca-b882c537c730",
+  "path": "/lib/llvm-18/include/clang/AST/ASTFwd.h",
+  "size": 1184,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.510533832Z",
+  "sha256_hash": "5deea69c011febd5e9ae92ba92d31668b166ec7ef4145f116ce90500405eb6ec",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.940223424Z"
+}

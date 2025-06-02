@@ -1,0 +1,17 @@
+{
+  "uuid": "de110a67-0104-4427-94bc-15cd86555526",
+  "path": "/lib/firmware/amdgpu/green_sardine_sdma.bin.zst",
+  "size": 8184,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.400543640Z",
+  "sha256_hash": "f7be225760e257aba4bb0331f0bb978d7b2326a9a9b37cc78f04bd6e0f7d91e9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.016517709Z"
+}

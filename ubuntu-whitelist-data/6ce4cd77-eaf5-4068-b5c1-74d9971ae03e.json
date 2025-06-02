@@ -1,0 +1,17 @@
+{
+  "uuid": "6ce4cd77-eaf5-4068-b5c1-74d9971ae03e",
+  "path": "/lib/x86_64-linux-gnu/evince/4/backends/djvudocument.evince-backend",
+  "size": 3608,
+  "modified": "2024-10-15T07:35:01Z",
+  "created": "2025-05-09T05:07:35.586658019Z",
+  "sha256_hash": "aa9c5ccc52b360684f95307f40529084f935a6348376e477004ba08e99f97a40",
+  "file_type": {
+    "Other": "evince-backend"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.710602014Z"
+}

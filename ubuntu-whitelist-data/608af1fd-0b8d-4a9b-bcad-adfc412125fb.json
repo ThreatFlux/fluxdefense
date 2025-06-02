@@ -1,0 +1,17 @@
+{
+  "uuid": "608af1fd-0b8d-4a9b-bcad-adfc412125fb",
+  "path": "/usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0.5200.1",
+  "size": 108536,
+  "modified": "2024-03-31T06:43:55Z",
+  "created": "2025-05-09T05:07:31.786716006Z",
+  "sha256_hash": "cfcd528cfb737212719b3273b433b7fe35b6528acbb08c2223a486449314d629",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.080728743Z"
+}

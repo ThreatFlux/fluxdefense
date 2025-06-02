@@ -1,0 +1,15 @@
+{
+  "uuid": "8452ac51-0191-469a-8a7c-f15e46dca9b9",
+  "path": "/usr/lib/evolution-data-server/registry-modules/module-google-backend.so",
+  "size": 34976,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:21.658870553Z",
+  "sha256_hash": "aabc8966cf6055db33785210985b74a2b4ca8903a41527f5fb8791776ebe8854",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.049449004Z"
+}

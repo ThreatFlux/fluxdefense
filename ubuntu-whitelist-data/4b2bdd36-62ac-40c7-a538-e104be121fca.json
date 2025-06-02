@@ -1,0 +1,17 @@
+{
+  "uuid": "4b2bdd36-62ac-40c7-a538-e104be121fca",
+  "path": "/usr/lib/systemd/user/org.gnome.SettingsDaemon.Keyboard.target",
+  "size": 361,
+  "modified": "2024-04-18T10:59:35Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "206253e5dd4fba21a1c4859b4ee8f5debb43074f32ad44668fd63beb32b391aa",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.504970517Z"
+}

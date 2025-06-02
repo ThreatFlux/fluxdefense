@@ -1,0 +1,17 @@
+{
+  "uuid": "ecb9b6aa-1d84-49c1-a475-339e22543578",
+  "path": "/lib/grub/x86_64-efi/gcry_rmd160.mod",
+  "size": 7912,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.807708476Z",
+  "sha256_hash": "5592defd9c79085543bc6c0774788a769b44896c446a04b80cf9fd9d7b76e002",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.023668419Z"
+}

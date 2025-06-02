@@ -1,0 +1,15 @@
+{
+  "uuid": "389bcdba-9fd2-44c9-a402-eaddb39ade70",
+  "path": "/usr/libexec/run-systemd-session",
+  "size": 1649,
+  "modified": "2024-04-09T05:24:03Z",
+  "created": "2025-05-09T05:07:37.559627912Z",
+  "sha256_hash": "574f70709ff79b626e034e2b0cb8c25cec22e54ffea2eb7872090538af32e095",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.112104895Z"
+}

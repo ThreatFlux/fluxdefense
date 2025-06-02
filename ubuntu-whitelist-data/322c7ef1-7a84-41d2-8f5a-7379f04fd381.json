@@ -1,0 +1,17 @@
+{
+  "uuid": "322c7ef1-7a84-41d2-8f5a-7379f04fd381",
+  "path": "/usr/lib/modules/6.11.0-26-generic/modules.builtin",
+  "size": 9863,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.134796925Z",
+  "sha256_hash": "c5cce41ee29ab6472b4979f534c0930d3b5429605d66103a3b7db9247b8b7035",
+  "file_type": {
+    "Other": "builtin"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.595049117Z"
+}

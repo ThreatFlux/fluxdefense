@@ -1,0 +1,17 @@
+{
+  "uuid": "1fab42b1-5581-4dc2-941d-8c434838929e",
+  "path": "/lib/x86_64-linux-gnu/samba/libldb-mdb-int-samba4.so.0",
+  "size": 27048,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.061635511Z",
+  "sha256_hash": "93cf716fce74b500b6a2c998125d8de9670094f5ae6659c28b1aab98562904ce",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.507071192Z"
+}

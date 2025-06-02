@@ -1,0 +1,17 @@
+{
+  "uuid": "27e63e08-1861-4e4d-b1bf-6b2ea1f695e0",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/BitmaskEnum.h",
+  "size": 749,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.525533634Z",
+  "sha256_hash": "54a3db30bc08eb61e13f37d59ff32a7f828c3b37ac5f8d36b93fdc0d37748b7c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.562354529Z"
+}

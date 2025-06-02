@@ -1,0 +1,17 @@
+{
+  "uuid": "fe7e8ece-3c32-45b3-a83f-6486a4361bf3",
+  "path": "/usr/sbin/biolatency-kp.bt",
+  "size": 664,
+  "modified": "2024-03-07T22:14:52Z",
+  "created": "2025-05-09T05:08:51.885493624Z",
+  "sha256_hash": "28e75e252f8bb4193f811b4da169a3fe80aeffb3ca9c568293f192508b24e53f",
+  "file_type": {
+    "Other": "bt"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.250233423Z"
+}

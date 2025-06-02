@@ -1,0 +1,17 @@
+{
+  "uuid": "303b1ea3-c35f-486c-b127-7c94f87bed6b",
+  "path": "/lib/python3.12/test/sndhdrdata/sndhdr.aifc",
+  "size": 106,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.001551644Z",
+  "sha256_hash": "884528c663a2c5bc5977c54655699389e6d31420d0e79ac6fccac835ee0b167e",
+  "file_type": {
+    "Other": "aifc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.533429431Z"
+}

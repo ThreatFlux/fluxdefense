@@ -1,0 +1,15 @@
+{
+  "uuid": "e80aceb2-d099-42e0-a4f8-04df970b371b",
+  "path": "/usr/lib/cups/filter/pclmtoraster",
+  "size": 14648,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.357875146Z",
+  "sha256_hash": "0931c8a538440f147911f5448f12f1276de090379ec1d65c144f7b52bd3e6a5e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.004404806Z"
+}

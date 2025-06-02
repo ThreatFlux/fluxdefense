@@ -1,0 +1,17 @@
+{
+  "uuid": "fcf8ea74-14a2-4214-8679-4cf5340cc594",
+  "path": "/lib/llvm-18/include/clang/Basic/BuiltinsRISCVVector.def",
+  "size": 888,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.526533621Z",
+  "sha256_hash": "52ceefa15866a3a4fe83b69f24e667999d2e0d7051b53c7d347bbe170ae44df7",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.119472563Z"
+}

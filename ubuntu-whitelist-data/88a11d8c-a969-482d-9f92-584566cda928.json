@@ -1,0 +1,15 @@
+{
+  "uuid": "88a11d8c-a969-482d-9f92-584566cda928",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstximagesink.so",
+  "size": 68000,
+  "modified": "2024-12-17T13:24:56Z",
+  "created": "2025-05-09T05:07:35.777655105Z",
+  "sha256_hash": "243360fba8bd283b3320af627321fccd81bdf867adc312a3c7f48cf3c16daf0d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.154100351Z"
+}

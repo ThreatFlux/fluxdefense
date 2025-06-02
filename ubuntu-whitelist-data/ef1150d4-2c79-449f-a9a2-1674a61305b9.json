@@ -1,0 +1,15 @@
+{
+  "uuid": "ef1150d4-2c79-449f-a9a2-1674a61305b9",
+  "path": "/usr/bin/nvidia-bug-report.sh",
+  "size": 40769,
+  "modified": "2024-12-30T18:47:51Z",
+  "created": "2025-05-09T12:56:04.093004390Z",
+  "sha256_hash": "844dd325c87c9e8d008c9a603ad629f73ce4cca60428fefd5a8dbd30a8e3e514",
+  "file_type": "Script",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.860344621Z"
+}

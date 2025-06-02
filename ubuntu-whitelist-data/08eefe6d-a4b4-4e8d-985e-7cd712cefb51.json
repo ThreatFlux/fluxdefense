@@ -1,0 +1,17 @@
+{
+  "uuid": "08eefe6d-a4b4-4e8d-985e-7cd712cefb51",
+  "path": "/lib/environment.d/990-snapd.conf",
+  "size": 106,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.422026330Z",
+  "sha256_hash": "1a0026e88dd334aff791b37af20fe43ce6b1f0b39a35d680a370de2561cf87b4",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.737231880Z"
+}

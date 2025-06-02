@@ -1,0 +1,17 @@
+{
+  "uuid": "9a51547c-46d0-4623-867c-5373933c6e57",
+  "path": "/lib/llvm-18/include/clang/Frontend/MigratorOptions.h",
+  "size": 969,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "6b4320d2e2380b06e507d23fddd6ef216342b72869e87af5a65cd93213f66297",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.928209479Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "6e7b2295-1e3f-4fbc-88e0-412f8f7e08f4",
+  "path": "/lib/udev/rules.d/60-input-id.rules",
+  "size": 282,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "2983389654fbf42eca6b703543f76867dbf53eeec9288c2c88d0fcb338a2c265",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.245140830Z"
+}

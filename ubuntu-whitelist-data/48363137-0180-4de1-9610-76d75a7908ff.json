@@ -1,0 +1,17 @@
+{
+  "uuid": "48363137-0180-4de1-9610-76d75a7908ff",
+  "path": "/usr/lib/x86_64-linux-gnu/libyaml-0.so.2.0.9",
+  "size": 129016,
+  "modified": "2024-04-08T16:10:47Z",
+  "created": "2025-05-09T05:07:35.159664535Z",
+  "sha256_hash": "a518a0ec7ee915fbeabe80551b8c9573b34e37b9402cc3e3eeab0fe346ba6ef0",
+  "file_type": {
+    "Other": "9"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.149176480Z"
+}

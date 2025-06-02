@@ -1,0 +1,17 @@
+{
+  "uuid": "7575e38e-8248-4ba2-9b09-ef895bc81eec",
+  "path": "/lib/systemd/system/plymouth-kexec.service",
+  "size": 489,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:27.491960985Z",
+  "sha256_hash": "46ce273aa471de6c5c76b44ce66d27c280cbd34e5cf3d67c24b405edf79ec0f4",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.106174999Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "83ffa06b-bc97-4fc3-92a8-25c5607f7a3a",
+  "path": "/sbin/rsyslogd",
+  "size": 790192,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.548922277Z",
+  "sha256_hash": "847c1e728f7179dfba7fe702fa100fb24ebae0a069654145fe5f5a2612a822d1",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.058899661Z"
+}

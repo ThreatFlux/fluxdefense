@@ -1,0 +1,15 @@
+{
+  "uuid": "0b625f1b-b0f8-4401-a070-6b0eb8c6faf2",
+  "path": "/usr/libexec/gcc/x86_64-linux-gnu/13/collect2",
+  "size": 336056,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.642381260Z",
+  "sha256_hash": "da5668577f3e081e5010726ea5605871e6d8e717495344ddbdfdf46859e64ef2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.961567303Z"
+}

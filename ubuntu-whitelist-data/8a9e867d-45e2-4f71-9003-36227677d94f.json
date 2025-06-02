@@ -1,0 +1,17 @@
+{
+  "uuid": "8a9e867d-45e2-4f71-9003-36227677d94f",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/gdk-pixbuf-2.0.pc",
+  "size": 807,
+  "modified": "2024-06-03T16:36:10Z",
+  "created": "2025-05-29T11:16:03.787090528Z",
+  "sha256_hash": "dad1efd868a0d94de72d239c24852926f4bca85659f54a4b01baec6309cf7790",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.054157924Z"
+}

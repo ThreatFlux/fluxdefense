@@ -1,0 +1,17 @@
+{
+  "uuid": "e02190fd-4f12-42b8-a770-ce7972ff54b2",
+  "path": "/lib/firmware/intel/sof-tplg/sof-cml-da7219-max98390.tplg.zst",
+  "size": 2115,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.058490984Z",
+  "sha256_hash": "106289ceb0cd17581977e57bebea5c2304e69525622e88bc169a77e3455b962d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.213190414Z"
+}

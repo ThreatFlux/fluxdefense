@@ -1,0 +1,15 @@
+{
+  "uuid": "96351628-1d36-4035-8390-57f0d874bade",
+  "path": "/usr/lib/x86_64-linux-gnu/gtk-2.0/2.10.0/immodules/im-inuktitut.so",
+  "size": 16776,
+  "modified": "2024-07-15T16:53:59Z",
+  "created": "2025-05-09T05:07:35.797654799Z",
+  "sha256_hash": "a6d714f4f118ccb96b45f1c72e7854db7df5ab90069eee092d84d6efbca91670",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.310637101Z"
+}

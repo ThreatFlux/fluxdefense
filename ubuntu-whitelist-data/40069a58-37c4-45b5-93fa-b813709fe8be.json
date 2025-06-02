@@ -1,0 +1,17 @@
+{
+  "uuid": "40069a58-37c4-45b5-93fa-b813709fe8be",
+  "path": "/lib/firmware/mts_mt9234mu.fw.zst",
+  "size": 7405,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.892536826Z",
+  "sha256_hash": "034109e4eb26e3d8193d1ce0ddfeea406db61cfa22a445436ac7f1cec0e233ba",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.365847350Z"
+}

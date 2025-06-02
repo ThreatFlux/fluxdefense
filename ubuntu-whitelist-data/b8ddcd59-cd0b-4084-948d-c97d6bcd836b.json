@@ -1,0 +1,15 @@
+{
+  "uuid": "b8ddcd59-cd0b-4084-948d-c97d6bcd836b",
+  "path": "/lib/x86_64-linux-gnu/xtables/libip6t_rt.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.327631452Z",
+  "sha256_hash": "f7be7e12f447948203980db54ae8f95a340381de1b9f48b4f56b5acd84af3c72",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.676209014Z"
+}

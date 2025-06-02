@@ -1,0 +1,15 @@
+{
+  "uuid": "f55e4d39-d8fd-40a0-8c19-2cc7da84ff2d",
+  "path": "/usr/lib/x86_64-linux-gnu/ao/plugins-4/libalsa.so",
+  "size": 31328,
+  "modified": "2024-04-08T16:01:21Z",
+  "created": "2025-05-09T05:07:35.180664215Z",
+  "sha256_hash": "8139fdca28082df8787ff6ba717283eb26ae294d04c8f24133be1d113ea9e01c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.904739182Z"
+}

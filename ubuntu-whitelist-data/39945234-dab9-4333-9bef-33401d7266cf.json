@@ -1,0 +1,17 @@
+{
+  "uuid": "39945234-dab9-4333-9bef-33401d7266cf",
+  "path": "/usr/lib/aspell/canadian-variant_1.alias",
+  "size": 85,
+  "modified": "2020-12-08T01:19:37Z",
+  "created": "2025-05-09T05:07:21.010880441Z",
+  "sha256_hash": "0c20ded2dafc47f636199eea404e7298a21a85e5f1d7b275ac99330b7896a362",
+  "file_type": {
+    "Other": "alias"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.292241064Z"
+}

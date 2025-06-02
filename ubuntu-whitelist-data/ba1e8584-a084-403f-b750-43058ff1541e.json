@@ -1,0 +1,17 @@
+{
+  "uuid": "ba1e8584-a084-403f-b750-43058ff1541e",
+  "path": "/usr/lib/firmware/intel/sof/sof-byt.ri.zst",
+  "size": 57240,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.046491166Z",
+  "sha256_hash": "1b0803557deb05ff9396f06ded7561b149f04170768e53005c3a2a03cf5f1c12",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.636131766Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "190b62b8-6f57-47e7-a69c-188e45b29a68",
+  "path": "/lib/systemd/system/snapd.seeded.service",
+  "size": 308,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.384025824Z",
+  "sha256_hash": "65a9a57201c69de88b10f3a3201224755dbceb1bb5787ac6aeffc2aedecd45aa",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.112489298Z"
+}

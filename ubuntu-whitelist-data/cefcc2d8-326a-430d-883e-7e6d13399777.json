@@ -1,0 +1,17 @@
+{
+  "uuid": "cefcc2d8-326a-430d-883e-7e6d13399777",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/si_dict",
+  "size": 85384,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.546658630Z",
+  "sha256_hash": "a241437d4b64fd328ac4a3e786c9465c60488f6fa31cbba04153f628cdc61f27",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.348358011Z"
+}

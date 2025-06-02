@@ -1,0 +1,17 @@
+{
+  "uuid": "9efc3e15-1b81-4e0d-a531-77b3573f74bb",
+  "path": "/lib/grub/x86_64-efi/keylayouts.mod",
+  "size": 6456,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.812708399Z",
+  "sha256_hash": "b816bb8ed6b85c11ceecb49b5fa56880c8328b6f4069e5771052dae8320e74f8",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.025102464Z"
+}

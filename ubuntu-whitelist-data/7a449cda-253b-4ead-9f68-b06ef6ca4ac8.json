@@ -1,0 +1,15 @@
+{
+  "uuid": "7a449cda-253b-4ead-9f68-b06ef6ca4ac8",
+  "path": "/lib/llvm-18/lib/libLLVMMCParser.a",
+  "size": 1178990,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.924462533Z",
+  "sha256_hash": "6ad6dbb8eaa3796ce03f751fff8144cdd0013011db62255047e0061698ea15e1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.202111057Z"
+}

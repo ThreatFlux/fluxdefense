@@ -1,0 +1,17 @@
+{
+  "uuid": "969d632a-2464-42a5-bc74-279c72849833",
+  "path": "/lib/firmware/iwlwifi-ma-b0-hr-b0-89.ucode.zst",
+  "size": 556206,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.632540427Z",
+  "sha256_hash": "e2c4d6e7afc2eee46394c599f20a7fac1cb5513903c76f58aa53c93fc64050d5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.798802888Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "1872e729-6a24-40dd-87dd-c94b85d74de7",
+  "path": "/usr/lib/systemd/system/unattended-upgrades.service",
+  "size": 377,
+  "modified": "2024-02-12T17:50:35Z",
+  "created": "2025-05-09T05:07:28.304769139Z",
+  "sha256_hash": "642331d3861bcc5e41342b9b93ad96b1852447d5b10533b9b2988531cfd2860a",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.465139474Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a1db232d-2064-4a40-9385-fc2422f65026",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/sys/syscall.ph",
+  "size": 216,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.560590686Z",
+  "sha256_hash": "8e15d3437046493ec178c3ec528ed09591fbbbb997bd97affc325a7f3b2037a5",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.572554487Z"
+}

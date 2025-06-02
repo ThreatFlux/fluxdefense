@@ -1,0 +1,17 @@
+{
+  "uuid": "6fbd004e-6eb8-4c38-91b0-728e94553b2b",
+  "path": "/lib/x86_64-linux-gnu/libgvncpulse-1.0.so.0.0.1",
+  "size": 14488,
+  "modified": "2024-03-31T18:22:04Z",
+  "created": "2025-05-09T05:56:48.194657719Z",
+  "sha256_hash": "5eaed72fa5cb3ce285b517e7b14229d8bdfc11034f2878de32cca494b4d35581",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.293951941Z"
+}

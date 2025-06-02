@@ -1,0 +1,17 @@
+{
+  "uuid": "8ad8ee7e-e98c-40c5-8e02-c5b60ab2eb2b",
+  "path": "/usr/lib/systemd/system/plymouth-switch-root.service",
+  "size": 315,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:27.491960985Z",
+  "sha256_hash": "8f0bb5846534573742929d87d73817a20a4d313a51f4cd99e0bff1603f1f7063",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.475179999Z"
+}

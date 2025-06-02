@@ -1,0 +1,17 @@
+{
+  "uuid": "c6c80a64-2b1f-45a2-9eea-2df15397d1a6",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-umax_pp.so.1.2.1",
+  "size": 224576,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.171633833Z",
+  "sha256_hash": "76c0dd15d17bac2cb6d5b113ea0f5fe98c8da7da026626cc0749d9948cd4d21b",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.747270288Z"
+}

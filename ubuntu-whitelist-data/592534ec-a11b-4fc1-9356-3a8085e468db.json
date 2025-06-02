@@ -1,0 +1,15 @@
+{
+  "uuid": "592534ec-a11b-4fc1-9356-3a8085e468db",
+  "path": "/bin/mdevctl",
+  "size": 2746872,
+  "modified": "2024-04-08T16:12:09Z",
+  "created": "2025-05-09T05:56:54.839583081Z",
+  "sha256_hash": "f8f0f01a096fe986b1120dadf7bb09a7eaa9598eec2ae1c2e18c826caf7e637b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.462607502Z"
+}

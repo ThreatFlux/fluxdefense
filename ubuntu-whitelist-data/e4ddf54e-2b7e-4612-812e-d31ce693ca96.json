@@ -1,0 +1,17 @@
+{
+  "uuid": "e4ddf54e-2b7e-4612-812e-d31ce693ca96",
+  "path": "/lib/x86_64-linux-gnu/libgstplayer-1.0.so.0.2402.0",
+  "size": 76024,
+  "modified": "2024-04-15T13:00:06Z",
+  "created": "2025-05-09T05:09:28.092941013Z",
+  "sha256_hash": "3d640d6d553b621a13ee3aa9d540f0531036f366ec041aeb63d2e63648699142",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.847641425Z"
+}

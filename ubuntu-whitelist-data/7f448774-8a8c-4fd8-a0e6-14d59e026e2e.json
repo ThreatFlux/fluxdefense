@@ -1,0 +1,15 @@
+{
+  "uuid": "7f448774-8a8c-4fd8-a0e6-14d59e026e2e",
+  "path": "/usr/bin/gzip",
+  "size": 93424,
+  "modified": "2024-04-08T15:58:45Z",
+  "created": "2025-05-09T05:07:20.032895364Z",
+  "sha256_hash": "99873309b1f3197f3b4e6014c9c32b0c3ed75a3c66eeaaf42833be3941d28b17",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:08.134533003Z"
+}

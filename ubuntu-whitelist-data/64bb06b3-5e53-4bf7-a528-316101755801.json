@@ -1,0 +1,15 @@
+{
+  "uuid": "64bb06b3-5e53-4bf7-a528-316101755801",
+  "path": "/usr/bin/dpkg-distaddfile",
+  "size": 2783,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T06:33:31.736357711Z",
+  "sha256_hash": "48a66e608a612ee9948c0c0dc34db41b9fd62bc3fd658a7ceb8d362563a90e13",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.567874467Z"
+}

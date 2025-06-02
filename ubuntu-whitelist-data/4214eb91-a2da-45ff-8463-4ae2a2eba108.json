@@ -1,0 +1,17 @@
+{
+  "uuid": "4214eb91-a2da-45ff-8463-4ae2a2eba108",
+  "path": "/lib/llvm-18/include/clang/Basic/arm_sve_sema_rangechecks.inc",
+  "size": 64347,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.536533489Z",
+  "sha256_hash": "f91c225b31d175f3ac5ecfa423380ff59afdde45e041497644daac84c6fc6b13",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.075501173Z"
+}

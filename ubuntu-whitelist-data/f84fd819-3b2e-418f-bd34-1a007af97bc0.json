@@ -1,0 +1,17 @@
+{
+  "uuid": "f84fd819-3b2e-418f-bd34-1a007af97bc0",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/xau.pc",
+  "size": 244,
+  "modified": "2024-04-08T16:09:11Z",
+  "created": "2025-05-29T11:16:05.222070837Z",
+  "sha256_hash": "3f7a536221ce01421edc243f7dfa8788f7bbbd107c4f7a3ffe781c3fcb76c4dd",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.098989563Z"
+}

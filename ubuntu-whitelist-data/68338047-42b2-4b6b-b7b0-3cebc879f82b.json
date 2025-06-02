@@ -1,0 +1,15 @@
+{
+  "uuid": "68338047-42b2-4b6b-b7b0-3cebc879f82b",
+  "path": "/lib/google-cloud-sdk/lib/third_party/pyasn1_modules/pem.py",
+  "size": 2058,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.102942642Z",
+  "sha256_hash": "25e3de4f15d68902a84171d2c5597ed811cda0778b415d034e78dbf0e79a6674",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.999287619Z"
+}

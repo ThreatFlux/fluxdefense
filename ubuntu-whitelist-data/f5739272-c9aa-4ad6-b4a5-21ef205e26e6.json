@@ -1,0 +1,15 @@
+{
+  "uuid": "f5739272-c9aa-4ad6-b4a5-21ef205e26e6",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/asset/analyze_iam_policy_longrunning.py",
+  "size": 4678,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.715932227Z",
+  "sha256_hash": "8adb2de179405ac5449d157ed96291c34f24fbc09c4ff2975f58578e67902177",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.771617013Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "958afe60-1a4c-4625-996f-7abc4f354af4",
+  "path": "/usr/lib/x86_64-linux-gnu/libxvidcore.so.4.3",
+  "size": 670016,
+  "modified": "2024-04-18T17:48:36Z",
+  "created": "2025-05-09T05:09:20.412058243Z",
+  "sha256_hash": "73585606bd646666fd85b5c34ce8df4d3e637d937812f5a51c45554795394124",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.161787817Z"
+}

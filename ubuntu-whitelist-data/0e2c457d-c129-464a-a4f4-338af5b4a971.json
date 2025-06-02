@@ -1,0 +1,15 @@
+{
+  "uuid": "0e2c457d-c129-464a-a4f4-338af5b4a971",
+  "path": "/usr/bin/chage",
+  "size": 72184,
+  "modified": "2024-05-30T14:52:35Z",
+  "created": "2025-05-09T05:07:19.094909677Z",
+  "sha256_hash": "446bfaec4a2fbea1efc1144b71a2d2e905ee882caeae774202e9405ea9d7e3f7",
+  "file_type": "Executable",
+  "permissions": 34285,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.593408887Z"
+}

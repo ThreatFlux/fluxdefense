@@ -1,0 +1,17 @@
+{
+  "uuid": "ea740fd5-9ca7-4a22-9839-3b4c7172cb89",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-hp4200.so.1.2.1",
+  "size": 109040,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.143634260Z",
+  "sha256_hash": "b289b234b9da81ceefd5db698eb96167619a6075e320eda6436e37749e9173c6",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.831059726Z"
+}

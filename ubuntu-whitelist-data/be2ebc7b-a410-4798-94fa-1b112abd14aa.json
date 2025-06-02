@@ -1,0 +1,17 @@
+{
+  "uuid": "be2ebc7b-a410-4798-94fa-1b112abd14aa",
+  "path": "/usr/lib/llvm-18/include/clang/AST/IgnoreExpr.h",
+  "size": 5264,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.518533726Z",
+  "sha256_hash": "38b89bf985da8965db43f1471b18eca2e64998431bbbafd4f88501799d44caf6",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.402986917Z"
+}

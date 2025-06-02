@@ -1,0 +1,17 @@
+{
+  "uuid": "5ef1e66d-7c31-465b-81ff-dad1eb1d9bd0",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/readability/StringCompareCheck.h",
+  "size": 1364,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "f8d97248759ac41a3d9bd3c35f87957ce57cae98568ac4439144eb191db83c53",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.283291873Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "8f288de2-14e0-4a47-9781-14a1ad4be617",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/MisplacedWideningCastCheck.h",
+  "size": 1595,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "8def8b21034788bea282c203bca7b70576b858d0e29578bf0f9971b704dcb981",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.897171859Z"
+}

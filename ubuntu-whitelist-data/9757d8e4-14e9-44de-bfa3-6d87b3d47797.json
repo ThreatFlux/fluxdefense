@@ -1,0 +1,15 @@
+{
+  "uuid": "9757d8e4-14e9-44de-bfa3-6d87b3d47797",
+  "path": "/usr/lib/x86_64-linux-gnu/libibverbs/libcxgb4-rdmav34.so",
+  "size": 47368,
+  "modified": "2024-03-31T08:21:10Z",
+  "created": "2025-05-09T05:07:35.862653808Z",
+  "sha256_hash": "924c686906932b4b03f6bad687fe26d70401c3d882b497ad0feb2b8531b2bd4a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.093455301Z"
+}

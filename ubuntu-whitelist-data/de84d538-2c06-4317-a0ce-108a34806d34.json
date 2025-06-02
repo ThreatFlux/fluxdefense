@@ -1,0 +1,17 @@
+{
+  "uuid": "de84d538-2c06-4317-a0ce-108a34806d34",
+  "path": "/lib/llvm-18/include/clang-tidy/utils/FormatStringConverter.h",
+  "size": 4699,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "35a371b8be55becff85fe585aa2f1ceaf1958ea506172b64b70d63bbd392c0db",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.915132179Z"
+}

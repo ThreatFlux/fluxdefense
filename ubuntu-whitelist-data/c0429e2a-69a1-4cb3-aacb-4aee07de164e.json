@@ -1,0 +1,15 @@
+{
+  "uuid": "c0429e2a-69a1-4cb3-aacb-4aee07de164e",
+  "path": "/usr/libexec/gvfsd-cdda",
+  "size": 39224,
+  "modified": "2024-04-18T13:39:03Z",
+  "created": "2025-05-09T05:07:37.508628690Z",
+  "sha256_hash": "630f26ebe2e4a4bbbe16a982590d06b516df0b6e91c55b1c6286382acd007e1c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.454747711Z"
+}

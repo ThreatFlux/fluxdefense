@@ -1,0 +1,15 @@
+{
+  "uuid": "bb3a74c0-e2af-498f-b16a-fadad8d47ecb",
+  "path": "/lib/llvm-18/bin/llvm-symbolizer",
+  "size": 101720,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.071486938Z",
+  "sha256_hash": "1f93f7c4930615a121903afa61c0544b99f3e1da18d7ed4fb9fb3a2056924dd1",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.603876754Z"
+}

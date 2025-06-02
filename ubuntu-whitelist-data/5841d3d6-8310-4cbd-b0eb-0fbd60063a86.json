@@ -1,0 +1,15 @@
+{
+  "uuid": "5841d3d6-8310-4cbd-b0eb-0fbd60063a86",
+  "path": "/bin/hexdump",
+  "size": 47504,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:20.044895181Z",
+  "sha256_hash": "ec3679730011d04c1ff6e77afddbd7df2d284fd873b95579e0c2c6b902a9a450",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.791445610Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "4fd1679b-5a5d-4e93-b240-ee86942a11a1",
+  "path": "/usr/sbin/grpconv",
+  "size": 51368,
+  "modified": "2024-05-30T14:52:35Z",
+  "created": "2025-05-09T05:07:38.214617917Z",
+  "sha256_hash": "20826f5605fc043b226a4794613d6eda66d45dee3112b9b2afa6c12f5166b7b6",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.526574819Z"
+}

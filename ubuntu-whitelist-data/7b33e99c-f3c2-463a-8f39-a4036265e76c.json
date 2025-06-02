@@ -1,0 +1,17 @@
+{
+  "uuid": "7b33e99c-f3c2-463a-8f39-a4036265e76c",
+  "path": "/lib/x86_64-linux-gnu/libhwy.so.1.0.7",
+  "size": 43176,
+  "modified": "2024-03-31T07:39:30Z",
+  "created": "2025-05-09T05:09:18.792082968Z",
+  "sha256_hash": "18d2e318b1ca0b422c61f40ba71c8e4fc569ded626bc5641f1553115d8f2a349",
+  "file_type": {
+    "Other": "7"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.197799495Z"
+}

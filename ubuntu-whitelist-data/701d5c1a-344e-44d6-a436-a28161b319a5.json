@@ -1,0 +1,17 @@
+{
+  "uuid": "701d5c1a-344e-44d6-a436-a28161b319a5",
+  "path": "/usr/lib/udev/rules.d/95-dm-notify.rules",
+  "size": 479,
+  "modified": "2024-11-27T19:06:49Z",
+  "created": "2025-05-09T05:24:22.549896121Z",
+  "sha256_hash": "2bbb8e2eded56b6fc80d7f0d8235c17a352d84301b0a81a21370d8a04b01a59e",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.097948567Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "13a4650c-0651-491f-9729-fb811b26a57b",
+  "path": "/sbin/vfsstat-bpfcc",
+  "size": 4159,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.524499133Z",
+  "sha256_hash": "59c43acecced855b3e096c2c45792bcc80d6163e7b3a36f157eea9d066f1ff14",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.131098505Z"
+}

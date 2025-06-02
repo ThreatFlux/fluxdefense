@@ -1,0 +1,17 @@
+{
+  "uuid": "a6239bc0-0640-4118-a1e3-3b578fbd22a8",
+  "path": "/usr/lib/x86_64-linux-gnu/libicuuc.so.74.2",
+  "size": 2140336,
+  "modified": "2024-08-09T02:33:20Z",
+  "created": "2025-05-09T05:07:30.560734714Z",
+  "sha256_hash": "7560aadde38e5f4237a47a1ddd5891f9b36768a77a60faae30beee003ac01901",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.666466162Z"
+}

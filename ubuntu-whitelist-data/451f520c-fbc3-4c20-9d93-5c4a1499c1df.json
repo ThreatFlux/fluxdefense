@@ -1,0 +1,17 @@
+{
+  "uuid": "451f520c-fbc3-4c20-9d93-5c4a1499c1df",
+  "path": "/lib/llvm-18/include/clang-tidy/readability/RedundantAccessSpecifiersCheck.h",
+  "size": 1565,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "4bf66aefe10255d4f663b14f646279465cde976edd833427f79488d0707863c1",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.922037503Z"
+}

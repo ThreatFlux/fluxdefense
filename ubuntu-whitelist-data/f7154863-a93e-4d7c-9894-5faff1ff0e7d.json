@@ -1,0 +1,15 @@
+{
+  "uuid": "f7154863-a93e-4d7c-9894-5faff1ff0e7d",
+  "path": "/usr/libexec/gsd-rfkill",
+  "size": 47712,
+  "modified": "2024-04-18T10:59:35Z",
+  "created": "2025-05-09T05:07:37.500628812Z",
+  "sha256_hash": "52c86a5729231a45e1cf53eac99fe0104012a04bcc3f2bc098043962a1de5aeb",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.099935487Z"
+}

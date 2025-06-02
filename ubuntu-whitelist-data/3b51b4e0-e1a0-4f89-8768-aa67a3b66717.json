@@ -1,0 +1,17 @@
+{
+  "uuid": "3b51b4e0-e1a0-4f89-8768-aa67a3b66717",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-forrea.adb",
+  "size": 2925,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.077344777Z",
+  "sha256_hash": "a2937fbcb70290772b85cf87c6cc6ae48928a31ea4b305967fe3e06f5c8492f0",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.165930437Z"
+}

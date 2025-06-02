@@ -1,0 +1,17 @@
+{
+  "uuid": "6351ac85-250a-455b-9a2a-0bc3ffcc9b65",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-taster.adb",
+  "size": 6057,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.060345011Z",
+  "sha256_hash": "44b6bebcd4abdfebc2e5aea376336cedcefdc1c8e438a49882fab99ae0a38e6d",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.061667245Z"
+}

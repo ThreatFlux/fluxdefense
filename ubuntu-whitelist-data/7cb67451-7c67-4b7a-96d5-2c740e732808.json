@@ -1,0 +1,17 @@
+{
+  "uuid": "7cb67451-7c67-4b7a-96d5-2c740e732808",
+  "path": "/lib/firmware/qcom/sdm845/adsp.mbn.zst",
+  "size": 4625440,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.019535067Z",
+  "sha256_hash": "3432395f58e21867512cfd8c5fd3dc16d0c1713cbed944672800932560484969",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.736855344Z"
+}

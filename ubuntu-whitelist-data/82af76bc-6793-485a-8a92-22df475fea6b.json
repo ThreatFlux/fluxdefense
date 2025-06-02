@@ -1,0 +1,15 @@
+{
+  "uuid": "82af76bc-6793-485a-8a92-22df475fea6b",
+  "path": "/lib/x86_64-linux-gnu/evince/4/backends/libxpsdocument.so",
+  "size": 22688,
+  "modified": "2024-10-15T07:35:01Z",
+  "created": "2025-05-09T05:07:35.589657974Z",
+  "sha256_hash": "50550cbea0ce0f204b712caab5b8d6d461979b803143e78dad6c3cea55a9cb0c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.709728795Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "5579c8a6-2a63-4e71-8aac-509a28ec9b03",
+  "path": "/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-ibus.so",
+  "size": 39016,
+  "modified": "2024-03-31T12:04:22Z",
+  "created": "2025-05-09T05:07:35.807654647Z",
+  "sha256_hash": "437adf4f38b355d8bfe2df7271d1edb61bd6cad77d72fb1782251184f3ce4a66",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.210158476Z"
+}

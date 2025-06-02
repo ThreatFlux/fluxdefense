@@ -1,0 +1,17 @@
+{
+  "uuid": "92e6d3f2-bc9f-412b-ab3c-6832c75eeabc",
+  "path": "/lib/x86_64-linux-gnu/nodejs/install-artifact-from-github/bin/save-to-github-cache.js",
+  "size": 6330,
+  "modified": "2024-03-21T03:52:41Z",
+  "created": "2025-05-13T14:33:00.521888438Z",
+  "sha256_hash": "919f53b6d4e967e9527073949329cc4176c0231e0ee0792b05b5489468afef89",
+  "file_type": {
+    "Other": "js"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.849515294Z"
+}

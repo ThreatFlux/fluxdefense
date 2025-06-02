@@ -1,0 +1,15 @@
+{
+  "uuid": "06eb9a3b-e532-4de2-89a7-8aa1178dcfb2",
+  "path": "/lib/x86_64-linux-gnu/grilo-0.3/libgrlfilesystem.so",
+  "size": 39312,
+  "modified": "2025-03-17T11:05:34Z",
+  "created": "2025-05-12T03:14:18.438811212Z",
+  "sha256_hash": "da864d4be4d06a107d7940a326e6b988259fe99999dbacb477d94d2be5cfb098",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.450458358Z"
+}

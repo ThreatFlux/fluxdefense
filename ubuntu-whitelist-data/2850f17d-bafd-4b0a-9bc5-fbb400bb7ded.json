@@ -1,0 +1,17 @@
+{
+  "uuid": "2850f17d-bafd-4b0a-9bc5-fbb400bb7ded",
+  "path": "/lib/firmware/qcom/qcm2290/modemuw.jsn",
+  "size": 713,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.998535357Z",
+  "sha256_hash": "e75d94b61df3e86c5b3f7a976d93f726cb85f2b897a8ea80a0924b9bb9c1a3bf",
+  "file_type": {
+    "Other": "jsn"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.958168193Z"
+}

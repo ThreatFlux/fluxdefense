@@ -1,0 +1,17 @@
+{
+  "uuid": "2d17d3bb-b616-4006-9d6d-66a7847a7395",
+  "path": "/usr/lib/python3.12/test/xmltestdata/test.xml",
+  "size": 1388,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.054550948Z",
+  "sha256_hash": "9e9d7525d14bf7361d0dbf63325537bdd019c67d7dc265431266c1c13877b1f6",
+  "file_type": {
+    "Other": "xml"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.755768499Z"
+}

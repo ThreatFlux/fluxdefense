@@ -1,0 +1,15 @@
+{
+  "uuid": "08d547ab-8cd1-4b84-b63f-f66418c9a54f",
+  "path": "/usr/lib/google-cloud-sdk/platform/gsutil/gslib/discard_messages_queue.py",
+  "size": 1323,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.854929865Z",
+  "sha256_hash": "78971dff6c892a296e4c04280ba0500a8a5c81f1eb29099b948a40f86d41c946",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.575417948Z"
+}

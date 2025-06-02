@@ -1,0 +1,17 @@
+{
+  "uuid": "950c2873-1b71-4872-8161-e50ec5e206c6",
+  "path": "/lib/grub/x86_64-efi/cmdline_cat_test.mod",
+  "size": 4648,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.802708552Z",
+  "sha256_hash": "09ade633e9082d0e9557a8f0c09cfdfbc94479222044b50234f0490aa9ea6247",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.050854827Z"
+}

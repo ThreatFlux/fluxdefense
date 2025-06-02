@@ -1,0 +1,17 @@
+{
+  "uuid": "27f4c7e1-9e7e-4db5-a633-1c60349a81f3",
+  "path": "/lib/systemd/system/systemd-sysupdate-reboot.service",
+  "size": 612,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "26778bd33aa0474713c645a96894fc84f22da0229602b9cba7ccfef14c9b2eeb",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.123324943Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d17a1ef0-f5c8-4ee4-a2d3-fd079e9d0e02",
+  "path": "/usr/lib/firmware/ti-connectivity/wl128x-fw-5-sr.bin.zst",
+  "size": 195939,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.078534249Z",
+  "sha256_hash": "2eee8de73785c1de5146940f9ec1ec2748f390673a79012eb3db4cf89283085f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.557585164Z"
+}

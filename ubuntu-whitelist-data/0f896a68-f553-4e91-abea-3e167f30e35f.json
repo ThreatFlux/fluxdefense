@@ -1,0 +1,17 @@
+{
+  "uuid": "0f896a68-f553-4e91-abea-3e167f30e35f",
+  "path": "/usr/lib/x86_64-linux-gnu/libgnome-menu-3.so.0.0.1",
+  "size": 116872,
+  "modified": "2024-03-31T06:08:48Z",
+  "created": "2025-05-09T05:07:29.820746006Z",
+  "sha256_hash": "2f64d7b84550d40e27df3630c54af5f1cd37ba2a17532216f984ecf7c15b437c",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.199182408Z"
+}

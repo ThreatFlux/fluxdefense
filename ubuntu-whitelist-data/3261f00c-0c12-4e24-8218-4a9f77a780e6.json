@@ -1,0 +1,17 @@
+{
+  "uuid": "3261f00c-0c12-4e24-8218-4a9f77a780e6",
+  "path": "/lib/firmware/ea/indigo_iox_dsp.fw.zst",
+  "size": 5648,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.529541854Z",
+  "sha256_hash": "486a403fa1a19f18cfeaa029a1e881627c3086111fa71b61ee1b9ad1c3fb4988",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.610862093Z"
+}

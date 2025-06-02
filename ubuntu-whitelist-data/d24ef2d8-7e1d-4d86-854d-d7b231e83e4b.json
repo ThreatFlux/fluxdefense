@@ -1,0 +1,17 @@
+{
+  "uuid": "d24ef2d8-7e1d-4d86-854d-d7b231e83e4b",
+  "path": "/lib/firmware/intel/avs/skl/dsp_mod_7CAD0808-AB10-CD23-EF45-12AB34CD56EF.bin.zst",
+  "size": 4878,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.547541604Z",
+  "sha256_hash": "b7dea129e30297698432f4c57f70f3b19ed30060691f9452880102553885c687",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.101169195Z"
+}

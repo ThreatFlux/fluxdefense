@@ -1,0 +1,17 @@
+{
+  "uuid": "2852cdc8-5c7d-4b95-8c3c-9ea16edb6566",
+  "path": "/usr/lib/aspell/iso-8859-15.cmap",
+  "size": 30814,
+  "modified": "2024-04-08T15:54:10Z",
+  "created": "2025-05-09T05:07:21.015880365Z",
+  "sha256_hash": "95e5805a5e55a5b6ed4f82d2ec0ceccb3487662a8e08a5a598769ed6b7dac2da",
+  "file_type": {
+    "Other": "cmap"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.303636258Z"
+}

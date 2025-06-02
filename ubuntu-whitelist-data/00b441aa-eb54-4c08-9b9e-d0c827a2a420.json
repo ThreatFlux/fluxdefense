@@ -1,0 +1,17 @@
+{
+  "uuid": "00b441aa-eb54-4c08-9b9e-d0c827a2a420",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/MIME/QuotedPrint.pm",
+  "size": 3283,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.518591327Z",
+  "sha256_hash": "09ce6fb8292f8f76ccfdf086d8611654b565307b5a17d7357f032267e38f9d23",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.571319343Z"
+}

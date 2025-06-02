@@ -1,0 +1,17 @@
+{
+  "uuid": "94699c04-2075-4d23-8c30-12aba446f450",
+  "path": "/usr/lib/llvm-18/include/clang/Lex/Token.h",
+  "size": 12420,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.544533384Z",
+  "sha256_hash": "4add7bba7bc93ed553e79cd9b95c17862fc06abf72df790096e63157393a6a38",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.616163641Z"
+}

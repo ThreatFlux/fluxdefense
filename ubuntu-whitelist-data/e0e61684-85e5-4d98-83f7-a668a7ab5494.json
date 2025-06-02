@@ -1,0 +1,17 @@
+{
+  "uuid": "e0e61684-85e5-4d98-83f7-a668a7ab5494",
+  "path": "/lib/firmware/asihpi/dsp6200.bin.zst",
+  "size": 346331,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.431543211Z",
+  "sha256_hash": "28fb807f1e452c838b2eda645cb550cabeeff8a5da9e10af1a1527ae6812acc5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.646156735Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "e7906b18-a565-4430-90c5-c934c848c36a",
+  "path": "/lib/x86_64-linux-gnu/cryptsetup/libcryptsetup-token-systemd-pkcs11.so",
+  "size": 18736,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.527779534Z",
+  "sha256_hash": "24460aff1066b05b02ddd4dbd92738a45b900f99405646699074b5c13b09745f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.491060817Z"
+}

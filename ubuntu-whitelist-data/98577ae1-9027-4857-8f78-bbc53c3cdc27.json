@@ -1,0 +1,17 @@
+{
+  "uuid": "98577ae1-9027-4857-8f78-bbc53c3cdc27",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/i-cstrin.adb",
+  "size": 10909,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.072344846Z",
+  "sha256_hash": "c5656230118e4aae4ce1a4b00cc96c7546dc746e8faa597b33fa6b4ca63523c6",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.998458060Z"
+}

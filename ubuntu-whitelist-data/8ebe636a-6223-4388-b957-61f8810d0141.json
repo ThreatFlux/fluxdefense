@@ -1,0 +1,15 @@
+{
+  "uuid": "8ebe636a-6223-4388-b957-61f8810d0141",
+  "path": "/usr/sbin/update-ca-certificates",
+  "size": 5446,
+  "modified": "2024-02-04T09:41:43Z",
+  "created": "2025-05-09T05:07:38.449614331Z",
+  "sha256_hash": "e4c6e910eab5ab006fc1c3cc4d7efd782b1a07ec083847383e27ea5fffbfab4d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.239647685Z"
+}

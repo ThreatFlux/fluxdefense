@@ -1,0 +1,17 @@
+{
+  "uuid": "cd04bc6b-c507-4252-abdb-230d3c6807b8",
+  "path": "/bin/pyacc-3.2.2",
+  "size": 570352,
+  "modified": "2024-01-05T07:40:08Z",
+  "created": "2025-05-29T11:16:19.072880774Z",
+  "sha256_hash": "ecdcb01836bdb5e6eff23f5f05bf1df2e9b55e6a54ee7c74d0dd252d446238fb",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.383030343Z"
+}

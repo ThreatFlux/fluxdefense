@@ -1,0 +1,17 @@
+{
+  "uuid": "cc2276b3-8cca-44e4-ab8b-f60edb6a1c3e",
+  "path": "/usr/lib/firmware/nvidia/tu102/gsp/gsp-535.113.01.bin.zst",
+  "size": 13187577,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.943536119Z",
+  "sha256_hash": "c5254dcd2f06d991ad063b65175fbbc08054111f6e329513c60a35f1a2e95c2b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.456596532Z"
+}

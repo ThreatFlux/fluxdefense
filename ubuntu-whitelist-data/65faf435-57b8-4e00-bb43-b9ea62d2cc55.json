@@ -1,0 +1,15 @@
+{
+  "uuid": "65faf435-57b8-4e00-bb43-b9ea62d2cc55",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/dns/grange.py",
+  "size": 2055,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.114942437Z",
+  "sha256_hash": "b1f6e3f2964f31221d61539132b0573dc497bac8f0462a4ec5180c128cb0a939",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.551008778Z"
+}

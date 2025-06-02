@@ -1,0 +1,17 @@
+{
+  "uuid": "25f6a29c-7684-4f29-968b-1cbacb1f490e",
+  "path": "/usr/lib/x86_64-linux-gnu/libmlx4.so.1.0.50.0",
+  "size": 55608,
+  "modified": "2024-03-31T08:21:10Z",
+  "created": "2025-05-09T05:07:31.344722750Z",
+  "sha256_hash": "f126fa6db256906f9676f24c2691e041ecb707b2d765fabcb71f7b439b0776a0",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.648645407Z"
+}

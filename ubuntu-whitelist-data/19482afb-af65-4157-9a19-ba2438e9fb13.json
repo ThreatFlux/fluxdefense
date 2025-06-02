@@ -1,0 +1,15 @@
+{
+  "uuid": "19482afb-af65-4157-9a19-ba2438e9fb13",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/net/netplan.py",
+  "size": 21189,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.240037230Z",
+  "sha256_hash": "57e9a6809827036be09e0dc0b0af405958653cf96d1dde014e7b224e04224118",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.818454930Z"
+}

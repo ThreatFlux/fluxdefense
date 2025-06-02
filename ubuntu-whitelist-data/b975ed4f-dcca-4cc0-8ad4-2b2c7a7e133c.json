@@ -1,0 +1,17 @@
+{
+  "uuid": "b975ed4f-dcca-4cc0-8ad4-2b2c7a7e133c",
+  "path": "/usr/lib/x86_64-linux-gnu/libflite.so.2.2",
+  "size": 231592,
+  "modified": "2024-04-07T07:12:09Z",
+  "created": "2025-05-09T05:09:24.092002078Z",
+  "sha256_hash": "d456d49a5e39689cf2012df85fb8e5c37c7c85f2de9df061fee0450231c348da",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:08.593796417Z"
+}

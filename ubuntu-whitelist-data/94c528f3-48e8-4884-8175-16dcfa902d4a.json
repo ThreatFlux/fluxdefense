@@ -1,0 +1,15 @@
+{
+  "uuid": "94c528f3-48e8-4884-8175-16dcfa902d4a",
+  "path": "/usr/bin/qemu-storage-daemon",
+  "size": 3564672,
+  "modified": "2025-03-13T16:15:00Z",
+  "created": "2025-05-22T16:56:50.163982969Z",
+  "sha256_hash": "a086fab602cc9610f2b25a286c3b23dd3f7b75fb4c0633ff92f85f458f62c5f2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.856564709Z"
+}

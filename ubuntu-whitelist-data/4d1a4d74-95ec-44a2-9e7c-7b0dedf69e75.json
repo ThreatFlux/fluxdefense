@@ -1,0 +1,15 @@
+{
+  "uuid": "4d1a4d74-95ec-44a2-9e7c-7b0dedf69e75",
+  "path": "/usr/libexec/gsd-print-notifications",
+  "size": 51832,
+  "modified": "2024-04-18T10:59:35Z",
+  "created": "2025-05-09T05:07:37.500628812Z",
+  "sha256_hash": "0748a0c8efd6f166b1326167007e633f016c4870d71fe80a64ccdf79c0e0df2d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.152822594Z"
+}

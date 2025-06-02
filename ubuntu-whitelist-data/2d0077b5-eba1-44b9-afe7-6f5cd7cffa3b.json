@@ -1,0 +1,15 @@
+{
+  "uuid": "2d0077b5-eba1-44b9-afe7-6f5cd7cffa3b",
+  "path": "/usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-vban-send.so",
+  "size": 76048,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.786860153Z",
+  "sha256_hash": "98c186e9fa5877849325c6ec348cfe27f9423e874593787c76bd4294fe39c6f5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.414304913Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "0f833af3-48df-4b24-a389-0c444112cde7",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/android/CloexecInotifyInit1Check.h",
+  "size": 1223,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "cea832ab3eed1beac698fda30c66903c8f1663b9a993395681cc96883a3e453f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.224083429Z"
+}

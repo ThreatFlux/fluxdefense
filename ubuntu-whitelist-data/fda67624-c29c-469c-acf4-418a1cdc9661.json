@@ -1,0 +1,17 @@
+{
+  "uuid": "fda67624-c29c-469c-acf4-418a1cdc9661",
+  "path": "/lib/dhcpcd/dhcpcd-hooks/01-test",
+  "size": 734,
+  "modified": "2024-05-07T10:12:01Z",
+  "created": "2025-05-09T05:07:21.655870599Z",
+  "sha256_hash": "0a4a1efe4e105e68e564a49cc8de40de2263166a65478ceafd94236661f1a75d",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.434475800Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "3c711b95-6873-4460-9675-bd6816c1659c",
+  "path": "/lib/llvm-18/include/clang-tidy/google/UnnamedNamespaceInHeaderCheck.h",
+  "size": 2042,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "3dc4481fc64f00210e82d217712f2da811c591155f6c05cfac95881a709727d5",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.916920326Z"
+}

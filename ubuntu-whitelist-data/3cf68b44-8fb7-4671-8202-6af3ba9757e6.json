@@ -1,0 +1,15 @@
+{
+  "uuid": "3cf68b44-8fb7-4671-8202-6af3ba9757e6",
+  "path": "/lib/x86_64-linux-gnu/libgphoto2/2.5.31/kodak_dc240.so",
+  "size": 23128,
+  "modified": "2024-03-31T02:00:03Z",
+  "created": "2025-05-09T05:07:35.834654235Z",
+  "sha256_hash": "9a530c2c8a3e1a73f15212b72a291c04e6e78ea1bd9c5b0a75f6292538b9b6dd",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.951068850Z"
+}

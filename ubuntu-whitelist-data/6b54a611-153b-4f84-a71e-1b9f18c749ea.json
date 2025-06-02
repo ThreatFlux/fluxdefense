@@ -1,0 +1,17 @@
+{
+  "uuid": "6b54a611-153b-4f84-a71e-1b9f18c749ea",
+  "path": "/usr/lib/systemd/system/libvirtd-tls.socket",
+  "size": 201,
+  "modified": "2025-03-13T16:25:50Z",
+  "created": "2025-05-20T14:31:33.305811285Z",
+  "sha256_hash": "d22b43b1b510b83e255b5c7b310beb7042f45c6eee9a37f643ad214c887d5230",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.473218491Z"
+}

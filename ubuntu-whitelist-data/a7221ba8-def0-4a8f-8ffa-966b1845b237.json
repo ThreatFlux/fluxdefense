@@ -1,0 +1,17 @@
+{
+  "uuid": "a7221ba8-def0-4a8f-8ffa-966b1845b237",
+  "path": "/lib/x86_64-linux-gnu/samba/libserver-role-samba4.so.0",
+  "size": 14640,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.086635130Z",
+  "sha256_hash": "ab3f99228de19422914f0bd88c3ed4a6e4f6f34eefe2f78f37cde841a439a188",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.483967507Z"
+}

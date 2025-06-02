@@ -1,0 +1,17 @@
+{
+  "uuid": "104ca1b8-72ed-436a-8737-53827febab02",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/utils/FixItHintUtils.h",
+  "size": 2496,
+  "modified": "2024-01-24T12:45:36Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "c76747eff71fbf9da5d9e1aa87455e54e1a8770d60f52fbdd4efd8bbac0ddf8f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.269280482Z"
+}

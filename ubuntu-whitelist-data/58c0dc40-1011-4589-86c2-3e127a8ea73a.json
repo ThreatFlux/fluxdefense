@@ -1,0 +1,17 @@
+{
+  "uuid": "58c0dc40-1011-4589-86c2-3e127a8ea73a",
+  "path": "/lib/llvm-18/include/clang/Basic/AlignedAllocation.h",
+  "size": 1516,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.524533647Z",
+  "sha256_hash": "432726a5be305c5f39fb356eb17fff2649d992fc677773fa3a6a6a17af5b9d45",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.095070945Z"
+}

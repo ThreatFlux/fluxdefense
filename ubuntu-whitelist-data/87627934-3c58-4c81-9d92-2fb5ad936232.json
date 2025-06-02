@@ -1,0 +1,15 @@
+{
+  "uuid": "87627934-3c58-4c81-9d92-2fb5ad936232",
+  "path": "/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-pipe-tunnel.so",
+  "size": 104720,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.782860102Z",
+  "sha256_hash": "01dace583e246fc8155bed94052d0fc7581b5887a6131b82a15473f7988138bd",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.894911559Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "62d4c78b-446f-4fbb-b462-865cf8d63272",
+  "path": "/usr/sbin/e2undo",
+  "size": 22840,
+  "modified": "2024-04-28T23:44:46Z",
+  "created": "2025-05-09T05:07:38.190618283Z",
+  "sha256_hash": "67d1ed1bd9d5692bff8d648089fc76655f9b23fac523e8c2108467b3917bb8a8",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.254093823Z"
+}

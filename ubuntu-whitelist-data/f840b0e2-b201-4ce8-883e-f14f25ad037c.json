@@ -1,0 +1,15 @@
+{
+  "uuid": "f840b0e2-b201-4ce8-883e-f14f25ad037c",
+  "path": "/bin/dpkg-parsechangelog",
+  "size": 4947,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T06:33:31.737357690Z",
+  "sha256_hash": "1240425d626ff7b28de7022a09222e6f4b88c66c0d481776eea69006c0e22bd4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.474442752Z"
+}

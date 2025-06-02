@@ -1,0 +1,17 @@
+{
+  "uuid": "23372b4e-f117-417a-8c9f-83da9488c9bc",
+  "path": "/usr/lib/python3.12/test/certdata/capath/ceff1710.0",
+  "size": 1594,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.987551828Z",
+  "sha256_hash": "882cb60873b718a2ac2bfa3b6a792e4aa75cf0ef3fa2fc1dc156ef71076ba740",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.239232168Z"
+}

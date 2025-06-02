@@ -1,0 +1,17 @@
+{
+  "uuid": "b6d2df62-88a4-45df-9cfe-3ac12f6e4da4",
+  "path": "/usr/lib/x86_64-linux-gnu/samba/libcom-err-samba4.so.0",
+  "size": 14648,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.044635771Z",
+  "sha256_hash": "97d31b2eccbcae39e7d6b03c3c1e60e05884cf98dc60add1b11045ec868382e5",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.236923687Z"
+}

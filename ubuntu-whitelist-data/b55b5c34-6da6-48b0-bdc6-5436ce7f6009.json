@@ -1,0 +1,15 @@
+{
+  "uuid": "b55b5c34-6da6-48b0-bdc6-5436ce7f6009",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM937.so",
+  "size": 116108,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.280663416Z",
+  "sha256_hash": "a3c160786620281bda22658c532e060dc1e20e4fadd5a360e6711b12c14a0098",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.952096987Z"
+}

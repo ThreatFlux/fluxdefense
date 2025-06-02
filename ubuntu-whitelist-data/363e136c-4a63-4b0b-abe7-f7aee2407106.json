@@ -1,0 +1,17 @@
+{
+  "uuid": "363e136c-4a63-4b0b-abe7-f7aee2407106",
+  "path": "/lib/firmware/amdgpu/stoney_mec.bin.zst",
+  "size": 25438,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.417543405Z",
+  "sha256_hash": "583baed38916fa972f9fca10f00b086cf5a32c6c8d02bc3089defa8b1c122c53",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.094497701Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "d8baf682-78f5-40c3-9443-345b6ebe51a1",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstpipewire.so",
+  "size": 129264,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:18.372841835Z",
+  "sha256_hash": "06d2b3c899a3d468ddf525bcbe2364c6dde17543905587353209f2304721bf3b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.175494608Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "be395e34-1796-405e-ab8e-f180c92c9c68",
+  "path": "/usr/lib/x86_64-linux-gnu/libcolord-gtk4.so.1.0.3",
+  "size": 34808,
+  "modified": "2024-03-31T00:31:03Z",
+  "created": "2025-05-09T05:07:29.237754902Z",
+  "sha256_hash": "2106638eecffed1673b79ea310eb0eaca417d53c6182567210259ff1884e5e71",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.477965489Z"
+}

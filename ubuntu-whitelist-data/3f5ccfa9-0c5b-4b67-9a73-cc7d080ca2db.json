@@ -1,0 +1,17 @@
+{
+  "uuid": "3f5ccfa9-0c5b-4b67-9a73-cc7d080ca2db",
+  "path": "/lib/cups/backend/hpfax",
+  "size": 9216,
+  "modified": "2024-03-31T07:39:41Z",
+  "created": "2025-05-09T05:07:21.038880013Z",
+  "sha256_hash": "2791e75d0b43a5c47f80c3ee99855b6f8cd5cc7e2c8c41f1e23aa8ca3b3070ee",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.648923620Z"
+}

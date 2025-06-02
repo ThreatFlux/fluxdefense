@@ -1,0 +1,15 @@
+{
+  "uuid": "76f5c504-9e71-49ca-8464-9f0f3d64a9a4",
+  "path": "/lib/x86_64-linux-gnu/gconv/EUC-KR.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.613657607Z",
+  "sha256_hash": "79c2946a553f32024699e0b9d6f4a5cbc72b0809750dce29ad1794abc2a3bdf3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.763963302Z"
+}

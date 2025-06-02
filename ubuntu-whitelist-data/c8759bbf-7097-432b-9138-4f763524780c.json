@@ -1,0 +1,15 @@
+{
+  "uuid": "c8759bbf-7097-432b-9138-4f763524780c",
+  "path": "/lib/google-cloud-sdk/platform/bq/gcloud_wrapper/bq_to_gcloud_adapter.py",
+  "size": 4584,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.797930833Z",
+  "sha256_hash": "d30cc15c8d9768887905f74daae429607ab90bb41d8ecdc981b1c606e787ab48",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.012005580Z"
+}

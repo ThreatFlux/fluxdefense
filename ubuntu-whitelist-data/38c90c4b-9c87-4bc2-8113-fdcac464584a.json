@@ -1,0 +1,17 @@
+{
+  "uuid": "38c90c4b-9c87-4bc2-8113-fdcac464584a",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/libuv-static.pc",
+  "size": 302,
+  "modified": "2024-03-31T08:01:40Z",
+  "created": "2025-05-13T14:32:44.676159003Z",
+  "sha256_hash": "3043e7184e2cd22522fc2de29ae5a816968b16429d9bf0b940bc54dd7e83c2aa",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.099121208Z"
+}

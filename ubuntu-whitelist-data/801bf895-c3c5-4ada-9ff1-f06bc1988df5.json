@@ -1,0 +1,15 @@
+{
+  "uuid": "801bf895-c3c5-4ada-9ff1-f06bc1988df5",
+  "path": "/usr/lib/x86_64-linux-gnu/security/pam_cap.so",
+  "size": 18496,
+  "modified": "2025-02-20T15:49:57Z",
+  "created": "2025-05-09T05:11:26.075140162Z",
+  "sha256_hash": "f00c6145f828d238b1c0f397f94e9fb978777b3c4123e610a774a19e4b8776c9",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.665584512Z"
+}

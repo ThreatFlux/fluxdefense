@@ -1,0 +1,17 @@
+{
+  "uuid": "8b44e8eb-3759-4266-9cb2-919c65278cac",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/cairo-ft.pc",
+  "size": 196,
+  "modified": "2024-04-16T13:33:30Z",
+  "created": "2025-05-29T11:16:06.229057020Z",
+  "sha256_hash": "7984192db1051c1e10c91f6e76b1445b42289a86a01539fbdb31225bdf3da597",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.100887443Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "942ae311-13e6-453b-9b8c-78050606c8f0",
+  "path": "/usr/lib/firmware/amdgpu/vangogh_toc.bin.zst",
+  "size": 829,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.419543377Z",
+  "sha256_hash": "c83c288a0cdb27290b47f3aaca00c6907bf2f27a10152c19a660a9837b3c0fe9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.083528682Z"
+}

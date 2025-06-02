@@ -1,0 +1,17 @@
+{
+  "uuid": "a3a1cc50-3f85-4e7e-8a24-5e813352c43c",
+  "path": "/usr/lib/firmware/cypress/cyfmac43430-sdio.bin.zst",
+  "size": 269406,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.517542020Z",
+  "sha256_hash": "869eec0fbc99823bb220f6ff0aa3bec1cdbb275e33814a7b29ae5c864c4a64e8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.603247773Z"
+}

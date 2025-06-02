@@ -1,0 +1,17 @@
+{
+  "uuid": "8916d3ff-5daa-48d8-8207-5cfd0dafa892",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-hpaio.so.1.0.0",
+  "size": 182928,
+  "modified": "2024-03-31T07:39:41Z",
+  "created": "2025-05-09T05:07:37.143634260Z",
+  "sha256_hash": "28ee219b994768c6eea7f44412e634dd596b4e3f2830c845e04edab0064397af",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.237011589Z"
+}

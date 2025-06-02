@@ -1,0 +1,17 @@
+{
+  "uuid": "6af26031-730a-4309-bcd3-d947e063a763",
+  "path": "/lib/llvm-18/include/clang/Basic/BuiltinsAMDGPU.def",
+  "size": 32623,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.525533634Z",
+  "sha256_hash": "81a65a5ee0c6798f9fc792663096a8ff83d28bf26cdb7ed85ca594aa8524afc6",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.094316127Z"
+}

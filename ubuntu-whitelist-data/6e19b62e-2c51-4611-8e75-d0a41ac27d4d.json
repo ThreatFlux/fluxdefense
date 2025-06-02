@@ -1,0 +1,17 @@
+{
+  "uuid": "6e19b62e-2c51-4611-8e75-d0a41ac27d4d",
+  "path": "/usr/lib/python3.12/test/testtar.tar.xz",
+  "size": 172,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.051550987Z",
+  "sha256_hash": "89e0326292b96a5700582a37ebf3d8ba60f1d136772b5cd15b2c2ae653fda188",
+  "file_type": {
+    "Other": "xz"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.052718155Z"
+}

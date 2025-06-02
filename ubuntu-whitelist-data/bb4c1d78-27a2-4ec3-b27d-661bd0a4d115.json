@@ -1,0 +1,17 @@
+{
+  "uuid": "bb4c1d78-27a2-4ec3-b27d-661bd0a4d115",
+  "path": "/usr/lib/systemd/ntp-units.d/80-systemd-timesync.list",
+  "size": 116,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:11.990759924Z",
+  "sha256_hash": "2468529010d8f30511856f8bd50a862c3fa8507fca198fa57cb72bcb5bed9d5c",
+  "file_type": {
+    "Other": "list"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.544416283Z"
+}

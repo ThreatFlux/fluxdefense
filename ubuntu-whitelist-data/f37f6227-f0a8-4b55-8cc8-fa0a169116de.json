@@ -1,0 +1,17 @@
+{
+  "uuid": "f37f6227-f0a8-4b55-8cc8-fa0a169116de",
+  "path": "/lib/python3.12/test/crashers/__pycache__/mutation_inside_cyclegc.cpython-312.pyc",
+  "size": 851,
+  "modified": "2025-05-28T17:29:53.299482079Z",
+  "created": "2025-05-28T17:29:53.299482079Z",
+  "sha256_hash": "ae908ecdb66be3c7e66dba7b5c00ff69fbc0ab7d582c22637cc13eadcfb58e62",
+  "file_type": {
+    "Other": "pyc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.324285868Z"
+}

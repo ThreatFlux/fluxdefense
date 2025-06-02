@@ -1,0 +1,15 @@
+{
+  "uuid": "2e8a2f0e-fc9c-4490-95f6-c23191cd6e3a",
+  "path": "/usr/lib/llvm-18/lib/libLLVMSupport.a",
+  "size": 4993124,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.020461269Z",
+  "sha256_hash": "864e4b72baed285565dff4a0a95e2f85b230a80a594f1fa1aeebf6ed5537c002",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:29.782935274Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "fb6c5a4e-1d47-4f2e-b2f0-505b3a044227",
+  "path": "/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-iridium.so",
+  "size": 22848,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.160664520Z",
+  "sha256_hash": "a729b21767ff06ee33b346fc798ba2145d058f0e50c89bfa07a39b73c1f31669",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.582856658Z"
+}

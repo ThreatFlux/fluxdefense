@@ -1,0 +1,17 @@
+{
+  "uuid": "c83e2a75-12b8-4446-b2f4-8b0e03b03e24",
+  "path": "/usr/lib/i386-linux-gnu/libXext.so.6.4.0",
+  "size": 84268,
+  "modified": "2024-04-08T16:09:40Z",
+  "created": "2025-05-09T12:55:59.478885501Z",
+  "sha256_hash": "769718cf1f02b5fc97fddf8353c75ff57a621436b0e736e2e81eef85befbb1fd",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.996564685Z"
+}

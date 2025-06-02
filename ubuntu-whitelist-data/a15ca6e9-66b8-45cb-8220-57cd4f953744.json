@@ -1,0 +1,17 @@
+{
+  "uuid": "a15ca6e9-66b8-45cb-8220-57cd4f953744",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-soliin.adb",
+  "size": 2771,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.089344612Z",
+  "sha256_hash": "3a9ab9d9afd4f7ced6a222566cadaca7135285fafeeae26fffd37c5e5aa35680",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.186750100Z"
+}

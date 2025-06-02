@@ -1,0 +1,17 @@
+{
+  "uuid": "8c27efc5-0eb7-42d3-930e-e2cc7f6c5ec7",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/misc/HeaderIncludeCycleCheck.h",
+  "size": 1313,
+  "modified": "2023-06-24T20:41:17Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "39fa279551a2587d44720fb5463405dcd80334b26365f04fd9b68adff88b4a6a",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.275853087Z"
+}

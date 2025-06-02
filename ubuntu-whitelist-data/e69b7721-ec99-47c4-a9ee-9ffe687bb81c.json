@@ -1,0 +1,15 @@
+{
+  "uuid": "e69b7721-ec99-47c4-a9ee-9ffe687bb81c",
+  "path": "/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-x22x.so",
+  "size": 22848,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.161664505Z",
+  "sha256_hash": "243dc4cbeeea5675140d554838ab26e516e5e89d637304634eb05a9f0bdf8411",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.581266191Z"
+}

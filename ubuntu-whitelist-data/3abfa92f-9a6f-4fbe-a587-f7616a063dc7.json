@@ -1,0 +1,17 @@
+{
+  "uuid": "3abfa92f-9a6f-4fbe-a587-f7616a063dc7",
+  "path": "/lib/x86_64-linux-gnu/libavdevice.so.60.3.100",
+  "size": 211096,
+  "modified": "2024-04-05T17:28:52Z",
+  "created": "2025-05-12T13:32:32.304103300Z",
+  "sha256_hash": "d4df19849bf3805bf76d0563366e7cbcb28bc2674a3bfa3e2465e8994f53fc6d",
+  "file_type": {
+    "Other": "100"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.696305952Z"
+}

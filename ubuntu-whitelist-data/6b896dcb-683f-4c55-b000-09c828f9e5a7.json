@@ -1,0 +1,17 @@
+{
+  "uuid": "6b896dcb-683f-4c55-b000-09c828f9e5a7",
+  "path": "/lib/x86_64-linux-gnu/libXrender.so.1.3.0",
+  "size": 43600,
+  "modified": "2024-04-08T16:10:12Z",
+  "created": "2025-05-09T05:07:29.061757588Z",
+  "sha256_hash": "250977e0e004b6c0556144c3e683487063b4582dc83d205196ec3aa65d54e2c6",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.585394280Z"
+}

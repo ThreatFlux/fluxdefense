@@ -1,0 +1,17 @@
+{
+  "uuid": "54300003-1c5e-4906-8e60-e0310ed56234",
+  "path": "/usr/share/applications/org.gnome.clocks.desktop",
+  "size": 962,
+  "modified": "2024-03-31T06:05:45Z",
+  "created": "2025-05-09T05:07:38.596612087Z",
+  "sha256_hash": "fd29561e884a39a8d413b21fa1635780e9801229a570783413b5a3857605a387",
+  "file_type": {
+    "Other": "desktop"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.547515203Z"
+}

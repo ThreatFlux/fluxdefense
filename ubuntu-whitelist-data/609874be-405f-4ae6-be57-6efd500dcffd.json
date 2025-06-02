@@ -1,0 +1,15 @@
+{
+  "uuid": "609874be-405f-4ae6-be57-6efd500dcffd",
+  "path": "/usr/lib/x86_64-linux-gnu/rhythmbox/plugins/daap/libdaap.so",
+  "size": 113088,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:36.987636641Z",
+  "sha256_hash": "b0080de9a519d1c87bbe1d166061b76f28f00d00037e4d1f237faffe0b6a11fd",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.591100509Z"
+}

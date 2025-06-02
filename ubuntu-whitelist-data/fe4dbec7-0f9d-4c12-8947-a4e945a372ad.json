@@ -1,0 +1,15 @@
+{
+  "uuid": "fe4dbec7-0f9d-4c12-8947-a4e945a372ad",
+  "path": "/usr/libexec/gnome-session-check-accelerated",
+  "size": 18752,
+  "modified": "2024-04-15T15:49:55Z",
+  "created": "2025-05-09T05:07:37.466629331Z",
+  "sha256_hash": "93b8d19c35c3c077884bec3bcbe655f95ea422865ff15aa965ef0b4a15e019b0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.120690450Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "61443b27-ebad-42ef-8fb5-4f1da82f7193",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-expllu.ali",
+  "size": 1135,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.138343939Z",
+  "sha256_hash": "e1216b068d31453cdaf27dcbf5fd3c0eb18507d370aa3789e44f3a8547f550b3",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.705613030Z"
+}

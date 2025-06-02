@@ -1,0 +1,17 @@
+{
+  "uuid": "c976cd2d-996d-4d37-8d01-5f31fdf7c07b",
+  "path": "/lib/systemd/user/smartcard.target",
+  "size": 428,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.526779521Z",
+  "sha256_hash": "a6a453b13a305db13ab9e87391199a7626700e7e1e3d8b1e5fb85137d2c25fb9",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.148052223Z"
+}

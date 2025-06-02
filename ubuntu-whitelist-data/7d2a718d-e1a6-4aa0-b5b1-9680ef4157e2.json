@@ -1,0 +1,15 @@
+{
+  "uuid": "7d2a718d-e1a6-4aa0-b5b1-9680ef4157e2",
+  "path": "/lib/x86_64-linux-gnu/libstd-74aa92219e1a8d2b.so",
+  "size": 9223352,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T17:41:10.320620790Z",
+  "sha256_hash": "6a69a2503a7a55df52269d01c35f9c29e5b626f007f7ae6a37fd43ccbab4e3cd",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.560763418Z"
+}

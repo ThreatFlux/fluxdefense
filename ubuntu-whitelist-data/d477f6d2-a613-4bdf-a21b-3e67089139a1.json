@@ -1,0 +1,17 @@
+{
+  "uuid": "d477f6d2-a613-4bdf-a21b-3e67089139a1",
+  "path": "/usr/lib/x86_64-linux-gnu/libdaxctl.so.1.2.5",
+  "size": 47256,
+  "modified": "2024-04-08T16:14:06Z",
+  "created": "2025-05-09T05:56:50.689629692Z",
+  "sha256_hash": "9b81e8d837bc49013099d5dc8b5263772d645dfcb205d9566e91e7d414839b59",
+  "file_type": {
+    "Other": "5"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:22.985332934Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e43f58ec-da4b-4bad-a737-ca2b579ab895",
+  "path": "/usr/lib/grub/x86_64-efi/f2fs.mod",
+  "size": 10480,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.804708521Z",
+  "sha256_hash": "a39439af1dedf31648616a2ba09d57eb143d1e65ae6aad92f5bcff4c8067247e",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.474687903Z"
+}

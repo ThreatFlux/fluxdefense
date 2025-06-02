@@ -1,0 +1,17 @@
+{
+  "uuid": "fde103c7-7e18-4b76-828f-01d46ffe363e",
+  "path": "/lib/python3.12/test/ziptestdata/__pycache__/testdata_module_inside_zip.cpython-312.pyc",
+  "size": 191,
+  "modified": "2025-05-28T17:29:55.089458575Z",
+  "created": "2025-05-28T17:29:55.089458575Z",
+  "sha256_hash": "14d969c9e36a719f8323f38662f125eddedb5889d001e57ed21b9d30214b49c4",
+  "file_type": {
+    "Other": "pyc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.335306086Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "014969d3-86f6-4da9-8a23-35da29fa362b",
+  "path": "/usr/lib/x86_64-linux-gnu/libsnappy.so.1.1.10",
+  "size": 43272,
+  "modified": "2024-04-08T16:19:38Z",
+  "created": "2025-05-09T05:09:19.410073536Z",
+  "sha256_hash": "955acc8eec21bea1fe890ebf75e73d1c94438264d55e042c10ad1a7a57c2e065",
+  "file_type": {
+    "Other": "10"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.892479887Z"
+}

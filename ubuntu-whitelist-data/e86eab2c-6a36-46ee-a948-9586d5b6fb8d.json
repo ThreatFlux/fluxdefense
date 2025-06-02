@@ -1,0 +1,17 @@
+{
+  "uuid": "e86eab2c-6a36-46ee-a948-9586d5b6fb8d",
+  "path": "/lib/python3.12/test/decimaltestdata/ddMaxMag.decTest",
+  "size": 12743,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.991551775Z",
+  "sha256_hash": "aa11df94289e2e84623511c4d46f5f0b58ae0af831bae0b396019cfea86d3ebd",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.419803885Z"
+}

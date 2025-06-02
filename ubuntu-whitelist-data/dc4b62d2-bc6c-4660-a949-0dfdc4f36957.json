@@ -1,0 +1,15 @@
+{
+  "uuid": "dc4b62d2-bc6c-4660-a949-0dfdc4f36957",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_connlimit.so",
+  "size": 15352,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.333631361Z",
+  "sha256_hash": "509c6b60fd04a29252d238411a84203f5e19a36b6ba12a0b69ead2b0dd2ff494",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.677182921Z"
+}

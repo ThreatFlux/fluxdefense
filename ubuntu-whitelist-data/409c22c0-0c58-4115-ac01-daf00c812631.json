@@ -1,0 +1,15 @@
+{
+  "uuid": "409c22c0-0c58-4115-ac01-daf00c812631",
+  "path": "/lib/x86_64-linux-gnu/samba/ldb/rdn_name.so",
+  "size": 22832,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.126634519Z",
+  "sha256_hash": "d66b39c270e14afbfd0d508e59150e11e8bbb32a292a64eb5cdfedfb05833071",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.482334871Z"
+}

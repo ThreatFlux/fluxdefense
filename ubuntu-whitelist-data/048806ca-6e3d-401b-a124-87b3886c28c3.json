@@ -1,0 +1,17 @@
+{
+  "uuid": "048806ca-6e3d-401b-a124-87b3886c28c3",
+  "path": "/lib/x86_64-linux-gnu/libblockdev.so.3.0.0",
+  "size": 226592,
+  "modified": "2024-03-26T13:32:04Z",
+  "created": "2025-05-09T05:07:29.183755726Z",
+  "sha256_hash": "1023ea468de1f5ec88dace549c8c59b41eb69edaa2f66018ff999a12095bd05a",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.618751884Z"
+}

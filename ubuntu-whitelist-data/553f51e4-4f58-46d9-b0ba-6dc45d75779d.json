@@ -1,0 +1,17 @@
+{
+  "uuid": "553f51e4-4f58-46d9-b0ba-6dc45d75779d",
+  "path": "/usr/lib/firmware/radeon/CAICOS_pfp.bin.zst",
+  "size": 2093,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.059534513Z",
+  "sha256_hash": "ddb469ca24ae4c95734ba78c30486b4e94140f036ef234540b6b3b5ff941b536",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.411291177Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c76c5262-8426-4ca8-9a8a-ef9cbf67becc",
+  "path": "/lib/firmware/qcom/a702_sqe.fw.zst",
+  "size": 10557,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.970535745Z",
+  "sha256_hash": "3230c51e7486e8f3133714118bf7017419a33296af4b0e06f4ceccecc53fe1a9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.572161919Z"
+}

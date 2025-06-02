@@ -1,0 +1,17 @@
+{
+  "uuid": "0136ede5-13a6-48b9-a49d-fdf60355d2c1",
+  "path": "/lib/systemd/system/snapd.core-fixup.service",
+  "size": 369,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.384025824Z",
+  "sha256_hash": "3b515d5e2a0511ae044bfef3b1286aeaede67fa286812d0f4db0770b22530686",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.121180422Z"
+}

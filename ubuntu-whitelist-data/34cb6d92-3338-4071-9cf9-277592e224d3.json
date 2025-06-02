@@ -1,0 +1,15 @@
+{
+  "uuid": "34cb6d92-3338-4071-9cf9-277592e224d3",
+  "path": "/bin/fwupdtool",
+  "size": 112944,
+  "modified": "2025-03-25T17:48:06Z",
+  "created": "2025-05-09T05:24:28.638976132Z",
+  "sha256_hash": "9305dfab5d2782627c9c6c8e3bdbfade54209becdd04b37bc0110f74035224ec",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.372868362Z"
+}

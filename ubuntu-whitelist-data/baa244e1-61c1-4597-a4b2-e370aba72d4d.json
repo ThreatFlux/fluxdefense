@@ -1,0 +1,15 @@
+{
+  "uuid": "baa244e1-61c1-4597-a4b2-e370aba72d4d",
+  "path": "/usr/lib/x86_64-linux-gnu/m17n/1.0/libm17n-gd.so",
+  "size": 27112,
+  "modified": "2024-03-31T08:04:12Z",
+  "created": "2025-05-09T05:07:36.547643355Z",
+  "sha256_hash": "841468d166b0343b1b03ddcbe666d8578468e55a575f065531e2fa9903b2a39c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:08.112272239Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "06c47eb1-49aa-454a-82c5-c434ea413aa6",
+  "path": "/lib/x86_64-linux-gnu/perl-base/vars.pm",
+  "size": 1148,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.387578063Z",
+  "sha256_hash": "4df4ccb7cb05495f7d7b47c472bae0c92ee7b82aae0a2b31c23ca7bff9504163",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.906258902Z"
+}

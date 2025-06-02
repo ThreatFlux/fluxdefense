@@ -1,0 +1,15 @@
+{
+  "uuid": "df83f902-38fd-4447-abc3-dfe02cf5727e",
+  "path": "/usr/libexec/sudo/system_group.so",
+  "size": 14536,
+  "modified": "2024-04-08T14:50:39Z",
+  "created": "2025-05-09T05:07:38.096619717Z",
+  "sha256_hash": "1db1aff816e414d599c7eb6f883a81b5e61278d59c0200a30da08b2966817abf",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.199128495Z"
+}

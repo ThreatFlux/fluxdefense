@@ -1,0 +1,17 @@
+{
+  "uuid": "39afdcaf-3813-4b6b-9cb9-56ca2614c939",
+  "path": "/usr/lib/systemd/system/systemd-storagetm.service",
+  "size": 920,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "ada3d8f6de8bbb72a2a37c38fa8b41a053b04588c9eebdbc88f0d4a4f74e3293",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.449623856Z"
+}

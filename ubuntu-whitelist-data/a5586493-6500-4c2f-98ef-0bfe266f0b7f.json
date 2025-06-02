@@ -1,0 +1,17 @@
+{
+  "uuid": "a5586493-6500-4c2f-98ef-0bfe266f0b7f",
+  "path": "/lib/systemd/system/blk-availability.service",
+  "size": 360,
+  "modified": "2024-11-27T19:06:49Z",
+  "created": "2025-05-09T05:56:54.626585473Z",
+  "sha256_hash": "a0cf6cf47b49190ec2f175896521be84a3a57c3cb454c31082b9dea8fb7428cd",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.123628560Z"
+}

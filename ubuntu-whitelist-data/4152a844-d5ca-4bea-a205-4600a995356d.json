@@ -1,0 +1,17 @@
+{
+  "uuid": "4152a844-d5ca-4bea-a205-4600a995356d",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/bits/byteswap.ph",
+  "size": 1641,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.557590732Z",
+  "sha256_hash": "116b2b811fd5622b40b97ad7ee2ed7681fb70806bf5039f9801e5299dc471657",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.590838254Z"
+}

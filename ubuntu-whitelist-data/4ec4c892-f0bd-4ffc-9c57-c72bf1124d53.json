@@ -1,0 +1,17 @@
+{
+  "uuid": "4ec4c892-f0bd-4ffc-9c57-c72bf1124d53",
+  "path": "/lib/x86_64-linux-gnu/libvirt-lxc.so.0.10000.0",
+  "size": 18776,
+  "modified": "2025-03-13T16:25:50Z",
+  "created": "2025-05-20T14:31:33.889801169Z",
+  "sha256_hash": "d8fcc19b2556e93640cbb205a36aa7c9f0bbb3c42b31f9ce4f2f3bbf7f59feff",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.561304253Z"
+}

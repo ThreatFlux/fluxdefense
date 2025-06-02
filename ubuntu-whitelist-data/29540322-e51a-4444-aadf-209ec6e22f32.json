@@ -1,0 +1,17 @@
+{
+  "uuid": "29540322-e51a-4444-aadf-209ec6e22f32",
+  "path": "/lib/x86_64-linux-gnu/libmana.so.1.0.50.0",
+  "size": 26936,
+  "modified": "2024-03-31T08:21:10Z",
+  "created": "2025-05-09T05:07:31.337722858Z",
+  "sha256_hash": "ba03fce85b4ca58d85d7bf8e84f4ff49350d6958b4a0b90d35aacc2c389eb027",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.849761007Z"
+}

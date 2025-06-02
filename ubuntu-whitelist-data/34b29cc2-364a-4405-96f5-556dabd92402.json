@@ -1,0 +1,17 @@
+{
+  "uuid": "34b29cc2-364a-4405-96f5-556dabd92402",
+  "path": "/usr/lib/systemd/user/keyboxd.socket",
+  "size": 219,
+  "modified": "2024-03-01T08:25:55Z",
+  "created": "2025-05-09T05:11:24.480164509Z",
+  "sha256_hash": "cd1b35c7f3c2b6550d7f0766416772824402e8e5269379cd09fdb005801346de",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.500298748Z"
+}

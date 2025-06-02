@@ -1,0 +1,17 @@
+{
+  "uuid": "9f24fe9c-69a0-437e-a972-ca0401e2f100",
+  "path": "/lib/sysstat/sadc",
+  "size": 83200,
+  "modified": "2024-01-09T20:31:44Z",
+  "created": "2025-05-09T05:07:28.222770390Z",
+  "sha256_hash": "d0dcaadc057b3791f3d3aa19e2f9b1243ad37714f4336a8be0b69b197bdf0397",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.845709530Z"
+}

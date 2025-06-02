@@ -1,0 +1,17 @@
+{
+  "uuid": "adec9124-3ffe-4ffb-b919-25bfcb4de901",
+  "path": "/lib/firmware/nvidia/tegra186/xusb.bin.zst",
+  "size": 73454,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.942536133Z",
+  "sha256_hash": "3294e986a1e22f25681d9279dc8d33f5428d7799da9259e6a9e92cbdfa81a94b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.445301697Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "5cc7fdf4-71ee-41ee-af5c-10043e95f625",
+  "path": "/lib/gnome-shell/libgnome-shell-menu.so",
+  "size": 34968,
+  "modified": "2025-04-14T09:35:20Z",
+  "created": "2025-05-21T14:13:56.577918586Z",
+  "sha256_hash": "a860aa20dd5927ef84c188c064ccaf3db6f66c37c586a651c06ea91b3b568ed0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.841312567Z"
+}

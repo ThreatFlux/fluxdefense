@@ -1,0 +1,17 @@
+{
+  "uuid": "2826e9b4-7e99-4616-a147-8ed3562a75d7",
+  "path": "/lib/gnupg/gpg-protect-tool",
+  "size": 89168,
+  "modified": "2025-03-28T15:23:49Z",
+  "created": "2025-05-09T05:11:23.690176568Z",
+  "sha256_hash": "0072e7ed4b7d3b1787c5975a3b3be17ddfce981a79e4d0be9eeac1750fc47178",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.361179111Z"
+}

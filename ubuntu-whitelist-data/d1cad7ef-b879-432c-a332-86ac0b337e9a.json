@@ -1,0 +1,15 @@
+{
+  "uuid": "d1cad7ef-b879-432c-a332-86ac0b337e9a",
+  "path": "/usr/sbin/visudo",
+  "size": 254680,
+  "modified": "2024-04-08T14:50:39Z",
+  "created": "2025-05-09T05:07:38.465614087Z",
+  "sha256_hash": "3a32b17ef2e226f5fc9f40758c6aa78618514a6e1fc2877ac62539db43ab0ed6",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.229547770Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "7890a13c-a229-42c4-8bda-6304ed7e864a",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgsttwolame.so",
+  "size": 39312,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.776655120Z",
+  "sha256_hash": "c5c4d4e20e9c1993fd7da43764c453f44f18b68198414d37962934cc07e9b382",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.198724770Z"
+}

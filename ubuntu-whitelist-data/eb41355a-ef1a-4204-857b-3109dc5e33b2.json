@@ -1,0 +1,15 @@
+{
+  "uuid": "eb41355a-ef1a-4204-857b-3109dc5e33b2",
+  "path": "/lib/python3/dist-packages/systemd/login.cpython-312-x86_64-linux-gnu.so",
+  "size": 23776,
+  "modified": "2024-04-08T16:17:49Z",
+  "created": "2025-05-09T05:07:27.424782568Z",
+  "sha256_hash": "5f304477b4e7bcf6835acfd9204672aa54c8cf5a5138ca8141cf89be64d459b6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.221124457Z"
+}

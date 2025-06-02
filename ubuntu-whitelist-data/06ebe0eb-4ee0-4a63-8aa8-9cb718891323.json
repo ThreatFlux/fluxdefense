@@ -1,0 +1,15 @@
+{
+  "uuid": "06ebe0eb-4ee0-4a63-8aa8-9cb718891323",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/overrides/overrides.py",
+  "size": 4695,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.117942387Z",
+  "sha256_hash": "d0c5344e309b08d23059ea02e8a7dc990a768ce484b285b086c4b97761f4c88d",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.687394295Z"
+}

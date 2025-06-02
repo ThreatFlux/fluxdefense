@@ -1,0 +1,17 @@
+{
+  "uuid": "e7ddc39f-964c-4175-9366-8f426267415b",
+  "path": "/lib/llvm-18/include/clang/Sema/MultiplexExternalSemaSource.h",
+  "size": 15825,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.547533344Z",
+  "sha256_hash": "8e5a74624356dfe03f857edf59af84fbeb2e63e88c4ec6c290b9ab5e1daaadb9",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.063971351Z"
+}

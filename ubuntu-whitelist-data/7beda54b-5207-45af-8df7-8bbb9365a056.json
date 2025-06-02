@@ -1,0 +1,17 @@
+{
+  "uuid": "7beda54b-5207-45af-8df7-8bbb9365a056",
+  "path": "/usr/lib/firmware/amdgpu/tonga_k_smc.bin.zst",
+  "size": 51804,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.418543391Z",
+  "sha256_hash": "2d8ce1b43ec0983b898619b9bd12145d66209c40a3b56fa76e318ff3a6bf143b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.776259934Z"
+}

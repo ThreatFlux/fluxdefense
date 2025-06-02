@@ -1,0 +1,17 @@
+{
+  "uuid": "67ac04c2-af6f-49cc-94a3-4dc66b58132b",
+  "path": "/usr/lib/grub/x86_64-efi/configfile.mod",
+  "size": 3296,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.802708552Z",
+  "sha256_hash": "baae9df4f55da46db626dfc4c3c02eee5247b59cdbbcd0d3c5126480fbe5a471",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.460703874Z"
+}

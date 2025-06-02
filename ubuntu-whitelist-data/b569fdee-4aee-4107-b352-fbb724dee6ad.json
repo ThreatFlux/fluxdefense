@@ -1,0 +1,17 @@
+{
+  "uuid": "b569fdee-4aee-4107-b352-fbb724dee6ad",
+  "path": "/lib/libreoffice/program/opengl/basicFragmentShader.glsl",
+  "size": 773,
+  "modified": "2024-10-29T11:14:30Z",
+  "created": "2025-05-09T05:11:19.580239304Z",
+  "sha256_hash": "c6c16260aeaaf46093f93405caaa2812fa9a57fdba82df526ac4c13f993a6637",
+  "file_type": {
+    "Other": "glsl"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:50.104551784Z"
+}

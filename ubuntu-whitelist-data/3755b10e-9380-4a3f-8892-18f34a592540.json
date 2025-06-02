@@ -1,0 +1,15 @@
+{
+  "uuid": "3755b10e-9380-4a3f-8892-18f34a592540",
+  "path": "/sbin/execsnoop-bpfcc",
+  "size": 10059,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "1adcc3fc966f0a7554ee8787a073057c7a9b4a283381bd07ed5945c2fff304e5",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.690299811Z"
+}

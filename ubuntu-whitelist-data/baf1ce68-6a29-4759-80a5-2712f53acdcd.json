@@ -1,0 +1,15 @@
+{
+  "uuid": "baf1ce68-6a29-4759-80a5-2712f53acdcd",
+  "path": "/usr/lib/python3/dist-packages/libvirtmod_lxc.cpython-312-x86_64-linux-gnu.so",
+  "size": 35192,
+  "modified": "2024-04-08T16:08:32Z",
+  "created": "2025-05-09T05:56:56.486564584Z",
+  "sha256_hash": "b4ab1e2ecd55b48bef4144a0096ac68d5af510c37ed61fd7a5a2dbdceca6d272",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.723962270Z"
+}

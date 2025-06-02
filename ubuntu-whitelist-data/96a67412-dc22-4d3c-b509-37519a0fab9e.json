@@ -1,0 +1,17 @@
+{
+  "uuid": "96a67412-dc22-4d3c-b509-37519a0fab9e",
+  "path": "/lib/x86_64-linux-gnu/libtdb.so.1.4.10",
+  "size": 96416,
+  "modified": "2024-04-08T16:20:50Z",
+  "created": "2025-05-09T05:07:32.317707903Z",
+  "sha256_hash": "6b9930cda5fc15a4d43bb231b8524b2c74cb7386e57d1d7c3d9cad99ab05bc82",
+  "file_type": {
+    "Other": "10"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.631846059Z"
+}

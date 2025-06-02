@@ -1,0 +1,15 @@
+{
+  "uuid": "32727345-6cfd-40f5-9572-67c0627e4b3c",
+  "path": "/bin/lessecho",
+  "size": 14656,
+  "modified": "2024-04-28T11:44:40Z",
+  "created": "2025-05-09T05:07:20.100894327Z",
+  "sha256_hash": "67ad55d1e96767930551f14e5b8eb6318bb16af87dc79e42c57d73982bb458e7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.504678519Z"
+}

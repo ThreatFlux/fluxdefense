@@ -1,0 +1,17 @@
+{
+  "uuid": "c8751949-7f32-4456-b11e-3549b3cb0af6",
+  "path": "/lib/llvm-18/include/clang-tidy/cert/ProperlySeededRandomGeneratorCheck.h",
+  "size": 1621,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "92d4db595c8a0324adc18322e9eb323b68af685283a29e24de1c1ba3345edbd2",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.912738112Z"
+}

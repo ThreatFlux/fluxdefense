@@ -1,0 +1,15 @@
+{
+  "uuid": "b1a974f3-6c44-4efb-a086-4ff91eec1fba",
+  "path": "/lib/python3.12/lib-dynload/_testmultiphase.cpython-312-x86_64-linux-gnu.so",
+  "size": 35752,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:10:59.931539231Z",
+  "sha256_hash": "de53770ceb7454a0e5ebca9965c4c5d6a51d9a5f81b08fa5a6ccf37eeb4301e4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.213334268Z"
+}

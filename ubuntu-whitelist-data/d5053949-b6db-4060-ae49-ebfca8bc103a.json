@@ -1,0 +1,15 @@
+{
+  "uuid": "d5053949-b6db-4060-ae49-ebfca8bc103a",
+  "path": "/usr/bin/dh_installdeb",
+  "size": 13217,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.513341269Z",
+  "sha256_hash": "ef9a5754a266aad9462e8f48d824cac953363b96a3801b272b5745a1b7d8ddd0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.133183813Z"
+}

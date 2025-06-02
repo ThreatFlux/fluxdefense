@@ -1,0 +1,17 @@
+{
+  "uuid": "cc185056-555b-43a1-9ae3-3f5cbc7e7433",
+  "path": "/lib/modules/6.11.0-25-generic/kernel/crypto/aes_ti.ko.zst",
+  "size": 2729,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.097459865Z",
+  "sha256_hash": "849a6940095baa79f4b61fbcb95ab03c36a41e27c577e006fcec9b0ecb53f518",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.632105675Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "215f1d45-81bc-4134-b2bc-a6ea9d6c0ac8",
+  "path": "/usr/bin/netstat",
+  "size": 158304,
+  "modified": "2025-05-28T13:23:35Z",
+  "created": "2025-05-29T10:40:06.155574736Z",
+  "sha256_hash": "d0a6881ccac8d74a2c9f81768fd3794c662b26a0ff259b7619406eb65f7238ff",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:08.047700471Z"
+}

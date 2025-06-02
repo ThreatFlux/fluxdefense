@@ -1,0 +1,15 @@
+{
+  "uuid": "2ee36af5-337c-4d45-931c-40ce37cb6986",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/distros/rhel.py",
+  "size": 8172,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.238037203Z",
+  "sha256_hash": "d12634b33cfd6242e699f10d48ecdccef8a55a66113255bbc710d5b18df9e788",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.840969956Z"
+}

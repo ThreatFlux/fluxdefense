@@ -1,0 +1,17 @@
+{
+  "uuid": "39dcd9a1-9a2a-4b01-afab-6f3d183428b6",
+  "path": "/lib/x86_64-linux-gnu/libpmem.so.1.0.0",
+  "size": 358688,
+  "modified": "2024-04-18T12:44:59Z",
+  "created": "2025-05-09T05:56:51.325622549Z",
+  "sha256_hash": "52f14a3f2a80464be81a56ac7098ba1a457309cd353e05a319ce55a915def9c0",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.729939520Z"
+}

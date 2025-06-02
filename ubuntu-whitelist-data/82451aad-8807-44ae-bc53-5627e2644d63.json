@@ -1,0 +1,17 @@
+{
+  "uuid": "82451aad-8807-44ae-bc53-5627e2644d63",
+  "path": "/lib/llvm-18/include/clang/Analysis/CodeInjector.h",
+  "size": 1632,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.523533660Z",
+  "sha256_hash": "5347e0005bf108582a054a92565914a4a0eed2e8e58533ffb3853164e4127cc8",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.188125314Z"
+}

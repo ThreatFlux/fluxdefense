@@ -1,0 +1,17 @@
+{
+  "uuid": "3954d1bc-7afb-4aeb-b95a-3149f9415217",
+  "path": "/usr/lib/firmware/nvidia/gp10b/gr/fecs_sig.bin.zst",
+  "size": 89,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.940536161Z",
+  "sha256_hash": "37e77ba54433bf0b35c304f1cfe5482ec798997f924b9f9aeae44941c9d98332",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.247702674Z"
+}

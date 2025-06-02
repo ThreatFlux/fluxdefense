@@ -1,0 +1,17 @@
+{
+  "uuid": "394535c8-23da-48f2-8aba-c48fc7784994",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/bits/uintn-identity.ph",
+  "size": 631,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.559590701Z",
+  "sha256_hash": "108df0190177390277347167fff6b234f1b64786e9366954877597724e5d41b8",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.590198351Z"
+}

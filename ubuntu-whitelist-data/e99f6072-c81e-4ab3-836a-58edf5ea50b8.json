@@ -1,0 +1,17 @@
+{
+  "uuid": "e99f6072-c81e-4ab3-836a-58edf5ea50b8",
+  "path": "/usr/lib/firmware/meson/vdec/gxl_vp9.bin.zst",
+  "size": 4404,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.791538225Z",
+  "sha256_hash": "2512ce73ee407c4d79738fcb297744345b39aab04a13574b7fa7c64d765c8b8b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.492782395Z"
+}

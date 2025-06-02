@@ -1,0 +1,17 @@
+{
+  "uuid": "2bb55032-e2d1-4b92-bc66-0753dea6b030",
+  "path": "/usr/lib/grub/x86_64-efi/usb_keyboard.mod",
+  "size": 5864,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "f7f8a52e146dfaf753ca851bae610f9483ebf4ca802917f189db13acbd0287c1",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.473248195Z"
+}

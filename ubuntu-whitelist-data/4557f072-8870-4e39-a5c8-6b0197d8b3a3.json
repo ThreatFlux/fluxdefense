@@ -1,0 +1,15 @@
+{
+  "uuid": "4557f072-8870-4e39-a5c8-6b0197d8b3a3",
+  "path": "/usr/sbin/perlcalls-bpfcc",
+  "size": 55,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "abb28f8cda8dafc27eb42496a4c5e9048012f87c12e415399c2e5b26362246e3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.154267203Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "39cdbd3f-ddea-4fa4-9131-1fafabef6721",
+  "path": "/usr/lib/firmware/amdgpu/stoney_vce.bin.zst",
+  "size": 85760,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.417543405Z",
+  "sha256_hash": "f7cc6a42c761cce1a5f80d46b55b0210f7f7bb214f602addd761ad5524bc4617",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.822060099Z"
+}

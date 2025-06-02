@@ -1,0 +1,17 @@
+{
+  "uuid": "85d0c992-116a-49b7-8d8e-6324fff47075",
+  "path": "/lib/grub/x86_64-efi/tga.mod",
+  "size": 6968,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "e5cd8084c8f66f48f37bb723e9ebad1304f4516abb435e7657845d35463d53aa",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.033130180Z"
+}

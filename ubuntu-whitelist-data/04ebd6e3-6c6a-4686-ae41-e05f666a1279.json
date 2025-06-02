@@ -1,0 +1,15 @@
+{
+  "uuid": "04ebd6e3-6c6a-4686-ae41-e05f666a1279",
+  "path": "/sbin/wakeuptime-bpfcc",
+  "size": 8291,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.524499133Z",
+  "sha256_hash": "a521e6a99d9aaa899ecd5d1c9038436704260541bfb4af564e08d6637feb6717",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.735676799Z"
+}

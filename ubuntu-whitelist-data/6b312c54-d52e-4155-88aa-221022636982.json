@@ -1,0 +1,17 @@
+{
+  "uuid": "6b312c54-d52e-4155-88aa-221022636982",
+  "path": "/lib/llvm-18/include/clang/Basic/OpenACCKinds.h",
+  "size": 10506,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "ba5afacdcbeb247742e42f71aaacce83eec8c9d28833c2f0d2249259b9e0cfad",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.118077771Z"
+}

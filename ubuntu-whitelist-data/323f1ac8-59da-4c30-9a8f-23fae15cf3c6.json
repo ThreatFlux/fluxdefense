@@ -1,0 +1,17 @@
+{
+  "uuid": "323f1ac8-59da-4c30-9a8f-23fae15cf3c6",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/AttrLeftSideMustPrintList.inc",
+  "size": 650,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.525533634Z",
+  "sha256_hash": "c171a4e64fe582324b6f6636b39ef92635609ffa044c3552fbdaf47edf87dcfd",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.598792091Z"
+}

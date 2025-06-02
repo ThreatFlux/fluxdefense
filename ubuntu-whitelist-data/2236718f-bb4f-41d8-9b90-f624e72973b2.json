@@ -1,0 +1,15 @@
+{
+  "uuid": "2236718f-bb4f-41d8-9b90-f624e72973b2",
+  "path": "/usr/lib/x86_64-linux-gnu/packagekit-backend/libpk_backend_test_succeed.so",
+  "size": 14544,
+  "modified": "2025-01-08T16:35:09Z",
+  "created": "2025-05-09T05:24:26.874952849Z",
+  "sha256_hash": "63993ecd6fe821e7070346b9045b7dd7b44a0b9d8314ff73bad40ea1f8e1f6fb",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.853865536Z"
+}

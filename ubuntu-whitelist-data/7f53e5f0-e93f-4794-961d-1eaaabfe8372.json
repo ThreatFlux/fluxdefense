@@ -1,0 +1,17 @@
+{
+  "uuid": "7f53e5f0-e93f-4794-961d-1eaaabfe8372",
+  "path": "/lib/firmware/mwl8k/helper_8366.fw.zst",
+  "size": 1671,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.892536826Z",
+  "sha256_hash": "47db36c0a86b63afd475e837a189d908a28d1fe4432cb1391bee397a1446ed8f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.453577978Z"
+}

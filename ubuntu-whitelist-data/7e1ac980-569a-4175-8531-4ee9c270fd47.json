@@ -1,0 +1,17 @@
+{
+  "uuid": "7e1ac980-569a-4175-8531-4ee9c270fd47",
+  "path": "/lib/firmware/mrvl/sdsd8997_combo_v4.bin.zst",
+  "size": 414726,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.889536867Z",
+  "sha256_hash": "36c98f269c114f66680f07adc51c278c288ca1b1ceaa49aeb3e2e2a9a40934cd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.917064747Z"
+}

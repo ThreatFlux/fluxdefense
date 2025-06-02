@@ -1,0 +1,15 @@
+{
+  "uuid": "db1b221f-cc5c-4943-a811-6d3098ecfcee",
+  "path": "/usr/lib/xorg/modules/libfbdevhw.so",
+  "size": 27208,
+  "modified": "2025-03-04T04:58:03Z",
+  "created": "2025-05-09T05:24:13.315776824Z",
+  "sha256_hash": "83aba2a5618cb3cfe91da7924e3c8ee9dd527a23647ec2f2bb8bf04f9147748c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.624984552Z"
+}

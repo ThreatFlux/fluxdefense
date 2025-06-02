@@ -1,0 +1,15 @@
+{
+  "uuid": "49488220-b4ab-491e-955d-8b82a87c2866",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstdtmf.so",
+  "size": 55952,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.772655181Z",
+  "sha256_hash": "0b3c12774c35ea2c5c25209e7b5ca3a667b599ca03abb5009e0959be4e4be1c6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.128863006Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "23e285af-2f0d-4753-8b90-1604979fb6f2",
+  "path": "/usr/lib/firmware/nvidia/gp106/gr/fecs_data.bin.zst",
+  "size": 516,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.939536174Z",
+  "sha256_hash": "fbc92fc8ea74acba66975423f7d644ba8215daf8d0c5d404a18169e286568a66",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.295450883Z"
+}

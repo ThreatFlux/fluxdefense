@@ -1,0 +1,17 @@
+{
+  "uuid": "54d828fb-7341-4a6b-bf86-a6034e188e64",
+  "path": "/lib/x86_64-linux-gnu/libdatrie.so.1.4.0",
+  "size": 30792,
+  "modified": "2024-04-08T16:02:23Z",
+  "created": "2025-05-09T05:07:29.270754399Z",
+  "sha256_hash": "507f33edbbc19b80637d6d66f8e3f62fac097d0b4e9ee6f6f23f535ecea26a61",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.953167188Z"
+}

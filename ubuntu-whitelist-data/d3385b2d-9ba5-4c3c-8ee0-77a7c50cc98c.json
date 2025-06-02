@@ -1,0 +1,15 @@
+{
+  "uuid": "d3385b2d-9ba5-4c3c-8ee0-77a7c50cc98c",
+  "path": "/bin/rst2xml",
+  "size": 610,
+  "modified": "2023-11-30T11:16:27Z",
+  "created": "2025-05-13T14:31:45.425318114Z",
+  "sha256_hash": "b88c78362f4ca070fe9fe332a1a39f56e67dcf3f29f127f3ce51d95160a38258",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.022437709Z"
+}

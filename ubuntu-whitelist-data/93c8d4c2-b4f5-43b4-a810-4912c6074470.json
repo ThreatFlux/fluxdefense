@@ -1,0 +1,15 @@
+{
+  "uuid": "93c8d4c2-b4f5-43b4-a810-4912c6074470",
+  "path": "/usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-netjack2-manager.so",
+  "size": 129296,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.781860089Z",
+  "sha256_hash": "00548254165caaf6ef6fc0e76a9e1f598bbb065800c9722180eb4e31db2a931f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.409620312Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "42e04039-6c98-4743-aa2d-a49553094dd6",
+  "path": "/lib/firmware/cxgb4/configs/t6-config-hashfilter.txt.zst",
+  "size": 5847,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.512542089Z",
+  "sha256_hash": "da65ae195645e32d2fdd520b1b76d9b42c50c154d5ca7f1defd228e490f8901e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.635549708Z"
+}

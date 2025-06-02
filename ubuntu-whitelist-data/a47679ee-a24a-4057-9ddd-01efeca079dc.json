@@ -1,0 +1,17 @@
+{
+  "uuid": "a47679ee-a24a-4057-9ddd-01efeca079dc",
+  "path": "/usr/lib/firmware/rtl_nic/rtl8125b-2.fw.zst",
+  "size": 1609,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.067534402Z",
+  "sha256_hash": "160f138f524e4a81d42ab1e3a95ef7234fba84d3325dcd40581b9f83a2d91ad3",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.566661975Z"
+}

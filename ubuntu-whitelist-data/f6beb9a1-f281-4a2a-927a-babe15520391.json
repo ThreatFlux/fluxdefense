@@ -1,0 +1,17 @@
+{
+  "uuid": "f6beb9a1-f281-4a2a-927a-babe15520391",
+  "path": "/lib/kernel/install.d/55-initrd.install",
+  "size": 711,
+  "modified": "2025-02-20T15:25:51Z",
+  "created": "2025-05-09T05:24:13.508779291Z",
+  "sha256_hash": "68b167f3e8f6e2e3326407d4ca10f462c2f6ea10f4be9fb558e16ddbc94d6d3d",
+  "file_type": {
+    "Other": "install"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.761996248Z"
+}

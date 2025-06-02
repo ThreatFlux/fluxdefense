@@ -1,0 +1,17 @@
+{
+  "uuid": "b36c2787-136a-48e0-a3d1-ee52a278f47c",
+  "path": "/lib/dbus-1.0/dbus-daemon-launch-helper",
+  "size": 34960,
+  "modified": "2024-08-09T02:33:22Z",
+  "created": "2025-05-09T05:07:21.365875024Z",
+  "sha256_hash": "32e2e15486ffc385dfdb567032efd508aa6cc15ceb928092ac443ffcb20a3513",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 35308,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.801090150Z"
+}

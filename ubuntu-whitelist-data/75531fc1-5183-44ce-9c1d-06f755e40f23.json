@@ -1,0 +1,17 @@
+{
+  "uuid": "75531fc1-5183-44ce-9c1d-06f755e40f23",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-stoele.ali",
+  "size": 3271,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.144343857Z",
+  "sha256_hash": "8231f0e0b426abc83dc4b3d3b01ae21797332a7c892817f4ddf3c42c2f6aa27b",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.617860887Z"
+}

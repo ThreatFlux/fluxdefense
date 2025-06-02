@@ -1,0 +1,17 @@
+{
+  "uuid": "22a5c192-262a-4a28-a139-701a8e31e1e2",
+  "path": "/lib/firmware/nvidia/tegra210/vic04_ucode.bin.zst",
+  "size": 7158,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.942536133Z",
+  "sha256_hash": "79885a9d336cf4536122cab9f426dcffc37e4d5430359a0c24f505ca2935633c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.442432654Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "59d42512-8ca0-4e53-b879-9eb4085540bd",
+  "path": "/usr/lib/systemd/system/systemd-machine-id-commit.service",
+  "size": 748,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "5f114d1ac97b8b4dea2f96f3641322b5e231f8fd70995b88e5a367574c71f403",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.478471240Z"
+}

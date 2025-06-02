@@ -1,0 +1,17 @@
+{
+  "uuid": "7dcc9893-a54a-4886-80db-2cc8fab72a58",
+  "path": "/usr/lib/llvm-18/include/clang/ExtractAPI/ExtractAPIActionBase.h",
+  "size": 1808,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.542533410Z",
+  "sha256_hash": "6bb817f1a36b8a09f212ee15fdfa622e56baf9218a23c57f5000306d884640f1",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.625119498Z"
+}

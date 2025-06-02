@@ -1,0 +1,17 @@
+{
+  "uuid": "fd50f8b9-7224-4e02-9e36-2c764129a06c",
+  "path": "/usr/lib/udev/rules.d/70-camera.rules",
+  "size": 280,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "3e1f5427d0f051324afeb0285e3a83f266f8a12532a9320c3ef7b24fc285d6fd",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.102391320Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "c4c42d78-cefa-4dd6-aed6-931ecb07fa8c",
+  "path": "/usr/lib/google-cloud-sdk/platform/gsutil/gslib/name_expansion.py",
+  "size": 30685,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.853929882Z",
+  "sha256_hash": "679d4e3ce71fca3cc1f4fc823a7e4d2df4fa9e0ebe989aee17f58da26f73de2d",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.572173353Z"
+}

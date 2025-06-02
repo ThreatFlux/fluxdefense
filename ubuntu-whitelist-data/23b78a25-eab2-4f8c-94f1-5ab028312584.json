@@ -1,0 +1,17 @@
+{
+  "uuid": "23b78a25-eab2-4f8c-94f1-5ab028312584",
+  "path": "/usr/lib/firmware/dpaa2/mc/mc_10.18.0_ls2088a.itb.zst",
+  "size": 385737,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.525541909Z",
+  "sha256_hash": "99e5921e8425571e375c0956f193e8247e797e7d0132ee88da45f7d8e6be71a5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.906494691Z"
+}

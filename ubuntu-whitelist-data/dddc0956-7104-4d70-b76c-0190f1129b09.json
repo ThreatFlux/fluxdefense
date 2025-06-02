@@ -1,0 +1,15 @@
+{
+  "uuid": "dddc0956-7104-4d70-b76c-0190f1129b09",
+  "path": "/usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-echo-cancel.so",
+  "size": 84712,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.780860075Z",
+  "sha256_hash": "d9d1333cafe592a9c5ef31dd303bb8059e54183324d240a3f72e2c759933b6c3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.402500797Z"
+}

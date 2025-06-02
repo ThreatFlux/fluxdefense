@@ -1,0 +1,17 @@
+{
+  "uuid": "c5cd9a23-7c94-4fa7-bcb6-46a513a729c2",
+  "path": "/lib/systemd/user/gnome-session@ubuntu.target.d/ubuntu.session.conf",
+  "size": 797,
+  "modified": "2024-04-15T15:49:55Z",
+  "created": "2025-05-09T05:07:28.308769079Z",
+  "sha256_hash": "6016aca984239806fac5849eeb64b7a9b62734d0c5ab689995ca444ecba3070c",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.143769023Z"
+}

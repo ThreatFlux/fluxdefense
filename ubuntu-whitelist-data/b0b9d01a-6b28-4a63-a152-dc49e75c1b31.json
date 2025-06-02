@@ -1,0 +1,17 @@
+{
+  "uuid": "b0b9d01a-6b28-4a63-a152-dc49e75c1b31",
+  "path": "/lib/x86_64-linux-gnu/icu/74.2/pkgdata.inc",
+  "size": 1304,
+  "modified": "2024-08-09T02:33:20Z",
+  "created": "2025-05-12T13:34:33.792503783Z",
+  "sha256_hash": "6ea5058050487eac8c296d28682551b0b23d824c69519e5c0060bda765274a1f",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.870372529Z"
+}

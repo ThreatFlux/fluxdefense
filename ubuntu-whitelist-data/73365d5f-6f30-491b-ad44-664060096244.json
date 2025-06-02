@@ -1,0 +1,17 @@
+{
+  "uuid": "73365d5f-6f30-491b-ad44-664060096244",
+  "path": "/lib/x86_64-linux-gnu/libply.so.5.0.0",
+  "size": 113552,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:26.079942382Z",
+  "sha256_hash": "bf52a63a21662c4c0121d42d232738ce5a39cc6351226640731eaf31b957fc95",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.951857184Z"
+}

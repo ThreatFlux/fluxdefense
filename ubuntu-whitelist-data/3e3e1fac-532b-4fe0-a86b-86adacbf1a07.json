@@ -1,0 +1,17 @@
+{
+  "uuid": "3e3e1fac-532b-4fe0-a86b-86adacbf1a07",
+  "path": "/usr/lib/google-cloud-sdk/.install/gcloud-man-pages.snapshot.json",
+  "size": 853,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.314922053Z",
+  "sha256_hash": "73cd1caea84e5f28acc6c20c8e79f22d8a5cf4752ae089967d9744865807598d",
+  "file_type": {
+    "Other": "json"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.532664319Z"
+}

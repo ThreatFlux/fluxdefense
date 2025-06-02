@@ -1,0 +1,17 @@
+{
+  "uuid": "a9a589ae-3e1e-4a6f-853d-0749401d7fff",
+  "path": "/usr/lib/tmpfiles.d/00rsyslog.conf",
+  "size": 465,
+  "modified": "2023-08-04T17:11:43Z",
+  "created": "2025-05-09T05:24:24.545922238Z",
+  "sha256_hash": "162fd61f2197334db713d1fea8bc36fc4fca78a4c13c4393451280742b7cc19f",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.133830168Z"
+}

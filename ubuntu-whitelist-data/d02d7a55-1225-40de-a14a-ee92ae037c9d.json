@@ -1,0 +1,17 @@
+{
+  "uuid": "d02d7a55-1225-40de-a14a-ee92ae037c9d",
+  "path": "/usr/lib/x86_64-linux-gnu/libgpm.so.2",
+  "size": 26688,
+  "modified": "2024-03-13T11:46:09Z",
+  "created": "2025-05-09T05:07:29.827745899Z",
+  "sha256_hash": "f84b79995eff18043011bfc9267dadcfdb5acc270827a19b1c97391cf4d1595a",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:11.682933051Z"
+}

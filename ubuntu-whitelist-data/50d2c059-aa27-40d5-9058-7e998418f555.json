@@ -1,0 +1,17 @@
+{
+  "uuid": "50d2c059-aa27-40d5-9058-7e998418f555",
+  "path": "/usr/lib/firmware/nvidia/ga106/gr/fecs_sig.bin.zst",
+  "size": 1619,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.936536216Z",
+  "sha256_hash": "a3617d249191db237120ee7a66d0428fbe7ce47101c36e8f178cb4e8fd5d0dcb",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.250918756Z"
+}

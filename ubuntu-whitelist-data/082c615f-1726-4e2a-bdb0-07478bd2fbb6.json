@@ -1,0 +1,17 @@
+{
+  "uuid": "082c615f-1726-4e2a-bdb0-07478bd2fbb6",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-nbnbig.adb",
+  "size": 3789,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.053345107Z",
+  "sha256_hash": "5e9552aab2d40608a9e9cdcbb1bff97e0053dba895e41be6e43729f5063d994c",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.162493094Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "92e5a5b4-ce5c-4ad2-8c2b-6472ea8840b7",
+  "path": "/lib/firmware/intel/sof-tplg/sof-glk-da7219.tplg.zst",
+  "size": 1531,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.059490968Z",
+  "sha256_hash": "0fbdc9040437894dd0810950d2b1fc8ffd7ce3c3b427afdcec037ca611025c2d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.222517123Z"
+}

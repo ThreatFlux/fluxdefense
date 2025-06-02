@@ -1,0 +1,17 @@
+{
+  "uuid": "f03f77db-250c-4e96-88de-e80337086352",
+  "path": "/lib/systemd/journald.conf.d/syslog.conf",
+  "size": 177,
+  "modified": "2025-02-20T15:25:51Z",
+  "created": "2025-05-09T05:24:13.509779304Z",
+  "sha256_hash": "ee200674b7f89baf8f543ec2a6df954395577b8724a99ab6a99acf3c11ddc344",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.100305820Z"
+}

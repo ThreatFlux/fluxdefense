@@ -1,0 +1,17 @@
+{
+  "uuid": "da4fcaa3-3fcb-48ed-8b32-d828ce5111be",
+  "path": "/usr/lib/firmware/mrvl/pcie8997_wlan_v4.bin.zst",
+  "size": 318177,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.793538197Z",
+  "sha256_hash": "2c2dd083bd2e68b9e4ba4f8a2334b39f735de93b0751326fbc5077a2a674a470",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.383595487Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "c183bbd3-d5fb-4978-96fb-937369dbe304",
+  "path": "/sbin/kvmexit-bpfcc",
+  "size": 11461,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "6d77005dff020f89992a626ae072d82f75f4941c771ce530a3368d66e06c0a94",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.862735579Z"
+}

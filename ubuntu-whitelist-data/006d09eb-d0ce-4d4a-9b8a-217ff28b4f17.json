@@ -1,0 +1,17 @@
+{
+  "uuid": "006d09eb-d0ce-4d4a-9b8a-217ff28b4f17",
+  "path": "/lib/x86_64-linux-gnu/libmozjs-115.so.115.10.0",
+  "size": 31395880,
+  "modified": "2024-04-16T11:52:09Z",
+  "created": "2025-05-09T05:07:31.353722613Z",
+  "sha256_hash": "17ddc8d6546fee566e64fd8165ad905add3f72e022c10c4a7bac236695e2eeb2",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:22.332794051Z"
+}

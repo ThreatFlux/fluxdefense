@@ -1,0 +1,15 @@
+{
+  "uuid": "ee025fa5-e9b5-48e1-b9a9-19f62df46128",
+  "path": "/bin/gtf",
+  "size": 18752,
+  "modified": "2025-03-04T04:58:03Z",
+  "created": "2025-05-09T05:24:13.307776722Z",
+  "sha256_hash": "1b4665eb338bbd40cee3304b98a318b355e9b9367ec263c5f475ad788e6826a4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.679409007Z"
+}

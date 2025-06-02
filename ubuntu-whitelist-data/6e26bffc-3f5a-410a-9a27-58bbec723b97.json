@@ -1,0 +1,17 @@
+{
+  "uuid": "6e26bffc-3f5a-410a-9a27-58bbec723b97",
+  "path": "/lib/tmpfiles.d/lvm2.conf",
+  "size": 61,
+  "modified": "2024-11-27T19:06:49Z",
+  "created": "2025-05-09T05:56:54.626585473Z",
+  "sha256_hash": "670a21702d32d3a14a15494d8419aea5f2de9ca058ba9da46dd951492cf18411",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.758385490Z"
+}

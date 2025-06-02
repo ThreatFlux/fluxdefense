@@ -1,0 +1,17 @@
+{
+  "uuid": "79c72b27-51b3-4e1c-86eb-cbd903679c9d",
+  "path": "/lib/x86_64-linux-gnu/libnet.so.1.7.0",
+  "size": 96704,
+  "modified": "2024-04-08T16:05:39Z",
+  "created": "2025-05-26T20:18:24.584060253Z",
+  "sha256_hash": "7806190e348a47b80619e53c6cad8e9d156422a6e19d7230fc93f1044c4eff87",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.595388983Z"
+}

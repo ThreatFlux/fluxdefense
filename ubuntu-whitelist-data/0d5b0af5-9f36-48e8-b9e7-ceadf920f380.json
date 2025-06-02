@@ -1,0 +1,17 @@
+{
+  "uuid": "0d5b0af5-9f36-48e8-b9e7-ceadf920f380",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-gearop.adb",
+  "size": 42983,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.077344777Z",
+  "sha256_hash": "5c7b2543301d44024a4669bca3ca715bbc3efe80f6cc3d6092a30fa30cc8d7c6",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.186550639Z"
+}

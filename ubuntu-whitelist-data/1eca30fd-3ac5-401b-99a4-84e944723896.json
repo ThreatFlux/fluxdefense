@@ -1,0 +1,15 @@
+{
+  "uuid": "1eca30fd-3ac5-401b-99a4-84e944723896",
+  "path": "/usr/lib/x86_64-linux-gnu/libgnat-13.so",
+  "size": 4586896,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:14.898347236Z",
+  "sha256_hash": "2ac4589d5be6dac027e11479e60a79599e586b2569f3c3ebb74d7ea87d4798b0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:29.603848050Z"
+}

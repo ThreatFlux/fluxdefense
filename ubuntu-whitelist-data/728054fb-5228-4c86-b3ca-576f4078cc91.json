@@ -1,0 +1,17 @@
+{
+  "uuid": "728054fb-5228-4c86-b3ca-576f4078cc91",
+  "path": "/lib/cups/filter/hpcups",
+  "size": 358232,
+  "modified": "2024-03-31T07:39:41Z",
+  "created": "2025-05-09T05:07:21.353875207Z",
+  "sha256_hash": "cc73039225e4ea0a04efe4781cce2a0f1ef344c2ed0a331c4fb50b8f749fe0d6",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.630754907Z"
+}

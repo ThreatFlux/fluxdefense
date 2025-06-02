@@ -1,0 +1,17 @@
+{
+  "uuid": "0c9496c5-f8cd-4579-a5a6-acf00dd06491",
+  "path": "/usr/lib/x86_64-linux-gnu/libgstriff-1.0.so.0.2402.0",
+  "size": 63712,
+  "modified": "2024-12-17T13:24:56Z",
+  "created": "2025-05-09T05:07:30.022742924Z",
+  "sha256_hash": "b069f599e681876726e8df8a7cc6cd10cd5fd398d4b46c2a3303e5e91aea72c1",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.498268913Z"
+}

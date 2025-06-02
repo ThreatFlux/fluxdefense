@@ -1,0 +1,17 @@
+{
+  "uuid": "c3573ca8-0387-4ff0-aecd-7d6c9aae0bc7",
+  "path": "/usr/lib/firmware/intel/ipu/ipu6epadln_fw.bin.zst",
+  "size": 239671,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.566541341Z",
+  "sha256_hash": "3e93d9b4637582a93d1aa0aa4658d9ecd4585b591ddd536fb8da121f4cc6267f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.784238304Z"
+}

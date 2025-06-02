@@ -1,0 +1,17 @@
+{
+  "uuid": "df09d04a-6f7d-4b37-a87e-3d792e33a15d",
+  "path": "/usr/lib/firmware/zd1201.fw.zst",
+  "size": 44732,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.087534125Z",
+  "sha256_hash": "1680c13ac93bbc43dec7b76ab0cf958f3393adf6c8bfdfa73e7346527c0b6d7b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.310912602Z"
+}

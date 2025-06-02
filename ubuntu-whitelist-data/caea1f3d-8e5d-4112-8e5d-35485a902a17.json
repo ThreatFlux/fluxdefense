@@ -1,0 +1,17 @@
+{
+  "uuid": "caea1f3d-8e5d-4112-8e5d-35485a902a17",
+  "path": "/usr/lib/grub/x86_64-efi/setjmp.mod",
+  "size": 912,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "c8a472d750df6bc20436955256fc80a6d040f0d4db4ba0b528be8a4aa3066972",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.461683285Z"
+}

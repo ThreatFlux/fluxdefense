@@ -1,0 +1,17 @@
+{
+  "uuid": "501692c8-f62b-4999-97f9-a88f68aa49f2",
+  "path": "/usr/lib/python3/dist-packages/distro/py.typed",
+  "size": 0,
+  "modified": "2023-12-29T14:47:00Z",
+  "created": "2025-05-09T05:07:26.834791571Z",
+  "sha256_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "file_type": {
+    "Other": "typed"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.127847288Z"
+}

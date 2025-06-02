@@ -1,0 +1,17 @@
+{
+  "uuid": "471ae184-2419-4b76-a8f1-2543ed476d21",
+  "path": "/usr/lib/systemd/system/upower.service",
+  "size": 994,
+  "modified": "2024-04-08T07:42:45Z",
+  "created": "2025-05-09T05:07:28.304769139Z",
+  "sha256_hash": "c6d300b60a7dd2e9186152b8bc4fd1557ec2977027d0a24b06304d31f6e4124c",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.453710367Z"
+}

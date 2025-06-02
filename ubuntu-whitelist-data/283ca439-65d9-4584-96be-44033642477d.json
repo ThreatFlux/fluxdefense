@@ -1,0 +1,17 @@
+{
+  "uuid": "283ca439-65d9-4584-96be-44033642477d",
+  "path": "/lib/systemd/system/systemd-fsckd.socket",
+  "size": 540,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "5cbce5a8b5f9391f0d774e259e90408459a2a66e82b99dd33ad9bdb52087bf49",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.118500092Z"
+}

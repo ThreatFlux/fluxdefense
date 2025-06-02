@@ -1,0 +1,15 @@
+{
+  "uuid": "f188d3c0-4f04-42d1-ad36-08b43cebb28d",
+  "path": "/lib/google-cloud-sdk/lib/surface/secrets/list.py",
+  "size": 5308,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.713932261Z",
+  "sha256_hash": "efd1f2a3ffb151e8f37c0371b0a2fb9b7f4b1b2cc077b1d79a536475e3f7f603",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.051235604Z"
+}

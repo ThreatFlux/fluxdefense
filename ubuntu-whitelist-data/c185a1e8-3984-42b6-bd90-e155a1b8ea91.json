@@ -1,0 +1,17 @@
+{
+  "uuid": "c185a1e8-3984-42b6-bd90-e155a1b8ea91",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/gio-unix-2.0.pc",
+  "size": 211,
+  "modified": "2025-05-15T12:06:49Z",
+  "created": "2025-05-27T10:16:56.762744220Z",
+  "sha256_hash": "c5bdcc3664363bd602de149797e6dbb5cd79782965c5d8591afb37ac6f4d2692",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.055695754Z"
+}

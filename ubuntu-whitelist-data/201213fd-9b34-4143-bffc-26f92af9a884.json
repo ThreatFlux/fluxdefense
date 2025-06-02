@@ -1,0 +1,17 @@
+{
+  "uuid": "201213fd-9b34-4143-bffc-26f92af9a884",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-boarop.ali",
+  "size": 3700,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.136343967Z",
+  "sha256_hash": "6575a7379b807d8d19a97118381604d7a508da4ecf27b2186cc68c0cfa4e55fa",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.581621524Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "83b08511-0fa5-44a5-b569-82281c7d3405",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/include/gcov.h",
+  "size": 2940,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.245389810Z",
+  "sha256_hash": "05747ba21e9fb52121db61fec20edde359d3becfd35f3391b9600111d3adbfdc",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.930434291Z"
+}

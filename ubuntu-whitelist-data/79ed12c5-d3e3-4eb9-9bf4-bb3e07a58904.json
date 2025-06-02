@@ -1,0 +1,15 @@
+{
+  "uuid": "79ed12c5-d3e3-4eb9-9bf4-bb3e07a58904",
+  "path": "/lib/x86_64-linux-gnu/security/pam_time.so",
+  "size": 18664,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:37.206633299Z",
+  "sha256_hash": "fbef6496cefd8d0b1ceff11b68e9b8fcd6aa3faa04504f3d58246aa11454f1ce",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.369897659Z"
+}

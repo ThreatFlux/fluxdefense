@@ -1,0 +1,17 @@
+{
+  "uuid": "41e76c58-c9da-48c4-85b1-98a8926574d8",
+  "path": "/lib/x86_64-linux-gnu/libxdp.so.1.4.0",
+  "size": 76032,
+  "modified": "2024-04-01T04:46:20Z",
+  "created": "2025-05-26T20:18:27.419017429Z",
+  "sha256_hash": "38d07db78c7652046450594df085ab127db0629c017c2d1414dedf55f1ada903",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:12.150230022Z"
+}

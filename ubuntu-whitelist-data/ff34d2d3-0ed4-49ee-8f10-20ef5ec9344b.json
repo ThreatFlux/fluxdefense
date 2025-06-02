@@ -1,0 +1,17 @@
+{
+  "uuid": "ff34d2d3-0ed4-49ee-8f10-20ef5ec9344b",
+  "path": "/usr/lib/firmware/iwlwifi-2030-6.ucode.zst",
+  "size": 226046,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.580541147Z",
+  "sha256_hash": "a6861590fc54aa09dd1935bd75f6a4315a5505de14a316ca721425af22d7b835",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.313698413Z"
+}

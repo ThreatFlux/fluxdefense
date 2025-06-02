@@ -1,0 +1,17 @@
+{
+  "uuid": "618d99e2-50d0-4021-b85b-1142d234f780",
+  "path": "/usr/lib/firmware/vxge/X3fw.ncf.zst",
+  "size": 358574,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.082534194Z",
+  "sha256_hash": "1a05d00b8102249f562121d59b6d2ef33437cdbf297751e6841e444c20597723",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.315388404Z"
+}

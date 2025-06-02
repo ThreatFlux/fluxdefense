@@ -1,0 +1,17 @@
+{
+  "uuid": "9d18a36b-cd86-4f4b-bb41-720cd875a9f0",
+  "path": "/lib/x86_64-linux-gnu/libjpeg.so.8.2.2",
+  "size": 534592,
+  "modified": "2024-04-08T16:04:50Z",
+  "created": "2025-05-09T05:07:31.328722995Z",
+  "sha256_hash": "ac09f2cd6f8a3b8e3cb123999ce275f9bcbe31c6cf9e20212c8f297772591d15",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.569182513Z"
+}

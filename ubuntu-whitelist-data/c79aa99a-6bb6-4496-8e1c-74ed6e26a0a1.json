@@ -1,0 +1,15 @@
+{
+  "uuid": "c79aa99a-6bb6-4496-8e1c-74ed6e26a0a1",
+  "path": "/usr/lib/x86_64-linux-gnu/libicutu.a",
+  "size": 432508,
+  "modified": "2024-08-09T02:33:20Z",
+  "created": "2025-05-12T13:34:33.858502914Z",
+  "sha256_hash": "7832d7a3fdb9ca7c4e3362c6b053a347f43ab369bae1bd6d85494a2a0d9eeb34",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.355580785Z"
+}

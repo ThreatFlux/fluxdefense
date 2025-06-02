@@ -1,0 +1,17 @@
+{
+  "uuid": "64b886eb-54ae-459e-81d7-4cd4d9c9ad6f",
+  "path": "/lib/os-probes/mounted/10qnx",
+  "size": 390,
+  "modified": "2023-03-07T13:24:16Z",
+  "created": "2025-05-09T05:07:25.893805930Z",
+  "sha256_hash": "c0bb0ab6b04a6cb5a33456734036f222383b8d3427d258ba06cbe9cf778e6e06",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.145817805Z"
+}

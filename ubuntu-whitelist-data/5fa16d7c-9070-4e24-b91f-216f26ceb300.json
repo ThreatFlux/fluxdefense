@@ -1,0 +1,17 @@
+{
+  "uuid": "5fa16d7c-9070-4e24-b91f-216f26ceb300",
+  "path": "/usr/lib/modules/6.11.0-26-generic/modules.dep",
+  "size": 882472,
+  "modified": "2025-05-20T14:32:18.668025520Z",
+  "created": "2025-05-20T14:32:18.667025538Z",
+  "sha256_hash": "86ca92a99cb1f0c14e4b3212a7c67cf3b8f45236dd367ead443a4067f07f29c8",
+  "file_type": {
+    "Other": "dep"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.606917381Z"
+}

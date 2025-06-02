@@ -1,0 +1,15 @@
+{
+  "uuid": "17f48798-6887-4978-9ba8-d53496f27c25",
+  "path": "/lib/x86_64-linux-gnu/libVkLayer_MESA_device_select.so",
+  "size": 60504,
+  "modified": "2024-12-16T10:17:11Z",
+  "created": "2025-05-09T05:07:29.048757786Z",
+  "sha256_hash": "12809217a59f06fd88893fcf038de32e5a7d3178f3b6543dedda8833532bc4bf",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.298464729Z"
+}

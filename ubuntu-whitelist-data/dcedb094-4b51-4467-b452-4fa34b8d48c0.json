@@ -1,0 +1,17 @@
+{
+  "uuid": "dcedb094-4b51-4467-b452-4fa34b8d48c0",
+  "path": "/usr/lib/x86_64-linux-gnu/libcdr-0.1.so.1.0.7",
+  "size": 691632,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.218755192Z",
+  "sha256_hash": "0b3c583a8ef21c4207a2874b76dec6a1dd3ff6f35b9bd54900a51d9544c28e90",
+  "file_type": {
+    "Other": "7"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.445713770Z"
+}

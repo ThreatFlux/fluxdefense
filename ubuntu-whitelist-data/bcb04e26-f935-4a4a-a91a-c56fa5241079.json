@@ -1,0 +1,17 @@
+{
+  "uuid": "bcb04e26-f935-4a4a-a91a-c56fa5241079",
+  "path": "/usr/lib/firmware/wfx/wfm_wf200_C0.sec.zst",
+  "size": 312422,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.083534180Z",
+  "sha256_hash": "c4ec9100e3cb0a2575a9fdf778b88a1f992a4d77690ce531413064a6ac795781",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.966978005Z"
+}

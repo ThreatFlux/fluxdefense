@@ -1,0 +1,17 @@
+{
+  "uuid": "b1d05fed-f527-4d94-a17d-02dc31297340",
+  "path": "/lib/x86_64-linux-gnu/libnss_sss.so.2",
+  "size": 52144,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:31.742716677Z",
+  "sha256_hash": "7912778ed10dd535a53f07f2e7344bbba8c10db7752509dc4fab4c052a1215ca",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.229728268Z"
+}

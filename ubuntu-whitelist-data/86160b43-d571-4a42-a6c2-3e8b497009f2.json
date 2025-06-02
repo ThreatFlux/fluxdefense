@@ -1,0 +1,17 @@
+{
+  "uuid": "86160b43-d571-4a42-a6c2-3e8b497009f2",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/flac.pc",
+  "size": 264,
+  "modified": "2024-03-31T00:58:35Z",
+  "created": "2025-05-29T11:16:21.945841350Z",
+  "sha256_hash": "15968286278777129058cd62bc1c5cdab205837c019d01caae24f984ba36211b",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.064268962Z"
+}

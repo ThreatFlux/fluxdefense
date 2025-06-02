@@ -1,0 +1,17 @@
+{
+  "uuid": "c3df4667-ffea-4ef9-8fc6-af388c440c7e",
+  "path": "/lib/firmware/asihpi/dsp6400.bin.zst",
+  "size": 310962,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.432543197Z",
+  "sha256_hash": "b63aa31d9baaee0193ba383b2a9e4d8b3394d1f5f7f8d9fc92d6ff36605b3a38",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.657351379Z"
+}

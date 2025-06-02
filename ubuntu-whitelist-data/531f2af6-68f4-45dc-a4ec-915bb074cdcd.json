@@ -1,0 +1,15 @@
+{
+  "uuid": "531f2af6-68f4-45dc-a4ec-915bb074cdcd",
+  "path": "/usr/bin/dpkg-genchanges",
+  "size": 18353,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T06:33:31.736357711Z",
+  "sha256_hash": "4b3688a9e0c011c5ecebf9cdf6a80cc5ffd49ce8a05c4d93e671c73527e4a5cd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.297414308Z"
+}

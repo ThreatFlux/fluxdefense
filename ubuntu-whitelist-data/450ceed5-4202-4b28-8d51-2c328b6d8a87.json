@@ -1,0 +1,15 @@
+{
+  "uuid": "450ceed5-4202-4b28-8d51-2c328b6d8a87",
+  "path": "/bin/update-mime-database",
+  "size": 76112,
+  "modified": "2024-04-01T11:58:12Z",
+  "created": "2025-05-09T05:07:20.832883157Z",
+  "sha256_hash": "6c5902d10ec225bdf57674252264647f6dfa8feeab66ae78544fe067ca875a42",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.280478473Z"
+}

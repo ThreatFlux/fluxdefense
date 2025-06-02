@@ -1,0 +1,15 @@
+{
+  "uuid": "c8397584-14ac-4abc-994f-04dff0e02103",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libxt_CLASSIFY.so",
+  "size": 14984,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.330631406Z",
+  "sha256_hash": "c73e989063bdd8b14d8866804aa6181a307cd3e7329dcd7eea6703e320a211e1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.254800457Z"
+}

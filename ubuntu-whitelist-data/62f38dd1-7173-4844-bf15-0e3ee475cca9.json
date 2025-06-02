@@ -1,0 +1,15 @@
+{
+  "uuid": "62f38dd1-7173-4844-bf15-0e3ee475cca9",
+  "path": "/usr/lib/evolution-data-server/addressbook-backends/libebookbackendcarddav.so",
+  "size": 55464,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:21.657870568Z",
+  "sha256_hash": "c405d9f8b03e173a04f433f9113fff81251bf3fed2de724ab9866331e790fd55",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.040049411Z"
+}

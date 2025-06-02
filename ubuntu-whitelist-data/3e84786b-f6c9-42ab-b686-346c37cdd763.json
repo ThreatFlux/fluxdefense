@@ -1,0 +1,17 @@
+{
+  "uuid": "3e84786b-f6c9-42ab-b686-346c37cdd763",
+  "path": "/lib/x86_64-linux-gnu/libgstrtp-1.0.so.0.2402.0",
+  "size": 194880,
+  "modified": "2024-12-17T13:24:56Z",
+  "created": "2025-05-09T05:07:30.022742924Z",
+  "sha256_hash": "d9060e11337bbc6ff723ae684bc789c07b42ddecd18cfc720f07da79b137fe47",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:11.315364029Z"
+}

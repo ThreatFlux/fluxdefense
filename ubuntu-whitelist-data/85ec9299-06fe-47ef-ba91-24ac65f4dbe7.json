@@ -1,0 +1,17 @@
+{
+  "uuid": "85ec9299-06fe-47ef-ba91-24ac65f4dbe7",
+  "path": "/usr/share/applications/org.gnome.Zenity.desktop",
+  "size": 240,
+  "modified": "2024-03-31T17:33:58Z",
+  "created": "2025-05-09T05:07:38.596612087Z",
+  "sha256_hash": "605c5416c5d84e137a5e3a9227fb55a045a42ea2c1cf87a7aa912e25428e18d7",
+  "file_type": {
+    "Other": "desktop"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.547892276Z"
+}

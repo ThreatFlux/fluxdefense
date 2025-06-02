@@ -1,0 +1,17 @@
+{
+  "uuid": "df48f300-4ca1-44a9-949d-cdc462632b1e",
+  "path": "/lib/aspell/x86_64-linux-gnu/email-filter.info",
+  "size": 448,
+  "modified": "2024-04-08T15:54:10Z",
+  "created": "2025-05-09T05:07:21.019880303Z",
+  "sha256_hash": "fd7326e874849b3d3d635436dbe45051f071a74f28c94c4bfcb5f0c57ed9c326",
+  "file_type": {
+    "Other": "info"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.794465321Z"
+}

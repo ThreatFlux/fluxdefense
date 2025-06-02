@@ -1,0 +1,15 @@
+{
+  "uuid": "2d390aa0-6aef-4d6d-bf99-5d06048c3ea3",
+  "path": "/usr/lib/rsyslog/reload-apparmor-profile",
+  "size": 375,
+  "modified": "2025-02-28T12:24:44Z",
+  "created": "2025-05-09T05:24:24.545922238Z",
+  "sha256_hash": "eec0bf16836e34f166fb5da22836bd65676e5b670152a00c257f24d4176b2cac",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.397877851Z"
+}

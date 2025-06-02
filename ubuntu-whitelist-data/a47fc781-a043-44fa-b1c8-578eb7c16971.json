@@ -1,0 +1,17 @@
+{
+  "uuid": "a47fc781-a043-44fa-b1c8-578eb7c16971",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/hicpp/NoAssemblerCheck.h",
+  "size": 1142,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "379d8854a01e03d453cb726125aa06b278427c14979cee629fb55694fc6bc382",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.270616638Z"
+}

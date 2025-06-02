@@ -1,0 +1,17 @@
+{
+  "uuid": "0af0e057-8e7f-4c3f-89fe-e354b376ca29",
+  "path": "/lib/grub/x86_64-efi/gcry_whirlpool.mod",
+  "size": 22968,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.808708460Z",
+  "sha256_hash": "f936e48047fba27560181fd7f3c153f0f1d337f2cdda214428e8a4bd4d14295d",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.015894987Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "cbc46d49-2a8a-4f77-b13d-edb70fed6aa0",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/misc/UseAnonymousNamespaceCheck.h",
+  "size": 1956,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "75ddfceccf581f2c1feddd995e68293a92c22397abc96622899219c468451529",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.277065111Z"
+}

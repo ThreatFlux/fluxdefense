@@ -1,0 +1,15 @@
+{
+  "uuid": "e8745b44-fe8f-4acb-91c3-cd45a206e32b",
+  "path": "/usr/lib/llvm-18/lib/libclangStaticAnalyzerFrontend.a",
+  "size": 1252036,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.833529578Z",
+  "sha256_hash": "fc449f405b1c18d174d3a6add6b67ece6517dd06e1b7d9f723d02369997d8b1a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.212849420Z"
+}

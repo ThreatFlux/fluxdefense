@@ -1,0 +1,17 @@
+{
+  "uuid": "95d7754b-a5a5-4236-aac4-a268c6973e37",
+  "path": "/lib/firmware/amdgpu/navi14_ce.bin.zst",
+  "size": 3788,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.405543571Z",
+  "sha256_hash": "1f5755aca119d4c3f50138f84c5e5c80cd5372e21f4df4ff7d0465c78667baa3",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.052048201Z"
+}

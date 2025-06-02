@@ -1,0 +1,17 @@
+{
+  "uuid": "79144ee9-704b-4372-b36e-a464cc847df1",
+  "path": "/lib/grub/grub-multi-install",
+  "size": 12315,
+  "modified": "2025-03-17T11:36:42Z",
+  "created": "2025-05-09T05:08:37.602711604Z",
+  "sha256_hash": "dec0a6ddf6e6ff53fcee054f06c9618ded615e85177e74edf4e7c8198407afde",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.936727586Z"
+}

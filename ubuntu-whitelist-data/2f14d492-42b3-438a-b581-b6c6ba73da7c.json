@@ -1,0 +1,17 @@
+{
+  "uuid": "2f14d492-42b3-438a-b581-b6c6ba73da7c",
+  "path": "/usr/lib/grub/x86_64-efi/bitmap_scale.mod",
+  "size": 5376,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.801708567Z",
+  "sha256_hash": "c86e7f751d2f7f924ef28033a1564365c1e20c23f1b9f559f7acd377a23b506f",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.496292055Z"
+}

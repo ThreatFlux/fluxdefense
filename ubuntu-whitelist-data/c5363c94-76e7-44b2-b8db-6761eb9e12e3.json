@@ -1,0 +1,17 @@
+{
+  "uuid": "c5363c94-76e7-44b2-b8db-6761eb9e12e3",
+  "path": "/lib/llvm-18/include/clang/Tooling/AllTUsExecution.h",
+  "size": 2943,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.552533279Z",
+  "sha256_hash": "91a0aaa90de12f379316873d9cb3581411e894eaf36828691506b716f12b8ca4",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.018038610Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "8189afe4-4d5b-4b46-9877-e6353bbd6ddb",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/IO/Handle.pm",
+  "size": 16650,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.518591327Z",
+  "sha256_hash": "415b6d15ca558a2a73cf13df0eccc2ac47e31e58e072ba327e47d0d1cdea6dad",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.575052227Z"
+}

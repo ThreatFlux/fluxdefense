@@ -1,0 +1,17 @@
+{
+  "uuid": "9215f713-01ca-4aff-9176-56b406f2912e",
+  "path": "/lib/libreoffice/program/opengl/reflectionFragmentShader.glsl",
+  "size": 1058,
+  "modified": "2024-10-29T11:14:30Z",
+  "created": "2025-05-09T05:11:19.580239304Z",
+  "sha256_hash": "80ad66ed8f89906a6f1dedcb8a0d1d920ca09473786e3d7706a51bfe3544529c",
+  "file_type": {
+    "Other": "glsl"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:50.102675483Z"
+}

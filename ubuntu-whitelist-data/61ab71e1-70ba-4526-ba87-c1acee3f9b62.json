@@ -1,0 +1,15 @@
+{
+  "uuid": "61ab71e1-70ba-4526-ba87-c1acee3f9b62",
+  "path": "/usr/bin/xrandr",
+  "size": 68000,
+  "modified": "2024-03-31T17:27:26Z",
+  "created": "2025-05-09T05:07:20.939881524Z",
+  "sha256_hash": "02a198ca8d98b20bc174b4621b0df1a80060f5a5b4bcc3e302092ab062f08c9e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.377842171Z"
+}

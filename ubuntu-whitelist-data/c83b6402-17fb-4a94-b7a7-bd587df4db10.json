@@ -1,0 +1,15 @@
+{
+  "uuid": "c83b6402-17fb-4a94-b7a7-bd587df4db10",
+  "path": "/usr/bin/debconf-copydb",
+  "size": 1718,
+  "modified": "2024-04-12T12:40:53Z",
+  "created": "2025-05-09T05:07:19.148908853Z",
+  "sha256_hash": "02f27a04a3485f487e654051a4e72a806e9aff40ccf87934f896f59c29fd6db2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:11.647509271Z"
+}

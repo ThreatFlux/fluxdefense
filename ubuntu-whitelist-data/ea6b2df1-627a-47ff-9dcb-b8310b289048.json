@@ -1,0 +1,15 @@
+{
+  "uuid": "ea6b2df1-627a-47ff-9dcb-b8310b289048",
+  "path": "/usr/lib/google-cloud-sdk/bin/gsutil",
+  "size": 5884,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.327921832Z",
+  "sha256_hash": "19b43e8731d9a2df06ba6e150970c99f264a8d0bde0a103494e37618d4d27329",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:45.036403469Z"
+}

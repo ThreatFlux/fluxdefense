@@ -1,0 +1,17 @@
+{
+  "uuid": "fcfa80bb-9a8c-4662-af8c-26773f428b6d",
+  "path": "/lib/systemd/system/spice-vdagentd.socket",
+  "size": 128,
+  "modified": "2024-04-07T07:23:42Z",
+  "created": "2025-05-09T05:07:28.301769185Z",
+  "sha256_hash": "155caeaf44c7a96a04b1e5f241bac98811f12abdefd0f4b690ad08da1762a10c",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.126558505Z"
+}

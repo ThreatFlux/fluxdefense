@@ -1,0 +1,15 @@
+{
+  "uuid": "950ae716-7d65-4103-8553-72abb8c8b182",
+  "path": "/usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-rtp-session.so",
+  "size": 121104,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.785860141Z",
+  "sha256_hash": "5cfd02344644d47bf05ee992a757f7027bfed032c1306167de19c29b8480b391",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.404000576Z"
+}

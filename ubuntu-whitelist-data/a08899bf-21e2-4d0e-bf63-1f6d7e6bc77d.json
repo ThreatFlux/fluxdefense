@@ -1,0 +1,15 @@
+{
+  "uuid": "a08899bf-21e2-4d0e-bf63-1f6d7e6bc77d",
+  "path": "/lib/x86_64-linux-gnu/libnssckbi.so",
+  "size": 584816,
+  "modified": "2024-04-08T16:14:43Z",
+  "created": "2025-05-09T05:07:31.748716586Z",
+  "sha256_hash": "339bb45fabddd9dc2779d7ad27376a13706c85a2a3957678c641893418c2843f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.175784558Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "2bbbcd51-754a-42c6-84bd-27fda1022e3d",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/TokenKinds.def",
+  "size": 39472,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.532533542Z",
+  "sha256_hash": "c0aa3d79961ac2484d2ccba6abd6ca95483e65c537619daa0b256174db5e5bff",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.565731771Z"
+}

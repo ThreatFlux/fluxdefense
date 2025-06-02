@@ -1,0 +1,15 @@
+{
+  "uuid": "3355c5c5-ff15-445e-bc39-246515850565",
+  "path": "/lib/libreoffice/program/libsduilo.so",
+  "size": 1680064,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:19.340242968Z",
+  "sha256_hash": "2d1631fff7b354bb1e898801a6d3afdd9d6f8b3de3942bc96ab03c7bbddc725b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:49.445394265Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "f61d45c0-23c1-4fe8-a6f8-f03bcfada984",
+  "path": "/usr/lib/python3.12/lib-dynload/_multiprocessing.cpython-312-x86_64-linux-gnu.so",
+  "size": 24280,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:10:59.929539262Z",
+  "sha256_hash": "a04c998b26d81863dfd817c66b802abe78ea1e9c0e0e1105fa71964bc0949c0e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.967320040Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "3afec965-2792-459a-9bb5-9e9b151a88b8",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/Builtins.def",
+  "size": 82763,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.525533634Z",
+  "sha256_hash": "212be727b7ea2ea8e883bee7c3a2b41f8d5b6a43f48f1c766c9af859fb7f2fc4",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.502981961Z"
+}

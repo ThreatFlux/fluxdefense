@@ -1,0 +1,17 @@
+{
+  "uuid": "7127ba2e-2fd6-4cc2-853b-09be39ba8e31",
+  "path": "/lib/llvm-18/include/clang/Analysis/ConstructionContext.h",
+  "size": 28091,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.523533660Z",
+  "sha256_hash": "222e2eeab7c7e1358fbc1a0acaeb4dd0baffa10066f66bbcc49ccaaee98d019f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.187394030Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "eb3fa9c0-edd2-4e6e-9eab-4d00a36d8105",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/bits/sigaction.ph",
+  "size": 1720,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.557590732Z",
+  "sha256_hash": "b8a24d9ffc68599934e7d13fa3bc4786fd6bb1604c8962ed6b97e7550456b816",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.679865981Z"
+}

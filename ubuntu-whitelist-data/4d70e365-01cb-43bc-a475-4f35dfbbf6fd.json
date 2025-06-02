@@ -1,0 +1,15 @@
+{
+  "uuid": "4d70e365-01cb-43bc-a475-4f35dfbbf6fd",
+  "path": "/lib/python3/dist-packages/cloudinit/sources/DataSourceWSL.py",
+  "size": 14716,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.242037257Z",
+  "sha256_hash": "55814e8200cbda72cb0c98c2495ac455447cf75de00befb9963ccf949da8fb7c",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.903648411Z"
+}

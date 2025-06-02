@@ -1,0 +1,17 @@
+{
+  "uuid": "f109520a-c9c2-40a5-9302-fc33ccb7b700",
+  "path": "/usr/lib/x86_64-linux-gnu/libasan.so.8.0.0",
+  "size": 10924208,
+  "modified": "2024-09-09T13:21:53Z",
+  "created": "2025-05-09T06:33:29.456406811Z",
+  "sha256_hash": "936ffe52a061956e109a810d671bd339f99ce5175e1b97fae49c2af8540ea0a8",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:08.823369232Z"
+}

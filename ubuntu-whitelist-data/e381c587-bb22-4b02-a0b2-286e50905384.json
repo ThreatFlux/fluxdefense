@@ -1,0 +1,15 @@
+{
+  "uuid": "e381c587-bb22-4b02-a0b2-286e50905384",
+  "path": "/lib/x86_64-linux-gnu/sssd/libsss_iface.so",
+  "size": 154696,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:37.247632673Z",
+  "sha256_hash": "e87299e52e28287d4e7ca351f84d4d061d3378b283cbf8d011db0cecfeff2a91",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.854344673Z"
+}

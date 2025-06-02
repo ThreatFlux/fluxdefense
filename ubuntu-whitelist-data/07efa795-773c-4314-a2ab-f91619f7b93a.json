@@ -1,0 +1,17 @@
+{
+  "uuid": "07efa795-773c-4314-a2ab-f91619f7b93a",
+  "path": "/lib/firmware/qcom/qcm2290/adsps.jsn",
+  "size": 405,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.994535413Z",
+  "sha256_hash": "9723d9873223f83464246a234bef61569c3d6a07112448e4e7da870d4ce5972a",
+  "file_type": {
+    "Other": "jsn"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.905316709Z"
+}

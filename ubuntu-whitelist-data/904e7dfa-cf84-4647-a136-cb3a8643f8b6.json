@@ -1,0 +1,15 @@
+{
+  "uuid": "904e7dfa-cf84-4647-a136-cb3a8643f8b6",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/docker/__init__.py",
+  "size": 228,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.309939124Z",
+  "sha256_hash": "0ddf4075976e4f44e756b79c7797c5df393818697e68595f74dda8281fc4be64",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.728453042Z"
+}

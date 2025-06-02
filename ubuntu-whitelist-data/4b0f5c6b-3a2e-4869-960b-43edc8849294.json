@@ -1,0 +1,15 @@
+{
+  "uuid": "4b0f5c6b-3a2e-4869-960b-43edc8849294",
+  "path": "/usr/lib/evolution-data-server/registry-modules/module-outlook-backend.so",
+  "size": 14496,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:21.658870553Z",
+  "sha256_hash": "c0866e10d6b2417146dd39c74b4bc47f761b5784c6b643c230d94f235c8110ac",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.049991453Z"
+}

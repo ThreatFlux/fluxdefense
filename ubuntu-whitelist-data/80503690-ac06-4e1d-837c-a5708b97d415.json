@@ -1,0 +1,17 @@
+{
+  "uuid": "80503690-ac06-4e1d-837c-a5708b97d415",
+  "path": "/lib/x86_64-linux-gnu/libtalloc.so.2.4.2",
+  "size": 47184,
+  "modified": "2024-03-31T08:26:35Z",
+  "created": "2025-05-09T05:07:32.293708269Z",
+  "sha256_hash": "5e4fb8691231a2431f5126f79c884bdc0678ef08b2c3d5f9c5017365589dbf4b",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.301752029Z"
+}

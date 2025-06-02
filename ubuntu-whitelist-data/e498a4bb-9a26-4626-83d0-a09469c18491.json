@@ -1,0 +1,17 @@
+{
+  "uuid": "e498a4bb-9a26-4626-83d0-a09469c18491",
+  "path": "/lib/firmware/ti-connectivity/wl1251-nvs.bin.zst",
+  "size": 299,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.075534291Z",
+  "sha256_hash": "23e0badd6105987f5a8aa9edaf705403c84061dfe910d5bc4292f84c39daf4cc",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.515317884Z"
+}

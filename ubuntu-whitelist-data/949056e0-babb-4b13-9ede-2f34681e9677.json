@@ -1,0 +1,15 @@
+{
+  "uuid": "949056e0-babb-4b13-9ede-2f34681e9677",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/libasan.a",
+  "size": 3081616,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.247389767Z",
+  "sha256_hash": "d17cb52afc7522be92802d41b9526d46415e0c890d75c0f0246be9a106eb30e4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.668169928Z"
+}

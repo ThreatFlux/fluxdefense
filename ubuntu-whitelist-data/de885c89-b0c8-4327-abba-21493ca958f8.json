@@ -1,0 +1,17 @@
+{
+  "uuid": "de885c89-b0c8-4327-abba-21493ca958f8",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-pack12.adb",
+  "size": 9051,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.082344709Z",
+  "sha256_hash": "ea9f040fb4745b0ac639e19432341ac9e9dc10266d0fa88f2531647dfd318f59",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.885555059Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d910b674-12a6-42db-8307-68a199ffbab8",
+  "path": "/lib/x86_64-linux-gnu/libfreetype.so.6.20.1",
+  "size": 833608,
+  "modified": "2024-03-31T05:23:47Z",
+  "created": "2025-05-09T05:07:29.525750507Z",
+  "sha256_hash": "fd0e52814df60ceb150c70a734f706528ef5d20ebbef8654ea526eadc70e473a",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.611613328Z"
+}

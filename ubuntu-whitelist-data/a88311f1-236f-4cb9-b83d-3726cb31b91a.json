@@ -1,0 +1,17 @@
+{
+  "uuid": "a88311f1-236f-4cb9-b83d-3726cb31b91a",
+  "path": "/usr/lib/llvm-18/include/clang/ARCMigrate/FileRemapper.h",
+  "size": 2545,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.510533832Z",
+  "sha256_hash": "cd24644be06fdd900ff00237e8bd46eebfcee7c562fd27479bdbc5dc38d4a000",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.419437083Z"
+}

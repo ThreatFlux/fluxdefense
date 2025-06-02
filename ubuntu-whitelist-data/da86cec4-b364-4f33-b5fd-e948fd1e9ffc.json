@@ -1,0 +1,17 @@
+{
+  "uuid": "da86cec4-b364-4f33-b5fd-e948fd1e9ffc",
+  "path": "/lib/udev/rules.d/90-alsa-restore.rules",
+  "size": 563,
+  "modified": "2024-04-07T07:09:55Z",
+  "created": "2025-05-09T05:07:28.439767079Z",
+  "sha256_hash": "6899f54687d4353aa6c8798a5265f06a907c22980ef3df0657ef42b807e18047",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.239249329Z"
+}

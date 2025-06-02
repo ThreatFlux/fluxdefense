@@ -1,0 +1,17 @@
+{
+  "uuid": "97159c95-04b3-40b5-8a19-a6346bc312c3",
+  "path": "/usr/lib/grub/x86_64-efi/boot.mod",
+  "size": 3872,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.801708567Z",
+  "sha256_hash": "12aa66210683b99704fc35b28a722fb49766eaab1704c335e90d7a1fe0151320",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.452563503Z"
+}

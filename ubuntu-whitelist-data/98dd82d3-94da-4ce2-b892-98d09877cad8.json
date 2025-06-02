@@ -1,0 +1,15 @@
+{
+  "uuid": "98dd82d3-94da-4ce2-b892-98d09877cad8",
+  "path": "/usr/lib/cups/filter/gstoraster",
+  "size": 14648,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.347875298Z",
+  "sha256_hash": "c03c46e262f64c3fe532fad9f03a7a04d3f366d3365ec4dc10c07d73ca573b80",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.990172134Z"
+}

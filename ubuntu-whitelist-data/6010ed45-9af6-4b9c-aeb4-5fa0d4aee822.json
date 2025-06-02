@@ -1,0 +1,17 @@
+{
+  "uuid": "6010ed45-9af6-4b9c-aeb4-5fa0d4aee822",
+  "path": "/lib/x86_64-linux-gnu/cups-pk-helper-mechanism",
+  "size": 112872,
+  "modified": "2024-03-31T08:47:08Z",
+  "created": "2025-05-09T05:07:28.451766896Z",
+  "sha256_hash": "bb3b7f3ba7499f018e1d0b05d42f16378078a20faa8ea9c75ff5e54ec2e909d3",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.348823914Z"
+}

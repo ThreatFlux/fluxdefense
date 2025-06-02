@@ -1,0 +1,15 @@
+{
+  "uuid": "cb29591e-d650-40f0-8f2e-2a630345c428",
+  "path": "/usr/lib/cups/filter/brftopagedbrf",
+  "size": 2496,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.343875359Z",
+  "sha256_hash": "90434882b44ca581d16a99c91fff64a650e13c5c5f10ce5946a678f988247b86",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.996973865Z"
+}

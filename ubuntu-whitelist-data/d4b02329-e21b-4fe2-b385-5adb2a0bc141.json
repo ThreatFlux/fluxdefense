@@ -1,0 +1,15 @@
+{
+  "uuid": "d4b02329-e21b-4fe2-b385-5adb2a0bc141",
+  "path": "/lib/x86_64-linux-gnu/libibverbs/libmthca-rdmav34.so",
+  "size": 43248,
+  "modified": "2024-03-31T08:21:10Z",
+  "created": "2025-05-09T05:07:35.865653762Z",
+  "sha256_hash": "a4a46c8990c7306727a327904bf00b477cbf9f9dd59112589c3bdbcd173d2c79",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.814175128Z"
+}

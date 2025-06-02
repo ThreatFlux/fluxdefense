@@ -1,0 +1,15 @@
+{
+  "uuid": "34b1677a-5b0e-410b-b58a-c08a666796d9",
+  "path": "/usr/lib/openssh/ssh-sk-helper",
+  "size": 268720,
+  "modified": "2025-04-22T11:51:46Z",
+  "created": "2025-05-09T05:11:28.352105405Z",
+  "sha256_hash": "ba4567c8f6d0c37fae4468efb33322713d18c1b92d1a4b99bea9b7f7cc3959fa",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.666163352Z"
+}

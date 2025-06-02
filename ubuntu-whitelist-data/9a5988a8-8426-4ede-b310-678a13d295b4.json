@@ -1,0 +1,17 @@
+{
+  "uuid": "9a5988a8-8426-4ede-b310-678a13d295b4",
+  "path": "/lib/llvm-18/include/clang-tidy/readability/MagicNumbersCheck.h",
+  "size": 4151,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "8ca94574f8e6f20e998ac7d38dd5323e94ec4b7569e1b63fd76206b15233bbf8",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.923631868Z"
+}

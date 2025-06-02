@@ -1,0 +1,17 @@
+{
+  "uuid": "6069b308-3ade-4595-8ba8-1e9e7b9957bc",
+  "path": "/usr/lib/x86_64-linux-gnu/liblber.so.2.0.200",
+  "size": 59888,
+  "modified": "2024-12-09T02:50:18Z",
+  "created": "2025-05-09T05:24:29.808991618Z",
+  "sha256_hash": "6f6935b26c962d5b51ef2011332472cfd96ff244a4edc9d47120be6faa70e602",
+  "file_type": {
+    "Other": "200"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.452292769Z"
+}

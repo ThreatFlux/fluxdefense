@@ -1,0 +1,17 @@
+{
+  "uuid": "78e408cc-f6f6-43d1-8284-f0177eae2568",
+  "path": "/lib/firmware/nvidia/gp100/gr/fecs_data.bin.zst",
+  "size": 487,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.938536188Z",
+  "sha256_hash": "17957ba1075b31839cc4356e99a7da2d49266e832e04031c74c49f3e2eabaac4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.417800973Z"
+}

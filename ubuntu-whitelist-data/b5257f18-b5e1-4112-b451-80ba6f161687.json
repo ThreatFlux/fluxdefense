@@ -1,0 +1,17 @@
+{
+  "uuid": "b5257f18-b5e1-4112-b451-80ba6f161687",
+  "path": "/usr/lib/x86_64-linux-gnu/libnatpmp.so.1",
+  "size": 14328,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:31.649718096Z",
+  "sha256_hash": "c770e8f16240953c61c28c93d26c7cbb205f87d1830bfde02bc2882b599c43fd",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.850203063Z"
+}

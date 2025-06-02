@@ -1,0 +1,15 @@
+{
+  "uuid": "203279d3-992b-4c4d-ad2f-1e53b4fa1914",
+  "path": "/usr/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-fibocom.so",
+  "size": 43280,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.160664520Z",
+  "sha256_hash": "f5970c5369052235a4acf8cb6636256ca3ec556d7ec91ccd3b4f64c014532d76",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.068918886Z"
+}

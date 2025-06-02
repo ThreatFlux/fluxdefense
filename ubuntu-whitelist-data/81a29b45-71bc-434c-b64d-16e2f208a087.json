@@ -1,0 +1,17 @@
+{
+  "uuid": "81a29b45-71bc-434c-b64d-16e2f208a087",
+  "path": "/lib/firmware/amdgpu/raven2_ce.bin.zst",
+  "size": 3351,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.414543446Z",
+  "sha256_hash": "9e1a596b65efb15fd57bc8b852966ec89a52e7691619142d0eb790be0ff3bf05",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.900109067Z"
+}

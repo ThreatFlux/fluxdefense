@@ -1,0 +1,17 @@
+{
+  "uuid": "70e4e258-de70-475e-b4b0-a4cd8b883b40",
+  "path": "/usr/lib/x86_64-linux-gnu/librasqal.so.3.0.0",
+  "size": 489560,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:32.041712115Z",
+  "sha256_hash": "5f1e5903ec45f7012fe396ea549ad08956857cfb99f7cbb2be1679afbb73f593",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:08.020404649Z"
+}

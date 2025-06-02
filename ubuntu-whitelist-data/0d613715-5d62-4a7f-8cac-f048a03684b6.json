@@ -1,0 +1,15 @@
+{
+  "uuid": "0d613715-5d62-4a7f-8cac-f048a03684b6",
+  "path": "/usr/bin/qmi-firmware-update",
+  "size": 172128,
+  "modified": "2024-03-31T02:12:03Z",
+  "created": "2025-05-09T05:07:20.367890252Z",
+  "sha256_hash": "d95a49469bcab3700fe238aa6fcaee21933fe8a1681516860964abbeecee68f3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:05.751524766Z"
+}

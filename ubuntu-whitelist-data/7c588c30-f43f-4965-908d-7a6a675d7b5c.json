@@ -1,0 +1,17 @@
+{
+  "uuid": "7c588c30-f43f-4965-908d-7a6a675d7b5c",
+  "path": "/lib/cups/cgi-bin/classes.cgi",
+  "size": 51536,
+  "modified": "2024-09-26T11:15:36Z",
+  "created": "2025-05-09T05:07:21.042879952Z",
+  "sha256_hash": "0f965fe9b2d689f9fd7f3aa51682aac31a5574834621234ae3bbf695055912a6",
+  "file_type": {
+    "Other": "cgi"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.756582687Z"
+}

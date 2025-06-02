@@ -1,0 +1,17 @@
+{
+  "uuid": "ef0608a9-fc0e-48db-8294-20773e22c724",
+  "path": "/usr/lib/firmware/iwlwifi-cc-a0-72.ucode.zst",
+  "size": 496722,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.620540593Z",
+  "sha256_hash": "7c8cd4a647d9f3ba796bb9261918a4f48caeb2a157b8f0f5a4f902d36c0427bc",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.518077001Z"
+}

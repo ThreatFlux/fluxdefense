@@ -1,0 +1,17 @@
+{
+  "uuid": "6f3053b6-bd31-46b6-be25-9497fed1b83e",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/libudev.pc",
+  "size": 586,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-29T11:16:27.812760839Z",
+  "sha256_hash": "10b860cb3c7315670c1124b8dd390e8856b36ebbbaed36a4de930c20e6db5c33",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.096710521Z"
+}

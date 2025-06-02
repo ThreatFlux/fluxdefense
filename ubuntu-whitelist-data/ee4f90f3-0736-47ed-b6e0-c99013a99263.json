@@ -1,0 +1,17 @@
+{
+  "uuid": "ee4f90f3-0736-47ed-b6e0-c99013a99263",
+  "path": "/usr/lib/x86_64-linux-gnu/bpf/xsk_def_xdp_prog.o",
+  "size": 6984,
+  "modified": "2024-04-01T04:46:20Z",
+  "created": "2025-05-26T20:18:27.419017429Z",
+  "sha256_hash": "ffc57f787f688430c05b03ae71551ca228b60b5663e155d99d46a088f556105b",
+  "file_type": {
+    "Other": "o"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.116716453Z"
+}

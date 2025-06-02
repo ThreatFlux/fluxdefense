@@ -1,0 +1,17 @@
+{
+  "uuid": "8059fc83-61db-43c3-b32f-c0c06ae4f41c",
+  "path": "/usr/lib/firmware/nvidia/gp102/acr/bl.bin.zst",
+  "size": 328,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.938536188Z",
+  "sha256_hash": "bf37abb866ed59cfd77ea8c056058f5f8c0f9d59bbadc5482034d538c8a4de48",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.289491989Z"
+}

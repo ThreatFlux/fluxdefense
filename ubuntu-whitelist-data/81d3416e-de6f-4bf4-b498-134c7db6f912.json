@@ -1,0 +1,17 @@
+{
+  "uuid": "81d3416e-de6f-4bf4-b498-134c7db6f912",
+  "path": "/lib/llvm-18/include/clang/Parse/Parser.h",
+  "size": 155044,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.545533371Z",
+  "sha256_hash": "47c80f591ed51f8435e407ba97fcea5c983a8c174ed70d8659b4ecc761d764ec",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.181814580Z"
+}

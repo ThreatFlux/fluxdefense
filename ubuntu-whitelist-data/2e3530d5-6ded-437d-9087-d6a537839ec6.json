@@ -1,0 +1,17 @@
+{
+  "uuid": "2e3530d5-6ded-437d-9087-d6a537839ec6",
+  "path": "/usr/lib/systemd/system/systemd-machined.service",
+  "size": 1326,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:56:53.645596490Z",
+  "sha256_hash": "c9b6dc03839d9263f81f3efcf834bdc67d004be0ebcc1d6643b640b3087db88b",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.458738699Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d238b9fa-9811-4e14-aafe-2d6e4e799d8f",
+  "path": "/usr/lib/llvm-18/include/clang/Interpreter/Interpreter.h",
+  "size": 4917,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "a2d77bffeaee72aa394c69f2942cb241932ac9faa740a0e1302b31e2a1b9ca4f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.414210532Z"
+}

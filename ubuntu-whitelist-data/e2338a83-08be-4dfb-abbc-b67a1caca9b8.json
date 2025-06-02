@@ -1,0 +1,17 @@
+{
+  "uuid": "e2338a83-08be-4dfb-abbc-b67a1caca9b8",
+  "path": "/lib/firmware/rtw88/rtw8821c_fw.bin.zst",
+  "size": 53956,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.069534374Z",
+  "sha256_hash": "785d35063418482a792a92ab3f75efce88a59cd4aacca0f153f14adc78c7b5ca",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.449237240Z"
+}

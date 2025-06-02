@@ -1,0 +1,17 @@
+{
+  "uuid": "91cfae11-2d0f-4189-8a62-23bdfc8ab198",
+  "path": "/lib/firmware/amdgpu/kaveri_mec2.bin.zst",
+  "size": 7709,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.403543599Z",
+  "sha256_hash": "95fe1fcde2eae0fb39021b069333470e6bf11b2fe96a4c3d61bf0313b8f9dcb6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.133330063Z"
+}

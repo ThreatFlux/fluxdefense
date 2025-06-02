@@ -1,0 +1,17 @@
+{
+  "uuid": "f749a613-84f5-4dda-9ad3-e457e7c2df50",
+  "path": "/usr/lib/firmware/cis/SW_8xx_SER.cis.zst",
+  "size": 145,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.510542117Z",
+  "sha256_hash": "617fe5a621de6261ddbf04c3da7833e7a9d64d1b4dac5706af23d64cafb1abbd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:57.030635616Z"
+}

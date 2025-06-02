@@ -1,0 +1,15 @@
+{
+  "uuid": "802e86a1-50aa-49e5-aefe-81724061718f",
+  "path": "/lib/x86_64-linux-gnu/libopcodes-2.42-system.so",
+  "size": 911656,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:51.427584858Z",
+  "sha256_hash": "dd17972fb5fcca8a796a213b109da1c7b3bc9d573e9e0044af0136d1bb4d0883",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.840401247Z"
+}

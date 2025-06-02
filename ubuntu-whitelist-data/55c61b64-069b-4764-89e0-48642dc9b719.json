@@ -1,0 +1,17 @@
+{
+  "uuid": "55c61b64-069b-4764-89e0-48642dc9b719",
+  "path": "/lib/llvm-18/include/clang-tidy/google/ExplicitMakePairCheck.h",
+  "size": 1559,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "b1f3443800c6b5b4b93abd9be39af23b47cd787a1b0124be44f6c44ee96afc76",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.917387177Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "f5b62c5a-0d87-4ecf-854e-e801fa2bde1d",
+  "path": "/lib/llvm-18/lib/libclangToolingInclusions.a",
+  "size": 81648,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.911528550Z",
+  "sha256_hash": "72aece4ddc9bee50c1c85a21df86bf02d441b524e73232887394765973227fdc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.582130330Z"
+}

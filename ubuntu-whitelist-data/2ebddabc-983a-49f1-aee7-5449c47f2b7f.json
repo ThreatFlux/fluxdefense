@@ -1,0 +1,15 @@
+{
+  "uuid": "2ebddabc-983a-49f1-aee7-5449c47f2b7f",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstlame.so",
+  "size": 31120,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.773655166Z",
+  "sha256_hash": "95afe398e6d39c670e124a4ffc627abd8ac8885c487975945b2612ef6159b965",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.983782813Z"
+}

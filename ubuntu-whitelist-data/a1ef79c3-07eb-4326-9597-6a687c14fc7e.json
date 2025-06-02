@@ -1,0 +1,17 @@
+{
+  "uuid": "a1ef79c3-07eb-4326-9597-6a687c14fc7e",
+  "path": "/lib/x86_64-linux-gnu/libnetfilter_log.so.1.2.0",
+  "size": 22344,
+  "modified": "2024-04-22T09:46:06Z",
+  "created": "2025-05-26T20:18:24.712058319Z",
+  "sha256_hash": "121043bd039b0767105ea27e7f84321d4a9936d4e1e89c0282d512f30c64dc08",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.636364368Z"
+}

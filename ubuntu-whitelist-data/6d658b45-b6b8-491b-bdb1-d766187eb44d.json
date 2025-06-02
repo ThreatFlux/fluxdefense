@@ -1,0 +1,15 @@
+{
+  "uuid": "6d658b45-b6b8-491b-bdb1-d766187eb44d",
+  "path": "/usr/lib/google-cloud-sdk/platform/bq/clients/table_reader.py",
+  "size": 10295,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.816930511Z",
+  "sha256_hash": "624129ceb0cd1d837b513007be215f059b57ea55952fcee84d9d7df017015043",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.602238572Z"
+}

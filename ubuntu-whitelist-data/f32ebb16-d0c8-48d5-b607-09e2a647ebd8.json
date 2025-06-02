@@ -1,0 +1,15 @@
+{
+  "uuid": "f32ebb16-d0c8-48d5-b607-09e2a647ebd8",
+  "path": "/bin/ssh-copy-id",
+  "size": 13078,
+  "modified": "2023-12-18T14:59:50Z",
+  "created": "2025-05-09T05:11:28.348105466Z",
+  "sha256_hash": "b625120eeff8b0e64e4e8c71e5ed3a7878fd69d318a88ce0a22e115725f6b815",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.699041955Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "2ebfe51c-a01e-4e73-8e70-d39cf9fc96df",
+  "path": "/lib/x86_64-linux-gnu/libv4lconvert.so.0.0.0",
+  "size": 162248,
+  "modified": "2024-04-07T07:24:04Z",
+  "created": "2025-05-09T05:07:32.350707399Z",
+  "sha256_hash": "2ec1e922609f6b99001d7ec82866974f1eb3b97582430d84d538bbc61866dc35",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.009958975Z"
+}

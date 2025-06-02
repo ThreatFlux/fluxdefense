@@ -1,0 +1,15 @@
+{
+  "uuid": "bbf3526c-239d-42c0-8efe-f81998153759",
+  "path": "/usr/lib/x86_64-linux-gnu/spa-0.2/bluez5/libspa-bluez5.so",
+  "size": 797408,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.283853630Z",
+  "sha256_hash": "b19cea45e1ac8bb28ba1d0ae22858b3e881d45c3b2cd8c593d5a88802e4735a2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:13.941724924Z"
+}

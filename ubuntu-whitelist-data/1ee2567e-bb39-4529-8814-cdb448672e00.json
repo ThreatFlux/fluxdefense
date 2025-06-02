@@ -1,0 +1,17 @@
+{
+  "uuid": "1ee2567e-bb39-4529-8814-cdb448672e00",
+  "path": "/usr/lib/systemd/system/systemd-rfkill.service",
+  "size": 771,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "e8ac09c287549bc2083e3ec2c949bec2f81aeeb24fa7c9f57b301b677313833c",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.456450042Z"
+}

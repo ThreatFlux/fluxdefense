@@ -1,0 +1,17 @@
+{
+  "uuid": "a4f2183f-dfb9-4887-acc3-0adad0c7d228",
+  "path": "/lib/llvm-18/include/clang/Basic/arm_cde_builtins.inc",
+  "size": 8051,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.533533528Z",
+  "sha256_hash": "0e94d4719206f5fa5bb0b8d57f869356c3f2a72c15666e3895248dcbd10ed93d",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.089964067Z"
+}

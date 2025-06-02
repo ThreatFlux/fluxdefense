@@ -1,0 +1,17 @@
+{
+  "uuid": "0260db67-f757-499b-bae1-969d1cd3a468",
+  "path": "/lib/llvm-18/include/clang/Sema/DelayedDiagnostic.h",
+  "size": 10992,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.547533344Z",
+  "sha256_hash": "e1b72490891d39a18cefd0ba777b7f8f3c80826b943471422e68acd0d4bf1560",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.063742474Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "b342cc52-7ae6-402b-a285-c103591dbbb2",
+  "path": "/usr/sbin/tcptop-bpfcc",
+  "size": 12943,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.523499148Z",
+  "sha256_hash": "7345d4b2d70ae8816e2812e12fb09df34c8293ecd59ec37ec4d364eefa46e430",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.601770838Z"
+}

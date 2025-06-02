@@ -1,0 +1,15 @@
+{
+  "uuid": "5dbc4071-5c67-43c4-80e5-e1d25acf8153",
+  "path": "/usr/lib/x86_64-linux-gnu/libheif/plugins/libheif-aomenc.so",
+  "size": 35016,
+  "modified": "2024-10-21T10:48:55Z",
+  "created": "2025-05-09T05:07:35.858653869Z",
+  "sha256_hash": "5ba72bfdb94b217f81a1466ca3500cda46cbf76c697ff54496fc99c1dc6ba5bf",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.831604755Z"
+}

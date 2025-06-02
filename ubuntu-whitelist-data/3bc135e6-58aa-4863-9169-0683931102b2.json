@@ -1,0 +1,17 @@
+{
+  "uuid": "3bc135e6-58aa-4863-9169-0683931102b2",
+  "path": "/lib/i386-linux-gnu/libnvidia-nvvm.so.550.144.03",
+  "size": 93304200,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:55:59.850894796Z",
+  "sha256_hash": "8471bbf763ded267939f54d9dd773d1231f7852e1e831220df347db14cf1a6c8",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.210285072Z"
+}

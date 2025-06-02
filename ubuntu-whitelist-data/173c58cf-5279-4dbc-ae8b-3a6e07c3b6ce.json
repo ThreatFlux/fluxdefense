@@ -1,0 +1,15 @@
+{
+  "uuid": "173c58cf-5279-4dbc-ae8b-3a6e07c3b6ce",
+  "path": "/usr/lib/udev/dmi_memory_id",
+  "size": 88800,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:14.045786156Z",
+  "sha256_hash": "8f6e2e70bbe3b060e1c9da33c6be7bc77baf3d0095e66695e65de41f512b0114",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.226653208Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "34cad153-f113-4a97-80e8-f67db9b754ed",
+  "path": "/lib/llvm-18/include/clang-tidy/modernize/UseAutoCheck.h",
+  "size": 1422,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "dbf4e8e672fceba52caaecb594cb6609388289d7b50d50c1ba29f7a463fb42d4",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.909185033Z"
+}

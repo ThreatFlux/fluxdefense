@@ -1,0 +1,17 @@
+{
+  "uuid": "f378c142-a777-48a6-af5d-afd6d9652c5d",
+  "path": "/usr/lib/python3/dist-packages/netaddr/ip/ipv6-address-space.xml",
+  "size": 9581,
+  "modified": "2020-06-22T10:41:23Z",
+  "created": "2025-05-09T05:08:51.410500873Z",
+  "sha256_hash": "535e1ba719027c47392423a881bc37dee2c255bcd9778f569a05f10fcf40b719",
+  "file_type": {
+    "Other": "xml"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.445523223Z"
+}

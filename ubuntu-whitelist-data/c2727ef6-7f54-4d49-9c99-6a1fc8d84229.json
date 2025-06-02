@@ -1,0 +1,15 @@
+{
+  "uuid": "c2727ef6-7f54-4d49-9c99-6a1fc8d84229",
+  "path": "/lib/x86_64-linux-gnu/xtables/libebt_ip.so",
+  "size": 27064,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.324631498Z",
+  "sha256_hash": "6041663a3d16215ac91bd6eb713b9406edd75b1558b714b2a81d9738ab3c5455",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.663703096Z"
+}

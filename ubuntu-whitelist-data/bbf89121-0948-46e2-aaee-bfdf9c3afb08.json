@@ -1,0 +1,17 @@
+{
+  "uuid": "bbf89121-0948-46e2-aaee-bfdf9c3afb08",
+  "path": "/lib/x86_64-linux-gnu/libiw.so.30",
+  "size": 39376,
+  "modified": "2024-03-31T08:33:19Z",
+  "created": "2025-05-09T05:07:30.610733951Z",
+  "sha256_hash": "f6889c8aa30d2fa30a24cc5e7ee9730db387a2f6f6e14abd4410a1a05e1a89ff",
+  "file_type": {
+    "Other": "30"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.578619103Z"
+}

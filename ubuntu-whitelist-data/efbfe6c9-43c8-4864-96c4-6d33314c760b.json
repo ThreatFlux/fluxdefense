@@ -1,0 +1,17 @@
+{
+  "uuid": "efbfe6c9-43c8-4864-96c4-6d33314c760b",
+  "path": "/usr/lib/firmware/intel/sof-ipc4-tplg/sof-hda-generic-cavs25-2ch.tplg.zst",
+  "size": 3870,
+  "modified": "2025-01-06T07:09:53Z",
+  "created": "2025-05-09T05:08:52.055491029Z",
+  "sha256_hash": "c3272b957ef29a4ccec586dbd64cb51b277b5bf572c32883cfa5602bbcd0ef69",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.687029883Z"
+}

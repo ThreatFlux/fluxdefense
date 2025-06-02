@@ -1,0 +1,17 @@
+{
+  "uuid": "d5a4c0dc-8a63-4fd9-8452-c0651bfcb8bb",
+  "path": "/lib/systemd/system/nss-lookup.target",
+  "size": 562,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "2a2268ca516d4a014e4c14373f31db046ad64e8d802fe49218f284f638959345",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.105560432Z"
+}

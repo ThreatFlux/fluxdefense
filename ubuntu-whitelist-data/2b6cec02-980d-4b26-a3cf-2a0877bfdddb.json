@@ -1,0 +1,17 @@
+{
+  "uuid": "2b6cec02-980d-4b26-a3cf-2a0877bfdddb",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/s-ststop.adb",
+  "size": 28553,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.089344612Z",
+  "sha256_hash": "d87ae020a6a409e10595cee5f08536b60fc15d2b76accc96ab2a0f567f97e3c4",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.031747099Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "23fc5505-ed58-4885-bf5c-2a19ea4826c2",
+  "path": "/usr/lib/snapd/complete.sh",
+  "size": 5394,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.422026330Z",
+  "sha256_hash": "51dbc4cdc0d43ce3d9dbe249bf7e29910c6e35afa6e6de65a525880630080259",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:48.018055201Z"
+}

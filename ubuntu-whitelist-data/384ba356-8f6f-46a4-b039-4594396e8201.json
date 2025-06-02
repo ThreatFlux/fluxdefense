@@ -1,0 +1,15 @@
+{
+  "uuid": "384ba356-8f6f-46a4-b039-4594396e8201",
+  "path": "/usr/bin/systemd-ac-power",
+  "size": 14792,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.504779240Z",
+  "sha256_hash": "3dde74e2856924ec86fe32fcd61922a6e5a245149fb2fe49056c2d7b050f7240",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.095921228Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "9549f2f4-a53c-42f3-90e8-01decef1ee18",
+  "path": "/lib/llvm-18/lib/libclangARCMigrate.a",
+  "size": 14267226,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.564533121Z",
+  "sha256_hash": "5a19acd7930b1355d3fb942a56241a6289b81635968466068af76956f50d94f3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.595614027Z"
+}

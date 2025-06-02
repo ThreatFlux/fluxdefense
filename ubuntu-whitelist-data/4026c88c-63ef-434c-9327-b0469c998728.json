@@ -1,0 +1,17 @@
+{
+  "uuid": "4026c88c-63ef-434c-9327-b0469c998728",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/xdmcp.pc",
+  "size": 252,
+  "modified": "2024-04-08T16:09:38Z",
+  "created": "2025-05-29T11:16:05.322069466Z",
+  "sha256_hash": "a9a3fea7db05f73d0c7438718bd81feb3c2bb8661341b63d20ad6d7dd33d3f02",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.055189700Z"
+}

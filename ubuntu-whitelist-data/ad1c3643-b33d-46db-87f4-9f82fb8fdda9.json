@@ -1,0 +1,15 @@
+{
+  "uuid": "ad1c3643-b33d-46db-87f4-9f82fb8fdda9",
+  "path": "/usr/lib/os-probes/mounted/20microsoft",
+  "size": 4699,
+  "modified": "2023-03-07T13:24:16Z",
+  "created": "2025-05-09T05:07:25.893805930Z",
+  "sha256_hash": "c403c8217ba02ea4032a3d714866ea2f0f5a6573100f4c511b71fe18812cc82b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.605139494Z"
+}

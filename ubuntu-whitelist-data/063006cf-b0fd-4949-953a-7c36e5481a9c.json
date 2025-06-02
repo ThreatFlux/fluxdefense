@@ -1,0 +1,15 @@
+{
+  "uuid": "063006cf-b0fd-4949-953a-7c36e5481a9c",
+  "path": "/sbin/slabratetop-bpfcc",
+  "size": 6537,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "890e114f717cf5052a608f75777012098ee18293f87eb5f4d5825286b5992507",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.667583500Z"
+}

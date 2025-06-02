@@ -1,0 +1,17 @@
+{
+  "uuid": "f8ed0af9-29b2-48be-91f7-42b73d6ef73a",
+  "path": "/lib/udev/rules.d/77-mm-ericsson-mbm.rules",
+  "size": 8084,
+  "modified": "2024-02-19T14:58:32Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "4f7a1fd73c81c925f41efb92f20786e146ae7c61805a5be1570884b907d55aa3",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.244183855Z"
+}

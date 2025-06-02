@@ -1,0 +1,15 @@
+{
+  "uuid": "46d47d15-42c5-4a8e-a12f-39b495499051",
+  "path": "/usr/bin/nvidia-ngx-updater",
+  "size": 5043392,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:01.927947698Z",
+  "sha256_hash": "37ceb78203fc1af8d71f9481d1224f1bedbf579e7d9d539bdcd49645c0a25ca9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:11.640282780Z"
+}

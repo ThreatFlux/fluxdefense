@@ -1,0 +1,15 @@
+{
+  "uuid": "192ded44-78de-4f3e-b511-ca2c8dab8195",
+  "path": "/usr/bin/gpgsm",
+  "size": 513400,
+  "modified": "2025-03-28T15:23:49Z",
+  "created": "2025-05-09T05:11:23.486179682Z",
+  "sha256_hash": "5d2c3d541f8c682fc4db0071b299fffb84267ad0cbb759c42c090be9c1c68bce",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.141612338Z"
+}

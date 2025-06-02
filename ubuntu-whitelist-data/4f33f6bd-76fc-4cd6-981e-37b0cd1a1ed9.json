@@ -1,0 +1,17 @@
+{
+  "uuid": "4f33f6bd-76fc-4cd6-981e-37b0cd1a1ed9",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/UndefinedMemoryManipulationCheck.h",
+  "size": 1378,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "3c405a7b885b826dc7b659b47c5ea9c0a365c0da8f2a9cda6dde1eaba58ebd03",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.898160293Z"
+}

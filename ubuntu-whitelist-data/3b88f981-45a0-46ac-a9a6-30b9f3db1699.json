@@ -1,0 +1,15 @@
+{
+  "uuid": "3b88f981-45a0-46ac-a9a6-30b9f3db1699",
+  "path": "/usr/lib/klibc/bin/run-init",
+  "size": 10872,
+  "modified": "2024-05-21T08:39:42Z",
+  "created": "2025-05-09T05:07:21.713869713Z",
+  "sha256_hash": "ebfe6cb07482de87a335c6b5825f2d61d714b399ba24e84180adbf771dc7ee6a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.572550859Z"
+}

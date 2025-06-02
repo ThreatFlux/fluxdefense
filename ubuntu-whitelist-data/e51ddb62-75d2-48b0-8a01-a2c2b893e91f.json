@@ -1,0 +1,17 @@
+{
+  "uuid": "e51ddb62-75d2-48b0-8a01-a2c2b893e91f",
+  "path": "/usr/lib/x86_64-linux-gnu/libhunspell-1.7.so.0.0.1",
+  "size": 738568,
+  "modified": "2024-04-08T14:40:11Z",
+  "created": "2025-05-09T05:07:30.187740406Z",
+  "sha256_hash": "584ee3630f81b2c103df2a6a47c4f7ea220ac09a7c1e1c8b7c3195d2e72340fb",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.266264083Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d78bbd13-fd95-4e65-aaac-6cf2a74bf26f",
+  "path": "/usr/lib/i386-linux-gnu/librt.so.1",
+  "size": 13764,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.294663202Z",
+  "sha256_hash": "c59d404b2e4db15b2c0a6717bb9ad7194ac8094c008edeb8650beaf1a14e6958",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.684574584Z"
+}

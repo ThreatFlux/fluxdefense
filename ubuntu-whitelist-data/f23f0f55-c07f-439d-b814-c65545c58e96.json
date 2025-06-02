@@ -1,0 +1,17 @@
+{
+  "uuid": "f23f0f55-c07f-439d-b814-c65545c58e96",
+  "path": "/usr/bin/tclsh8.6",
+  "size": 14488,
+  "modified": "2024-03-31T08:26:43Z",
+  "created": "2025-05-09T05:07:20.697885217Z",
+  "sha256_hash": "08fc0602422887d601fd1a3c08d611b3c81d7c9e2817834f21e7f65a814fd299",
+  "file_type": {
+    "Other": "6"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:13.859612567Z"
+}

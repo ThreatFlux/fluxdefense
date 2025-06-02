@@ -1,0 +1,17 @@
+{
+  "uuid": "c97671f2-542a-4e85-a1d1-b25df2625fd6",
+  "path": "/lib/llvm-18/include/clang/Lex/TokenLexer.h",
+  "size": 10200,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.544533384Z",
+  "sha256_hash": "45aaf0f01a7dd586adefae6d582cd974bbaf9d886f9cccc498bb145675983e76",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.178064954Z"
+}

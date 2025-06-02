@@ -1,0 +1,15 @@
+{
+  "uuid": "97ac5710-d83c-4100-928a-b0078e34e77d",
+  "path": "/usr/lib/llvm-18/lib/libLLVMAArch64Utils.a",
+  "size": 320178,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.710465352Z",
+  "sha256_hash": "02e452dd94b0d0a99217653663291b15a313d5abc9722ef20c4be7c3a012b615",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:36.649720179Z"
+}

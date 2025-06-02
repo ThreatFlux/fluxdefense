@@ -1,0 +1,17 @@
+{
+  "uuid": "b7de6220-a865-48b0-a26b-eadfd26c0f25",
+  "path": "/usr/lib/udev/rules.d/95-upower-wup.rules",
+  "size": 354,
+  "modified": "2024-04-08T05:27:51Z",
+  "created": "2025-05-09T05:07:28.439767079Z",
+  "sha256_hash": "7ab7213b218cb017cc83686da6942d8a5f8ba662853b96f0841b3d278ba71c57",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.104781185Z"
+}

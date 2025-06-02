@@ -1,0 +1,17 @@
+{
+  "uuid": "fd8bdb46-e8f9-4c74-b01c-c22e2a339ab7",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-imx8mp-wm8960-kwd.tplg.zst",
+  "size": 872,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.060490953Z",
+  "sha256_hash": "31d43c9631b822c7f5e4459dff3c66bc63b9df73ee0c5aab05012fb33a64c615",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.865177986Z"
+}

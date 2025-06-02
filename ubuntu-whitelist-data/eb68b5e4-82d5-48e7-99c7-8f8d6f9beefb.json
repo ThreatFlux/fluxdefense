@@ -1,0 +1,17 @@
+{
+  "uuid": "eb68b5e4-82d5-48e7-99c7-8f8d6f9beefb",
+  "path": "/lib/cups/filter/command2esp",
+  "size": 14656,
+  "modified": "2024-04-08T21:36:00Z",
+  "created": "2025-05-09T05:07:21.344875344Z",
+  "sha256_hash": "e388c823b93b16ce30e2bb1946f32b346f3d673e8fc52728360d40c3d50868b5",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.632821061Z"
+}

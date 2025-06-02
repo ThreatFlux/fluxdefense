@@ -1,0 +1,17 @@
+{
+  "uuid": "059b66fb-d911-4d49-aa63-7d2f74dbc525",
+  "path": "/lib/gnome-settings-daemon-3.0/gtk-modules/at-spi2-atk.desktop",
+  "size": 213,
+  "modified": "2024-03-16T14:43:23Z",
+  "created": "2025-05-09T05:07:21.687870110Z",
+  "sha256_hash": "7865c78ad2c6116b8ac43abe8df30738d87c3a1917e94af52c68afcb0ae23bcc",
+  "file_type": {
+    "Other": "desktop"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.494476436Z"
+}

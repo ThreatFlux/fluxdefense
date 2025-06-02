@@ -1,0 +1,15 @@
+{
+  "uuid": "81b0d9f6-ca03-46d9-9506-73502dc45ca9",
+  "path": "/sbin/iwspy",
+  "size": 14488,
+  "modified": "2024-03-31T08:33:19Z",
+  "created": "2025-05-09T05:07:38.354615780Z",
+  "sha256_hash": "57aece04a74c21fb4caeb3c00f86f7d34e2f65194e6c2ba9f91c617181034193",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.802292830Z"
+}

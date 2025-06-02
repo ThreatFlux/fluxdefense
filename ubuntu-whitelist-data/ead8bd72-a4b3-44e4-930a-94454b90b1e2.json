@@ -1,0 +1,15 @@
+{
+  "uuid": "ead8bd72-a4b3-44e4-930a-94454b90b1e2",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libxt_bpf.so",
+  "size": 14968,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.332631376Z",
+  "sha256_hash": "2fbfaf703d90308faf669cfa75d2ec4c0db60a4ab90117385f1c53b4f0ea1112",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.259706311Z"
+}

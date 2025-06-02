@@ -1,0 +1,17 @@
+{
+  "uuid": "38590613-dfe1-49cd-8b48-1474f16c6e7f",
+  "path": "/usr/lib/x86_64-linux-gnu/libshotwell-plugin-common.so.0.32.6",
+  "size": 145632,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:32.160710299Z",
+  "sha256_hash": "88ef3ec47c66d515dee1a6aa711e2befc83f5b6434010e945bff1f08e78ff372",
+  "file_type": {
+    "Other": "6"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.087396906Z"
+}

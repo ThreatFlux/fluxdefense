@@ -1,0 +1,17 @@
+{
+  "uuid": "802df240-f519-43d4-a182-c329221d79cb",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/bits/struct_rwlock.ph",
+  "size": 943,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.558590717Z",
+  "sha256_hash": "68d20c4b83fd7700e67a88bd6ebdc74333283148914fd01d4b09b62a2504f7d7",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.590999655Z"
+}

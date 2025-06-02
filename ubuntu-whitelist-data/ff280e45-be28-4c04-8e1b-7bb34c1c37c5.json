@@ -1,0 +1,15 @@
+{
+  "uuid": "ff280e45-be28-4c04-8e1b-7bb34c1c37c5",
+  "path": "/lib/x86_64-linux-gnu/eog/libeog.so",
+  "size": 478576,
+  "modified": "2024-03-31T08:51:33Z",
+  "created": "2025-05-09T05:07:35.363661422Z",
+  "sha256_hash": "a34c0ba7c902a39746c658aae4cfa03308a1912ff0ec4dcd90a054a394542410",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.761621445Z"
+}

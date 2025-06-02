@@ -1,0 +1,17 @@
+{
+  "uuid": "44732107-6fe9-42d9-94b8-423494a7e6f3",
+  "path": "/lib/grub/x86_64-efi/minicmd.mod",
+  "size": 6240,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.814708369Z",
+  "sha256_hash": "9b15eb738c905723fe6c0b5ef4ed254d50a72cc1e10e0da686a7e6dc6bf96177",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.023231073Z"
+}

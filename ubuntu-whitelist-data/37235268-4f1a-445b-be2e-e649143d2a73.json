@@ -1,0 +1,17 @@
+{
+  "uuid": "37235268-4f1a-445b-be2e-e649143d2a73",
+  "path": "/lib/x86_64-linux-gnu/samba/libsamba-debug-samba4.so.0",
+  "size": 45752,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.084635161Z",
+  "sha256_hash": "a3756e7c2765904da02e119266a6f977bca14f7324bdd93a7c3b72a692022bf7",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.414564789Z"
+}

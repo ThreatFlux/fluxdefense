@@ -1,0 +1,17 @@
+{
+  "uuid": "2872ebd5-321b-41cc-bef2-837fdc60525d",
+  "path": "/usr/lib/firmware/qca/htbtfw20.tlv.zst",
+  "size": 139642,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.967535787Z",
+  "sha256_hash": "69ddc3f0cb447c2b41ede0128394dab38b2770378e178292767e94b2f817f985",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.450368257Z"
+}

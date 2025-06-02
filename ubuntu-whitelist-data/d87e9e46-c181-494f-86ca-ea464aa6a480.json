@@ -1,0 +1,17 @@
+{
+  "uuid": "d87e9e46-c181-494f-86ca-ea464aa6a480",
+  "path": "/usr/lib/ipxe/qemu/pxe-vmxnet3.rom",
+  "size": 91136,
+  "modified": "2024-04-16T21:17:04Z",
+  "created": "2025-05-09T05:56:50.420632714Z",
+  "sha256_hash": "43544141001bd1b251e16951034d8d54626a311eccc7a5dc3b1b4ab3fd5e9224",
+  "file_type": {
+    "Other": "rom"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.363948628Z"
+}

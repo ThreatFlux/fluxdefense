@@ -1,0 +1,17 @@
+{
+  "uuid": "3781902e-25d9-4394-a9f7-318f8817b859",
+  "path": "/lib/systemd/system/system-systemd\\x2dcryptsetup.slice",
+  "size": 468,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "68dc6e85631e077f2bc751352459823844911b93b7ba2afd95d96c893222bb50",
+  "file_type": {
+    "Other": "slice"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.106248756Z"
+}

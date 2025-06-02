@@ -1,0 +1,15 @@
+{
+  "uuid": "8d8c304f-435c-4666-b2f1-138a682f246a",
+  "path": "/lib/pppd/2.4.9/passprompt.so",
+  "size": 14648,
+  "modified": "2024-04-03T17:56:59Z",
+  "created": "2025-05-09T05:07:25.897805869Z",
+  "sha256_hash": "33da1875359b700eaf27ebe90fb3d8433b6aac49690101068dcd22f128e9a694",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.134710055Z"
+}

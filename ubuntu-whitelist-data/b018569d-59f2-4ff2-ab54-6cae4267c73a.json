@@ -1,0 +1,15 @@
+{
+  "uuid": "b018569d-59f2-4ff2-ab54-6cae4267c73a",
+  "path": "/bin/dh_installlogrotate",
+  "size": 1165,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.513341269Z",
+  "sha256_hash": "fd772b937aab63971bff02936628e1cbf205af5a85ac3dcc3275c305c0d0ef18",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.783663245Z"
+}

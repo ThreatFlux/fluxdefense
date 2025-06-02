@@ -1,0 +1,17 @@
+{
+  "uuid": "06763370-0d65-4613-810a-3b2f5142a063",
+  "path": "/usr/lib/udev/rules.d/61-mutter.rules",
+  "size": 14779,
+  "modified": "2024-05-25T16:33:22Z",
+  "created": "2025-05-09T05:24:16.902822853Z",
+  "sha256_hash": "5db218b8fc6117686b67a0f97afac1e8b8b47d1a214891f3b13a19f5699fc46c",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.103055095Z"
+}

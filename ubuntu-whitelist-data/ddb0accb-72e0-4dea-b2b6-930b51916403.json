@@ -1,0 +1,17 @@
+{
+  "uuid": "ddb0accb-72e0-4dea-b2b6-930b51916403",
+  "path": "/usr/lib/ipxe/qemu/compat-256k-efi-rtl8139.rom",
+  "size": 253952,
+  "modified": "2024-04-16T21:48:11Z",
+  "created": "2025-05-09T05:56:50.555631197Z",
+  "sha256_hash": "1fe1d68ac6d66c2cd2b50941bab512b947838a18c98993fb43fd3c5ed2ba64f2",
+  "file_type": {
+    "Other": "rom"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.319708414Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "4f898977-9b32-4903-afcc-311bbb9f2e3e",
+  "path": "/sbin/losetup",
+  "size": 76304,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.361615673Z",
+  "sha256_hash": "0b1c98c58eec9e2d9aa0d3ecceeb851247470495ebf53caf45582727ce106c22",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.847405567Z"
+}

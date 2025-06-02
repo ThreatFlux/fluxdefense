@@ -1,0 +1,17 @@
+{
+  "uuid": "f0d258a3-4c48-4841-9d60-03f178e1405e",
+  "path": "/usr/lib/llvm-18/include/clang/Serialization/GlobalModuleIndex.h",
+  "size": 6567,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.550533305Z",
+  "sha256_hash": "76d438de822341f066185534334d2bf149201c6545a89e1c29d9b6580054550d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.429030867Z"
+}

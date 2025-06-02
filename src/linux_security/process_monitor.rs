@@ -213,6 +213,74 @@ impl ProcessMonitor {
         }
         Ok(())
     }
+    
+    pub fn refresh_processes(&mut self) -> Result<()> {
+        // Re-scan all processes to update our tracking
+        let proc_dir = fs::read_dir("/proc")?;
+        let mut new_processes = HashMap::new();
+        
+        for entry in proc_dir {
+            let entry = entry?;
+            let file_name = entry.file_name();
+            let file_name_str = file_name.to_string_lossy();
+            
+            if let Ok(pid) = file_name_str.parse::<u32>() {
+                match self.get_process_info(pid) {
+                    Ok(info) => {
+                        new_processes.insert(pid, info);
+                    }
+                    Err(_) => {
+                        // Process might have exited
+                    }
+                }
+            }
+        }
+        
+        self.processes = new_processes;
+        Ok(())
+    }
+    
+    pub fn get_process_children(&self, parent_pid: u32) -> Vec<&ProcessInfo> {
+        self.processes.values()
+            .filter(|p| p.ppid == parent_pid)
+            .collect()
+    }
+    
+    pub fn get_process_tree(&self, root_pid: u32) -> Vec<&ProcessInfo> {
+        let mut tree = Vec::new();
+        let mut to_visit = vec![root_pid];
+        let mut visited = std::collections::HashSet::new();
+        
+        while let Some(pid) = to_visit.pop() {
+            if visited.contains(&pid) {
+                continue;
+            }
+            visited.insert(pid);
+            
+            if let Some(process) = self.processes.get(&pid) {
+                tree.push(process);
+                
+                // Add children to visit
+                for child in self.get_process_children(pid) {
+                    to_visit.push(child.pid);
+                }
+            }
+        }
+        
+        tree
+    }
+    
+    pub fn find_process_by_name(&self, name: &str) -> Vec<&ProcessInfo> {
+        self.processes.values()
+            .filter(|p| p.name.contains(name))
+            .collect()
+    }
+    
+    pub fn find_process_by_cmdline(&self, pattern: &str) -> Vec<&ProcessInfo> {
+        self.processes.values()
+            .filter(|p| p.cmdline.join(" ").contains(pattern))
+            .collect()
+    }
 }
 
 #[derive(Debug)]

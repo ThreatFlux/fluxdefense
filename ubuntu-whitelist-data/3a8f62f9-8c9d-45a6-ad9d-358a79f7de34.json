@@ -1,0 +1,15 @@
+{
+  "uuid": "3a8f62f9-8c9d-45a6-ad9d-358a79f7de34",
+  "path": "/lib/llvm-18/lib/libLLVMLanaiDisassembler.a",
+  "size": 20924,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.914462665Z",
+  "sha256_hash": "c2467ccb0073ee83cc2408f31c6b5732ea8a6caf6d51e2d14e547bd1fbeabf1a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.131533817Z"
+}

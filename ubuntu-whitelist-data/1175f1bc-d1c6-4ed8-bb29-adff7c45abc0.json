@@ -1,0 +1,17 @@
+{
+  "uuid": "1175f1bc-d1c6-4ed8-bb29-adff7c45abc0",
+  "path": "/lib/llvm-18/include/clang-tidy/android/CloexecDupCheck.h",
+  "size": 1227,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "6d49fcbfd2a81581c7ab03f16dcef967b0b4a655fb8cf8d16b427146d3590e78",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.892378195Z"
+}

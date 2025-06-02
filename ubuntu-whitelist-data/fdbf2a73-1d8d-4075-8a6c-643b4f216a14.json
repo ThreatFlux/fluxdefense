@@ -1,0 +1,17 @@
+{
+  "uuid": "fdbf2a73-1d8d-4075-8a6c-643b4f216a14",
+  "path": "/lib/udev/hwdb.d/30-pci-intel-gpu.hwdb",
+  "size": 30042,
+  "modified": "2022-07-01T09:29:43Z",
+  "created": "2025-05-09T05:07:28.431767201Z",
+  "sha256_hash": "2ad14aae708ca5b2aec93e140ee5dc7abf9576d1ae9f55a2c57880904926c7f4",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.260953851Z"
+}

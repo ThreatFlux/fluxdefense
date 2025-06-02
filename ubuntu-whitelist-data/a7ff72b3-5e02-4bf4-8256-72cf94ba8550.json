@@ -1,0 +1,17 @@
+{
+  "uuid": "a7ff72b3-5e02-4bf4-8256-72cf94ba8550",
+  "path": "/usr/lib/systemd/system/systemd-portabled.service",
+  "size": 1074,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:56:53.645596490Z",
+  "sha256_hash": "d5301c78398280cf5f1581e54e561e622fb7c1c436a6c28a4663513b17cd2da0",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.483334736Z"
+}

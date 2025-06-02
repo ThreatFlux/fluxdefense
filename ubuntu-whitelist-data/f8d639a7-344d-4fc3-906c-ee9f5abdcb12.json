@@ -1,0 +1,17 @@
+{
+  "uuid": "f8d639a7-344d-4fc3-906c-ee9f5abdcb12",
+  "path": "/usr/lib/x86_64-linux-gnu/samba/libsmbd-shim-samba4.so.0",
+  "size": 14496,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.119634626Z",
+  "sha256_hash": "dadc91570e4a7c2c968ecafb2494657944a12ca670d81beba096d164643d411c",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.426667759Z"
+}

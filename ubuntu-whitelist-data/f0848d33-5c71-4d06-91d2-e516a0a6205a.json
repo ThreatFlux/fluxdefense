@@ -1,0 +1,17 @@
+{
+  "uuid": "f0848d33-5c71-4d06-91d2-e516a0a6205a",
+  "path": "/lib/llvm-18/include/clang-tidy/readability/FunctionCognitiveComplexityCheck.h",
+  "size": 2115,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "10e0b9c3ccf2a799dba8842d82e6cbe0b05e6557686004970f2f4e4b1e49c9dc",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.924171024Z"
+}

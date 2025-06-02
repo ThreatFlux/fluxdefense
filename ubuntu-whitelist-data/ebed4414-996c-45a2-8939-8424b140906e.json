@@ -1,0 +1,17 @@
+{
+  "uuid": "ebed4414-996c-45a2-8939-8424b140906e",
+  "path": "/usr/lib/modules/6.11.0-26-generic/kernel/crypto/cryptd.ko.zst",
+  "size": 11143,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.078797895Z",
+  "sha256_hash": "39a1d1d23304e7ef6d0e2bd41752f4cdc8eb9a7decd7fc502bff2773e393e025",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.633177062Z"
+}

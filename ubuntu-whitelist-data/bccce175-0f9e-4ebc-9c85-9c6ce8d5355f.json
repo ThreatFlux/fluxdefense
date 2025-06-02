@@ -1,0 +1,17 @@
+{
+  "uuid": "bccce175-0f9e-4ebc-9c85-9c6ce8d5355f",
+  "path": "/usr/lib/systemd/system/systemd-journald@.socket",
+  "size": 746,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "0d45f64a83fce02fda64a6008ecda9beab9daafb0fc09ed71a7d4bae755e4457",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.459350788Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e89c2f73-8f27-49a5-a579-e12c24e2f785",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-airscan.so.1",
+  "size": 257416,
+  "modified": "2024-04-08T14:49:28Z",
+  "created": "2025-05-09T05:07:37.128634489Z",
+  "sha256_hash": "eede0b32d8b65b9279db706c5370e343ce85f522e8f30b69cbc355a0b79ed8af",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.227460597Z"
+}

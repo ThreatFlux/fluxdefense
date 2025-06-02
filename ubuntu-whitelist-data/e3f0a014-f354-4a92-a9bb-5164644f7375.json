@@ -1,0 +1,17 @@
+{
+  "uuid": "e3f0a014-f354-4a92-a9bb-5164644f7375",
+  "path": "/lib/grub/x86_64-efi/password_pbkdf2.mod",
+  "size": 4544,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.838708002Z",
+  "sha256_hash": "a174fad62075698a4ae6cf734a6ac092306519d02fa7dcb14af83e4f6869ab5c",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.140519911Z"
+}

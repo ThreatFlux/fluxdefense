@@ -1,0 +1,17 @@
+{
+  "uuid": "3a74e4c8-d4b2-4237-bf0c-2fe9b250e70a",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/IncorrectEnableIfCheck.h",
+  "size": 1373,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "05344ad098f286fbea63e3205bfc5936ad19fe2e321beaecc47db06f6a2d72e1",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.235092475Z"
+}

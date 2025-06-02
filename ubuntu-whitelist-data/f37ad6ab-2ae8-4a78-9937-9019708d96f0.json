@@ -1,0 +1,17 @@
+{
+  "uuid": "f37ad6ab-2ae8-4a78-9937-9019708d96f0",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/crypto/algif_skcipher.ko.zst",
+  "size": 6740,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.078797895Z",
+  "sha256_hash": "16879c57562c166b0014978e8a90d5d30abd9aeb8f2dda416bd232842c71ed1e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.262507907Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "36ba8f52-83a5-4a95-bd76-de6d162e2935",
+  "path": "/usr/lib/x86_64-linux-gnu/libGLdispatch.so.0.0.0",
+  "size": 719304,
+  "modified": "2024-04-08T16:04:01Z",
+  "created": "2025-05-09T05:07:28.452766881Z",
+  "sha256_hash": "ca01a91104c8887b3d8e59499b58cbb8f604cc285666b50d9ec888eb0c915182",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.285041379Z"
+}

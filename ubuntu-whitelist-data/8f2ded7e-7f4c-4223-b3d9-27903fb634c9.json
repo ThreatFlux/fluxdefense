@@ -1,0 +1,17 @@
+{
+  "uuid": "8f2ded7e-7f4c-4223-b3d9-27903fb634c9",
+  "path": "/lib/firmware/radeon/CAYMAN_me.bin.zst",
+  "size": 3107,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.059534513Z",
+  "sha256_hash": "69da5ac90fcca8ccc09be3c3529a09b9e9e92bd5e40a9618cb550b42b36c826f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.389320435Z"
+}

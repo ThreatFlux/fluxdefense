@@ -1,0 +1,15 @@
+{
+  "uuid": "7498261c-9eb1-4aaf-bde3-2b98e93fcbfd",
+  "path": "/usr/libexec/ibus-extension-gtk3",
+  "size": 145784,
+  "modified": "2024-03-31T12:04:22Z",
+  "created": "2025-05-09T05:07:37.520628507Z",
+  "sha256_hash": "86de995331a6d9fc9454abe4c78cadecd7385e13d59a2db8fd66c874bd23c3db",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.248037121Z"
+}

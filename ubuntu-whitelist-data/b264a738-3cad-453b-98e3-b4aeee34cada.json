@@ -1,0 +1,17 @@
+{
+  "uuid": "b264a738-3cad-453b-98e3-b4aeee34cada",
+  "path": "/lib/systemd/system/snapd.failure.service",
+  "size": 206,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.384025824Z",
+  "sha256_hash": "f576ab23db94ad89457e4d0b1b043ada0d75741aada2a7e1df663c6f7392961d",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.111014367Z"
+}

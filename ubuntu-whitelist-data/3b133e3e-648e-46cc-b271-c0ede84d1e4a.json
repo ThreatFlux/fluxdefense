@@ -1,0 +1,15 @@
+{
+  "uuid": "3b133e3e-648e-46cc-b271-c0ede84d1e4a",
+  "path": "/lib/libreoffice/program/pyuno.so",
+  "size": 14504,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:18.878250021Z",
+  "sha256_hash": "9df1f277e1bc288d95ef73055ef547505d88ff9823e4ba6009da8554a5567d9e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:49.835922335Z"
+}

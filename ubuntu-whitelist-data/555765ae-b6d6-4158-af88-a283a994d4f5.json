@@ -1,0 +1,15 @@
+{
+  "uuid": "555765ae-b6d6-4158-af88-a283a994d4f5",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstaudiomixer.so",
+  "size": 51728,
+  "modified": "2024-12-17T13:24:56Z",
+  "created": "2025-05-09T05:07:35.771655196Z",
+  "sha256_hash": "66837ceb1fe6c4cd5edeb8a9da19ad923540abf9a994efb1c1338c62ff4c07fb",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.167824551Z"
+}

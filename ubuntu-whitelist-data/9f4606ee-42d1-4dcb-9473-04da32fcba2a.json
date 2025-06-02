@@ -1,0 +1,17 @@
+{
+  "uuid": "9f4606ee-42d1-4dcb-9473-04da32fcba2a",
+  "path": "/lib/systemd/system/systemd-nspawn@.service",
+  "size": 1619,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:56:53.645596490Z",
+  "sha256_hash": "b6481850170c3cb4d4f5a4909ac48c1de780537410bed312eb941e0d2c2cc4ad",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.128827558Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "688e8879-7235-4b97-9ea1-15e4c46fed19",
+  "path": "/lib/llvm-18/include/clang-tidy/objc/AvoidNSErrorInitCheck.h",
+  "size": 1383,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "7bc046dde475f50b9a7c076c92bc885efbf0423b668633f9d64e1b51fa496f01",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.904286554Z"
+}

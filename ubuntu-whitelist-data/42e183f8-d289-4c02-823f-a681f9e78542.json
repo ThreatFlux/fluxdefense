@@ -1,0 +1,15 @@
+{
+  "uuid": "42e183f8-d289-4c02-823f-a681f9e78542",
+  "path": "/lib/x86_64-linux-gnu/plymouth/script.so",
+  "size": 85176,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:27.492960998Z",
+  "sha256_hash": "5a50297e6acccd3770e6c6e86843bc7181e2b5afc2cf459925a394e117681e28",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.623036637Z"
+}

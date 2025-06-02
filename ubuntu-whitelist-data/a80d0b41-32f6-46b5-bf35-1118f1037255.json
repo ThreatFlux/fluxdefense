@@ -1,0 +1,17 @@
+{
+  "uuid": "a80d0b41-32f6-46b5-bf35-1118f1037255",
+  "path": "/lib/grub/x86_64-efi-signed/version",
+  "size": 16,
+  "modified": "2025-03-28T10:14:13Z",
+  "created": "2025-05-09T05:08:38.345700265Z",
+  "sha256_hash": "a64a78891a2172a2f67e6f84c3b33499fbe50b5307b6ecaae0cc8fa7d51a6c1b",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.990002353Z"
+}

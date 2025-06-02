@@ -1,0 +1,17 @@
+{
+  "uuid": "035873be-95c0-40ff-be1c-f91ce7835d5e",
+  "path": "/usr/lib/llvm-18/include/clang/Serialization/AttrPCHRead.inc",
+  "size": 165468,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.549533318Z",
+  "sha256_hash": "ac9d83b88ac70382bba9240073a10af6189f1e03af195cf53a346a0af26f3504",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.424663524Z"
+}

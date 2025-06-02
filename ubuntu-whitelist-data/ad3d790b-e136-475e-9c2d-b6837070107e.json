@@ -1,0 +1,15 @@
+{
+  "uuid": "ad3d790b-e136-475e-9c2d-b6837070107e",
+  "path": "/bin/foo2hp2600-wrapper",
+  "size": 19204,
+  "modified": "2024-04-10T21:38:27Z",
+  "created": "2025-05-09T05:07:19.222907724Z",
+  "sha256_hash": "089e2fc355a59bbbee0eb4ce93ead5b765c40183742ab8ee27a607fd8606c1e2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.818599240Z"
+}

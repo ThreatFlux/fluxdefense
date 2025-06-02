@@ -1,0 +1,15 @@
+{
+  "uuid": "9ed02de1-d831-4943-a57d-25c97cf60bff",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/domains/list_user_verified.py",
+  "size": 3185,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.657933212Z",
+  "sha256_hash": "0daac4e65319a02a13c430fd60f76dc5cef996801975e49402b0e5d589c14fa2",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.798769275Z"
+}

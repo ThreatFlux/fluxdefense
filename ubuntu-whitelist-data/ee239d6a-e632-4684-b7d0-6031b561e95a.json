@@ -1,0 +1,17 @@
+{
+  "uuid": "ee239d6a-e632-4684-b7d0-6031b561e95a",
+  "path": "/usr/lib/x86_64-linux-gnu/perl-base/DynaLoader.pm",
+  "size": 11266,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.349578643Z",
+  "sha256_hash": "182b9da715fab0f8e05ff26b575dea6e0e0e892151ac77fa9ce88fb97ac7d8ad",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.726065412Z"
+}

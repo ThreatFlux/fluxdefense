@@ -1,0 +1,15 @@
+{
+  "uuid": "e89997eb-4560-430b-9da2-3f26916e324f",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/libatomic.a",
+  "size": 139488,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.253389638Z",
+  "sha256_hash": "663d9712a283947e522ca0d5a3972ceb76c92998875f95b0790b61b58459c21b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.900120770Z"
+}

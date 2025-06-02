@@ -1,0 +1,15 @@
+{
+  "uuid": "29ea8d2c-312c-4e28-b5c2-be345d7b9f29",
+  "path": "/usr/lib/llvm-18/bin/llvm-split",
+  "size": 23192,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.071486938Z",
+  "sha256_hash": "2ee4b2026153dc2353d0d2dce6b6d746b65627d7cef403dca2bc3f6bf69074f6",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:27.068331803Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "501dbe5a-441d-4277-93cc-14f42a690cec",
+  "path": "/lib/i386-linux-gnu/gconv/IBM1388.so",
+  "size": 177548,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.276663477Z",
+  "sha256_hash": "88c42ab0e2b60146b409d095100b8c913d7dd7108e1c67e0599490d5845b7f3a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.838005472Z"
+}

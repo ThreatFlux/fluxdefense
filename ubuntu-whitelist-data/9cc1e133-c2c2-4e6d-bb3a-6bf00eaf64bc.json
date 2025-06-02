@@ -1,0 +1,15 @@
+{
+  "uuid": "9cc1e133-c2c2-4e6d-bb3a-6bf00eaf64bc",
+  "path": "/lib/suricata/python/suricata/sc/__init__.py",
+  "size": 37,
+  "modified": "2024-04-01T09:12:58Z",
+  "created": "2025-05-26T20:18:27.621014378Z",
+  "sha256_hash": "f595e443b0e1e20fa1b68bc77970b0e3c6d35c55ff90c4534b8afe5b8162bf68",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.771757929Z"
+}

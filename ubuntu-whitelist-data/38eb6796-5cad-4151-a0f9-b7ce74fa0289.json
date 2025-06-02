@@ -1,0 +1,15 @@
+{
+  "uuid": "38eb6796-5cad-4151-a0f9-b7ce74fa0289",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/sql/reschedule_maintenance.py",
+  "size": 2617,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.685932736Z",
+  "sha256_hash": "30c03cd342d345ab972e58be1154766f663e866358b4a66a57e78364c79b3052",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.824212938Z"
+}

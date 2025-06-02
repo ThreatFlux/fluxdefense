@@ -1,0 +1,15 @@
+{
+  "uuid": "dc066641-300f-4b09-a9ff-71a50bcc7452",
+  "path": "/usr/lib/llvm-18/lib/libclangSerialization.a",
+  "size": 4099684,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.795530078Z",
+  "sha256_hash": "c8c8e981e517d0e77182903041f6744e9e1ab0276d6b44d3fe914d9a0ed8b0be",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.114989087Z"
+}

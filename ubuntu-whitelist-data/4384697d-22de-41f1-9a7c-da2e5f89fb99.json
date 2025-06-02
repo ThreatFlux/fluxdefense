@@ -1,0 +1,17 @@
+{
+  "uuid": "4384697d-22de-41f1-9a7c-da2e5f89fb99",
+  "path": "/usr/lib/x86_64-linux-gnu/libsource-highlight.so.4.0.1",
+  "size": 742712,
+  "modified": "2024-03-31T08:23:42Z",
+  "created": "2025-05-09T05:07:32.202709658Z",
+  "sha256_hash": "7a73ccfb5cb9fe03ffa3710cf6fcae518af48fb71696957f5a334c802e8f42a5",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.855582104Z"
+}

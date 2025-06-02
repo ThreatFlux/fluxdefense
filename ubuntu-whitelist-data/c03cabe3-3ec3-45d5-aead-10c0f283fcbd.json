@@ -1,0 +1,15 @@
+{
+  "uuid": "c03cabe3-3ec3-45d5-aead-10c0f283fcbd",
+  "path": "/lib/python3/dist-packages/cloudinit/distros/networking.py",
+  "size": 11070,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.238037203Z",
+  "sha256_hash": "8a4e6dd166f79f1050e4e7d8beb14cb412e991481c3f8fa261fedfca33c310b3",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.906695546Z"
+}

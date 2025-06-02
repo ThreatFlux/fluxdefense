@@ -1,0 +1,15 @@
+{
+  "uuid": "8bf1571a-3ae6-47c6-83aa-57579052e433",
+  "path": "/usr/lib/i386-linux-gnu/gconv/ISO-2022-KR.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.281663400Z",
+  "sha256_hash": "ccf4b614c4d4c0ef6757a572ae016964c67b731442aec2b5ba3c653da4404dc3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.991280185Z"
+}

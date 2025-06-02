@@ -1,0 +1,17 @@
+{
+  "uuid": "09e113a9-99a5-4ba3-9a9c-750cebff0e35",
+  "path": "/lib/firmware/v4l-cx25840.fw.zst",
+  "size": 7891,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.082534194Z",
+  "sha256_hash": "4d17f2573c8a3352bb481d5ff7d61ff23b5daaa044c53622703df7725d763443",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.809483734Z"
+}

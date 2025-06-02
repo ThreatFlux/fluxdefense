@@ -1,0 +1,17 @@
+{
+  "uuid": "315028f5-1f65-4343-bde0-6dc38a0e95fe",
+  "path": "/usr/lib/firmware/tsse_firmware.bin.zst",
+  "size": 97417,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.079534235Z",
+  "sha256_hash": "67fdfd052c94951ab6e213c9cb25e82c9b7d4f339ab888a94ce20809afb23669",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.489383565Z"
+}

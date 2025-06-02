@@ -1,0 +1,17 @@
+{
+  "uuid": "e05b21f9-56d0-411f-8d8e-d3bc78f68bf7",
+  "path": "/usr/lib/python3/dist-packages/netaddr/ip/ipv6-unicast-address-assignments.xml",
+  "size": 14852,
+  "modified": "2020-06-22T10:41:23Z",
+  "created": "2025-05-09T05:08:51.410500873Z",
+  "sha256_hash": "35373d7745c3752231ce67a8077ee67cd638eabd8c8a0e9a382261d24f18762c",
+  "file_type": {
+    "Other": "xml"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.442728685Z"
+}

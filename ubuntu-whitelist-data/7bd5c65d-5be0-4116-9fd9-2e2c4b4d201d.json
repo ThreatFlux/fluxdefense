@@ -1,0 +1,15 @@
+{
+  "uuid": "7bd5c65d-5be0-4116-9fd9-2e2c4b4d201d",
+  "path": "/bin/systemd-machine-id-setup",
+  "size": 19072,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.505779253Z",
+  "sha256_hash": "ec32080582387ce1142dee832f32d1f079d727855a7ac10a25ba858169b37660",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.482078675Z"
+}

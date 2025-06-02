@@ -1,0 +1,15 @@
+{
+  "uuid": "329c4001-5de1-430b-b5dd-bc50ac65b313",
+  "path": "/usr/lib/x86_64-linux-gnu/rsyslog/imudp.so",
+  "size": 36632,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.546922251Z",
+  "sha256_hash": "eec2ab5bf4239f00f3ac899e8d9496d1fbf8fd21e097728a389bc917dffff171",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.173557043Z"
+}

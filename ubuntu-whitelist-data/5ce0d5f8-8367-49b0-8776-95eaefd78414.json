@@ -1,0 +1,17 @@
+{
+  "uuid": "5ce0d5f8-8367-49b0-8776-95eaefd78414",
+  "path": "/usr/lib/udev/rules.d/90-pipewire-alsa.rules",
+  "size": 13372,
+  "modified": "2024-04-15T07:33:15Z",
+  "created": "2025-05-09T05:24:18.617845005Z",
+  "sha256_hash": "fc92603e81b9ae560a4355bdcfcfe8359cf3b6b424901ad8e9bee1dbe02bbb45",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.108409824Z"
+}

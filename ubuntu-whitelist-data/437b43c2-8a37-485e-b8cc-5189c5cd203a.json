@@ -1,0 +1,15 @@
+{
+  "uuid": "437b43c2-8a37-485e-b8cc-5189c5cd203a",
+  "path": "/usr/libexec/sssd/sssd_sudo",
+  "size": 240136,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:38.087619855Z",
+  "sha256_hash": "a213cb453ffd2a6b6e6fe509a41c007a3b20b408102c06f2bfbe7064813e3a77",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.126463398Z"
+}

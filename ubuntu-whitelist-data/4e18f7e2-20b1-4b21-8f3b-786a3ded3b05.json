@@ -1,0 +1,15 @@
+{
+  "uuid": "4e18f7e2-20b1-4b21-8f3b-786a3ded3b05",
+  "path": "/sbin/bridge",
+  "size": 111096,
+  "modified": "2024-03-31T09:00:13Z",
+  "created": "2025-05-09T05:07:38.130619199Z",
+  "sha256_hash": "d741f2d79f6a02e67db8280f5fafaf9435d790616075580c5d825c7487e609c4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.003174095Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e35d6f49-cea1-43f4-9338-972102582215",
+  "path": "/lib/aspell/english.alias",
+  "size": 72,
+  "modified": "2020-12-08T01:19:37Z",
+  "created": "2025-05-09T05:07:21.015880365Z",
+  "sha256_hash": "18bbdd99ff49e2ea32531cd221e58800261dd09aa0005a0dcf4c7727bd29b95d",
+  "file_type": {
+    "Other": "alias"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.786779653Z"
+}

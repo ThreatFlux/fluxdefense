@@ -1,0 +1,17 @@
+{
+  "uuid": "ea39088d-b1d1-45b9-8bbd-8dad1ee0d24b",
+  "path": "/lib/firmware/rtl_bt/rtl8723cs_xx_fw.bin.zst",
+  "size": 12250,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.065534429Z",
+  "sha256_hash": "a80a211d66e9e31c63884d0408e55b39456ff364cd02ee190601998e62f8a9ee",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:01.936837147Z"
+}

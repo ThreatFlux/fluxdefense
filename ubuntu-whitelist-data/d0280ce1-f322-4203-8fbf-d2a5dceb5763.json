@@ -1,0 +1,15 @@
+{
+  "uuid": "d0280ce1-f322-4203-8fbf-d2a5dceb5763",
+  "path": "/usr/lib/llvm-18/bin/llvm-profgen",
+  "size": 348424,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.066487004Z",
+  "sha256_hash": "41b14c7a09d689d18146b60959eb2dd2f9cbe15a86a3405b700021fbb5f46763",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.786416981Z"
+}

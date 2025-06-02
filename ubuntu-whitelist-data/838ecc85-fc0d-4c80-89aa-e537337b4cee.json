@@ -1,0 +1,15 @@
+{
+  "uuid": "838ecc85-fc0d-4c80-89aa-e537337b4cee",
+  "path": "/usr/lib/x86_64-linux-gnu/tracker-miners-3.0/extract-modules/libextract-gif.so",
+  "size": 39144,
+  "modified": "2024-03-31T17:20:13Z",
+  "created": "2025-05-09T05:07:37.309631727Z",
+  "sha256_hash": "c43dbdb8a26ce9d17cd3d672e217a5e44aebdcbab882b3923866ef1a82198b79",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.200136940Z"
+}

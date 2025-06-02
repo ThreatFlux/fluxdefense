@@ -1,0 +1,17 @@
+{
+  "uuid": "c65d04fa-b15d-4947-9e7a-c3cff794f399",
+  "path": "/lib/modules/6.11.0-25-generic/kernel/crypto/xor.ko.zst",
+  "size": 6210,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.100459819Z",
+  "sha256_hash": "a7b370cf8ba50e9b2562956893a99703c8b58fa4c493864bf7781fe66b1248cb",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.631920680Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "b60f2eea-45e7-4d0e-9bd0-77b9a687409f",
+  "path": "/lib/llvm-18/lib/libclangTidyGoogleModule.a",
+  "size": 1254088,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.867529130Z",
+  "sha256_hash": "fac7f1a21623edd0494d9ad5fc2729c9779ad19bcfa4acb4204e267acb084438",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.339054410Z"
+}

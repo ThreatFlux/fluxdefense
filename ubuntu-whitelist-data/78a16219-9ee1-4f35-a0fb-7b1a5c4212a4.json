@@ -1,0 +1,17 @@
+{
+  "uuid": "78a16219-9ee1-4f35-a0fb-7b1a5c4212a4",
+  "path": "/usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0",
+  "size": 399752,
+  "modified": "2025-05-15T12:06:49Z",
+  "created": "2025-05-27T10:16:58.199721327Z",
+  "sha256_hash": "da87a278c814eecb1c530454594aa8874cf298c615f418d045e5607694dd990b",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.239777024Z"
+}

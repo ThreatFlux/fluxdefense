@@ -1,0 +1,15 @@
+{
+  "uuid": "9adf3b24-cb4a-4df0-9814-a1f8d5c07d71",
+  "path": "/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-sierra-legacy.so",
+  "size": 18760,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.161664505Z",
+  "sha256_hash": "1cabc77fda395fc8e01c8c6999b942605d1ad61d41765f53b5017adc13f452a4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.565680859Z"
+}

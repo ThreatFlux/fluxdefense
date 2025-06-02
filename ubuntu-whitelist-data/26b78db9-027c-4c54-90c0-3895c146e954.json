@@ -1,0 +1,17 @@
+{
+  "uuid": "26b78db9-027c-4c54-90c0-3895c146e954",
+  "path": "/usr/lib/x86_64-linux-gnu/libebook-1.2.so.21.1.3",
+  "size": 333896,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:29.363752979Z",
+  "sha256_hash": "06168314e060bfb13f317d0f1b0cc7e3bd7567b246388973782666e07ccc3e99",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.214262331Z"
+}

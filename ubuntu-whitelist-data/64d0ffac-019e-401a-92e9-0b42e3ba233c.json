@@ -1,0 +1,17 @@
+{
+  "uuid": "64d0ffac-019e-401a-92e9-0b42e3ba233c",
+  "path": "/lib/firmware/intel/sof-tplg/sof-imx8-cs42888-mixer.tplg.zst",
+  "size": 965,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.059490968Z",
+  "sha256_hash": "62ffc873156f8e3c43666511d50021005ce89c4e81abfa4bee54f37327816fee",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.216418346Z"
+}

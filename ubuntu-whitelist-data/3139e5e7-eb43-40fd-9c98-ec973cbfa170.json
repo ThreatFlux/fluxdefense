@@ -1,0 +1,17 @@
+{
+  "uuid": "3139e5e7-eb43-40fd-9c98-ec973cbfa170",
+  "path": "/usr/lib/firmware/amdgpu/vpe_6_1_3.bin.zst",
+  "size": 8535,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.427543266Z",
+  "sha256_hash": "f5a5958040209efd892aaa7aa7089330fd01a0472a7a9a4b5d1e1336026275a0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.016402342Z"
+}

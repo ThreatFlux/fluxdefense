@@ -1,0 +1,17 @@
+{
+  "uuid": "2b2a68d3-2d45-451d-b52f-51a892e43cba",
+  "path": "/lib/x86_64-linux-gnu/samba/libsmbldaphelper-samba4.so.0",
+  "size": 28352,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.119634626Z",
+  "sha256_hash": "d6396a74445d235a63864f31e28afd4bd039766dc72ff18716d4025d66eb097c",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.479258152Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f75df199-9b2e-4896-adab-c42f9405a325",
+  "path": "/lib/firmware/intel-ucode/06-55-03",
+  "size": 36864,
+  "modified": "2025-05-22T12:00:47Z",
+  "created": "2025-05-27T21:53:48.437414901Z",
+  "sha256_hash": "cb6a0b69128ef381d007468e8c5bdfa9f89e4f1538449bb9f9e5b0e79ee94727",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.197032300Z"
+}

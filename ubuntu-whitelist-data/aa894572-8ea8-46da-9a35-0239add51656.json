@@ -1,0 +1,17 @@
+{
+  "uuid": "aa894572-8ea8-46da-9a35-0239add51656",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-titest.adb",
+  "size": 2696,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.061344997Z",
+  "sha256_hash": "b28473462443141744d71ff691a0b705e157449c4684a3bb50f4cf2edb3012db",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.103418640Z"
+}

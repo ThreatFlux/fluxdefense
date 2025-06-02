@@ -1,0 +1,17 @@
+{
+  "uuid": "fa4520ce-e6e6-43b1-9804-c4cad10f9753",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/sys/ttydefaults.ph",
+  "size": 2509,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.560590686Z",
+  "sha256_hash": "cc414a86763f96866b52adac87aab5150123fcace0b68135e64240a82a122cab",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.572814512Z"
+}

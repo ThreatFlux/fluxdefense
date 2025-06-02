@@ -1,0 +1,15 @@
+{
+  "uuid": "5523eae8-806e-4725-b32f-73630aabdbf1",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstmulaw.so",
+  "size": 23056,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.773655166Z",
+  "sha256_hash": "a173074aa9b7c2dccc641f1d8ce3d18fcaa8118f898f57c4fe4e03aa21057c15",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.124409228Z"
+}

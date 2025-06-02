@@ -1,0 +1,15 @@
+{
+  "uuid": "717428f3-124f-488a-a516-6d727c8f50cb",
+  "path": "/bin/yelp",
+  "size": 59624,
+  "modified": "2025-04-17T14:58:08Z",
+  "created": "2025-05-09T05:11:34.598010064Z",
+  "sha256_hash": "13f3190ca97c065f5ef283c0149a80cde46729385fcc5d59db0061f7f498f6f0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.801020645Z"
+}

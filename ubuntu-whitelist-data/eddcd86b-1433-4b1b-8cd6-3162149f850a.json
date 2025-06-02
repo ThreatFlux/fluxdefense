@@ -1,0 +1,15 @@
+{
+  "uuid": "eddcd86b-1433-4b1b-8cd6-3162149f850a",
+  "path": "/lib/x86_64-linux-gnu/libm.so",
+  "size": 140,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:08:53.073475493Z",
+  "sha256_hash": "55de4a3e12e17c3e2b18eb95ee21b3f46a8893ea6cab68c0a1c3a5caaf32e6cf",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:28.927324692Z"
+}

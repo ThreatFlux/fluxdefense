@@ -1,0 +1,15 @@
+{
+  "uuid": "76d9cdac-f8b5-49ae-a904-8a137892d450",
+  "path": "/usr/sbin/filefrag",
+  "size": 18760,
+  "modified": "2024-04-28T23:44:46Z",
+  "created": "2025-05-09T05:07:38.197618176Z",
+  "sha256_hash": "19eedb6d4c72648798c091b75ba6099e8280cd7e26fa8771e4b53137cfcc04b3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.161540922Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e10a6ad4-3063-48bb-8182-3e75e502ac62",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-genbig.adb",
+  "size": 40199,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.077344777Z",
+  "sha256_hash": "f7044c20ae9baeea29c0c6a9132ed30d1b092d5d534c8d8b75767246840398cc",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.030193166Z"
+}

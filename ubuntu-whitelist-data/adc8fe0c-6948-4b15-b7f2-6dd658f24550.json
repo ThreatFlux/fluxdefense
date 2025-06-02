@@ -1,0 +1,17 @@
+{
+  "uuid": "adc8fe0c-6948-4b15-b7f2-6dd658f24550",
+  "path": "/lib/llvm-18/include/clang/APINotes/APINotesYAMLCompiler.h",
+  "size": 1294,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.510533832Z",
+  "sha256_hash": "2a961373da380c405e360ec4bb6e39b787bda2bbdd6a6d03be1aa1eba568c893",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.935609095Z"
+}

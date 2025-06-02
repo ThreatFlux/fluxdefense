@@ -1,0 +1,17 @@
+{
+  "uuid": "f1def821-e504-4160-96c6-83b1c2c69b39",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-cml-es8336-dmic4ch-ssp1.tplg.zst",
+  "size": 1697,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.058490984Z",
+  "sha256_hash": "7f19a040f00eb4f28c625eefcba2a6db6edb1a21c1f7253221d06f8845d1f883",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.854285507Z"
+}

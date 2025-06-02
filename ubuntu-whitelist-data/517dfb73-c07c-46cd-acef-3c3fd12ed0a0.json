@@ -1,0 +1,17 @@
+{
+  "uuid": "517dfb73-c07c-46cd-acef-3c3fd12ed0a0",
+  "path": "/usr/lib/firmware/rsi/rs9113_wlan_bt_dual_mode.rps.zst",
+  "size": 171156,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.064534443Z",
+  "sha256_hash": "7fab385c703d8284cf370d8418124560d9f23c84b6604db96619e976224ea26b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.500822539Z"
+}

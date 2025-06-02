@@ -1,0 +1,17 @@
+{
+  "uuid": "9a565463-d25c-41c4-a03f-b08de27be3b7",
+  "path": "/lib/firmware/intel/sof-tplg/sof-adl-es8336-ssp1-hdmi-ssp02.tplg.zst",
+  "size": 1303,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.056491014Z",
+  "sha256_hash": "19e440dc5cf607741fa2f24777140f6d32545615ec838eeaa496c094f19c49ab",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.218371479Z"
+}

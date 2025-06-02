@@ -1,0 +1,15 @@
+{
+  "uuid": "23b82e2d-9d84-4ff1-9f65-51af308956ce",
+  "path": "/usr/libexec/language-selector/ls-dbus-backend",
+  "size": 4520,
+  "modified": "2024-04-19T01:27:07Z",
+  "created": "2025-05-09T05:07:38.040620572Z",
+  "sha256_hash": "6529af8eb222d8787195f31e50dc681deeea0e63b60854d44e8e233ca0ec811b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.505063832Z"
+}

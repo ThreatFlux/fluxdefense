@@ -1,0 +1,15 @@
+{
+  "uuid": "172b1273-4d5a-40fc-b3fa-57492c024a72",
+  "path": "/usr/sbin/aa-teardown",
+  "size": 137,
+  "modified": "2024-04-12T03:59:30Z",
+  "created": "2025-05-09T05:24:25.755938123Z",
+  "sha256_hash": "3f89c03e96c95380be939ba8f1ca5d56d6aabc68a92bef3829e63b92f8335921",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.678584115Z"
+}

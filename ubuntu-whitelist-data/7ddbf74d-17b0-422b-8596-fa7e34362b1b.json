@@ -1,0 +1,17 @@
+{
+  "uuid": "7ddbf74d-17b0-422b-8596-fa7e34362b1b",
+  "path": "/lib/firmware/radeon/BARTS_me.bin.zst",
+  "size": 2805,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.059534513Z",
+  "sha256_hash": "ac96949a62bbb10b75dfffaf66e38f84ea41b18f0f3f7070f988be6f601c5ba4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.397483754Z"
+}

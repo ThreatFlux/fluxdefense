@@ -1,0 +1,15 @@
+{
+  "uuid": "57706f2b-c632-4c2c-aba0-1109359560b9",
+  "path": "/usr/lib/x86_64-linux-gnu/libdecor/plugins-1/libdecor-gtk.so",
+  "size": 68168,
+  "modified": "2024-03-31T07:46:50Z",
+  "created": "2025-05-09T05:07:35.824654388Z",
+  "sha256_hash": "c1edcb85aa22f141fc584998189139feac47ab6cc959ffa3c79f355de101757f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:22.029573822Z"
+}

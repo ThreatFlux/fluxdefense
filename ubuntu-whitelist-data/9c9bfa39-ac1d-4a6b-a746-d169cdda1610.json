@@ -1,0 +1,15 @@
+{
+  "uuid": "9c9bfa39-ac1d-4a6b-a746-d169cdda1610",
+  "path": "/lib/python3/dist-packages/cloudinit/persistence.py",
+  "size": 2583,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.240037230Z",
+  "sha256_hash": "72d652dc9021cc811a81e150480ec711ee979c983fec90c49986f85d5a4521a2",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.882138688Z"
+}

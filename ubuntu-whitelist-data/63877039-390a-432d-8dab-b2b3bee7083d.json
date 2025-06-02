@@ -1,0 +1,15 @@
+{
+  "uuid": "63877039-390a-432d-8dab-b2b3bee7083d",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/libcaf_single.a",
+  "size": 62050,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:14.173357196Z",
+  "sha256_hash": "229d0df2c57c55cb116e9496d6b2b116616576891eadb1a6eccdf367c7881d98",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.946901770Z"
+}

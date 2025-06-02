@@ -1,0 +1,15 @@
+{
+  "uuid": "80a6d3c7-084e-477a-904a-6606781339c4",
+  "path": "/usr/bin/gcore",
+  "size": 3511,
+  "modified": "2024-04-03T10:51:19Z",
+  "created": "2025-05-09T05:07:19.244907388Z",
+  "sha256_hash": "0d774bb0e42a60d7e9e166028d795a180bf1ebb55b3040f6c3632d12337b88f3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.774753368Z"
+}

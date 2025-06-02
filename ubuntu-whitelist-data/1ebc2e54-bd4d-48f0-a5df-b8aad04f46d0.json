@@ -1,0 +1,15 @@
+{
+  "uuid": "1ebc2e54-bd4d-48f0-a5df-b8aad04f46d0",
+  "path": "/lib/x86_64-linux-gnu/traceevent/plugins/plugin_tlb.so",
+  "size": 13976,
+  "modified": "2024-04-03T11:46:23Z",
+  "created": "2025-05-09T05:07:37.305631788Z",
+  "sha256_hash": "620b0c98a7e001669de3b58dcdb8fe954b6b4fdc49544d072cf5a7d94aab7330",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.535307391Z"
+}

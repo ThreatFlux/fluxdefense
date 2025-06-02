@@ -1,0 +1,17 @@
+{
+  "uuid": "b7f93605-9e39-463a-b5e2-0378b52b6474",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-stbuut.adb",
+  "size": 3630,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.056345066Z",
+  "sha256_hash": "3d77f01078bbb928b56996e44177b1c292f58e545672d907d50fa12cebadbebb",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.126223415Z"
+}

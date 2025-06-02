@@ -1,0 +1,17 @@
+{
+  "uuid": "aa6d6e69-e63e-4d28-830e-d015e0738d84",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/openmp/UseDefaultNoneCheck.h",
+  "size": 1471,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "01bdd9cfec3e69fabb521978012fbabaca9530e7858a2638d328dda390a9a7e6",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.221640505Z"
+}

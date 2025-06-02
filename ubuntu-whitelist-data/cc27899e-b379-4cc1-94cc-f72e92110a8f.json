@@ -1,0 +1,17 @@
+{
+  "uuid": "cc27899e-b379-4cc1-94cc-f72e92110a8f",
+  "path": "/lib/x86_64-linux-gnu/ldscripts/elf_i386.xbn",
+  "size": 9123,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:52.047575395Z",
+  "sha256_hash": "dd946d2880a8f37b32fbaed2c047332387677bd37eabacb067ad8dafd2fcee9f",
+  "file_type": {
+    "Other": "xbn"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:18.242630259Z"
+}

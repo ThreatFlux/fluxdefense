@@ -1,0 +1,15 @@
+{
+  "uuid": "ce1a58cf-051e-49f6-83fe-c8c86383dcb0",
+  "path": "/usr/libexec/ibus-x11",
+  "size": 115904,
+  "modified": "2024-03-31T12:04:22Z",
+  "created": "2025-05-09T05:07:37.530628355Z",
+  "sha256_hash": "d1933713bf36bd518e654f4c09dd633a7367c1b93e0da3256b66fbb0c7c3a2b3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.501471Z"
+}

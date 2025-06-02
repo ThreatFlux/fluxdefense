@@ -1,0 +1,17 @@
+{
+  "uuid": "b1bab9dc-ea6d-4aeb-a7d6-ba012eed05c4",
+  "path": "/usr/lib/firmware/radeon/CAYMAN_pfp.bin.zst",
+  "size": 2329,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.059534513Z",
+  "sha256_hash": "737305f1e4fabbb8f3a8dab0f9bf7fc1ea20c727d83ef021772db5497ae78658",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.401906492Z"
+}

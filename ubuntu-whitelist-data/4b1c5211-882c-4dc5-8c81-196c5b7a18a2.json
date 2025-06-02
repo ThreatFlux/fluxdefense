@@ -1,0 +1,17 @@
+{
+  "uuid": "4b1c5211-882c-4dc5-8c81-196c5b7a18a2",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/llvm/PreferIsaOrDynCastInConditionalsCheck.h",
+  "size": 2277,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "3c5fc9e5d367f039ec8c5ddf58b6bcd4d4df7309d59c4706b62e138f46ebd44a",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.252983992Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "215ab561-6812-492b-91e5-208a57cedccd",
+  "path": "/lib/x86_64-linux-gnu/girepository-1.0/Polkit-1.0.typelib",
+  "size": 19708,
+  "modified": "2024-12-02T11:59:52Z",
+  "created": "2025-05-09T05:07:35.728655852Z",
+  "sha256_hash": "5bad83f910b5d9e3fb0a1b3acecf667dddf6608d23d4e34e0152964ddccf9fec",
+  "file_type": {
+    "Other": "typelib"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.141496102Z"
+}

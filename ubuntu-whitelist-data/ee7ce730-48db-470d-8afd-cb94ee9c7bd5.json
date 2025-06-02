@@ -1,0 +1,17 @@
+{
+  "uuid": "ee7ce730-48db-470d-8afd-cb94ee9c7bd5",
+  "path": "/usr/lib/python3.12/test/crashers/__pycache__/infinite_loop_re.cpython-312.pyc",
+  "size": 616,
+  "modified": "2025-05-28T17:29:53.299482079Z",
+  "created": "2025-05-28T17:29:53.299482079Z",
+  "sha256_hash": "32d76921d5645ff153a906f158bd1d09195b455cfea80b621118449a02cdb6a1",
+  "file_type": {
+    "Other": "pyc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.811431348Z"
+}

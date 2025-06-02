@@ -1,0 +1,15 @@
+{
+  "uuid": "45c88331-6cb4-4f65-8a88-01eb9e11b257",
+  "path": "/lib/python3/dist-packages/DistUpgrade/apt_btrfs_snapshot.py",
+  "size": 9915,
+  "modified": "2025-01-31T17:08:34Z",
+  "created": "2025-05-09T05:07:26.393798300Z",
+  "sha256_hash": "4db7aaf3fd6ea758675090e4e9131f316822ba1cce676311b707cf603d291eaa",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.082939111Z"
+}

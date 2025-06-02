@@ -1,0 +1,17 @@
+{
+  "uuid": "7ea5c9c1-30e1-491c-a811-e975f8921a57",
+  "path": "/usr/lib/firmware/isci/isci_firmware.bin.zst",
+  "size": 73,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.579541161Z",
+  "sha256_hash": "9a69f2ebea4174acd0bed975d91c0548b33d68c8565b3abd8db585b75380bd0e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.095628045Z"
+}

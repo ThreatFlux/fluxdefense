@@ -1,0 +1,15 @@
+{
+  "uuid": "1e1f9a7b-c515-4942-8d21-670355bb9862",
+  "path": "/bin/linux-boot-prober",
+  "size": 1577,
+  "modified": "2023-03-07T13:24:16Z",
+  "created": "2025-05-09T05:07:20.102894296Z",
+  "sha256_hash": "3e83b944c7f6099fe7dc6ae5b0bac2e8193c695b4ef8d2121b7f44bb71c68da0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.370986682Z"
+}

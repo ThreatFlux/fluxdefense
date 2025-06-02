@@ -1,0 +1,17 @@
+{
+  "uuid": "02598253-7ebe-4e48-8041-321c75e75562",
+  "path": "/lib/x86_64-linux-gnu/libfontconfig.so.1.12.1",
+  "size": 325712,
+  "modified": "2024-03-31T00:59:34Z",
+  "created": "2025-05-09T05:07:29.463751454Z",
+  "sha256_hash": "a94b4059b27766f563894c8f7e61762b6f6b2e25c59ef36b730164d4b75c6c98",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.626016007Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "51c96799-de18-4ec2-81c7-91e51cbde4b0",
+  "path": "/lib/x86_64-linux-gnu/libpixman-1.so.0.42.2",
+  "size": 710832,
+  "modified": "2024-04-08T16:15:36Z",
+  "created": "2025-05-09T05:07:31.848715060Z",
+  "sha256_hash": "73aa0daeedb7228754d798b194e2ff69c8b82a689b9aa4f1d8ab32a8763b0cc5",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.091927815Z"
+}

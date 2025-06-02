@@ -1,0 +1,17 @@
+{
+  "uuid": "0b45b582-da0e-4776-ab0f-cb43bb183df8",
+  "path": "/usr/lib/systemd/user/gvfs-goa-volume-monitor.service",
+  "size": 235,
+  "modified": "2024-04-18T13:39:03Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "2ddd9ce05d96ce57e5f45488143c9c9278126edf581ce7443df680aba972d247",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.493441614Z"
+}

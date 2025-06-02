@@ -1,0 +1,15 @@
+{
+  "uuid": "44d21cbc-cce2-4910-97e7-1a58c266cbff",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstcamerabin.so",
+  "size": 92816,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.771655196Z",
+  "sha256_hash": "9bd164cebd806174361dcca4228fd6bdcbf8be1dfca9757e6529199894eca51a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.072245867Z"
+}

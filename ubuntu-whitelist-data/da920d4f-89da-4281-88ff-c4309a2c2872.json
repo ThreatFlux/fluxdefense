@@ -1,0 +1,17 @@
+{
+  "uuid": "da920d4f-89da-4281-88ff-c4309a2c2872",
+  "path": "/usr/lib/x86_64-linux-gnu/libcanberra-gtk3.so.0.1.9",
+  "size": 22520,
+  "modified": "2024-04-07T07:16:08Z",
+  "created": "2025-05-09T05:07:29.208755345Z",
+  "sha256_hash": "45abeb72de19d65e92f207b09265dcf3d2035fdac1901383f23ac7d4d88840a6",
+  "file_type": {
+    "Other": "9"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.599865011Z"
+}

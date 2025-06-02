@@ -1,0 +1,15 @@
+{
+  "uuid": "c44d0c58-a7b6-42c1-bb3b-bfef96faf819",
+  "path": "/lib/python3/dist-packages/apport/packaging_impl/rpm.py",
+  "size": 11447,
+  "modified": "2024-04-18T12:31:35Z",
+  "created": "2025-05-30T21:04:51.640610632Z",
+  "sha256_hash": "cd786fb4cd48fb8fbeb113a5b7da763395e6463f1e24cebaf81909250782f9d5",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.064932625Z"
+}

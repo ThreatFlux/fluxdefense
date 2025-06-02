@@ -1,0 +1,17 @@
+{
+  "uuid": "f7917b73-0665-4aad-a359-839fda099c31",
+  "path": "/lib/firmware/nvidia/gk20a/gpccs_inst.bin.zst",
+  "size": 4267,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.936536216Z",
+  "sha256_hash": "b2966bab5f9fc12c200eb7a19303961c7915c94162457532aa5d33c2cc3a8ed8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.425231175Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "16b87247-b66e-4284-b18e-4c4735787ed5",
+  "path": "/lib/python3.12/test/xmltestdata/simple.xml",
+  "size": 122,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.054550948Z",
+  "sha256_hash": "24b3c8e971a76d61cbf6a1bc9f9806c2b8e651a3aae2978c21a5654e98a3ff33",
+  "file_type": {
+    "Other": "xml"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.282257555Z"
+}

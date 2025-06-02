@@ -1,0 +1,17 @@
+{
+  "uuid": "c566ff12-6894-4c57-bb48-7593e08a645b",
+  "path": "/lib/byobu/time_utc",
+  "size": 960,
+  "modified": "2024-02-10T17:03:36Z",
+  "created": "2025-05-23T03:43:49.242694138Z",
+  "sha256_hash": "260cc3379146abe8b3f9cae40f83a75cf5e8371e3fa5d5d9d2bf01c0faacba67",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.413035243Z"
+}

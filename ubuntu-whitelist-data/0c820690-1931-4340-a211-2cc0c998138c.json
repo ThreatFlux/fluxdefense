@@ -1,0 +1,15 @@
+{
+  "uuid": "0c820690-1931-4340-a211-2cc0c998138c",
+  "path": "/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-rt.so",
+  "size": 35088,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.784860128Z",
+  "sha256_hash": "7e078a8975f35fcf94cdc094f00c2343263b8b3c472a7a81ecb502cd001de1c6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.888219896Z"
+}

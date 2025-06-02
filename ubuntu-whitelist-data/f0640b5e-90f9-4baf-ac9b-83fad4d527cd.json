@@ -1,0 +1,17 @@
+{
+  "uuid": "f0640b5e-90f9-4baf-ac9b-83fad4d527cd",
+  "path": "/lib/firmware/radeon/oland_rlc.bin.zst",
+  "size": 1985,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.063534457Z",
+  "sha256_hash": "1f0724df760a624bc342fa4c6ab7985b2873930c8298a03d060b4c745f1e1c2b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.390084360Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "201e3286-b037-4426-887d-8c3eb5c69afa",
+  "path": "/usr/lib/x86_64-linux-gnu/rsyslog/lmregexp.so",
+  "size": 14632,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.546922251Z",
+  "sha256_hash": "5cdafa2c336befc6cce7c6f8ecaa81868d755194ee3a6af90ebe0370ab516edf",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.178490768Z"
+}

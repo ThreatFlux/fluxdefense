@@ -1,0 +1,15 @@
+{
+  "uuid": "9c1eca67-d2e0-4638-8f1a-36249a8a854a",
+  "path": "/usr/lib/google-cloud-sdk/platform/gsutil/gslib/iamcredentials_api.py",
+  "size": 12006,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.849929950Z",
+  "sha256_hash": "8f66203627d32257f527616a72ab77e22bb9f79740bb47fae7e14b8bf857f0b5",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.570869277Z"
+}

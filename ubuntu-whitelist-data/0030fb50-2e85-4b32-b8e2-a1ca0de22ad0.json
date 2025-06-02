@@ -1,0 +1,17 @@
+{
+  "uuid": "0030fb50-2e85-4b32-b8e2-a1ca0de22ad0",
+  "path": "/lib/llvm-18/lib/libclang-cpp.so.18.1",
+  "size": 64796088,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-09T05:08:50.650512472Z",
+  "sha256_hash": "b9592746f7f8ff1156680fb1fad5faf5486df7a67aca8327cc959463416c6718",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:43.349447634Z"
+}

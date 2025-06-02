@@ -1,0 +1,17 @@
+{
+  "uuid": "dc5fd34a-480c-4593-b84b-dbbb0bd60aeb",
+  "path": "/usr/lib/grub/x86_64-efi/signature_test.mod",
+  "size": 8384,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "6b4ad965202086c5d2341db5d1475f0e8bb4eedc08c789794aa3f519abe57f83",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.479260588Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "0356ec1f-d19a-4a95-8b06-ea9d3d02292d",
+  "path": "/lib/firmware/intel/sof-ipc4-tplg/sof-tgl-cs42l43-l3-cs35l56-l01.tplg.zst",
+  "size": 2086,
+  "modified": "2025-01-06T07:09:53Z",
+  "created": "2025-05-09T05:08:52.056491014Z",
+  "sha256_hash": "6f8764b264014d10c2c8a7866bbd2033956976f6c0b6c5523f576e65b8be0bab",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.065709794Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "968b2355-83fe-427e-9be3-e0859f8ebacf",
+  "path": "/lib/firmware/qcom/a330_pfp.fw.zst",
+  "size": 750,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.969535759Z",
+  "sha256_hash": "c4885db90b4201d7d11cb43de7936bef02db609b2b77322ac92c4e282dadbb58",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.571894280Z"
+}

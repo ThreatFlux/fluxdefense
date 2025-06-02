@@ -1,0 +1,17 @@
+{
+  "uuid": "972fce04-3fd6-429c-9ed1-490c0ffcd2f7",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/a-wtdeio.adb",
+  "size": 6800,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.062344984Z",
+  "sha256_hash": "59ed4013974a499812283c052f1653be0b5f641db4d2c335bf5d3d84689d1fa4",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.058660148Z"
+}

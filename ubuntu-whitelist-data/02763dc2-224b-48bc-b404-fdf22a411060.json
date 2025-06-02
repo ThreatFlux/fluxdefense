@@ -1,0 +1,17 @@
+{
+  "uuid": "02763dc2-224b-48bc-b404-fdf22a411060",
+  "path": "/lib/llvm-18/include/clang/Basic/BuiltinsAArch64NeonSVEBridge.def",
+  "size": 2590,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.525533634Z",
+  "sha256_hash": "825e3099dccd75479119e44c1e03c71db65e3a7221ee40a0ad00a4b17ac1da33",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.170299104Z"
+}

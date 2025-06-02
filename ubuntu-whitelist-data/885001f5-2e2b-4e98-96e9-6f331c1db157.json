@@ -1,0 +1,17 @@
+{
+  "uuid": "885001f5-2e2b-4e98-96e9-6f331c1db157",
+  "path": "/lib/firmware/amdgpu/gc_11_0_1_imu.bin.zst",
+  "size": 16384,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.395543709Z",
+  "sha256_hash": "6d39dbc5950c406741d072b8c9b1caa67fc2aa353564bab03bca799a84869791",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.099332320Z"
+}

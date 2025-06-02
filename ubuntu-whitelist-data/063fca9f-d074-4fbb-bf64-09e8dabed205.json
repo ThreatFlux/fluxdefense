@@ -1,0 +1,15 @@
+{
+  "uuid": "063fca9f-d074-4fbb-bf64-09e8dabed205",
+  "path": "/bin/wireplumber",
+  "size": 23000,
+  "modified": "2024-03-31T08:33:26Z",
+  "created": "2025-05-09T05:07:20.885882348Z",
+  "sha256_hash": "f4923b1f95714d0973d62865209df1ff9a50847ac64a9ec9121a9d93d778033d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.891476378Z"
+}

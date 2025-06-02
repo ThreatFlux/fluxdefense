@@ -1,0 +1,17 @@
+{
+  "uuid": "6c359bc6-1ddf-41f0-8934-12e3664752ce",
+  "path": "/lib/x86_64-linux-gnu/evince/4/backends/tiffdocument.evince-backend",
+  "size": 3266,
+  "modified": "2024-10-15T07:35:01Z",
+  "created": "2025-05-09T05:07:35.589657974Z",
+  "sha256_hash": "2e9b07ee9f104e7ee7218cfc199429c892be176d1fec999fcbe539b032b4509b",
+  "file_type": {
+    "Other": "evince-backend"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.710501166Z"
+}

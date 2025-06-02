@@ -1,0 +1,15 @@
+{
+  "uuid": "6750bdc0-d322-4c16-885a-06a980f252d1",
+  "path": "/usr/libexec/upowerd",
+  "size": 145856,
+  "modified": "2024-04-08T07:42:45Z",
+  "created": "2025-05-09T05:07:37.565627820Z",
+  "sha256_hash": "05d6f18b931d22b3bf91c410b66134bed0186532857eb30c92eb13dc6f5dc20e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.537896743Z"
+}

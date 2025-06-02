@@ -1,0 +1,17 @@
+{
+  "uuid": "2b07c2b5-1b44-48d5-96e7-4f5b7e74b041",
+  "path": "/lib/x86_64-linux-gnu/libsigc-3.0.so.0.0.0",
+  "size": 43176,
+  "modified": "2024-04-17T23:53:17Z",
+  "created": "2025-05-09T05:07:32.160710299Z",
+  "sha256_hash": "ea791132fad656fecf99fa756d96f72679d7e15afec69c3267a605fd9eede021",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.454173085Z"
+}

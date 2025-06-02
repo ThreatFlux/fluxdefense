@@ -1,0 +1,15 @@
+{
+  "uuid": "3d9ff42e-528f-4248-b280-83945166fb24",
+  "path": "/usr/bin/ldd",
+  "size": 5382,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:20.096894388Z",
+  "sha256_hash": "4fd4bf793910e98f163b50befb4d9429441372b16df4523a9f3192d870c200be",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.453469189Z"
+}

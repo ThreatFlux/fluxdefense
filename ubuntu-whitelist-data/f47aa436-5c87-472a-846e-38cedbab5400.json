@@ -1,0 +1,17 @@
+{
+  "uuid": "f47aa436-5c87-472a-846e-38cedbab5400",
+  "path": "/lib/firmware/amd/amd_sev_fam17h_model0xh.sbin",
+  "size": 33728,
+  "modified": "2023-10-21T18:01:08Z",
+  "created": "2025-05-09T05:08:55.077444908Z",
+  "sha256_hash": "d7278e031e830a71d9d884c2a8ce007ab4ec4e3fe4c75c819d31d27ea53fdf67",
+  "file_type": {
+    "Other": "sbin"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.596938187Z"
+}

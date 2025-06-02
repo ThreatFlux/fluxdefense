@@ -1,0 +1,15 @@
+{
+  "uuid": "237691ad-0d60-4fd3-9043-15f3dd630144",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstisomp4.so",
+  "size": 598368,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.773655166Z",
+  "sha256_hash": "e40a1b212b67cefa62745ddfad7b6c20e0e2686befa747d7be764865d6edb695",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.104803567Z"
+}

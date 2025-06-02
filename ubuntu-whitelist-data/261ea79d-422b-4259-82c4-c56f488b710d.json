@@ -1,0 +1,15 @@
+{
+  "uuid": "261ea79d-422b-4259-82c4-c56f488b710d",
+  "path": "/lib/python3/dist-packages/nacl/_sodium.abi3.so",
+  "size": 155824,
+  "modified": "2025-02-15T08:51:42Z",
+  "created": "2025-05-09T05:07:27.014788824Z",
+  "sha256_hash": "1a3ed67e94068d77751cc01a5bd0a81225870d35afe3a661e8969628231b5dd7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.294193839Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "7175bfda-9f6d-4f54-9af1-376243b6a1ac",
+  "path": "/lib/x86_64-linux-gnu/libheif.so.1.17.6",
+  "size": 784960,
+  "modified": "2024-10-21T10:48:55Z",
+  "created": "2025-05-09T05:07:30.178740543Z",
+  "sha256_hash": "9b437476f95e2e45ac266947808aefbf40f445902aeeca9995df7513a4d126c9",
+  "file_type": {
+    "Other": "6"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.497574146Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "215fc5f6-6ea0-477a-9dd3-a0fcd58c61a8",
+  "path": "/lib/google-cloud-sdk/lib/googlecloudsdk/core/config.json",
+  "size": 452,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.605934096Z",
+  "sha256_hash": "760fdfb7363b60ce8456f2e31e1f4c1db806c413e088f276bc7c252e5bdd1823",
+  "file_type": {
+    "Other": "json"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.856145551Z"
+}

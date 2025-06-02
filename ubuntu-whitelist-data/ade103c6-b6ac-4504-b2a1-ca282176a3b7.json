@@ -1,0 +1,17 @@
+{
+  "uuid": "ade103c6-b6ac-4504-b2a1-ca282176a3b7",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/bits/pthreadtypes-arch.ph",
+  "size": 2269,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.557590732Z",
+  "sha256_hash": "aad898b27ca52d01c0bd8d443a135cd6dd6eb1251c035f8a218a5efc8f6255e9",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.590631288Z"
+}

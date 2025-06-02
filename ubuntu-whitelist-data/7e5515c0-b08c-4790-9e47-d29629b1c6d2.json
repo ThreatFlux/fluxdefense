@@ -1,0 +1,17 @@
+{
+  "uuid": "7e5515c0-b08c-4790-9e47-d29629b1c6d2",
+  "path": "/usr/lib/systemd/system/containerd.service",
+  "size": 1421,
+  "modified": "2025-03-31T12:35:03Z",
+  "created": "2025-05-09T05:49:09.666890658Z",
+  "sha256_hash": "4bd69dff64d047d29a53958ff475e07b42105e6796c7497bba87e9f4a4d091a6",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.479026523Z"
+}

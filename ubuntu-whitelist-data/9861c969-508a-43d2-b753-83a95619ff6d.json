@@ -1,0 +1,17 @@
+{
+  "uuid": "9861c969-508a-43d2-b753-83a95619ff6d",
+  "path": "/lib/x86_64-linux-gnu/libcjson.so.1.7.17",
+  "size": 35000,
+  "modified": "2023-12-28T20:17:13Z",
+  "created": "2025-05-09T05:09:22.502026345Z",
+  "sha256_hash": "31e0b2f4647bc62ec2f64cd61607b7c7fdf988c94a7c496f473e1d5afa76ad32",
+  "file_type": {
+    "Other": "17"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:12.702222413Z"
+}

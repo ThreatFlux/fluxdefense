@@ -1,0 +1,17 @@
+{
+  "uuid": "37e74927-dff7-49be-a1f1-30267bb9aeee",
+  "path": "/lib/cups/filter/pdftops",
+  "size": 14664,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.357875146Z",
+  "sha256_hash": "da6bc6e0c9446ab0aa88fd39b2135836ede7d720b4bbb4e0b5d7bab866696eb0",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.635447931Z"
+}

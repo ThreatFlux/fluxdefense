@@ -1,0 +1,15 @@
+{
+  "uuid": "0ec50c23-c171-4dd6-a0e1-653e830a01a9",
+  "path": "/usr/lib/llvm-18/bin/llvm-strings",
+  "size": 31424,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.071486938Z",
+  "sha256_hash": "1c1f4bfe81d64364848194d02fb4faabcd19af17b12ac82487eed16b7f7b371b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:27.069728891Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "eeba4c0f-21a7-46b7-aa63-a3a3b3dff393",
+  "path": "/lib/firmware/nvidia/ga102/gr/gpccs_bl.bin.zst",
+  "size": 289,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.902536687Z",
+  "sha256_hash": "7390f0735ab4ef38464d85af9ed76db1eafac033514520e6104cd6f0acfdf225",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.134950241Z"
+}

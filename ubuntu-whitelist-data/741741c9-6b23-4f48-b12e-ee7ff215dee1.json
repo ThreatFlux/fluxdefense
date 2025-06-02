@@ -1,0 +1,15 @@
+{
+  "uuid": "741741c9-6b23-4f48-b12e-ee7ff215dee1",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/HP-TURKISH8.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.624657440Z",
+  "sha256_hash": "77d3924286c022971d24d3e5f62632ee0e4b463db816922dd487f340cd2c58cf",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.499307881Z"
+}

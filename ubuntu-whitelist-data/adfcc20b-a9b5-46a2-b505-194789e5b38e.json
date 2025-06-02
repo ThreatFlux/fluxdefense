@@ -1,0 +1,17 @@
+{
+  "uuid": "adfcc20b-a9b5-46a2-b505-194789e5b38e",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/libmagic.pc",
+  "size": 259,
+  "modified": "2024-03-31T07:35:22Z",
+  "created": "2025-05-28T13:49:50.600515079Z",
+  "sha256_hash": "e65716ed1bebe3e32410820be4e3d52238906627f46fae026692eadcd8889d49",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.101328075Z"
+}

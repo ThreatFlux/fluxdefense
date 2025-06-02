@@ -1,0 +1,15 @@
+{
+  "uuid": "45913c37-6fd8-4c3f-99a3-8b6ef5101ebf",
+  "path": "/lib/x86_64-linux-gnu/libcanberra-0.30/libcanberra-alsa.so",
+  "size": 22680,
+  "modified": "2024-04-07T07:16:08Z",
+  "created": "2025-05-09T05:07:35.822654418Z",
+  "sha256_hash": "1a576e22d4595192054e97f934a4b9590316411ef5091b09f09b76c4c6495719",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.005717824Z"
+}

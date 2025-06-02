@@ -1,0 +1,15 @@
+{
+  "uuid": "efa2b017-b047-4511-b1d1-1e67bffcc848",
+  "path": "/usr/bin/seq",
+  "size": 51720,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:20.434889230Z",
+  "sha256_hash": "8bebfe3b1aaa672679bb40c173b7d101fc690a65462ab349e622a2b198bc6e73",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:08.010328111Z"
+}

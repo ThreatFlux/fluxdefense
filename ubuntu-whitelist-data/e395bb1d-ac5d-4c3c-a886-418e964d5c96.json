@@ -1,0 +1,17 @@
+{
+  "uuid": "e395bb1d-ac5d-4c3c-a886-418e964d5c96",
+  "path": "/usr/lib/firmware/qcom/qcm2290/a702_zap.mbn.zst",
+  "size": 3380,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.988535496Z",
+  "sha256_hash": "32a854e46e5e7c9dc85616cdf39f04cfee5238e947e9d0d601a8586ed8d8b1e3",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.110729472Z"
+}

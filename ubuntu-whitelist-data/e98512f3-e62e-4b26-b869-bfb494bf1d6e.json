@@ -1,0 +1,17 @@
+{
+  "uuid": "e98512f3-e62e-4b26-b869-bfb494bf1d6e",
+  "path": "/lib/modules/6.11.0-25-generic/kernel/lib/crc8.ko.zst",
+  "size": 2319,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.134459300Z",
+  "sha256_hash": "ada01e1cfa07f8c9bec2c4f90cb845a4186f8ccde68e6e81c0238f46e46ff2f4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.639697548Z"
+}

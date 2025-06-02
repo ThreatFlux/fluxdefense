@@ -1,0 +1,17 @@
+{
+  "uuid": "e433cd05-6065-4c5e-aac7-483274fd82a1",
+  "path": "/lib/firmware/nvidia/tu116/gr/gpccs_inst.bin.zst",
+  "size": 6219,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.960535884Z",
+  "sha256_hash": "c89892e48940cce107aafeb673955f4daaaca4a7214a747b919908fb0e31568d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.430154359Z"
+}

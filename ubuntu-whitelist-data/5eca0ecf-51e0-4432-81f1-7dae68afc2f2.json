@@ -1,0 +1,17 @@
+{
+  "uuid": "5eca0ecf-51e0-4432-81f1-7dae68afc2f2",
+  "path": "/usr/lib/firmware/rtl_bt/rtl8821a_fw.bin.zst",
+  "size": 19235,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.066534416Z",
+  "sha256_hash": "2ce0322d9d7f3e8191ecdc59c0f0c8567be312d4396d7200c220e3bb431e6b1b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.542037327Z"
+}

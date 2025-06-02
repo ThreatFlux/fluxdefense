@@ -1,0 +1,17 @@
+{
+  "uuid": "517942ff-0451-45ec-b534-5d67d0d00c79",
+  "path": "/lib/x86_64-linux-gnu/libblkid.so.1.1.0",
+  "size": 236592,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:29.183755726Z",
+  "sha256_hash": "756bd8a473aec2017ac12247bcfeb10fff5b06764c1de3dc834bad26a0823d67",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.301184340Z"
+}

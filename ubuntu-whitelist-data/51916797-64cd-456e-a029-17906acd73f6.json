@@ -1,0 +1,17 @@
+{
+  "uuid": "51916797-64cd-456e-a029-17906acd73f6",
+  "path": "/usr/lib/systemd/user/pipewire-pulse.service",
+  "size": 1227,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:18.216839817Z",
+  "sha256_hash": "ca83270e11979c35e025dee7b450c6c1f9b94ad552bea51666cd6ad6f453e1e8",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.502250107Z"
+}

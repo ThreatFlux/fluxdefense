@@ -1,0 +1,17 @@
+{
+  "uuid": "05848ef3-2b32-4d90-bfbc-ac5d78d1e5c7",
+  "path": "/lib/grub/x86_64-efi/pgp.mod",
+  "size": 19560,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.838708002Z",
+  "sha256_hash": "d9cf43d9b595380f8759428727e790ab2c06bef7e709baf141039e509f6773a9",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.047241175Z"
+}

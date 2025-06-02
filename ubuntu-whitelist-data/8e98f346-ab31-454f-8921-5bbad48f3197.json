@@ -1,0 +1,17 @@
+{
+  "uuid": "8e98f346-ab31-454f-8921-5bbad48f3197",
+  "path": "/usr/lib/firmware/nvidia/gv100/acr/ucode_load.bin.zst",
+  "size": 8083,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.941536147Z",
+  "sha256_hash": "c0832c22d280c8a7a90d9852dc61b64dc4fe80936b2a9fa8ecce0e3e18ae32a2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.263719525Z"
+}

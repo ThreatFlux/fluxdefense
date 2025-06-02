@@ -1,0 +1,15 @@
+{
+  "uuid": "cdb6d105-5a0b-466c-90fd-48d63e4b4da3",
+  "path": "/lib/x86_64-linux-gnu/traceevent/plugins/plugin_scsi.so",
+  "size": 13800,
+  "modified": "2024-04-03T11:46:23Z",
+  "created": "2025-05-09T05:07:37.305631788Z",
+  "sha256_hash": "95b740be2139e5f584a6caff7cde07439abfcd575018520fed805421137fa92f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.535943868Z"
+}

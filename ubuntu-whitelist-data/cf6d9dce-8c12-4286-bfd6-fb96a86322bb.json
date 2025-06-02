@@ -1,0 +1,17 @@
+{
+  "uuid": "cf6d9dce-8c12-4286-bfd6-fb96a86322bb",
+  "path": "/lib/firmware/edgeport/down.fw.zst",
+  "size": 6885,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.529541854Z",
+  "sha256_hash": "1b62d7e4f8966e4ba875c1bed45254ccde06796b010deb3d57ed113219fbeda9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.695751054Z"
+}

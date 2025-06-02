@@ -1,0 +1,17 @@
+{
+  "uuid": "d3cc2384-e583-45f4-ab64-b9558f4ee6ee",
+  "path": "/lib/firmware/usbdux_firmware.bin.zst",
+  "size": 883,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.081534208Z",
+  "sha256_hash": "014e5fdf626e81b0aedb65e4fc7191bfa05178003ad9be1c311d5b179ea59a89",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:01.746531153Z"
+}

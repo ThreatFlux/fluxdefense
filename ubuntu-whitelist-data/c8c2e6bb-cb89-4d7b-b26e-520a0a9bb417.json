@@ -1,0 +1,17 @@
+{
+  "uuid": "c8c2e6bb-cb89-4d7b-b26e-520a0a9bb417",
+  "path": "/lib/firmware/ea/indigo_djx_dsp.fw.zst",
+  "size": 5572,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.529541854Z",
+  "sha256_hash": "0f519c8692dfa64d487bd5e9a292f55d458549306a9d00f777b5581dee9123ef",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.609670780Z"
+}

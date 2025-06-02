@@ -1,0 +1,15 @@
+{
+  "uuid": "6732e1c3-763f-48f3-a1cb-85114e400f3c",
+  "path": "/lib/x86_64-linux-gnu/samba/ldb/mdb.so",
+  "size": 14560,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.126634519Z",
+  "sha256_hash": "0724e3706b4d5d703c45c65c3cdd8485ed4f6f87dab9153951e096ea074c7720",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.482034050Z"
+}

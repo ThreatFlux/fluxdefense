@@ -1,0 +1,17 @@
+{
+  "uuid": "a437aaaf-30d2-40fd-962b-e89ec481d0e1",
+  "path": "/usr/lib/unity-settings-daemon-1.0/gtk-modules/at-spi2-atk.desktop",
+  "size": 213,
+  "modified": "2024-03-16T14:43:23Z",
+  "created": "2025-05-09T05:07:28.439767079Z",
+  "sha256_hash": "7865c78ad2c6116b8ac43abe8df30738d87c3a1917e94af52c68afcb0ae23bcc",
+  "file_type": {
+    "Other": "desktop"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.571014470Z"
+}

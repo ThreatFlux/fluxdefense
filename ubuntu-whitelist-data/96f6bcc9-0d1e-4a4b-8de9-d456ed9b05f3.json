@@ -1,0 +1,17 @@
+{
+  "uuid": "96f6bcc9-0d1e-4a4b-8de9-d456ed9b05f3",
+  "path": "/lib/x86_64-linux-gnu/libseccomp.so.2.5.5",
+  "size": 125360,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T05:07:32.149710467Z",
+  "sha256_hash": "b4d9140a7797ccf3ac14f5d9d579b64f157111662940cb8330c632b11a8cea8e",
+  "file_type": {
+    "Other": "5"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.186734182Z"
+}

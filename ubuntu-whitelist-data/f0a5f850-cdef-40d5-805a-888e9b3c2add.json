@@ -1,0 +1,17 @@
+{
+  "uuid": "f0a5f850-cdef-40d5-805a-888e9b3c2add",
+  "path": "/lib/firmware/ueagle-atm/DSPep.bin.zst",
+  "size": 152842,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.081534208Z",
+  "sha256_hash": "65c6f2d9acb2e06526d2bdbeb15bd8dce64ef085f9aba9236b3683901273a7a1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.339852346Z"
+}

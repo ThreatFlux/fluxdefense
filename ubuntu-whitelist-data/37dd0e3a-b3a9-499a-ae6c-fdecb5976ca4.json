@@ -1,0 +1,17 @@
+{
+  "uuid": "37dd0e3a-b3a9-499a-ae6c-fdecb5976ca4",
+  "path": "/lib/systemd/system/nvidia-hibernate.service",
+  "size": 270,
+  "modified": "2024-12-30T17:02:36Z",
+  "created": "2025-05-09T12:56:03.410986394Z",
+  "sha256_hash": "5e5c6f241d63af12633c9c3e1a84241c09f5873b8c28885bda184cfb418bf0ad",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.120155360Z"
+}

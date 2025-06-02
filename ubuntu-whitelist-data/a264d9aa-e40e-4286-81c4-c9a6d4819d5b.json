@@ -1,0 +1,15 @@
+{
+  "uuid": "a264d9aa-e40e-4286-81c4-c9a6d4819d5b",
+  "path": "/usr/lib/llvm-18/lib/libLLVMPowerPCDisassembler.a",
+  "size": 118426,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.979461809Z",
+  "sha256_hash": "7723920cf9a7d705b8bfa2d7d627997d3f12da7519d5378e524d660546ace02a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:32.953409111Z"
+}

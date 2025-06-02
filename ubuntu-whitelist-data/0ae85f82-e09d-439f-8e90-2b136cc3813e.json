@@ -1,0 +1,15 @@
+{
+  "uuid": "0ae85f82-e09d-439f-8e90-2b136cc3813e",
+  "path": "/usr/bin/plymouth",
+  "size": 47408,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:27.490960972Z",
+  "sha256_hash": "52ff013967f79c08a0ed4012ca5e9239551267e840a1981ea11cb15b4810b0fd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.064865906Z"
+}

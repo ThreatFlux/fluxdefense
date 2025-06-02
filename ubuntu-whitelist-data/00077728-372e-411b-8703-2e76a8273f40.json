@@ -1,0 +1,17 @@
+{
+  "uuid": "00077728-372e-411b-8703-2e76a8273f40",
+  "path": "/usr/lib/udev/rules.d/66-snapd-autoimport.rules",
+  "size": 190,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.385025837Z",
+  "sha256_hash": "687974a1b7e36d55cc497010cb0ec011a1ef03ddbf5d8ce825422bb84b89a2e8",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.106030899Z"
+}

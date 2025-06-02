@@ -1,0 +1,15 @@
+{
+  "uuid": "be36e428-7153-4786-92cf-6c6fc73ef826",
+  "path": "/usr/lib/x86_64-linux-gnu/security/pam_rootok.so",
+  "size": 14488,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:37.202633360Z",
+  "sha256_hash": "fe795906e822ed92a5da49c5987c2b8e19d08dc202235ee01a18cbf3d61f0841",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.667421880Z"
+}

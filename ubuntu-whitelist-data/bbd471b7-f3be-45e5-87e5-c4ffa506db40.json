@@ -1,0 +1,17 @@
+{
+  "uuid": "bbd471b7-f3be-45e5-87e5-c4ffa506db40",
+  "path": "/lib/tmpfiles.d/dbus.conf",
+  "size": 545,
+  "modified": "2024-08-09T02:33:22Z",
+  "created": "2025-05-09T05:07:28.308769079Z",
+  "sha256_hash": "00b9fc61f02af15a19929e5c72d7f7ad4c4252a0fbc45117838ffd01f10e6276",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.760065123Z"
+}

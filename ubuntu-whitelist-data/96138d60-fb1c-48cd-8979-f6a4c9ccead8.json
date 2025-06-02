@@ -1,0 +1,17 @@
+{
+  "uuid": "96138d60-fb1c-48cd-8979-f6a4c9ccead8",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/readability/RedundantSmartptrGetCheck.h",
+  "size": 1679,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "7fba15d7c38a94f824b6a3dc5e322faf9e0c776b6ffe3cfdc767e133d197acfc",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.291267897Z"
+}

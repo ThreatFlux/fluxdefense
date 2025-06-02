@@ -1,0 +1,17 @@
+{
+  "uuid": "a36567ee-e14b-4298-87b7-6365bc876a62",
+  "path": "/usr/lib/x86_64-linux-gnu/libadwaita-1.so.0",
+  "size": 2341312,
+  "modified": "2024-03-31T01:39:13Z",
+  "created": "2025-05-09T05:07:29.064757542Z",
+  "sha256_hash": "43d43de8583a38432526dd44a6f5355dfdee2cfe1b63ae73a5ea83eb96b5ae95",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.800747076Z"
+}

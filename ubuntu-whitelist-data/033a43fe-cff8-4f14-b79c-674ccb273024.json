@@ -1,0 +1,17 @@
+{
+  "uuid": "033a43fe-cff8-4f14-b79c-674ccb273024",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-cml-rt700-4ch.tplg.zst",
+  "size": 1919,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.058490984Z",
+  "sha256_hash": "a9872b158f04672a581cb1987c31ac4339e1e35e5993d0f926e8be521b5eaf08",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.851768926Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "bcf0956d-a788-4c0f-91ac-da705acd90ef",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/bits/sigthread.ph",
+  "size": 385,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.558590717Z",
+  "sha256_hash": "4a7ae4b30070399f44d699a0c979d738a8d70c1a512758dd93f60a8a9d142f70",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.683588047Z"
+}

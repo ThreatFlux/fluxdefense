@@ -1,0 +1,17 @@
+{
+  "uuid": "f1c5215a-a7ac-40d3-99d1-81a0a8eeb18f",
+  "path": "/usr/lib/modules/6.11.0-25-generic/kernel/crypto/ecrdsa_generic.ko.zst",
+  "size": 5874,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.099459834Z",
+  "sha256_hash": "b28457ce5a74898263a1f07843cde2906c3e6a662830b244524a3f2f91886a2c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.034883398Z"
+}

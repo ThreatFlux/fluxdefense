@@ -1,0 +1,17 @@
+{
+  "uuid": "cebec051-b08c-4d64-b821-cad0ad6afa75",
+  "path": "/usr/lib/firmware/amdgpu/stoney_pfp.bin.zst",
+  "size": 6945,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.417543405Z",
+  "sha256_hash": "ea55fc9a313eff39fa1ab32a9bb9a1fb50c041aa70378f79ddaea6634336df15",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.763554322Z"
+}

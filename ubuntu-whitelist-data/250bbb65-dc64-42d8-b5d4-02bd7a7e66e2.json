@@ -1,0 +1,15 @@
+{
+  "uuid": "250bbb65-dc64-42d8-b5d4-02bd7a7e66e2",
+  "path": "/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-qtif.so",
+  "size": 14640,
+  "modified": "2024-06-03T16:36:10Z",
+  "created": "2025-05-09T05:07:35.705656203Z",
+  "sha256_hash": "d9c5b65c73cc0fc35af76dc98df46106ce87c3481463c0f1db45177a2f0b71ad",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.169080223Z"
+}

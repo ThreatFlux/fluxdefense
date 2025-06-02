@@ -1,0 +1,17 @@
+{
+  "uuid": "8b280921-d88e-4e87-813f-0e7bba3bfd1b",
+  "path": "/usr/lib/x86_64-linux-gnu/samba/libcli-ldap-common-samba4.so.0",
+  "size": 30952,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.041635817Z",
+  "sha256_hash": "f66f06ce6620d601d8821ebd56622aa12a9a5963215ff064009c20e8a05fcbde",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.236604261Z"
+}

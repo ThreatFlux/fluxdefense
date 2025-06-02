@@ -1,0 +1,17 @@
+{
+  "uuid": "decebd12-9e67-4b46-b7fa-0415ce0bdeed",
+  "path": "/usr/lib/grub/x86_64-efi/gcry_serpent.mod",
+  "size": 16336,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.808708460Z",
+  "sha256_hash": "b7dbed418f33f00d3c7d3ee522c46c0b6630eeb51b18aedf1aadd5e9c7892ca4",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.456014011Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "75e658a8-0533-474c-a5b1-b6c1e4362535",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-chacon.ali",
+  "size": 5245,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.096344516Z",
+  "sha256_hash": "3fabeefe28ff1d9a93d9aa95bd73182fe5ab2f649ff7bc7f161c29fa419d5387",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.610177977Z"
+}

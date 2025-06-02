@@ -1,0 +1,17 @@
+{
+  "uuid": "075c93f8-3e46-4542-8aec-3258065ec616",
+  "path": "/lib/x86_64-linux-gnu/perl-base/strict.pm",
+  "size": 1606,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.362578444Z",
+  "sha256_hash": "e6ab7416ca86e9f9195a4c86a893b96b9a20d9b4512c23c2d8683a58ea6c8e80",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.893882765Z"
+}

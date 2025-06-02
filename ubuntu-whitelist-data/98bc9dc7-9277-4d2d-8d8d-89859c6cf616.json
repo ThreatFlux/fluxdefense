@@ -1,0 +1,17 @@
+{
+  "uuid": "98bc9dc7-9277-4d2d-8d8d-89859c6cf616",
+  "path": "/lib/cups/filter/imageubrltoindexv4",
+  "size": 5670,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.357875146Z",
+  "sha256_hash": "9c84b7a5337bb04cb85994da64ec4a4f043f6b4b80bee1cda200502e649ab21a",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.643259363Z"
+}

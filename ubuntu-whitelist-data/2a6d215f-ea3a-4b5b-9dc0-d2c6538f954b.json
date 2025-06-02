@@ -1,0 +1,15 @@
+{
+  "uuid": "2a6d215f-ea3a-4b5b-9dc0-d2c6538f954b",
+  "path": "/usr/lib/x86_64-linux-gnu/NetworkManager/libnm-gtk4-vpn-plugin-pptp-editor.so",
+  "size": 55768,
+  "modified": "2024-03-31T09:21:08Z",
+  "created": "2025-05-09T05:07:35.170664367Z",
+  "sha256_hash": "837a5a81df6fb1b395a9d8b5147a025d199b14b874a88f9139634e14df072e40",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.111437955Z"
+}

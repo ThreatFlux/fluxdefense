@@ -1,0 +1,17 @@
+{
+  "uuid": "6dafb286-55f4-4453-9e9c-2debbb9c02ae",
+  "path": "/lib/firmware/nvidia/gk20a/fecs_data.bin.zst",
+  "size": 411,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.936536216Z",
+  "sha256_hash": "d9902fd55003a03126eb827291a64ae9c26fbcc84097089f608fc04ae4e34ca6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.424987009Z"
+}

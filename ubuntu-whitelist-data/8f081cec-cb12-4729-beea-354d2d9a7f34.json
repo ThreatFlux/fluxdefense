@@ -1,0 +1,17 @@
+{
+  "uuid": "8f081cec-cb12-4729-beea-354d2d9a7f34",
+  "path": "/lib/x86_64-linux-gnu/nvidia/wine/nvngx.dll",
+  "size": 478976,
+  "modified": "2024-12-30T16:45:00Z",
+  "created": "2025-05-09T12:56:02.303957457Z",
+  "sha256_hash": "52a68acc4e477eeff598b5ca01f26215dc5aa487c8f150b02c27ad099c11de0b",
+  "file_type": {
+    "Other": "dll"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.439178440Z"
+}

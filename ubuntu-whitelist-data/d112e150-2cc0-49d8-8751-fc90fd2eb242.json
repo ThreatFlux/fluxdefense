@@ -1,0 +1,17 @@
+{
+  "uuid": "d112e150-2cc0-49d8-8751-fc90fd2eb242",
+  "path": "/lib/google-cloud-sdk/lib/third_party/lark/py.typed",
+  "size": 0,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.103942624Z",
+  "sha256_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "file_type": {
+    "Other": "typed"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.010861812Z"
+}

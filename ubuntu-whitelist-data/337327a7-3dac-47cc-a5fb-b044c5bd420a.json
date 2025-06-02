@@ -1,0 +1,17 @@
+{
+  "uuid": "337327a7-3dac-47cc-a5fb-b044c5bd420a",
+  "path": "/lib/x86_64-linux-gnu/libmalcontent-0.so.0.11.1",
+  "size": 63560,
+  "modified": "2025-01-23T13:55:58Z",
+  "created": "2025-05-09T05:24:21.377880838Z",
+  "sha256_hash": "8e2761ae77d023efe2b1a6d6df7b2c93825367e8de84618a5e43a7a8d499b0ff",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.380513958Z"
+}

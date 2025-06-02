@@ -1,0 +1,15 @@
+{
+  "uuid": "676b68fa-d6b7-492c-8d29-ca092ead0e8f",
+  "path": "/usr/lib/linux-hwe-6.11-tools-6.11.0-25/libperf-jvmti.so",
+  "size": 30600,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:56.872417513Z",
+  "sha256_hash": "30d23b237574026141b1c314e4cb9062c336815bfdfa8edc7ee6ebdb6fc05417",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.960760945Z"
+}

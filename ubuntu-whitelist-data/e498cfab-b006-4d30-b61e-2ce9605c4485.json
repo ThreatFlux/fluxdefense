@@ -1,0 +1,17 @@
+{
+  "uuid": "e498cfab-b006-4d30-b61e-2ce9605c4485",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/g-cgideb.adb",
+  "size": 9212,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.066344929Z",
+  "sha256_hash": "74020d556961a2d91312cff631b069254fef079fb5839764dc09315d0c65d4d6",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.141896806Z"
+}

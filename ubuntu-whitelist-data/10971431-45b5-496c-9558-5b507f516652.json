@@ -1,0 +1,17 @@
+{
+  "uuid": "10971431-45b5-496c-9558-5b507f516652",
+  "path": "/lib/llvm-18/include/clang/Basic/BuiltinsHexagon.def",
+  "size": 6952,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.525533634Z",
+  "sha256_hash": "54def61b29f1c66de9a696ab7bac093fc31a10198dcc5962132885c27612aa15",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.119132128Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "8581059a-83f0-48a7-957c-fe208ecbaa28",
+  "path": "/lib/x86_64-linux-gnu/libffi.a",
+  "size": 66964,
+  "modified": "2024-04-08T16:03:37Z",
+  "created": "2025-05-12T13:34:35.446481999Z",
+  "sha256_hash": "598d44f893d2e509f532810ab1515f36416d283e754bb66877ba4384639fa238",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.421462511Z"
+}

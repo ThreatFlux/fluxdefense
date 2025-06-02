@@ -1,0 +1,17 @@
+{
+  "uuid": "0772de12-ec7a-4706-a889-749d4b0dee8a",
+  "path": "/usr/lib/systemd/system-preset/90-systemd.preset",
+  "size": 1458,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.517779406Z",
+  "sha256_hash": "a69e1d1e1d05fa0a8aebb431b9afeb980c7545877f7603972785ef9b8484fe2f",
+  "file_type": {
+    "Other": "preset"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.422137073Z"
+}

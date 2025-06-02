@@ -1,0 +1,17 @@
+{
+  "uuid": "7c08c12c-d0e4-48a5-9e70-3af8ecd6a2f1",
+  "path": "/usr/lib/modprobe.d/nvidia-installer-disable-nouveau.conf",
+  "size": 76,
+  "modified": "2025-05-09T12:38:11.702312021Z",
+  "created": "2025-05-09T12:38:11.702312021Z",
+  "sha256_hash": "6c7868a66cb01d00d0646566517ba3e17cdfb65e19999af03bcdca3adda8ef98",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.651570843Z"
+}

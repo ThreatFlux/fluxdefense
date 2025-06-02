@@ -1,0 +1,17 @@
+{
+  "uuid": "dd0d9bc3-2d33-4e9a-8f29-239bad28bdc4",
+  "path": "/lib/firmware/qcom/yamato_pm4.fw.zst",
+  "size": 1978,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.044534720Z",
+  "sha256_hash": "9d322cceef692c706e402f04cd19bb1d198eba0785238f5deaee8028cab92ce4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.736989625Z"
+}

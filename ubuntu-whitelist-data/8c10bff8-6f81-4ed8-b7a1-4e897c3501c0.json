@@ -1,0 +1,15 @@
+{
+  "uuid": "8c10bff8-6f81-4ed8-b7a1-4e897c3501c0",
+  "path": "/usr/lib/x86_64-linux-gnu/libgthread-2.0.a",
+  "size": 2646,
+  "modified": "2025-05-15T12:06:49Z",
+  "created": "2025-05-27T10:16:56.761744236Z",
+  "sha256_hash": "1ea613798ab044d17b6800806a51d35f511fc47414e5feda24970aa13ea1f702",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.147202948Z"
+}

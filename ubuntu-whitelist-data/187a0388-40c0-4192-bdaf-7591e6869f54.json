@@ -1,0 +1,17 @@
+{
+  "uuid": "187a0388-40c0-4192-bdaf-7591e6869f54",
+  "path": "/lib/firmware/nvidia/550.144.03/gsp_tu10x.bin",
+  "size": 24606360,
+  "modified": "2024-12-30T16:56:41Z",
+  "created": "2025-05-09T12:56:03.240981916Z",
+  "sha256_hash": "e088d910e9c5efcc9d24a5a7fbe62cc37e440dfd696ff8541297a3d302f6edea",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:03.733675334Z"
+}

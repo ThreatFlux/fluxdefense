@@ -1,0 +1,15 @@
+{
+  "uuid": "9132d1f4-3b05-4ab8-a509-b6f6d54254ab",
+  "path": "/lib/x86_64-linux-gnu/libv4l/v4l1compat.so",
+  "size": 14416,
+  "modified": "2024-04-07T07:24:04Z",
+  "created": "2025-05-09T05:07:36.543643416Z",
+  "sha256_hash": "cfb4dd4a8ad1d830ff7dea8f766ae3cf39db33906da85f3438eef5a31241e2b9",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.126802745Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d13d58fd-70f2-4481-8ff9-b43c6c738444",
+  "path": "/lib/x86_64-linux-gnu/libini_config.so.5.2.1",
+  "size": 104600,
+  "modified": "2024-03-31T07:32:33Z",
+  "created": "2025-05-09T05:07:30.561734699Z",
+  "sha256_hash": "5de7885c20bb8ca4ec588e1d5e9116da662596f43bd2458539e4c89a35c47c73",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.392082545Z"
+}

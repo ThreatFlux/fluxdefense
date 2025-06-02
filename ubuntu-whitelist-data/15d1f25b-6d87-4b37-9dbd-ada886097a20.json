@@ -1,0 +1,17 @@
+{
+  "uuid": "15d1f25b-6d87-4b37-9dbd-ada886097a20",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-vercon.ali",
+  "size": 1327,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.146343830Z",
+  "sha256_hash": "4c94ebee094ee03388bf446126cf186bc74a08d943c02a61e971a1a2cea54aed",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.706602610Z"
+}

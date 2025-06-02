@@ -1,0 +1,17 @@
+{
+  "uuid": "d07bede4-9fd4-41fb-b4b6-faee9954006d",
+  "path": "/usr/lib/x86_64-linux-gnu/libgom-1.0.so.0.1.0",
+  "size": 133192,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.826745914Z",
+  "sha256_hash": "df0b72fc11fd72f13106d5537ffa29f1e5b75ec5d187873d28315a35cf805ac4",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.320375307Z"
+}

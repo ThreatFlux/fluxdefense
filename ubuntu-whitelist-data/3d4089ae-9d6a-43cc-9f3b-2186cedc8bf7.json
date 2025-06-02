@@ -1,0 +1,17 @@
+{
+  "uuid": "3d4089ae-9d6a-43cc-9f3b-2186cedc8bf7",
+  "path": "/lib/llvm-18/include/clang/CodeGen/CodeGenAction.h",
+  "size": 3544,
+  "modified": "2023-07-12T08:00:03Z",
+  "created": "2025-05-12T13:34:31.539533450Z",
+  "sha256_hash": "f5610bb7fa8f0378e2afeee220855c6f1cb2d1cd3de06007bd080cbc33aba8b4",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.936973711Z"
+}

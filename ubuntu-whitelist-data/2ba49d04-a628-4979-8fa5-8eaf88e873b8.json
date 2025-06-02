@@ -1,0 +1,17 @@
+{
+  "uuid": "2ba49d04-a628-4979-8fa5-8eaf88e873b8",
+  "path": "/usr/lib/firmware/intel/sof/intel-signed/sof-adl-s.ri.zst",
+  "size": 206458,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.043491212Z",
+  "sha256_hash": "9be6b07474dde9f63c767e7d3812cd8605db94706eb6c7fdd7bb119cc978cf72",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.660420722Z"
+}

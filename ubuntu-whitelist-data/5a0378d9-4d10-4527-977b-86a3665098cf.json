@@ -1,0 +1,17 @@
+{
+  "uuid": "5a0378d9-4d10-4527-977b-86a3665098cf",
+  "path": "/usr/lib/x86_64-linux-gnu/libgstmpegts-1.0.so.0.2402.0",
+  "size": 219384,
+  "modified": "2024-04-15T13:00:06Z",
+  "created": "2025-05-09T05:09:28.091941028Z",
+  "sha256_hash": "749df5581a9ca812844a2b4406536925b04c22adf1d50528f525a68aab7788c1",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.770792993Z"
+}

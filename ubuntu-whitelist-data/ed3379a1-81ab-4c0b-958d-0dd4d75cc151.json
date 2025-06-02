@@ -1,0 +1,15 @@
+{
+  "uuid": "ed3379a1-81ab-4c0b-958d-0dd4d75cc151",
+  "path": "/bin/nvidia-container-cli",
+  "size": 51568,
+  "modified": "2025-05-30T13:48:00Z",
+  "created": "2025-05-30T21:04:54.382567153Z",
+  "sha256_hash": "4f62b1c9863e93fa5b1b35f6b30dcc6dfca38f29bd30b64c0a10ff5fc4927cfc",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.825114640Z"
+}

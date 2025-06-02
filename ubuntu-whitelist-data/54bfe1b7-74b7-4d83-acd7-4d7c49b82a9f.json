@@ -1,0 +1,15 @@
+{
+  "uuid": "54bfe1b7-74b7-4d83-acd7-4d7c49b82a9f",
+  "path": "/usr/lib/pppd/2.4.9/radattr.so",
+  "size": 14488,
+  "modified": "2024-04-03T17:56:59Z",
+  "created": "2025-05-09T05:07:25.897805869Z",
+  "sha256_hash": "76325367c5babc9d6ce5455298b73c5e17c259705ccc424707be15c44c737011",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.353955801Z"
+}

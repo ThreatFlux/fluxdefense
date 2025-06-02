@@ -1,0 +1,17 @@
+{
+  "uuid": "f474441c-5d02-43c7-bc3d-b6aa5441aa5b",
+  "path": "/lib/cups/filter/mupdftopwg",
+  "size": 14648,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.357875146Z",
+  "sha256_hash": "db83da08ad23c59671a5ffac535e78dac095b22684bdb487735b90553bb072da",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.634315309Z"
+}

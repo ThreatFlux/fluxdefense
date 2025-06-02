@@ -1,0 +1,17 @@
+{
+  "uuid": "4e23cfd9-3953-4a8f-ad39-1ec28e900669",
+  "path": "/lib/udev/rules.d/77-mm-telit-port-types.rules",
+  "size": 12256,
+  "modified": "2024-02-19T14:58:32Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "2662885016175298f4e81fba7bffcbe6c270661217030f81568c2c185bf99b92",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.243680035Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "c5c4a827-ecd9-4e20-91c1-fc22028dd2ad",
+  "path": "/usr/lib/llvm-18/lib/libclangTidyModernizeModule.a",
+  "size": 12227396,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.876529012Z",
+  "sha256_hash": "185c64884b809015a83cbdaf2675850f0f757fc1dca14bf6ba77d37c8baed906",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:36.798528713Z"
+}

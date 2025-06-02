@@ -1,0 +1,15 @@
+{
+  "uuid": "5b492d5a-1ca8-4028-a75a-75065f82cd0e",
+  "path": "/lib/x86_64-linux-gnu/security/pam_permit.so",
+  "size": 14488,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:37.201633375Z",
+  "sha256_hash": "c97f17af67be2d9ef2ec0519d5f1bfd9c52cf7eb0c5140f80215f9274bc1a66b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.383875541Z"
+}

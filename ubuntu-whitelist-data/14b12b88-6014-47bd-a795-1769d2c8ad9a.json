@@ -1,0 +1,15 @@
+{
+  "uuid": "14b12b88-6014-47bd-a795-1769d2c8ad9a",
+  "path": "/bin/systemd-sysext",
+  "size": 55952,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.507779278Z",
+  "sha256_hash": "0f3fb69bf9d7d60168a21a1d986258c0399f02d9c42eb4c9923d7128bb40e16b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.370352623Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "7056d1d1-24a7-4b33-8fea-9477316bccfb",
+  "path": "/usr/lib/i386-linux-gnu/gconv/ISO-2022-CN-EXT.so",
+  "size": 50572,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.281663400Z",
+  "sha256_hash": "3a18c42edd4bb819c8dfb9b47213d83661b823c3edcbc6845e09c56f07289c14",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.931318430Z"
+}

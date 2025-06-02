@@ -1,0 +1,17 @@
+{
+  "uuid": "ddcac110-0355-4ab2-b414-8dea86e17dcc",
+  "path": "/lib/firmware/amdgpu/navi10_smc.bin.zst",
+  "size": 91680,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.404543585Z",
+  "sha256_hash": "7e9af3239e05fc53b128eac5620e130686d7e03afbf217434084474cea490dde",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.086227002Z"
+}

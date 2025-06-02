@@ -1,0 +1,15 @@
+{
+  "uuid": "00e223c7-28fc-44b1-b3e5-f706a8da6731",
+  "path": "/usr/lib/x86_64-linux-gnu/totem/plugins/variable-rate/libvariable-rate.so",
+  "size": 30952,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:37.303631818Z",
+  "sha256_hash": "a16396e56b3fb67e062836467396197039fb2ffc33869a03ac0c86763283274e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:26.366943416Z"
+}

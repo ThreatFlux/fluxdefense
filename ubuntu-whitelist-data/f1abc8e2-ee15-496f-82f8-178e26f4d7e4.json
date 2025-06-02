@@ -1,0 +1,15 @@
+{
+  "uuid": "f1abc8e2-ee15-496f-82f8-178e26f4d7e4",
+  "path": "/usr/lib/x86_64-linux-gnu/plymouth/renderers/frame-buffer.so",
+  "size": 31808,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:27.491960985Z",
+  "sha256_hash": "0b49ed52db689f3080364c208552d87f6c00d52697dbfa5f80dbfc3a94fb257e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.016349925Z"
+}

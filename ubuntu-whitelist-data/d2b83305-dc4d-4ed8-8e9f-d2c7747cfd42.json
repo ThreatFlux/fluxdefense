@@ -1,0 +1,17 @@
+{
+  "uuid": "d2b83305-dc4d-4ed8-8e9f-d2c7747cfd42",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/File/Glob.pm",
+  "size": 12642,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.517591342Z",
+  "sha256_hash": "b6f461bb850b21c6efa112be8197f00bb2aa83ddbf9e4e5f922cc76227f56757",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.577896202Z"
+}

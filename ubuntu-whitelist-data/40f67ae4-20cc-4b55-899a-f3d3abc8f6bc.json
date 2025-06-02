@@ -1,0 +1,15 @@
+{
+  "uuid": "40f67ae4-20cc-4b55-899a-f3d3abc8f6bc",
+  "path": "/bin/alsamixer",
+  "size": 82216,
+  "modified": "2024-04-07T07:09:55Z",
+  "created": "2025-05-09T05:07:18.911912470Z",
+  "sha256_hash": "e1919144094947031fd4d783708988a0269df6461a82ce2f6fdad1acbf510e67",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.782756228Z"
+}

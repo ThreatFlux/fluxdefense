@@ -1,0 +1,17 @@
+{
+  "uuid": "c7aa1a46-976f-4d8b-8caf-d581e9140878",
+  "path": "/lib/firmware/rtlwifi/rtl8712u.bin.zst",
+  "size": 57955,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.068534388Z",
+  "sha256_hash": "bb86868f62f4b933461d53c585dfff590cc8fded09417de96c45cf7eae447f53",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.477474998Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "4c61d1df-84c7-41f8-8928-83a999262c19",
+  "path": "/usr/lib/llvm-18/lib/libLLVMMipsDisassembler.a",
+  "size": 179550,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.935462389Z",
+  "sha256_hash": "a46149f4f17849cef328ffdd0dc9ee46546720b547eda41b1732cafedad3cd37",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:34.243387921Z"
+}

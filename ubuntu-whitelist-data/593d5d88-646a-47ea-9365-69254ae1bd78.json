@@ -1,0 +1,17 @@
+{
+  "uuid": "593d5d88-646a-47ea-9365-69254ae1bd78",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-cogeso.ali",
+  "size": 2356,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.097344503Z",
+  "sha256_hash": "58d8251b581286f169a04a9e4dcbf0bc8f5cd830c939d60617d7b544f1d6183c",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.848017743Z"
+}

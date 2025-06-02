@@ -1,0 +1,17 @@
+{
+  "uuid": "8b083d25-812c-422f-8093-ee2713b60ac7",
+  "path": "/lib/tmpfiles.d/systemd-pstore.conf",
+  "size": 1512,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.527779534Z",
+  "sha256_hash": "cdb3efb34ea12ef62140dc86ffbe90045729f3e8227698848e44bed4fdd5fe2f",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.758956295Z"
+}

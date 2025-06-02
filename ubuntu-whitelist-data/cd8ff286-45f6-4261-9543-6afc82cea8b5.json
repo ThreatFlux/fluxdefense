@@ -1,0 +1,15 @@
+{
+  "uuid": "cd8ff286-45f6-4261-9543-6afc82cea8b5",
+  "path": "/usr/sbin/sofdsnoop-bpfcc",
+  "size": 8255,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "4c57951544a589a136918d47fcb91292f5b4839f0e325385468a95d4488f8f3c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.175604930Z"
+}

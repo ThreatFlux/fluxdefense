@@ -1,0 +1,15 @@
+{
+  "uuid": "2350db6a-48ea-4939-990a-3b0f26dd6d29",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/config/cc_phone_home.py",
+  "size": 3839,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.235037163Z",
+  "sha256_hash": "7ede7e5ed3796c879d9eabf2140fc09eefb39a5ceed516eaa27f5e41d1a449e1",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.850242502Z"
+}

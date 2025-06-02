@@ -1,0 +1,17 @@
+{
+  "uuid": "caa5930e-55cc-4688-b954-a0dcc2c7d8c3",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/AArch64SVEACLETypes.def",
+  "size": 7661,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.524533647Z",
+  "sha256_hash": "a425a0dfcebaea72a429549c1495d11ee071b9c869e31447d56e4f424e7ae7b0",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.514268393Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b57edb41-cac8-4e39-b65d-2bef3c590c03",
+  "path": "/lib/firmware/mediatek/mt7986_eeprom_mt7975_dual.bin.zst",
+  "size": 457,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.684539707Z",
+  "sha256_hash": "a636d9c822c0463d7c2ca6c0fc894e656b11c25eb4d587fa03be1f99cec2d6d7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.058182572Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "41ca05e6-8791-4941-b2f2-92555b2004f7",
+  "path": "/lib/x86_64-linux-gnu/evince/4/backends/libtiffdocument.so",
+  "size": 48504,
+  "modified": "2024-10-15T07:35:01Z",
+  "created": "2025-05-09T05:07:35.589657974Z",
+  "sha256_hash": "e0fc348cf900bcedb7ab75f83f054ecc53bdce7b46f9755ce0123d668c68282b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.710406930Z"
+}

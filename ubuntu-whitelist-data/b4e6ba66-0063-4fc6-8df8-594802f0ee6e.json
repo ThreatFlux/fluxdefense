@@ -1,0 +1,15 @@
+{
+  "uuid": "b4e6ba66-0063-4fc6-8df8-594802f0ee6e",
+  "path": "/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-heif.so",
+  "size": 14464,
+  "modified": "2024-10-21T10:48:55Z",
+  "created": "2025-05-09T05:07:35.705656203Z",
+  "sha256_hash": "a15db6066578242865ad96ae80f056cab30ac48045d0c664446ef2da6ee5a661",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:30.315370336Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "43cf42fd-66c4-4837-8fd9-8a3aed5b033c",
+  "path": "/usr/sbin/blkdeactivate",
+  "size": 16351,
+  "modified": "2024-11-27T19:06:49Z",
+  "created": "2025-05-09T05:24:22.549896121Z",
+  "sha256_hash": "69fb612902af791697f154f9fb1e4be11793175cd61a02c214ead06eba0c4e39",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.311466503Z"
+}

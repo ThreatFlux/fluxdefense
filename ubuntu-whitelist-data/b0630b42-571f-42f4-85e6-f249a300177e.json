@@ -1,0 +1,17 @@
+{
+  "uuid": "b0630b42-571f-42f4-85e6-f249a300177e",
+  "path": "/lib/modules/6.11.0-25-generic/kernel/crypto/ecdsa_generic.ko.zst",
+  "size": 5151,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.099459834Z",
+  "sha256_hash": "2940885db54c3c7a768d8c5d90fbdcc14435ecbd642cd567a15ef61b087cd454",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.629391141Z"
+}

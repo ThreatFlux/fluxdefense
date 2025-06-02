@@ -1,0 +1,17 @@
+{
+  "uuid": "31f48951-fc50-496b-be97-2eb913f526ce",
+  "path": "/usr/lib/x86_64-linux-gnu/libmythes-1.2.so.0.0.0",
+  "size": 14680,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:31.649718096Z",
+  "sha256_hash": "9e7d8e97ed9a7454656b3998a62566a4778d80cc26020cea2b1d36560d19904e",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.883303143Z"
+}

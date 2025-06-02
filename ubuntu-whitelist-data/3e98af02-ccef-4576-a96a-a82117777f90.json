@@ -1,0 +1,15 @@
+{
+  "uuid": "3e98af02-ccef-4576-a96a-a82117777f90",
+  "path": "/lib/evolution-data-server/registry-modules/module-yahoo-backend.so",
+  "size": 14496,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:21.658870553Z",
+  "sha256_hash": "b4b707336d0f5f6c6c2ed79a35872eb70927ee524aaa64c9f7b661b4adb353a2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.298298396Z"
+}

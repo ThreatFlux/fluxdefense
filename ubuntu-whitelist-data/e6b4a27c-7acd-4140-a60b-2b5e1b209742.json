@@ -1,0 +1,15 @@
+{
+  "uuid": "e6b4a27c-7acd-4140-a60b-2b5e1b209742",
+  "path": "/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-ti-et.so",
+  "size": 27888,
+  "modified": "2025-01-27T19:56:56Z",
+  "created": "2025-05-09T05:24:16.537818153Z",
+  "sha256_hash": "5b1e820e0ec9b1e166b9461362c17307928b45e858f430742f9744ec87a7f135",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.211874959Z"
+}

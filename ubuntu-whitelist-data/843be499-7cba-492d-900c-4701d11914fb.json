@@ -1,0 +1,17 @@
+{
+  "uuid": "843be499-7cba-492d-900c-4701d11914fb",
+  "path": "/lib/firmware/intel/ibt-19-0-0.sfi.zst",
+  "size": 500377,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.562541396Z",
+  "sha256_hash": "b4946c22bbbabcfc59cfded820372ac4e9158fb17a6eecc541391b896db0eec1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.265635171Z"
+}

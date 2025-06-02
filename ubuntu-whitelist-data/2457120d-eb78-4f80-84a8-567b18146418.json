@@ -1,0 +1,15 @@
+{
+  "uuid": "2457120d-eb78-4f80-84a8-567b18146418",
+  "path": "/bin/nroff",
+  "size": 5718,
+  "modified": "2024-03-31T08:54:31Z",
+  "created": "2025-05-09T05:07:20.236892251Z",
+  "sha256_hash": "b96c555c7721c78e4cfb90b3693a436b12fd40a7a0956372f7c59e5e97578fdd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:20.087312870Z"
+}

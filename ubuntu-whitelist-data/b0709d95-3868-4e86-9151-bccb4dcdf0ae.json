@@ -1,0 +1,17 @@
+{
+  "uuid": "b0709d95-3868-4e86-9151-bccb4dcdf0ae",
+  "path": "/sbin/bashreadline.bt",
+  "size": 698,
+  "modified": "2024-03-07T22:14:52Z",
+  "created": "2025-05-09T05:08:51.885493624Z",
+  "sha256_hash": "79b2eecca56306f50eb4d25f5e3a0c0c224b1f40f98bd9c1c21af965a85a5d90",
+  "file_type": {
+    "Other": "bt"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.658565658Z"
+}

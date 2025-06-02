@@ -1,0 +1,15 @@
+{
+  "uuid": "e07a0d16-d969-4e8c-adff-14736abf3c4e",
+  "path": "/usr/bin/xkbcomp",
+  "size": 221288,
+  "modified": "2024-03-31T17:27:17Z",
+  "created": "2025-05-09T05:07:20.931881646Z",
+  "sha256_hash": "0967e7e7b03b077327cea74567726b265bd304b4fdf59f87bf7fdfe1074e7591",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.665788428Z"
+}

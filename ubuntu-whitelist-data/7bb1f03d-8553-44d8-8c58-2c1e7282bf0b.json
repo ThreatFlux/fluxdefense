@@ -1,0 +1,17 @@
+{
+  "uuid": "7bb1f03d-8553-44d8-8c58-2c1e7282bf0b",
+  "path": "/lib/firmware/acenic/tg1.bin.zst",
+  "size": 20043,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.385543848Z",
+  "sha256_hash": "9e3fead2b1d8dc5bd587de64827846552509bf72222df3de957174086a026a74",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.771399937Z"
+}

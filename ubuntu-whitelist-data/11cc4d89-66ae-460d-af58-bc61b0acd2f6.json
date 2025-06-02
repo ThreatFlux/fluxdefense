@@ -1,0 +1,15 @@
+{
+  "uuid": "11cc4d89-66ae-460d-af58-bc61b0acd2f6",
+  "path": "/usr/lib/x86_64-linux-gnu/ao/plugins-4/libpulse.so",
+  "size": 14752,
+  "modified": "2024-04-08T16:01:21Z",
+  "created": "2025-05-09T05:07:35.181664199Z",
+  "sha256_hash": "7f71796587c05857146d2812ee9e8505f7a9d703f50a0474548b6a371855f048",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.905091470Z"
+}

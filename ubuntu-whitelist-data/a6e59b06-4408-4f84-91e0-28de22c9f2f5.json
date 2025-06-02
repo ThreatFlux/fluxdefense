@@ -1,0 +1,17 @@
+{
+  "uuid": "a6e59b06-4408-4f84-91e0-28de22c9f2f5",
+  "path": "/usr/lib/firmware/qcom/apq8016/modem.mbn.zst",
+  "size": 4887388,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.970535745Z",
+  "sha256_hash": "246a1030eba5852759c36bcc313bdadd9bfcbd73bdd01c052bbf7958c8bc72fd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.108887116Z"
+}

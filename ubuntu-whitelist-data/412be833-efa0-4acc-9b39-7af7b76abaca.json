@@ -1,0 +1,17 @@
+{
+  "uuid": "412be833-efa0-4acc-9b39-7af7b76abaca",
+  "path": "/lib/firmware/radeon/SUMO_rlc.bin.zst",
+  "size": 1528,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.062534471Z",
+  "sha256_hash": "4695f6a4bed6dc83d61e6effd544d6fd7edb22fa3ec7158995cb197dd911e5aa",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.378022248Z"
+}

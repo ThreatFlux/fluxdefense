@@ -1,0 +1,17 @@
+{
+  "uuid": "829039af-2574-4e29-845b-f3b46bbc7f21",
+  "path": "/usr/lib/x86_64-linux-gnu/libsord-0.so.0.16.16",
+  "size": 34808,
+  "modified": "2024-04-18T17:48:13Z",
+  "created": "2025-05-09T05:09:24.609994172Z",
+  "sha256_hash": "d2c3a37c1c18738963e73a66527da829e66382174ffde98c3f6c40f5e3230189",
+  "file_type": {
+    "Other": "16"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.519866074Z"
+}

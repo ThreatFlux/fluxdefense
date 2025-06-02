@@ -1,0 +1,15 @@
+{
+  "uuid": "e34b92f7-da13-43b3-8787-1c9931259b17",
+  "path": "/usr/lib/x86_64-linux-gnu/rsyslog/lmtcpclt.so",
+  "size": 14632,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.546922251Z",
+  "sha256_hash": "fc5748c76ce5e95080439047fc62b9270d41ed0b28c7e2a9989025db28e6f3f8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.167340354Z"
+}

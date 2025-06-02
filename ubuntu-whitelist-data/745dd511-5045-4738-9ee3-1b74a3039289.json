@@ -1,0 +1,17 @@
+{
+  "uuid": "745dd511-5045-4738-9ee3-1b74a3039289",
+  "path": "/usr/lib/x86_64-linux-gnu/libtss2-tcti-mssim.so.0.0.0",
+  "size": 35272,
+  "modified": "2024-05-24T20:06:42Z",
+  "created": "2025-05-09T05:07:32.326707766Z",
+  "sha256_hash": "44f2f267733e0d44e3c9adf600b1504a91e45ddf5d0de6825186645bc14968d2",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.036229589Z"
+}

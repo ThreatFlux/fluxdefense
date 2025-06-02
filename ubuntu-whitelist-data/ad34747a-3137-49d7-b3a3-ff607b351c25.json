@@ -1,0 +1,17 @@
+{
+  "uuid": "ad34747a-3137-49d7-b3a3-ff607b351c25",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-exponr.ali",
+  "size": 2054,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.138343939Z",
+  "sha256_hash": "d8fb609cb84ae5931fbeaa1432a6c421eb9e24b0bf8420784efc5776be975865",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.865954474Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b64c3221-d0b6-43f1-adfd-59a62323fd17",
+  "path": "/usr/lib/firmware/mediatek/mt7986_eeprom_mt7976_dbdc.bin.zst",
+  "size": 481,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.684539707Z",
+  "sha256_hash": "eede4323b38cc1fdea890aee3aef7eafe1c875a995781e62a03ab8eff5ed1eb8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.233482655Z"
+}

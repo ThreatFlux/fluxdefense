@@ -1,0 +1,15 @@
+{
+  "uuid": "2222bcdd-2ae1-4920-a57a-2b387678c563",
+  "path": "/lib/llvm-18/lib/libclangTidyConcurrencyModule.a",
+  "size": 114222,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.862529196Z",
+  "sha256_hash": "70dbb1151bfe5ecbb26ec8dcc6eacba6e4a8cab4081c33d6f1969bd0944c7f03",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.893256306Z"
+}

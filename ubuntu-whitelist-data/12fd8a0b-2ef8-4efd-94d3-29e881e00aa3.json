@@ -1,0 +1,15 @@
+{
+  "uuid": "12fd8a0b-2ef8-4efd-94d3-29e881e00aa3",
+  "path": "/usr/bin/login",
+  "size": 53056,
+  "modified": "2024-05-30T14:52:35Z",
+  "created": "2025-05-09T05:07:20.113894128Z",
+  "sha256_hash": "68e37d7a53aa5d5db142ca0fd5cc80558e57b2d0dab042264f6e0b3a2ac5e10c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.165978127Z"
+}

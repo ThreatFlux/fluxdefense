@@ -1,0 +1,15 @@
+{
+  "uuid": "a6b1e8af-35e4-456a-8da3-575c3c878de7",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/botocore/__init__.py",
+  "size": 4914,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.169941503Z",
+  "sha256_hash": "369ca05dfb1a76b33d4caea87e694f9f2df3ea5629e0873ca0bb988c9c48795e",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.572877642Z"
+}

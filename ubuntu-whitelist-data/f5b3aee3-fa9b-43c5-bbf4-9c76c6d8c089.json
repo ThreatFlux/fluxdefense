@@ -1,0 +1,17 @@
+{
+  "uuid": "f5b3aee3-fa9b-43c5-bbf4-9c76c6d8c089",
+  "path": "/lib/systemd/system/grub-common.service",
+  "size": 721,
+  "modified": "2025-03-17T13:19:44Z",
+  "created": "2025-05-09T05:08:37.602711604Z",
+  "sha256_hash": "d366345261aff78a0f2971968e0148500e990986cf10127d88abba50f8dc5a9a",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.115299591Z"
+}

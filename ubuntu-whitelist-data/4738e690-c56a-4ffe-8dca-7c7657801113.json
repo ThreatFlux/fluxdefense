@@ -1,0 +1,15 @@
+{
+  "uuid": "4738e690-c56a-4ffe-8dca-7c7657801113",
+  "path": "/lib/xorg/modules/drivers/fbdev_drv.so",
+  "size": 31904,
+  "modified": "2024-04-08T16:23:37Z",
+  "created": "2025-05-09T05:07:37.367630842Z",
+  "sha256_hash": "ecdb181f950c7c140ad88efcc956f56d77e52f8769dc051330d39ff9677bfe82",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.702871784Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "998d5528-5506-4b10-bc33-60f021dee4a1",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/include/avx2intrin.h",
+  "size": 58748,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.240389918Z",
+  "sha256_hash": "1969e75f5890280b1b21abc7e410fab40d935a6cd765c374042a06b126d39cbf",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.899895890Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "4e73ff5e-ed74-4868-a2a3-26e6c3bed221",
+  "path": "/usr/libexec/dpkg/dpkg-db-backup",
+  "size": 2586,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T05:07:37.582627561Z",
+  "sha256_hash": "82565872502df70d74a919e089185aaa39b90e25ca1abc1fff6831ba8966d27e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.112777129Z"
+}

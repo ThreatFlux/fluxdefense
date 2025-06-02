@@ -1,0 +1,17 @@
+{
+  "uuid": "9b34f5f7-a15b-432f-b672-2244e7424f8b",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-os_lib.adb",
+  "size": 89874,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.080344736Z",
+  "sha256_hash": "ff59134b0b09ded4c0c8567304216e1762da4e7f74b2313cc6795d2e765bfd61",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.087471169Z"
+}

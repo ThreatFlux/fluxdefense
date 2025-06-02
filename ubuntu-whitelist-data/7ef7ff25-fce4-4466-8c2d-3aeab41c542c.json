@@ -1,0 +1,17 @@
+{
+  "uuid": "7ef7ff25-fce4-4466-8c2d-3aeab41c542c",
+  "path": "/lib/llvm-18/include/clang/Basic/BuiltinsARM.def",
+  "size": 19249,
+  "modified": "2023-07-18T07:07:17Z",
+  "created": "2025-05-12T13:34:31.525533634Z",
+  "sha256_hash": "ae579649157ced022162333a99c7cbf0b0e3f8b0c5b1b3533ca80e39f402cd23",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.121931081Z"
+}

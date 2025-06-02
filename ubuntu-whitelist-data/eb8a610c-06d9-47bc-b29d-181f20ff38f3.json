@@ -1,0 +1,17 @@
+{
+  "uuid": "eb8a610c-06d9-47bc-b29d-181f20ff38f3",
+  "path": "/usr/lib/firmware/qlogic/1280.bin.zst",
+  "size": 18452,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.058534526Z",
+  "sha256_hash": "c5e3f83641456c7d5e34e4a6759553c17d26b41d859d1f17a74d7718aff6e79b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.440955290Z"
+}

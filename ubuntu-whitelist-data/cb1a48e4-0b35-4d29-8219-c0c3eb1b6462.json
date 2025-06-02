@@ -1,0 +1,17 @@
+{
+  "uuid": "cb1a48e4-0b35-4d29-8219-c0c3eb1b6462",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/misc/NonCopyableObjects.h",
+  "size": 1141,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "00999773d435ad2fa2954b00d2488ff6c2670d73d991b1a4bddb0d8a5e0b3f45",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.276198039Z"
+}

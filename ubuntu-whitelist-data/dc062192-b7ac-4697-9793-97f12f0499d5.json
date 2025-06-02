@@ -1,0 +1,17 @@
+{
+  "uuid": "dc062192-b7ac-4697-9793-97f12f0499d5",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/vpx.pc",
+  "size": 301,
+  "modified": "2024-06-05T13:49:38Z",
+  "created": "2025-05-29T11:16:23.341822193Z",
+  "sha256_hash": "3ddb4b72956d37ac648c380a9efc804fbe8fe2984569d9ca1634efa6adc20cee",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.059760529Z"
+}

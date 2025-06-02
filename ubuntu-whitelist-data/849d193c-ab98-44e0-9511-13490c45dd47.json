@@ -1,0 +1,17 @@
+{
+  "uuid": "849d193c-ab98-44e0-9511-13490c45dd47",
+  "path": "/usr/lib/udev/rules.d/60-mdevctl.rules",
+  "size": 712,
+  "modified": "2024-04-08T16:12:09Z",
+  "created": "2025-05-09T05:56:54.846583002Z",
+  "sha256_hash": "68ee09187344a19d690a28e219a5d24b3b6d70529b22a862708a3e7ca427659e",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.106097774Z"
+}

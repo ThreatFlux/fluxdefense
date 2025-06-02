@@ -1,0 +1,17 @@
+{
+  "uuid": "032b495f-a2f8-4542-ac4d-3259df081c8b",
+  "path": "/usr/lib/modules/6.11.0-25-generic/modules.builtin.modinfo",
+  "size": 91320,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.153459010Z",
+  "sha256_hash": "21ef41fe675d7ca7ec45d49a552af83617ee75afe2e793b0a0f47f59457a0364",
+  "file_type": {
+    "Other": "modinfo"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.003183017Z"
+}

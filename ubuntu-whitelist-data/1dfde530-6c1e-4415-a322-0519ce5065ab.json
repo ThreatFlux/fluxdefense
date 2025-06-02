@@ -1,0 +1,15 @@
+{
+  "uuid": "1dfde530-6c1e-4415-a322-0519ce5065ab",
+  "path": "/sbin/chpasswd",
+  "size": 55736,
+  "modified": "2024-05-30T14:52:35Z",
+  "created": "2025-05-09T05:07:38.141619031Z",
+  "sha256_hash": "7b13fd609efe229545fae72b1cad6eaf21bda92cf47bf152d8fa9645fddf0a3c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.747704570Z"
+}

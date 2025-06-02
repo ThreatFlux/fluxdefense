@@ -1,0 +1,15 @@
+{
+  "uuid": "da1380e3-0029-4c82-bd9e-7d888351cff2",
+  "path": "/lib/x86_64-linux-gnu/libgphoto2/2.5.31/dimagev.so",
+  "size": 43528,
+  "modified": "2024-03-31T02:00:03Z",
+  "created": "2025-05-09T05:07:35.833654250Z",
+  "sha256_hash": "ded879f64b57ae23e65b67242482e9f726d2fa68eef2129537968208d6980f0d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.932316873Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "a32c2abc-09cf-449b-9849-63972f1ce8e7",
+  "path": "/usr/bin/gnome-clocks",
+  "size": 465480,
+  "modified": "2024-03-31T06:05:45Z",
+  "created": "2025-05-09T05:07:19.428904581Z",
+  "sha256_hash": "4c1beab3d675b347e338c3a3f359b8cd2cbd7709de17927618afe249637096f3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:06.066042757Z"
+}

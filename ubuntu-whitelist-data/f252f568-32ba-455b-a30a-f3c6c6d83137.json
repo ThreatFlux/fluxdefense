@@ -1,0 +1,17 @@
+{
+  "uuid": "f252f568-32ba-455b-a30a-f3c6c6d83137",
+  "path": "/lib/firmware/radeon/CEDAR_rlc.bin.zst",
+  "size": 746,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.059534513Z",
+  "sha256_hash": "261cde536f05a95275e2657fc415bd7cfb1c466a49c75dcf67c261eebaa1076a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.395341067Z"
+}

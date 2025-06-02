@@ -1,0 +1,17 @@
+{
+  "uuid": "ec751739-2107-42ec-88f9-b7a08f969dfe",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-imaged.ali",
+  "size": 1512,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.138343939Z",
+  "sha256_hash": "390f387383be63b2d8f5ed134bf2e1da4241aca719ec0cae14cf2df66a8d7d58",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.611444453Z"
+}

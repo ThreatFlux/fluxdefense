@@ -1,0 +1,17 @@
+{
+  "uuid": "d9c54c32-7c09-4954-958b-daf2be50255b",
+  "path": "/lib/firmware/nvidia/gp108/gr/fecs_data.bin.zst",
+  "size": 548,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.940536161Z",
+  "sha256_hash": "b227b089f354672586a82913d3539a2f5098a6d3102d6faea0ed4b78139879ee",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.434200257Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "3114d376-5482-4c65-ac9c-c23eae550e01",
+  "path": "/bin/dpkg-architecture",
+  "size": 15202,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T06:33:31.736357711Z",
+  "sha256_hash": "ce16700da9905ac300963e09e9716004c8c35c780b06d108de8b9c93d6ddbbaf",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.454155490Z"
+}

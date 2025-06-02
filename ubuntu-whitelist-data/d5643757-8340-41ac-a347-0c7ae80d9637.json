@@ -1,0 +1,17 @@
+{
+  "uuid": "d5643757-8340-41ac-a347-0c7ae80d9637",
+  "path": "/lib/systemd/system/systemd-kexec.service",
+  "size": 569,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "31427eb5414f59c161c03201c6f92d23db0fe83476e6976c45705765a90bbd10",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.111346456Z"
+}

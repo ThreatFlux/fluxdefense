@@ -1,0 +1,17 @@
+{
+  "uuid": "3a707f5a-0bc1-4e0e-a49d-79eb983adcfb",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/android/ComparisonInTempFailureRetryCheck.h",
+  "size": 1559,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "d499e955d3a2b1791fd813f23154914eb6c03949198db900ab3af42693b83741",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.223753786Z"
+}

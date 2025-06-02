@@ -1,0 +1,15 @@
+{
+  "uuid": "6e395547-ee1d-42f4-807d-09c10f86ddcc",
+  "path": "/lib/x86_64-linux-gnu/gconv/CP770.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.606657714Z",
+  "sha256_hash": "dabb12e6b201588fd18093cf9430ad3778dd7230e5d81ef429be6bf9c396b3e6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.732995116Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c19968da-c0c3-4574-aa17-ce936cde9372",
+  "path": "/lib/firmware/lbtf_usb.bin.zst",
+  "size": 79672,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.668539928Z",
+  "sha256_hash": "c6e2843664d064c13efb483a32ae9b0f28bf0a0e05e86b83a4120247235cf197",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.639287951Z"
+}

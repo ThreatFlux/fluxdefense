@@ -1,0 +1,17 @@
+{
+  "uuid": "7b74df25-607b-4cac-9301-95419703a9f1",
+  "path": "/usr/lib/x86_64-linux-gnu/libgsm.so.1.0.19",
+  "size": 59552,
+  "modified": "2024-04-18T17:47:46Z",
+  "created": "2025-05-09T05:09:18.643085242Z",
+  "sha256_hash": "c2cba796fbc32dc5aa8c26a41819a51cb5f446eb441420751500dc68f9d9a87c",
+  "file_type": {
+    "Other": "19"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.783985801Z"
+}

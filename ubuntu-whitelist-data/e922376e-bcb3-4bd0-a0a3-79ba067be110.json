@@ -1,0 +1,17 @@
+{
+  "uuid": "e922376e-bcb3-4bd0-a0a3-79ba067be110",
+  "path": "/lib/firmware/intel/sof-tplg/sof-whl-demux-rt5682.tplg.zst",
+  "size": 1567,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.061490937Z",
+  "sha256_hash": "367f53465a8f735d481c3d7268bd9e4201db597b6700b7c798720dcf024d5539",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.214817179Z"
+}

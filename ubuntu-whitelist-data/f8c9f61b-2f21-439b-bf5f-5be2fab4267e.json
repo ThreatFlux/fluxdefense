@@ -1,0 +1,17 @@
+{
+  "uuid": "f8c9f61b-2f21-439b-bf5f-5be2fab4267e",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-zttest.ali",
+  "size": 3285,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.105344393Z",
+  "sha256_hash": "daf62c3293b7d3df2932e1e44ca9c67568265b27839c5f0b991ca108cdf0bff9",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.656818505Z"
+}

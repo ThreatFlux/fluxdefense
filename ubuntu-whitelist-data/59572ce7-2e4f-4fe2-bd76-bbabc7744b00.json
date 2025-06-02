@@ -1,0 +1,17 @@
+{
+  "uuid": "59572ce7-2e4f-4fe2-bd76-bbabc7744b00",
+  "path": "/usr/lib/llvm-18/include/clang/Tooling/CompilationDatabase.h",
+  "size": 10509,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.553533265Z",
+  "sha256_hash": "578b8c19b150fea61f939a10444bace2934612a47b0cc792232a36a365e013ba",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.415888443Z"
+}

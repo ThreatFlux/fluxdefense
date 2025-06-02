@@ -1,0 +1,17 @@
+{
+  "uuid": "cd60ae37-9bf7-4989-9d72-e88111eb6632",
+  "path": "/lib/x86_64-linux-gnu/libgtk-3-0t64/gtk-query-immodules-3.0",
+  "size": 22840,
+  "modified": "2025-01-27T19:56:56Z",
+  "created": "2025-05-09T05:24:16.540818192Z",
+  "sha256_hash": "399e468aae8e855f78166a423247add2f463b1c7d88d1598c7e344d2230c9417",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.534198341Z"
+}

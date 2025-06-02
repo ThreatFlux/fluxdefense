@@ -1,0 +1,17 @@
+{
+  "uuid": "d1e46367-c2d9-4f1c-b93c-61eda56e716b",
+  "path": "/lib/file/magic.mgc",
+  "size": 8510760,
+  "modified": "2024-03-31T07:35:22Z",
+  "created": "2025-05-09T05:07:21.658870553Z",
+  "sha256_hash": "72a25195a2623fe160e926bf20952b6b74b29d6c91e0174a5fa062f02beee1aa",
+  "file_type": {
+    "Other": "mgc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.494116113Z"
+}

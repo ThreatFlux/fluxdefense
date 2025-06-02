@@ -1,0 +1,15 @@
+{
+  "uuid": "fd35d346-98a8-4d22-8e82-f32b879b9dc6",
+  "path": "/sbin/addgnupghome",
+  "size": 3075,
+  "modified": "2025-03-28T15:23:49Z",
+  "created": "2025-05-09T05:11:23.298182551Z",
+  "sha256_hash": "f038f9525fa205e19477e31f57772981e87f85f7e2d84348ddadf49d3c67ba4b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.041253871Z"
+}

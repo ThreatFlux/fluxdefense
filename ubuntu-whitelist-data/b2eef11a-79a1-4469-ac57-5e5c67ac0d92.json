@@ -1,0 +1,15 @@
+{
+  "uuid": "b2eef11a-79a1-4469-ac57-5e5c67ac0d92",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/config/cc_timezone.py",
+  "size": 1167,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.236037177Z",
+  "sha256_hash": "a4ede07eeb0b96cd8e6f40be84a7a1b8a87543a38230f67573dc0124c18fec55",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.858945069Z"
+}

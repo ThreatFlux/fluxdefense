@@ -1,0 +1,15 @@
+{
+  "uuid": "dd9a0288-e8ad-4d22-92fb-3a32b8b3ad24",
+  "path": "/lib/x86_64-linux-gnu/security/pam_ftp.so",
+  "size": 14488,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:37.199633405Z",
+  "sha256_hash": "e0a971d4969c7074bffb89f21039249edd15d2ac385e1d528d305a6d5fd9eea8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.387121475Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "047a1739-e309-420b-a059-d92f96ad3080",
+  "path": "/usr/lib/x86_64-linux-gnu/libharfbuzz.so.0.60830.0",
+  "size": 1101752,
+  "modified": "2024-03-31T01:19:37Z",
+  "created": "2025-05-09T05:07:30.170740665Z",
+  "sha256_hash": "4562cfcfd18935324ba3ac74a944898b867ab87a56e925ab3e351ba773f1513e",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.803654273Z"
+}

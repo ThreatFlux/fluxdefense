@@ -1,0 +1,15 @@
+{
+  "uuid": "463384ef-e237-479e-be02-9b722a552a80",
+  "path": "/lib/google-cloud-sdk/lib/third_party/dns/dnssec.py",
+  "size": 16504,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.114942437Z",
+  "sha256_hash": "323a10ea576f5925b728705220ed1bc429ac2e92daa5e616d93f11cf2d836c8d",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.873799907Z"
+}

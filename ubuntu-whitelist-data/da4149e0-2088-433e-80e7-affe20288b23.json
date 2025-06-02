@@ -1,0 +1,15 @@
+{
+  "uuid": "da4149e0-2088-433e-80e7-affe20288b23",
+  "path": "/usr/lib/llvm-18/bin/llvm-modextract",
+  "size": 23232,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.062487057Z",
+  "sha256_hash": "46610209e371b04706c38222774333262b2023dd3f9b01e30d0ace23b84d5429",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.196570667Z"
+}

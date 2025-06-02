@@ -1,0 +1,15 @@
+{
+  "uuid": "0d9dafc0-9a0d-42f5-bb90-c956235094bd",
+  "path": "/sbin/tcpdrop-bpfcc",
+  "size": 7616,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.523499148Z",
+  "sha256_hash": "33c15a1b0f1a5f74732cfa328dde0bf02f626c1485f3c5ca08652023826da3f8",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.047939225Z"
+}

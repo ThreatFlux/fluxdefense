@@ -1,0 +1,17 @@
+{
+  "uuid": "36792a0c-009d-477f-bd78-afdb09be1097",
+  "path": "/usr/lib/systemd/system/packagekit-offline-update.service",
+  "size": 400,
+  "modified": "2025-01-08T16:35:09Z",
+  "created": "2025-05-09T05:24:26.874952849Z",
+  "sha256_hash": "0a2f5540a5f1e3fbbe9ce282676a133c9de79614343f0645ff1dbc46dfa79d4d",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.449771080Z"
+}

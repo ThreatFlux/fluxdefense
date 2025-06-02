@@ -1,0 +1,15 @@
+{
+  "uuid": "94ab51a7-31d2-4d86-bf2d-56d6ac80c65f",
+  "path": "/sbin/tcprtt-bpfcc",
+  "size": 8913,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.523499148Z",
+  "sha256_hash": "9270f3f71cb93eca496ca4f2a2099698c7157dc39a5a6ab3f85b4bc0a17f2397",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.763637223Z"
+}

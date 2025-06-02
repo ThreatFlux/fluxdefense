@@ -1,0 +1,17 @@
+{
+  "uuid": "c599fa49-842b-40fc-ae04-424a1dd61809",
+  "path": "/lib/llvm-18/include/clang/Sema/CXXFieldCollector.h",
+  "size": 2560,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.547533344Z",
+  "sha256_hash": "b751477d6bb5f2b7c8e84f16215267a5d85a9b045021fe4f44222ac80b1ca6dc",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.070202376Z"
+}

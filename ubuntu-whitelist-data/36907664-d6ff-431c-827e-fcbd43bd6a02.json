@@ -1,0 +1,17 @@
+{
+  "uuid": "36907664-d6ff-431c-827e-fcbd43bd6a02",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-finali.ali",
+  "size": 3815,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.098344489Z",
+  "sha256_hash": "ea6a40c91ba2b395e08e5b9680a007e5dcecef88e92ed55c351f6682000d75c1",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.591587921Z"
+}

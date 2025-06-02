@@ -1,0 +1,15 @@
+{
+  "uuid": "703fd06e-70c4-4387-b2c6-c25dabadc164",
+  "path": "/lib/i386-linux-gnu/gconv/libCNS.so",
+  "size": 472364,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.284663355Z",
+  "sha256_hash": "f578cf518587377934c4fe52b95e4f4911e3f56489a2c393fc5868b1543777b6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.865061299Z"
+}

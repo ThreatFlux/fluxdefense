@@ -1,0 +1,17 @@
+{
+  "uuid": "501595ec-6247-438f-a179-a0481650de1a",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/cppcoreguidelines/VirtualClassDestructorCheck.h",
+  "size": 1483,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "281f6664cc81d47e516d5140f8dd71d8f6bc2054a8445a3aa9803f8c167af537",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.252214992Z"
+}

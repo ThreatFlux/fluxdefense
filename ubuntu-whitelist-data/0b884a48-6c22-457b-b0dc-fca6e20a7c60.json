@@ -1,0 +1,17 @@
+{
+  "uuid": "0b884a48-6c22-457b-b0dc-fca6e20a7c60",
+  "path": "/usr/lib/firmware/radeon/HAWAII_me.bin.zst",
+  "size": 3557,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.060534499Z",
+  "sha256_hash": "8505f67a1a9245c4d165473562617dc9299975b982322ef5ebaeeeef5419d24f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.412537395Z"
+}

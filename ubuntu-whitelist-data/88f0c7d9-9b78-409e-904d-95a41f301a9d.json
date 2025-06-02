@@ -1,0 +1,17 @@
+{
+  "uuid": "88f0c7d9-9b78-409e-904d-95a41f301a9d",
+  "path": "/lib/llvm-18/include/clang/Basic/XRayInstr.h",
+  "size": 2183,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.532533542Z",
+  "sha256_hash": "7326b626ad098b3d6ff5e0c3b3a13a54a49a80d56d3d626eeb69331a05c92744",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.165578908Z"
+}

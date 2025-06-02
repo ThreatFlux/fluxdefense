@@ -1,0 +1,17 @@
+{
+  "uuid": "68d328d5-8d96-42fa-8436-9469bb1119c7",
+  "path": "/usr/lib/llvm-18/include/clang/Sema/AnalysisBasedWarnings.h",
+  "size": 3017,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.545533371Z",
+  "sha256_hash": "50570a2a008eed3072492ae466bbf28d6a0b1e22473788721faecc46eca3f679",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.470842173Z"
+}

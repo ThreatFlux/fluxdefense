@@ -1,0 +1,17 @@
+{
+  "uuid": "f4143e8a-d1ee-4255-b1f7-afb1c722fc83",
+  "path": "/usr/lib/llvm-18/lib/libLLVM.so.1",
+  "size": 123215144,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-09T05:08:50.222519004Z",
+  "sha256_hash": "5c3a63957e28c15cdf1503892074f032d29b72e36a9824a77dfa87e48a0dafb0",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:32.902964428Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "e24025c4-e3b4-45e8-b2d8-ab18e3e207d2",
+  "path": "/usr/lib/x86_64-linux-gnu/libc.a",
+  "size": 6134904,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:08:53.060475691Z",
+  "sha256_hash": "3469eab2b91224ff31e149d6416f5dd010f755e79fe4a11d1e1b1beac0a5cd37",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:13.703180470Z"
+}

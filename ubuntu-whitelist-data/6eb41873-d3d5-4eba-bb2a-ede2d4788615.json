@@ -1,0 +1,17 @@
+{
+  "uuid": "6eb41873-d3d5-4eba-bb2a-ede2d4788615",
+  "path": "/lib/x86_64-linux-gnu/libsodium.so.23.3.0",
+  "size": 355040,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:32.184709933Z",
+  "sha256_hash": "7de3e60f9f7df83a7299aa1b8b7a88013ace3233f70c9f63698dd331781d557e",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.379744283Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "61d672ac-e439-4952-851d-20451c5e5336",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/crtend.o",
+  "size": 1168,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.240389918Z",
+  "sha256_hash": "af24780d77fc8e067f476c8bd7c7631a1c438d5dcec1223b8a77e89c5f6d40bd",
+  "file_type": {
+    "Other": "o"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.585539319Z"
+}

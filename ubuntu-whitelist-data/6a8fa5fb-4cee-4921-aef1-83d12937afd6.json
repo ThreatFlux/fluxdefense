@@ -1,0 +1,17 @@
+{
+  "uuid": "6a8fa5fb-4cee-4921-aef1-83d12937afd6",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache",
+  "size": 27028,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.683656539Z",
+  "sha256_hash": "52c227df9d53248238602c1ddaccd2c8ddc4cc6a61aa45d7c425af590b8806a5",
+  "file_type": {
+    "Other": "cache"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.474733668Z"
+}

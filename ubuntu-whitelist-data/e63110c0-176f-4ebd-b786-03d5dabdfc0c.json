@@ -1,0 +1,17 @@
+{
+  "uuid": "e63110c0-176f-4ebd-b786-03d5dabdfc0c",
+  "path": "/usr/lib/systemd/system/systemd-fsck@.service",
+  "size": 760,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "43be4420263da4e79a7fe33f6b628449cc56cf99ca30cdc4dedc7f53aff7ea7e",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.449050239Z"
+}

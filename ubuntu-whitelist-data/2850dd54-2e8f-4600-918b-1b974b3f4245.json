@@ -1,0 +1,17 @@
+{
+  "uuid": "2850dd54-2e8f-4600-918b-1b974b3f4245",
+  "path": "/usr/lib/x86_64-linux-gnu/bpf/xdpdump_xdp.o",
+  "size": 8040,
+  "modified": "2024-04-01T04:46:20Z",
+  "created": "2025-05-26T20:18:27.419017429Z",
+  "sha256_hash": "aba88bf8ffa5f9e17146d081e2505551bdd8fa6553798c015175e9c96d23592d",
+  "file_type": {
+    "Other": "o"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.115772913Z"
+}

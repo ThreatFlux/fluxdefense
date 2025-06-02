@@ -1,0 +1,15 @@
+{
+  "uuid": "1f47accf-a084-4125-999f-07f45ee1e88e",
+  "path": "/usr/lib/python3/dist-packages/netifaces.cpython-312-x86_64-linux-gnu.so",
+  "size": 27296,
+  "modified": "2024-04-08T16:14:23Z",
+  "created": "2025-05-09T05:07:26.359798819Z",
+  "sha256_hash": "f423281f2e1365eff204635f1ad74897adc90be964a6d079bb5b0ceb5e1f26b4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.718851935Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "7661cf68-e25a-4e12-a3ef-5572eefeceb0",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/resource_config/list_resource_types.py",
+  "size": 2226,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.696932550Z",
+  "sha256_hash": "966d02d43e821c7b13c464e6bdbbdc4b53c40f6d1b93ae3776502b6cd54f9c9b",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.818602904Z"
+}

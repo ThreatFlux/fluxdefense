@@ -1,0 +1,15 @@
+{
+  "uuid": "76752ace-a8e7-42c4-8064-73a3f0212e39",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/ISO_5427.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.675656661Z",
+  "sha256_hash": "fbb9c2f1878945a520bdddc608c8f000936f87837a5584f206d9510aece303fa",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.539787462Z"
+}

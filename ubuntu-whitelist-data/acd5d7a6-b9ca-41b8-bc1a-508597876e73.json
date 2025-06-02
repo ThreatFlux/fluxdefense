@@ -1,0 +1,17 @@
+{
+  "uuid": "acd5d7a6-b9ca-41b8-bc1a-508597876e73",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/gnu/stubs.ph",
+  "size": 294,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.559590701Z",
+  "sha256_hash": "df7f874acea2f403163f9ae27109b3a7a547471e64095c3eb94269beaf00c327",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.661362955Z"
+}

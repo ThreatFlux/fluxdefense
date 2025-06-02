@@ -1,0 +1,17 @@
+{
+  "uuid": "ff9cf29c-947f-461d-b01b-b03e280b62e9",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/sw_dict",
+  "size": 47804,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.551658553Z",
+  "sha256_hash": "375fab2ccd0d669177ad406b20b0cdb5851a1e86f093672f24f72c29fec8a815",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.279667961Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "7e05a98d-a529-42cf-bcac-ce38299b7637",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-apl-demux-pcm512x.tplg.zst",
+  "size": 1256,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.057490999Z",
+  "sha256_hash": "544726d66ad144bc8de714181806d759e2b88e7aa1040b4548bf7ec1199df0bc",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.860632752Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "b68abac8-54f7-4428-b5e8-33c60bffa50a",
+  "path": "/usr/libexec/plymouth/plymouth-update-initrd",
+  "size": 46,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:27.492960998Z",
+  "sha256_hash": "8984afee6134d8094b589c6e3bf85898fa5863a1b702f8d3762a5077c77af89a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.245689272Z"
+}

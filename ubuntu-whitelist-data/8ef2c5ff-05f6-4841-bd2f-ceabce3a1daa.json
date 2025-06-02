@@ -1,0 +1,17 @@
+{
+  "uuid": "8ef2c5ff-05f6-4841-bd2f-ceabce3a1daa",
+  "path": "/lib/llvm-18/include/clang-tidy/readability/RedundantMemberInitCheck.h",
+  "size": 1765,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "a1701fb9d1ff4795b59caf2053245399acf76c851c169f9aff62b142481aae6b",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.924545172Z"
+}

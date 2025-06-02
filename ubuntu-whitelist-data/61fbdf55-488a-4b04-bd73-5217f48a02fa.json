@@ -1,0 +1,15 @@
+{
+  "uuid": "61fbdf55-488a-4b04-bd73-5217f48a02fa",
+  "path": "/lib/google-cloud-sdk/platform/gsutil/gslib/tz_utc.py",
+  "size": 2254,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.849929950Z",
+  "sha256_hash": "abe467364bbe0d1ca526a017e8cdd997b901e37e42b7a10570611ffcafe22fec",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.976800901Z"
+}

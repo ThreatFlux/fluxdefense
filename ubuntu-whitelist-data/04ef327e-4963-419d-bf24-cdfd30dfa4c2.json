@@ -1,0 +1,17 @@
+{
+  "uuid": "04ef327e-4963-419d-bf24-cdfd30dfa4c2",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-coorma.adb",
+  "size": 44041,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.050345148Z",
+  "sha256_hash": "25ffb027e0559a34edd7a9ac1c1433e380b5ac581ffde828e568ca9bbe73dc21",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.896627543Z"
+}

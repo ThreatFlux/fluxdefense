@@ -1,0 +1,15 @@
+{
+  "uuid": "e1fc741e-5697-4ee5-b90d-008ff10954cb",
+  "path": "/usr/libexec/docker/docker-init",
+  "size": 765064,
+  "modified": "2025-05-30T12:07:27Z",
+  "created": "2025-05-30T21:04:53.318584024Z",
+  "sha256_hash": "5fb35102eb8606dfe20aa755229becc81e6fdf3ba587d64b58dca51b79c0b36a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.528283632Z"
+}

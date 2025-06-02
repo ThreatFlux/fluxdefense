@@ -1,0 +1,17 @@
+{
+  "uuid": "2df26abb-55ed-45e2-8e04-a327e188b690",
+  "path": "/usr/lib/x86_64-linux-gnu/libigdgmm.so.12.3.0",
+  "size": 637320,
+  "modified": "2024-02-07T19:24:49Z",
+  "created": "2025-05-09T05:09:28.472935213Z",
+  "sha256_hash": "cc82735bd3a925ea684e318519a10df6d5a98ad17047612489861a5d36afecd3",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.465041949Z"
+}

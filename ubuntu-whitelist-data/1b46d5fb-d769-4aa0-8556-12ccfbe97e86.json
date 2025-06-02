@@ -1,0 +1,17 @@
+{
+  "uuid": "1b46d5fb-d769-4aa0-8556-12ccfbe97e86",
+  "path": "/lib/x86_64-linux-gnu/libicui18n.so.74.2",
+  "size": 3455304,
+  "modified": "2024-08-09T02:33:20Z",
+  "created": "2025-05-09T05:07:30.545734943Z",
+  "sha256_hash": "3550b194eb2cf2e6f798f033eb9ca279d498c21296b4a18790ce158d2023e47b",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.813757989Z"
+}

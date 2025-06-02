@@ -1,0 +1,17 @@
+{
+  "uuid": "0f540063-8204-4e36-ad4e-07667be56ae1",
+  "path": "/usr/lib/python3.12/test/decimaltestdata/subtract.decTest",
+  "size": 44305,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.998551683Z",
+  "sha256_hash": "2515e665e0c81f2555f9b19e72cff8e9344e7f2ba25a77d9b87a5c9f58bf0510",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.977158950Z"
+}

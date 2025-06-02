@@ -1,0 +1,15 @@
+{
+  "uuid": "c59cde8b-c6de-4440-b27e-b6d9d2c6b0ca",
+  "path": "/bin/dpkg-gencontrol",
+  "size": 14630,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T06:33:31.736357711Z",
+  "sha256_hash": "21a07292d7f2b969c1746163044adbce7fd48762dfa1b4619d3300af274d0235",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.434477019Z"
+}

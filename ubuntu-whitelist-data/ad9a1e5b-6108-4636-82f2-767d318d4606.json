@@ -1,0 +1,17 @@
+{
+  "uuid": "ad9a1e5b-6108-4636-82f2-767d318d4606",
+  "path": "/usr/lib/firmware/intel/ibt-17-16-1.sfi.zst",
+  "size": 439825,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.561541410Z",
+  "sha256_hash": "408086e62a130903a03d61532fcfbf220e4f18c1f108670d8a23196d8cba95d7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.841591918Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "6ea7a4ce-901b-48f4-88ec-ccb1c4a850d5",
+  "path": "/usr/bin/foo2zjs",
+  "size": 44032,
+  "modified": "2024-04-10T21:38:27Z",
+  "created": "2025-05-09T05:07:19.224907694Z",
+  "sha256_hash": "498bd887197fe659271fe8f8fc6fdea9d4080492a2e31b16c7925bad9457f039",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:05.799910820Z"
+}

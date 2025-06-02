@@ -1,0 +1,17 @@
+{
+  "uuid": "129cf4c9-3e10-454a-bf49-3d4552201f71",
+  "path": "/lib/firmware/radeon/RS600_cp.bin.zst",
+  "size": 745,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "d6b37f91c662355dc830d2ff4923f68400a37c78c1f3242ebdd21b747fdad50f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.378090155Z"
+}

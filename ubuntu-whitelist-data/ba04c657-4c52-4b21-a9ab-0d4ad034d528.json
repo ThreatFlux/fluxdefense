@@ -1,0 +1,15 @@
+{
+  "uuid": "ba04c657-4c52-4b21-a9ab-0d4ad034d528",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstalaw.so",
+  "size": 27152,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.771655196Z",
+  "sha256_hash": "c0825a6c4100db9e85fe0abc98d80b326c897bfa763d7eeeaaf0ed9452eedc68",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.198247039Z"
+}

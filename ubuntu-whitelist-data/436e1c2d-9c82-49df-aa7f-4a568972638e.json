@@ -1,0 +1,17 @@
+{
+  "uuid": "436e1c2d-9c82-49df-aa7f-4a568972638e",
+  "path": "/lib/llvm-18/include/clang/Basic/TargetCXXABI.h",
+  "size": 10506,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.532533542Z",
+  "sha256_hash": "b109ec1433fb6a8fa2188ea6186c14c10d086fbec31ca28ff38c4aaa4669bfe4",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.146445279Z"
+}

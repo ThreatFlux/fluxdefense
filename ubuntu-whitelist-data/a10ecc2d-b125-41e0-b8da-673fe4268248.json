@@ -1,0 +1,17 @@
+{
+  "uuid": "a10ecc2d-b125-41e0-b8da-673fe4268248",
+  "path": "/lib/libreoffice/program/opengl/radialTwoColorGradientFragmentShader.glsl",
+  "size": 802,
+  "modified": "2024-10-29T11:14:30Z",
+  "created": "2025-05-09T05:11:17.294274200Z",
+  "sha256_hash": "99c3092542c3c7b7fe39af9520fb22ab1a0e565d5d028750fac48e3a976d15f4",
+  "file_type": {
+    "Other": "glsl"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:50.102575867Z"
+}

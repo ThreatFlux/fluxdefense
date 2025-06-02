@@ -1,0 +1,17 @@
+{
+  "uuid": "08104ca3-f903-452b-b008-5f3b9bf405dc",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/IPC/SharedMem.pm",
+  "size": 5603,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.518591327Z",
+  "sha256_hash": "1111a422cf00fde3e3d5821b9b258515980a98b1210dc747b11a212fcb93f8a6",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.663714853Z"
+}

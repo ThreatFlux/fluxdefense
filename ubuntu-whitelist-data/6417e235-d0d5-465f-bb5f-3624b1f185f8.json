@@ -1,0 +1,17 @@
+{
+  "uuid": "6417e235-d0d5-465f-bb5f-3624b1f185f8",
+  "path": "/usr/lib/evolution-data-server/camel-providers/libcamelpop3.urls",
+  "size": 4,
+  "modified": "2024-06-28T07:29:41Z",
+  "created": "2025-05-09T05:07:21.658870553Z",
+  "sha256_hash": "4c708c790274578ace7bc3e5e3c8cb070145a175e45fb929b3566e4e43739830",
+  "file_type": {
+    "Other": "urls"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.038515078Z"
+}

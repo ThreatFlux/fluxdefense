@@ -1,0 +1,17 @@
+{
+  "uuid": "da2aff32-f4c1-47d9-b755-0cf6a06c2f0c",
+  "path": "/usr/lib/llvm-18/include/clang/Sema/Initialization.h",
+  "size": 50543,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.547533344Z",
+  "sha256_hash": "eeb12cbd5cba08be0800076c3593e1abbe83b662f217f194e0090608f807c3fa",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.475493694Z"
+}

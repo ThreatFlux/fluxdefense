@@ -1,0 +1,15 @@
+{
+  "uuid": "ea67c56d-6506-4d6b-81d6-374aadbb900e",
+  "path": "/usr/bin/grep",
+  "size": 186824,
+  "modified": "2024-04-08T15:58:39Z",
+  "created": "2025-05-09T05:07:19.734899911Z",
+  "sha256_hash": "20a35a4c18f2fe9e6305c1cbf866b9c0fcc3f957132ae66028c99ec353bb0a80",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.016102722Z"
+}

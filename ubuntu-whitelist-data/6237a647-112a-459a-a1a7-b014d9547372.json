@@ -1,0 +1,15 @@
+{
+  "uuid": "6237a647-112a-459a-a1a7-b014d9547372",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM16804.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.277663461Z",
+  "sha256_hash": "7269d85fe94fcdf050bb83d1fb151e4bcd66a6930e1b2ecfd8b9e4b8c1e45c81",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.956164632Z"
+}

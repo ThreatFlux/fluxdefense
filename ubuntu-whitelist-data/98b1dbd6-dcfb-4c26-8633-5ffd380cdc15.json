@@ -1,0 +1,15 @@
+{
+  "uuid": "98b1dbd6-dcfb-4c26-8633-5ffd380cdc15",
+  "path": "/usr/sbin/remove-shell",
+  "size": 1111,
+  "modified": "2024-03-31T08:47:33Z",
+  "created": "2025-05-09T05:07:38.406614987Z",
+  "sha256_hash": "cb2689259c4a8ccb17d885be93607cfe75f812fa393fe610d343d8d928925328",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.694043599Z"
+}

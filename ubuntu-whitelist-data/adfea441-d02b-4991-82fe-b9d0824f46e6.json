@@ -1,0 +1,17 @@
+{
+  "uuid": "adfea441-d02b-4991-82fe-b9d0824f46e6",
+  "path": "/lib/firmware/ath11k/QCA2066/hw2.1/amss.bin.zst",
+  "size": 2129568,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.456542865Z",
+  "sha256_hash": "bb3e2d688265a2ca364d0acef361f4bf315d009f45346b212935a238864a4b22",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:03.291674620Z"
+}

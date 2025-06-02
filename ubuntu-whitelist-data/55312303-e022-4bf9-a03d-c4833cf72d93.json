@@ -1,0 +1,17 @@
+{
+  "uuid": "55312303-e022-4bf9-a03d-c4833cf72d93",
+  "path": "/lib/systemd/system/snapd.snap-repair.service",
+  "size": 476,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.385025837Z",
+  "sha256_hash": "c7a40c203c7c0656ebec216f506d84bca05ccd035b3bc7be31cd9f3e71d037bb",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.118154577Z"
+}

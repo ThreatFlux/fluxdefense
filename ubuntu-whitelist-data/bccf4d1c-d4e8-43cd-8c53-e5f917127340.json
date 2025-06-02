@@ -1,0 +1,15 @@
+{
+  "uuid": "bccf4d1c-d4e8-43cd-8c53-e5f917127340",
+  "path": "/bin/ibus",
+  "size": 51576,
+  "modified": "2024-03-31T12:04:22Z",
+  "created": "2025-05-09T05:07:20.047895136Z",
+  "sha256_hash": "adfa122e8c88dd652ca2bc701ebd64b6af8db23f20f6e2f3a02965097b679a2c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.236719017Z"
+}

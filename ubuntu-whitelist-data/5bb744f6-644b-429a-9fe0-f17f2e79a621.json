@@ -1,0 +1,17 @@
+{
+  "uuid": "5bb744f6-644b-429a-9fe0-f17f2e79a621",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-imx8-nocodec-sai.tplg.zst",
+  "size": 602,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.059490968Z",
+  "sha256_hash": "d6469bf195a22594baca0ccf34a3978e9d55f5becb9bc7e19a050dcb1f75d5a1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.887161724Z"
+}

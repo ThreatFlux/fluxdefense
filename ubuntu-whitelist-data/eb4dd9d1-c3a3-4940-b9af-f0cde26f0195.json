@@ -1,0 +1,15 @@
+{
+  "uuid": "eb4dd9d1-c3a3-4940-b9af-f0cde26f0195",
+  "path": "/usr/lib/libreoffice/program/libstocserviceslo.so",
+  "size": 152032,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:03.185489562Z",
+  "sha256_hash": "bc96afbdfe4543da0874d6eebac957d46897ac0aea6a7b7ee5546f875963614c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:44.890702946Z"
+}

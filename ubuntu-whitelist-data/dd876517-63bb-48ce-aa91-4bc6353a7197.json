@@ -1,0 +1,15 @@
+{
+  "uuid": "dd876517-63bb-48ce-aa91-4bc6353a7197",
+  "path": "/usr/bin/runc",
+  "size": 10545736,
+  "modified": "2025-03-31T12:35:03Z",
+  "created": "2025-05-09T05:49:09.985886915Z",
+  "sha256_hash": "f657d07d01c06268469cf489d45aad149e6ccbccf0cab441f04ecc702e32f8dd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:11.576542608Z"
+}

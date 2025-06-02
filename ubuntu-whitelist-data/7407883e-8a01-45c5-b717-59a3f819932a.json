@@ -1,0 +1,15 @@
+{
+  "uuid": "7407883e-8a01-45c5-b717-59a3f819932a",
+  "path": "/lib/x86_64-linux-gnu/libvulkan_virtio.so",
+  "size": 1251064,
+  "modified": "2024-12-16T10:17:11Z",
+  "created": "2025-05-09T05:07:33.025697099Z",
+  "sha256_hash": "6cd3b2071193485fd412b07df7632d5572ef159954991f7ed9f84648daca7341",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.406261074Z"
+}

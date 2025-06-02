@@ -1,0 +1,17 @@
+{
+  "uuid": "06f40f35-d97e-4530-ab38-e24986e6ad92",
+  "path": "/lib/firmware/rt2870.bin.zst",
+  "size": 2633,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.065534429Z",
+  "sha256_hash": "6bbe828164cc8c734d4f93999c177ef2afdba9b17c8f34cb3066eb549086d2bf",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.783664657Z"
+}

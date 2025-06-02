@@ -1,0 +1,17 @@
+{
+  "uuid": "ed0ce76b-b3ae-42f7-b9c6-056d48c3f443",
+  "path": "/lib/modules/6.11.0-25-generic/kernel/sound/soundcore.ko.zst",
+  "size": 6613,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.151459040Z",
+  "sha256_hash": "9a3f1e1e0af080ee67349e38a2cadebc66df46c81b5bc7e9278ef51e02bb5030",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.914681898Z"
+}

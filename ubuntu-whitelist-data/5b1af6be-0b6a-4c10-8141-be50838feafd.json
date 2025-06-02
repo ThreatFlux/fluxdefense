@@ -1,0 +1,17 @@
+{
+  "uuid": "5b1af6be-0b6a-4c10-8141-be50838feafd",
+  "path": "/lib/x86_64-linux-gnu/libspice-client-glib-2.0.so.8.8.2",
+  "size": 1089104,
+  "modified": "2024-04-01T04:49:34Z",
+  "created": "2025-05-09T05:56:49.966637813Z",
+  "sha256_hash": "48e5fc2bd89a1d20a224fb11c89265c87c6f94bb9a9d6e797bb5314f4d7531a6",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.365450103Z"
+}

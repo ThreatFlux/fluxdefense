@@ -1,0 +1,15 @@
+{
+  "uuid": "17674781-18c3-45a5-9b20-76f42fd0ef9f",
+  "path": "/lib/llvm-18/bin/llvm-cfi-verify",
+  "size": 102072,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:34.908489085Z",
+  "sha256_hash": "10cab095fae73f3fd3613e0b149fb5fcc18e824ac017f92440e3fc7bc39bca34",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.820797544Z"
+}

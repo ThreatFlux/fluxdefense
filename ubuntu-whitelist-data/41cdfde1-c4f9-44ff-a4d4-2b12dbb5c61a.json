@@ -1,0 +1,15 @@
+{
+  "uuid": "41cdfde1-c4f9-44ff-a4d4-2b12dbb5c61a",
+  "path": "/bin/chcon",
+  "size": 59912,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:19.095909662Z",
+  "sha256_hash": "9b58798f0ad6f06edb2636489c7a1c932cf2644ae67f649fb3df62d40fda3bc7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:18.993087628Z"
+}

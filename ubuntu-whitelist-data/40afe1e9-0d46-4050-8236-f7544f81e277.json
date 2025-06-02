@@ -1,0 +1,17 @@
+{
+  "uuid": "40afe1e9-0d46-4050-8236-f7544f81e277",
+  "path": "/lib/x86_64-linux-gnu/libmpeg2.so.0.1.0",
+  "size": 121704,
+  "modified": "2024-04-18T17:49:35Z",
+  "created": "2025-05-09T05:09:27.441950949Z",
+  "sha256_hash": "7b262cdb194c95e74cab8b7379297fa5c747af2f8a2dedba1353359752844814",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.608009096Z"
+}

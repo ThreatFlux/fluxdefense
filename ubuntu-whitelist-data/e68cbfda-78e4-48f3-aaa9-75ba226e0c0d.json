@@ -1,0 +1,17 @@
+{
+  "uuid": "e68cbfda-78e4-48f3-aaa9-75ba226e0c0d",
+  "path": "/lib/udev/hwdb.bin",
+  "size": 12810953,
+  "modified": "2025-05-09T05:24:50.324910141Z",
+  "created": "2025-05-09T05:24:50.317910854Z",
+  "sha256_hash": "62d7c759b66cff85c7aa8d3017d31847d2610a79f4d94e16a13aff5bbe6abbf2",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33060,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.236698460Z"
+}

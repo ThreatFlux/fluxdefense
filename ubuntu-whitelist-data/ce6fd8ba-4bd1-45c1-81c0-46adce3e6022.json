@@ -1,0 +1,15 @@
+{
+  "uuid": "ce6fd8ba-4bd1-45c1-81c0-46adce3e6022",
+  "path": "/usr/bin/grub-kbdcomp",
+  "size": 1681,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.594711726Z",
+  "sha256_hash": "77b399133ac3bd9fe66c2f867141f6baedefa14dea01932544baf0a08c8c7e33",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.332606805Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "7cb4d580-a5a6-4a48-b073-87bd4793b6e5",
+  "path": "/usr/lib/llvm-18/include/clang/AST/QualTypeNames.h",
+  "size": 3221,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.519533713Z",
+  "sha256_hash": "fa1aa39544ec570181b834eabed4e43ee33f92a542264df69949986d9763ed6c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.386805851Z"
+}

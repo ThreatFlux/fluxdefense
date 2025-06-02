@@ -1,0 +1,17 @@
+{
+  "uuid": "a46507da-a9ce-4980-bcf2-0f4af3cd76aa",
+  "path": "/usr/lib/x86_64-linux-gnu/mutter-14/libmutter-cogl-pango-14.so.0.0.0",
+  "size": 39064,
+  "modified": "2025-04-09T06:13:33Z",
+  "created": "2025-05-09T05:24:17.523830865Z",
+  "sha256_hash": "687175485bfc9cba5ca047a08890d84da475e789117d23994bd4d3d72654d09f",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.120758591Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "050219be-2413-475a-b4b4-3fb29e4ddfa7",
+  "path": "/lib/firmware/radeon/PALM_pfp.bin.zst",
+  "size": 2113,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "60da88807624640d226926dfc1bf68b449721d26cec0da61307ac0181df15f57",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.375034204Z"
+}

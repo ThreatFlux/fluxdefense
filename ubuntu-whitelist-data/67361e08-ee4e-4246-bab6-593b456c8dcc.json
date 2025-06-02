@@ -1,0 +1,15 @@
+{
+  "uuid": "67361e08-ee4e-4246-bab6-593b456c8dcc",
+  "path": "/usr/lib/x86_64-linux-gnu/sssd/libsss_ad.so",
+  "size": 299112,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:37.244632719Z",
+  "sha256_hash": "7825ddca158f9832c46e0312091e8911fdbfa3c5e449e041127428dbcf01d072",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.037070539Z"
+}

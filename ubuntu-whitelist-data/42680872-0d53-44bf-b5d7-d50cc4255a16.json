@@ -1,0 +1,15 @@
+{
+  "uuid": "42680872-0d53-44bf-b5d7-d50cc4255a16",
+  "path": "/lib/x86_64-linux-gnu/libijs-0.35.so",
+  "size": 27016,
+  "modified": "2024-04-08T15:59:27Z",
+  "created": "2025-05-09T05:07:30.561734699Z",
+  "sha256_hash": "a31841ee52a5da0d23f128b8902daf436ef727a067cd3e8356441065ec967ad7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.392709308Z"
+}

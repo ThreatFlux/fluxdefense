@@ -1,0 +1,17 @@
+{
+  "uuid": "f2f65db1-ac3c-45d0-81d3-7dde6d8fb5fd",
+  "path": "/lib/firmware/radeon/RV710_pfp.bin.zst",
+  "size": 1457,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.062534471Z",
+  "sha256_hash": "4c1e345fba088a045d9ca6cda27927b3fb5988301e5fc4b10d2582a9f8e57b63",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.395507357Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "fde3d366-115a-46c3-ad14-2bd1131b23bc",
+  "path": "/lib/libreoffice/program/libucpdav1.so",
+  "size": 519936,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:20.109231229Z",
+  "sha256_hash": "f4ea04f33ad490dab197ac3bc1c0d5eeace20e3e8d91bd3482943973c379cb92",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:49.942503218Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "ffd44f96-67ae-49b4-9609-d35070905c62",
+  "path": "/usr/lib/x86_64-linux-gnu/sssd/libsss_ipa.so",
+  "size": 607944,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:37.257632520Z",
+  "sha256_hash": "3255f63f6f50e814e2008291e87304335e74d7b092476413efc01a92ea50407a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.012075678Z"
+}

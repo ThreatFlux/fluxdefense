@@ -1,0 +1,17 @@
+{
+  "uuid": "40c577e9-8df2-47b3-a5ef-a0733a95f07c",
+  "path": "/lib/x86_64-linux-gnu/libatasmart.so.4.0.5",
+  "size": 59840,
+  "modified": "2024-04-08T16:01:42Z",
+  "created": "2025-05-09T05:07:29.180755772Z",
+  "sha256_hash": "25b1ed5913367f39ce9e5c4f7d6fccee8f13df814c193845cfeabc0e5bbb2498",
+  "file_type": {
+    "Other": "5"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.335755572Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "28c68e1b-de66-4f50-be2f-81859a77a156",
+  "path": "/lib/byobu/battery",
+  "size": 4531,
+  "modified": "2024-02-10T17:03:36Z",
+  "created": "2025-05-23T03:43:49.241694174Z",
+  "sha256_hash": "5b4d340c29b20c51b6a313239409ccb4054ae787f89595b2b250b3a761ea1657",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.413779572Z"
+}

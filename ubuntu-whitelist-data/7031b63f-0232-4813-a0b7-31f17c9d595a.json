@@ -1,0 +1,17 @@
+{
+  "uuid": "7031b63f-0232-4813-a0b7-31f17c9d595a",
+  "path": "/usr/lib/modules/6.11.0-25-generic/modules.symbols",
+  "size": 768327,
+  "modified": "2025-05-09T12:56:07.399093773Z",
+  "created": "2025-05-09T12:56:07.397093718Z",
+  "sha256_hash": "88b2332355b5f420df5e036da98d3b863db6cbd1b267334e759f6f46843967d9",
+  "file_type": {
+    "Other": "symbols"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.362144981Z"
+}

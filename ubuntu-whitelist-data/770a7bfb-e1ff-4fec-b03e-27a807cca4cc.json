@@ -1,0 +1,17 @@
+{
+  "uuid": "770a7bfb-e1ff-4fec-b03e-27a807cca4cc",
+  "path": "/usr/lib/x86_64-linux-gnu/libflite_cmulex.so.2.2",
+  "size": 612584,
+  "modified": "2024-04-07T07:12:09Z",
+  "created": "2025-05-09T05:09:24.137001391Z",
+  "sha256_hash": "1be5a03bdad437aa7d4cc35aa2861c34df75a3a10ad855334829a42ce9c93015",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.253642254Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "ab8ddcf8-a7f4-4606-9bb3-8d66099157a1",
+  "path": "/bin/xvidtune",
+  "size": 44808,
+  "modified": "2024-03-31T17:27:26Z",
+  "created": "2025-05-09T05:07:20.944881448Z",
+  "sha256_hash": "8623cdafbdb50a7d94a058f135b3cb4b252b2fe99211c82f8cf42fd3d72cb785",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.782675436Z"
+}

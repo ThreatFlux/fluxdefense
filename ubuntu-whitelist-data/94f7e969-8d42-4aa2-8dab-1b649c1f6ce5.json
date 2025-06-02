@@ -1,0 +1,15 @@
+{
+  "uuid": "94f7e969-8d42-4aa2-8dab-1b649c1f6ce5",
+  "path": "/usr/bin/ip",
+  "size": 772856,
+  "modified": "2024-03-31T09:00:13Z",
+  "created": "2025-05-09T05:07:20.072894754Z",
+  "sha256_hash": "5edd8d90a46b646a80f92c6a5337f69a05720b054cd371969da4aa8be699a854",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.147548670Z"
+}

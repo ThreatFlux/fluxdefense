@@ -1,0 +1,15 @@
+{
+  "uuid": "b94a0a27-6be4-489c-b0e4-b723fdc574cf",
+  "path": "/usr/lib/python3/dist-packages/duplicity/backends/_cf_pyrax.py",
+  "size": 5138,
+  "modified": "2025-02-15T08:51:42Z",
+  "created": "2025-05-09T05:07:26.868791052Z",
+  "sha256_hash": "d58608ba8414a40529ea3fa35f6bb72f2d01017b2be618bcbfecfaa29e087395",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.647684007Z"
+}

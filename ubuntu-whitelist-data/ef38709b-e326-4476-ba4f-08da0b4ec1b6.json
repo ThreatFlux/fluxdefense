@@ -1,0 +1,15 @@
+{
+  "uuid": "ef38709b-e326-4476-ba4f-08da0b4ec1b6",
+  "path": "/sbin/runqlat-bpfcc",
+  "size": 9526,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "4c8c7ce1c11f6564b29025c5d8ea2e3c20fc533ef17285f0ee3a06315946562a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.858167393Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "39c10a37-2ad0-4012-b26a-e4799b7148f9",
+  "path": "/lib/llvm-18/include/clang/AST/ExprCXX.h",
+  "size": 186244,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.518533726Z",
+  "sha256_hash": "6465930c7b00d1ab283dd8ab169b220a7cd37ef5ab3e615f0f55f2c25b3e158a",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.012599733Z"
+}

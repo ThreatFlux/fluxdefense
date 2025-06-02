@@ -1,0 +1,17 @@
+{
+  "uuid": "ec26e6e9-74da-4670-ab7d-ef638ad053e1",
+  "path": "/lib/snapd/snap-failure",
+  "size": 2917160,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.460026836Z",
+  "sha256_hash": "0159d465a0e2e25d820c781d15eaa9b08479089b6116a464dbd18dc130d10b0b",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.018886100Z"
+}

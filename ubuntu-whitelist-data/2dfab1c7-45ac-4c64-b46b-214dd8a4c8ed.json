@@ -1,0 +1,15 @@
+{
+  "uuid": "2dfab1c7-45ac-4c64-b46b-214dd8a4c8ed",
+  "path": "/usr/lib/llvm-18/lib/libLLVMXtensaAsmParser.a",
+  "size": 75124,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.087460387Z",
+  "sha256_hash": "17955c03a2d1830068eaf8b49fc77b4c8aeab7d1c5903aaeb3f0d9ed68451633",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:30.529986817Z"
+}

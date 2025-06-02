@@ -1,0 +1,15 @@
+{
+  "uuid": "e1950a63-51b0-496c-a6e7-8fa5c8be3329",
+  "path": "/usr/bin/deb-systemd-invoke",
+  "size": 7135,
+  "modified": "2023-12-06T07:47:58Z",
+  "created": "2025-05-09T05:07:19.148908853Z",
+  "sha256_hash": "92eadae89f4df4cd6088f6316f5390b685faf8d0e312a4e5af3a507caaf81bdb",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.163223033Z"
+}

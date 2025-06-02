@@ -1,0 +1,17 @@
+{
+  "uuid": "83f2a92a-e7c0-4a5d-bec4-a582c91c652b",
+  "path": "/lib/firmware/ath11k/WCN6855/hw2.0/board-2.bin.zst",
+  "size": 48590,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.470542671Z",
+  "sha256_hash": "ba583c3550d15871dbbbe1349dab64bac5badced5b6bf122aa7263f8d7df76d4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:03.398172865Z"
+}

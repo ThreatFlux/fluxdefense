@@ -1,0 +1,15 @@
+{
+  "uuid": "722bd2a6-2cc4-4462-b4bc-e3be4e9b9602",
+  "path": "/lib/i386-linux-gnu/gconv/IBM901.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.279663431Z",
+  "sha256_hash": "012c525011eb9459b85a1f9e18cab800b3152b8a92e0d5ffb50a203b4530dbbc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.825959518Z"
+}

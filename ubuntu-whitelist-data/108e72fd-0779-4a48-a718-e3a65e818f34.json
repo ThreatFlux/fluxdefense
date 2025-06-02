@@ -1,0 +1,15 @@
+{
+  "uuid": "108e72fd-0779-4a48-a718-e3a65e818f34",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/IBM275.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.648657073Z",
+  "sha256_hash": "d156d7c6228aae02e4f082d16356609b4ff7693f5d26078718ca25a87980731b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.573050938Z"
+}

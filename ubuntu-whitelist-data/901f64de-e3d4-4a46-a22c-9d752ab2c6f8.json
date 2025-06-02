@@ -1,0 +1,17 @@
+{
+  "uuid": "901f64de-e3d4-4a46-a22c-9d752ab2c6f8",
+  "path": "/usr/lib/x86_64-linux-gnu/libieee1284.so.3.2.2",
+  "size": 47592,
+  "modified": "2024-03-31T07:50:14Z",
+  "created": "2025-05-09T05:07:30.561734699Z",
+  "sha256_hash": "25d687c8d65b280ebec2d9ab21d13948fa3bdf49144550dc8cf9cc57bc65b968",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.996094556Z"
+}

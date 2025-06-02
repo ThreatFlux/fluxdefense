@@ -1,0 +1,17 @@
+{
+  "uuid": "bd750cb2-c9e9-470d-9274-835893abfe0e",
+  "path": "/usr/lib/aspell/x86_64-linux-gnu/none.amf",
+  "size": 69,
+  "modified": "2024-04-08T15:54:10Z",
+  "created": "2025-05-09T05:07:21.019880303Z",
+  "sha256_hash": "26a97105dc32587b1d7a1319c5606299f98cc4a9e0ba988ac288a9b8cfca49bc",
+  "file_type": {
+    "Other": "amf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.315843954Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "742a666d-b20a-48ce-baf9-04ee09e9627b",
+  "path": "/usr/lib/x86_64-linux-gnu/libnvidia-rtcore.so.550.144.03",
+  "size": 76336528,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:02.110952435Z",
+  "sha256_hash": "7769752b3f273063bd0028a62fa42e416e13d1c0dd74810535657a6800c2153f",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:08.007669114Z"
+}

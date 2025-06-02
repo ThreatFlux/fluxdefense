@@ -1,0 +1,17 @@
+{
+  "uuid": "0b71fc6c-b8cb-4c7c-a62e-f628dc19eb1b",
+  "path": "/usr/lib/sysusers.d/cron-daemon-common.conf",
+  "size": 14,
+  "modified": "2024-02-27T02:09:41Z",
+  "created": "2025-05-09T05:07:28.308769079Z",
+  "sha256_hash": "b400e7eb2fdfa4d3249aed0a9d7f9e25093511d76ec3038de7aae8f81e7647fa",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.296393390Z"
+}

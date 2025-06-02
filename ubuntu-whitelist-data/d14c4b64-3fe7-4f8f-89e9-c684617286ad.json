@@ -1,0 +1,17 @@
+{
+  "uuid": "d14c4b64-3fe7-4f8f-89e9-c684617286ad",
+  "path": "/usr/lib/x86_64-linux-gnu/libpinyin/data/culture.bin",
+  "size": 1063,
+  "modified": "2024-04-06T01:15:02Z",
+  "created": "2025-05-09T05:07:36.230648192Z",
+  "sha256_hash": "9e1aa971d0ee7eaf473bdfb96a6ea3f78d9224e589410287756d97e285d26162",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.306581618Z"
+}

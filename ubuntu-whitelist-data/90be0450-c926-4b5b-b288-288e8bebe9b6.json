@@ -1,0 +1,17 @@
+{
+  "uuid": "90be0450-c926-4b5b-b288-288e8bebe9b6",
+  "path": "/usr/lib/udev/rules.d/69-wacom.rules",
+  "size": 1138,
+  "modified": "2024-04-08T16:22:51Z",
+  "created": "2025-05-09T05:07:28.436767125Z",
+  "sha256_hash": "d06d1780d4ac101e201b96919547b7f8e5034d7666b4fbace733f837096c14e0",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.106824876Z"
+}

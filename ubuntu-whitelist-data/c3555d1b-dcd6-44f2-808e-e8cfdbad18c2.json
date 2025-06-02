@@ -1,0 +1,17 @@
+{
+  "uuid": "c3555d1b-dcd6-44f2-808e-e8cfdbad18c2",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/AssertSideEffectCheck.h",
+  "size": 1857,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "42f58ffc1b6ea99039432f65fc4b259c543ea8e1e12f49c17fbbb9e92b2565d4",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.231051669Z"
+}

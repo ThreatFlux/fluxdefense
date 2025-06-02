@@ -1,0 +1,15 @@
+{
+  "uuid": "e78e0820-cb3f-4acd-9c75-04524b68ff4a",
+  "path": "/usr/lib/google-cloud-sdk/platform/gsutil/gslib/command_runner.py",
+  "size": 23764,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.817930494Z",
+  "sha256_hash": "aaea2dd34d748d7c0ad956e365bde3a600dfe229a3c37c2fdde611998f23e811",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.580763760Z"
+}

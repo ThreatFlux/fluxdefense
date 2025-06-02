@@ -1,0 +1,17 @@
+{
+  "uuid": "c6c852fd-5f1f-462f-ab9e-7e92601c50b6",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/fa_dict",
+  "size": 292327,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.430660400Z",
+  "sha256_hash": "b2f9ef671863d0167dda0e7743cb2dfc9bf2ebccfd3a69a209d2794b06d5be17",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.262965184Z"
+}

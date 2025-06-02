@@ -1,0 +1,15 @@
+{
+  "uuid": "b649f26f-25a3-4c45-9f63-1ae4c482ae6c",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/analyze/show.py",
+  "size": 11052,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.233037137Z",
+  "sha256_hash": "fae204d08fba63f91eb1b8a33eab076d133ee85b996131b8190dc858f0e65c81",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.845217777Z"
+}

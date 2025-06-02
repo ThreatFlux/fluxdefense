@@ -1,0 +1,15 @@
+{
+  "uuid": "4d79a30d-2a09-445c-b298-5a94b4b948bc",
+  "path": "/usr/lib/x86_64-linux-gnu/libresolv.a",
+  "size": 88100,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:08:53.076475447Z",
+  "sha256_hash": "96fdd4c0c95019427c9257c290130ea64a91a40ec8ba610ddc06f8166acfda7b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.156969925Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "eb33d17c-b885-4c76-8fdc-fae8e1a3179d",
+  "path": "/usr/lib/firmware/cypress/cyfmac43570-pcie.bin.zst",
+  "size": 340575,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.519541992Z",
+  "sha256_hash": "58cfcfefe57e18c6eece2ab9f5d1b65d3d7c169a7f2b639034a4ebdc3d7eb307",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.611451311Z"
+}

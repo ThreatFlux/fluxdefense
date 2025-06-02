@@ -1,0 +1,15 @@
+{
+  "uuid": "2766de5a-83d5-49b3-9ba5-633af272f7dc",
+  "path": "/lib/llvm-18/lib/libLLVMAArch64Disassembler.a",
+  "size": 399252,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.709465365Z",
+  "sha256_hash": "0914253701fd4144cba45816ed231b6f2905f743fea2b80e894e11218dd99b38",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:40.839865129Z"
+}

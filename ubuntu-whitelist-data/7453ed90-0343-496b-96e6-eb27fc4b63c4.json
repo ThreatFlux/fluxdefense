@@ -1,0 +1,15 @@
+{
+  "uuid": "7453ed90-0343-496b-96e6-eb27fc4b63c4",
+  "path": "/usr/sbin/update-secureboot-policy",
+  "size": 7605,
+  "modified": "2024-01-24T09:14:48Z",
+  "created": "2025-05-09T05:08:38.676695214Z",
+  "sha256_hash": "fb82f2f3fdbeb6009a71d713eee92bc712d9f0ef9bd9eafa083ce51b4f2c3192",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.731773113Z"
+}

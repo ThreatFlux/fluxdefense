@@ -1,0 +1,17 @@
+{
+  "uuid": "436a4288-17de-4888-90a0-a199005a88da",
+  "path": "/lib/firmware/nvidia/ga107/gr/fecs_sig.bin.zst",
+  "size": 1619,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.936536216Z",
+  "sha256_hash": "f4125a8624c1064e82ab821558180bf29bb8b297d8da4fab6bb52e6b2ec2e0ee",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.444448054Z"
+}

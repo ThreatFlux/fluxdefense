@@ -1,0 +1,17 @@
+{
+  "uuid": "252755c4-9b4e-4965-9ad9-af011ec7ce58",
+  "path": "/usr/lib/grub/x86_64-efi/gettext.mod",
+  "size": 8664,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.809708445Z",
+  "sha256_hash": "04f3f8237c11d74513578001ff0d1e1152824eb33e24f2d14a28ee0c8e2dd463",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.598561760Z"
+}

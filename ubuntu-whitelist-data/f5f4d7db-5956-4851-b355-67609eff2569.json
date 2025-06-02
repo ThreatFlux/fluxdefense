@@ -1,0 +1,15 @@
+{
+  "uuid": "f5f4d7db-5956-4851-b355-67609eff2569",
+  "path": "/usr/lib/llvm-18/lib/libLLVMWebAssemblyUtils.a",
+  "size": 8938,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.058460769Z",
+  "sha256_hash": "a1b18984d610bd0a03d2c36edc35fdd4fe4ea51c5634f473b419a2071368a264",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:33.976329892Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "8cd6a70d-df8d-4c4f-8987-424ed40f5875",
+  "path": "/lib/firmware/ath12k/WCN7850/hw2.0/m3.bin.zst",
+  "size": 139662,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.474542615Z",
+  "sha256_hash": "4e5f8d61eedbd323c9203bc28e2fa130783dc377e994ae4510f7a0eaa9c578cf",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.350861394Z"
+}

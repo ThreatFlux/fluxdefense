@@ -1,0 +1,15 @@
+{
+  "uuid": "a621a389-a459-4366-b5bf-05839d659b2b",
+  "path": "/lib/x86_64-linux-gnu/gconv/MAC-SAMI.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.677656631Z",
+  "sha256_hash": "608a191e80dbcd233a000fc0176018dd5e5fe0ca9af043b72dde2f8742529cd0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.784771295Z"
+}

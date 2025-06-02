@@ -1,0 +1,15 @@
+{
+  "uuid": "7e2f9ab7-0d25-4b40-b1b6-3246018d7f03",
+  "path": "/lib/google-cloud-sdk/lib/surface/tasks/acknowledge.py",
+  "size": 1570,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.764931394Z",
+  "sha256_hash": "2ba215f3b3b23b1461d1c4996fe943da6fb77a8643a076352230f5b11b00ed19",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.059622200Z"
+}

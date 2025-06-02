@@ -1,0 +1,17 @@
+{
+  "uuid": "23788d9b-0979-4b8c-8607-7cacdf6f3694",
+  "path": "/usr/lib/systemd/system/ubuntu-advantage-desktop-daemon.service",
+  "size": 434,
+  "modified": "2024-10-04T16:05:56Z",
+  "created": "2025-05-09T05:07:28.304769139Z",
+  "sha256_hash": "90c28e5139764d5fec8f042cf8d484089139c57af02d15ba10e4e40f626bd1d9",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.466579282Z"
+}

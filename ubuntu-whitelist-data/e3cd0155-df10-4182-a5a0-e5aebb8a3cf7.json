@@ -1,0 +1,17 @@
+{
+  "uuid": "e3cd0155-df10-4182-a5a0-e5aebb8a3cf7",
+  "path": "/usr/lib/x86_64-linux-gnu/librte_rcu.so.24.0",
+  "size": 22600,
+  "modified": "2024-12-18T18:31:38Z",
+  "created": "2025-05-26T20:18:26.732027806Z",
+  "sha256_hash": "9d06c88a0b005c1ddbdf4b997ad45feafae720544c27d25977dee7188119a4c8",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.323121812Z"
+}

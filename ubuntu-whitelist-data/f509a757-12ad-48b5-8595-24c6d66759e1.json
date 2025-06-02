@@ -1,0 +1,17 @@
+{
+  "uuid": "f509a757-12ad-48b5-8595-24c6d66759e1",
+  "path": "/usr/lib/systemd/user/gnome-session-x11-services-ready.target",
+  "size": 181,
+  "modified": "2024-03-18T19:30:06Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "8babfa5a48cd6ced493372dac832de5e87a05d11ce9b8e2bc30b761337798f47",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.501482840Z"
+}

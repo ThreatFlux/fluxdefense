@@ -1,0 +1,17 @@
+{
+  "uuid": "590d29ab-15f6-4f0b-b2b6-afac18f07175",
+  "path": "/lib/firmware/intel/sof-tplg/sof-cnl-rt274.tplg.zst",
+  "size": 910,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.058490984Z",
+  "sha256_hash": "fcea9a7ca4f09a439e184cf43fa03fe21b00dfb4a7ab96ab2e181aa772575c5c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.217037341Z"
+}

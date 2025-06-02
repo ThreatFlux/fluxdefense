@@ -1,0 +1,15 @@
+{
+  "uuid": "80feda9c-fc7e-442e-a71d-7d490599011e",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/websocket/_socket.py",
+  "size": 5009,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.307939158Z",
+  "sha256_hash": "debbdad5e92d478582c1adcd2f33c4969fcd8ee80fb1749f41fe8930e21224f6",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.744120953Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "1e848a3d-1f14-47ea-b292-87dcb81a9fd3",
+  "path": "/usr/lib/i386-linux-gnu/gconv/ISO8859-1.so",
+  "size": 13708,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.282663385Z",
+  "sha256_hash": "1b7c6f45441652a81553665b45a4c4b1bda481b9322734f7724b7b08df73e0c7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:41.024013928Z"
+}

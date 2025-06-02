@@ -1,0 +1,17 @@
+{
+  "uuid": "100d4b0c-236b-4482-b6cf-70966d09ca3e",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/sys/time.ph",
+  "size": 3717,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.560590686Z",
+  "sha256_hash": "416e64b650aac1160be1add1b3e810d28a1eef8ec23cf7beb8e057aff6e5f395",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.658132927Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "4ea0d1c3-5f72-4d27-9956-ce0d20722cee",
+  "path": "/usr/bin/debconf-show",
+  "size": 1825,
+  "modified": "2024-04-12T12:40:53Z",
+  "created": "2025-05-09T05:07:19.148908853Z",
+  "sha256_hash": "314fa1730e1efe15db17307848e7a53e450d0093009b6f1596cd3fe0ffec1b67",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:14.447720576Z"
+}

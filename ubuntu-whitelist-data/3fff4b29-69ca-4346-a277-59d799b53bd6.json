@@ -1,0 +1,17 @@
+{
+  "uuid": "3fff4b29-69ca-4346-a277-59d799b53bd6",
+  "path": "/usr/lib/udev/rules.d/77-mm-broadmobi-port-types.rules",
+  "size": 936,
+  "modified": "2024-02-19T14:58:32Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "af16fbd4103e8ce3df48673e9340ecf8d2bd586e210c209b4b0d7e6f18f5c515",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.105012155Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "7c3dc7d0-585c-4994-ad37-1fdc054222b6",
+  "path": "/lib/firmware/mrvl/cpt03/ae.out.zst",
+  "size": 7506,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.792538211Z",
+  "sha256_hash": "09318414866c9f85eb42b437949d1f2ac139d178f992c29597426bc4780201c0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.861369244Z"
+}

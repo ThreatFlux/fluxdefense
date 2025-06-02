@@ -1,0 +1,15 @@
+{
+  "uuid": "162c4ff6-6f30-424e-aac0-5c51487222a5",
+  "path": "/sbin/getweb",
+  "size": 13993,
+  "modified": "2024-04-10T21:38:27Z",
+  "created": "2025-05-09T05:07:38.210617978Z",
+  "sha256_hash": "1c4359685aa8f5446b63ba4c14ba868f0ca5791c740f00ceeea3ba9ca1f1b368",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.744584006Z"
+}

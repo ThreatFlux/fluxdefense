@@ -1,0 +1,17 @@
+{
+  "uuid": "031f7bc3-692d-467b-822f-14f723b349de",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/InfiniteLoopCheck.h",
+  "size": 1225,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "c0606a96a8484f0c5562b9c1db8dfdf67e878610eb1384f063022d5d4ea597bd",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.232714823Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e4861557-04b3-4777-ab8a-23457cb40c21",
+  "path": "/lib/i386-linux-gnu/libXdmcp.so.6.0.0",
+  "size": 21852,
+  "modified": "2024-04-08T16:09:38Z",
+  "created": "2025-05-09T12:55:59.122876606Z",
+  "sha256_hash": "47f3fec7ce298bf6eda3a7e033fb304869660b81b106370db351179d3fa7d888",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.217563360Z"
+}

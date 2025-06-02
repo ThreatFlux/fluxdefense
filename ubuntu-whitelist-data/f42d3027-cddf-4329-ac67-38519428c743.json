@@ -1,0 +1,17 @@
+{
+  "uuid": "f42d3027-cddf-4329-ac67-38519428c743",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-jsl-cs42l42-mx98360a.tplg.zst",
+  "size": 1981,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.060490953Z",
+  "sha256_hash": "51bfa52cc2ee88ba6998338ce3d0685ad833b33b088836382501275b80bb3b66",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.862386334Z"
+}

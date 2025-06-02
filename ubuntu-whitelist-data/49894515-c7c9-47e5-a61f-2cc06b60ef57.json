@@ -1,0 +1,15 @@
+{
+  "uuid": "49894515-c7c9-47e5-a61f-2cc06b60ef57",
+  "path": "/lib/llvm-18/lib/libclangTidyPortabilityModule.a",
+  "size": 262696,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.896528748Z",
+  "sha256_hash": "acdbd63f70119a3adf56d44906316832048879d1ae771e1c91ca158437ec9c50",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.135374984Z"
+}

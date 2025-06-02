@@ -1,0 +1,15 @@
+{
+  "uuid": "bf6da952-f128-41f0-aeea-38921e1938eb",
+  "path": "/usr/libexec/qmi-proxy",
+  "size": 18888,
+  "modified": "2024-03-31T02:12:03Z",
+  "created": "2025-05-09T05:07:37.558627927Z",
+  "sha256_hash": "c636fcf0ab3e49ea6cf7377967ab38feaf94ae84cfa1b434df956a0cd448af57",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.111948053Z"
+}

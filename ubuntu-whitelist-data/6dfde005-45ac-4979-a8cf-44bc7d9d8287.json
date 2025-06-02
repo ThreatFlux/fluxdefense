@@ -1,0 +1,15 @@
+{
+  "uuid": "6dfde005-45ac-4979-a8cf-44bc7d9d8287",
+  "path": "/usr/lib/x86_64-linux-gnu/tracker-miners-3.0/extract-modules/libextract-jpeg.so",
+  "size": 39144,
+  "modified": "2024-03-31T17:20:13Z",
+  "created": "2025-05-09T05:07:37.309631727Z",
+  "sha256_hash": "aeeafdfcb164cbb3863833aae36e870559d6d6a8e471def5f09c0cedc50dcf42",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.205250552Z"
+}

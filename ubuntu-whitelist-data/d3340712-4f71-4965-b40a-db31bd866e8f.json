@@ -1,0 +1,17 @@
+{
+  "uuid": "d3340712-4f71-4965-b40a-db31bd866e8f",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-byt-da7213.tplg.zst",
+  "size": 1069,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.058490984Z",
+  "sha256_hash": "f2fc9c7c0968c095ff7e5f25144963a38086b8bfcd745d93a974da06c21d5ffd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.857205478Z"
+}

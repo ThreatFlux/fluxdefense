@@ -1,0 +1,17 @@
+{
+  "uuid": "26eeb541-e99c-4a0d-9be3-59fb3b941936",
+  "path": "/lib/llvm-18/include/clang/AST/AST.h",
+  "size": 907,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.510533832Z",
+  "sha256_hash": "599f9854d033c011730d444aa79429994452cbbdc48c26e1988532380e77f17a",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.949149087Z"
+}

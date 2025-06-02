@@ -1,0 +1,17 @@
+{
+  "uuid": "e9647bcc-277f-4f3b-99f7-22a6dd940ed2",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/xt.pc",
+  "size": 344,
+  "modified": "2024-03-31T02:22:07Z",
+  "created": "2025-05-29T11:16:28.155756132Z",
+  "sha256_hash": "42159578c83ddb089d8f2dcb6d749dcb0d15c44c56fed1b1ea72696b4ff984a4",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.106698954Z"
+}

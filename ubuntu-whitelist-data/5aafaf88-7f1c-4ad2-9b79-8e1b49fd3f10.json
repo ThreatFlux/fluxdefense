@@ -1,0 +1,17 @@
+{
+  "uuid": "5aafaf88-7f1c-4ad2-9b79-8e1b49fd3f10",
+  "path": "/usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.8000.0",
+  "size": 1887792,
+  "modified": "2025-05-15T12:06:49Z",
+  "created": "2025-05-27T10:16:58.193721422Z",
+  "sha256_hash": "a51b258a7ea1a863d28562bb109ad4d4a50e91dc8e580e5a4867be007503e3b8",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:28.090333180Z"
+}

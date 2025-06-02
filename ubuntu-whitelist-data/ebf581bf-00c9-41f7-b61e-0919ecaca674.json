@@ -1,0 +1,17 @@
+{
+  "uuid": "ebf581bf-00c9-41f7-b61e-0919ecaca674",
+  "path": "/usr/lib/firmware/amdgpu/arcturus_mec.bin.zst",
+  "size": 31379,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.386543834Z",
+  "sha256_hash": "bc28687f971ff09bf0a25f79ff7de56ea0ab59509e8ec53207b5a5a2d8485651",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.751232925Z"
+}

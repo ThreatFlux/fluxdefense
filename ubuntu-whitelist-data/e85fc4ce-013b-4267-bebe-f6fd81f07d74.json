@@ -1,0 +1,17 @@
+{
+  "uuid": "e85fc4ce-013b-4267-bebe-f6fd81f07d74",
+  "path": "/lib/i386-linux-gnu/libcuda.so.550.144.03",
+  "size": 24814280,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:55:59.813893872Z",
+  "sha256_hash": "a338d38edd83d5beb9153c7e15c71a65a05d4a5605b81e1ec330c953edf63d3f",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:45.039225469Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "3161f84c-de55-4386-a447-295c7f0a8f5e",
+  "path": "/lib/x86_64-linux-gnu/libgtksourceview-5.so.0.0.0",
+  "size": 1001808,
+  "modified": "2024-03-31T01:17:26Z",
+  "created": "2025-05-09T05:07:30.155740894Z",
+  "sha256_hash": "1d3bbb5b0aed232e7e562d0335028d8f093f357b367b6bee4822b0b743225210",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.188176077Z"
+}

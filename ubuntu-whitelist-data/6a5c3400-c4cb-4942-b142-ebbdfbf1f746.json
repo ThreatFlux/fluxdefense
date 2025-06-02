@@ -1,0 +1,17 @@
+{
+  "uuid": "6a5c3400-c4cb-4942-b142-ebbdfbf1f746",
+  "path": "/usr/lib/x86_64-linux-gnu/libsecret-1.so.0.0.0",
+  "size": 383136,
+  "modified": "2024-03-31T02:16:13Z",
+  "created": "2025-05-09T05:07:32.149710467Z",
+  "sha256_hash": "dd11ac9962eb3cd082cc6c8c3529019ab2a333ddc4ccc79ed608fdfbf7ef95a1",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.502411023Z"
+}

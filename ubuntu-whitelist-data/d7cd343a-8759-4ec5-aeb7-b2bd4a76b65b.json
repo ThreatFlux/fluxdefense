@@ -1,0 +1,17 @@
+{
+  "uuid": "d7cd343a-8759-4ec5-aeb7-b2bd4a76b65b",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/modernize/AvoidCArraysCheck.h",
+  "size": 1332,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "fb1c66d54dd0aeed039f000574ecac93e63a0897fab5b8d80a277d8e7e17217c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.260510411Z"
+}

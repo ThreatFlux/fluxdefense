@@ -1,0 +1,15 @@
+{
+  "uuid": "55ff2f09-70d6-4676-8f46-d1b7182e5fef",
+  "path": "/usr/libexec/plymouth/plymouth-populate-initrd",
+  "size": 23311,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:27.492960998Z",
+  "sha256_hash": "49f9bf0cd2c167d137382ad5f102861f34314f8e736e4a1a6e554ce5e05412fc",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.246398625Z"
+}

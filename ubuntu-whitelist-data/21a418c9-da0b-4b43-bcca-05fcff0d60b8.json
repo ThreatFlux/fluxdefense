@@ -1,0 +1,17 @@
+{
+  "uuid": "21a418c9-da0b-4b43-bcca-05fcff0d60b8",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/include/stdint-gcc.h",
+  "size": 9648,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.246389788Z",
+  "sha256_hash": "0a2e42d37b032271a0f6328a35bdb6fc694411a7627decaf857ba75ae7e00589",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.918238699Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "de102a78-a2f9-4e2f-8d22-791b0dbab6fb",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-dc210.so.1.2.1",
+  "size": 43920,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.135634382Z",
+  "sha256_hash": "cc22ca64e2b38d98b4568ee1c5919969da075d186a3e1d4a352ae612708c934c",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.177309838Z"
+}

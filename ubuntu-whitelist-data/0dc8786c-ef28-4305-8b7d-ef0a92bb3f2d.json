@@ -1,0 +1,15 @@
+{
+  "uuid": "0dc8786c-ef28-4305-8b7d-ef0a92bb3f2d",
+  "path": "/lib/x86_64-linux-gnu/grilo-0.3/libgrllocalmetadata.so",
+  "size": 27024,
+  "modified": "2025-03-17T11:05:34Z",
+  "created": "2025-05-12T03:14:18.438811212Z",
+  "sha256_hash": "85ac87e46893adf55fe9429b98132f9c394e50df231de7346b9585153a61fa3d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.448361457Z"
+}

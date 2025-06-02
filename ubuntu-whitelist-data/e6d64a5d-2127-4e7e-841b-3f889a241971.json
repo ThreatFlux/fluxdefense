@@ -1,0 +1,17 @@
+{
+  "uuid": "e6d64a5d-2127-4e7e-841b-3f889a241971",
+  "path": "/lib/python3.12/test/audiodata/pluck-pcm8.wav",
+  "size": 6756,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.986551841Z",
+  "sha256_hash": "5b7af05fa928568dc9dbf39845da83a48720e019214a0f250aa5e8de0ebec4bb",
+  "file_type": {
+    "Other": "wav"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.258812549Z"
+}

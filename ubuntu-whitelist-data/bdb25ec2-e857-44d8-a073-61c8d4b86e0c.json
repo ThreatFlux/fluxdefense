@@ -1,0 +1,17 @@
+{
+  "uuid": "bdb25ec2-e857-44d8-a073-61c8d4b86e0c",
+  "path": "/lib/systemd/system/logrotate.service",
+  "size": 870,
+  "modified": "2020-08-21T13:02:38Z",
+  "created": "2025-05-09T05:07:28.299769216Z",
+  "sha256_hash": "cc5c35e740bce405c1177903f675e8beb471c2fba394732eaf8100e4e9a5e0fb",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.115370674Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "0ea80c84-bb28-4f58-a251-2703c25ae7a7",
+  "path": "/bin/dig",
+  "size": 154448,
+  "modified": "2025-01-28T14:26:30Z",
+  "created": "2025-05-09T05:07:19.160908670Z",
+  "sha256_hash": "1d9f6868074626e388a0cc439741dfdcf715c2394024094a4a6bf17fac82d645",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.352630993Z"
+}

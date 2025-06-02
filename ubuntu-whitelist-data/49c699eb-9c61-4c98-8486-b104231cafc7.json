@@ -1,0 +1,17 @@
+{
+  "uuid": "49c699eb-9c61-4c98-8486-b104231cafc7",
+  "path": "/lib/firmware/iwlwifi-gl-c0-fm-c0-90.ucode.zst",
+  "size": 616513,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.624540538Z",
+  "sha256_hash": "c5e2517a02a61cf563445bcd65c3df2116843f190d8c57981e77ec79a70afa5a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.412024630Z"
+}

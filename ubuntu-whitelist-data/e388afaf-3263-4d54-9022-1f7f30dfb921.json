@@ -1,0 +1,17 @@
+{
+  "uuid": "e388afaf-3263-4d54-9022-1f7f30dfb921",
+  "path": "/lib/x86_64-linux-gnu/libbasicobjects.so.0.1.0",
+  "size": 14336,
+  "modified": "2024-03-31T07:32:33Z",
+  "created": "2025-05-09T05:07:29.183755726Z",
+  "sha256_hash": "84ebe6b05941a0041abb14c7017a98863eb92c7dc16b658e1c0ca6c4dd222ade",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.162675169Z"
+}

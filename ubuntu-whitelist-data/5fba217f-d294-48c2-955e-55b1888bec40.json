@@ -1,0 +1,17 @@
+{
+  "uuid": "5fba217f-d294-48c2-955e-55b1888bec40",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-gt68xx.so.1.2.1",
+  "size": 203768,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.143634260Z",
+  "sha256_hash": "c28ae6643cbac8b8b5ee28aa5832c43a444c3432282510a3753ed7b689b6932c",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.878645951Z"
+}

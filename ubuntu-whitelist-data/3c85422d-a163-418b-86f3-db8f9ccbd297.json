@@ -1,0 +1,15 @@
+{
+  "uuid": "3c85422d-a163-418b-86f3-db8f9ccbd297",
+  "path": "/usr/sbin/ucalls",
+  "size": 11970,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.523499148Z",
+  "sha256_hash": "54f3d3d961e3ba86419c22ecae09441c2abed8d180f2003fcb374a9a77628a53",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.586473075Z"
+}

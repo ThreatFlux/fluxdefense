@@ -1,0 +1,17 @@
+{
+  "uuid": "af0e479b-45e5-49c9-91dc-1db9fea24d81",
+  "path": "/lib/udev/rules.d/99-systemd.rules",
+  "size": 5103,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.527779534Z",
+  "sha256_hash": "53fa6f119ce8ed7954c931e16c63bc6960659d51bcb2bbd0151a6657f3a081ce",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.247513286Z"
+}

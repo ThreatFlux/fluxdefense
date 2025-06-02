@@ -1,0 +1,15 @@
+{
+  "uuid": "8d80afaa-f0d4-47db-b31a-1ea510f3f995",
+  "path": "/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-motorola.so",
+  "size": 14512,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.160664520Z",
+  "sha256_hash": "725d3db083824d12b81005b33a1ecc4d4a3a57d9f0f776df1ad1ee8bc3ba53b8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.563893114Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "78807cde-03d1-44d7-b1a2-c06c5473c84f",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/botocore/cacert.pem",
+  "size": 266617,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.169941503Z",
+  "sha256_hash": "9d6d5021fcc8a2232fce8eb4b3f982dc484252d555493ac5c2a3cbf2cb19438a",
+  "file_type": {
+    "Other": "pem"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.591312039Z"
+}

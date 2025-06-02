@@ -1,0 +1,17 @@
+{
+  "uuid": "d1a9d2b6-c314-4f54-b32b-49e60318610c",
+  "path": "/usr/lib/llvm-18/include/clang/AST/ASTTypeTraits.h",
+  "size": 22307,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.511533818Z",
+  "sha256_hash": "c7934aa733eab2e75674787b81758445baac7a985a5b6556cdd1473f62d23446",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.328218443Z"
+}

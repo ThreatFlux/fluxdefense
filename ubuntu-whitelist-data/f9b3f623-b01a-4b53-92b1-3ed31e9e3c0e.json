@@ -1,0 +1,17 @@
+{
+  "uuid": "f9b3f623-b01a-4b53-92b1-3ed31e9e3c0e",
+  "path": "/usr/lib/firmware/yamaha/ds1_dsp.fw.zst",
+  "size": 74,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.087534125Z",
+  "sha256_hash": "264363780546cbd72aa4dcf2a9670bf19b5a255206ec4e63fb9136c09bdc16ef",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.489611958Z"
+}

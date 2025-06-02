@@ -1,0 +1,17 @@
+{
+  "uuid": "f780e7aa-573d-4357-aa9a-c1421f3e3eac",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/abseil/DurationRewriter.h",
+  "size": 6113,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.555533239Z",
+  "sha256_hash": "62ff349e7b39cd9ef2ebfb67b4071bb25c6f172b124d699d34949f84a5762536",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.242729149Z"
+}

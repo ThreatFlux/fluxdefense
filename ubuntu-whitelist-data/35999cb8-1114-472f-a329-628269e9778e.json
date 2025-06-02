@@ -1,0 +1,17 @@
+{
+  "uuid": "35999cb8-1114-472f-a329-628269e9778e",
+  "path": "/lib/udev/hwdb.d/60-autosuspend-chromiumos.hwdb",
+  "size": 2786,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:14.059786335Z",
+  "sha256_hash": "c430f4a374ccca3eb2f7d26184fd7a2aee114bfb9ffeb5de288c52f05ea50bfe",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.311747641Z"
+}

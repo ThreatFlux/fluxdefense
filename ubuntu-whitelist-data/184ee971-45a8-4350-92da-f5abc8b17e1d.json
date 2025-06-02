@@ -1,0 +1,15 @@
+{
+  "uuid": "184ee971-45a8-4350-92da-f5abc8b17e1d",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/IBM1132.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.626657409Z",
+  "sha256_hash": "71e2093d3c28b23d0d758d5f4fd25e1aaa42d090ea63f9da48b931cb0862ac95",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.472392149Z"
+}

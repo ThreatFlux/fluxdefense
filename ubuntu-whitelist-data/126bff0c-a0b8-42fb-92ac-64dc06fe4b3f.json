@@ -1,0 +1,17 @@
+{
+  "uuid": "126bff0c-a0b8-42fb-92ac-64dc06fe4b3f",
+  "path": "/usr/lib/x86_64-linux-gnu/libevview3.so.3.0.0",
+  "size": 383048,
+  "modified": "2024-10-15T07:35:01Z",
+  "created": "2025-05-09T05:07:29.406752323Z",
+  "sha256_hash": "e79a401ee5b477a3dbc0b16cbecd68a47914195de8fa675325e6af4d6a1b4028",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.526604484Z"
+}

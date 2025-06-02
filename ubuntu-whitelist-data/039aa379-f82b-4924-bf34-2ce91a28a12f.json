@@ -1,0 +1,15 @@
+{
+  "uuid": "039aa379-f82b-4924-bf34-2ce91a28a12f",
+  "path": "/lib/llvm-18/bin/FileCheck",
+  "size": 683608,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.599479984Z",
+  "sha256_hash": "99b76825d8c0cfa8e068e9fca937957ae56fb523da2f7fe5c41a12e5129685f7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.886100332Z"
+}

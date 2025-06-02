@@ -1,0 +1,15 @@
+{
+  "uuid": "e915234d-7349-4014-85f8-7d2778066d45",
+  "path": "/bin/qmicli",
+  "size": 600928,
+  "modified": "2024-03-31T02:12:03Z",
+  "created": "2025-05-09T05:07:20.373890161Z",
+  "sha256_hash": "2039551dfa378500945dcbea98573fe9199f629d7eb0fc40a8a8f754b6b91f21",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.789118529Z"
+}

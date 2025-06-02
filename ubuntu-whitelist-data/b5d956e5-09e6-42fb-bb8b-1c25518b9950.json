@@ -1,0 +1,17 @@
+{
+  "uuid": "b5d956e5-09e6-42fb-bb8b-1c25518b9950",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/include/unwind.h",
+  "size": 10938,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.246389788Z",
+  "sha256_hash": "d42912846d21a01d15717f71934c5f8c0f6d290d08aaf4052ca00cc7b8cfa174",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.930759056Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "b68471c1-ebfc-497f-ad60-4f6bb5bdd8b5",
+  "path": "/bin/usbhid-dump",
+  "size": 31112,
+  "modified": "2024-04-08T16:21:28Z",
+  "created": "2025-05-09T05:07:20.834883126Z",
+  "sha256_hash": "81e5d50e2233d565dfd2fef95fb7e4ef17ee7018a71aef80b7ec598b9f02129b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.038265616Z"
+}

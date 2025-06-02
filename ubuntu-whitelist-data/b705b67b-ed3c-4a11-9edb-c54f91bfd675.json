@@ -1,0 +1,17 @@
+{
+  "uuid": "b705b67b-ed3c-4a11-9edb-c54f91bfd675",
+  "path": "/lib/grub/x86_64-efi/ohci.mod",
+  "size": 15800,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.837708018Z",
+  "sha256_hash": "2f8f4d18cc3d13ffe8f64816490642aa4cc1fce72624a001c483b4a56bcb2654",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.028451322Z"
+}

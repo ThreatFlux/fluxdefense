@@ -1,0 +1,15 @@
+{
+  "uuid": "bed07152-491c-424d-9bcf-a689d8fab9f9",
+  "path": "/sbin/mke2fs",
+  "size": 133752,
+  "modified": "2024-04-28T23:44:46Z",
+  "created": "2025-05-09T05:07:38.363615643Z",
+  "sha256_hash": "07cd24ce58a410cc9cee93c55ae5ac95986df016c5907dc7a49b55389bd41ed2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.799902163Z"
+}

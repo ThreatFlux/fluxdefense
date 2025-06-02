@@ -1,0 +1,17 @@
+{
+  "uuid": "eae44a5a-115c-4116-b5ea-6c20083a1080",
+  "path": "/lib/memtest86+/memtest86+x64.iso",
+  "size": 6197248,
+  "modified": "2024-04-08T16:12:34Z",
+  "created": "2025-05-09T05:07:25.868806311Z",
+  "sha256_hash": "49702d1645d53553201e4b3bf89841020af51f8d1a89d8d4ebd03486fb72a732",
+  "file_type": {
+    "Other": "iso"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.650787971Z"
+}

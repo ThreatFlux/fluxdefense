@@ -1,0 +1,15 @@
+{
+  "uuid": "5d0974c8-2477-48dc-b794-df2334de7e8b",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/CP772.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.606657714Z",
+  "sha256_hash": "e8a552f9541f159d8c98b4db874698a38ef1bba3753d2ff417098d44fd0979e3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.557183271Z"
+}

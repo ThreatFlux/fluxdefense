@@ -1,0 +1,17 @@
+{
+  "uuid": "6d212510-cef4-4791-b824-6f0924dff779",
+  "path": "/lib/firmware/radeon/R200_cp.bin.zst",
+  "size": 780,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "af99693df6768072f7021980dd72190111b29f6c1149c2a2e6f7a8bb50bc9c20",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.396905034Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "50cac6ea-ca36-4866-bf5c-40630b1fadf7",
+  "path": "/usr/bin/grog",
+  "size": 19195,
+  "modified": "2024-03-31T08:54:31Z",
+  "created": "2025-05-09T05:07:19.736899881Z",
+  "sha256_hash": "eaaeb4b52827506b63e69a36511b21eb20f8a15f48b60fcb0871a71a4ebbd1c4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:13.954128279Z"
+}

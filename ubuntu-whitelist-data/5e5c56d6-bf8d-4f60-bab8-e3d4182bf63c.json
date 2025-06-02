@@ -1,0 +1,15 @@
+{
+  "uuid": "5e5c56d6-bf8d-4f60-bab8-e3d4182bf63c",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libxt_TCPOPTSTRIP.so",
+  "size": 14784,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.332631376Z",
+  "sha256_hash": "ddea66cdd02be535f21edf0ded8d789ccd68e4d405002287e991c524e6e836dc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.262848303Z"
+}

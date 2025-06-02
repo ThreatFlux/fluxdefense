@@ -1,0 +1,15 @@
+{
+  "uuid": "a9a0122a-e6c1-4a9e-b80e-3069d7d30c34",
+  "path": "/usr/bin/ntfs-3g",
+  "size": 162824,
+  "modified": "2024-04-08T14:46:29Z",
+  "created": "2025-05-09T05:07:20.242892160Z",
+  "sha256_hash": "7e278d33600e5cf238c57ed9fcacf0a352f53f879617d52be3d34b98c0493728",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:14.442814641Z"
+}

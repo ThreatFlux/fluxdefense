@@ -1,0 +1,17 @@
+{
+  "uuid": "45ecdeb6-3275-4e96-aa2f-717e2c182b03",
+  "path": "/lib/systemd/systemd-networkd",
+  "size": 1657576,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.520779445Z",
+  "sha256_hash": "16e3c07771231dab57ad97c971adfc6ad3ffa27647a222446dc06af60d53f958",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.168808385Z"
+}

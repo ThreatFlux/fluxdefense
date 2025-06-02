@@ -1,0 +1,17 @@
+{
+  "uuid": "719c2cc7-e977-458b-9ea9-b94aa7f34a94",
+  "path": "/usr/lib/firmware/amdgpu/polaris12_smc.bin.zst",
+  "size": 51323,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.411543488Z",
+  "sha256_hash": "74a0bf58b9692508b177842c0c04d525377ceb58a79b4a1c504f2a6ecc541bab",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.081145620Z"
+}

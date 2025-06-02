@@ -1,0 +1,17 @@
+{
+  "uuid": "76f7d0e0-10d5-47c9-9527-e878bec49220",
+  "path": "/usr/lib/llvm-18/include/clang/Sema/Template.h",
+  "size": 27809,
+  "modified": "2024-01-09T22:37:53Z",
+  "created": "2025-05-12T13:34:31.549533318Z",
+  "sha256_hash": "218da3a13c93a947d9e0a47516ca42bbbeabbde9a1b920f7e9aa8a7a04a6bc4a",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.480248348Z"
+}

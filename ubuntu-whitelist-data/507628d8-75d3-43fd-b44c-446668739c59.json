@@ -1,0 +1,17 @@
+{
+  "uuid": "507628d8-75d3-43fd-b44c-446668739c59",
+  "path": "/usr/lib/udev/rules.d/71-ipp-usb.rules",
+  "size": 629,
+  "modified": "2024-10-24T00:34:47Z",
+  "created": "2025-05-09T05:07:28.436767125Z",
+  "sha256_hash": "b1daa7ffd893c19f480a7ad08908238271cc17fa3f6a185215754ef13b277f77",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.101868017Z"
+}

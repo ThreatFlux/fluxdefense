@@ -1,0 +1,17 @@
+{
+  "uuid": "690b2da0-de65-4345-8c1f-2c2c46fa9f5b",
+  "path": "/usr/lib/systemd/system/keyboard-setup.service",
+  "size": 287,
+  "modified": "2024-02-26T12:58:31Z",
+  "created": "2025-05-09T05:07:28.299769216Z",
+  "sha256_hash": "7bfae47456a8ccfd36c05494a6ec80256b4b2454fd737892c09e6c3c83b87e73",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.451286839Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "daf87375-2849-48af-8c12-c364a9f96117",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/CustomizableOptional.h",
+  "size": 8466,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.527533608Z",
+  "sha256_hash": "694ce5cfbd14a5663a13c4211c3396bfad17f59171c3d98cb7f0f3bf48f3f255",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.511889268Z"
+}

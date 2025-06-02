@@ -1,0 +1,17 @@
+{
+  "uuid": "a3ff1d99-c6b1-44d3-b68f-161f0112d8df",
+  "path": "/lib/firmware/radeon/bonaire_me.bin.zst",
+  "size": 3907,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.063534457Z",
+  "sha256_hash": "497fcaaf81c70c74becfdb3c2bb5dac1a253e9344e39f2f6f11b78bc87d7864f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.371792447Z"
+}

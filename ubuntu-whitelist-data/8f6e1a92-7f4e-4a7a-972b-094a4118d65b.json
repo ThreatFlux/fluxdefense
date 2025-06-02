@@ -1,0 +1,17 @@
+{
+  "uuid": "8f6e1a92-7f4e-4a7a-972b-094a4118d65b",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/UniquePtrArrayMismatchCheck.h",
+  "size": 1168,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "41437b48043a568000a2520d3cfca62509919e1ee8f7441aa5c99641de5c68ad",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.899759066Z"
+}

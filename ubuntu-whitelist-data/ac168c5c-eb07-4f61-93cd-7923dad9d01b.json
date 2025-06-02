@@ -1,0 +1,17 @@
+{
+  "uuid": "ac168c5c-eb07-4f61-93cd-7923dad9d01b",
+  "path": "/lib/firmware/nvidia/gm200/gr/gpccs_inst.bin.zst",
+  "size": 4983,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.937536202Z",
+  "sha256_hash": "26e8c4446771c9a8eab241e13538dbbbfe8777667a0a5ff6a7c33e5fce0f7b4a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.422536217Z"
+}

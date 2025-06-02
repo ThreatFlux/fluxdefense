@@ -1,0 +1,17 @@
+{
+  "uuid": "a426cb63-46c1-446d-b427-a6438924d15a",
+  "path": "/usr/lib/firmware/ath10k/QCA4019/hw1.0/firmware-5.bin.zst",
+  "size": 451485,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.433543183Z",
+  "sha256_hash": "ca566f0b1250fba5098126d4905646a16715eb39a0d5c8048ec717f1ef4145d3",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.979821133Z"
+}

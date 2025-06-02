@@ -1,0 +1,17 @@
+{
+  "uuid": "c43ca14e-b6d2-449d-933c-321b92340baa",
+  "path": "/usr/lib/firmware/ath10k/QCA6174/hw3.0/firmware-sdio-6.bin.zst",
+  "size": 409227,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.436543142Z",
+  "sha256_hash": "5cfbac32666e6ef29d23397bee47a768d5de7be31d086e6acabee985e85bcccf",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.052034825Z"
+}

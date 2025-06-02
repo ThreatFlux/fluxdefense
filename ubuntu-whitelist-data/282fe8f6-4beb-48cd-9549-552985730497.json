@@ -1,0 +1,17 @@
+{
+  "uuid": "282fe8f6-4beb-48cd-9549-552985730497",
+  "path": "/usr/lib/modules/6.11.0-25-generic/kernel/crypto/xcbc.ko.zst",
+  "size": 4314,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.100459819Z",
+  "sha256_hash": "eb363d200b2e6181525c3b750cee7105d9483f396cf827d7a911cb40983c480a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.033670382Z"
+}

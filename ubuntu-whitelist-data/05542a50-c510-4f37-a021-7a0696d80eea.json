@@ -1,0 +1,15 @@
+{
+  "uuid": "05542a50-c510-4f37-a021-7a0696d80eea",
+  "path": "/usr/lib/cnf-update-db",
+  "size": 1075,
+  "modified": "2023-01-20T13:39:07Z",
+  "created": "2025-05-09T05:07:20.991880731Z",
+  "sha256_hash": "15e1f8f8e347639717caabe33d3fb9191b3aa6e47afecbb8ecaad3754dd5d26e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.634826510Z"
+}

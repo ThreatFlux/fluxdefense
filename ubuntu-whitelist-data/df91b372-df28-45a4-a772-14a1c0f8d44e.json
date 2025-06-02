@@ -1,0 +1,17 @@
+{
+  "uuid": "df91b372-df28-45a4-a772-14a1c0f8d44e",
+  "path": "/lib/llvm-18/include/clang-c/CXDiagnostic.h",
+  "size": 12038,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.554533252Z",
+  "sha256_hash": "38ebaab016fd4faf9df6d2fc0c7e8dfffd8ae1740ae9126c077063a453b90afe",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.891187133Z"
+}

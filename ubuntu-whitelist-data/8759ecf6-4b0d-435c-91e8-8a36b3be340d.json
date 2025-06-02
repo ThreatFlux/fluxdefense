@@ -1,0 +1,15 @@
+{
+  "uuid": "8759ecf6-4b0d-435c-91e8-8a36b3be340d",
+  "path": "/usr/lib/systemd/system-generators/snapd-generator",
+  "size": 26776,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.599028688Z",
+  "sha256_hash": "b46994666235851c916ff7b14daf8e00e31dd592679d0c5e5884718d5c00735d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.435182166Z"
+}

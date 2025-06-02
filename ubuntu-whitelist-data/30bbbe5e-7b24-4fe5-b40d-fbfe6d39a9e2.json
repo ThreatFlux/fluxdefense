@@ -1,0 +1,15 @@
+{
+  "uuid": "30bbbe5e-7b24-4fe5-b40d-fbfe6d39a9e2",
+  "path": "/sbin/dnsmasq",
+  "size": 491888,
+  "modified": "2024-03-31T08:48:56Z",
+  "created": "2025-05-09T05:07:38.180618436Z",
+  "sha256_hash": "925830d5d5a0c0a92569739c3e4cf00705ecf580318c1ef5c8be627fdf6edc88",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.793641860Z"
+}

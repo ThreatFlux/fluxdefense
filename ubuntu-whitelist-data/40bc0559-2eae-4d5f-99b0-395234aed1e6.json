@@ -1,0 +1,17 @@
+{
+  "uuid": "40bc0559-2eae-4d5f-99b0-395234aed1e6",
+  "path": "/usr/lib/systemd/system/nvidia-suspend.service",
+  "size": 258,
+  "modified": "2024-12-30T17:02:36Z",
+  "created": "2025-05-09T12:56:03.410986394Z",
+  "sha256_hash": "7b0b3ce73fc6e24912d9735fc5fca7ea884031ba9838baa497f4b7a5f7f113a4",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.471105170Z"
+}

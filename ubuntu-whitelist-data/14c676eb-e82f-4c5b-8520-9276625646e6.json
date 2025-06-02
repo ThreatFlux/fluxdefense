@@ -1,0 +1,17 @@
+{
+  "uuid": "14c676eb-e82f-4c5b-8520-9276625646e6",
+  "path": "/lib/systemd/system/grub-initrd-fallback.service",
+  "size": 408,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.591711772Z",
+  "sha256_hash": "1d01ee1b57f8301b01b1aa9cb10a0116608827a3e0c27a817b46024e8395d807",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.114238442Z"
+}

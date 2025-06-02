@@ -1,0 +1,17 @@
+{
+  "uuid": "a8af31a3-cf38-4fdc-b20f-477200aaecc4",
+  "path": "/lib/llvm-18/include/clang-tidy/performance/ImplicitConversionInLoopCheck.h",
+  "size": 1533,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "005fcc025e8e292ea4f32290fe02346c4f7bd700e7bcfd1c70da42fd92a05ac4",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.921462881Z"
+}

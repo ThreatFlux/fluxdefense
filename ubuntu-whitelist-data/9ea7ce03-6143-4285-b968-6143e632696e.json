@@ -1,0 +1,15 @@
+{
+  "uuid": "9ea7ce03-6143-4285-b968-6143e632696e",
+  "path": "/usr/lib/systemd/systemd-reply-password",
+  "size": 14712,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.524779496Z",
+  "sha256_hash": "7928af82bf703f058e46e852da015cfc9a8659b2184fd01f6944bd4c899e9fdf",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.422481042Z"
+}

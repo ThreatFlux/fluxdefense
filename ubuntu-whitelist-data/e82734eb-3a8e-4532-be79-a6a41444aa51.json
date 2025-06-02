@@ -1,0 +1,17 @@
+{
+  "uuid": "e82734eb-3a8e-4532-be79-a6a41444aa51",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/xcb-render.pc",
+  "size": 244,
+  "modified": "2024-04-18T14:21:22Z",
+  "created": "2025-05-29T11:16:05.821062618Z",
+  "sha256_hash": "bbd81d4369f8d1a9ddf21cbd9dc59a271edaf010e1dd26b9112df6b328d7b243",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.104837221Z"
+}

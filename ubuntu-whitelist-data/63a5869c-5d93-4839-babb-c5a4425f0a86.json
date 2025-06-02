@@ -1,0 +1,17 @@
+{
+  "uuid": "63a5869c-5d93-4839-babb-c5a4425f0a86",
+  "path": "/usr/lib/firmware/nvidia/gm206/gr/fecs_data.bin.zst",
+  "size": 468,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.937536202Z",
+  "sha256_hash": "4beef5c58ee221aa61b3e987dc0397b0f84dae8c320563bb12ffd9a554f2423c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.282289383Z"
+}

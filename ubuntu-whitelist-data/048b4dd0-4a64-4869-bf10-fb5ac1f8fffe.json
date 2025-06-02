@@ -1,0 +1,17 @@
+{
+  "uuid": "048b4dd0-4a64-4869-bf10-fb5ac1f8fffe",
+  "path": "/usr/lib/firmware/radeon/TAHITI_vce.bin.zst",
+  "size": 37407,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.063534457Z",
+  "sha256_hash": "cfb56722e3bcf8631d4eb27747d06f7d69ac0b8318d5db5d03668230b2ea8f21",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.412036002Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "985d5397-4796-4c13-9630-d4354de2e5b9",
+  "path": "/usr/lib/x86_64-linux-gnu/libpulse-simple.so.0.1.1",
+  "size": 22760,
+  "modified": "2024-12-10T08:35:27Z",
+  "created": "2025-05-09T05:07:31.892714388Z",
+  "sha256_hash": "edbd42111cee0aca22e1c4a89f236bc15765bff480fb4918a5774b6d2ff33306",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.345474115Z"
+}

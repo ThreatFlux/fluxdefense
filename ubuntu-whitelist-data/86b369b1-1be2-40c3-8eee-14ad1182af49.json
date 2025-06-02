@@ -1,0 +1,15 @@
+{
+  "uuid": "86b369b1-1be2-40c3-8eee-14ad1182af49",
+  "path": "/bin/ibus-setup",
+  "size": 1182,
+  "modified": "2024-03-31T12:04:22Z",
+  "created": "2025-05-09T05:07:20.048895120Z",
+  "sha256_hash": "e290ef8563578238fab1267dd8833ff4748b3afdf6078daef68550b55593e810",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.276818449Z"
+}

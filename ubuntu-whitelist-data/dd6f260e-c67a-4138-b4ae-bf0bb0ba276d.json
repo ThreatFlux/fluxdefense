@@ -1,0 +1,17 @@
+{
+  "uuid": "dd6f260e-c67a-4138-b4ae-bf0bb0ba276d",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/crtprec80.o",
+  "size": 3736,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.240389918Z",
+  "sha256_hash": "69c4e1a06890421f422ea2262d51e1669ec365151cc2dd721394d0f3f1fdd364",
+  "file_type": {
+    "Other": "o"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.762085143Z"
+}

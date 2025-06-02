@@ -1,0 +1,17 @@
+{
+  "uuid": "81653a81-d4ba-467e-b8bb-6f19c21c7eff",
+  "path": "/usr/lib/llvm-18/include/clang/ASTMatchers/ASTMatchFinder.h",
+  "size": 12577,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.521533687Z",
+  "sha256_hash": "b5297a495095e6ea364378f955f53574aef8635c0007f52539f7c7779666439c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.300935188Z"
+}

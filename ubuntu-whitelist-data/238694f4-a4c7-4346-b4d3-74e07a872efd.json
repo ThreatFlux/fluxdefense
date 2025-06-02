@@ -1,0 +1,17 @@
+{
+  "uuid": "238694f4-a4c7-4346-b4d3-74e07a872efd",
+  "path": "/lib/firmware/nvidia/ga102/acr/ucode_ahesasc.bin.zst",
+  "size": 33422,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.902536687Z",
+  "sha256_hash": "c44ce1de112d807905942b39e925a350242420455c785ea1259a424d5199636f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.136409994Z"
+}

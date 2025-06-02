@@ -1,0 +1,15 @@
+{
+  "uuid": "8150a688-79e8-46df-aa01-1fc7ec3bd82f",
+  "path": "/bin/add-apt-repository",
+  "size": 16422,
+  "modified": "2025-02-18T21:26:10Z",
+  "created": "2025-05-09T05:24:31.728017094Z",
+  "sha256_hash": "9295b62defcde9334ea367eb77cd0f19c068685edb36882835b664e2ecc7e421",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.646080699Z"
+}

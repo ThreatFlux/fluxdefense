@@ -1,0 +1,17 @@
+{
+  "uuid": "8b7e658b-a13b-4d1a-98f7-d6f259c41265",
+  "path": "/lib/llvm-18/lib/cmake/clang/ClangConfigVersion.cmake",
+  "size": 447,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:30.861542379Z",
+  "sha256_hash": "2da13f05942e07f3008aa9bce0040a81cd7f1333e4efc0ca12d3a777bc27e2ac",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.513251700Z"
+}

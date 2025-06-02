@@ -1,0 +1,17 @@
+{
+  "uuid": "791adbdb-771d-4ee4-91a6-782faa345689",
+  "path": "/usr/lib/llvm-18/include/clang/Lex/PPConditionalDirectiveRecord.h",
+  "size": 4292,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.544533384Z",
+  "sha256_hash": "7256d9934e45463cbd011dea6f15530547442cc093702003aedaff6b0f3b4e6a",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.614444323Z"
+}

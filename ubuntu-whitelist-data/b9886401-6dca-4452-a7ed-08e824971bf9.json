@@ -1,0 +1,15 @@
+{
+  "uuid": "b9886401-6dca-4452-a7ed-08e824971bf9",
+  "path": "/lib/i386-linux-gnu/gconv/IBM905.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.280663416Z",
+  "sha256_hash": "b81d5ad9d23af6681449dee354888449323d70a550051b50e8ebd37eca3932cc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.802168762Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "6a609828-cf66-4622-9834-2cf0e7bd5887",
+  "path": "/lib/firmware/brcm/brcmfmac43362-sdio.WC121.txt.zst",
+  "size": 357,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.484542477Z",
+  "sha256_hash": "4335f8a846d53f4cc70a9fc32b82bf5a898df95b4ed19666480f62abd491cc55",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.503175375Z"
+}

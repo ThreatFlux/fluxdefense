@@ -1,0 +1,17 @@
+{
+  "uuid": "8070e441-4203-4427-b248-cff7567b5426",
+  "path": "/lib/x86_64-linux-gnu/libnvidia-tls.so.550.144.03",
+  "size": 18632,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:02.220955297Z",
+  "sha256_hash": "ab9fb5779b6f716dca10f7515a0f0b1b07ea78bf40f51cada7d6046b7afa0697",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:28.919242576Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "5a7e3280-26d4-450f-ac7d-8ccf95470402",
+  "path": "/lib/llvm-18/include/clang-tidy/cppcoreguidelines/AvoidDoWhileCheck.h",
+  "size": 1447,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "5f4cd222f747c78d901dcde573c615503d1198bdf043242c9d225110f55be4e7",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.906626049Z"
+}

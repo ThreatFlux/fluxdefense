@@ -1,0 +1,15 @@
+{
+  "uuid": "bba30988-5ba5-4450-97b9-ba5b21584849",
+  "path": "/bin/migrate-pubring-from-classic-gpg",
+  "size": 3093,
+  "modified": "2024-03-01T08:25:55Z",
+  "created": "2025-05-09T05:11:23.298182551Z",
+  "sha256_hash": "f9b2cce05ec1f3b8589e89691c3d22ea0ec9b9f179717e28344c5b402e8c8c02",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:18.111718043Z"
+}

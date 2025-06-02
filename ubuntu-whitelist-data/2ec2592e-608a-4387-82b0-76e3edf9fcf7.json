@@ -1,0 +1,15 @@
+{
+  "uuid": "2ec2592e-608a-4387-82b0-76e3edf9fcf7",
+  "path": "/usr/bin/mapscrn",
+  "size": 31192,
+  "modified": "2024-03-31T09:02:08Z",
+  "created": "2025-05-09T05:07:20.165893335Z",
+  "sha256_hash": "fcf12a46ef4fc976b354454654d034913fc876131fc8f7ad654f5b208c2354ee",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.871231398Z"
+}

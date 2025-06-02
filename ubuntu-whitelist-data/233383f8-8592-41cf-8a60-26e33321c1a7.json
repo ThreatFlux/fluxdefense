@@ -1,0 +1,17 @@
+{
+  "uuid": "233383f8-8592-41cf-8a60-26e33321c1a7",
+  "path": "/lib/firmware/iwlwifi-5150-2.ucode.zst",
+  "size": 121850,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.582541119Z",
+  "sha256_hash": "d1e52545724dfd94864fcb88abc028e1a081dbbaf7ce10a5717ab39386795d79",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:01.725044949Z"
+}

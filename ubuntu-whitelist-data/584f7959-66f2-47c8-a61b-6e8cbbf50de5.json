@@ -1,0 +1,17 @@
+{
+  "uuid": "584f7959-66f2-47c8-a61b-6e8cbbf50de5",
+  "path": "/lib/x86_64-linux-gnu/libabsl_leak_check.so.20220623.0.0",
+  "size": 14128,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.939492424Z",
+  "sha256_hash": "9b6709eae6bed5e8d9c27c9ab32ac5f6ed719837c41c7ffa71c6b0f77505c6dc",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.334892986Z"
+}

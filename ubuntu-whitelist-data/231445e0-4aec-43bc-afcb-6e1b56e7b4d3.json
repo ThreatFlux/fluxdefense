@@ -1,0 +1,17 @@
+{
+  "uuid": "231445e0-4aec-43bc-afcb-6e1b56e7b4d3",
+  "path": "/lib/llvm-18/include/clang/Basic/SourceMgrAdapter.h",
+  "size": 2912,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.532533542Z",
+  "sha256_hash": "e219d1243d48831aea8139d5294d5ef8e0af806925e80d031e21bd6da4749212",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.102834230Z"
+}

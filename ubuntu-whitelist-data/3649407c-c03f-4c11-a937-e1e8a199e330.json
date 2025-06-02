@@ -1,0 +1,17 @@
+{
+  "uuid": "3649407c-c03f-4c11-a937-e1e8a199e330",
+  "path": "/lib/google-cloud-sdk/lib/surface/workstations/create.yaml",
+  "size": 1628,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.647933382Z",
+  "sha256_hash": "ca5ea7c15ce68bedd5ed4b8367a22e94b4c369d794c5d924aaf06fbe296fe641",
+  "file_type": {
+    "Other": "yaml"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.056549187Z"
+}

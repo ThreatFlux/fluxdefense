@@ -1,0 +1,15 @@
+{
+  "uuid": "0045c54b-6fbf-4c42-84ff-55f6192f8812",
+  "path": "/usr/lib/x86_64-linux-gnu/plymouth/renderers/drm.so",
+  "size": 64824,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:27.491960985Z",
+  "sha256_hash": "e4871563a4661af3ffd992f89130ca7413f11f4338454c8885f6119c3f23e383",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.017110344Z"
+}

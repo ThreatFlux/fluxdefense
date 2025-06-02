@@ -1,0 +1,15 @@
+{
+  "uuid": "cd532bec-ea7f-4fc5-9033-e1364f4c6e2b",
+  "path": "/usr/lib/x86_64-linux-gnu/remmina/plugins/remmina-plugin-rdp.so",
+  "size": 152992,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:36.980636747Z",
+  "sha256_hash": "113d0a77e786e54f814ea7f0480f89f7ed04f86753fd2fc829d326c4648d7e0a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.313323768Z"
+}

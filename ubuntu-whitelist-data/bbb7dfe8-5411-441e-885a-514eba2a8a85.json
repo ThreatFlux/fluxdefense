@@ -1,0 +1,17 @@
+{
+  "uuid": "bbb7dfe8-5411-441e-885a-514eba2a8a85",
+  "path": "/lib/llvm-18/lib/cmake/llvm/CheckCompilerVersion.cmake",
+  "size": 5133,
+  "modified": "2023-11-27T08:46:53Z",
+  "created": "2025-05-12T13:34:36.684465694Z",
+  "sha256_hash": "dda8788146eaf464f7f6070f30dda54eb6459305b3e8a909420efab40f0a3917",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.505012457Z"
+}

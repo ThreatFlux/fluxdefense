@@ -1,0 +1,17 @@
+{
+  "uuid": "39d5b78c-6eec-4d37-a901-e3e5fcb3884f",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-calari.adb",
+  "size": 4345,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.045345217Z",
+  "sha256_hash": "c26a2f8920743e92650bc2ac7a5789a40306775753dddb5d18adae9365dfb675",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.115980374Z"
+}

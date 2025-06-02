@@ -1,0 +1,15 @@
+{
+  "uuid": "a85256fe-7cad-4a5b-954a-3725dbbe1a27",
+  "path": "/usr/bin/setsid",
+  "size": 14720,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:20.438889169Z",
+  "sha256_hash": "df539ca540c95f9933b7b09e7f650dd9ab6802f564f96cfb8adfc12d17c92e7a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.871781952Z"
+}

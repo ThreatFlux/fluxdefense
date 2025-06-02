@@ -1,0 +1,17 @@
+{
+  "uuid": "661e5aa6-976b-4bed-bae0-33165d82a7c2",
+  "path": "/lib/os-probes/init/10filesystems",
+  "size": 1178,
+  "modified": "2023-03-07T13:26:48Z",
+  "created": "2025-05-09T05:07:25.893805930Z",
+  "sha256_hash": "b748ff1168cf182d10eb568fa307cf9b601b88f355aa0693245f8b918d49761b",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.146063574Z"
+}

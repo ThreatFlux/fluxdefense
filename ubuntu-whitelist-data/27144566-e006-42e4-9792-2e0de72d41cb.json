@@ -1,0 +1,17 @@
+{
+  "uuid": "27144566-e006-42e4-9792-2e0de72d41cb",
+  "path": "/lib/x86_64-linux-gnu/libical_cxx.so.3.0.17",
+  "size": 153928,
+  "modified": "2024-04-06T01:14:50Z",
+  "created": "2025-05-09T05:07:30.188740391Z",
+  "sha256_hash": "8a2ab9b0086f01e23feb954d2586afd94bad1a70d67dd51cc55e6dea589698ed",
+  "file_type": {
+    "Other": "17"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.739005912Z"
+}

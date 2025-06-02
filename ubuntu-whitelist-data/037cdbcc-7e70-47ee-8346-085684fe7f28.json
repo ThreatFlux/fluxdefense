@@ -1,0 +1,17 @@
+{
+  "uuid": "037cdbcc-7e70-47ee-8346-085684fe7f28",
+  "path": "/usr/lib/firmware/amdgpu/raven2_sdma.bin.zst",
+  "size": 7983,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.414543446Z",
+  "sha256_hash": "90ca4078d4195d3ce7bfe5deda4895c75815faca0319ee6c9cba7e1a09e3a5fb",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.822986772Z"
+}

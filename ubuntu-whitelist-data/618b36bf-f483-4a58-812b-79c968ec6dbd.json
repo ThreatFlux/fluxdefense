@@ -1,0 +1,17 @@
+{
+  "uuid": "618b36bf-f483-4a58-812b-79c968ec6dbd",
+  "path": "/lib/x86_64-linux-gnu/librevenge-0.0.so.0.0.5",
+  "size": 182976,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:32.064711764Z",
+  "sha256_hash": "e5c260ff2a4db10a5ec7718c5de4a478a5dfef3a218a2505847d0558e3c798f2",
+  "file_type": {
+    "Other": "5"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.407170997Z"
+}

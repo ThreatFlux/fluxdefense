@@ -1,0 +1,17 @@
+{
+  "uuid": "c317220b-1867-478e-a9c9-4c73bce1230b",
+  "path": "/lib/llvm-18/include/clang/AST/DeclAccessPair.h",
+  "size": 1816,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.516533752Z",
+  "sha256_hash": "f8c8c82f857d78d8c13911074a389ad89f7a6fc017b5220317ee5a0675180595",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.013569632Z"
+}

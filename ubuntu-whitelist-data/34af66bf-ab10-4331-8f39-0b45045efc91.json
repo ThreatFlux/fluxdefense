@@ -1,0 +1,15 @@
+{
+  "uuid": "34af66bf-ab10-4331-8f39-0b45045efc91",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/storage/du.py",
+  "size": 6379,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.646933399Z",
+  "sha256_hash": "4cb3bb5c5a6c83681a45b005aa8f01158788db3a5257fdf9c9c05cfd6c115d5e",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.758293563Z"
+}

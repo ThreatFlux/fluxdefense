@@ -1,0 +1,17 @@
+{
+  "uuid": "d87c4c8d-02f7-4ab9-9020-732fba443f27",
+  "path": "/usr/lib/firmware/mrvl/usb8801_uapsta.bin.zst",
+  "size": 177113,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.890536853Z",
+  "sha256_hash": "a0f176e44c5b1e33eb65226eced380358f32cafe85167a3e4e4da3a12df683bf",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.425286529Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "9a137eb1-b353-4da8-a6fe-60486e750216",
+  "path": "/opt/google/chrome/libvulkan.so.1",
+  "size": 593632,
+  "modified": "2025-05-26T20:54:35Z",
+  "created": "2025-05-27T21:53:47.692425561Z",
+  "sha256_hash": "f62cf07eedd71a5e1cef5afa078b69c20a28adcffac27e4afe960543f1bb8cdb",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:43.809897400Z"
+}

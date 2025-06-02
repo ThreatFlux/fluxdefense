@@ -1,0 +1,17 @@
+{
+  "uuid": "f294a8e0-cffa-4612-baa2-5de4346eacf5",
+  "path": "/usr/lib/llvm-18/include/clang/Frontend/ASTUnit.h",
+  "size": 35730,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.542533410Z",
+  "sha256_hash": "c9e3915a16094529338f11bfc4a8d3ed4ded86e8c3b42a3e96fc3f38bd0256e2",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.295856712Z"
+}

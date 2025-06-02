@@ -1,0 +1,17 @@
+{
+  "uuid": "1ba00603-a627-49dd-abd2-f69502e3f96b",
+  "path": "/lib/firmware/imx/sdma/sdma-imx6q.bin.zst",
+  "size": 1598,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.546541618Z",
+  "sha256_hash": "e42b96e2401900cc33ce48fd34dc202be7daecfd18bc6ad95a98c36ec877a0a1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.497500245Z"
+}

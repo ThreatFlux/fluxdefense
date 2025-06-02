@@ -1,0 +1,17 @@
+{
+  "uuid": "b4bd00a7-9374-4fe3-a56f-301d0e166c9e",
+  "path": "/lib/firmware/intel/sof-tplg/sof-hda-generic-idisp-4ch.tplg.zst",
+  "size": 1470,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.059490968Z",
+  "sha256_hash": "b519ee4021fe30fb40ace37609aee1fe7284bf1d0a5626b928768d0f7835a825",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.224921378Z"
+}

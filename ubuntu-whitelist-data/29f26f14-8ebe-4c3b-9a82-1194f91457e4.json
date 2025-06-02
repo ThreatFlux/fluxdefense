@@ -1,0 +1,15 @@
+{
+  "uuid": "29f26f14-8ebe-4c3b-9a82-1194f91457e4",
+  "path": "/usr/bin/hostnamectl",
+  "size": 31184,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.499779176Z",
+  "sha256_hash": "93c159ad0924a6c08c1e9ff1edfe6dc295e2cd4d8d13173cc80a475c23e8ffc4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.142477958Z"
+}

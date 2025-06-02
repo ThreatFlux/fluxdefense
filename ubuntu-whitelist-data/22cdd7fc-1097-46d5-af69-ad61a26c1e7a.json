@@ -1,0 +1,15 @@
+{
+  "uuid": "22cdd7fc-1097-46d5-af69-ad61a26c1e7a",
+  "path": "/lib/llvm-18/lib/libLLVMAnalysis.a",
+  "size": 11286500,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.783464390Z",
+  "sha256_hash": "aae8b0168c0a8d7b3ff7c6b001a76845a4b40fc9a130bab7a3cd20b953bc722b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.995743386Z"
+}

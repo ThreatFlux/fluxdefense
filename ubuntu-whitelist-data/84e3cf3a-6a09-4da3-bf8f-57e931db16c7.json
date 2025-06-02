@@ -1,0 +1,17 @@
+{
+  "uuid": "84e3cf3a-6a09-4da3-bf8f-57e931db16c7",
+  "path": "/lib/shim/mok/openssl.cnf",
+  "size": 827,
+  "modified": "2024-01-24T09:14:48Z",
+  "created": "2025-05-09T05:08:38.663695412Z",
+  "sha256_hash": "6b497126fa2a54da9a07ce9acfbbe9554350a557d0dc0a0d719cd116385ddb6c",
+  "file_type": {
+    "Other": "cnf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.498508033Z"
+}

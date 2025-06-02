@@ -1,0 +1,15 @@
+{
+  "uuid": "a381fc61-aea9-4267-b296-1ac56ae3b839",
+  "path": "/lib/python3/dist-packages/cloudinit/config/cc_chef.py",
+  "size": 12479,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.234037150Z",
+  "sha256_hash": "8329d28ec5a7b7c4533757f0b5f8362560247ecc74cb01b2359ac2c3d56cdf71",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.914811629Z"
+}

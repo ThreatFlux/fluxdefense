@@ -1,0 +1,17 @@
+{
+  "uuid": "98cabaa1-97ca-46a2-8ddd-9b65def6d7d1",
+  "path": "/lib/firmware/amdgpu/kabini_mec.bin.zst",
+  "size": 8603,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.403543599Z",
+  "sha256_hash": "6294944717a4eea3be936c80f3c0287b22891e99413597865f33b103c4fcaaa1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.930621569Z"
+}

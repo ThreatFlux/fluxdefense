@@ -1,0 +1,17 @@
+{
+  "uuid": "e4155c32-1f54-42d7-90d0-d23f8245db0e",
+  "path": "/lib/grub/x86_64-efi/afsplitter.mod",
+  "size": 2208,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.800708582Z",
+  "sha256_hash": "4a8ea5ff58ff5ecbb599d5b416a49caf8c65c46137e465e045dd8bcd05cb0413",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.049422905Z"
+}

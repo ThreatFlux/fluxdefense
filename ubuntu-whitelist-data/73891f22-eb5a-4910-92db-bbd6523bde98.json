@@ -1,0 +1,15 @@
+{
+  "uuid": "73891f22-eb5a-4910-92db-bbd6523bde98",
+  "path": "/sbin/ethtool",
+  "size": 667320,
+  "modified": "2024-04-08T15:57:18Z",
+  "created": "2025-05-09T05:07:38.192618252Z",
+  "sha256_hash": "745d414944b7e40a8d6fc611c595786ab1f6b09be3b5d31e8f2f0ad9bf2ac568",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.965548714Z"
+}

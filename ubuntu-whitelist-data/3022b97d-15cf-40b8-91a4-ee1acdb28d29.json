@@ -1,0 +1,15 @@
+{
+  "uuid": "3022b97d-15cf-40b8-91a4-ee1acdb28d29",
+  "path": "/usr/bin/gnome-control-center",
+  "size": 8017392,
+  "modified": "2025-01-29T10:50:35Z",
+  "created": "2025-05-09T05:24:20.481869180Z",
+  "sha256_hash": "678940c473a6d1a81dcad330ab254c80136b5e0f2a832d74f69f82df0761371b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:14.901371896Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "d3f9b577-9dbd-46b0-b033-117a7d14230b",
+  "path": "/usr/lib/i386-linux-gnu/gconv/ISO-2022-CN.so",
+  "size": 38284,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.281663400Z",
+  "sha256_hash": "aec606d9560679b21261a783265e6729109463c2bf6c2581616e39d998f9661b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.934380035Z"
+}

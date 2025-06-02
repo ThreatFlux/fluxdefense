@@ -1,0 +1,17 @@
+{
+  "uuid": "1408c30e-042d-477e-8b97-751224e285db",
+  "path": "/usr/lib/x86_64-linux-gnu/libabsl_random_seed_sequences.so.20220623.0.0",
+  "size": 14584,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.939492424Z",
+  "sha256_hash": "857f0ea40a1038b495ad0264d0ca34039fed142015a0df8a5af1eae5a2334ef6",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.767215778Z"
+}

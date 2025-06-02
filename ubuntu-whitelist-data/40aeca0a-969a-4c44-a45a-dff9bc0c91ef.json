@@ -1,0 +1,17 @@
+{
+  "uuid": "40aeca0a-969a-4c44-a45a-dff9bc0c91ef",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/ArgumentCommentCheck.h",
+  "size": 2158,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "ef1172cc842c8cca0cebbaca40acc71d14c885ef3a39c9cf3b5e279a8a4dcf06",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.894004399Z"
+}

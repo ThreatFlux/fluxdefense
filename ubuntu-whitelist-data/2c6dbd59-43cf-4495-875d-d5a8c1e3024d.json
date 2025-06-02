@@ -1,0 +1,17 @@
+{
+  "uuid": "2c6dbd59-43cf-4495-875d-d5a8c1e3024d",
+  "path": "/lib/x86_64-linux-gnu/libpanelw.so.6.4",
+  "size": 22688,
+  "modified": "2024-04-08T16:14:03Z",
+  "created": "2025-05-09T05:07:31.785716021Z",
+  "sha256_hash": "ee3f34c61c4b1e628fb7b5ca70bc8e7a53a95e563d08d12cf1828ef20325073a",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.216722029Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "f6a42fb2-0194-4497-a94a-a684a8873ba8",
+  "path": "/usr/lib/google-cloud-sdk/platform/bq/gcloud_wrapper/supported_gcloud_commands.py",
+  "size": 2206,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.797930833Z",
+  "sha256_hash": "39edf65cdff8fa28e06995c5f806e828ebaeee3d1681324b520c316146405537",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.629205478Z"
+}

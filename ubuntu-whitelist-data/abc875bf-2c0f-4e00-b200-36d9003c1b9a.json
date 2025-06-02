@@ -1,0 +1,17 @@
+{
+  "uuid": "abc875bf-2c0f-4e00-b200-36d9003c1b9a",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-imgbiu.ads",
+  "size": 3135,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.078344764Z",
+  "sha256_hash": "fe582e41248e345b7b305054790f398f2ce97fe619804fdbc96cdc400ad42cb1",
+  "file_type": {
+    "Other": "ads"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.920241704Z"
+}

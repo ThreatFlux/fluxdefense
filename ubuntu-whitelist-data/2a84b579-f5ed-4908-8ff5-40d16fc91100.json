@@ -1,0 +1,17 @@
+{
+  "uuid": "2a84b579-f5ed-4908-8ff5-40d16fc91100",
+  "path": "/lib/x86_64-linux-gnu/libdotconf.so.0.0.1",
+  "size": 31248,
+  "modified": "2024-04-08T15:56:41Z",
+  "created": "2025-05-09T05:07:29.357753071Z",
+  "sha256_hash": "876eaf7e329bf96e72eb56a20e1ad06d5e8ece48289848a3d158057846e54c03",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.818902958Z"
+}

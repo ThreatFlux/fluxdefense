@@ -1,0 +1,17 @@
+{
+  "uuid": "ea694e5e-16cd-44a6-91b3-a5f66cf2727c",
+  "path": "/lib/firmware/brcm/brcmfmac43602-pcie.ap.bin.zst",
+  "size": 355884,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.487542435Z",
+  "sha256_hash": "6f236f73b5967d359af76fe31d2d5e3346cd779ab406d98e38da9996f3995b61",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.531680962Z"
+}

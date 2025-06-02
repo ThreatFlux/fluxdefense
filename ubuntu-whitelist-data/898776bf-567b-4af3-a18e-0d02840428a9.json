@@ -1,0 +1,17 @@
+{
+  "uuid": "898776bf-567b-4af3-a18e-0d02840428a9",
+  "path": "/lib/grub/x86_64-efi/http.mod",
+  "size": 9720,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.811708415Z",
+  "sha256_hash": "629d02117a12c501fccc0f0fe95709daee76b3312d960d3917c8d5bd39c3f990",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.144210447Z"
+}

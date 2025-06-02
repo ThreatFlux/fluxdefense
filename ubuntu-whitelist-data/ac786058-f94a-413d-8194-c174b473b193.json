@@ -1,0 +1,15 @@
+{
+  "uuid": "ac786058-f94a-413d-8194-c174b473b193",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/distros/fedora.py",
+  "size": 437,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.237037190Z",
+  "sha256_hash": "194b6d25c68935c66f7e988354e5381f45803317c21eb7ed2d4449d0b767f38f",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.840731993Z"
+}

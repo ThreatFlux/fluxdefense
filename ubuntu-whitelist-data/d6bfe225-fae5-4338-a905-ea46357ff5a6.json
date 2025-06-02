@@ -1,0 +1,15 @@
+{
+  "uuid": "d6bfe225-fae5-4338-a905-ea46357ff5a6",
+  "path": "/lib/x86_64-linux-gnu/totem/plugins/mpris/libmpris.so",
+  "size": 47384,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:37.298631895Z",
+  "sha256_hash": "dc1d1ec41f76d986c306a4dc06b82223b9686a69a75ee3b14dac2ad05af32024",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.428069099Z"
+}

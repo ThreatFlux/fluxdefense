@@ -1,0 +1,15 @@
+{
+  "uuid": "dc15ba0c-6bc1-49e8-ac0b-4bf8806461a7",
+  "path": "/usr/lib/google-cloud-sdk/platform/gsutil/gslib/bucket_listing_ref.py",
+  "size": 3990,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.850929933Z",
+  "sha256_hash": "8665d81a9ae5953630a0cc63aaf667bb90e0b6647a354e03763dbc7d0870f348",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.572370229Z"
+}

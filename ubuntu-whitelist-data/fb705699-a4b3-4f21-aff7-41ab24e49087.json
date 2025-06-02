@@ -1,0 +1,17 @@
+{
+  "uuid": "fb705699-a4b3-4f21-aff7-41ab24e49087",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/libdrm_nouveau.pc",
+  "size": 340,
+  "modified": "2024-08-02T12:33:15Z",
+  "created": "2025-05-29T11:16:21.141852382Z",
+  "sha256_hash": "b45cc26ab5b0933bebfe3abe03d706c5c8f4f52a9e6a491560ae95fda161c65c",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.109160095Z"
+}

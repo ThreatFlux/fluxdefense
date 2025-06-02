@@ -1,0 +1,17 @@
+{
+  "uuid": "85971413-aa93-4b00-8024-cf4c182ba985",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/modernize/MakeSharedCheck.h",
+  "size": 1194,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "9b0a3e38fa3994dff7e4371e4a1812db9556812e4035643894c646d37e2decb9",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.253566566Z"
+}

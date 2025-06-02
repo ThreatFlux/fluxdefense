@@ -1,0 +1,17 @@
+{
+  "uuid": "6d9a6172-0f1d-455a-bfc1-5d5aa05c4b6f",
+  "path": "/usr/lib/grub/x86_64-efi/search_fs_uuid.mod",
+  "size": 5048,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.838708002Z",
+  "sha256_hash": "26b9fa1978fba8a9db966c577800391ec7b3a63543f56063ceb648b3897277ed",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.482291245Z"
+}

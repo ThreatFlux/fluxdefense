@@ -1,0 +1,15 @@
+{
+  "uuid": "3787bbde-8fef-49e6-a031-87f0ce7689e0",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/sources/DataSourceExoscale.py",
+  "size": 8830,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.241037243Z",
+  "sha256_hash": "30a8f3faa422cc5967a3129ce8e6af3fce6f5d48c1218d11ea2b4cd088da8aa2",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.829531111Z"
+}

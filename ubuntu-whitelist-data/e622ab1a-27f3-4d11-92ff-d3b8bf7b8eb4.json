@@ -1,0 +1,17 @@
+{
+  "uuid": "e622ab1a-27f3-4d11-92ff-d3b8bf7b8eb4",
+  "path": "/lib/llvm-18/lib/cmake/llvm/GetErrcMessages.cmake",
+  "size": 1812,
+  "modified": "2023-01-02T13:01:25Z",
+  "created": "2025-05-12T13:34:36.684465694Z",
+  "sha256_hash": "4a341aaeafbbed52073a0659ee54461b3642a6c9489d83da33b54357e6f41817",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.504754987Z"
+}

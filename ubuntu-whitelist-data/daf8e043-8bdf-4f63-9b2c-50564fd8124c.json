@@ -1,0 +1,15 @@
+{
+  "uuid": "daf8e043-8bdf-4f63-9b2c-50564fd8124c",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/docker/client.py",
+  "size": 7832,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.310939108Z",
+  "sha256_hash": "6db41659bd2cdee1c1e70d9276ed78eb98d0354b8838c20e48ade601fcc98361",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.729939997Z"
+}

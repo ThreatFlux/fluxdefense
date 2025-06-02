@@ -1,0 +1,17 @@
+{
+  "uuid": "4a91a3d5-1380-4d21-85ae-772210b0ba71",
+  "path": "/lib/firmware/agere_sta_fw.bin.zst",
+  "size": 30907,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.385543848Z",
+  "sha256_hash": "eed329c85853fb50bd4bd3c0c0f6b84cdef59c61b10a5833163a34aa65e8410a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.595455932Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "5ff6a381-ae2c-452b-b04a-1e41c9db13e6",
+  "path": "/usr/lib/i386-linux-gnu/gconv/MAC-CENTRALEUROPE.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.283663370Z",
+  "sha256_hash": "498553b17e32512d42456899caa6099ce256a4aef73bd0c4898aeac31005bf73",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.974159351Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "3c566eef-a8e6-4fe2-9cc7-af82cf86b155",
+  "path": "/lib/x86_64-linux-gnu/gconv/CWI.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.610657653Z",
+  "sha256_hash": "cade75481e15e32341c134c66efc091b4ef0aa87b2164b4093a165cbb128b733",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.736229729Z"
+}

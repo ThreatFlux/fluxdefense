@@ -1,0 +1,15 @@
+{
+  "uuid": "ae709f7d-d577-4820-9e54-66f41cf39d88",
+  "path": "/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-intel.so",
+  "size": 18616,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.160664520Z",
+  "sha256_hash": "fcd86f3bca5135de5ba2aa422fb4e4b083e4a6986d687e0c978eb6442f2d6872",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.582314787Z"
+}

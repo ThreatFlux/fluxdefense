@@ -1,0 +1,17 @@
+{
+  "uuid": "77fd4223-ed2f-4ede-9b63-d5a199066e5c",
+  "path": "/usr/lib/x86_64-linux-gnu/libabsl_int128.so.20220623.0.0",
+  "size": 22776,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.939492424Z",
+  "sha256_hash": "d1a033657b97b6467f6a1a1d5aceff6ea56d00608840db7966dcbc0fd3c91ffb",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.161875909Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "4b49c5c1-361a-4d6b-b7f1-87d6550bf4da",
+  "path": "/bin/ssh-add",
+  "size": 301488,
+  "modified": "2025-04-22T11:51:46Z",
+  "created": "2025-05-09T05:11:28.347105482Z",
+  "sha256_hash": "ef31219a54c9d10907011cdd02c472aabdbe38a6eb4346d8e3433f43285de205",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.737269904Z"
+}

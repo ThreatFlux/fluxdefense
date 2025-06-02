@@ -1,0 +1,17 @@
+{
+  "uuid": "25a91f32-c436-4e64-98ed-f1f9c9c0c9bb",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-icl-rt5682.tplg.zst",
+  "size": 1676,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.059490968Z",
+  "sha256_hash": "208c43afee7735c7da39bf02f0e323642584737a36582edbcf9b4f492a3a73e7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.850741776Z"
+}

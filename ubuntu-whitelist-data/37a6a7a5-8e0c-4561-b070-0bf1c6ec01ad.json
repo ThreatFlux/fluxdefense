@@ -1,0 +1,17 @@
+{
+  "uuid": "37a6a7a5-8e0c-4561-b070-0bf1c6ec01ad",
+  "path": "/lib/systemd/system-sleep/nvidia",
+  "size": 92,
+  "modified": "2024-12-30T17:02:36Z",
+  "created": "2025-05-09T12:56:03.410986394Z",
+  "sha256_hash": "f949cbdb9fe59272a1b6e7836ba45e4e4fa5ec0ca9a77e0f9d41de6708923dbe",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.096829584Z"
+}

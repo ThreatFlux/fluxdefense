@@ -1,0 +1,15 @@
+{
+  "uuid": "c745b1ab-e136-46f5-a056-a295c3bbab75",
+  "path": "/lib/x86_64-linux-gnu/libgphoto2/2.5.31/lumix.so",
+  "size": 39512,
+  "modified": "2024-03-31T02:00:03Z",
+  "created": "2025-05-09T05:07:35.834654235Z",
+  "sha256_hash": "9601ac6629745c8137acd23b5f6e949cfdd52245efb19b70793b6aba24a03e92",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.936215545Z"
+}

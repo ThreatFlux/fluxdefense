@@ -1,0 +1,17 @@
+{
+  "uuid": "12afb3d7-1387-419b-b1c6-537189fe53ab",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-cml-rt711-rt1308-mono-rt715.tplg.zst",
+  "size": 1722,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.058490984Z",
+  "sha256_hash": "20f82e9de8a283d21665a5460c5c2d4cc41ab3e1f6d37084ebedd9fbdebecd18",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.872848513Z"
+}

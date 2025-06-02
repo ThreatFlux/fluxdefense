@@ -1,0 +1,15 @@
+{
+  "uuid": "362d205c-9f47-48dd-97d5-239adddcb4fb",
+  "path": "/lib/x86_64-linux-gnu/libgallium-24.2.8-1ubuntu1~24.04.1.so",
+  "size": 38874184,
+  "modified": "2024-12-16T10:17:11Z",
+  "created": "2025-05-09T05:07:29.526750492Z",
+  "sha256_hash": "59281fc1ef78bbfab1823c7957631b688d372464df67dc76f3960e48ac0da686",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.042338815Z"
+}

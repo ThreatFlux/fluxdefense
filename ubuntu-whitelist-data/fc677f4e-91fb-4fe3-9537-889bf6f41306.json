@@ -1,0 +1,17 @@
+{
+  "uuid": "fc677f4e-91fb-4fe3-9537-889bf6f41306",
+  "path": "/lib/x86_64-linux-gnu/libcamel-1.2.so.64.0.0",
+  "size": 1489728,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:29.206755375Z",
+  "sha256_hash": "2f707507e125d030caad3692aa1ce9e780c80ea3ca72f996d0fd4ff8a6c05fef",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:28.993765183Z"
+}

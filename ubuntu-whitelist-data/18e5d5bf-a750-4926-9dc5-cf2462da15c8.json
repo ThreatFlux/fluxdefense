@@ -1,0 +1,17 @@
+{
+  "uuid": "18e5d5bf-a750-4926-9dc5-cf2462da15c8",
+  "path": "/usr/lib/udev/rules.d/77-mm-fibocom-port-types.rules",
+  "size": 6685,
+  "modified": "2024-02-19T14:58:32Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "9a3f27dc33bb25b3be04fc2028297f1f2f7567c8b2a60818b3f5aea463955bb9",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.099852768Z"
+}

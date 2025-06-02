@@ -1,0 +1,17 @@
+{
+  "uuid": "38e0ce9a-ec31-4dc7-81b2-084dad591326",
+  "path": "/usr/lib/x86_64-linux-gnu/samba/libsamba-sockets-samba4.so.0",
+  "size": 104752,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.085635145Z",
+  "sha256_hash": "d6a6241788e059a699e6e8e8935c2fc87ec8c5e4f5809592cb86fdb811e02b86",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.387540211Z"
+}

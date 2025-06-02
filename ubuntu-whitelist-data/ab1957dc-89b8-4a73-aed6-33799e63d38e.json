@@ -1,0 +1,15 @@
+{
+  "uuid": "ab1957dc-89b8-4a73-aed6-33799e63d38e",
+  "path": "/usr/bin/setpriv",
+  "size": 39304,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:20.437889184Z",
+  "sha256_hash": "2b269a50485d6b1bad7d07770a10e2cd056271814b09ae29983d1ffd2e1c9b25",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.013305138Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "493d8fb0-b099-4a69-b94a-f57dac176a6b",
+  "path": "/usr/lib/firmware/atmel/wilc1000_ap_fw.bin.zst",
+  "size": 60098,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.476542588Z",
+  "sha256_hash": "e17826b95014b6545830215b0e3883556784c64fc68aebb99ab23f8b43cf5f7e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.533038428Z"
+}

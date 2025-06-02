@@ -1,0 +1,17 @@
+{
+  "uuid": "c9b88bd3-d708-4f33-b6b6-f94c88716091",
+  "path": "/lib/firmware/mediatek/mt7915_wm.bin.zst",
+  "size": 351829,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.680539762Z",
+  "sha256_hash": "b825e17b94b85c59b285149edd29df6ab78ae744cf43cb92afd32e22af81a376",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.037596178Z"
+}

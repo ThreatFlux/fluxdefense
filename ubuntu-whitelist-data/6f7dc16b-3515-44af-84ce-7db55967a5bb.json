@@ -1,0 +1,17 @@
+{
+  "uuid": "6f7dc16b-3515-44af-84ce-7db55967a5bb",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/mpi/BufferDerefCheck.h",
+  "size": 2065,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "89d3e92e328107deb1560b0d9de02129c2f49ef289573054b6ad72020f6bb4c2",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.262359971Z"
+}

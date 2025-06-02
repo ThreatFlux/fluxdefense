@@ -1,0 +1,15 @@
+{
+  "uuid": "a45cf063-8caf-4123-91e3-028f1829080c",
+  "path": "/usr/bin/lsb_release",
+  "size": 2651,
+  "modified": "2023-07-05T15:34:50Z",
+  "created": "2025-05-09T05:07:20.125893945Z",
+  "sha256_hash": "484188f4b37b4021998dafd1966cda1c6f8207af9aee3ad51746a5d22acf3e65",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.914207231Z"
+}

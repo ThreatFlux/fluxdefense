@@ -1,0 +1,17 @@
+{
+  "uuid": "bc2fcb2e-eb5d-485e-858e-3db5e0dfd435",
+  "path": "/lib/systemd/catalog/systemd.ko.catalog",
+  "size": 10863,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.509779304Z",
+  "sha256_hash": "96702eaed45cddcda6b4ecbdbb1f4da4f2b373b2d0de31008c197d6023cd34a1",
+  "file_type": {
+    "Other": "catalog"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.186176517Z"
+}

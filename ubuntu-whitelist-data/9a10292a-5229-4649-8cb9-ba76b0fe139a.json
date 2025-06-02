@@ -1,0 +1,17 @@
+{
+  "uuid": "9a10292a-5229-4649-8cb9-ba76b0fe139a",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/include/sgxintrin.h",
+  "size": 7091,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.246389788Z",
+  "sha256_hash": "93eb4011294dbdb4375bd155f3c3ae363e61479d431f93ed1a370b3b5c4c5bc0",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.916440275Z"
+}

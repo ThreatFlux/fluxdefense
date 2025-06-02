@@ -1,0 +1,17 @@
+{
+  "uuid": "16e7b090-caca-4689-a9e0-62be57bfbe41",
+  "path": "/usr/lib/x86_64-linux-gnu/libnvidia-fbc.so.550.144.03",
+  "size": 137824,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:01.765943537Z",
+  "sha256_hash": "1835cb63a515598e8a1147ef6d94e8f345c172bf960febf0bce64961c70752cc",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.528542543Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a15cac88-e517-454b-9cd5-e5f87a733217",
+  "path": "/lib/firmware/intel/sof-tplg/sof-icl-nocodec.tplg.zst",
+  "size": 1976,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.059490968Z",
+  "sha256_hash": "4d63a8c6a66d2314b941652feb4130797b973c3dffcb2dbd76943bfbacb8d729",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.206006332Z"
+}

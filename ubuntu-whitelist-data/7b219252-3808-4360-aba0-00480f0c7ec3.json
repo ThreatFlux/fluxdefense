@@ -1,0 +1,17 @@
+{
+  "uuid": "7b219252-3808-4360-aba0-00480f0c7ec3",
+  "path": "/usr/lib/firmware/amdgpu/arcturus_sdma.bin.zst",
+  "size": 8688,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.386543834Z",
+  "sha256_hash": "de5b92930b437e07559cea6f728fbf7e4d37ccee14220200c421833766e46655",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.873062109Z"
+}

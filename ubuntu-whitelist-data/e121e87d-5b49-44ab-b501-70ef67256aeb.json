@@ -1,0 +1,15 @@
+{
+  "uuid": "e121e87d-5b49-44ab-b501-70ef67256aeb",
+  "path": "/opt/google/chrome/libqt6_shim.so",
+  "size": 29008,
+  "modified": "2025-05-26T20:54:35Z",
+  "created": "2025-05-27T21:53:47.651426154Z",
+  "sha256_hash": "e085ff734e756f92be287b81b53989106eb6ecb4e889faaf4aef6afd3e27f8cc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:43.959211387Z"
+}

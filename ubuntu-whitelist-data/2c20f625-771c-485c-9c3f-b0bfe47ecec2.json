@@ -1,0 +1,17 @@
+{
+  "uuid": "2c20f625-771c-485c-9c3f-b0bfe47ecec2",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/utils/TypeTraits.h",
+  "size": 1563,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.563533133Z",
+  "sha256_hash": "de7565c95ff49415351fe13b203e26eb2674ce0cc3d5297be6e41b7081fe86a8",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.267263781Z"
+}

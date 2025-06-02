@@ -1,0 +1,17 @@
+{
+  "uuid": "d5968c33-8b3e-4a5c-a5fb-930b2f9b1fb0",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-finmas.ali",
+  "size": 14095,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.138343939Z",
+  "sha256_hash": "f74b0b9e1afdad1d81d7f765c8d859c33fef8f1e9da01b8a528800f6af96de60",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.821075602Z"
+}

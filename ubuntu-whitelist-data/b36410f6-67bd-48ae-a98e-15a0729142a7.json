@@ -1,0 +1,17 @@
+{
+  "uuid": "b36410f6-67bd-48ae-a98e-15a0729142a7",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/fuchsia/VirtualInheritanceCheck.h",
+  "size": 1209,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "54de35c0256a30f3bcca872cb5ca62bf61da1311c8324be9727e5706d78ae64f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.265860822Z"
+}

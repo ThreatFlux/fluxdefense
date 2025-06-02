@@ -1,0 +1,17 @@
+{
+  "uuid": "e5ab11f4-559e-45b0-bde0-8f3c64f6b2e2",
+  "path": "/usr/lib/firmware/intel/sof/intel-signed/sof-ehl.ri.zst",
+  "size": 206719,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.044491197Z",
+  "sha256_hash": "70f3059dbf830d50132ce4fea0532e8416a883dae18fcbafe8a1ac6125aa7169",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.672756906Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f1006847-daa4-4bb0-a748-72519182b4b2",
+  "path": "/lib/x86_64-linux-gnu/libsharpyuv.so.0.0.1",
+  "size": 22672,
+  "modified": "2024-03-31T08:02:02Z",
+  "created": "2025-05-09T05:07:32.160710299Z",
+  "sha256_hash": "b2e62799e5dbd783a0671d53be99f7c6489567a5332a1e8f471e6bb250f294dc",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.277996490Z"
+}

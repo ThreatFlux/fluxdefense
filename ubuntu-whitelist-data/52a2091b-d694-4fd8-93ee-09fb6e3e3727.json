@@ -1,0 +1,17 @@
+{
+  "uuid": "52a2091b-d694-4fd8-93ee-09fb6e3e3727",
+  "path": "/lib/firmware/nvidia/gp100/gr/sw_nonctx.bin.zst",
+  "size": 652,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.938536188Z",
+  "sha256_hash": "47a3437650f6d7d8ca66172d9cab55446356a6dc08ee2e44bd9ba99c98fef2b6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.417877306Z"
+}

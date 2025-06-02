@@ -1,0 +1,17 @@
+{
+  "uuid": "fc134f48-1cd0-433b-9b03-9bb1ebbdb5cb",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/Encode/EBCDIC.pm",
+  "size": 865,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.514591388Z",
+  "sha256_hash": "9677e24db044d8ad6a82df14e85e2d9e1e6b95cdaf47703e9aeae54f4fc2dce1",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.532253786Z"
+}

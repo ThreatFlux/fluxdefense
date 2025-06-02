@@ -1,0 +1,15 @@
+{
+  "uuid": "55e9fe78-18a4-4507-bb7b-30eb60175875",
+  "path": "/usr/lib/x86_64-linux-gnu/cifs-utils/cifs_idmap_sss.so",
+  "size": 14704,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:35.182664184Z",
+  "sha256_hash": "b0f96473378465d3e6f760934d64238702d059438ed44a81111fdfa2513f09fa",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.668905311Z"
+}

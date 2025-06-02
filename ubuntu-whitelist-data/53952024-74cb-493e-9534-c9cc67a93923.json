@@ -1,0 +1,17 @@
+{
+  "uuid": "53952024-74cb-493e-9534-c9cc67a93923",
+  "path": "/usr/lib/x86_64-linux-gnu/libxklavier.so.16.4.0",
+  "size": 109936,
+  "modified": "2024-03-31T08:02:11Z",
+  "created": "2025-05-09T05:07:35.153664627Z",
+  "sha256_hash": "f37f42b3442b0f05a958987c521cde86ac42c3a130b161809d5f41ee717cebbc",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.057479411Z"
+}

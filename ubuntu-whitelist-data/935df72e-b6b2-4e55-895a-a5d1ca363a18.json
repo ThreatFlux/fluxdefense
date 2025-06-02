@@ -1,0 +1,15 @@
+{
+  "uuid": "935df72e-b6b2-4e55-895a-a5d1ca363a18",
+  "path": "/lib/x86_64-linux-gnu/qemu/ui-sdl.so",
+  "size": 47456,
+  "modified": "2025-03-13T16:15:00Z",
+  "created": "2025-05-22T16:56:49.876985843Z",
+  "sha256_hash": "639fb0e2a9db2aa262916a6fa593bb7a5c4d95093720fbfe0bcb598b27ac51d6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.277430293Z"
+}

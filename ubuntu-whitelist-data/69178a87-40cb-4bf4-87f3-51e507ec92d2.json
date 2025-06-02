@@ -1,0 +1,17 @@
+{
+  "uuid": "69178a87-40cb-4bf4-87f3-51e507ec92d2",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-slcain.adb",
+  "size": 3015,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.055345079Z",
+  "sha256_hash": "73689c3dfd84c6d0c8c099581b44bd069d5b653edc7622e7a6d41eeab03740d6",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.027260361Z"
+}

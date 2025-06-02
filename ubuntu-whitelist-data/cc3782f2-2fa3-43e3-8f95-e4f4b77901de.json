@@ -1,0 +1,17 @@
+{
+  "uuid": "cc3782f2-2fa3-43e3-8f95-e4f4b77901de",
+  "path": "/usr/lib/x86_64-linux-gnu/libvirglrenderer.so.1.8.8",
+  "size": 572832,
+  "modified": "2024-04-08T16:21:41Z",
+  "created": "2025-05-09T05:56:52.446609958Z",
+  "sha256_hash": "2ec9df2b3f4dc275a97e9ac7f1abea25906a1c277a8ec9173522afa64ba9ef10",
+  "file_type": {
+    "Other": "8"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.517772382Z"
+}

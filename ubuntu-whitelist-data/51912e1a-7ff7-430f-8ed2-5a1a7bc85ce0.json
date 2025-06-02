@@ -1,0 +1,17 @@
+{
+  "uuid": "51912e1a-7ff7-430f-8ed2-5a1a7bc85ce0",
+  "path": "/lib/firmware/amdgpu/topaz_mec.bin.zst",
+  "size": 20373,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.419543377Z",
+  "sha256_hash": "b9893e3715ddcce5f5e749be5a8bc669d0a415d1c0131e5ef63b40104550b2ee",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.085055316Z"
+}

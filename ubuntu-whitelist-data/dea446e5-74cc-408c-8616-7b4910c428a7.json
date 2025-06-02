@@ -1,0 +1,17 @@
+{
+  "uuid": "dea446e5-74cc-408c-8616-7b4910c428a7",
+  "path": "/usr/lib/libreoffice/program/opengl/honeycombFragmentShader.glsl",
+  "size": 3490,
+  "modified": "2024-10-29T11:14:30Z",
+  "created": "2025-05-09T05:11:19.580239304Z",
+  "sha256_hash": "cedb4523077cc0e2d00cfc8dcdbdf139ce580a181196ac07193791b00df7f1e1",
+  "file_type": {
+    "Other": "glsl"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:43.495962137Z"
+}

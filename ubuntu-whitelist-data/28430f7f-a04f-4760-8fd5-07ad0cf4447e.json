@@ -1,0 +1,15 @@
+{
+  "uuid": "28430f7f-a04f-4760-8fd5-07ad0cf4447e",
+  "path": "/usr/lib/llvm-18/bin/llvm-remarkutil",
+  "size": 158864,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.070486951Z",
+  "sha256_hash": "0af47d9564d09800d0a437f8e69a458f302f92af0f4711abba09a5339630ec2e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.884751797Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "cf3b891e-7602-4ad5-9e98-9287a6857496",
+  "path": "/usr/lib/firmware/amdgpu/kabini_rlc.bin.zst",
+  "size": 5134,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.403543599Z",
+  "sha256_hash": "39beb93bc47bbf0ed323392935c7b516c7cc81efd7f3325e04ef302713d20cab",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.776992947Z"
+}

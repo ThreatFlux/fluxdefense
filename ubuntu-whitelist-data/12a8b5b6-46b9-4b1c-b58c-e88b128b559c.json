@@ -1,0 +1,17 @@
+{
+  "uuid": "12a8b5b6-46b9-4b1c-b58c-e88b128b559c",
+  "path": "/lib/x86_64-linux-gnu/libdhash.so.1.1.0",
+  "size": 18504,
+  "modified": "2024-03-31T07:32:33Z",
+  "created": "2025-05-09T05:07:29.308753819Z",
+  "sha256_hash": "988e7eb661090603061c4d50e44f2422a462cbb490306de88a194e8270ddb1e3",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.021616770Z"
+}

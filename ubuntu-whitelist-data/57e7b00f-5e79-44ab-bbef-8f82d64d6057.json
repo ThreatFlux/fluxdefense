@@ -1,0 +1,17 @@
+{
+  "uuid": "57e7b00f-5e79-44ab-bbef-8f82d64d6057",
+  "path": "/usr/lib/firmware/amdgpu/carrizo_mec.bin.zst",
+  "size": 24201,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.389543793Z",
+  "sha256_hash": "0ac1b65a16c2c77bf2bfeb9165639886d10df7b746279302ddcbf27a99186225",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.763304457Z"
+}

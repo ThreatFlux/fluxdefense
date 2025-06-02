@@ -1,0 +1,17 @@
+{
+  "uuid": "54e653ae-6851-499e-8660-78a37b4709a8",
+  "path": "/usr/lib/firmware/qcom/apq8096/adsp.mbn.zst",
+  "size": 4411477,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.978535634Z",
+  "sha256_hash": "215357e16711b58c41461b526f29e6b54eceba09eb38c39df8d378ee24b08d97",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.986408043Z"
+}

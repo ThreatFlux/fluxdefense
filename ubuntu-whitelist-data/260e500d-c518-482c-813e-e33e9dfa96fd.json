@@ -1,0 +1,17 @@
+{
+  "uuid": "260e500d-c518-482c-813e-e33e9dfa96fd",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/Encode/Byte.pm",
+  "size": 2430,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.513591403Z",
+  "sha256_hash": "4e6227c9b037cee4961025cb3549d5eabdd1e8ec5a3492ea66f7d933b1665a6d",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.465371537Z"
+}

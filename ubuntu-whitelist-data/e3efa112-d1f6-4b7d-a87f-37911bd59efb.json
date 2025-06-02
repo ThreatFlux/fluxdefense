@@ -1,0 +1,17 @@
+{
+  "uuid": "e3efa112-d1f6-4b7d-a87f-37911bd59efb",
+  "path": "/lib/systemd/system/fwupd-refresh.timer",
+  "size": 193,
+  "modified": "2025-03-18T08:21:05Z",
+  "created": "2025-05-09T05:24:28.639976146Z",
+  "sha256_hash": "8d90cd120f922b7471e47cca994ff3e23860a1975f09af41ca2b22c474f2ad17",
+  "file_type": {
+    "Other": "timer"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.102165729Z"
+}

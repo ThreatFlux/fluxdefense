@@ -1,0 +1,17 @@
+{
+  "uuid": "dd295226-5ed0-4d2f-9dad-4e686326b0d3",
+  "path": "/lib/x86_64-linux-gnu/girepository-1.0/Snapd-2.typelib",
+  "size": 60224,
+  "modified": "2024-03-31T08:23:03Z",
+  "created": "2025-05-09T05:07:35.729655837Z",
+  "sha256_hash": "b34da3a33a7022c1c6e0c8a449ec0dbd26903bf26d43d77a7dae876c6612b181",
+  "file_type": {
+    "Other": "typelib"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.131319350Z"
+}

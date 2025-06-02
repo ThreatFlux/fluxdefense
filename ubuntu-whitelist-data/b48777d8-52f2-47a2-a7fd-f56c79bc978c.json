@@ -1,0 +1,17 @@
+{
+  "uuid": "b48777d8-52f2-47a2-a7fd-f56c79bc978c",
+  "path": "/lib/llvm-18/include/clang/AST/TemplateArgumentVisitor.h",
+  "size": 3532,
+  "modified": "2024-01-24T12:45:36Z",
+  "created": "2025-05-12T13:34:31.520533700Z",
+  "sha256_hash": "d9f9f260f2be868d63bb09c3299b5a08c6aad92880bc584c5770eae9bc513109",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.009146991Z"
+}

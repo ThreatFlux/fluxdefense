@@ -1,0 +1,17 @@
+{
+  "uuid": "89768499-3f48-44a1-a5ff-a6412027ec36",
+  "path": "/lib/grub/x86_64-efi/videotest.mod",
+  "size": 5528,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.840707972Z",
+  "sha256_hash": "6656bd683f8e497dec9fc55516800a11976e1ab80c661cbc0b169b2b84c4fda9",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.026516923Z"
+}

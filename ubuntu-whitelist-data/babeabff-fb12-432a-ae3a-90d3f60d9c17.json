@@ -1,0 +1,17 @@
+{
+  "uuid": "babeabff-fb12-432a-ae3a-90d3f60d9c17",
+  "path": "/usr/lib/firmware/rtw88/rtw8822b_fw.bin.zst",
+  "size": 77719,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.069534374Z",
+  "sha256_hash": "f9cc7adc31fbe3725e64ddb41f34d4b33d72e5cd2de14adb7143b1dc4653850e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.473482268Z"
+}

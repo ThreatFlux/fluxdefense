@@ -1,0 +1,17 @@
+{
+  "uuid": "bda8e4b1-7d38-46a1-8714-2c23ed5b21ee",
+  "path": "/lib/grub/x86_64-efi/partmap.lst",
+  "size": 111,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.838708002Z",
+  "sha256_hash": "85a3d5f84d20723a27c1442b861be44fbf58a4525eefe2ccbb2b5f7ceb21e8be",
+  "file_type": {
+    "Other": "lst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.029248539Z"
+}

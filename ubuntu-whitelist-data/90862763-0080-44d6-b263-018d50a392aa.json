@@ -1,0 +1,17 @@
+{
+  "uuid": "90862763-0080-44d6-b263-018d50a392aa",
+  "path": "/usr/lib/systemd/system/systemd-sysusers.service",
+  "size": 1310,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "22c1aa54692be4fc17b11c0e77230d88cae5d10794def3b4a9d6070f299a6165",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.446251614Z"
+}

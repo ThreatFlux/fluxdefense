@@ -1,0 +1,15 @@
+{
+  "uuid": "00e93648-58cb-4f90-8037-2a1695a9b470",
+  "path": "/usr/bin/debconf-escape",
+  "size": 668,
+  "modified": "2024-04-12T12:40:53Z",
+  "created": "2025-05-09T05:07:19.148908853Z",
+  "sha256_hash": "b1e81e2ac04c2a6c286514f2f410c57b9ac6188ed33ed558722f3bc252e93e87",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:06.315693229Z"
+}

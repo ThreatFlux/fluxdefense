@@ -1,0 +1,17 @@
+{
+  "uuid": "734f3585-01b8-4493-820c-14ded1606911",
+  "path": "/usr/lib/systemd/system/veritysetup-pre.target",
+  "size": 481,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.516779393Z",
+  "sha256_hash": "aaeb68dc7f82e70ed7fbe811091f7129506061183339a43f4f5058053745aad4",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.460200859Z"
+}

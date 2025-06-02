@@ -1,0 +1,17 @@
+{
+  "uuid": "07249e8e-8efa-4039-8356-77421c870ae4",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/hicpp/IgnoredRemoveResultCheck.h",
+  "size": 1187,
+  "modified": "2023-12-09T22:26:51Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "2a7d5da591dab8dd1a14d7064a444f9afa8aab00895b50c222c7ac07499916a1",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.271120905Z"
+}

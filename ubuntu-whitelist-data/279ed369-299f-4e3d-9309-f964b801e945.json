@@ -1,0 +1,17 @@
+{
+  "uuid": "279ed369-299f-4e3d-9309-f964b801e945",
+  "path": "/usr/lib/python3.12/test/__pycache__/mp_fork_bomb.cpython-312.pyc",
+  "size": 817,
+  "modified": "2025-05-28T17:29:53.373481107Z",
+  "created": "2025-05-28T17:29:53.373481107Z",
+  "sha256_hash": "06cf2ba22fb74329e73be4a9a8f6d90d3fa8d5295209d855ae31060fe597d449",
+  "file_type": {
+    "Other": "pyc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.481272747Z"
+}

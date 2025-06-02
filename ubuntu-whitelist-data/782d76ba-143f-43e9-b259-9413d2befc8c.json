@@ -1,0 +1,15 @@
+{
+  "uuid": "782d76ba-143f-43e9-b259-9413d2befc8c",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/INIS.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.669656753Z",
+  "sha256_hash": "1438a4254502c3ab8de92eb63a90858480804910e771ed38630faced07d0aaaa",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.484269150Z"
+}

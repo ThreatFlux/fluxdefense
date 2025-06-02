@@ -1,0 +1,15 @@
+{
+  "uuid": "256deb7a-cd2b-47a4-88e3-6d02af6b1c7a",
+  "path": "/lib/python3/dist-packages/cloudinit/mergers/m_list.py",
+  "size": 2736,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.239037216Z",
+  "sha256_hash": "6db8e9ef2d07e12b56e1b9c6fb6d53a04e4400dd3be0650beab4cfb1e4326dca",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.922065053Z"
+}

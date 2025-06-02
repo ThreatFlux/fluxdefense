@@ -1,0 +1,15 @@
+{
+  "uuid": "76a034cc-e105-41a8-85f7-b9327e6a134c",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgst1394.so",
+  "size": 51664,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.770655212Z",
+  "sha256_hash": "73ae203fc2e12c749e4f85b931e1565d30a735537f84cdef67235d7296767e51",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.966967548Z"
+}

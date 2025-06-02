@@ -1,0 +1,17 @@
+{
+  "uuid": "13e23022-4c4c-479f-b911-8dfac8f9e1c8",
+  "path": "/usr/lib/grub/x86_64-efi/loopback.mod",
+  "size": 5416,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.813708384Z",
+  "sha256_hash": "52b5442ad37625dc472d44ed10f93cd93d4e3b7c01d158185fc2c7a98d7919ac",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.594390712Z"
+}

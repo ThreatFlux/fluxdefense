@@ -1,0 +1,17 @@
+{
+  "uuid": "ce6d993a-89e2-4979-b352-73872ab4062f",
+  "path": "/lib/llvm-18/include/clang/Basic/arm_fp16.inc",
+  "size": 14244,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.533533528Z",
+  "sha256_hash": "bfeeff007ba161daa14de572e2e0d21aa6ee0d5da0e336ccaeffbb765f1ca250",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.102737710Z"
+}

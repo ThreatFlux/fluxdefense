@@ -1,0 +1,17 @@
+{
+  "uuid": "69be79c6-e713-4536-9f9d-d2545d3409be",
+  "path": "/usr/lib/systemd/system/container-getty@.service",
+  "size": 1305,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.510779317Z",
+  "sha256_hash": "aa91811b15046ad7d71e6739a200a7b2fd5a4b56f9be8e2b879f530dd9b937b2",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.484121059Z"
+}

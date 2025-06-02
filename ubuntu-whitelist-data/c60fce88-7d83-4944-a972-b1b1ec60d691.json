@@ -1,0 +1,17 @@
+{
+  "uuid": "c60fce88-7d83-4944-a972-b1b1ec60d691",
+  "path": "/usr/lib/libreoffice/program/opengl/fadeBlackFragmentShader.glsl",
+  "size": 989,
+  "modified": "2024-10-29T11:14:30Z",
+  "created": "2025-05-09T05:11:19.580239304Z",
+  "sha256_hash": "d9799f633788e1b891d9ea748deb141b34cff24f6a51de98c1fc2fd0cb3869ed",
+  "file_type": {
+    "Other": "glsl"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:43.496992573Z"
+}

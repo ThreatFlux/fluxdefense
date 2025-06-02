@@ -1,0 +1,15 @@
+{
+  "uuid": "2775aaf7-610a-49a2-9038-0d3f226dc903",
+  "path": "/usr/lib/x86_64-linux-gnu/libgnarl-13.so",
+  "size": 292432,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:14.897347250Z",
+  "sha256_hash": "417db95a8787004afab558927e869b398ac4ea7d887d68e2b314df4da6fe47ca",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:28.096030971Z"
+}

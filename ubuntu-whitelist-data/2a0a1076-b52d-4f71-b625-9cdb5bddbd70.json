@@ -1,0 +1,15 @@
+{
+  "uuid": "2a0a1076-b52d-4f71-b625-9cdb5bddbd70",
+  "path": "/usr/sbin/reset-trace-bpfcc",
+  "size": 3498,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "c6840e327092c46434231924e10fc721aed441c2ca8131868402bd89354abab6",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.491332350Z"
+}

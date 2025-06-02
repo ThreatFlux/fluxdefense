@@ -1,0 +1,17 @@
+{
+  "uuid": "45aff12c-35cc-4032-be03-57b7f38db575",
+  "path": "/usr/lib/x86_64-linux-gnu/libgphoto2_port.so.12.2.0",
+  "size": 51688,
+  "modified": "2024-03-31T02:00:03Z",
+  "created": "2025-05-09T05:07:29.827745899Z",
+  "sha256_hash": "4609918339b5ffe675631f7d1c08eb947eab8289007c981599509dea0c096d75",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.835753272Z"
+}

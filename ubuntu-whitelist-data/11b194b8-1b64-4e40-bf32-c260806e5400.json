@@ -1,0 +1,15 @@
+{
+  "uuid": "11b194b8-1b64-4e40-bf32-c260806e5400",
+  "path": "/usr/lib/python3/dist-packages/duplicity/backends/xorrisobackend.py",
+  "size": 12248,
+  "modified": "2025-02-15T08:51:42Z",
+  "created": "2025-05-09T05:07:26.873790976Z",
+  "sha256_hash": "d1f36c050e05987375c1742bc45de38518bf639fb604f033b629b10d0c9e4eca",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.646817676Z"
+}

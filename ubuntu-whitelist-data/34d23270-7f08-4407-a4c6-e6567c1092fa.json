@@ -1,0 +1,15 @@
+{
+  "uuid": "34d23270-7f08-4407-a4c6-e6567c1092fa",
+  "path": "/usr/lib/cups/filter/commandtoescpx",
+  "size": 14648,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.344875344Z",
+  "sha256_hash": "ef7e3f9e2245bd5db7a9742c2ff1235068bb1eb8d1ef69a5ddcde4fe0a1f6387",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.994472813Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "706aceaa-ac93-45f4-851d-28c7e21156fd",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/ImplicitWideningOfMultiplicationResultCheck.h",
+  "size": 2058,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "6fec3712b193d2be1e17393d8dcc24c4d3f8b64aaf033030aed505cc0f0043b7",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.230881924Z"
+}

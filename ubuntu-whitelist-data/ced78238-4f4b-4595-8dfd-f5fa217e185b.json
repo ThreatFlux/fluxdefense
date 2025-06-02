@@ -1,0 +1,17 @@
+{
+  "uuid": "ced78238-4f4b-4595-8dfd-f5fa217e185b",
+  "path": "/usr/lib/firmware/iwlwifi-so-a0-gf4-a0-81.ucode.zst",
+  "size": 580256,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.645540247Z",
+  "sha256_hash": "b26a04c88ec07529a5143508244700bd7e665d281aa6c487ced967fdd07131dd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.544789314Z"
+}

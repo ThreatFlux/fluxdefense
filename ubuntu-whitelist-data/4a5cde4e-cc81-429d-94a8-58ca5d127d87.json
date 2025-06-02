@@ -1,0 +1,17 @@
+{
+  "uuid": "4a5cde4e-cc81-429d-94a8-58ca5d127d87",
+  "path": "/usr/lib/google-cloud-sdk/.install/core.manifest",
+  "size": 878068,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.310922121Z",
+  "sha256_hash": "0d6127be0b62f9faba49d8f835cde54b637a875856a39dbd80709f24f5c5b62d",
+  "file_type": {
+    "Other": "manifest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.531240180Z"
+}

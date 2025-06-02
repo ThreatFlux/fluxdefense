@@ -1,0 +1,15 @@
+{
+  "uuid": "48e5918e-6a10-4f8d-b876-c85b17c14e09",
+  "path": "/bin/pinentry-curses",
+  "size": 60056,
+  "modified": "2024-03-31T16:59:39Z",
+  "created": "2025-05-09T05:07:20.294891366Z",
+  "sha256_hash": "255b09f7b0199ce75c38e5c4e4a04b0992ed43f3fac89b3f80bbd26fe9b2e9ea",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.439672111Z"
+}

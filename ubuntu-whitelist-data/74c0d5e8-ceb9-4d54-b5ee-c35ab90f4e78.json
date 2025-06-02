@@ -1,0 +1,15 @@
+{
+  "uuid": "74c0d5e8-ceb9-4d54-b5ee-c35ab90f4e78",
+  "path": "/usr/lib/x86_64-linux-gnu/libtcl8.6.so",
+  "size": 1753856,
+  "modified": "2024-03-31T08:26:43Z",
+  "created": "2025-05-09T05:07:32.300708162Z",
+  "sha256_hash": "2d072235d4a518cb02fd8c6a2dd052119545a9a4406cb69e8cdeef156571dec2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:15.434234328Z"
+}

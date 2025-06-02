@@ -1,0 +1,15 @@
+{
+  "uuid": "659be149-2e29-41e7-9c64-20b8230674b7",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/IBM4899.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.649657058Z",
+  "sha256_hash": "1956c1e950a071140ebf071838b9f9029e11df05c570d4e81612a475a5acd177",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.553155124Z"
+}

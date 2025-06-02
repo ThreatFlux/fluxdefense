@@ -1,0 +1,15 @@
+{
+  "uuid": "bc09664d-5bf6-40b7-8e62-f3910aa762c9",
+  "path": "/lib/llvm-18/lib/libclangSupport.a",
+  "size": 87224,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.835529551Z",
+  "sha256_hash": "cc30041c0c70e04382dda64caba25d91eb8fbd3f9999b6480e79983941b54256",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:42.215344229Z"
+}

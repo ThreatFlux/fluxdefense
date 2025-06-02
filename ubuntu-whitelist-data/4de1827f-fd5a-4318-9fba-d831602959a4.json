@@ -1,0 +1,15 @@
+{
+  "uuid": "4de1827f-fd5a-4318-9fba-d831602959a4",
+  "path": "/usr/sbin/grub-set-default",
+  "size": 3556,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.985705759Z",
+  "sha256_hash": "bb78098560b7c136fb3b2a687636c3ac1cfee8da5f16f0ea115da3de6ce2ee28",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.711153622Z"
+}

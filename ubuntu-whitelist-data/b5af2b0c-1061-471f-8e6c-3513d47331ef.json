@@ -1,0 +1,17 @@
+{
+  "uuid": "b5af2b0c-1061-471f-8e6c-3513d47331ef",
+  "path": "/lib/x86_64-linux-gnu/ldscripts/elf_iamcu.xwe",
+  "size": 9033,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:52.049575364Z",
+  "sha256_hash": "ce8e061f2abecc5650edc9b58333df4a961d36d609e2c45670551eb2c81eee02",
+  "file_type": {
+    "Other": "xwe"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:18.236175668Z"
+}

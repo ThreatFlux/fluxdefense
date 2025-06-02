@@ -1,0 +1,17 @@
+{
+  "uuid": "43b082ba-c943-4a6d-af7e-618c114a4ae4",
+  "path": "/lib/python3.12/test/dtracedata/assert_usable.stp",
+  "size": 54,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.998551683Z",
+  "sha256_hash": "8d0efbdd8f75e5874739247927762a19f96930723628060adbdb86922bdc276d",
+  "file_type": {
+    "Other": "stp"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.322917015Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "202852f4-b40e-4d8d-98b8-fd416cbde598",
+  "path": "/usr/lib/udev/iocost",
+  "size": 154472,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:14.060786348Z",
+  "sha256_hash": "22fc4cad4a02a409135b0909cf2ca3360b335b7621016e0a85fab66694caad1e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.097652817Z"
+}

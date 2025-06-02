@@ -1,0 +1,17 @@
+{
+  "uuid": "40e221cc-53c6-4aa6-a692-fcc03319e75d",
+  "path": "/usr/lib/aspell/british-ize.alias",
+  "size": 79,
+  "modified": "2020-12-08T01:19:37Z",
+  "created": "2025-05-09T05:07:21.010880441Z",
+  "sha256_hash": "8d3e96574ae71f11364bc7f2e5ad84a2885987950dd040330a9a7d06217af687",
+  "file_type": {
+    "Other": "alias"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.299113607Z"
+}

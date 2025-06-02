@@ -1,0 +1,15 @@
+{
+  "uuid": "bb0a1406-9d80-4f8c-a352-4aaa16b028cb",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/config/cc_write_files.py",
+  "size": 6140,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.236037177Z",
+  "sha256_hash": "970ad6a7e6991c9a6d79ccc9ab9726271c96e56fe6e7d2d45552f8596b4ddc31",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.851541378Z"
+}

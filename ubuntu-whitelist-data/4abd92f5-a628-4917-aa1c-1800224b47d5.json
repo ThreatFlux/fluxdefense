@@ -1,0 +1,15 @@
+{
+  "uuid": "4abd92f5-a628-4917-aa1c-1800224b47d5",
+  "path": "/lib/x86_64-linux-gnu/tracker-miners-3.0/writeback-modules/libwriteback-gstreamer.so",
+  "size": 35128,
+  "modified": "2024-03-31T17:20:13Z",
+  "created": "2025-05-09T05:07:37.311631696Z",
+  "sha256_hash": "38c8d1ba68dc7652f023cb3957b48f10d890d804814d918f56d5841432e3ba49",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.714858076Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f013c7d8-676a-4e84-a336-df619ea80140",
+  "path": "/usr/lib/llvm-18/include/clang/Frontend/TextDiagnosticPrinter.h",
+  "size": 1893,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "1a02e9a4c249a5aa904b737f900599ff90dd26c50bdbcf9792ce54916131bfe7",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.295111526Z"
+}

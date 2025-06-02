@@ -1,0 +1,17 @@
+{
+  "uuid": "f45e9012-b1e3-445c-9ec2-4093c87500df",
+  "path": "/lib/firmware/qcom/a420_pm4.fw.zst",
+  "size": 2249,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.969535759Z",
+  "sha256_hash": "f8a303f169e5b4c9c17dc274de67e6155aef0c866fc8f094ce81a01abc970c2e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.905242550Z"
+}

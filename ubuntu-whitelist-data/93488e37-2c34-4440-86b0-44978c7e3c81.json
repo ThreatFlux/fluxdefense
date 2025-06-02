@@ -1,0 +1,17 @@
+{
+  "uuid": "93488e37-2c34-4440-86b0-44978c7e3c81",
+  "path": "/usr/lib/llvm-18/include/clang/Sema/SemaLambda.h",
+  "size": 1342,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.549533318Z",
+  "sha256_hash": "a063bfd1ae22234b84af3e33d7b7f649cdae29b2ace20a78cbc36981f9e2268d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.455573705Z"
+}

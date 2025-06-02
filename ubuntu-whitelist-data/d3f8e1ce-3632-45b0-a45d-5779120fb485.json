@@ -1,0 +1,15 @@
+{
+  "uuid": "d3f8e1ce-3632-45b0-a45d-5779120fb485",
+  "path": "/usr/lib/python3.12/lib-dynload/termios.cpython-312-x86_64-linux-gnu.so",
+  "size": 35520,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:10:59.932539216Z",
+  "sha256_hash": "990718cb44277f73d1ef11af5e1e8cd29786bc76394a80bce1e3e90d4c144309",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.933444033Z"
+}

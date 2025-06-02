@@ -1,0 +1,17 @@
+{
+  "uuid": "3c4f7596-696f-407a-88e5-4fe77a4c65fa",
+  "path": "/lib/firmware/cxgb3/ael2005_opt_edc.bin.zst",
+  "size": 858,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.511542103Z",
+  "sha256_hash": "f80af7a7bb91e6103ec9cc37fdc4f4cd01c87ed926abc370eb671438e0a1ab4f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.377140307Z"
+}

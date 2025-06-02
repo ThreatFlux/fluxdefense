@@ -1,0 +1,17 @@
+{
+  "uuid": "536b15b3-b115-463d-a6af-8a94eb6c92c1",
+  "path": "/lib/firmware/ene-ub6250/ms_init.bin.zst",
+  "size": 869,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.530541840Z",
+  "sha256_hash": "f512b4b647840fe3f0f6b9eec7b328677ccfc22ad68cd25147cd827ae433b8b9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.005820831Z"
+}

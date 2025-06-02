@@ -1,0 +1,17 @@
+{
+  "uuid": "3471c984-15ea-4f8c-a1bc-29ab483e4280",
+  "path": "/sbin/mount.fuse3",
+  "size": 18736,
+  "modified": "2024-04-08T15:57:57Z",
+  "created": "2025-05-09T05:07:38.366615597Z",
+  "sha256_hash": "9989a4bdcbe53fe38797a230e51664b5552c7d9901f705c553cba7077242aa39",
+  "file_type": {
+    "Other": "fuse3"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.133285022Z"
+}

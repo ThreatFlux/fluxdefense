@@ -1,0 +1,15 @@
+{
+  "uuid": "06ce1572-ab78-450e-b47f-9da80edfc195",
+  "path": "/sbin/capable-bpfcc",
+  "size": 8477,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.520499194Z",
+  "sha256_hash": "fd68d727a8ba53c007c9150cddf1876c3f0983fc1ce2f123a32a810bb3f58669",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.764274599Z"
+}

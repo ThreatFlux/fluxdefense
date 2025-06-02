@@ -1,0 +1,15 @@
+{
+  "uuid": "46e1fd6c-a3ae-4309-baa2-8cb409b86320",
+  "path": "/usr/lib/x86_64-linux-gnu/grilo-0.3/libgrlshoutcast.so",
+  "size": 22928,
+  "modified": "2025-03-17T11:05:34Z",
+  "created": "2025-05-12T03:14:18.439811199Z",
+  "sha256_hash": "c74d5849935f64c409fd2e6242d49e4207db09d12496bb26e1d393b85fc667ab",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.514874435Z"
+}

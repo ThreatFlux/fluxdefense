@@ -1,0 +1,17 @@
+{
+  "uuid": "0a5de73b-a22c-46f6-b69b-cbe28fd6e700",
+  "path": "/usr/lib/systemd/user/org.gnome.Shell.target",
+  "size": 251,
+  "modified": "2024-03-16T00:56:52Z",
+  "created": "2025-05-21T14:13:56.788915457Z",
+  "sha256_hash": "d10eb9f69a38e81972b1004c4f3a259786f6d2ba60f84a91d3b01c7d8c991180",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.501828443Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "13478f2f-f809-4db5-88ca-4af671a8eaf3",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/bits/posix_opt.ph",
+  "size": 5471,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.557590732Z",
+  "sha256_hash": "5d4169d7bb18d550daf20caae448d348438d422867b8cef944fdb3faa2b4feee",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.594689318Z"
+}

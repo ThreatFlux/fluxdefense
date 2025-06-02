@@ -1,0 +1,17 @@
+{
+  "uuid": "ff1e952f-5f7f-49f6-92d3-1f5a3b926550",
+  "path": "/lib/x86_64-linux-gnu/libv4lconvert0/ov511-decomp",
+  "size": 22848,
+  "modified": "2024-04-07T07:24:04Z",
+  "created": "2025-05-09T05:07:36.544643400Z",
+  "sha256_hash": "b87e110c23fad9688d551e3eb0c8f7482a658161fadce66274d623b104d15d6a",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.146941671Z"
+}

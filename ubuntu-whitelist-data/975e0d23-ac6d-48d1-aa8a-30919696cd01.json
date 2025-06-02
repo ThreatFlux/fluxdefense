@@ -1,0 +1,15 @@
+{
+  "uuid": "975e0d23-ac6d-48d1-aa8a-30919696cd01",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstgoom2k1.so",
+  "size": 22928,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.772655181Z",
+  "sha256_hash": "b8100d357cdb7ba44d1274d2ca0a81b0839f15f4646f65837b18f6b076f27a12",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.121005379Z"
+}

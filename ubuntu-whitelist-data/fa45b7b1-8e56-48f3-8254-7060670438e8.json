@@ -1,0 +1,17 @@
+{
+  "uuid": "fa45b7b1-8e56-48f3-8254-7060670438e8",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/libjpeg.pc",
+  "size": 238,
+  "modified": "2024-04-08T16:04:50Z",
+  "created": "2025-05-29T11:16:01.713118986Z",
+  "sha256_hash": "581a3b56a66988c7b710006c417d10d0da346c12d30383052930dc78485093b7",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.053679341Z"
+}

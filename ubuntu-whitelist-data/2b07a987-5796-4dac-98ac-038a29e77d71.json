@@ -1,0 +1,17 @@
+{
+  "uuid": "2b07a987-5796-4dac-98ac-038a29e77d71",
+  "path": "/lib/x86_64-linux-gnu/libselinux.so.1",
+  "size": 174472,
+  "modified": "2024-10-02T12:40:52Z",
+  "created": "2025-05-09T05:07:32.149710467Z",
+  "sha256_hash": "0ec0843463f90e227b0e138e1f379774f50b5514bd7f5dbd4c8a87aca0aa6670",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.828125146Z"
+}

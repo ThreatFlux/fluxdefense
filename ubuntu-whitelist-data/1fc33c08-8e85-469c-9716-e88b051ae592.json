@@ -1,0 +1,15 @@
+{
+  "uuid": "1fc33c08-8e85-469c-9716-e88b051ae592",
+  "path": "/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-novatel.so",
+  "size": 14464,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.160664520Z",
+  "sha256_hash": "5dc7b60cd6a30068d454651fc1d0034e345558271c26260ca984ff978fc229fa",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.570441299Z"
+}

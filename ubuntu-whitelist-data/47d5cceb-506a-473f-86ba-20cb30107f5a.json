@@ -1,0 +1,17 @@
+{
+  "uuid": "47d5cceb-506a-473f-86ba-20cb30107f5a",
+  "path": "/usr/lib/systemd/network/80-vm-vt.network",
+  "size": 984,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.510779317Z",
+  "sha256_hash": "1aab24d4253a96989caf69f98956468622c37ce8eeff405b2eaedde614d7f286",
+  "file_type": {
+    "Other": "network"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.560105785Z"
+}

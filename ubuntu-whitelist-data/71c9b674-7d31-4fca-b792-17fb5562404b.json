@@ -1,0 +1,15 @@
+{
+  "uuid": "71c9b674-7d31-4fca-b792-17fb5562404b",
+  "path": "/lib/x86_64-linux-gnu/rsyslog/mmutf8fix.so",
+  "size": 14680,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.547922264Z",
+  "sha256_hash": "bcf856fe13d0083e515832fddde461b99afdd786338096dbdb07782d774b1c93",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.852965308Z"
+}

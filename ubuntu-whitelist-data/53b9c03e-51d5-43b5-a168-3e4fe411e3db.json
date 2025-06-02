@@ -1,0 +1,17 @@
+{
+  "uuid": "53b9c03e-51d5-43b5-a168-3e4fe411e3db",
+  "path": "/lib/llvm-18/include/clang/Basic/Sarif.h",
+  "size": 18225,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.532533542Z",
+  "sha256_hash": "133bdcc3b1d2b0d3d0e0375ad87af517ed9eb3f1f30c0cd48fd4beb8ebe35ee1",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.122186267Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "4bdcfb7a-3845-4387-b3fd-9c10c6c2752b",
+  "path": "/usr/lib/x86_64-linux-gnu/security/pam_issue.so",
+  "size": 14488,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:37.199633405Z",
+  "sha256_hash": "a9b9f27850c581ac3fe0464c211f98ff8aa966f6d3c5d22304b12f81276d9218",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.667734293Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "cc0757b5-97d3-40d4-b6d3-302aa485ff10",
+  "path": "/lib/gnupg/gpg-preset-passphrase",
+  "size": 35472,
+  "modified": "2025-03-28T15:23:49Z",
+  "created": "2025-05-09T05:11:23.690176568Z",
+  "sha256_hash": "15896b9a29abf7f7278987afe9d53d30b80c8517a1a7a569249d4277a7bbd1f7",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.364092326Z"
+}

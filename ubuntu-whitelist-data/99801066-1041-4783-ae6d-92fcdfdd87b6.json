@@ -1,0 +1,17 @@
+{
+  "uuid": "99801066-1041-4783-ae6d-92fcdfdd87b6",
+  "path": "/lib/systemd/user/evolution-addressbook-factory.service",
+  "size": 177,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:28.305769124Z",
+  "sha256_hash": "71035c1de1da1cea235431d34faed60cbcf330e5d744b8d203586f15e4812167",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.145120694Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "f96e1f5e-c18f-4953-8444-7d6995ae29fd",
+  "path": "/lib/i386-linux-gnu/gconv/UNICODE.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.284663355Z",
+  "sha256_hash": "038812ae13ba98b80edcf8aa29ac0af82aa7539e72181b6df77a4d6a48bbae8d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.773849558Z"
+}

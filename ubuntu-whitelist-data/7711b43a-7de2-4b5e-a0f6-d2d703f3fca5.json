@@ -1,0 +1,17 @@
+{
+  "uuid": "7711b43a-7de2-4b5e-a0f6-d2d703f3fca5",
+  "path": "/lib/firmware/v4l-cx23885-avcore-01.fw.zst",
+  "size": 8073,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.082534194Z",
+  "sha256_hash": "4e0b10fe780654f9900cdc2d110303f485add4d6c32ace54b6a6e4d38e18294b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.990301439Z"
+}

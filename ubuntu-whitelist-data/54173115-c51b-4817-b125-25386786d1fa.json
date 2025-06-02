@@ -1,0 +1,17 @@
+{
+  "uuid": "54173115-c51b-4817-b125-25386786d1fa",
+  "path": "/usr/lib/x86_64-linux-gnu/tc/experimental.dist",
+  "size": 23077,
+  "modified": "2024-03-31T09:00:13Z",
+  "created": "2025-05-09T05:07:37.293631971Z",
+  "sha256_hash": "bb87f6e4de111a87e87acfa471cba90150445afa9660059916cbf2aeb7255f9e",
+  "file_type": {
+    "Other": "dist"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.873184690Z"
+}

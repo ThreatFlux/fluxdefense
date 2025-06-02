@@ -1,0 +1,17 @@
+{
+  "uuid": "0b6780e0-cdbd-4046-bec6-eaba3c6b48c1",
+  "path": "/lib/firmware/amdgpu/verde_rlc.bin.zst",
+  "size": 4419,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.427543266Z",
+  "sha256_hash": "63f837e84ca163bf561dd346921f5ec9f474023b97134b7c58000b87aae455be",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.965887458Z"
+}

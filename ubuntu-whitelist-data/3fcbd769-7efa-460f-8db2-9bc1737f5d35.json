@@ -1,0 +1,17 @@
+{
+  "uuid": "3fcbd769-7efa-460f-8db2-9bc1737f5d35",
+  "path": "/usr/lib/x86_64-linux-gnu/libbdplus.so.0.2.0",
+  "size": 105056,
+  "modified": "2024-04-18T17:47:47Z",
+  "created": "2025-05-09T05:09:28.907928574Z",
+  "sha256_hash": "45c30c71df156aedcc6426cd9ea8e9628ebe1c029f4a23ee98d9635f5b7d6727",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.307148064Z"
+}

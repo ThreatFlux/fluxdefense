@@ -1,0 +1,17 @@
+{
+  "uuid": "19584058-21ac-453f-976e-43494b05899b",
+  "path": "/lib/firmware/keyspan/mpr.fw.zst",
+  "size": 2828,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.667539942Z",
+  "sha256_hash": "8f93b0e85e98c7dc750541078aba36dfbea4fdf6158ad466c8bfc8501f18daad",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.552873194Z"
+}

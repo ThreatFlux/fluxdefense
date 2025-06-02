@@ -1,0 +1,15 @@
+{
+  "uuid": "b0036cf7-b786-4d65-a0a9-47456c3978a3",
+  "path": "/lib/i386-linux-gnu/gconv/DEC-MCS.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.272663538Z",
+  "sha256_hash": "b3c21f27ae3f81bea04ef6007efaa12a8c77fa542f7a020773cb2a780e3261d3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.772245495Z"
+}

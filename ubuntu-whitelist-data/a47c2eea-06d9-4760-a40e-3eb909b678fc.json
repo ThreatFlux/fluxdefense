@@ -1,0 +1,15 @@
+{
+  "uuid": "a47c2eea-06d9-4760-a40e-3eb909b678fc",
+  "path": "/usr/lib/x86_64-linux-gnu/wireplumber-0.4/libwireplumber-module-reserve-device.so",
+  "size": 55536,
+  "modified": "2024-03-31T08:33:26Z",
+  "created": "2025-05-09T05:07:37.320631559Z",
+  "sha256_hash": "c06186221007618d732f0686ffc480d03359ec5e9cb21ce89f263069d8eae349",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.090202414Z"
+}

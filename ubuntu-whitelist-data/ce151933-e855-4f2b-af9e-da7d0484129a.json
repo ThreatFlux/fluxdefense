@@ -1,0 +1,17 @@
+{
+  "uuid": "ce151933-e855-4f2b-af9e-da7d0484129a",
+  "path": "/lib/systemd/system/user@.service.d/timeout.conf",
+  "size": 125,
+  "modified": "2025-02-18T17:24:37Z",
+  "created": "2025-05-09T05:24:13.516779393Z",
+  "sha256_hash": "597eac16d8d7a289bb16aeeb01be0191d0c90beca4c6e0dba0f0c2d7c4e0ea81",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.118565534Z"
+}

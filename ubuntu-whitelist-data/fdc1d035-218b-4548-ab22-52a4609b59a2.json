@@ -1,0 +1,15 @@
+{
+  "uuid": "fdc1d035-218b-4548-ab22-52a4609b59a2",
+  "path": "/usr/libexec/gsd-keyboard",
+  "size": 35776,
+  "modified": "2024-04-18T10:59:35Z",
+  "created": "2025-05-09T05:07:37.498628843Z",
+  "sha256_hash": "54c9ebf85372b3ecfdd0ef0f83674210be30cd65248fe6a300d859cebcc86f03",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.449906381Z"
+}

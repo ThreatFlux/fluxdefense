@@ -1,0 +1,17 @@
+{
+  "uuid": "34608a7c-15e4-4e22-a4e7-776167f9fe0b",
+  "path": "/lib/grub/x86_64-efi/video_cirrus.mod",
+  "size": 9024,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.840707972Z",
+  "sha256_hash": "adc7ef4082d3d9091dfe9fc1dee1b80f26903ee2e78ca124b60a04b316272363",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.054482244Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "1c776187-b135-4901-aa36-5f71f241a417",
+  "path": "/lib/llvm-18/include/clang-tidy/modernize/UseNullptrCheck.h",
+  "size": 1343,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "7b464ea71dfc167540dd26583adb3de9b3ec4eed6da46cffd3b14e1ebda54b3a",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.910372539Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d24d0cc4-4d92-4554-b3df-2d9d22bec651",
+  "path": "/usr/lib/i386-linux-gnu/libzstd.so.1.5.5",
+  "size": 767336,
+  "modified": "2024-08-09T02:33:22Z",
+  "created": "2025-05-09T05:09:46.898653983Z",
+  "sha256_hash": "b700f5100c7e6b1e3cda2c926beedd09ae7faf29ac6d73149e06e459d24fbc78",
+  "file_type": {
+    "Other": "5"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:41.657412604Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "006813bb-ddbd-47c7-b916-1dfcf9623fc9",
+  "path": "/lib/llvm-18/lib/libclangTidyBugproneModule.a",
+  "size": 13983630,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.842529459Z",
+  "sha256_hash": "934b173a685d22a40bbcded3d8c81fedd17402ef33895a3c49a5ca48d710d773",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:42.144338613Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "ce858ab0-f9a1-42c1-bcfd-5f57dc94a5ab",
+  "path": "/usr/lib/i386-linux-gnu/gconv/EBCDIC-US.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.272663538Z",
+  "sha256_hash": "c47c37cb928d465df67a893e1b6e71efd7042b946286bc59abe0ae0dfc47c2a4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.995802807Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f14e6db0-34ff-4ea2-866c-62bd6f131c4d",
+  "path": "/lib/x86_64-linux-gnu/libclucene-contribs-lib.so.2.3.3.4",
+  "size": 386296,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.218755192Z",
+  "sha256_hash": "0806eea2376fb2b3ba023dee344e469a56c988c98622d265b64c379eca3026cb",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:12.697993784Z"
+}

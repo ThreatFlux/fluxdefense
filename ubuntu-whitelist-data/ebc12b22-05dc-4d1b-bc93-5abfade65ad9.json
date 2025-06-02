@@ -1,0 +1,15 @@
+{
+  "uuid": "ebc12b22-05dc-4d1b-bc93-5abfade65ad9",
+  "path": "/usr/lib/x86_64-linux-gnu/webkit2gtk-4.1/injected-bundle/libwebkit2gtkinjectedbundle.so",
+  "size": 14104,
+  "modified": "2025-04-07T15:14:55Z",
+  "created": "2025-05-09T05:11:30.138078143Z",
+  "sha256_hash": "721426366b00beb3983c71c064e43e7531f81027ac34249f298e2c7be486e20f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.406135188Z"
+}

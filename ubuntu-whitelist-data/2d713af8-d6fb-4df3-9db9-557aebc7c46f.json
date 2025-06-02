@@ -1,0 +1,17 @@
+{
+  "uuid": "2d713af8-d6fb-4df3-9db9-557aebc7c46f",
+  "path": "/lib/llvm-18/include/clang-tidy/performance/UnnecessaryCopyInitialization.h",
+  "size": 2752,
+  "modified": "2023-12-09T22:26:51Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "c086d7ca6a15955cdbf3d2263d936435b2a14513a608585a2974456d1a196f12",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.920759749Z"
+}

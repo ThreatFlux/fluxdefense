@@ -1,0 +1,17 @@
+{
+  "uuid": "840e9c53-4072-4d0a-b2d5-d58d3fe55050",
+  "path": "/lib/firmware/ar3k/ramps_0x31010000_40.dfu.zst",
+  "size": 1264,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.430543225Z",
+  "sha256_hash": "97692d83d97f168e8560cb6a3052a069946a8697e432ce9ad0e14e9ecb7c6ee4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.597174268Z"
+}

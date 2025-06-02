@@ -1,0 +1,15 @@
+{
+  "uuid": "4294e225-b355-46da-97d8-619b682ee825",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_CONNMARK.so",
+  "size": 19280,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.330631406Z",
+  "sha256_hash": "7e980fdcd1b2971bf7ce48bbd25c9c3e3fd31839ea847ff7a1df4758c9f99795",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.680219715Z"
+}

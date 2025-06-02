@@ -1,0 +1,17 @@
+{
+  "uuid": "41450917-8eff-4185-a175-430757f6edb0",
+  "path": "/usr/lib/firmware/nvidia/550.144.03/gsp_ga10x.bin",
+  "size": 37299744,
+  "modified": "2024-12-30T16:56:41Z",
+  "created": "2025-05-09T12:56:03.184980441Z",
+  "sha256_hash": "56bb122c26bac7e4aa561d23ba5844a5360b45d96b8c38cc0eb6a1dffb202ca5",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:58.936884444Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "eeafc4e7-f6ea-4dc8-82ca-7be836701bd9",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM290.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.278663446Z",
+  "sha256_hash": "7f14627dbbfbf3174ced9abd35df1a67ca8ecce7cbc04e38147e9c16b439d844",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.991631478Z"
+}

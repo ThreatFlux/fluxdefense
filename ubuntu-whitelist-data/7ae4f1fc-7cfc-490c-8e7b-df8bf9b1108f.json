@@ -1,0 +1,17 @@
+{
+  "uuid": "7ae4f1fc-7cfc-490c-8e7b-df8bf9b1108f",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/syslog.ph",
+  "size": 85,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.560590686Z",
+  "sha256_hash": "7ab9d109aac47584996329395a5bc61faad006d0872be6d6ef6868420979c117",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.601133659Z"
+}

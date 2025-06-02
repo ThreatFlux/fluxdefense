@@ -1,0 +1,17 @@
+{
+  "uuid": "607877a5-d584-4963-97b4-48ac56725dc7",
+  "path": "/lib/python3.12/test/decimaltestdata/ddCanonical.decTest",
+  "size": 18908,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.990551788Z",
+  "sha256_hash": "a19d87acb8957d4e18d2ecaad4a70d0908528a046850712b7d2193f947928484",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.442276337Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "ead4ddac-e47f-4a0e-a9de-b1f956633457",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-nlcefu.ali",
+  "size": 10474,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.100344461Z",
+  "sha256_hash": "754d4c64f40f0054bca94839dcf0ed40dd901f4827f77290f4d7af46178edb33",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.822179525Z"
+}

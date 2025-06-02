@@ -1,0 +1,17 @@
+{
+  "uuid": "84f32e36-c3e1-409b-9741-b97857d426d6",
+  "path": "/lib/x86_64-linux-gnu/libgstbase-1.0.so.0.2402.0",
+  "size": 542168,
+  "modified": "2024-12-17T12:53:48Z",
+  "created": "2025-05-09T05:07:30.020742954Z",
+  "sha256_hash": "7fe5c08d3f92f370ed24930f340eb2d19a484bce121f1b486a76fd09c5dc0727",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.168468125Z"
+}

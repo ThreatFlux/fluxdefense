@@ -1,0 +1,17 @@
+{
+  "uuid": "5915c4fb-2f41-45f2-a06f-f92654e5049c",
+  "path": "/usr/lib/python3.12/test/imghdrdata/python.bmp",
+  "size": 1162,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.999551670Z",
+  "sha256_hash": "410c26b109ce9d32d35c0e4bc6dc92a7579910ce706939a056323de5801a7a87",
+  "file_type": {
+    "Other": "bmp"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.219878Z"
+}

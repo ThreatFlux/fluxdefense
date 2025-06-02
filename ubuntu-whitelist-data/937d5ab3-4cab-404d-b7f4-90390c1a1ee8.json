@@ -1,0 +1,17 @@
+{
+  "uuid": "937d5ab3-4cab-404d-b7f4-90390c1a1ee8",
+  "path": "/usr/lib/llvm-18/lib/cmake/llvm/LLVMExports.cmake",
+  "size": 71820,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.685465681Z",
+  "sha256_hash": "abef239d801cb8b0ece0fd6238a9c0764b6ff011449d3ef53427a1daf27a7f7f",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:31.098266236Z"
+}

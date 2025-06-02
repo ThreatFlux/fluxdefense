@@ -1,0 +1,17 @@
+{
+  "uuid": "cb8b5edd-2a9b-415d-8119-93be2502c16d",
+  "path": "/lib/modules/6.11.0-25-generic/kernel/nvidia-550-open/nvidia-modeset.ko",
+  "size": 2631126,
+  "modified": "2025-04-28T11:37:45Z",
+  "created": "2025-05-09T12:56:03.502988818Z",
+  "sha256_hash": "e0eedb77df79ace8637c4babdbb3bc0edb50ba51abd12a1f4e1a4f60a4eff8c5",
+  "file_type": {
+    "Other": "ko"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.893862899Z"
+}

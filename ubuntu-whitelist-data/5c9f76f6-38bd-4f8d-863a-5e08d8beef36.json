@@ -1,0 +1,15 @@
+{
+  "uuid": "5c9f76f6-38bd-4f8d-863a-5e08d8beef36",
+  "path": "/bin/systemd-tty-ask-password-agent",
+  "size": 35272,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.507779278Z",
+  "sha256_hash": "67679e2155fd6ebab21bd4d120ab057cddda15c4187ae70f51e576b138a5db25",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.647003566Z"
+}

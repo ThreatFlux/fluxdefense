@@ -1,0 +1,17 @@
+{
+  "uuid": "01c16d7a-a60a-4ef9-88eb-723f4e1668c6",
+  "path": "/usr/lib/x86_64-linux-gnu/libflite_cmu_grapheme_lang.so.2.2",
+  "size": 30952,
+  "modified": "2024-04-07T07:12:09Z",
+  "created": "2025-05-09T05:09:24.092002078Z",
+  "sha256_hash": "ecf6d36106cffff3a503ad4c97688070d9cd438bb9d8751f5d5aa8717e327e49",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.134250921Z"
+}

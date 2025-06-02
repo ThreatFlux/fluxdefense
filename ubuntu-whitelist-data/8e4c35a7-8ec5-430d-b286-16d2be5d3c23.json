@@ -1,0 +1,17 @@
+{
+  "uuid": "8e4c35a7-8ec5-430d-b286-16d2be5d3c23",
+  "path": "/lib/llvm-18/include/clang/Basic/MSP430Target.def",
+  "size": 7183,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "07ec3364fb0a52d23caf859a82562c5fc98924219c99ec184a8a6a6a3cfbc061",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.123981045Z"
+}

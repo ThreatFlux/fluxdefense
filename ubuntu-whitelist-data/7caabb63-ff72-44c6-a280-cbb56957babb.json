@@ -1,0 +1,15 @@
+{
+  "uuid": "7caabb63-ff72-44c6-a280-cbb56957babb",
+  "path": "/bin/dh_strip",
+  "size": 17337,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.514341255Z",
+  "sha256_hash": "90b045bd918f875c7b0122e72754fafec13f5ca84cf2d306df5cc58f570a57e6",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.881859321Z"
+}

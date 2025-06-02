@@ -1,0 +1,15 @@
+{
+  "uuid": "fe7c0997-80f5-45b9-8163-c9114f47dd09",
+  "path": "/usr/lib/x86_64-linux-gnu/libpanel.a",
+  "size": 26458,
+  "modified": "2024-04-08T16:14:03Z",
+  "created": "2025-05-12T13:34:34.213498238Z",
+  "sha256_hash": "8d18241ff6d46a2a905b4a6879d826184ce3b301952b6338152e34df31805179",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.328069762Z"
+}

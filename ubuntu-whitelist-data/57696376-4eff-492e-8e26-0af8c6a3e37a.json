@@ -1,0 +1,17 @@
+{
+  "uuid": "57696376-4eff-492e-8e26-0af8c6a3e37a",
+  "path": "/usr/lib/firmware/amdgpu/picasso_mec.bin.zst",
+  "size": 30125,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.407543543Z",
+  "sha256_hash": "867b061278d028a691e55696615152bf7044473edc555e7f03073267d6b73d12",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.817220227Z"
+}

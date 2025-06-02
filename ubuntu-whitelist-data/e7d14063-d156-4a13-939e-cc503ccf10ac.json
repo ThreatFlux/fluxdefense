@@ -1,0 +1,17 @@
+{
+  "uuid": "e7d14063-d156-4a13-939e-cc503ccf10ac",
+  "path": "/lib/llvm-18/include/clang/AST/LocInfoType.h",
+  "size": 1878,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.518533726Z",
+  "sha256_hash": "21bac25622e81808d514b616aca1c3ceeee6f263b11181ad0772ab865324e59b",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.940305698Z"
+}

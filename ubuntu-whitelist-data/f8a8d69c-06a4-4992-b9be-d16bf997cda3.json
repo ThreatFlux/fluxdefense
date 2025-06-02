@@ -1,0 +1,17 @@
+{
+  "uuid": "f8a8d69c-06a4-4992-b9be-d16bf997cda3",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/crypto/serpent_generic.ko.zst",
+  "size": 9344,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.079797878Z",
+  "sha256_hash": "b30d9c344a0cac1ea76ef6a6cc514c1abf9dbd7d5a7b7ffec80e407a0e8737bb",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.263368753Z"
+}

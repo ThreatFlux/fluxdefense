@@ -1,0 +1,15 @@
+{
+  "uuid": "a3c9f05a-fb0f-4402-9aa0-8ca378d0169f",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM4971.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.278663446Z",
+  "sha256_hash": "e893cd944a06829b0f03db38002009c10e6332c5a8791e9675a6e0307a211705",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:41.035312773Z"
+}

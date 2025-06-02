@@ -1,0 +1,17 @@
+{
+  "uuid": "439f4aec-5eab-47cb-b3d0-c7e071b32f72",
+  "path": "/usr/lib/x86_64-linux-gnu/libjq.so.1.0.4",
+  "size": 325800,
+  "modified": "2024-03-31T07:40:40Z",
+  "created": "2025-05-09T05:07:31.328722995Z",
+  "sha256_hash": "e0b545b22f50074dfb613679da31ef2e084c4fce095ef8ec63a8307fda050fd1",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.896016767Z"
+}

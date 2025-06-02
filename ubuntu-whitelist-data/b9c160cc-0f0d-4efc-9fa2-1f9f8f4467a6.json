@@ -1,0 +1,15 @@
+{
+  "uuid": "b9c160cc-0f0d-4efc-9fa2-1f9f8f4467a6",
+  "path": "/lib/llvm-18/lib/libclangTidyLLVMLibcModule.a",
+  "size": 174362,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.870529090Z",
+  "sha256_hash": "87f18df7e2be69e76e2288ddab0bf8799d6be36fc63c1b286eaa3b4aa54433b2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.287454451Z"
+}

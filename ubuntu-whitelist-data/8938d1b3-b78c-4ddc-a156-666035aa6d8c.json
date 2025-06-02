@@ -1,0 +1,17 @@
+{
+  "uuid": "8938d1b3-b78c-4ddc-a156-666035aa6d8c",
+  "path": "/usr/lib/x86_64-linux-gnu/libsigsegv.so.2.0.7",
+  "size": 18656,
+  "modified": "2024-04-08T16:07:17Z",
+  "created": "2025-05-23T03:43:48.388725444Z",
+  "sha256_hash": "deb2b527b15164aba628af4279dadc9a86d8870b7e5adb9cbcd24de44110c3b7",
+  "file_type": {
+    "Other": "7"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.744320639Z"
+}

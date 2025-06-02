@@ -1,0 +1,17 @@
+{
+  "uuid": "e1c76891-caca-415a-8429-849d702052a7",
+  "path": "/lib/llvm-18/include/clang/Basic/TypeTraits.h",
+  "size": 2833,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.532533542Z",
+  "sha256_hash": "e4fb7a4eaa67479bd340559e9101c2d24a0a9e70a8b7281d95c4f36dcf6c8588",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.094555554Z"
+}

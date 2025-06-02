@@ -1,0 +1,15 @@
+{
+  "uuid": "e720f5e1-5a9e-498d-a7f1-9e38c5cbe2dc",
+  "path": "/lib/python3/dist-packages/_dbus_bindings.cpython-312-x86_64-linux-gnu.so",
+  "size": 172320,
+  "modified": "2024-03-31T00:50:57Z",
+  "created": "2025-05-09T05:07:26.316799475Z",
+  "sha256_hash": "1c37660f5a060c6e90ea5839fd64f2c5ad339566ba7b87c619fbbf62b1321ab9",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.006663356Z"
+}

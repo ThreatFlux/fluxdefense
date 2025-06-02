@@ -1,0 +1,17 @@
+{
+  "uuid": "899f33bd-f5b6-4895-9cf3-46a49a699ff4",
+  "path": "/usr/lib/llvm-18/include/clang/Lex/ExternalPreprocessorSource.h",
+  "size": 1559,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.544533384Z",
+  "sha256_hash": "fade41117f90188d0d4e8deff52b76e4731a600bef75e469abc7ff77b15ee70b",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.614826063Z"
+}

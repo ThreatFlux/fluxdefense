@@ -1,0 +1,15 @@
+{
+  "uuid": "996df932-15b5-4c49-8214-330ed9ca9cb0",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libxt_hashlimit.so",
+  "size": 36472,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.334631345Z",
+  "sha256_hash": "32827e4f8b44cc14b2dc7bfec1f6d754f2f100871f0e204e1872c92d3742a025",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.251289095Z"
+}

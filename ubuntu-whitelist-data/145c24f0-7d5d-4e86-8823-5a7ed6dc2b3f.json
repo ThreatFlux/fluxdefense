@@ -1,0 +1,17 @@
+{
+  "uuid": "145c24f0-7d5d-4e86-8823-5a7ed6dc2b3f",
+  "path": "/usr/lib/firmware/ath11k/WCN6855/hw2.0/regdb.bin.zst",
+  "size": 2417,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.470542671Z",
+  "sha256_hash": "c4b298869269bc55ca73d71beeb756b72a9b19e710cea2af0401accbafa2d3c7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:58.170337401Z"
+}

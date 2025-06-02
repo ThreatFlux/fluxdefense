@@ -1,0 +1,17 @@
+{
+  "uuid": "3e49b0cb-b8da-4ac6-9077-d6125810a075",
+  "path": "/usr/lib/x86_64-linux-gnu/libmwaw-0.3.so.3.0.22",
+  "size": 6590176,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:31.554719546Z",
+  "sha256_hash": "4155a29611febf0632b630f40ff11cdcc89b68362cc6b7dd780d56b35f76d82b",
+  "file_type": {
+    "Other": "22"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.790398897Z"
+}

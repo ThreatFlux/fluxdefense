@@ -1,0 +1,17 @@
+{
+  "uuid": "3964a63e-6a38-4af3-95db-427f74796aa4",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-nselfu.ali",
+  "size": 6353,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.100344461Z",
+  "sha256_hash": "02139253af7049ef5d2a49d02f4254a0eca61284a74f2a5d4e35942154def27e",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.709057997Z"
+}

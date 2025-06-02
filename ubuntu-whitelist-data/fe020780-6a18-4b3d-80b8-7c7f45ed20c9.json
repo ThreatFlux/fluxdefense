@@ -1,0 +1,15 @@
+{
+  "uuid": "fe020780-6a18-4b3d-80b8-7c7f45ed20c9",
+  "path": "/usr/bin/mawk",
+  "size": 170768,
+  "modified": "2024-04-08T16:12:02Z",
+  "created": "2025-05-09T05:07:20.165893335Z",
+  "sha256_hash": "3850bf893d3f4f8ec462c8b59d6d66fdbbe8ddc0715b3d404d9cc574526b781c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.155367621Z"
+}

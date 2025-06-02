@@ -1,0 +1,17 @@
+{
+  "uuid": "1a1bce96-0940-43bd-8d9a-f938aed61a75",
+  "path": "/usr/lib/llvm-18/include/clang/CodeGen/CGFunctionInfo.h",
+  "size": 27534,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.539533450Z",
+  "sha256_hash": "2146508e6e93786974ad86e25aeeaa5bfb5a1c61a549029715438ec58ff563c4",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.312454132Z"
+}

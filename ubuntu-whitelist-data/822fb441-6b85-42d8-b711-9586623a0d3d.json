@@ -1,0 +1,15 @@
+{
+  "uuid": "822fb441-6b85-42d8-b711-9586623a0d3d",
+  "path": "/usr/lib/x86_64-linux-gnu/sssd/libsss_crypt.so",
+  "size": 27320,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:37.245632703Z",
+  "sha256_hash": "869b3f6a10e6d9efa28771d771f10c04b2213ee1299bd7b574593d0c9c97cfe5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.017230968Z"
+}

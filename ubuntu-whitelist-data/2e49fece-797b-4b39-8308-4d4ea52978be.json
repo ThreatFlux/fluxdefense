@@ -1,0 +1,17 @@
+{
+  "uuid": "2e49fece-797b-4b39-8308-4d4ea52978be",
+  "path": "/usr/lib/udev/rules.d/60-cdrom_id.rules",
+  "size": 1071,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.060786348Z",
+  "sha256_hash": "16f44dc355a6b5ada3a0706b2f84c95b25ed6c2a09e4e201da94885c93d1a4d2",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.098414153Z"
+}

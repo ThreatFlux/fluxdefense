@@ -1,0 +1,17 @@
+{
+  "uuid": "3c71e129-0cc5-4f96-8837-da61ee7b65e2",
+  "path": "/lib/x86_64-linux-gnu/libxcb-keysyms.so.1.0.0",
+  "size": 14464,
+  "modified": "2024-04-08T16:22:30Z",
+  "created": "2025-05-09T05:07:35.149664688Z",
+  "sha256_hash": "f131860e51ff109c1255c91a05ebf2c2a3f612939e35b00df24f63483521a568",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.377501495Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "e6feadf8-d050-47e9-a0de-87de2d7d8469",
+  "path": "/usr/lib/x86_64-linux-gnu/rsyslog/lmnsd_ptcp.so",
+  "size": 37568,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.546922251Z",
+  "sha256_hash": "0bb97d258301b457f8a2214849b3d3697130c92b1e28d56ac4cf37e10c1b56cc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.176168625Z"
+}

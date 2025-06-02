@@ -1,0 +1,17 @@
+{
+  "uuid": "a355bf1f-1cf9-43a0-a542-2e3696ee852c",
+  "path": "/lib/x86_64-linux-gnu/libabsl_flags_reflection.so.20220623.0.0",
+  "size": 55624,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.938492440Z",
+  "sha256_hash": "439812a380348da1e037d1c6de25ca5a811e92bf41c19d6f222047777f967af0",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.850597099Z"
+}

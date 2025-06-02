@@ -1,0 +1,17 @@
+{
+  "uuid": "b7981792-debb-418f-9223-da3b1b876763",
+  "path": "/usr/lib/firmware/qcom/a630_gmu.bin.zst",
+  "size": 10852,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.969535759Z",
+  "sha256_hash": "f98855574ef189e7585c5070c6883acc19970c171be3330955d5a791927def80",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.750275343Z"
+}

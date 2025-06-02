@@ -1,0 +1,17 @@
+{
+  "uuid": "5798fdff-4cd7-4cd2-85e5-60dd0bb87273",
+  "path": "/usr/lib/x86_64-linux-gnu/libgssdp-1.6.so.0.106.3",
+  "size": 88136,
+  "modified": "2024-03-31T01:16:15Z",
+  "created": "2025-05-09T05:07:30.020742954Z",
+  "sha256_hash": "27508dc80722000c435bbe4204b542a15ddf4839936dfc3d5475ad00197067ad",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.666132095Z"
+}

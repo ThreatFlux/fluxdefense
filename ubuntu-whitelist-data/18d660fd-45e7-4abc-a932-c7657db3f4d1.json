@@ -1,0 +1,15 @@
+{
+  "uuid": "18d660fd-45e7-4abc-a932-c7657db3f4d1",
+  "path": "/bin/gdbus-codegen",
+  "size": 2039,
+  "modified": "2025-05-15T12:06:49Z",
+  "created": "2025-05-27T10:16:57.776728066Z",
+  "sha256_hash": "18bdf10a58171475c1023428e7eb5b8ac1b94c5e99d6113675b19db93f4affea",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.347287552Z"
+}

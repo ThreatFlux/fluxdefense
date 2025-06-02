@@ -1,0 +1,15 @@
+{
+  "uuid": "6520e3b2-afa4-4439-ab42-f99262f29ff2",
+  "path": "/usr/lib/google-cloud-sdk/platform/bq/frontend/command_snapshot.py",
+  "size": 22,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.813930562Z",
+  "sha256_hash": "f8922dde0d5e05fe1b55034d41de0905e40d03ba342cad16f6d60a297febe6cf",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.625980510Z"
+}

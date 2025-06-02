@@ -1,0 +1,17 @@
+{
+  "uuid": "6c987c78-c7d6-4129-a036-7b820c96ac63",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/GDBM_File.pm",
+  "size": 20706,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.517591342Z",
+  "sha256_hash": "84ed7fcf75d4100011278b98f4747e9b9e0138223584c538b24f07775dc3140d",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.543457953Z"
+}

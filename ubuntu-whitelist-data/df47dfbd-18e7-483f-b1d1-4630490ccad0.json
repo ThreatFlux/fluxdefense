@@ -1,0 +1,17 @@
+{
+  "uuid": "df47dfbd-18e7-483f-b1d1-4630490ccad0",
+  "path": "/usr/lib/python3.12/test/dtracedata/line.d.expected",
+  "size": 506,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.998551683Z",
+  "sha256_hash": "8be8f42061d87f1a3072108604201f49a7e1942f754a174fea856f2e4b98e3ab",
+  "file_type": {
+    "Other": "expected"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.807945705Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "538b41ca-84d6-43fb-953d-a8cdd415fd4c",
+  "path": "/lib/x86_64-linux-gnu/libm17n-core.so.0.4.2",
+  "size": 137464,
+  "modified": "2024-03-31T08:04:12Z",
+  "created": "2025-05-09T05:07:31.337722858Z",
+  "sha256_hash": "146f24db0314632cbcde8ed8d746995299ae1081fe96090ed4b16d1263549d48",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.271152685Z"
+}

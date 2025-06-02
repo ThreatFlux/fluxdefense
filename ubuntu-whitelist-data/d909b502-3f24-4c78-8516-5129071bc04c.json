@@ -1,0 +1,17 @@
+{
+  "uuid": "d909b502-3f24-4c78-8516-5129071bc04c",
+  "path": "/lib/grub/x86_64-efi/usbserial_ftdi.mod",
+  "size": 3480,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.840707972Z",
+  "sha256_hash": "9c890667ec71ccf0f3062a2d980ae3b5335ea5698f6c7af6d52fd29ee42fafae",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.016169710Z"
+}

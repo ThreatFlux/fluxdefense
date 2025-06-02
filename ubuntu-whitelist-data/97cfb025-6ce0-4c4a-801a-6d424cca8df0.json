@@ -1,0 +1,15 @@
+{
+  "uuid": "97cfb025-6ce0-4c4a-801a-6d424cca8df0",
+  "path": "/lib/x86_64-linux-gnu/xtables/libip6t_ipv6header.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.326631467Z",
+  "sha256_hash": "d140aa5c5c9b8b568449ec4ad433a424dcb0b3ae26d434e556fe890875703c7d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.686609925Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b496d179-0638-4b44-979c-abac43af6333",
+  "path": "/lib/firmware/cis/DP83903.cis.zst",
+  "size": 138,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.510542117Z",
+  "sha256_hash": "5860008a4cd8dabf6f8fd75bed2f097a09485c1faca33245c9f1cbc4f46ceef5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.343251908Z"
+}

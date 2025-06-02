@@ -1,0 +1,17 @@
+{
+  "uuid": "54f808d2-3d25-49bd-88c7-83d029f3ceb0",
+  "path": "/usr/lib/x86_64-linux-gnu/libSvtAv1Enc.so.1.7.0",
+  "size": 7190080,
+  "modified": "2024-04-18T17:47:47Z",
+  "created": "2025-05-09T05:09:19.544071491Z",
+  "sha256_hash": "2e5a31a7e8abbf30367aae047ef8a0872e583868aba6461e57b967bd96ee2f01",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.838923414Z"
+}

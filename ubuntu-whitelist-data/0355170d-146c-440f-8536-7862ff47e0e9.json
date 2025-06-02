@@ -1,0 +1,17 @@
+{
+  "uuid": "0355170d-146c-440f-8536-7862ff47e0e9",
+  "path": "/lib/i386-linux-gnu/libc.so.6",
+  "size": 2313128,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.287663309Z",
+  "sha256_hash": "4c32f8e383245e3591f8774ae9e9805c5aca46f9e318a00d69e2dc9f2697bf6a",
+  "file_type": {
+    "Other": "6"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.773782252Z"
+}

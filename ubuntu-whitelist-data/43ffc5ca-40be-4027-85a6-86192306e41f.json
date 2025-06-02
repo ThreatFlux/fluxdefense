@@ -1,0 +1,17 @@
+{
+  "uuid": "43ffc5ca-40be-4027-85a6-86192306e41f",
+  "path": "/usr/lib/firmware/nvidia/gm20b/gr/fecs_inst.bin.zst",
+  "size": 9003,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.938536188Z",
+  "sha256_hash": "c82cd0cd27e5346ccd88252f96eb90e4e163b8574d51925da3e2cfca96f1b531",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.275906241Z"
+}

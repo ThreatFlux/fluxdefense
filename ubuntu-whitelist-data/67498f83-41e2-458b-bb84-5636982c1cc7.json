@@ -1,0 +1,15 @@
+{
+  "uuid": "67498f83-41e2-458b-bb84-5636982c1cc7",
+  "path": "/usr/lib/x86_64-linux-gnu/libssl.a",
+  "size": 1240522,
+  "modified": "2025-02-05T13:17:43Z",
+  "created": "2025-05-12T13:31:13.680137860Z",
+  "sha256_hash": "09856305a488f0b7029c4e9a807b0e19e5b7f20ef32e421ea0716da0e56166f3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:22.061768805Z"
+}

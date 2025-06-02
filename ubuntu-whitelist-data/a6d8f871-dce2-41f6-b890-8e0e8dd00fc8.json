@@ -1,0 +1,15 @@
+{
+  "uuid": "a6d8f871-dce2-41f6-b890-8e0e8dd00fc8",
+  "path": "/usr/lib/libreoffice/program/libscuilo.so",
+  "size": 834320,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:05.274457676Z",
+  "sha256_hash": "ed6c9e2c473ff2344857f3ba66d60481ba643b2ef64425f4fa7deaedadf6c700",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:42.897480934Z"
+}

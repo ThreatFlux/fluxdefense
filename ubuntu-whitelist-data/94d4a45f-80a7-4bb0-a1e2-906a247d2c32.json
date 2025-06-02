@@ -1,0 +1,17 @@
+{
+  "uuid": "94d4a45f-80a7-4bb0-a1e2-906a247d2c32",
+  "path": "/usr/lib/grub/x86_64-efi/minix3_be.mod",
+  "size": 6208,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.814708369Z",
+  "sha256_hash": "5019d08b11f36c2354b5a80c0cb2c680b580dd3adaa25c99c5c55726f9c91632",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.503816781Z"
+}

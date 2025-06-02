@@ -1,0 +1,17 @@
+{
+  "uuid": "998e2d86-4790-445b-a36a-bbe173170ca9",
+  "path": "/lib/firmware/rtw88/rtw8703b_wow_fw.bin.zst",
+  "size": 14647,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.069534374Z",
+  "sha256_hash": "d08a3bceda7eca171936f95886c1b22150fd1118f55ce7790905cd7e34e4f747",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.448599551Z"
+}

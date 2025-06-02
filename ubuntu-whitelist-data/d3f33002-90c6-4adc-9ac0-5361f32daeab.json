@@ -1,0 +1,17 @@
+{
+  "uuid": "d3f33002-90c6-4adc-9ac0-5361f32daeab",
+  "path": "/lib/firmware/radeon/R300_cp.bin.zst",
+  "size": 753,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "d0444742fb3b39388f2f18c97e9d0dabfe3cc00def80cb65b72a08c6a057af05",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.387235205Z"
+}

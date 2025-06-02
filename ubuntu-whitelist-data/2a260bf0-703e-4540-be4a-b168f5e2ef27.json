@@ -1,0 +1,17 @@
+{
+  "uuid": "2a260bf0-703e-4540-be4a-b168f5e2ef27",
+  "path": "/usr/lib/firmware/radeon/kaveri_pfp.bin.zst",
+  "size": 3788,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.063534457Z",
+  "sha256_hash": "644927de802b7cb51a43959a15788e9232e19a4f45d783411ae012a3ecc7e93a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.384248489Z"
+}

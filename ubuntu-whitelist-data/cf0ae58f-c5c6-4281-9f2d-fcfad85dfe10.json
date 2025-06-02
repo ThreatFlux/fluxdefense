@@ -1,0 +1,15 @@
+{
+  "uuid": "cf0ae58f-c5c6-4281-9f2d-fcfad85dfe10",
+  "path": "/lib/x86_64-linux-gnu/libgmpxx.a",
+  "size": 45218,
+  "modified": "2024-10-02T12:40:51Z",
+  "created": "2025-05-29T11:16:24.103811736Z",
+  "sha256_hash": "6047d30b1f3fd278963bfad83de98963686c77127939ca261bc2839c8cf44866",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.855870217Z"
+}

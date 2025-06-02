@@ -1,0 +1,17 @@
+{
+  "uuid": "f80481c1-0f28-4e00-846b-66de896cbe17",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-dorepr.adb",
+  "size": 6036,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.075344805Z",
+  "sha256_hash": "e3e5f9f6f390a3de891b4b95d361e7c0ba91ef39526821c27e936a1a3201d42b",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.160310525Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "3dea6126-7f94-4f21-bc82-3e89a0a7927f",
+  "path": "/lib/systemd/network/99-default.link",
+  "size": 769,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.044786143Z",
+  "sha256_hash": "6fe759b3eb50740c07054b9cc222fa653f5dd987bd97130510e9fe3d719a3ce2",
+  "file_type": {
+    "Other": "link"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.195069617Z"
+}

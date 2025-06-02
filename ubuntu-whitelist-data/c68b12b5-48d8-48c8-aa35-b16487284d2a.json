@@ -1,0 +1,17 @@
+{
+  "uuid": "c68b12b5-48d8-48c8-aa35-b16487284d2a",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/Encode/GSM0338.pm",
+  "size": 13027,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.514591388Z",
+  "sha256_hash": "267ca3ede11b68d289d8b83af56926aadcc3c8d61d9a6d655d14360697e04f78",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.532898709Z"
+}

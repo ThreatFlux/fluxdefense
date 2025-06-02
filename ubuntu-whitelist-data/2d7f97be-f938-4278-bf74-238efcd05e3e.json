@@ -1,0 +1,17 @@
+{
+  "uuid": "2d7f97be-f938-4278-bf74-238efcd05e3e",
+  "path": "/lib/x86_64-linux-gnu/libtinfo.so.6.4",
+  "size": 208328,
+  "modified": "2024-04-08T16:14:03Z",
+  "created": "2025-05-09T05:07:32.322707827Z",
+  "sha256_hash": "61f693cd7f8e55ad3ab518b20a00c01adb46ef829cf90773c97615a73f99e09b",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:12.237973983Z"
+}

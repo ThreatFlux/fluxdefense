@@ -1,0 +1,17 @@
+{
+  "uuid": "eb78ec62-db98-4c42-87f8-6ae576cea6af",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/DiagnosticRefactoringKinds.inc",
+  "size": 1337,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.529533581Z",
+  "sha256_hash": "58e60b19ac6195d7f489f064faabeaae798d74485e739b071833059b057c30d8",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.510603677Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "b68da15a-e717-4188-ab87-711b9aa442b1",
+  "path": "/sbin/nodegc-bpfcc",
+  "size": 52,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "3c681177d54f0f425eaef5f5055d91675e455f0a451ba5a50a930460e37d9743",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.658799503Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b47b4cfb-3e7e-48e3-951f-3f769182a040",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/xdamage.pc",
+  "size": 286,
+  "modified": "2024-04-08T16:09:32Z",
+  "created": "2025-05-29T11:16:08.213029796Z",
+  "sha256_hash": "b964c49fc6532abfdf3b4667db31f7b46470e8f88272a421079a28af2ddde9a8",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.055052233Z"
+}

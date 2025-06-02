@@ -1,0 +1,17 @@
+{
+  "uuid": "3ab21f33-0e25-452b-9b66-8d17b48192dd",
+  "path": "/lib/systemd/system/configure-printer@.service",
+  "size": 150,
+  "modified": "2024-04-08T14:50:48Z",
+  "created": "2025-05-09T05:07:28.298769231Z",
+  "sha256_hash": "ba82c9dd09dd91fce4e0b5db1714e6b4aba88c717c322a8011223550086f09ef",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.130540875Z"
+}

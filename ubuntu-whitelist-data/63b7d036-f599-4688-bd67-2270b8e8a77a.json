@@ -1,0 +1,17 @@
+{
+  "uuid": "63b7d036-f599-4688-bd67-2270b8e8a77a",
+  "path": "/lib/x86_64-linux-gnu/libFLAC.so.12.1.0",
+  "size": 407648,
+  "modified": "2024-03-31T00:58:35Z",
+  "created": "2025-05-09T05:07:28.451766896Z",
+  "sha256_hash": "03f99851a828586d74e06f62d098025271b19aeba9fe781a31b2d90dc57e723b",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.388897652Z"
+}

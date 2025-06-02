@@ -1,0 +1,17 @@
+{
+  "uuid": "c26155e6-8918-44da-8ba5-4e055bd7021c",
+  "path": "/lib/x86_64-linux-gnu/libgstrtsp-1.0.so.0.2402.0",
+  "size": 170304,
+  "modified": "2024-12-17T13:24:56Z",
+  "created": "2025-05-09T05:07:30.022742924Z",
+  "sha256_hash": "fb54b0b9444f3c5bc68ee836ff1645aaf3ed31f5579445f7b259f27cfdf2abeb",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.707460147Z"
+}

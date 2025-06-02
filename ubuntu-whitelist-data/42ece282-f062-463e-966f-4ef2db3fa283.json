@@ -1,0 +1,15 @@
+{
+  "uuid": "42ece282-f062-463e-966f-4ef2db3fa283",
+  "path": "/bin/ucf",
+  "size": 41657,
+  "modified": "2023-01-27T13:29:51Z",
+  "created": "2025-05-09T05:07:20.816883401Z",
+  "sha256_hash": "fdbd9416b2484b3b3cd79da112510bf4ac1926bc4d21bb04efe924471a7fd1d6",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.877874819Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "00e7a26d-1e1d-4c50-ba08-acc69b011cca",
+  "path": "/lib/python3/dist-packages/cloudinit/config/cc_spacewalk.py",
+  "size": 2708,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.236037177Z",
+  "sha256_hash": "6784dc29ba5c21e4a447842ea87e0e1d3c1e94bca29d48879061cb8ccb31aafd",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.915158576Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "eadfc138-eb92-4796-a156-f9b4fe60344a",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/bits/getopt_core.ph",
+  "size": 168,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.557590732Z",
+  "sha256_hash": "af3d45bc4b6f4a92c7ca252e0f1020686330865b0abd07a6c0d37a826ecb5a22",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.594049615Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "dfbf20ee-aa23-4ae5-b435-97f7951abd13",
+  "path": "/lib/x86_64-linux-gnu/cmake/PulseAudio/PulseAudioConfig.cmake",
+  "size": 448,
+  "modified": "2024-12-10T08:35:27Z",
+  "created": "2025-05-29T11:16:27.047771337Z",
+  "sha256_hash": "1ceec9afe0997b34b915a466b1fb2f585a841483411701b4e933e680ea2ca579",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.827950387Z"
+}

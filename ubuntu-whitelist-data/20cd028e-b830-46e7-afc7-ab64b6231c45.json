@@ -1,0 +1,17 @@
+{
+  "uuid": "20cd028e-b830-46e7-afc7-ab64b6231c45",
+  "path": "/lib/firmware/mrvl/prestera/mvsw_prestera_fw_arm64-v4.1.img.zst",
+  "size": 17505784,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.864537213Z",
+  "sha256_hash": "dcfd9f94ded3695661e056d20d03b3becf63ee01f69efd4730af7f84944882a6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:01.103267797Z"
+}

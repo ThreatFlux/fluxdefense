@@ -1,0 +1,15 @@
+{
+  "uuid": "eac2956e-3ea3-4f35-b980-c398e950cf1e",
+  "path": "/usr/lib/x86_64-linux-gnu/tracker-miners-3.0/extract-modules/libextract-desktop.so",
+  "size": 35048,
+  "modified": "2024-03-31T17:20:13Z",
+  "created": "2025-05-09T05:07:37.308631742Z",
+  "sha256_hash": "7fd622dff22eb4be3ab5b71d278dab8bca3226765a2c5b706a0c305f50a690fa",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.209569250Z"
+}

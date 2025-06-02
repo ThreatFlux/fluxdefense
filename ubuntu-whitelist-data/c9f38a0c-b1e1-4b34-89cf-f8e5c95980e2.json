@@ -1,0 +1,17 @@
+{
+  "uuid": "c9f38a0c-b1e1-4b34-89cf-f8e5c95980e2",
+  "path": "/lib/firmware/amdgpu/kabini_ce.bin.zst",
+  "size": 1413,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.403543599Z",
+  "sha256_hash": "13051ce51e14c3518c6e653e9831875d32550054ddd2638237f303e66bfc1d13",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.083756604Z"
+}

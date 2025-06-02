@@ -1,0 +1,17 @@
+{
+  "uuid": "b0f3b4eb-15d4-48e4-b54b-0e2f21e3cfd6",
+  "path": "/lib/x86_64-linux-gnu/libgsttag-1.0.so.0.2402.0",
+  "size": 264592,
+  "modified": "2024-12-17T13:24:56Z",
+  "created": "2025-05-09T05:07:30.022742924Z",
+  "sha256_hash": "fd1e34240ecffadaa393b25c89b7fc94f9f6f4f741c7b013e9c16642bac21699",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.396883904Z"
+}

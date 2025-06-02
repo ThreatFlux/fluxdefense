@@ -1,0 +1,17 @@
+{
+  "uuid": "eb5dc5c9-8cb3-4104-82ef-544b108a9d03",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/CORE/ebcdic_tables.h",
+  "size": 49921,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.502591571Z",
+  "sha256_hash": "b64f33ad300aba44794e0d5d1ba796ef365c83d71dd63e53bdb00d9ca2672a66",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.511726478Z"
+}

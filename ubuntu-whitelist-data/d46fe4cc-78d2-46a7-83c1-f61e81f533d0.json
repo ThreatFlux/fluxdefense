@@ -1,0 +1,15 @@
+{
+  "uuid": "d46fe4cc-78d2-46a7-83c1-f61e81f533d0",
+  "path": "/sbin/dmidecode",
+  "size": 138496,
+  "modified": "2024-10-14T20:25:58Z",
+  "created": "2025-05-09T05:07:38.168618619Z",
+  "sha256_hash": "2ce5cf021f2b2349fde21f877c21f3dbd2f08ae9a2979dda07efecdd5150df47",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.865014107Z"
+}

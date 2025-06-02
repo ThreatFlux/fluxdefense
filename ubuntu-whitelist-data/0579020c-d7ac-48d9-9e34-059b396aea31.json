@@ -1,0 +1,17 @@
+{
+  "uuid": "0579020c-d7ac-48d9-9e34-059b396aea31",
+  "path": "/usr/lib/grub/x86_64-efi/sleep_test.mod",
+  "size": 3128,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "4e87745e2f78b4df8a51db3ffead19ad6b336b23868ea16b48873daaf32bb5e8",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.600722278Z"
+}

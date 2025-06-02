@@ -1,0 +1,17 @@
+{
+  "uuid": "da0be8da-0c14-41d7-923e-e91a6f09764d",
+  "path": "/usr/lib/grub/x86_64-efi/zfs.mod",
+  "size": 59192,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.840707972Z",
+  "sha256_hash": "f0a1887bb2672973ad158feb04552eb36add0b8eabda8ec9a142c6c375fa6de6",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.509964215Z"
+}

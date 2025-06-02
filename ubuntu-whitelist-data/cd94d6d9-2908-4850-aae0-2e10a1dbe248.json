@@ -1,0 +1,17 @@
+{
+  "uuid": "cd94d6d9-2908-4850-aae0-2e10a1dbe248",
+  "path": "/usr/lib/grub/x86_64-efi/bfs.mod",
+  "size": 10056,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.801708567Z",
+  "sha256_hash": "4c34bd4f8c363cc89e3d14cb371b8e03358135435e8b97367a29089d1c9a1cea",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.497838321Z"
+}

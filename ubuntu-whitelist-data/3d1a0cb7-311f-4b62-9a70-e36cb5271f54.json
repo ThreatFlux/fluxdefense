@@ -1,0 +1,17 @@
+{
+  "uuid": "3d1a0cb7-311f-4b62-9a70-e36cb5271f54",
+  "path": "/usr/lib/x86_64-linux-gnu/libldacBT_abr.so.2.0.2",
+  "size": 14328,
+  "modified": "2024-04-08T16:04:59Z",
+  "created": "2025-05-09T05:07:31.330722964Z",
+  "sha256_hash": "a9aeea566c1f5af924fa72d9b255f4d26b186318449137426af7c60c8dde16da",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.565962172Z"
+}

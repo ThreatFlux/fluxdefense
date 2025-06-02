@@ -1,0 +1,17 @@
+{
+  "uuid": "7fa13f97-6b61-4ea1-878c-0bb0a9a87045",
+  "path": "/lib/x86_64-linux-gnu/libnpth.so.0.1.2",
+  "size": 23040,
+  "modified": "2024-03-31T02:41:01Z",
+  "created": "2025-05-09T05:07:31.728716891Z",
+  "sha256_hash": "d5d934c9382c733e43edecf6d9ed446d9b9985591ee1c638413f4879c7f57f6a",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:31.088285563Z"
+}

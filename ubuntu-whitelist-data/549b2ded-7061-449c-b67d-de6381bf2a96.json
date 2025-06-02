@@ -1,0 +1,17 @@
+{
+  "uuid": "549b2ded-7061-449c-b67d-de6381bf2a96",
+  "path": "/usr/lib/systemd/user/org.gnome.SettingsDaemon.UsbProtection.target",
+  "size": 358,
+  "modified": "2024-04-18T10:59:35Z",
+  "created": "2025-05-09T05:07:28.307769094Z",
+  "sha256_hash": "08368c17db72fdcd3cec192162167d611f7710c32024b58f803be5a1d91ef3f2",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.497832481Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "690511b9-954b-406f-b4f5-c874661553bb",
+  "path": "/usr/lib/udev/rules.d/77-mm-qdl-device-blacklist.rules",
+  "size": 3155,
+  "modified": "2024-02-29T20:05:23Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "312531dde62304b87136dd96fe5290cc6a2a4924de69cbac3537c233ffeca33e",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.109303997Z"
+}

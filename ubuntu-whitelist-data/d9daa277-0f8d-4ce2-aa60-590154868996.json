@@ -1,0 +1,15 @@
+{
+  "uuid": "d9daa277-0f8d-4ce2-aa60-590154868996",
+  "path": "/usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-16.1.so",
+  "size": 510288,
+  "modified": "2024-12-10T08:35:27Z",
+  "created": "2025-05-09T05:07:36.976636808Z",
+  "sha256_hash": "00ab68a64ecbb5d6e0d4b5b35707a83a9040cdb373008e487176e49d184cf22f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.932083589Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "579182ee-70a5-4360-84ca-8066c1469bd3",
+  "path": "/lib/udev/mtp-probe",
+  "size": 14488,
+  "modified": "2024-03-31T02:08:07Z",
+  "created": "2025-05-09T05:07:28.370768132Z",
+  "sha256_hash": "0700a88ea5ad2b9a75e456e77099d493a917a7753b8bb75540e3c254ccf6bf71",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.355124495Z"
+}

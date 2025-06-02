@@ -1,0 +1,17 @@
+{
+  "uuid": "263c9899-f1ec-45dc-9954-6610d8fa94d9",
+  "path": "/lib/llvm-18/include/clang-tidy/cppcoreguidelines/ProBoundsPointerArithmeticCheck.h",
+  "size": 1442,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "a7f5514637d5edbe749150d76efff4de7df4bb6d23c1a0503b7ae06029f1d856",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.904987722Z"
+}

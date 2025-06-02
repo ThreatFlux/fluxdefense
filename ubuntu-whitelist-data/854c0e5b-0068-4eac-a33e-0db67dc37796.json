@@ -1,0 +1,17 @@
+{
+  "uuid": "854c0e5b-0068-4eac-a33e-0db67dc37796",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-ztenau.adb",
+  "size": 10680,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.063344970Z",
+  "sha256_hash": "960978e706af937d35adc899f236c5596b9f81e1ea1fb7e41856c952f9b1fdf7",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.129962119Z"
+}

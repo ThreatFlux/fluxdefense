@@ -1,0 +1,17 @@
+{
+  "uuid": "2d139641-f4ef-4bbc-aa7e-6ca055a49399",
+  "path": "/usr/lib/firmware/ea/gina24_361_asic.fw.zst",
+  "size": 18331,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.529541854Z",
+  "sha256_hash": "c0543ef7f6fe694aea163178b7c2aaf1fafa57e23450f569f66ce84370dd2044",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.656444445Z"
+}

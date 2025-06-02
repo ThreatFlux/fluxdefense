@@ -1,0 +1,17 @@
+{
+  "uuid": "b2beddd9-36b7-449f-9a73-d6adf2bc4d0f",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-costso.ali",
+  "size": 3656,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.098344489Z",
+  "sha256_hash": "e0ea519bd8253e7794f9e2122c20a50bb8f23f1d4d71a63cb42e49e8eff94867",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.872853806Z"
+}

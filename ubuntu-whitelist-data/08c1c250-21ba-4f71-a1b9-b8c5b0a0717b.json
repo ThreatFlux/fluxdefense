@@ -1,0 +1,15 @@
+{
+  "uuid": "08c1c250-21ba-4f71-a1b9-b8c5b0a0717b",
+  "path": "/usr/lib/python3/dist-packages/debian/_deb822_repro/types.py",
+  "size": 3738,
+  "modified": "2023-01-31T19:04:35Z",
+  "created": "2025-05-09T05:07:26.826791693Z",
+  "sha256_hash": "60a4268d99e36105a2ef21b054a23c1c6e0fea9f1cda8d45fa6f85d0d844342e",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.906915480Z"
+}

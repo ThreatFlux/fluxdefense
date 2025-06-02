@@ -1,0 +1,17 @@
+{
+  "uuid": "10f3f90b-5ea5-4f41-a05b-58f421d52509",
+  "path": "/usr/lib/systemd/system/dpkg-db-backup.service",
+  "size": 147,
+  "modified": "2024-02-05T02:31:16Z",
+  "created": "2025-05-09T05:07:28.298769231Z",
+  "sha256_hash": "85249c5a74e9c47bf39d34e78612f0a0fe56cb8b35145482b40f8f73f08b2d5c",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.482340998Z"
+}

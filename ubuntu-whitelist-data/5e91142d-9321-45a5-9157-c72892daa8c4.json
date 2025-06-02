@@ -1,0 +1,17 @@
+{
+  "uuid": "5e91142d-9321-45a5-9157-c72892daa8c4",
+  "path": "/usr/sbin/threadsnoop.bt",
+  "size": 712,
+  "modified": "2024-03-07T22:14:52Z",
+  "created": "2025-05-09T05:08:51.886493608Z",
+  "sha256_hash": "d8eb3aa18791dc73cd43f9c454952f0a375ea07c326267525d336448b1ad375c",
+  "file_type": {
+    "Other": "bt"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.678735998Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "133945ad-5acc-4709-8872-d5600ef37127",
+  "path": "/usr/lib/x86_64-linux-gnu/security/pam_limits.so",
+  "size": 30952,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:37.200633390Z",
+  "sha256_hash": "5796c3d1e20a362a0842be4ea9c6d09f6fcd08f6a72b3537f19922644072a8ad",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.666395976Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "0f49c344-b394-4db4-922f-f816f469e1b2",
+  "path": "/lib/firmware/amdgpu/vega20_pfp.bin.zst",
+  "size": 9722,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.425543294Z",
+  "sha256_hash": "1f6cee9bada38c273610a91fbeba32bfadd3ca51a6eb3541874f7e7cc91ba031",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.056713515Z"
+}

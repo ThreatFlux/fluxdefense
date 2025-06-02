@@ -1,0 +1,17 @@
+{
+  "uuid": "b458ab6a-990b-4756-a7a0-b5c28fa98b83",
+  "path": "/lib/x86_64-linux-gnu/libgweather-4.so.0.400.2",
+  "size": 192504,
+  "modified": "2024-03-31T02:01:55Z",
+  "created": "2025-05-09T05:07:30.163740772Z",
+  "sha256_hash": "da3a8a4e98f8f6172dee915c0d979661e6a4f764319c28c6616520c141bdd96b",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.300587485Z"
+}

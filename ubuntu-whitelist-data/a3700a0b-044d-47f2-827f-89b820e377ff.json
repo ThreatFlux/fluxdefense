@@ -1,0 +1,17 @@
+{
+  "uuid": "a3700a0b-044d-47f2-827f-89b820e377ff",
+  "path": "/lib/x86_64-linux-gnu/libhandy-1.so.0",
+  "size": 653608,
+  "modified": "2024-03-31T07:49:42Z",
+  "created": "2025-05-09T05:07:30.170740665Z",
+  "sha256_hash": "aa2a9ca0812cc88d8e28f332f2b58f262f63aeab2c9e7d5ccd7f00af053aaaa9",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.392739192Z"
+}

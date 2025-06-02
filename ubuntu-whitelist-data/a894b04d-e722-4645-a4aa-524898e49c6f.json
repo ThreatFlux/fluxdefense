@@ -1,0 +1,17 @@
+{
+  "uuid": "a894b04d-e722-4645-a4aa-524898e49c6f",
+  "path": "/usr/lib/llvm-18/include/clang/AST/UnresolvedSet.h",
+  "size": 5471,
+  "modified": "2023-07-07T15:28:31Z",
+  "created": "2025-05-12T13:34:31.521533687Z",
+  "sha256_hash": "d3ff71e6477a951b23911c9c16daa4ab1f63987ec373a741dcf7c0edd83ef0fe",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.398379808Z"
+}

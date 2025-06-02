@@ -1,0 +1,17 @@
+{
+  "uuid": "e093879b-a3ea-4a6f-9c8d-7ad71c89d5fc",
+  "path": "/lib/firmware/ar5523.bin.zst",
+  "size": 66328,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.430543225Z",
+  "sha256_hash": "9b89b3e2c8f1785fb69b6954dd7c4f4bf0804fe4d9a41a26d7036ec89a817f21",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.637926902Z"
+}

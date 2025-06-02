@@ -1,0 +1,17 @@
+{
+  "uuid": "b175b9a1-85f2-4ad1-b629-3291fd155830",
+  "path": "/lib/ubuntu-release-upgrader/do-partial-upgrade",
+  "size": 4279,
+  "modified": "2025-01-31T17:11:23Z",
+  "created": "2025-05-09T05:07:28.309769063Z",
+  "sha256_hash": "fe11a9a20456e659dab6a2f22dd44c08bbe8e369136d8cb1a1a00ba667d9e56f",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.068037399Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "bee999e5-27c1-48ce-971c-bae5a32203a4",
+  "path": "/lib/x86_64-linux-gnu/openvpn/plugins/openvpn-plugin-down-root.so",
+  "size": 14480,
+  "modified": "2025-04-01T16:06:17Z",
+  "created": "2025-05-09T05:11:35.246000172Z",
+  "sha256_hash": "a7b9e7322d085c320edce6caba15caee7ba3913b7db9a462a60264993875fa35",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.058559618Z"
+}

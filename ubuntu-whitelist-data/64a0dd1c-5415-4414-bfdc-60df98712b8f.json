@@ -1,0 +1,15 @@
+{
+  "uuid": "64a0dd1c-5415-4414-bfdc-60df98712b8f",
+  "path": "/bin/autoscan",
+  "size": 17177,
+  "modified": "2023-01-14T17:42:30Z",
+  "created": "2025-05-28T13:47:44.298508936Z",
+  "sha256_hash": "eb6d743960a5e88dd9084bdb9c7f0f6ee0d0ae7f2d397defc313e3e21767fe80",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.623503607Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e8a23004-7b87-4659-8649-e667984a4b76",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-shabig.ali",
+  "size": 1577,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.143343871Z",
+  "sha256_hash": "659bd1868f5c1ce12e5a87c566081f5a65cfd2cb68188c0a6823b953df37ab87",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.654166262Z"
+}

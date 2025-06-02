@@ -1,0 +1,17 @@
+{
+  "uuid": "111c4cee-daa0-432f-96c2-3f1347ee23b5",
+  "path": "/usr/lib/firmware/hfi1_dc8051.fw.zst",
+  "size": 17141,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.531541826Z",
+  "sha256_hash": "d8761b5cacfd7e37889f6b6dee13a19cbc4924f1c339dfdab015b5918aedef5c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.571404346Z"
+}

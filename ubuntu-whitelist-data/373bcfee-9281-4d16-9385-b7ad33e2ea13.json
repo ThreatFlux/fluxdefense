@@ -1,0 +1,15 @@
+{
+  "uuid": "373bcfee-9281-4d16-9385-b7ad33e2ea13",
+  "path": "/usr/lib/x86_64-linux-gnu/packagekit-backend/libpk_backend_test_thread.so",
+  "size": 14672,
+  "modified": "2025-01-08T16:35:09Z",
+  "created": "2025-05-09T05:24:26.875952862Z",
+  "sha256_hash": "00d9b2c9481e72655f49292b489a626a233378ab65939be7ca6fe8c4037f9eb4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.853234599Z"
+}

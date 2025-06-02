@@ -1,0 +1,15 @@
+{
+  "uuid": "3129527c-a1ff-4881-b1fe-87d5f58d7ab7",
+  "path": "/usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-jackdbus-detect.so",
+  "size": 22800,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.781860089Z",
+  "sha256_hash": "866ec7afd989ad53e730092e59a8b7b982a5cbe97d2788de424702811c1b6537",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.404310484Z"
+}

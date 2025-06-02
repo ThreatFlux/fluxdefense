@@ -1,0 +1,15 @@
+{
+  "uuid": "01db6d6f-b4e2-47da-b067-8a6b29c681bb",
+  "path": "/sbin/fatlabel",
+  "size": 39304,
+  "modified": "2024-03-31T08:49:11Z",
+  "created": "2025-05-09T05:07:38.195618207Z",
+  "sha256_hash": "cfb0b7343d7f97968c6d6b0f362d34c781ef70ae4c98e9c58ee0a28d085215fa",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.683556950Z"
+}

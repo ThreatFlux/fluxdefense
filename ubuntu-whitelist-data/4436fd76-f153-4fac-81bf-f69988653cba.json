@@ -1,0 +1,15 @@
+{
+  "uuid": "4436fd76-f153-4fac-81bf-f69988653cba",
+  "path": "/lib/x86_64-linux-gnu/libvulkan_intel.so",
+  "size": 23291104,
+  "modified": "2024-12-16T10:17:11Z",
+  "created": "2025-05-09T05:07:32.409706499Z",
+  "sha256_hash": "d32d5d41b25a8cbde112101ccd19d648403c8cf79c116c29cdef3c17dba26050",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.922988954Z"
+}

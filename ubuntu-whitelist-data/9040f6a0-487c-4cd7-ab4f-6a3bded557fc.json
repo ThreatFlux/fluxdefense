@@ -1,0 +1,15 @@
+{
+  "uuid": "9040f6a0-487c-4cd7-ab4f-6a3bded557fc",
+  "path": "/usr/bin/systemd-inhibit",
+  "size": 23008,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.505779253Z",
+  "sha256_hash": "0d3a6a403928b61c1d36283faa0fee4cc9c85e616578b0f52ea8900ba25ae2a2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.873985872Z"
+}

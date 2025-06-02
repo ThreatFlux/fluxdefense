@@ -1,0 +1,15 @@
+{
+  "uuid": "5a45a812-1f47-4f5a-9820-a95839f2176c",
+  "path": "/bin/broadwayd",
+  "size": 125240,
+  "modified": "2025-01-27T19:56:56Z",
+  "created": "2025-05-09T05:24:30.289997996Z",
+  "sha256_hash": "35da569b5057815d13ad2b6aadc05e681ff2ec05829a411c52d24adca9279c69",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.751524256Z"
+}

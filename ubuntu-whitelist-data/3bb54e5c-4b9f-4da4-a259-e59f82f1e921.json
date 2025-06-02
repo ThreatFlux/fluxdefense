@@ -1,0 +1,15 @@
+{
+  "uuid": "3bb54e5c-4b9f-4da4-a259-e59f82f1e921",
+  "path": "/usr/lib/udev/pcmcia-check-broken-cis",
+  "size": 14800,
+  "modified": "2024-04-08T16:15:23Z",
+  "created": "2025-05-09T05:07:28.370768132Z",
+  "sha256_hash": "c405341dd87cc6745b24f36588cc5c039f7f2d0d9776afb251f2ab3f7a0a22e7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.228580132Z"
+}

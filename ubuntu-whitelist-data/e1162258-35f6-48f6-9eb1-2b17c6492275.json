@@ -1,0 +1,15 @@
+{
+  "uuid": "e1162258-35f6-48f6-9eb1-2b17c6492275",
+  "path": "/usr/lib/i386-linux-gnu/gconv/LATIN-GREEK-1.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.283663370Z",
+  "sha256_hash": "2f8f8db47066aa217933540837c8213cb0a130c22ce42fe7d7daefa13ef94656",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.948492934Z"
+}

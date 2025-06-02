@@ -1,0 +1,17 @@
+{
+  "uuid": "5c8de6bb-6555-4060-abf2-6930cfff9889",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/s-osinte.adb",
+  "size": 3345,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.080344736Z",
+  "sha256_hash": "4e2125edcf54f5e6b678dc4cc1290dd496dfb6e37172fc1cb97f2a99ecc2a36f",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.858044071Z"
+}

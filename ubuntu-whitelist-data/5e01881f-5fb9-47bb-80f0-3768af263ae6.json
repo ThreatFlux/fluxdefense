@@ -1,0 +1,17 @@
+{
+  "uuid": "5e01881f-5fb9-47bb-80f0-3768af263ae6",
+  "path": "/lib/systemd/system/wpa_supplicant-wired@.service",
+  "size": 482,
+  "modified": "2025-02-21T21:03:52Z",
+  "created": "2025-05-09T05:11:35.940989563Z",
+  "sha256_hash": "e13e3a8f97d5b4fcd7220d9137f54e48403990f5bd73f28da165c10287facd93",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.129700507Z"
+}

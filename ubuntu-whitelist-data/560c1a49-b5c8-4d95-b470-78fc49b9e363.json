@@ -1,0 +1,17 @@
+{
+  "uuid": "560c1a49-b5c8-4d95-b470-78fc49b9e363",
+  "path": "/lib/firmware/keyspan/usa19qi.fw.zst",
+  "size": 2602,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.667539942Z",
+  "sha256_hash": "d37672669fe70b264bece982892b36c40bd1443d951ef54fba9137943a735556",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.553360663Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d6531f7f-b347-4eec-964c-9510253137f9",
+  "path": "/usr/lib/x86_64-linux-gnu/libndr-krb5pac.so.0.0.1",
+  "size": 133424,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:31.649718096Z",
+  "sha256_hash": "b7312c6b4b7ddd61b65403b29105f0c9c2fd4852455d83a716646c946bd69dea",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.699953086Z"
+}

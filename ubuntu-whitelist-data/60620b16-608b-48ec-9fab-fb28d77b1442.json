@@ -1,0 +1,15 @@
+{
+  "uuid": "60620b16-608b-48ec-9fab-fb28d77b1442",
+  "path": "/usr/lib/i386-linux-gnu/gconv/CP737.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.271663553Z",
+  "sha256_hash": "19a5ecab1c7a4b5bbe4fd986b0ff57751e5181987fc85125f7fe4706516df917",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.983892124Z"
+}

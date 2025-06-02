@@ -1,0 +1,17 @@
+{
+  "uuid": "b7ec9ecd-a90d-4730-a624-62afc8ec1a55",
+  "path": "/lib/udev/rules.d/70-spice-vdagentd.rules",
+  "size": 140,
+  "modified": "2024-04-07T07:23:42Z",
+  "created": "2025-05-09T05:07:28.436767125Z",
+  "sha256_hash": "110ecdecd5b93b3bcb47f034ea0a9f705a0deff7b5b5978babbcae529ac4c9bc",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.240517935Z"
+}

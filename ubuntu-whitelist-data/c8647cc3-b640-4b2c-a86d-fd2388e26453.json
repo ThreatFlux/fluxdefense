@@ -1,0 +1,15 @@
+{
+  "uuid": "c8647cc3-b640-4b2c-a86d-fd2388e26453",
+  "path": "/usr/lib/x86_64-linux-gnu/ModemManager/libmm-shared-novatel.so",
+  "size": 43176,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.161664505Z",
+  "sha256_hash": "9a567642d4fc50762a878093bc4e7ea431e56ffe027e91a316628363c16601a8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.077272714Z"
+}

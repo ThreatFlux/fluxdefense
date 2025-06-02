@@ -1,0 +1,15 @@
+{
+  "uuid": "2b30ac3d-7e5d-46a3-8b18-56369a9233ec",
+  "path": "/bin/grub-mkimage",
+  "size": 386312,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.594711726Z",
+  "sha256_hash": "f59f0bb7282fb347c179710d55bdfac6c40f6ddb2d84de366125caf15f940768",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.824424926Z"
+}

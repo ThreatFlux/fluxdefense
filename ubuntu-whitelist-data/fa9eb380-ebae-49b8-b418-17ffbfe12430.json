@@ -1,0 +1,17 @@
+{
+  "uuid": "fa9eb380-ebae-49b8-b418-17ffbfe12430",
+  "path": "/usr/lib/systemd/system/hibernate.target",
+  "size": 526,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "7b48b96e1737b5116519968d6ca868993dd7ba75e82c3fc30fcc772377efd11a",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.475593969Z"
+}

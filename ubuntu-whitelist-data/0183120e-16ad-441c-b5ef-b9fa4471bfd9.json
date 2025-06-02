@@ -1,0 +1,15 @@
+{
+  "uuid": "0183120e-16ad-441c-b5ef-b9fa4471bfd9",
+  "path": "/usr/bin/umount",
+  "size": 39296,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:20.824883279Z",
+  "sha256_hash": "91a62f91917112a5965e723faf75a93c9488e26eef9917e2bd819385c4a3f9a7",
+  "file_type": "Executable",
+  "permissions": 35309,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.059219312Z"
+}

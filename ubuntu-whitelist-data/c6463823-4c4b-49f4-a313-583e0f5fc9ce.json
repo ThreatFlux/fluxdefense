@@ -1,0 +1,15 @@
+{
+  "uuid": "c6463823-4c4b-49f4-a313-583e0f5fc9ce",
+  "path": "/usr/lib/i386-linux-gnu/gconv/libJISX0213.so",
+  "size": 128300,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.286663324Z",
+  "sha256_hash": "5e0fbfa0eb5ad1876d899f9047a49a2e8b433e472f6015e511d2b9aa6d42575d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.990938780Z"
+}

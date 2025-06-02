@@ -1,0 +1,17 @@
+{
+  "uuid": "a07fbde7-16d8-4838-b13d-382841a1b5d2",
+  "path": "/lib/grub/x86_64-efi/regexp.mod",
+  "size": 79584,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.838708002Z",
+  "sha256_hash": "f23f0c2197bdaa45aa061a54d6abd4ca9a5406ece7b6b088e956759e5fbbf8f5",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.048166612Z"
+}

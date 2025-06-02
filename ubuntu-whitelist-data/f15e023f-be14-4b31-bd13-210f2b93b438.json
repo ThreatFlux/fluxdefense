@@ -1,0 +1,15 @@
+{
+  "uuid": "f15e023f-be14-4b31-bd13-210f2b93b438",
+  "path": "/usr/lib/python3.12/test/crashers/infinite_loop_re.py",
+  "size": 653,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.989551801Z",
+  "sha256_hash": "c92ccd80d6b46af82b417c429251351d04d4f1bec7c05534b828319a4d6c60d5",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.812307939Z"
+}

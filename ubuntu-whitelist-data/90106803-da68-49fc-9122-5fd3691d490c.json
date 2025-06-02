@@ -1,0 +1,15 @@
+{
+  "uuid": "90106803-da68-49fc-9122-5fd3691d490c",
+  "path": "/lib/google-cloud-sdk/lib/third_party/botocore/useragent.py",
+  "size": 18305,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.169941503Z",
+  "sha256_hash": "f1acee5e18c3ef28c1c92be444f5cea954bc88a4fbbf40f7e8938e73394710f9",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.896912106Z"
+}

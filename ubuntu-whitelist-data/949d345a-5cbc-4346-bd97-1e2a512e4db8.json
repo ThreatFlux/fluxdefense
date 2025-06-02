@@ -1,0 +1,17 @@
+{
+  "uuid": "949d345a-5cbc-4346-bd97-1e2a512e4db8",
+  "path": "/lib/systemd/system/network.target",
+  "size": 499,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "1a1958208707d4293cfafe1d041722e194bbe471c9c4ec2b57d3628e173346b4",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.109752293Z"
+}

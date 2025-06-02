@@ -1,0 +1,15 @@
+{
+  "uuid": "a341c3c6-8bbb-4abb-b9b8-0f68de1307b9",
+  "path": "/usr/lib/x86_64-linux-gnu/awk/pwcat",
+  "size": 14520,
+  "modified": "2024-03-31T05:33:52Z",
+  "created": "2025-05-23T03:43:48.621716868Z",
+  "sha256_hash": "c54acb501b8b77ee10f53fb7de45dab69070f8432131fd7c03a61e0cb410c452",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.430553789Z"
+}

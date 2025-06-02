@@ -1,0 +1,17 @@
+{
+  "uuid": "874d3a80-72b7-4ad0-b7fb-10648494df25",
+  "path": "/usr/lib/firmware/radeon/R700_rlc.bin.zst",
+  "size": 2052,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "8c36639f6763bc5f52d73ed14bd1b7fde8458e4dbab6db7fb1cd07c4e2169a32",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.405297118Z"
+}

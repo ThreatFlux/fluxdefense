@@ -1,0 +1,17 @@
+{
+  "uuid": "b3d72203-b566-4286-9a8f-9c55696e6922",
+  "path": "/lib/systemd/user/pipewire.socket",
+  "size": 192,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.623858040Z",
+  "sha256_hash": "0314a8abf591bc159e8af842a627917bb99f78f8bd8fee6f5e0f9157ca9da208",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.145311110Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "92b09e2d-660e-47ac-9b3f-905848de21c5",
+  "path": "/lib/python3.12/test/decimaltestdata/copynegate.decTest",
+  "size": 3673,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.990551788Z",
+  "sha256_hash": "f1e732a7567e3ee4eb0b1ce4d5f99737532622e77a365e8773ae3273264868ce",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.435747117Z"
+}

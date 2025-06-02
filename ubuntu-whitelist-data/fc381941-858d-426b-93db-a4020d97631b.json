@@ -1,0 +1,15 @@
+{
+  "uuid": "fc381941-858d-426b-93db-a4020d97631b",
+  "path": "/bin/systemd-cgtop",
+  "size": 39392,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.504779240Z",
+  "sha256_hash": "652f27b7cf1847f3048b86b4e3f8c0a56aa5a2dff8d0feaee1eb47d282fbd46d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.937017681Z"
+}

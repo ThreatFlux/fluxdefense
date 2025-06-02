@@ -1,0 +1,17 @@
+{
+  "uuid": "f7b347b9-030d-4578-988d-65239733cb4b",
+  "path": "/usr/lib/firmware/rtl_bt/rtl8851bu_fw.bin.zst",
+  "size": 32995,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.066534416Z",
+  "sha256_hash": "ae31a831b9ff84b6ae20a9d8f085827fcea6543bc0663aace89ee1dcf9c1c643",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.542575358Z"
+}

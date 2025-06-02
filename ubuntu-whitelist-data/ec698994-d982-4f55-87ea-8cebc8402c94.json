@@ -1,0 +1,17 @@
+{
+  "uuid": "ec698994-d982-4f55-87ea-8cebc8402c94",
+  "path": "/lib/grub/x86_64-efi/gcry_md4.mod",
+  "size": 4160,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.806708491Z",
+  "sha256_hash": "f9197d5a58a4f38b114472fad238aee67f58cae20aa9434b8f9e19f0f2d30d52",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.017393252Z"
+}

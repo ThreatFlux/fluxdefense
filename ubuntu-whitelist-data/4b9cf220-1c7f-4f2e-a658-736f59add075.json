@@ -1,0 +1,15 @@
+{
+  "uuid": "4b9cf220-1c7f-4f2e-a658-736f59add075",
+  "path": "/usr/lib/x86_64-linux-gnu/ossl-modules/legacy.so",
+  "size": 129256,
+  "modified": "2025-02-05T13:17:43Z",
+  "created": "2025-05-09T05:10:59.237549824Z",
+  "sha256_hash": "004029ede11189ef8548c63890d5cda36f60bcee9a17990c068b905109a1bf00",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.668475669Z"
+}

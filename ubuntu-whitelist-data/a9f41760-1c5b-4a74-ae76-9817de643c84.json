@@ -1,0 +1,15 @@
+{
+  "uuid": "a9f41760-1c5b-4a74-ae76-9817de643c84",
+  "path": "/lib/pppd/2.4.9/radrealms.so",
+  "size": 18776,
+  "modified": "2024-04-03T17:56:59Z",
+  "created": "2025-05-09T05:07:25.899805838Z",
+  "sha256_hash": "38682bd7264613404bf2605fc241b5d8b4f7e568dd61da9118ec20537962f0fd",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.133097066Z"
+}

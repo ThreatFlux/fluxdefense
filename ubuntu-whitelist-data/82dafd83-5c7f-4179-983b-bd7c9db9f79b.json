@@ -1,0 +1,17 @@
+{
+  "uuid": "82dafd83-5c7f-4179-983b-bd7c9db9f79b",
+  "path": "/usr/lib/x86_64-linux-gnu/libgphobos.so.4.0.0",
+  "size": 8185704,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:20:56.641070306Z",
+  "sha256_hash": "a88fe7e5abf41ca1478b67533e67407b4d41b6afad7b040416a672909b49e3af",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.606895847Z"
+}

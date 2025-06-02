@@ -1,0 +1,15 @@
+{
+  "uuid": "c9bfdf4c-2ddc-4b9d-acda-16b969386ad7",
+  "path": "/usr/sbin/cachestat-bpfcc",
+  "size": 6531,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.520499194Z",
+  "sha256_hash": "64e48f0117921dfcad091712026d8218945b4b0810ec400d51ddf9d3471ee7e1",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.250618209Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "4e68b00e-1d15-4b06-a392-fc1cacde45f0",
+  "path": "/lib/llvm-18/lib/libclangDependencyScanning.a",
+  "size": 580486,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.695531395Z",
+  "sha256_hash": "7c402768f2ba5bf503a05b84b4d839d522e5521596d231c1e5819796c0f5635c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:37.006310935Z"
+}

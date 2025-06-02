@@ -1,0 +1,15 @@
+{
+  "uuid": "9cc51b4e-7826-4a7d-88d7-b757ae6f44de",
+  "path": "/usr/lib/python3/dist-packages/debian/deb822.py",
+  "size": 96862,
+  "modified": "2023-01-31T19:04:35Z",
+  "created": "2025-05-09T05:07:26.817791830Z",
+  "sha256_hash": "600eaed6578094ff4a9f78ec8fd0a80f938e1ac8b666a7a22e4e0f5c85027674",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.898608440Z"
+}

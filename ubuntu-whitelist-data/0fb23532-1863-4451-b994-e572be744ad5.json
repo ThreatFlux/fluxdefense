@@ -1,0 +1,17 @@
+{
+  "uuid": "0fb23532-1863-4451-b994-e572be744ad5",
+  "path": "/usr/lib/systemd/system/systemd-battery-check.service",
+  "size": 856,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "d655b033c2b2f738d5d38f48c3459e9324d0241146620829ea005a5b6db03093",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.480565646Z"
+}

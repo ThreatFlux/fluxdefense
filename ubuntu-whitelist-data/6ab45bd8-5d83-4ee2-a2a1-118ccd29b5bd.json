@@ -1,0 +1,17 @@
+{
+  "uuid": "6ab45bd8-5d83-4ee2-a2a1-118ccd29b5bd",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/ar_dict",
+  "size": 478165,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.380661163Z",
+  "sha256_hash": "72316426e797777fe4df9420935a3b6a79b37d7e3f3948537ba71cd7b21b2541",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.299073228Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "bc0a5f05-a5de-4240-bc1c-ece726864934",
+  "path": "/usr/sbin/ipp-usb",
+  "size": 6167992,
+  "modified": "2024-10-24T00:34:47Z",
+  "created": "2025-05-09T05:07:38.271617047Z",
+  "sha256_hash": "f6c35572e8f2b8e75eb541dad1fb041e8634c075ac4f0aa581bbd453eec802e2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.453585264Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a01bde51-785f-4e05-9506-c671f2802d5c",
+  "path": "/lib/llvm-18/include/clang-tidy/objc/DeallocInCategoryCheck.h",
+  "size": 1435,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "f02a2cfbe9e550e84b9979dc0702af29e6c75aec274a607435e54ecae8fabaf7",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.904586864Z"
+}

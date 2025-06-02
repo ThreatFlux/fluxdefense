@@ -1,0 +1,15 @@
+{
+  "uuid": "470fdfa8-601d-46e4-84ed-89f08101e037",
+  "path": "/bin/lspgpot",
+  "size": 1081,
+  "modified": "2023-04-04T08:28:39Z",
+  "created": "2025-05-09T05:11:23.298182551Z",
+  "sha256_hash": "aa7a7b1d982fc8de67cb90b9cefa984962a91efae153adb7e19d461742f7b1ba",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.561609676Z"
+}

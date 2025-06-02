@@ -1,0 +1,17 @@
+{
+  "uuid": "83be0033-32e1-4e07-8903-f45f351f911a",
+  "path": "/lib/systemd/system/rtkit-daemon.service",
+  "size": 1024,
+  "modified": "2024-04-08T16:18:41Z",
+  "created": "2025-05-09T05:07:28.300769200Z",
+  "sha256_hash": "49c9001658906e4a7b3c913358cbbfe7c1d62d4c211b5790d06200c13cc86c07",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.132150347Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "47a91b2e-dd66-4217-aa7f-bf041eb5d136",
+  "path": "/lib/qemu/virtfs-proxy-helper",
+  "size": 703664,
+  "modified": "2025-03-13T16:15:00Z",
+  "created": "2025-05-22T16:56:50.590978695Z",
+  "sha256_hash": "be6d9ce100cbb9e167d94c2d20664b2448b9698fbba87058925a99335e1e9de2",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.170771157Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b5ee1a7c-9594-4e6c-94b0-fee90005782e",
+  "path": "/usr/lib/x86_64-linux-gnu/libpthread.so.0",
+  "size": 14408,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:31.892714388Z",
+  "sha256_hash": "8886af025eed1782e4b4675918250bf902206dab45151b6bc7f22b9c7249f6ae",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:29.971637227Z"
+}

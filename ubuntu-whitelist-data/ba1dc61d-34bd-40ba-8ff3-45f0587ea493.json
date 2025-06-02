@@ -1,0 +1,17 @@
+{
+  "uuid": "ba1dc61d-34bd-40ba-8ff3-45f0587ea493",
+  "path": "/lib/x86_64-linux-gnu/libsphinxad.so.3.0.0",
+  "size": 14496,
+  "modified": "2024-03-31T08:24:34Z",
+  "created": "2025-05-09T05:09:25.795976071Z",
+  "sha256_hash": "2e9e34a5b0413e9e3f4a8050f9550ef4079be0ed9f6023883968bfdd67631502",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.910690717Z"
+}

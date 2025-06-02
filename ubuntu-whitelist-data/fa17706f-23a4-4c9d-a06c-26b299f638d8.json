@@ -1,0 +1,15 @@
+{
+  "uuid": "fa17706f-23a4-4c9d-a06c-26b299f638d8",
+  "path": "/usr/libexec/gsd-smartcard",
+  "size": 84576,
+  "modified": "2024-04-18T10:59:35Z",
+  "created": "2025-05-09T05:07:37.500628812Z",
+  "sha256_hash": "14ab81cde70d384086a8ad395d342433ba0096a3e8f079293bddd1d4046d5d95",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.527235137Z"
+}

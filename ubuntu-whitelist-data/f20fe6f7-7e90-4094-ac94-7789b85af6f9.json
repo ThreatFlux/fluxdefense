@@ -1,0 +1,17 @@
+{
+  "uuid": "f20fe6f7-7e90-4094-ac94-7789b85af6f9",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/TerminatingContinueCheck.h",
+  "size": 1296,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "94f1995c893dfe7a07564424ab8d5d29b995084e49711ba1bb93d62ed5715e90",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.894080431Z"
+}

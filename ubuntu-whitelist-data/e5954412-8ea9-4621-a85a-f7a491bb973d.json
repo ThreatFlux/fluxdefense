@@ -1,0 +1,15 @@
+{
+  "uuid": "e5954412-8ea9-4621-a85a-f7a491bb973d",
+  "path": "/usr/bin/gpgv",
+  "size": 310416,
+  "modified": "2025-03-28T15:23:49Z",
+  "created": "2025-05-09T05:11:25.440149855Z",
+  "sha256_hash": "bfb58525a000709d732ddbc1075d6d7aa4add71e4f3f20fcf2b8dca08e51b885",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:06.966579171Z"
+}

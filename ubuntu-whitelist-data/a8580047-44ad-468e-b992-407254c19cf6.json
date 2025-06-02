@@ -1,0 +1,15 @@
+{
+  "uuid": "a8580047-44ad-468e-b992-407254c19cf6",
+  "path": "/usr/bin/lwp-mirror",
+  "size": 2413,
+  "modified": "2024-01-27T01:34:06Z",
+  "created": "2025-05-09T05:07:20.158893441Z",
+  "sha256_hash": "88507cede987da1cd61ab0d7782e18ac8468910b00137086f45380195f12924e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.320779317Z"
+}

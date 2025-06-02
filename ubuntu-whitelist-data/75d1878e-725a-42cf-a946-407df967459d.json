@@ -1,0 +1,17 @@
+{
+  "uuid": "75d1878e-725a-42cf-a946-407df967459d",
+  "path": "/usr/lib/python3.12/test/decimaltestdata/ddCompareTotal.decTest",
+  "size": 30638,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.990551788Z",
+  "sha256_hash": "ddb9c219a0b46c0b5d41b5cd5f8bc664b33d9824773c955d3ccdba066bd4e630",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.928936920Z"
+}

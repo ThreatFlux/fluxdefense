@@ -1,0 +1,15 @@
+{
+  "uuid": "aeed398a-c908-454c-aaa1-3520b38b2b5e",
+  "path": "/lib/google-cloud-sdk/lib/third_party/pytz/tzinfo.py",
+  "size": 19272,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.312939074Z",
+  "sha256_hash": "fb95235becaa1dbb4ee4db52696a297bb11b49d7f6a13112dba29d9718ea764d",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.011857500Z"
+}

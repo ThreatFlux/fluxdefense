@@ -1,0 +1,17 @@
+{
+  "uuid": "dec481de-b78e-4520-b2b8-15da8199df4c",
+  "path": "/usr/lib/llvm-18/include/clang/Tooling/RefactoringCallbacks.h",
+  "size": 4517,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.554533252Z",
+  "sha256_hash": "adc58076e7a78db383554fa98824ee64a450275cee9494bcbd6ade5ec2c4f349",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.417506222Z"
+}

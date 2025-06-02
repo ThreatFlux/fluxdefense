@@ -1,0 +1,15 @@
+{
+  "uuid": "4e339f72-25e0-47cb-868d-ca2206480b27",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/MIK.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.677656631Z",
+  "sha256_hash": "c861fbc1f2ddbeb7a2c290dd646aba53044617fea901adb70c5408e647cf0e31",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.536226558Z"
+}

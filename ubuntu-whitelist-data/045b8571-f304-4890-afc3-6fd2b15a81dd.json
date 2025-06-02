@@ -1,0 +1,17 @@
+{
+  "uuid": "045b8571-f304-4890-afc3-6fd2b15a81dd",
+  "path": "/lib/blt2.5/dnd.tcl",
+  "size": 3250,
+  "modified": "2024-04-08T15:54:39Z",
+  "created": "2025-05-28T17:29:44.079603140Z",
+  "sha256_hash": "0440fd5e678992ab2bef9a983c85a19ccf78897d43ba61f65bde7d5457fae1b4",
+  "file_type": {
+    "Other": "tcl"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.848522307Z"
+}

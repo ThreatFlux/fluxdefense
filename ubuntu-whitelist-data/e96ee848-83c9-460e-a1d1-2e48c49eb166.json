@@ -1,0 +1,17 @@
+{
+  "uuid": "e96ee848-83c9-460e-a1d1-2e48c49eb166",
+  "path": "/lib/llvm-18/include/clang/Basic/HLSLRuntime.h",
+  "size": 2279,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.530533568Z",
+  "sha256_hash": "a9dec3e3162729bb22bf4dc30b67cd5b9c095475642694ea7771e2ef32c3c6d6",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.170501702Z"
+}

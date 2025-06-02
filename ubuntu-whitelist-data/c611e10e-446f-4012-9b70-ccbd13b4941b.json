@@ -1,0 +1,17 @@
+{
+  "uuid": "c611e10e-446f-4012-9b70-ccbd13b4941b",
+  "path": "/lib/llvm-18/include/clang/Analysis/SelectorExtras.h",
+  "size": 1222,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.524533647Z",
+  "sha256_hash": "33c606d322cd50107784eb9a819084dac22d4e55cb59a5eb41a78324e714b8be",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.184853590Z"
+}

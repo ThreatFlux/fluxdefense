@@ -1,0 +1,17 @@
+{
+  "uuid": "49356614-be2e-4880-9f7c-f969e178de4a",
+  "path": "/lib/firmware/amdgpu/smu_13_0_6.bin.zst",
+  "size": 1308,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.416543419Z",
+  "sha256_hash": "15b0576a4f9c0c1b243c07b3a618401d175765997292c2af5e094bd554173b12",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.931027195Z"
+}

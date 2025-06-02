@@ -1,0 +1,15 @@
+{
+  "uuid": "637e2b4e-c9ba-4c81-950b-50a0625bcfce",
+  "path": "/usr/lib/cups/filter/rastertopclx",
+  "size": 39240,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.359875115Z",
+  "sha256_hash": "79f76aa86369bb2c917eaf20960c892ee4980ebb09ca7085d04887b7703a5465",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.994170601Z"
+}

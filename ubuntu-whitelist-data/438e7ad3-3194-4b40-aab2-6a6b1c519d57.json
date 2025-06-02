@@ -1,0 +1,17 @@
+{
+  "uuid": "438e7ad3-3194-4b40-aab2-6a6b1c519d57",
+  "path": "/lib/aspell/x86_64-linux-gnu/sgml.amf",
+  "size": 254,
+  "modified": "2024-04-08T15:54:10Z",
+  "created": "2025-05-09T05:07:21.020880288Z",
+  "sha256_hash": "53fe6134c690122b80b06cb5bd246b9a31a591527648e73d8f9e6117eae7ba98",
+  "file_type": {
+    "Other": "amf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.797071633Z"
+}

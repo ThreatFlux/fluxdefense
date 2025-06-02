@@ -1,0 +1,17 @@
+{
+  "uuid": "b9a33113-7883-427b-95b9-3dd827e2d1f8",
+  "path": "/usr/lib/llvm-18/lib/cmake/clang/ClangTargets-relwithdebinfo.cmake",
+  "size": 64202,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:30.861542379Z",
+  "sha256_hash": "5680c39817a386afa9c357b63757095cb588b2c621bd00ff18290bca8f1ceb7a",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:31.100564721Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "9180054a-1761-4f59-a6bc-1eebb530aac4",
+  "path": "/usr/lib/grub/x86_64-efi/functional_test.mod",
+  "size": 46864,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.805708506Z",
+  "sha256_hash": "dc529dcb2de6f5aee104d4e5a32ab595307c978dcfc295346f23a643294e5e90",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.468622502Z"
+}

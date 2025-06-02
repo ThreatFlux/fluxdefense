@@ -1,0 +1,15 @@
+{
+  "uuid": "d9002d93-7298-4d07-9fae-7c3ed4ad0f69",
+  "path": "/usr/lib/cups/filter/bannertopdf",
+  "size": 14648,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.343875359Z",
+  "sha256_hash": "ed04a1b1dfd0d25c428e93a1db9fad87df119fd7d54c7587b666561efd98b6f2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.991038375Z"
+}

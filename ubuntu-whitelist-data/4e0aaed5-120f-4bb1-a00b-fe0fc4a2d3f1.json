@@ -1,0 +1,15 @@
+{
+  "uuid": "4e0aaed5-120f-4bb1-a00b-fe0fc4a2d3f1",
+  "path": "/usr/bin/sftp",
+  "size": 154280,
+  "modified": "2025-04-22T11:51:46Z",
+  "created": "2025-05-09T05:11:28.345105512Z",
+  "sha256_hash": "9aff6df8fe79d334f1d879df802f6b91fc69914923701c68d3d0be24977e7fd0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:14.994505468Z"
+}

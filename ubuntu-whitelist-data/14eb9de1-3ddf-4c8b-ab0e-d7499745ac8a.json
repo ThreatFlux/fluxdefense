@@ -1,0 +1,17 @@
+{
+  "uuid": "14eb9de1-3ddf-4c8b-ab0e-d7499745ac8a",
+  "path": "/usr/lib/x86_64-linux-gnu/tc/normal.dist",
+  "size": 23573,
+  "modified": "2024-03-31T09:00:13Z",
+  "created": "2025-05-09T05:07:37.296631925Z",
+  "sha256_hash": "93f6028e76d0f2ff28d6c1f810283e6c915a1bb2e0e7025d9992ca445e65e5c4",
+  "file_type": {
+    "Other": "dist"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.872752784Z"
+}

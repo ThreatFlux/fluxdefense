@@ -1,0 +1,17 @@
+{
+  "uuid": "e21276d4-5bf2-46b2-8a2c-7447b8699171",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/misc/NewDeleteOverloadsCheck.h",
+  "size": 1325,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "dc40b33cfe5637769b7465dc8a59ca723486a67d60ed5938e3d041ad31137f50",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.277716012Z"
+}

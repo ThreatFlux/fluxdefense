@@ -1,0 +1,15 @@
+{
+  "uuid": "0fe0ca53-dd6e-4d2a-a4b0-bdf35fa11d59",
+  "path": "/lib/python3/dist-packages/cloudinit/distros/openmandriva.py",
+  "size": 237,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.238037203Z",
+  "sha256_hash": "1f86d1b0fb069bd8e46d9af8060720ce10023337be9d134053f2bf2692769ac1",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.906759846Z"
+}

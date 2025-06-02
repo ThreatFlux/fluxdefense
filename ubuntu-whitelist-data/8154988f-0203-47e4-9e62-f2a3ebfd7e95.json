@@ -1,0 +1,17 @@
+{
+  "uuid": "8154988f-0203-47e4-9e62-f2a3ebfd7e95",
+  "path": "/usr/lib/python3.12/test/crashers/__pycache__/bogus_code_obj.cpython-312.pyc",
+  "size": 860,
+  "modified": "2025-05-28T17:29:53.299482079Z",
+  "created": "2025-05-28T17:29:53.299482079Z",
+  "sha256_hash": "8cdc223ac444a7f0d5684f7133788151d0bc6c0b8ae2c0b445bcdb4afd824e88",
+  "file_type": {
+    "Other": "pyc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.811732398Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "5570c9a1-dcc8-4e98-a2a5-7ebfbf82f81d",
+  "path": "/lib/udev/hplj1000",
+  "size": 6718,
+  "modified": "2024-04-10T21:38:27Z",
+  "created": "2025-05-09T05:07:28.323768849Z",
+  "sha256_hash": "4cd56d04464b33e372b9de5261ed72edf63ed21c000bb1538b61b2c64b248c16",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.358666563Z"
+}

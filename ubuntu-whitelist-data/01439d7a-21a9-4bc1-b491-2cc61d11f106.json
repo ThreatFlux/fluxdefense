@@ -1,0 +1,17 @@
+{
+  "uuid": "01439d7a-21a9-4bc1-b491-2cc61d11f106",
+  "path": "/usr/lib/udev/rules.d/85-hdparm.rules",
+  "size": 82,
+  "modified": "2022-10-06T12:47:47Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "75dc932efcc367dfa13f7bac3f6c3cd0b74cc1fad9aa9533fde4b45107beb519",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.108472340Z"
+}

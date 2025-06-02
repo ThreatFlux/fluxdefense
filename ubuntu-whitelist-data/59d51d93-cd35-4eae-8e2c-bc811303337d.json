@@ -1,0 +1,17 @@
+{
+  "uuid": "59d51d93-cd35-4eae-8e2c-bc811303337d",
+  "path": "/usr/lib/systemd/system/systemd-soft-reboot.service",
+  "size": 588,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "affc67763e67305ed535e382965627cd92003073c8181d733d77dd8329801158",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.480631939Z"
+}

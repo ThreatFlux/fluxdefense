@@ -1,0 +1,15 @@
+{
+  "uuid": "24f51a35-e5b6-4c2d-afd0-3c913e5b4ab9",
+  "path": "/bin/foo2slx-wrapper",
+  "size": 17603,
+  "modified": "2024-04-10T21:38:27Z",
+  "created": "2025-05-09T05:07:19.224907694Z",
+  "sha256_hash": "ebf0d0a32d2f35dc9333d7bc1cf902672de68cc161620cd291793b8549aa6b13",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:20.072038110Z"
+}

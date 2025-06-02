@@ -1,0 +1,17 @@
+{
+  "uuid": "93b3f5d1-5e0c-4b82-8228-65fded6b3564",
+  "path": "/lib/firmware/cypress/cyfmac4356-pcie.clm_blob.zst",
+  "size": 2043,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.519541992Z",
+  "sha256_hash": "a1cbfc06a7e1da31b5cc71dc5c5c05feeb007b5e6f5fb9f7e76165e74422ea98",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.572724617Z"
+}

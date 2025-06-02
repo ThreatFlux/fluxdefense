@@ -1,0 +1,17 @@
+{
+  "uuid": "83cdc7c7-9b36-46f5-b8c4-f80eb45c4ec0",
+  "path": "/lib/x86_64-linux-gnu/libsoftokn3.chk",
+  "size": 84,
+  "modified": "2024-04-08T16:14:43Z",
+  "created": "2025-05-09T05:07:32.188709871Z",
+  "sha256_hash": "884659f2d9a5f31f7452cf24bb7fffc645ba65712a610684dcc676635501ccc1",
+  "file_type": {
+    "Other": "chk"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.448711567Z"
+}

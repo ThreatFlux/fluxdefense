@@ -1,0 +1,17 @@
+{
+  "uuid": "ffaf73b6-2785-427d-89cd-62b37eb6aec6",
+  "path": "/usr/lib/modules/6.11.0-25-generic/kernel/crypto/pcbc.ko.zst",
+  "size": 3346,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.099459834Z",
+  "sha256_hash": "525066056e2436f244a4a596bae537c43c801341773901139f391b08d45d8176",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.029670502Z"
+}

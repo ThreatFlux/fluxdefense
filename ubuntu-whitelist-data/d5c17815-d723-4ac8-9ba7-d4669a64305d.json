@@ -1,0 +1,17 @@
+{
+  "uuid": "d5c17815-d723-4ac8-9ba7-d4669a64305d",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/libavcodec.pc",
+  "size": 822,
+  "modified": "2024-04-05T17:28:52Z",
+  "created": "2025-05-12T13:32:31.644111987Z",
+  "sha256_hash": "4dc54ddaa2fbb4d36a1c682ed507cee22041c939769d9b4e3cd46001b9f83348",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.105358423Z"
+}

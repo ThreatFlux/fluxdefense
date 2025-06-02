@@ -1,0 +1,15 @@
+{
+  "uuid": "aa5ac0cb-00d5-446f-a670-a72994a37e1d",
+  "path": "/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-option-hso.so",
+  "size": 39192,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.160664520Z",
+  "sha256_hash": "1c3d7ab8e0708ec178037d0176a2668a216c50fbeeb78b27223296389848b094",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.583339258Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "48cf5bdc-3937-4825-b4df-783080a7b472",
+  "path": "/lib/firmware/amdgpu/stoney_rlc.bin.zst",
+  "size": 6105,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.417543405Z",
+  "sha256_hash": "bfdcd297cd0a0f918d02ed7a598ef31ff344d19a912b00c9c71cefee7c9572bd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.058894303Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f1664cc7-6eb3-44c7-8525-15f9546dafaf",
+  "path": "/usr/lib/x86_64-linux-gnu/libxcb-util.so.1.0.0",
+  "size": 31072,
+  "modified": "2024-04-08T16:22:23Z",
+  "created": "2025-05-09T05:07:35.150664672Z",
+  "sha256_hash": "53a59cf786fc63d7e5968392fc70098e8d922b311015b7ccd711c44ca352bd39",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.475837680Z"
+}

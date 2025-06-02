@@ -1,0 +1,17 @@
+{
+  "uuid": "6a7f2377-f973-4395-91ac-7f5fa9acc76a",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/glib-2.0.pc",
+  "size": 522,
+  "modified": "2025-05-15T12:06:49Z",
+  "created": "2025-05-27T10:16:56.762744220Z",
+  "sha256_hash": "c2db04b0f976cb4777d3bf89873a605f645a0cdd115f6fdfe7e3f01be5db0842",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.058984471Z"
+}

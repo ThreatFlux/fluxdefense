@@ -1,0 +1,17 @@
+{
+  "uuid": "91c245cf-bde8-4e6b-a3cb-f8d660e4c7b1",
+  "path": "/lib/firmware/intel/sof-tplg/sof-adl-cs35l41.tplg.zst",
+  "size": 2307,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.056491014Z",
+  "sha256_hash": "b75cf8a8eb088430b702a8deafbb0909ffbe01bf01480cb23d6aef876557710b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.223648644Z"
+}

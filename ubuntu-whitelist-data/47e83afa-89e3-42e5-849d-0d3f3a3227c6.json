@@ -1,0 +1,17 @@
+{
+  "uuid": "47e83afa-89e3-42e5-849d-0d3f3a3227c6",
+  "path": "/lib/firmware/radeon/RV710_smc.bin.zst",
+  "size": 6405,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.062534471Z",
+  "sha256_hash": "cb706e91a6eb81ccfb14444565b638465e893991e2f5d1d6e84c45646e92b6f5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.385199407Z"
+}

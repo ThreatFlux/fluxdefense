@@ -1,0 +1,15 @@
+{
+  "uuid": "e121f1e8-5f0a-4907-9224-96891cd52c0c",
+  "path": "/usr/bin/zstdless",
+  "size": 197,
+  "modified": "2024-08-09T02:33:22Z",
+  "created": "2025-05-09T05:07:20.981880883Z",
+  "sha256_hash": "60e767b7d41a7eee6204fe34285b47e2b706797cd6ca35ca25989639f1c13159",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.357487822Z"
+}

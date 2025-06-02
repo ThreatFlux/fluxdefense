@@ -1,0 +1,15 @@
+{
+  "uuid": "2d997d5f-0974-42cc-b799-26ca3c0d2b18",
+  "path": "/usr/sbin/tclcalls-bpfcc",
+  "size": 54,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.523499148Z",
+  "sha256_hash": "e0eccf83ec582111125744330efe6429a2a637ac94ef88e78ac76d39d364aee1",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.226154408Z"
+}

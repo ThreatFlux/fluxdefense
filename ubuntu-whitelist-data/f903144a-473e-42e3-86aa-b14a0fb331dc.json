@@ -1,0 +1,17 @@
+{
+  "uuid": "f903144a-473e-42e3-86aa-b14a0fb331dc",
+  "path": "/lib/modules/6.11.0-26-generic/modules.symbols.bin",
+  "size": 931445,
+  "modified": "2025-05-20T14:32:18.742024238Z",
+  "created": "2025-05-20T14:32:18.729024464Z",
+  "sha256_hash": "b300190b9f9a82416f246e6876c3b1b4216bb2eb69a41e8b52959ae83384b08e",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.227079283Z"
+}

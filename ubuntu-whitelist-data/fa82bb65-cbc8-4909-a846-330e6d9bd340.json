@@ -1,0 +1,15 @@
+{
+  "uuid": "fa82bb65-cbc8-4909-a846-330e6d9bd340",
+  "path": "/lib/x86_64-linux-gnu/gconv/CP932.so",
+  "size": 104656,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.609657668Z",
+  "sha256_hash": "f94d099cb7938573678b8bc307cd30c6df62aea699c6429847284bab3803e449",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.791203423Z"
+}

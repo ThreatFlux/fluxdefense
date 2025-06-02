@@ -1,0 +1,17 @@
+{
+  "uuid": "fefc0832-a5ea-4e80-8d70-d695fb6c1e79",
+  "path": "/usr/lib/udev/rules.d/60-persistent-input.rules",
+  "size": 3265,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "735be66ee3c6c39c57b1d0377c9975b8285f3eb021989891421082eae83fc1fb",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.104570663Z"
+}

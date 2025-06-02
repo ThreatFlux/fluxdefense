@@ -1,0 +1,15 @@
+{
+  "uuid": "1f0dc270-0765-4ee4-bf3a-088d4dc87b18",
+  "path": "/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-protocol-simple.so",
+  "size": 59664,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.783860115Z",
+  "sha256_hash": "d961248ea05625b1857ac01c9df504fc94a8c4ca37293387db55b72e09a29377",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.928835308Z"
+}

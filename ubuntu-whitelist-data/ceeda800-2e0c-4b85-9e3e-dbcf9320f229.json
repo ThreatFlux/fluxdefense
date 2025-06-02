@@ -1,0 +1,15 @@
+{
+  "uuid": "ceeda800-2e0c-4b85-9e3e-dbcf9320f229",
+  "path": "/usr/lib/llvm-18/lib/libclangPseudoGrammar.a",
+  "size": 461958,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.745530737Z",
+  "sha256_hash": "0bcb6063e011864fba03817dd6b9310d0ca97cbdd34f2af308089579867d58e1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:29.252953455Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "a1bc2f8f-c488-48c8-8ed2-6ebc37084ba5",
+  "path": "/lib/x86_64-linux-gnu/dri/iHD_drv_video.so",
+  "size": 13589472,
+  "modified": "2023-12-29T19:49:46Z",
+  "created": "2025-05-09T05:09:28.599933275Z",
+  "sha256_hash": "75dfa76c92e1c6c051a3af97b34e2b11e239b9e5f009e85f697d5f84824a4f32",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:15.654767096Z"
+}

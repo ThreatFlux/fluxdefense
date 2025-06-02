@@ -1,0 +1,17 @@
+{
+  "uuid": "fc77a3dd-693e-4115-8d11-89fba34a47ed",
+  "path": "/lib/udev/rules.d/99-libsane1.rules",
+  "size": 98,
+  "modified": "2020-11-02T11:15:59Z",
+  "created": "2025-05-09T05:07:28.439767079Z",
+  "sha256_hash": "b478f0e79f8878fbf8e4498703237b8feba23d79400a7c9024a1679645906162",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.245653135Z"
+}

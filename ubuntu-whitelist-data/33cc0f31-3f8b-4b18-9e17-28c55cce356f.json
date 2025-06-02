@@ -1,0 +1,15 @@
+{
+  "uuid": "33cc0f31-3f8b-4b18-9e17-28c55cce356f",
+  "path": "/usr/bin/wdctl",
+  "size": 35224,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:20.881882409Z",
+  "sha256_hash": "6012851224d9aba0724523bebb10ee2002b3d85b7497876cd078f7fdec304261",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:08.043018833Z"
+}

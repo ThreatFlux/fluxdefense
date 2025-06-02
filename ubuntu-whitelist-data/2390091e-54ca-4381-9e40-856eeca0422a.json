@@ -1,0 +1,15 @@
+{
+  "uuid": "2390091e-54ca-4381-9e40-856eeca0422a",
+  "path": "/usr/lib/linux-hwe-6.11-tools-6.11.0-26/lib/perf.cpython-312-x86_64-linux-gnu.so",
+  "size": 10251504,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:32:03.132294628Z",
+  "sha256_hash": "a72244faf59b2240b17006ecc4f67eb6159fb47c62d981d82eecedfc751b2a1c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.776647467Z"
+}

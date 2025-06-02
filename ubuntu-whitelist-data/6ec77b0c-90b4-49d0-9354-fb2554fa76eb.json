@@ -1,0 +1,17 @@
+{
+  "uuid": "6ec77b0c-90b4-49d0-9354-fb2554fa76eb",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/directio.ali",
+  "size": 2204,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.105344393Z",
+  "sha256_hash": "adb8312ebdd0251dddaf8c28e29ac34bdc83172a4454be2eef86cd143acb6fb4",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.609434014Z"
+}

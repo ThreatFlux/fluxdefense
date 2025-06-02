@@ -1,0 +1,17 @@
+{
+  "uuid": "eb138f50-3788-465f-9bfb-e307b113bb0e",
+  "path": "/lib/udev/ata_id",
+  "size": 84704,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:14.044786143Z",
+  "sha256_hash": "4f588058d8955575d69bbae97e3d132c74bd71b908bc01888b4f8acefd4e193c",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.251747455Z"
+}

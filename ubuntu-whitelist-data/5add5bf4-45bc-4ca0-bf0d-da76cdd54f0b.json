@@ -1,0 +1,17 @@
+{
+  "uuid": "5add5bf4-45bc-4ca0-bf0d-da76cdd54f0b",
+  "path": "/usr/lib/firmware/nvidia/ga100/gsp/bootloader-535.113.01.bin.zst",
+  "size": 823,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.902536687Z",
+  "sha256_hash": "b4da5c446d282f675cedc72897e9a9b7b4ea66549ab7dd409b6aefb08cad1305",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.283423983Z"
+}

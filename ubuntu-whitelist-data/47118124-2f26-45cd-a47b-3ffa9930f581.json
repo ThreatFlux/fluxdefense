@@ -1,0 +1,17 @@
+{
+  "uuid": "47118124-2f26-45cd-a47b-3ffa9930f581",
+  "path": "/usr/lib/grub/x86_64-efi/monolithic/grubnetx64.efi",
+  "size": 2342912,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.830708125Z",
+  "sha256_hash": "4fe56bed3f856c7f08e1ddc893a83d02b8be8f3777e6b0d4af01a34119199940",
+  "file_type": {
+    "Other": "efi"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.593391654Z"
+}

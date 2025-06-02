@@ -1,0 +1,17 @@
+{
+  "uuid": "de745fb7-20e8-461d-a734-680905a1e4aa",
+  "path": "/lib/x86_64-linux-gnu/libcares.so.2.12.0",
+  "size": 157792,
+  "modified": "2024-02-28T18:04:16Z",
+  "created": "2025-05-09T05:07:29.208755345Z",
+  "sha256_hash": "75f2826fc310a770ec0ecc2299b60f79acb8ea27f30a197b3729c087a9220ca5",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:32.436699567Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "fd5a7e7b-3a63-4088-926b-ca3132e1aa90",
+  "path": "/usr/lib/x86_64-linux-gnu/libsoup-2.4.so.1.11.2",
+  "size": 621424,
+  "modified": "2025-05-23T16:50:52Z",
+  "created": "2025-05-29T10:39:57.134699693Z",
+  "sha256_hash": "e94c2b49ac4a7ae142bb5f144a68c3e113ef6e01ce7c6ae116bc845c9f387952",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:19.976149395Z"
+}

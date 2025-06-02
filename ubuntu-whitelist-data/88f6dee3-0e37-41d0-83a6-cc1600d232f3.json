@@ -1,0 +1,17 @@
+{
+  "uuid": "88f6dee3-0e37-41d0-83a6-cc1600d232f3",
+  "path": "/lib/firmware/nvidia/gp102/gr/sw_method_init.bin.zst",
+  "size": 2583,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.939536174Z",
+  "sha256_hash": "f40172e3bdf5a586dbea3652845d67220a1196f3b10ccd31758fd6cc840d49c4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.437778943Z"
+}

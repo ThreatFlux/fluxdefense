@@ -1,0 +1,17 @@
+{
+  "uuid": "326557e6-a005-4a46-b1b8-cb0cae10c579",
+  "path": "/usr/lib/firmware/qca/rampatch_00440302.bin.zst",
+  "size": 48016,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.968535773Z",
+  "sha256_hash": "a07441e010cc43b044fdde712ac0177c22c0071aff810a4e72e6315ff1b491ff",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.444605689Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "152028c4-8412-4724-b11f-5b3458a77060",
+  "path": "/usr/lib/firmware/amdgpu/navi14_sdma1.bin.zst",
+  "size": 9739,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.406543557Z",
+  "sha256_hash": "1140341e48045289666282da2d8355c644668165853b4ea4928308da8bde012f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.881880010Z"
+}

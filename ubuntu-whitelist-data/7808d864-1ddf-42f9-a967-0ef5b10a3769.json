@@ -1,0 +1,15 @@
+{
+  "uuid": "7808d864-1ddf-42f9-a967-0ef5b10a3769",
+  "path": "/usr/bin/dh_installmenu",
+  "size": 2202,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.513341269Z",
+  "sha256_hash": "d016fa76640162b286ccac3a211d6c0916457fc279a83cdd1ffb8e4b536b4499",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:11.676768351Z"
+}

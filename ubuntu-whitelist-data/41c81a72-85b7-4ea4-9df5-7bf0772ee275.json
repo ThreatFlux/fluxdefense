@@ -1,0 +1,15 @@
+{
+  "uuid": "41c81a72-85b7-4ea4-9df5-7bf0772ee275",
+  "path": "/usr/bin/nstat",
+  "size": 31104,
+  "modified": "2024-03-31T09:00:13Z",
+  "created": "2025-05-09T05:07:20.239892206Z",
+  "sha256_hash": "02fe439b5631d6d3c42b73825ceb0c3a9220970473d0a912f73e69326e71ef78",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:06.012875249Z"
+}

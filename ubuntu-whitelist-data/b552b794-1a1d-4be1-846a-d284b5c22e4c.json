@@ -1,0 +1,17 @@
+{
+  "uuid": "b552b794-1a1d-4be1-846a-d284b5c22e4c",
+  "path": "/lib/xserver-xorg-video-intel/xf86-video-intel-backlight-helper",
+  "size": 14656,
+  "modified": "2024-04-08T16:23:40Z",
+  "created": "2025-05-09T05:07:37.404630277Z",
+  "sha256_hash": "a40723882c5554bf9d88b8ad176e0aa8829374f0258255c95bad428140a485cd",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.453046916Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "2ed8c821-9427-4e5f-a955-91b36b01e415",
+  "path": "/usr/lib/llvm-18/lib/libLLVMLoongArchAsmParser.a",
+  "size": 138258,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.914462665Z",
+  "sha256_hash": "14209ad5f8d0ca24fbdd37322f86b49338d9781712c3b318a7cbe653ccb6b702",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:34.361868617Z"
+}

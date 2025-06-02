@@ -1,0 +1,15 @@
+{
+  "uuid": "7a0abf80-f77d-4b4a-96ff-32c9b574d9a1",
+  "path": "/lib/llvm-18/lib/libclangIncludeCleaner.a",
+  "size": 936850,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.733530895Z",
+  "sha256_hash": "12fdfd1a4aba0d22eb559ef0f20f9167ac31d22959fb4c9a422edf6142248958",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:43.773957136Z"
+}

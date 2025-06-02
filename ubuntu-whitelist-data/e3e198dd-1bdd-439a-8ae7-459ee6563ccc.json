@@ -1,0 +1,15 @@
+{
+  "uuid": "e3e198dd-1bdd-439a-8ae7-459ee6563ccc",
+  "path": "/usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-spa-device.so",
+  "size": 14608,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.785860141Z",
+  "sha256_hash": "b0e669016dac7cc78c495a9493a600c41faeb071e6f50bd375395cd72d8b0b32",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.401404141Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "0b03058e-e07f-4815-9432-9a1492e4127a",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_rateest.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.336631315Z",
+  "sha256_hash": "e7c59d54995c8c90d977870d1dbd19702a271f0b10945fe8f30d69a3db2f7836",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.668457244Z"
+}

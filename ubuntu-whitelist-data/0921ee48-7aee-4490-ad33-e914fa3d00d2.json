@@ -1,0 +1,15 @@
+{
+  "uuid": "0921ee48-7aee-4490-ad33-e914fa3d00d2",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM1025.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.274663507Z",
+  "sha256_hash": "51c7f629d243940df115e2eddbbc7a1aa2525bd0d6c94739ca2f9c970d103a1e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.922512241Z"
+}

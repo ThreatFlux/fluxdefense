@@ -1,0 +1,17 @@
+{
+  "uuid": "2c5b5f15-dc0f-4b91-a767-0c4d6bdaf098",
+  "path": "/lib/x86_64-linux-gnu/libnvidia-ngx.so.550.144.03",
+  "size": 4562136,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:02.103952253Z",
+  "sha256_hash": "f10e7fa159461f0cd26c264dc24df6963bc07d11bffee74357972226cb19eb97",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.617437719Z"
+}

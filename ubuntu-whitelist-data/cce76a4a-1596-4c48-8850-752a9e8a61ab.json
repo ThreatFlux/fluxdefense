@@ -1,0 +1,17 @@
+{
+  "uuid": "cce76a4a-1596-4c48-8850-752a9e8a61ab",
+  "path": "/lib/aspell/x86_64-linux-gnu/nroff.amf",
+  "size": 149,
+  "modified": "2024-04-08T15:54:10Z",
+  "created": "2025-05-09T05:07:21.019880303Z",
+  "sha256_hash": "64ab2fc62159d427e9ee7aeacdfbc8293b65864f5dad5ef205bbbd680aa16238",
+  "file_type": {
+    "Other": "amf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.794819882Z"
+}

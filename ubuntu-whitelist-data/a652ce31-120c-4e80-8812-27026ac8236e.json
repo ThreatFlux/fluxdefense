@@ -1,0 +1,17 @@
+{
+  "uuid": "a652ce31-120c-4e80-8812-27026ac8236e",
+  "path": "/lib/systemd/system-generators/systemd-system-update-generator",
+  "size": 14712,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.516779393Z",
+  "sha256_hash": "7b914fe07a5d621974c8be05b0f8ff83f005357d33ff58fb83db9613315bf10f",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.093154739Z"
+}

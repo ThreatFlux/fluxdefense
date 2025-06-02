@@ -1,0 +1,15 @@
+{
+  "uuid": "2cc7d91e-ca37-4d27-be4d-a052e00d0027",
+  "path": "/bin/systemd-cryptenroll",
+  "size": 72624,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.505779253Z",
+  "sha256_hash": "b84af2af820e706eb1533365484f63107382b4654adad30f5d8c04fbf3df6e79",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.993470021Z"
+}

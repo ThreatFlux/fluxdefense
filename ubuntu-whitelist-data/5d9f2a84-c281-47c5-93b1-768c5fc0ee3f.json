@@ -1,0 +1,17 @@
+{
+  "uuid": "5d9f2a84-c281-47c5-93b1-768c5fc0ee3f",
+  "path": "/usr/lib/grub/x86_64-efi/gcry_sha512.mod",
+  "size": 6384,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.808708460Z",
+  "sha256_hash": "a7c660ba2ac20e69a5c8b87cfd9387e653f561c5897801c36f36804415c41df8",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.497419272Z"
+}

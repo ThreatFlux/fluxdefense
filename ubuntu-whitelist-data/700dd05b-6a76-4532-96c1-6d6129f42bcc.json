@@ -1,0 +1,17 @@
+{
+  "uuid": "700dd05b-6a76-4532-96c1-6d6129f42bcc",
+  "path": "/lib/x86_64-linux-gnu/libnetfilter_queue.so.1.5.0",
+  "size": 30272,
+  "modified": "2024-04-22T09:46:10Z",
+  "created": "2025-05-26T20:18:24.854056174Z",
+  "sha256_hash": "f7cc10011564755907a154f46f41c7c22a3d27f5395205c9d30bf9f27de9e04d",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.571769479Z"
+}

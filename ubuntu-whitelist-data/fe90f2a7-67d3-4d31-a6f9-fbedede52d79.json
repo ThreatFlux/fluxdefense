@@ -1,0 +1,15 @@
+{
+  "uuid": "fe90f2a7-67d3-4d31-a6f9-fbedede52d79",
+  "path": "/lib/python3/dist-packages/cloudinit/distros/openbsd.py",
+  "size": 2423,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.238037203Z",
+  "sha256_hash": "4ec6212fbe494d179a7b879fa35aa2021fada57d02d11b1f357c3ef0168b5fa5",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.908473984Z"
+}

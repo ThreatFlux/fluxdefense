@@ -1,0 +1,17 @@
+{
+  "uuid": "3b22f15b-e9b5-48bd-b5a6-8b13d47d05ff",
+  "path": "/lib/x86_64-linux-gnu/samba/libauthkrb5-samba4.so.0",
+  "size": 113040,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.039635847Z",
+  "sha256_hash": "ff5771a808750e93ecfd7a3d8a943beed4edaa8f22884b473916b914d72b42cd",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.498089248Z"
+}

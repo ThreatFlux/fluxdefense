@@ -1,0 +1,15 @@
+{
+  "uuid": "3e6a04de-0e66-4739-a43e-8a726fd225d9",
+  "path": "/lib/libreoffice/program/libswlo.so",
+  "size": 20889136,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:06.660436519Z",
+  "sha256_hash": "6ae47273b854945cd0b868836b9f37ae030db6af24f034a8d7eebb02e2b3f6b4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:49.099704407Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e6bc38ca-f677-4356-b277-4504814c7c19",
+  "path": "/usr/lib/x86_64-linux-gnu/libgailutil.so.18.0.1",
+  "size": 35576,
+  "modified": "2024-07-15T16:53:59Z",
+  "created": "2025-05-09T05:07:29.526750492Z",
+  "sha256_hash": "ebd1adac8df887c4612ff4900110cc1c7fabd02f0a76d6f5cc7cb31e5c50a253",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.940017608Z"
+}

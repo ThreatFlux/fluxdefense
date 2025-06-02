@@ -1,0 +1,17 @@
+{
+  "uuid": "567ebd36-2cfd-4ce5-9619-f24ed27bb76c",
+  "path": "/usr/lib/firmware/mts_edge.fw.zst",
+  "size": 7546,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.891536840Z",
+  "sha256_hash": "140b7174e6aca200ab627011747ffdecda510278d7b2e936d9acb142c214c5b6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.492737952Z"
+}

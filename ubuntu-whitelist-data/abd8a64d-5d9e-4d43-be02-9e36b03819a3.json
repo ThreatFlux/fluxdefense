@@ -1,0 +1,17 @@
+{
+  "uuid": "abd8a64d-5d9e-4d43-be02-9e36b03819a3",
+  "path": "/usr/lib/udev/rules.d/60-dmi-id.rules",
+  "size": 637,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "855fba740f62290b92e9db0b0911dc3aa2704072e3be40b3141b62bd5447eb71",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.100270535Z"
+}

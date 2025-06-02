@@ -1,0 +1,15 @@
+{
+  "uuid": "0493996c-6905-4450-8e3b-edbb873fd00b",
+  "path": "/lib/llvm-18/lib/libLLVMXtensaInfo.a",
+  "size": 4618,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.087460387Z",
+  "sha256_hash": "f71cb3cdd63f46e4d68bc7bd58391b28cd7ad65f26a9d747ba7da8584f156a33",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:37.857448509Z"
+}

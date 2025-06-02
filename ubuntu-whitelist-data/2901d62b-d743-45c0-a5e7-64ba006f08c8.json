@@ -1,0 +1,17 @@
+{
+  "uuid": "2901d62b-d743-45c0-a5e7-64ba006f08c8",
+  "path": "/lib/x86_64-linux-gnu/perl-base/IO/File.pm",
+  "size": 1636,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.350578627Z",
+  "sha256_hash": "da625d52d0c627bb8732e9a808860fb5ead9cbe91aececda35a4fa8386ef3c3c",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.921408012Z"
+}

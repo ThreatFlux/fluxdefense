@@ -1,0 +1,17 @@
+{
+  "uuid": "4cba6cc6-0a23-4608-9641-64d6510fdb70",
+  "path": "/lib/google-cloud-sdk/platform/gsutil/CHECKSUM",
+  "size": 33,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.931928557Z",
+  "sha256_hash": "5b7066d80c42188aa4478a6196000b5fdd91784ab618b687a46cfdc1563a2fbb",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.966643551Z"
+}

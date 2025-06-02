@@ -1,0 +1,17 @@
+{
+  "uuid": "60da4f41-fa73-4eba-8c23-17cf5ccfd2b4",
+  "path": "/usr/lib/firmware/brcm/brcmfmac43455-sdio.AW-CM256SM.txt.zst",
+  "size": 624,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.485542463Z",
+  "sha256_hash": "c3fe806228beee2e9fd2de85470b5121109033370fca573eeed217c70a67b2a2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.611018425Z"
+}

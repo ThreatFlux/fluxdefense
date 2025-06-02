@@ -1,0 +1,15 @@
+{
+  "uuid": "5dc01a0b-e9f0-4a8e-beaf-03beecdaf52a",
+  "path": "/usr/bin/pw-cli",
+  "size": 129520,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:18.614844966Z",
+  "sha256_hash": "9cd87d6f7618a311281198cefc7724c124a555c52306ad5827e387a26d5eeef5",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.684726001Z"
+}

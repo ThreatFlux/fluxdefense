@@ -1,0 +1,15 @@
+{
+  "uuid": "6be4fdaf-5e0b-486a-82ef-41b4258e1388",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM922.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.280663416Z",
+  "sha256_hash": "7ad58aa99a48db1f45687c38528796b969494a6a050c8b1e55e03a8d852f5d00",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.971000256Z"
+}

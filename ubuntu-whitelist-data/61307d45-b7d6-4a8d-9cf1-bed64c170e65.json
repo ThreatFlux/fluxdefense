@@ -1,0 +1,17 @@
+{
+  "uuid": "61307d45-b7d6-4a8d-9cf1-bed64c170e65",
+  "path": "/usr/lib/grub/x86_64-efi/probe.mod",
+  "size": 5720,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.838708002Z",
+  "sha256_hash": "faeb203f4cb8125ee1921a69dbd26aa6bc19c6228a172b2ec4ba4bf6d98ad8cf",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.467159160Z"
+}

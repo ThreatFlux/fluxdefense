@@ -1,0 +1,17 @@
+{
+  "uuid": "d63f387d-7882-452e-a329-54f808fcb9f8",
+  "path": "/usr/lib/google-cloud-sdk/.install/gcloud-man-pages-nix.manifest",
+  "size": 970687,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.312922087Z",
+  "sha256_hash": "1da1fa49193e2be90fd04021b012ab2962f7cb9212e9b43d03a499bc18428e5c",
+  "file_type": {
+    "Other": "manifest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.555455308Z"
+}

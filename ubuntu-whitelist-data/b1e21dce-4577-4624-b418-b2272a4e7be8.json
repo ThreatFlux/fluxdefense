@@ -1,0 +1,17 @@
+{
+  "uuid": "b1e21dce-4577-4624-b418-b2272a4e7be8",
+  "path": "/lib/x86_64-linux-gnu/perl-base/Cwd.pm",
+  "size": 17356,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.349578643Z",
+  "sha256_hash": "65c287f75a625f0186b66f19f9961871914c57b2f038b5bda6cfb36501c32044",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.906971982Z"
+}

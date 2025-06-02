@@ -1,0 +1,17 @@
+{
+  "uuid": "0c1a20a9-e71b-4280-92f4-ef45f072f1e7",
+  "path": "/lib/systemd/system/bolt.service",
+  "size": 642,
+  "modified": "2024-04-01T18:13:27Z",
+  "created": "2025-05-09T05:07:28.297769246Z",
+  "sha256_hash": "e637398eb500d6754fbdafda3aaca5176e19f7c856e38e90f6bebf7a21873659",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.120896873Z"
+}

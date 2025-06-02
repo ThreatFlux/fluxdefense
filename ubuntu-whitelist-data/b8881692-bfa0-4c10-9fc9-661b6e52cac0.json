@@ -1,0 +1,17 @@
+{
+  "uuid": "b8881692-bfa0-4c10-9fc9-661b6e52cac0",
+  "path": "/lib/firmware/radeon/CAICOS_smc.bin.zst",
+  "size": 10345,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.059534513Z",
+  "sha256_hash": "e6ed74590e88122383a2c512dba7b868ea8b467e00e95676a7c8cdeea569b33b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.389675638Z"
+}

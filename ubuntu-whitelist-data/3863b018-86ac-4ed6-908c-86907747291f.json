@@ -1,0 +1,17 @@
+{
+  "uuid": "3863b018-86ac-4ed6-908c-86907747291f",
+  "path": "/usr/lib/x86_64-linux-gnu/libevdocument3.so.4.0.0",
+  "size": 207088,
+  "modified": "2024-10-15T07:35:01Z",
+  "created": "2025-05-09T05:07:29.405752339Z",
+  "sha256_hash": "cba328990acddde056c5886e852db6a33567db88aba532b15af1d74cc383c069",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.289467743Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b331cb99-46ba-4682-bfa9-d1f39f117319",
+  "path": "/lib/X11/xedit/lisp/progmodes/html.lsp",
+  "size": 10560,
+  "modified": "2024-03-31T17:26:36Z",
+  "created": "2025-05-09T05:07:20.994880685Z",
+  "sha256_hash": "ad9df3417f1be72f7b20f6dc7ca24d3743ed3ea305b4c6a291918ddfc5e1ec28",
+  "file_type": {
+    "Other": "lsp"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.466912745Z"
+}

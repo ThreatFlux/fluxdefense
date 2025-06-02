@@ -1,0 +1,17 @@
+{
+  "uuid": "8befd6ff-5ff8-4f63-8a80-b0db905646f0",
+  "path": "/lib/i386-linux-gnu/libnss_compat.so.2",
+  "size": 38568,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.293663217Z",
+  "sha256_hash": "889d6d92aea2b0769d91a3919c097082590ba1f655724305725dcf22dd1bd8b3",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.210878338Z"
+}

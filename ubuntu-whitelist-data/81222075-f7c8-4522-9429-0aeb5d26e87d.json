@@ -1,0 +1,17 @@
+{
+  "uuid": "81222075-f7c8-4522-9429-0aeb5d26e87d",
+  "path": "/usr/lib/llvm-18/include/clang/Sema/AttrParsedAttrImpl.inc",
+  "size": 705339,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.545533371Z",
+  "sha256_hash": "3c6870c6d14e70d26abe137917e35a4aeb4a207fae1f10f26d4b9eaf9045d730",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.455398739Z"
+}

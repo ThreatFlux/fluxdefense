@@ -1,0 +1,15 @@
+{
+  "uuid": "57889ca5-5942-4113-8933-13f6783067d8",
+  "path": "/usr/lib/x86_64-linux-gnu/libplc4.so",
+  "size": 22784,
+  "modified": "2024-04-08T16:14:31Z",
+  "created": "2025-05-09T05:07:31.849715044Z",
+  "sha256_hash": "f68520b4a9ba6190c67ce96511192f9af31dd96d91f18fd64cca48ffe08f7deb",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:08.108807183Z"
+}

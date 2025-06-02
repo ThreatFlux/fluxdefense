@@ -1,0 +1,17 @@
+{
+  "uuid": "8bdfc089-0a4d-4a20-a7eb-80c9e114c3dc",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/UnsafeFunctionsCheck.h",
+  "size": 1975,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "f0e5f4f67b1947007268781f1545023cd0cbf7df2acdb4ac1860f48aa5533eac",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.897089586Z"
+}

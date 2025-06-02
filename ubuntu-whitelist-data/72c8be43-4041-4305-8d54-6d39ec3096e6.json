@@ -1,0 +1,15 @@
+{
+  "uuid": "72c8be43-4041-4305-8d54-6d39ec3096e6",
+  "path": "/lib/klibc/bin/cpio",
+  "size": 9640,
+  "modified": "2024-05-21T08:39:42Z",
+  "created": "2025-05-09T05:07:21.709869775Z",
+  "sha256_hash": "41fa0cac984b0fa0597ea09ec349845f16459c87834f78c03d3dce1710cd144f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.655567529Z"
+}

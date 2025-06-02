@@ -1,0 +1,17 @@
+{
+  "uuid": "d66672fd-5271-43de-b349-b97bb1c06f07",
+  "path": "/usr/lib/x86_64-linux-gnu/libXcomposite.so.1.0.0",
+  "size": 14464,
+  "modified": "2024-04-08T16:09:20Z",
+  "created": "2025-05-09T05:07:29.060757603Z",
+  "sha256_hash": "675c78d8d5b088a59ad4f8eb15419d0842b17caca3317a5e9f68573171ec5d61",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.977357529Z"
+}

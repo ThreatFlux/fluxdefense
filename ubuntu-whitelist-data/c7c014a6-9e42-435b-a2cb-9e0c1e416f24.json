@@ -1,0 +1,15 @@
+{
+  "uuid": "c7c014a6-9e42-435b-a2cb-9e0c1e416f24",
+  "path": "/usr/lib/x86_64-linux-gnu/dri/i965_dri.so",
+  "size": 15693800,
+  "modified": "2024-04-08T16:12:40Z",
+  "created": "2025-05-09T05:07:35.188664093Z",
+  "sha256_hash": "0f338764806f62becf5b9e2c0f816e4257e3eb2ac12ae3c3da026e40ffb2cf33",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:11.184407312Z"
+}

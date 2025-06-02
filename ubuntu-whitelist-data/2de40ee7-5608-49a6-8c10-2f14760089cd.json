@@ -1,0 +1,15 @@
+{
+  "uuid": "2de40ee7-5608-49a6-8c10-2f14760089cd",
+  "path": "/usr/lib/x86_64-linux-gnu/tracker-miners-3.0/extract-modules/libextract-playlist.so",
+  "size": 35048,
+  "modified": "2024-03-31T17:20:13Z",
+  "created": "2025-05-09T05:07:37.309631727Z",
+  "sha256_hash": "0aa292b6968d5467f7bb8d7889be204ebe17d7eeb21645c9d96bf67b19c08f79",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.207034611Z"
+}

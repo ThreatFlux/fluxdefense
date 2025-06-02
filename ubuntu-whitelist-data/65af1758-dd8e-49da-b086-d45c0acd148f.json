@@ -1,0 +1,17 @@
+{
+  "uuid": "65af1758-dd8e-49da-b086-d45c0acd148f",
+  "path": "/usr/lib/grub/x86_64-efi/macho.mod",
+  "size": 10912,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.814708369Z",
+  "sha256_hash": "ab3d1ca26d1a31bae75c94d55727a80a82c5e93ca67e2b679d831c3b73ec70c2",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.482576636Z"
+}

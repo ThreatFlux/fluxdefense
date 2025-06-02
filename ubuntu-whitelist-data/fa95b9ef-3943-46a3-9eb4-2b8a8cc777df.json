@@ -1,0 +1,17 @@
+{
+  "uuid": "fa95b9ef-3943-46a3-9eb4-2b8a8cc777df",
+  "path": "/usr/lib/x86_64-linux-gnu/libduktape.so.207",
+  "size": 305224,
+  "modified": "2024-04-08T15:56:50Z",
+  "created": "2025-05-09T05:07:29.358753056Z",
+  "sha256_hash": "5733ea32f7c50e962e08b26b02f0656851525f3aa06f8b826459e27fa8711199",
+  "file_type": {
+    "Other": "207"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.671315400Z"
+}

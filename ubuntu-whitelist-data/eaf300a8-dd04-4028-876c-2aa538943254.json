@@ -1,0 +1,17 @@
+{
+  "uuid": "eaf300a8-dd04-4028-876c-2aa538943254",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/include/avx512fp16intrin.h",
+  "size": 215289,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.242389875Z",
+  "sha256_hash": "2f698fe61ccc2205db11f17bf5ca26fce67b6eee6a08963d9668d3f25ef204aa",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.927078010Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "5bc742a1-7b7c-4e95-8357-ca083a85764c",
+  "path": "/usr/lib/udev/rules.d/77-mm-gosuncn-port-types.rules",
+  "size": 907,
+  "modified": "2024-02-19T14:58:32Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "9f0b771661e5f48e01e319a99b7de9d84cc36430b4ded14060f4fe748893c34e",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.109212537Z"
+}

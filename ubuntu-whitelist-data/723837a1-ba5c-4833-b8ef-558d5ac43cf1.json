@@ -1,0 +1,17 @@
+{
+  "uuid": "723837a1-ba5c-4833-b8ef-558d5ac43cf1",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/crypto/hctr2.ko.zst",
+  "size": 6946,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.078797895Z",
+  "sha256_hash": "f7343343e56c502cf723b498739d9a50b87b5436d14f5de8161be6e62c925957",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.258184552Z"
+}

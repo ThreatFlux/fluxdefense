@@ -1,0 +1,17 @@
+{
+  "uuid": "1525bc3e-4141-4f27-8e2c-015e05b5ad85",
+  "path": "/lib/firmware/emi62/midi.fw.zst",
+  "size": 11037,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.530541840Z",
+  "sha256_hash": "65fe22953d012c23da3242604c1bc4bf154e20f048e86f0ce33ae9e91b7bedb4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.868450386Z"
+}

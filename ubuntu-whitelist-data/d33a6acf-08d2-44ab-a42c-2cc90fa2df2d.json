@@ -1,0 +1,17 @@
+{
+  "uuid": "d33a6acf-08d2-44ab-a42c-2cc90fa2df2d",
+  "path": "/lib/x86_64-linux-gnu/libpinyin/data/bigram.db",
+  "size": 25853952,
+  "modified": "2024-04-06T01:15:02Z",
+  "created": "2025-05-09T05:07:35.924652861Z",
+  "sha256_hash": "f35c122b0913af088c78772cc285026d7a7e3cd4948bee9d7c4ec1e2855f6a4c",
+  "file_type": {
+    "Other": "db"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.447581489Z"
+}

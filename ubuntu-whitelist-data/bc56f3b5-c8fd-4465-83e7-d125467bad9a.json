@@ -1,0 +1,15 @@
+{
+  "uuid": "bc56f3b5-c8fd-4465-83e7-d125467bad9a",
+  "path": "/bin/dh_installlogcheck",
+  "size": 1982,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.513341269Z",
+  "sha256_hash": "8162dd68462a35ced07a20530d5a298b83faba217b12f123fd4b4828f8b93df7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.424753734Z"
+}

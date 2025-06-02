@@ -1,0 +1,17 @@
+{
+  "uuid": "09b82ce6-579a-4c0f-ab34-7976950877c0",
+  "path": "/usr/lib/x86_64-linux-gnu/libssh2.so.1.0.1",
+  "size": 289424,
+  "modified": "2024-03-31T07:59:27Z",
+  "created": "2025-05-09T17:41:09.738629553Z",
+  "sha256_hash": "30ffbfef89cb8f698c58b827dc6919182db78c477aebc2b937ab5cc74897155e",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:15.440394804Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "68fdd264-90a3-41f0-b477-bfba729e56b5",
+  "path": "/usr/sbin/naptime.bt",
+  "size": 1035,
+  "modified": "2024-03-07T22:14:52Z",
+  "created": "2025-05-09T05:08:51.886493608Z",
+  "sha256_hash": "2dbccca9a7e2f49fe5f751ba957d289781542a69d13b491e3fdc66ac6bf012a1",
+  "file_type": {
+    "Other": "bt"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.734832433Z"
+}

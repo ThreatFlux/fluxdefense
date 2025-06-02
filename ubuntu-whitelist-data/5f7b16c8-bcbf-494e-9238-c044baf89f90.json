@@ -1,0 +1,15 @@
+{
+  "uuid": "5f7b16c8-bcbf-494e-9238-c044baf89f90",
+  "path": "/lib/llvm-18/lib/libLLVMSymbolize.a",
+  "size": 406348,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.027461177Z",
+  "sha256_hash": "7b6d3c19f11f0758d34b1e662f215cb919cc70d6c2eca22337e3032bbd7b2a2f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.548029086Z"
+}

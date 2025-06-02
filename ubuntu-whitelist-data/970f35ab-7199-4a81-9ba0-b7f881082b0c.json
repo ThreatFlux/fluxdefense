@@ -1,0 +1,17 @@
+{
+  "uuid": "970f35ab-7199-4a81-9ba0-b7f881082b0c",
+  "path": "/lib/python3.12/test/audiotest.au",
+  "size": 28144,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.986551841Z",
+  "sha256_hash": "bb24009573f88b990c922fdc65adddec1312e30373dc635c6099912d4f836a41",
+  "file_type": {
+    "Other": "au"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.621440885Z"
+}

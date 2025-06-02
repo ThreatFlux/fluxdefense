@@ -1,0 +1,17 @@
+{
+  "uuid": "7b20f3dc-75b3-4296-a817-a5ef5c974d8e",
+  "path": "/lib/systemd/system/soft-reboot.target",
+  "size": 586,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "9286ad04f3ee2d702b3c7259196a235ba402e1e557ca2cb72bf0e773d8c1be98",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.126481141Z"
+}

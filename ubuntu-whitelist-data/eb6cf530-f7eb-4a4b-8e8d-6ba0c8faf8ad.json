@@ -1,0 +1,17 @@
+{
+  "uuid": "eb6cf530-f7eb-4a4b-8e8d-6ba0c8faf8ad",
+  "path": "/usr/lib/x86_64-linux-gnu/libcurl-gnutls.so.4.8.0",
+  "size": 765856,
+  "modified": "2024-12-11T16:44:19Z",
+  "created": "2025-05-09T05:07:29.257754597Z",
+  "sha256_hash": "a35b7a4e20735ec9930269de07343d861ddb95506c223bb2c4147a47ba529f84",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.128382641Z"
+}

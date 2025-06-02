@@ -1,0 +1,15 @@
+{
+  "uuid": "56011e26-9c57-40a4-828c-7da649599303",
+  "path": "/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-rtkit.so",
+  "size": 35088,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.784860128Z",
+  "sha256_hash": "1bbb7b17160e3551b7ef82b2efc63dd555e4ab01d33317cfb0c526552771aafa",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.900783211Z"
+}

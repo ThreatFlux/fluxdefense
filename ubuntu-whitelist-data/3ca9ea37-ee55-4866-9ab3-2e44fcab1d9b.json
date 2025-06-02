@@ -1,0 +1,15 @@
+{
+  "uuid": "3ca9ea37-ee55-4866-9ab3-2e44fcab1d9b",
+  "path": "/usr/lib/llvm-18/lib/libLLVMSystemZDisassembler.a",
+  "size": 129382,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.033461098Z",
+  "sha256_hash": "76d2d87ac1859a46b3401c30476ef1d7864a2798e41911c1bb1cc4fbf5409122",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:34.239699891Z"
+}

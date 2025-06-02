@@ -1,0 +1,17 @@
+{
+  "uuid": "7ed3f93d-a0b8-422d-8f25-f03802733388",
+  "path": "/lib/llvm-18/include/clang/AST/CXXInheritance.h",
+  "size": 14922,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.515533766Z",
+  "sha256_hash": "000d8bac13083e9bc14a49b9731b157104dcbee784b8873ce4c0d5f1267b1d64",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.998208261Z"
+}

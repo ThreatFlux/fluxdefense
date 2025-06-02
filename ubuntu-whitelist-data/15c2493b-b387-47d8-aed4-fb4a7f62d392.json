@@ -1,0 +1,17 @@
+{
+  "uuid": "15c2493b-b387-47d8-aed4-fb4a7f62d392",
+  "path": "/usr/lib/x86_64-linux-gnu/libxcb-xv.so.0.0.0",
+  "size": 35016,
+  "modified": "2024-04-18T14:21:22Z",
+  "created": "2025-05-09T05:07:35.150664672Z",
+  "sha256_hash": "3f59152e609dc3f63105ffefbac6d1c6671a4a9eade1d69e7ca6ca4076e7444a",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.445473248Z"
+}

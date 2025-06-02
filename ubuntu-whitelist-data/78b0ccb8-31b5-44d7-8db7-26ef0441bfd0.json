@@ -1,0 +1,15 @@
+{
+  "uuid": "78b0ccb8-31b5-44d7-8db7-26ef0441bfd0",
+  "path": "/lib/llvm-18/lib/libLLVMTargetParser.a",
+  "size": 460408,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.035461072Z",
+  "sha256_hash": "50650a791158c09f19e8be288e2a6d7d3be286242a737ced205582b37e6e63cc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.140323025Z"
+}

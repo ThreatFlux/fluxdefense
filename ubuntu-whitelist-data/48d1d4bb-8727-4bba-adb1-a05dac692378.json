@@ -1,0 +1,17 @@
+{
+  "uuid": "48d1d4bb-8727-4bba-adb1-a05dac692378",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/az_dict",
+  "size": 43773,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.380661163Z",
+  "sha256_hash": "e352b2dcf811662d79f4beaaa0c7750706cf669c0409fd815a9bd0244b1adfc7",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.375259812Z"
+}

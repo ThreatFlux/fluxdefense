@@ -1,0 +1,17 @@
+{
+  "uuid": "cd82291c-6c61-4ac7-9405-19b39df68155",
+  "path": "/lib/firmware/mediatek/mt7622pr2h.bin.zst",
+  "size": 51929,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.677539804Z",
+  "sha256_hash": "ea85eb8d8e36ae42bd02873c6f3f9c8cfd7f699b3dfabff231887aecb8ec55fb",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.127345715Z"
+}

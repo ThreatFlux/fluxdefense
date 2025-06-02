@@ -1,0 +1,17 @@
+{
+  "uuid": "513236db-a57e-41cf-9399-0211a76aa2d9",
+  "path": "/lib/cups/filter/vectortopdf",
+  "size": 1581,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.362875070Z",
+  "sha256_hash": "da187274a0341790c131a63631811a6802edeffc200b9a5d6e587727bb37cb93",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.635231938Z"
+}

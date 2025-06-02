@@ -1,0 +1,15 @@
+{
+  "uuid": "f3f770d7-1076-4edb-a2f3-44ce37657051",
+  "path": "/lib/llvm-18/lib/libLLVMLTO.a",
+  "size": 1155842,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.911462705Z",
+  "sha256_hash": "82a7c77c3a363a7de015ede27e5069a24fbd12d20ea722db294b2dda6a4836ad",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.490614512Z"
+}

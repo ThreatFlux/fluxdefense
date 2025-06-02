@@ -1,0 +1,17 @@
+{
+  "uuid": "791ecdcd-aaf2-46bd-81d9-295b4d1ccf37",
+  "path": "/lib/firmware/i915/adls_dmc_ver2_01.bin.zst",
+  "size": 4858,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.532541812Z",
+  "sha256_hash": "8f263fb7d815072ad9d779d0fd2e83402914ab3ea868e08b3a82903740903781",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.706313598Z"
+}

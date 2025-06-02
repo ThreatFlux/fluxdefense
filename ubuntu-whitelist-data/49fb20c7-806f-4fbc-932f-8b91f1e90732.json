@@ -1,0 +1,15 @@
+{
+  "uuid": "49fb20c7-806f-4fbc-932f-8b91f1e90732",
+  "path": "/lib/x86_64-linux-gnu/traceevent/plugins/plugin_mac80211.so",
+  "size": 13992,
+  "modified": "2024-04-03T11:46:23Z",
+  "created": "2025-05-09T05:07:37.304631803Z",
+  "sha256_hash": "0bee8cb7a3fa4d9e5138ae4b9330672bd33dfcee9cc6b00da7c1e5a75141993a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.534887698Z"
+}

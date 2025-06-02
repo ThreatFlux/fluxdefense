@@ -1,0 +1,17 @@
+{
+  "uuid": "eb208f98-e0a4-472e-8e3d-89dfbc2b421e",
+  "path": "/lib/pm-utils/power.d/95hdparm-apm",
+  "size": 3073,
+  "modified": "2022-10-06T12:47:47Z",
+  "created": "2025-05-09T05:07:25.895805899Z",
+  "sha256_hash": "c4e4ce8c38b143cde557474432889debd3fc052becadd412d2c7dbce3cad5624",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.099568200Z"
+}

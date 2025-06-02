@@ -1,0 +1,17 @@
+{
+  "uuid": "8c7eac02-23b1-4ecc-9af5-3b16184db255",
+  "path": "/lib/x86_64-linux-gnu/libsframe.so.1.0.0",
+  "size": 35168,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:51.283587055Z",
+  "sha256_hash": "441735b953017c8154989f1d47d7ca7c94683555164950fd2adf5ba5bd37cc64",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.736902426Z"
+}

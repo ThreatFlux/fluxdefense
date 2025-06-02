@@ -1,0 +1,17 @@
+{
+  "uuid": "24ad199c-01d9-403f-b484-b7bb90f7e925",
+  "path": "/usr/lib/firmware/amdgpu/pitcairn_smc.bin.zst",
+  "size": 25136,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.408543530Z",
+  "sha256_hash": "85a8b22580b040f29527d19ddda72a83b47e8cfe9d837b71b9e6a4720b5c1ec6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.865923291Z"
+}

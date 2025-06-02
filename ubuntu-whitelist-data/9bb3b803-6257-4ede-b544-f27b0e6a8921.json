@@ -1,0 +1,17 @@
+{
+  "uuid": "9bb3b803-6257-4ede-b544-f27b0e6a8921",
+  "path": "/lib/x86_64-linux-gnu/libpinyin/data/table.conf",
+  "size": 1234,
+  "modified": "2024-04-06T01:15:02Z",
+  "created": "2025-05-09T05:07:36.539643477Z",
+  "sha256_hash": "d9aaee511a40f509f94a5629282a93e1f91cf6b7afefd70ec58370039fb357c7",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.012913701Z"
+}

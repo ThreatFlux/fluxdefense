@@ -1,0 +1,15 @@
+{
+  "uuid": "a819875c-82a8-44fb-8950-a341cd4637a9",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libxt_LOG.so",
+  "size": 15400,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.331631391Z",
+  "sha256_hash": "d43a285715642dff1fefef19d1c97f2d9d2200047c73907a5c08063b3e90fe9b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.276600734Z"
+}

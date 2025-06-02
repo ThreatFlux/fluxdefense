@@ -1,0 +1,15 @@
+{
+  "uuid": "c7639ceb-be13-4f52-abd2-ebd1395e6399",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_mac.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.335631330Z",
+  "sha256_hash": "6445cb74d633857b442be8cdc77a7b7e570f47074b4710c3e6fd909799b7b2fa",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.678203474Z"
+}

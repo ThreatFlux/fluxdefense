@@ -1,0 +1,15 @@
+{
+  "uuid": "b9444352-0919-46ba-a53b-1fa6985bc87b",
+  "path": "/usr/bin/loginctl",
+  "size": 68176,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.500779189Z",
+  "sha256_hash": "a35dd78105887046c8f11f21fe31efc45692c29bae9bb8ddb332108fa84ced39",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.759838895Z"
+}

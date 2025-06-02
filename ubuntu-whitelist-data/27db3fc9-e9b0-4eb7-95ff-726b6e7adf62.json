@@ -1,0 +1,15 @@
+{
+  "uuid": "27db3fc9-e9b0-4eb7-95ff-726b6e7adf62",
+  "path": "/bin/systemd-cat",
+  "size": 18896,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.504779240Z",
+  "sha256_hash": "5a20446cd7223cb93a2f0a698c04771a17495d2c0a78700ae9db9bd93f198c17",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.550862006Z"
+}

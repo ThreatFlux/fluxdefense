@@ -1,0 +1,17 @@
+{
+  "uuid": "b5bcb5cd-4bc2-470e-9b26-6ee36c6be2c2",
+  "path": "/lib/x86_64-linux-gnu/libwpd-0.10.so.10.0.3",
+  "size": 642136,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:35.018666687Z",
+  "sha256_hash": "254fde8dc782e5d0e0208f0293f0f089954f72e87a8659e080c5e442dafd2cd7",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.931447947Z"
+}

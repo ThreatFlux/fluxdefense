@@ -1,0 +1,17 @@
+{
+  "uuid": "0527b697-d3b0-4d5e-8447-6ccb0627ce10",
+  "path": "/lib/sysusers.d/systemd-timesync.conf",
+  "size": 344,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:11.990759924Z",
+  "sha256_hash": "3bab0aec3c1f2d475d56a9895ba70203c66443e1612d1f0a0e1b6db7eaeaba16",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.406842390Z"
+}

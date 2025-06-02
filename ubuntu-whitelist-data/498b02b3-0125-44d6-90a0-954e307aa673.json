@@ -1,0 +1,17 @@
+{
+  "uuid": "498b02b3-0125-44d6-90a0-954e307aa673",
+  "path": "/lib/x86_64-linux-gnu/samba/libcli-nbt-samba4.so.0",
+  "size": 47336,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.041635817Z",
+  "sha256_hash": "f71b64028bc268798259fad0925ff4ca45f48a269eb21bef26434820bcbe3da7",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.581273463Z"
+}

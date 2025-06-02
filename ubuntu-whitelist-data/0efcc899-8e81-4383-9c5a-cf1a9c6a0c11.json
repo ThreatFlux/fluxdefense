@@ -1,0 +1,15 @@
+{
+  "uuid": "0efcc899-8e81-4383-9c5a-cf1a9c6a0c11",
+  "path": "/usr/lib/python3/dist-packages/aptsources/_deb822.py",
+  "size": 3903,
+  "modified": "2025-01-27T11:40:02Z",
+  "created": "2025-05-09T05:07:26.525796286Z",
+  "sha256_hash": "ed580221015e1c79a9a823f6413c5c28c2f51200efd51a1a8ababdb1da66999c",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.940168218Z"
+}

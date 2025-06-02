@@ -1,0 +1,17 @@
+{
+  "uuid": "5eff6b55-daec-4e2b-ae84-1f86720b6af1",
+  "path": "/usr/lib/firmware/rtl_nic/rtl8126a-3.fw.zst",
+  "size": 4575,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.067534402Z",
+  "sha256_hash": "ebcd4293695cb4cee21543051aedf13be128a375046ec3c715737b2961bcbb57",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.569656966Z"
+}

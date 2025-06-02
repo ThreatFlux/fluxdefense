@@ -1,0 +1,15 @@
+{
+  "uuid": "f39972f1-d1b2-4212-b4c6-c5b9d2fda8c4",
+  "path": "/usr/bin/tracker3-daemon",
+  "size": 56424,
+  "modified": "2024-03-31T17:20:13Z",
+  "created": "2025-05-09T05:07:20.731884698Z",
+  "sha256_hash": "3f7dbce2fc03ffe514d9401dd8c75bcab58ff05fa13cb69876e0715052dca47a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.012585239Z"
+}

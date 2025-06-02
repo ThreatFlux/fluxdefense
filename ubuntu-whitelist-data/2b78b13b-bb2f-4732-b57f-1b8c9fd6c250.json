@@ -1,0 +1,17 @@
+{
+  "uuid": "2b78b13b-bb2f-4732-b57f-1b8c9fd6c250",
+  "path": "/usr/lib/x86_64-linux-gnu/libutil.so.1",
+  "size": 14408,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:32.350707399Z",
+  "sha256_hash": "17a4fca0e7fece307d2bfda63efd3be2051a6d83981be0c3481d63ac6f2a0e96",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.297025853Z"
+}

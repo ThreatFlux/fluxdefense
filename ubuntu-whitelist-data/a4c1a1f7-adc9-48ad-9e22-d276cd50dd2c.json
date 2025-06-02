@@ -1,0 +1,17 @@
+{
+  "uuid": "a4c1a1f7-adc9-48ad-9e22-d276cd50dd2c",
+  "path": "/usr/lib/x86_64-linux-gnu/evince/4/backends/dvidocument.evince-backend",
+  "size": 4022,
+  "modified": "2024-10-15T07:35:01Z",
+  "created": "2025-05-09T05:07:35.586658019Z",
+  "sha256_hash": "c5118915117987c7c2ae4e24336c8236349ca57814007cc7c210358f570f6e24",
+  "file_type": {
+    "Other": "evince-backend"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:15.983179730Z"
+}

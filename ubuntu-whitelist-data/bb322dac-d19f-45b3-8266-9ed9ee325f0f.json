@@ -1,0 +1,15 @@
+{
+  "uuid": "bb322dac-d19f-45b3-8266-9ed9ee325f0f",
+  "path": "/lib/x86_64-linux-gnu/plymouth/two-step.so",
+  "size": 77328,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:27.166956697Z",
+  "sha256_hash": "94ca3e5b58458aee6d6a32bbf9212f7d145120c632ed8d08cb7af7533ac7fefc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.619648967Z"
+}

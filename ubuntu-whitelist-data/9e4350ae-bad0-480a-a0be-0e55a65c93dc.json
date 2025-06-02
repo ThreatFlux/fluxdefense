@@ -1,0 +1,15 @@
+{
+  "uuid": "9e4350ae-bad0-480a-a0be-0e55a65c93dc",
+  "path": "/usr/libexec/nm-openvpn-auth-dialog",
+  "size": 22928,
+  "modified": "2024-03-31T09:21:00Z",
+  "created": "2025-05-09T05:07:37.546628110Z",
+  "sha256_hash": "c5bed5982a57f2fce91ba2380ad7a04597d609d9c129776acc5a41734f7b15f0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.453716878Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e741e92f-3168-45a7-9c19-a7e429722bab",
+  "path": "/lib/firmware/cpia2/stv0672_vp4.bin.zst",
+  "size": 723,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.510542117Z",
+  "sha256_hash": "49887dfe7aa3d7c8146a5643f7823ff302ffcef70a6f30a3ca1c27d7b2cb74b9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.422206825Z"
+}

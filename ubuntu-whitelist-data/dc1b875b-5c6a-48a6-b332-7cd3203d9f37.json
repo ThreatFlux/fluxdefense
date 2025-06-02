@@ -1,0 +1,15 @@
+{
+  "uuid": "dc1b875b-5c6a-48a6-b332-7cd3203d9f37",
+  "path": "/lib/libreoffice/program/libavmediagst.so",
+  "size": 89952,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:19.812235763Z",
+  "sha256_hash": "a2821a11c21febc0ac519bfe5f1a21d05eafeb5ae2889ebcfba6395a2296c9de",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:49.531559489Z"
+}

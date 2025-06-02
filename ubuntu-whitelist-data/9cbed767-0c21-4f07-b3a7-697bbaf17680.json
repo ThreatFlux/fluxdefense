@@ -1,0 +1,17 @@
+{
+  "uuid": "9cbed767-0c21-4f07-b3a7-697bbaf17680",
+  "path": "/lib/llvm-18/include/clang-tidy/performance/NoexceptSwapCheck.h",
+  "size": 1502,
+  "modified": "2023-06-24T20:41:17Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "a9421666e9978f279e0dd7d93b982cf3c7afed45900ced25f8af6f4b447e83a6",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.920018747Z"
+}

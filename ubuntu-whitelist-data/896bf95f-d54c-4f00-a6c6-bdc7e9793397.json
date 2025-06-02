@@ -1,0 +1,17 @@
+{
+  "uuid": "896bf95f-d54c-4f00-a6c6-bdc7e9793397",
+  "path": "/lib/firmware/amlogic/bluetooth/w1u_bt_fw_uart.bin.zst",
+  "size": 205883,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.428543253Z",
+  "sha256_hash": "635f1bcb9f9f84a1b569c6c78b86d342aff3508a04d07d87902924e8487dfcce",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.153420434Z"
+}

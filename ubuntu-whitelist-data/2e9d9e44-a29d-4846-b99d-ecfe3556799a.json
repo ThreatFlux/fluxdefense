@@ -1,0 +1,17 @@
+{
+  "uuid": "2e9d9e44-a29d-4846-b99d-ecfe3556799a",
+  "path": "/usr/lib/x86_64-linux-gnu/libmp3lame.so.0.0.0",
+  "size": 297032,
+  "modified": "2024-04-08T16:01:02Z",
+  "created": "2025-05-09T05:07:31.522720034Z",
+  "sha256_hash": "14b664b4af2fe18975adb3c06c0369b436dd6504ce421736649c0415447c9d00",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:22.069424811Z"
+}

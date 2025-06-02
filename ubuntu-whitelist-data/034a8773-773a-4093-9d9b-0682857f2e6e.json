@@ -1,0 +1,17 @@
+{
+  "uuid": "034a8773-773a-4093-9d9b-0682857f2e6e",
+  "path": "/usr/lib/systemd/system/anacron.timer",
+  "size": 154,
+  "modified": "2023-09-25T14:45:34Z",
+  "created": "2025-05-09T05:07:28.297769246Z",
+  "sha256_hash": "13cce6a72c725a65ab440b38241bd8f6683b2a4a38f559ba9cad6ecde56f84a6",
+  "file_type": {
+    "Other": "timer"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.451348003Z"
+}

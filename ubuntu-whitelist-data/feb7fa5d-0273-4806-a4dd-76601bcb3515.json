@@ -1,0 +1,17 @@
+{
+  "uuid": "feb7fa5d-0273-4806-a4dd-76601bcb3515",
+  "path": "/usr/lib/x86_64-linux-gnu/libXss.so.1.0.0",
+  "size": 14648,
+  "modified": "2024-04-08T16:10:24Z",
+  "created": "2025-05-09T05:07:29.061757588Z",
+  "sha256_hash": "1e165bf4777952eb9bb34c93f12e4fbd5de082a7f88a3c39fcd05e87dd8ddb07",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.710533669Z"
+}

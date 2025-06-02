@@ -1,0 +1,17 @@
+{
+  "uuid": "944e0fef-f2e1-4994-b828-8eac354bdb04",
+  "path": "/lib/ipxe/qemu/efi-virtio.rom",
+  "size": 524288,
+  "modified": "2024-04-16T21:17:04Z",
+  "created": "2025-05-09T05:56:50.417632747Z",
+  "sha256_hash": "606518e1cfa5afd4ceac95ea309a7e385d60fb17ae0b684cee948d73ab255dfc",
+  "file_type": {
+    "Other": "rom"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.463952855Z"
+}

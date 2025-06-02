@@ -1,0 +1,17 @@
+{
+  "uuid": "d738def8-5680-49b1-bcfc-8dd4000d961c",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/gu_dict",
+  "size": 82480,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.435660323Z",
+  "sha256_hash": "cb1fbfb53bab2ec6d9e44cd9d12ccb9b80de49f274d772314389c477eef530fd",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.280692922Z"
+}

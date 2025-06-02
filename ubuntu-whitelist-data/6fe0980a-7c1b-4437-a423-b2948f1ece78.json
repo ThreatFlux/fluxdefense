@@ -1,0 +1,17 @@
+{
+  "uuid": "6fe0980a-7c1b-4437-a423-b2948f1ece78",
+  "path": "/usr/lib/llvm-18/lib/libRemarks.so.18.1",
+  "size": 6048,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.098460242Z",
+  "sha256_hash": "ac4415d79a9f75f3162a13c7da11a28b28440f3f445c37cf4c6de6b5b8db2803",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:34.190720814Z"
+}

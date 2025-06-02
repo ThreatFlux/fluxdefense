@@ -1,0 +1,15 @@
+{
+  "uuid": "6b128341-a215-4183-ad77-4ec047c956f8",
+  "path": "/lib/x86_64-linux-gnu/yelp/web-extensions/libyelpwebextension.so",
+  "size": 68192,
+  "modified": "2025-04-17T14:58:08Z",
+  "created": "2025-05-09T05:11:34.980004233Z",
+  "sha256_hash": "a0eee22ec35abc9f532eb796ddfcdf7e2fa7a8facc915bae15a863e0fa041cf1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.428441298Z"
+}

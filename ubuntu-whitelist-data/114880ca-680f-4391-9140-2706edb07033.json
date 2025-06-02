@@ -1,0 +1,15 @@
+{
+  "uuid": "114880ca-680f-4391-9140-2706edb07033",
+  "path": "/lib/x86_64-linux-gnu/spa-0.2/videoconvert/libspa-videoconvert.so",
+  "size": 145680,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.450855796Z",
+  "sha256_hash": "23dabdbac6ea71880320ed9fbda2e2529ff89c579d5d057b40d305a279163933",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.753462467Z"
+}

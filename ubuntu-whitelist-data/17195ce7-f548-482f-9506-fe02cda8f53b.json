@@ -1,0 +1,17 @@
+{
+  "uuid": "17195ce7-f548-482f-9506-fe02cda8f53b",
+  "path": "/lib/llvm-18/include/clang/Frontend/PreprocessorOutputOptions.h",
+  "size": 2289,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "b8b9da42f3c954ed81216ef4d24c5b2e0d2a439598055ee29b75f707cfc45b6a",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.926401946Z"
+}

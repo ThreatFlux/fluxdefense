@@ -1,0 +1,17 @@
+{
+  "uuid": "8283d533-ef04-4609-80c7-1c6f2102dce2",
+  "path": "/lib/grub/x86_64-efi-signed/gcdx64.efi.signed",
+  "size": 2328456,
+  "modified": "2025-03-28T10:14:13Z",
+  "created": "2025-05-09T05:08:38.335700417Z",
+  "sha256_hash": "52b8b3503d3efabfac8793f07e1db5d22c51d90ebb5b6319962fab5d02f49956",
+  "file_type": {
+    "Other": "signed"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.989842525Z"
+}

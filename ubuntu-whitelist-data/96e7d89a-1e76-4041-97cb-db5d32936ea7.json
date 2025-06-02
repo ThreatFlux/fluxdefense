@@ -1,0 +1,17 @@
+{
+  "uuid": "96e7d89a-1e76-4041-97cb-db5d32936ea7",
+  "path": "/lib/x86_64-linux-gnu/libabsl_city.so.20220623.0.0",
+  "size": 14128,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.938492440Z",
+  "sha256_hash": "1038475130ce7afb3debd522710930ac3317affeba008026e204798bdb77839b",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.306737670Z"
+}

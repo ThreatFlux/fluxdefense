@@ -1,0 +1,15 @@
+{
+  "uuid": "474ec986-4780-4952-8291-c22c37c28121",
+  "path": "/lib/x86_64-linux-gnu/preloadable_libintl.so",
+  "size": 47640,
+  "modified": "2024-04-08T15:58:30Z",
+  "created": "2025-05-29T11:15:44.960348856Z",
+  "sha256_hash": "d1a005c83d5a1c06c7e0a6dab0c2ebd5dc00d2c22d2748fc399e17553e617ab6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.291414996Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "b329c776-28a0-474c-9f68-69135832a9c1",
+  "path": "/usr/bin/gawk",
+  "size": 739840,
+  "modified": "2024-03-31T05:33:52Z",
+  "created": "2025-05-23T03:43:48.619716941Z",
+  "sha256_hash": "b951dad211e5b2fcb1fa989a483c52ca3ce80b9353668307989826b114ce8e0c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.169776945Z"
+}

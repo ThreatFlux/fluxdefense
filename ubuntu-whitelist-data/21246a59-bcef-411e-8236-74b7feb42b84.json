@@ -1,0 +1,15 @@
+{
+  "uuid": "21246a59-bcef-411e-8236-74b7feb42b84",
+  "path": "/sbin/groupmod",
+  "size": 72744,
+  "modified": "2024-05-30T14:52:35Z",
+  "created": "2025-05-09T05:07:38.213617932Z",
+  "sha256_hash": "7e593009972fc3dc692c559d08b31d192d09361d41efc2c6a15b46d501632025",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.794911331Z"
+}

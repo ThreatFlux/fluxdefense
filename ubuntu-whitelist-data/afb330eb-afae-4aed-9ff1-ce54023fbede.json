@@ -1,0 +1,15 @@
+{
+  "uuid": "afb330eb-afae-4aed-9ff1-ce54023fbede",
+  "path": "/bin/dh_installinit",
+  "size": 14301,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.513341269Z",
+  "sha256_hash": "b95af810b81967716ffc7fed5b844cc623fe5ebe0f33f4759d06ff36c0cb6673",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.497172769Z"
+}

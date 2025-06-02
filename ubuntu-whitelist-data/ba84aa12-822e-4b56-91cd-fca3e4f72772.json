@@ -1,0 +1,15 @@
+{
+  "uuid": "ba84aa12-822e-4b56-91cd-fca3e4f72772",
+  "path": "/usr/lib/x86_64-linux-gnu/openvpn/plugins/openvpn-plugin-auth-pam.so",
+  "size": 18576,
+  "modified": "2025-04-01T16:06:17Z",
+  "created": "2025-05-09T05:11:35.246000172Z",
+  "sha256_hash": "98270acf1eb82ccfcba58f25e3f551717a179e8213c105a68d11ff574afc09bc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.844732058Z"
+}

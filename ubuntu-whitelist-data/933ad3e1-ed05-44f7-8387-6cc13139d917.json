@@ -1,0 +1,15 @@
+{
+  "uuid": "933ad3e1-ed05-44f7-8387-6cc13139d917",
+  "path": "/bin/nvidia-smi",
+  "size": 1068640,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:04.094004417Z",
+  "sha256_hash": "85628911be8c64adda4b8431a65444abdf688be3ab61ad05397b319265d55660",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.710680862Z"
+}

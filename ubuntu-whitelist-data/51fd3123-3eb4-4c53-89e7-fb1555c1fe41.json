@@ -1,0 +1,17 @@
+{
+  "uuid": "51fd3123-3eb4-4c53-89e7-fb1555c1fe41",
+  "path": "/usr/lib/firmware/cirrus/cs35l56-b0-dsp1-misc-10280ce4-spkid0-ampr.bin.zst",
+  "size": 4905,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.508542144Z",
+  "sha256_hash": "88d4c7e25a5ddbd55ca0f24c1ae22c99a4d13dcc79c0b5c091005de85f5f38dc",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.410392264Z"
+}

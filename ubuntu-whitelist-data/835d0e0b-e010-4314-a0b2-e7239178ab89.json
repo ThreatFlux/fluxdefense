@@ -1,0 +1,17 @@
+{
+  "uuid": "835d0e0b-e010-4314-a0b2-e7239178ab89",
+  "path": "/lib/x86_64-linux-gnu/liblua5.4.so.0.0.0",
+  "size": 265280,
+  "modified": "2024-03-31T08:03:50Z",
+  "created": "2025-05-09T05:07:31.332722934Z",
+  "sha256_hash": "4b7546b6feee8838bda664963fb00d5c8bcdbd6d6de9fc3286b06cb33ca6d594",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.401561705Z"
+}

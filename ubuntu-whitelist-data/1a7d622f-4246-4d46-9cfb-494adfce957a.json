@@ -1,0 +1,17 @@
+{
+  "uuid": "1a7d622f-4246-4d46-9cfb-494adfce957a",
+  "path": "/lib/x86_64-linux-gnu/libgtop-2.0.so.11.1.0",
+  "size": 84048,
+  "modified": "2024-04-17T11:30:12Z",
+  "created": "2025-05-09T05:07:30.162740787Z",
+  "sha256_hash": "5376c28a0b1e0015c837afb50f7c668381475ea81a2366e24f9d67735c339f3a",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.539702237Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "d5fff868-7da0-469e-a6a6-9d7a3076c31b",
+  "path": "/usr/sbin/tcplife-bpfcc",
+  "size": 16949,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.523499148Z",
+  "sha256_hash": "b515d244a0c38556b0a81e834ac34e74b6c3d4046d602c7e472b953556be80db",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.252718766Z"
+}

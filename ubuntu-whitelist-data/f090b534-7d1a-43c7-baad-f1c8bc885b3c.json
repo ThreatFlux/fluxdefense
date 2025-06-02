@@ -1,0 +1,15 @@
+{
+  "uuid": "f090b534-7d1a-43c7-baad-f1c8bc885b3c",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_policy.so",
+  "size": 19064,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.335631330Z",
+  "sha256_hash": "14f5d49c966350a48b1e7419ff0a638df506beed4755a358c0e0c588dd5caf6b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.674086906Z"
+}

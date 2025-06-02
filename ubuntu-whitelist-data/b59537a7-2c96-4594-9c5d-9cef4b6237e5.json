@@ -1,0 +1,17 @@
+{
+  "uuid": "b59537a7-2c96-4594-9c5d-9cef4b6237e5",
+  "path": "/lib/llvm-18/include/clang/Basic/Stack.h",
+  "size": 1986,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.532533542Z",
+  "sha256_hash": "a1bdb69ae5ec8ad86c53fa5b173cf9497d6d267e0971b3924600121bb6164e11",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.094817042Z"
+}

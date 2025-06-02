@@ -1,0 +1,15 @@
+{
+  "uuid": "e73595b6-3ee5-40c7-9627-af2fc96a7984",
+  "path": "/usr/lib/x86_64-linux-gnu/gawk/fnmatch.so",
+  "size": 14616,
+  "modified": "2024-03-31T05:33:52Z",
+  "created": "2025-05-23T03:43:48.621716868Z",
+  "sha256_hash": "cd2a28a7aad595acf6ccd1b39c7884d4f45f5f012bb7ab3b1f2054c6b2f2bab3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.315722084Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "be48bbb7-ef70-4c12-9bb2-69e5703465c2",
+  "path": "/usr/lib/firmware/meson/vdec/gxl_mpeg4_5.bin.zst",
+  "size": 5032,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.791538225Z",
+  "sha256_hash": "d8e0d8d4ddcf24d46ce64a1816a0eb1f224482d329eeaf9df6b27b26eb66204d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.493187930Z"
+}

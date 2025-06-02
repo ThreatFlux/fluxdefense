@@ -1,0 +1,17 @@
+{
+  "uuid": "791f0f4f-c044-4198-b23d-b9d0f24a75d9",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/mount.pc",
+  "size": 673,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-13T14:30:45.810484386Z",
+  "sha256_hash": "6962e62f1133ac7767d20ca73d9145e663f4ec714df8b0d91e1e48b47c79a09d",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.096294626Z"
+}

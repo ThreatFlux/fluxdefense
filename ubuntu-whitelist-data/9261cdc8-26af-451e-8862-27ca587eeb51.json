@@ -1,0 +1,17 @@
+{
+  "uuid": "9261cdc8-26af-451e-8862-27ca587eeb51",
+  "path": "/usr/lib/llvm-18/include/clang/Lex/MultipleIncludeOpt.h",
+  "size": 6877,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.544533384Z",
+  "sha256_hash": "a3dee62bc1930da30e1e00864f418347e8b2023024309ba09cf9e420ef64f0a8",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.611863252Z"
+}

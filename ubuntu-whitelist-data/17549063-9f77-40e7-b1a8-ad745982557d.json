@@ -1,0 +1,17 @@
+{
+  "uuid": "17549063-9f77-40e7-b1a8-ad745982557d",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/samplerate.pc",
+  "size": 273,
+  "modified": "2024-04-08T16:06:59Z",
+  "created": "2025-05-29T11:16:27.219768976Z",
+  "sha256_hash": "d97d958834f3ebf2472f21fa70eb36dbbedf2b455d7287777ca84bd290b0530e",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.108788332Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "465dfb7e-0ec0-4ee7-b460-34b4caf5c304",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-jsl-rt5682-rt1015.tplg.zst",
+  "size": 1981,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.060490953Z",
+  "sha256_hash": "88650a13ac1800ceaf71d91e6390f4ed6ad461f0d4c33622afe2655cc4ffe3b7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.880397604Z"
+}

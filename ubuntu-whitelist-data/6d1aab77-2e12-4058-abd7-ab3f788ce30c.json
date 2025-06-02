@@ -1,0 +1,17 @@
+{
+  "uuid": "6d1aab77-2e12-4058-abd7-ab3f788ce30c",
+  "path": "/lib/udev/hwdb.d/20-usb-classes.hwdb",
+  "size": 9019,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.056786297Z",
+  "sha256_hash": "f09efef95fbf7693da263f4aa71e5d9140697534f0f5ffc1124608ffa38e90ea",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.252355550Z"
+}

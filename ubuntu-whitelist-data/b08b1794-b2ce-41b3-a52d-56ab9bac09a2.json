@@ -1,0 +1,17 @@
+{
+  "uuid": "b08b1794-b2ce-41b3-a52d-56ab9bac09a2",
+  "path": "/lib/llvm-18/include/clang/Tooling/Execution.h",
+  "size": 7231,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.553533265Z",
+  "sha256_hash": "4fe6be4350f71e9d6bb233a9c0bd78f2ff8484570c7eb9d6006152f342497a4b",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.017837435Z"
+}

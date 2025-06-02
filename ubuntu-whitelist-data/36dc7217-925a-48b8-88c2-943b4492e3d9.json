@@ -1,0 +1,17 @@
+{
+  "uuid": "36dc7217-925a-48b8-88c2-943b4492e3d9",
+  "path": "/lib/firmware/amd-ucode/microcode_amd_fam17h.bin",
+  "size": 12924,
+  "modified": "2024-10-16T05:15:12Z",
+  "created": "2025-05-09T05:08:55.077444908Z",
+  "sha256_hash": "b3f324891c224f00436b4efdcac248da1b82603694f25b6a096f6a0c590dcaf9",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.670093800Z"
+}

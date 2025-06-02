@@ -1,0 +1,15 @@
+{
+  "uuid": "ae20a956-a993-43b8-b0b6-54adef9b845c",
+  "path": "/usr/sbin/grub-reboot",
+  "size": 4841,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.985705759Z",
+  "sha256_hash": "cebd6d8dd66e3ad8e8bfb924e8d0668d631f6ee22deb788be5618370848b55eb",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.578306767Z"
+}

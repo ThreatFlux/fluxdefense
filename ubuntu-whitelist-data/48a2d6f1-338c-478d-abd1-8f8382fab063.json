@@ -1,0 +1,15 @@
+{
+  "uuid": "48a2d6f1-338c-478d-abd1-8f8382fab063",
+  "path": "/lib/x86_64-linux-gnu/gio/modules/libgiognutls.so",
+  "size": 129312,
+  "modified": "2024-03-31T05:56:57Z",
+  "created": "2025-05-09T05:07:35.708656158Z",
+  "sha256_hash": "2a2cad94bafb46045f048fa2be25d64d1c7719079b7f6a60071e3399ec6d77c3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.894750947Z"
+}

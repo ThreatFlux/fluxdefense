@@ -1,0 +1,17 @@
+{
+  "uuid": "08e65a79-e16f-4165-8786-951a2593a013",
+  "path": "/lib/firmware/amdgpu/gc_11_5_1_me.bin.zst",
+  "size": 9490,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.397543682Z",
+  "sha256_hash": "74b7256394a37651d005840d961099223a72f1966f978346f91f9fabd5178028",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.034092194Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a2e7953f-926f-4659-810a-e7e97ac8dab8",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/CapturedStmt.h",
+  "size": 662,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.526533621Z",
+  "sha256_hash": "4a311af1d6302254e7f6fb70ead2693e5681240de96dfeaa15a500d08b93ec2d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.601335571Z"
+}

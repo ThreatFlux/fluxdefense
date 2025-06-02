@@ -1,0 +1,15 @@
+{
+  "uuid": "3c51ffd7-937b-43bd-ab3a-1b30ca6417b5",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adalib/libgnat.a",
+  "size": 8406428,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.112344297Z",
+  "sha256_hash": "17550219e0ea9a209ffb94195bd249db5a29a3720f8a91b055c54c5bacb81076",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.841207190Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "166bc22d-82c8-4da1-bdbb-5d02ab8c7d06",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libipt_icmp.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.330631406Z",
+  "sha256_hash": "9e9c7f0a511ae5190bb090f851a09e50092bafd0b7a8587dfd04f791e6345871",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.264410528Z"
+}

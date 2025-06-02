@@ -1,0 +1,17 @@
+{
+  "uuid": "aa7e6360-25e6-4e3e-bdc1-5802173f4b2b",
+  "path": "/usr/lib/x86_64-linux-gnu/perl-base/Getopt/Long.pm",
+  "size": 44197,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.350578627Z",
+  "sha256_hash": "663907a781b2402d01c56a9445c16328f3c9c76399c986743d149a31693e37a8",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.756377160Z"
+}

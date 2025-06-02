@@ -1,0 +1,17 @@
+{
+  "uuid": "b8d69029-f7d4-4639-9b95-ca7dc0e99e7d",
+  "path": "/lib/llvm-18/include/clang/Basic/Cuda.h",
+  "size": 3158,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.527533608Z",
+  "sha256_hash": "70e30e931ea14fefb770aec5d34bbefcfeae9b8af5086b07f47e3546f357a6e9",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.087773350Z"
+}

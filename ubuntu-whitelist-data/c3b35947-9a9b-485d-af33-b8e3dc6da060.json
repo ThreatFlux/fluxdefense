@@ -1,0 +1,15 @@
+{
+  "uuid": "c3b35947-9a9b-485d-af33-b8e3dc6da060",
+  "path": "/usr/libexec/gvfsd-ftp",
+  "size": 100744,
+  "modified": "2024-04-18T13:39:03Z",
+  "created": "2025-05-09T05:07:37.511628644Z",
+  "sha256_hash": "30ebf35216d19b9291acd3821f0f77026f7c35df1fee0b6112ae7579bb4cb5a3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.446777645Z"
+}

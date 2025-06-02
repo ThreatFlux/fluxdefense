@@ -1,0 +1,15 @@
+{
+  "uuid": "23a732fa-b0b3-4008-9b0b-f2678e6ecc12",
+  "path": "/lib/llvm-18/lib/libLLVMXtensaDisassembler.a",
+  "size": 28812,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.087460387Z",
+  "sha256_hash": "b27de6bf5f30caed9645c7da6df3ea5b6bd8a7a20d0a8c63b6a656a3cf8a0370",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:42.219839236Z"
+}

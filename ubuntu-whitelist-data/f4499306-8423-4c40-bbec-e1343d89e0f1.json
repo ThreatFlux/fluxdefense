@@ -1,0 +1,17 @@
+{
+  "uuid": "f4499306-8423-4c40-bbec-e1343d89e0f1",
+  "path": "/lib/firmware/cis/3CCFEM556.cis.zst",
+  "size": 137,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.510542117Z",
+  "sha256_hash": "387e609875646207d804a63794881606018574d7d275cf42c8c417c117375828",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.343117968Z"
+}

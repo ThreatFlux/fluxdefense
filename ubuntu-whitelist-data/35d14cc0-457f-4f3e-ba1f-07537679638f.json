@@ -1,0 +1,17 @@
+{
+  "uuid": "35d14cc0-457f-4f3e-ba1f-07537679638f",
+  "path": "/usr/lib/python3.12/test/decimaltestdata/scaleb.decTest",
+  "size": 9912,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.997551697Z",
+  "sha256_hash": "2c55727b030963ab728e9228ecaebab7ecff8186dea480b49b959a649160b1a8",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.962820051Z"
+}

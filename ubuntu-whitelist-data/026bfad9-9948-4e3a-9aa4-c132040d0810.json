@@ -1,0 +1,17 @@
+{
+  "uuid": "026bfad9-9948-4e3a-9aa4-c132040d0810",
+  "path": "/bin/cpan5.38-x86_64-linux-gnu",
+  "size": 8381,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.484591846Z",
+  "sha256_hash": "5787995e7fce5d56543cc892a17f9f372849faa45dbb876ff4f2479d154b9c24",
+  "file_type": {
+    "Other": "38-x86_64-linux-gnu"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.898659038Z"
+}

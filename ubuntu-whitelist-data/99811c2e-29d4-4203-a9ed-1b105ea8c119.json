@@ -1,0 +1,17 @@
+{
+  "uuid": "99811c2e-29d4-4203-a9ed-1b105ea8c119",
+  "path": "/lib/x86_64-linux-gnu/libpcsclite.so.1.0.0",
+  "size": 43072,
+  "modified": "2024-03-31T08:13:30Z",
+  "created": "2025-05-09T05:07:31.793715899Z",
+  "sha256_hash": "217e9f69af077e191c91d3f08fb4f394f16df5e39de3085442100cbdd19ab66a",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.790734023Z"
+}

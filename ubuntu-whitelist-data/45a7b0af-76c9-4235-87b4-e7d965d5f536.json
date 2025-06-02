@@ -1,0 +1,15 @@
+{
+  "uuid": "45a7b0af-76c9-4235-87b4-e7d965d5f536",
+  "path": "/bin/patch",
+  "size": 186896,
+  "modified": "2024-04-08T16:15:08Z",
+  "created": "2025-05-09T05:07:20.267891778Z",
+  "sha256_hash": "a7ae8b838a75711c06f86a2a8293dcad85a20b564670a120717e704c436e6f3a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.553937149Z"
+}

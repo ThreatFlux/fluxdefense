@@ -1,0 +1,17 @@
+{
+  "uuid": "3aa86ec1-c5dd-4cdb-b61e-ea8fdacca055",
+  "path": "/usr/lib/llvm-18/include/clang/Frontend/TextDiagnosticBuffer.h",
+  "size": 2308,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "21789661b626a4b88501261ddc15975028e2ca38f8f621b225e96b7cda09e0c3",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.297159676Z"
+}

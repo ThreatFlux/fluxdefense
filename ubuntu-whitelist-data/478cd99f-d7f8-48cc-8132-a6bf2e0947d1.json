@@ -1,0 +1,15 @@
+{
+  "uuid": "478cd99f-d7f8-48cc-8132-a6bf2e0947d1",
+  "path": "/lib/python3/dist-packages/libvirtmod_qemu.cpython-312-x86_64-linux-gnu.so",
+  "size": 35320,
+  "modified": "2024-04-08T16:08:32Z",
+  "created": "2025-05-09T05:56:56.486564584Z",
+  "sha256_hash": "f33fb28fcb343fe4d328f17bfb899bd1c44425a4f6f7b13b2ca247fc26192aec",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.333262123Z"
+}

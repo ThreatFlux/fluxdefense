@@ -1,0 +1,15 @@
+{
+  "uuid": "74da1d26-7c5c-40f8-bf7c-496f3e8ec32e",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstlevel.so",
+  "size": 31120,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.773655166Z",
+  "sha256_hash": "ce6a4ac63be3a8ae28f83bbe31f5c36840630257b9e16ac52fe39676a8196ffb",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.165873091Z"
+}

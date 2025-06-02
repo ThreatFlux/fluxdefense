@@ -1,0 +1,17 @@
+{
+  "uuid": "3d0e66a5-c755-4aef-89a3-95676674b875",
+  "path": "/lib/llvm-18/include/clang-c/CXString.h",
+  "size": 2078,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.554533252Z",
+  "sha256_hash": "f71944bf92e5dedc1541aa9bc741f32bfa2e4e9700c0fd283380f3eb1c1b7b66",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.890350752Z"
+}

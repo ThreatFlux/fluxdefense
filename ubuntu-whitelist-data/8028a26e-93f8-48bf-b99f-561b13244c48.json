@@ -1,0 +1,17 @@
+{
+  "uuid": "8028a26e-93f8-48bf-b99f-561b13244c48",
+  "path": "/usr/lib/modules/6.11.0-26-generic/kernel/lib/bch.ko.zst",
+  "size": 14582,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.114797272Z",
+  "sha256_hash": "2f95405cc17522e89594d2567f390c3e28647e1adfdf6674e7b02044747867bf",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.649432306Z"
+}

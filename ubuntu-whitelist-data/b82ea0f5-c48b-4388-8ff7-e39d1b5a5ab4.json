@@ -1,0 +1,17 @@
+{
+  "uuid": "b82ea0f5-c48b-4388-8ff7-e39d1b5a5ab4",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-valuei.ali",
+  "size": 3433,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.146343830Z",
+  "sha256_hash": "d34f139f34bc3e8381f016ec88310a93a4973235e51e5e5556362837aa186094",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.484266801Z"
+}

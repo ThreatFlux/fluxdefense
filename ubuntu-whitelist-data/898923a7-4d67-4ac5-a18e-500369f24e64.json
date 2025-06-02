@@ -1,0 +1,15 @@
+{
+  "uuid": "898923a7-4d67-4ac5-a18e-500369f24e64",
+  "path": "/bin/systemd-repart",
+  "size": 199912,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.506779266Z",
+  "sha256_hash": "a1d0e5786936a573e6dcdeb8e016270480ffb952f4f226cd456cc7bd4e29e34e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.006503692Z"
+}

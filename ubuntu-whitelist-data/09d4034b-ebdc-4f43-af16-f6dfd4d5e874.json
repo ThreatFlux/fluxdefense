@@ -1,0 +1,17 @@
+{
+  "uuid": "09d4034b-ebdc-4f43-af16-f6dfd4d5e874",
+  "path": "/lib/systemd/user/dirmngr.socket",
+  "size": 204,
+  "modified": "2024-03-01T08:25:55Z",
+  "created": "2025-05-09T05:11:23.113185375Z",
+  "sha256_hash": "ecf24112b56a505e2bf90bcefe07d5582a3804213218ff49a38fe0a3345c7e3b",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.141294947Z"
+}

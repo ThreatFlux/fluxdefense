@@ -1,0 +1,17 @@
+{
+  "uuid": "d34927e6-b854-4b4b-a804-19c54afb4ed0",
+  "path": "/usr/lib/x86_64-linux-gnu/libnode.so.109",
+  "size": 47772280,
+  "modified": "2024-04-18T19:08:10Z",
+  "created": "2025-05-13T14:32:06.878898421Z",
+  "sha256_hash": "ce7cb9cd408c412090c86dada332aaa82650679ed1b32527768c8dbd8c4028d0",
+  "file_type": {
+    "Other": "109"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.222066218Z"
+}

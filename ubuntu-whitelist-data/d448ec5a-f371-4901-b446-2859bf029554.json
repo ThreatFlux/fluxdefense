@@ -1,0 +1,15 @@
+{
+  "uuid": "d448ec5a-f371-4901-b446-2859bf029554",
+  "path": "/lib/x86_64-linux-gnu/qemu/block-rbd.so",
+  "size": 40312,
+  "modified": "2025-03-13T16:15:00Z",
+  "created": "2025-05-22T16:56:50.031984291Z",
+  "sha256_hash": "43e0e844489acdbc2f648184b049740ce7062e7effe720e0f539eaae6d16fc4d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.283328896Z"
+}

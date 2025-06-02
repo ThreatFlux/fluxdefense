@@ -1,0 +1,17 @@
+{
+  "uuid": "1447ca34-6b4e-4ef3-93bc-5cdb9c672cb6",
+  "path": "/lib/x86_64-linux-gnu/sasl2/libscram.so.2.0.25",
+  "size": 48280,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T05:07:37.178633726Z",
+  "sha256_hash": "bb7362a0ba1c2668522286dbeddc52965a903e2d9ed7fc636d0ecf1a4c6e9d12",
+  "file_type": {
+    "Other": "25"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.865438466Z"
+}

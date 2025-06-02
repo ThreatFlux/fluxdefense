@@ -1,0 +1,15 @@
+{
+  "uuid": "280f5a01-8fbe-45b8-afd6-f8521a6492a5",
+  "path": "/sbin/swapon",
+  "size": 43392,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.431614605Z",
+  "sha256_hash": "5e33470de4fc8772de9f282bc210cecdf4d8604ed8c1e8c1a770608249a658d4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.741312591Z"
+}

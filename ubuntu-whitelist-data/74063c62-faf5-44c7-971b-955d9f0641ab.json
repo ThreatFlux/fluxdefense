@@ -1,0 +1,17 @@
+{
+  "uuid": "74063c62-faf5-44c7-971b-955d9f0641ab",
+  "path": "/lib/google-cloud-sdk/platform/ext-runtime/custom/app.yaml",
+  "size": 26,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.305922206Z",
+  "sha256_hash": "b5095b601dae998822622f00a96827bc26066c35554c92e23de574d396093ff9",
+  "file_type": {
+    "Other": "yaml"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.982375191Z"
+}

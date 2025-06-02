@@ -1,0 +1,17 @@
+{
+  "uuid": "06e91078-42ab-4a53-a394-ba952349d428",
+  "path": "/lib/systemd/system/local-fs-pre.target",
+  "size": 453,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "4190c957c05d5b97b3f2f662504b65cbdc7398668850eb82a715af073a57d6e3",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.104863232Z"
+}

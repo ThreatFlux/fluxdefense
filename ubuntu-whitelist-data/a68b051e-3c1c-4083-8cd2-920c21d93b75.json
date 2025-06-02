@@ -1,0 +1,15 @@
+{
+  "uuid": "a68b051e-3c1c-4083-8cd2-920c21d93b75",
+  "path": "/lib/snapd/snapd.core-fixup.sh",
+  "size": 3826,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.598028674Z",
+  "sha256_hash": "8e25ead974b2150aa99699a1c81437534e57fd5c331022ebc4ba6869fd01c523",
+  "file_type": "Script",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.543331982Z"
+}

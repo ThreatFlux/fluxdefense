@@ -1,0 +1,17 @@
+{
+  "uuid": "f0d1c8d8-9578-42fd-ab52-d33a870b3053",
+  "path": "/lib/firmware/libertas/sd8385.bin.zst",
+  "size": 65328,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.669539914Z",
+  "sha256_hash": "7c95cd199ef97a6092db22e3583e1439d35032b74010c18f2f94c073b3414200",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:01.954049207Z"
+}

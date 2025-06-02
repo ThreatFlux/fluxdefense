@@ -1,0 +1,15 @@
+{
+  "uuid": "c0fbe2d9-5465-4ddf-a528-802bfcb360cb",
+  "path": "/usr/libexec/nm-pptp-service",
+  "size": 63960,
+  "modified": "2024-03-31T09:21:08Z",
+  "created": "2025-05-09T05:07:37.549628065Z",
+  "sha256_hash": "a8f1c416d33bb2672534c2b25083fcd333977cf3f8e5b41fefebb4d913d8b25b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.259266597Z"
+}

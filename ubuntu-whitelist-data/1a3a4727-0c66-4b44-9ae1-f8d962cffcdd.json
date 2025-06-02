@@ -1,0 +1,17 @@
+{
+  "uuid": "1a3a4727-0c66-4b44-9ae1-f8d962cffcdd",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/opus.pc",
+  "size": 375,
+  "modified": "2024-04-08T16:14:57Z",
+  "created": "2025-05-13T14:33:19.372595470Z",
+  "sha256_hash": "08518ac1927f1f44daa777de41c9c8d80c51ec87009ba95fb2217683bdbd3596",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.058668571Z"
+}

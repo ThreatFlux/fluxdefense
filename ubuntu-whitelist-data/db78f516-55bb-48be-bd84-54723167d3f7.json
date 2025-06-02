@@ -1,0 +1,15 @@
+{
+  "uuid": "db78f516-55bb-48be-bd84-54723167d3f7",
+  "path": "/usr/lib/x86_64-linux-gnu/security/pam_succeed_if.so",
+  "size": 18584,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:37.206633299Z",
+  "sha256_hash": "3382f21374f75786bc373e7cac13f3b709da30d48adfa96d300a2b71a39aab33",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.654327228Z"
+}

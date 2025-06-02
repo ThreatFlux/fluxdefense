@@ -1,0 +1,17 @@
+{
+  "uuid": "2511eff5-4089-4504-91a9-acf30e0217af",
+  "path": "/usr/lib/x86_64-linux-gnu/libwebkit2gtk-4.1.so.0.17.6",
+  "size": 87981016,
+  "modified": "2025-04-07T15:14:55Z",
+  "created": "2025-05-09T05:11:29.947081059Z",
+  "sha256_hash": "428ab27ea9378ee2fd6435a93a2cfc2b06a0d26f4254b0903f983cc95f64f632",
+  "file_type": {
+    "Other": "6"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.449911948Z"
+}

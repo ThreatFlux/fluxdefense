@@ -1,0 +1,17 @@
+{
+  "uuid": "46b09411-d659-49d1-bcd5-2d43c8d8ded3",
+  "path": "/lib/x86_64-linux-gnu/libdrm_amdgpu.so.1.0.0",
+  "size": 47640,
+  "modified": "2024-08-02T12:33:15Z",
+  "created": "2025-05-09T05:07:29.357753071Z",
+  "sha256_hash": "0c5314904a10d7b20fea157d39771ca8e3a36b28c65d4a0ec0f6f4dd4cecaac7",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:31.087706072Z"
+}

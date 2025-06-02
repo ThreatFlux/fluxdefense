@@ -1,0 +1,17 @@
+{
+  "uuid": "546366ff-5055-4289-932b-1a91408e1495",
+  "path": "/lib/python3.12/test/clinic.test.c",
+  "size": 141921,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.988551815Z",
+  "sha256_hash": "2c6c3d3d2ebda9a2a745febfb14b555dd9d9fcfdcbbbe5a516b48032e5fecd73",
+  "file_type": {
+    "Other": "c"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.552665786Z"
+}

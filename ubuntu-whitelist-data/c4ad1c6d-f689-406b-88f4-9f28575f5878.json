@@ -1,0 +1,17 @@
+{
+  "uuid": "c4ad1c6d-f689-406b-88f4-9f28575f5878",
+  "path": "/lib/firmware/nvidia/gm206/acr/ucode_unload.bin.zst",
+  "size": 506,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.937536202Z",
+  "sha256_hash": "a50082c39ec8cfb0a56079702b8ddb231e905ad67d295190fe3ad9b6eec0604e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.434805025Z"
+}

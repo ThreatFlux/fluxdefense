@@ -1,0 +1,17 @@
+{
+  "uuid": "2c55062b-2620-435f-a204-3630b7b2735c",
+  "path": "/lib/python3.12/test/certdata/secp384r1.pem",
+  "size": 256,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.987551828Z",
+  "sha256_hash": "1cf93ad5d32bdc4ab545a70f4e5ff51036251c978dc1023e9b0346b8a673e6a1",
+  "file_type": {
+    "Other": "pem"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.634761724Z"
+}

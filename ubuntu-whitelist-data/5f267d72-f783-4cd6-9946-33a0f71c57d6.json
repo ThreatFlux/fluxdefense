@@ -1,0 +1,17 @@
+{
+  "uuid": "5f267d72-f783-4cd6-9946-33a0f71c57d6",
+  "path": "/lib/systemd/system-generators/openvpn-generator",
+  "size": 899,
+  "modified": "2024-09-17T17:27:52Z",
+  "created": "2025-05-09T05:11:35.246000172Z",
+  "sha256_hash": "addb7f1ca1f7a204237511c6358ae542268291e33124a056575d6f1409316fb5",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.086883870Z"
+}

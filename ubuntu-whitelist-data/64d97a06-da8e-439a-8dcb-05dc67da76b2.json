@@ -1,0 +1,17 @@
+{
+  "uuid": "64d97a06-da8e-439a-8dcb-05dc67da76b2",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-imx8ulp-9x9-btsco.tplg.zst",
+  "size": 741,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.060490953Z",
+  "sha256_hash": "03ea5606a978bef0c041d92f1a873d9ffa755610d2871c478c3009ad764a0437",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.895618273Z"
+}

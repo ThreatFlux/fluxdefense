@@ -1,0 +1,17 @@
+{
+  "uuid": "9d6ba879-379b-42c1-a509-2787a6ee4d3b",
+  "path": "/usr/lib/grub/x86_64-efi/cbls.mod",
+  "size": 5736,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.802708552Z",
+  "sha256_hash": "4068afb1b22fa850d78d43fdc4cca6320ebb116257e6411ad5f5dcd5b755ea5e",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.488540939Z"
+}

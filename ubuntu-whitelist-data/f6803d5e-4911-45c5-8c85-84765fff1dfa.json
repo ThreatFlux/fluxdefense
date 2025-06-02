@@ -1,0 +1,15 @@
+{
+  "uuid": "f6803d5e-4911-45c5-8c85-84765fff1dfa",
+  "path": "/lib/i386-linux-gnu/gconv/CP1258.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.271663553Z",
+  "sha256_hash": "8706134ed17e6c6b237e024cd2366168688b3ca5a7434aeb9557cc91b75eb650",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.867311968Z"
+}

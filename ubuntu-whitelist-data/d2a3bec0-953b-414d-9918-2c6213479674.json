@@ -1,0 +1,17 @@
+{
+  "uuid": "d2a3bec0-953b-414d-9918-2c6213479674",
+  "path": "/lib/systemd/system/systemd-network-generator.service",
+  "size": 792,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "f01f5e18ae24627d7a4dd64fe9df7e1618896ddf3d05d4fabcea0cdf11afbf76",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.113025819Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "2185b74f-be15-4981-b62d-ac206b53ee0d",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-tgl-rt711-rt1316-rt714.tplg.zst",
+  "size": 1890,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.061490937Z",
+  "sha256_hash": "1126c1ee18d192642639076ae63ee02725d924093d13acd615e43fbc38a0eb42",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.891795733Z"
+}

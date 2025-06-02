@@ -1,0 +1,15 @@
+{
+  "uuid": "5dffd0c7-9611-433b-b30e-71163f87d06c",
+  "path": "/usr/bin/dpkg-trigger",
+  "size": 43552,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T05:07:19.183908319Z",
+  "sha256_hash": "0d87084177cfe7ec8980bc7cf6c77f4d19d3139e9a285a4dc94f8502aeee28fd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:08.054641711Z"
+}

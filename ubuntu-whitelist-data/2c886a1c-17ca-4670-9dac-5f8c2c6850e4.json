@@ -1,0 +1,17 @@
+{
+  "uuid": "2c886a1c-17ca-4670-9dac-5f8c2c6850e4",
+  "path": "/lib/systemd/system/sssd-sudo.service",
+  "size": 479,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:28.301769185Z",
+  "sha256_hash": "e133d1e4e76a2f5cdd1d539ac25a79ddab27bce14b736b48b2889ca4ad0bcdfd",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.116267908Z"
+}

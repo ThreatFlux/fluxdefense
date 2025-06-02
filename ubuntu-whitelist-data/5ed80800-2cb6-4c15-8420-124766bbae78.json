@@ -1,0 +1,17 @@
+{
+  "uuid": "5ed80800-2cb6-4c15-8420-124766bbae78",
+  "path": "/usr/lib/systemd/system/system-systemd\\x2dveritysetup.slice",
+  "size": 463,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "1c6d548fc0c321cc8360fa294daaa15e62307a9c396a7d7de0cdfbe438591267",
+  "file_type": {
+    "Other": "slice"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.469600632Z"
+}

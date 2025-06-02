@@ -1,0 +1,17 @@
+{
+  "uuid": "3fbbcc6c-1bff-4839-8096-2c9a9bf151ec",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-cohata.ali",
+  "size": 3664,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.097344503Z",
+  "sha256_hash": "db065cb98896efc3eb1424598d1c95be33bbeb7c7792c72570641e6a443b8a50",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.714438635Z"
+}

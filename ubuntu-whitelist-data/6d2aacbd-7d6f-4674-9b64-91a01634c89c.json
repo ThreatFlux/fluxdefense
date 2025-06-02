@@ -1,0 +1,15 @@
+{
+  "uuid": "6d2aacbd-7d6f-4674-9b64-91a01634c89c",
+  "path": "/usr/lib/llvm-18/lib/libfindAllSymbols.a",
+  "size": 581280,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.922528406Z",
+  "sha256_hash": "a8291d0f43a6b7078f639fe38e241475c3857e549ba285d534412a783a2cc5e6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:34.289175182Z"
+}

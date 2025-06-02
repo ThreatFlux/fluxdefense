@@ -1,0 +1,15 @@
+{
+  "uuid": "f73510d4-ba88-487d-90b1-d18ab2cf1b56",
+  "path": "/usr/lib/google-cloud-sdk/bin/gcloud-crc32c",
+  "size": 1600888,
+  "modified": "2025-05-23T11:56:37Z",
+  "created": "2025-05-29T15:06:07.322921917Z",
+  "sha256_hash": "012cfede84fa424b3889a5fc5a32f47beb6f13631b81631f6c73264ca1aca697",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.519624095Z"
+}

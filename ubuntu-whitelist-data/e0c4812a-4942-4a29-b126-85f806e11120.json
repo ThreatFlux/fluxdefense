@@ -1,0 +1,17 @@
+{
+  "uuid": "e0c4812a-4942-4a29-b126-85f806e11120",
+  "path": "/usr/lib/llvm-18/include/clang/Analysis/BodyFarm.h",
+  "size": 1566,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.523533660Z",
+  "sha256_hash": "67e7c2b51b89f3ea2bc2f4ad18d16c07b5f24ce3fed0d5764cb758aa9580aaae",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.628210878Z"
+}

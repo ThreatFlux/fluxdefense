@@ -1,0 +1,17 @@
+{
+  "uuid": "a0eac0e8-475e-4626-9856-893fa843e63f",
+  "path": "/usr/lib/systemd/user/org.gnome.SettingsDaemon.MediaKeys.service",
+  "size": 786,
+  "modified": "2024-04-18T10:59:35Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "caabd83c6b813a30b2bae2a71e4a6e1227cb41392573d486e49ac70c0cfa63dd",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.498160912Z"
+}

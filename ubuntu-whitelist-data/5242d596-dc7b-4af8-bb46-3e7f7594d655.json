@@ -1,0 +1,17 @@
+{
+  "uuid": "5242d596-dc7b-4af8-bb46-3e7f7594d655",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/Opcode.pm",
+  "size": 16374,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.519591312Z",
+  "sha256_hash": "376e5cb90ed4ac25072b8926097898d9bf6607b1017ad235b37f88d553c006c2",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.600649997Z"
+}

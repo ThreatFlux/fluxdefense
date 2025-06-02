@@ -1,0 +1,17 @@
+{
+  "uuid": "db4330c3-a1e6-4e5a-8bb6-e42dde0fc1ad",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-tposen.ali",
+  "size": 10930,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.145343843Z",
+  "sha256_hash": "af080e9d523c0155062f7a6c8158a24b94f10c725fc63e0853e02a41739d1de4",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.682304608Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "f1c83c03-26b7-4615-8c30-0ed4ff787c16",
+  "path": "/lib/x86_64-linux-gnu/totem/plugins/im-status/libtotem-im-status.so",
+  "size": 26856,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:37.297631910Z",
+  "sha256_hash": "4a69f5d1bef9ec8bb4bd1a7d2fe6dbd7ad00370ea9ce76f1e9417ce11773780b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.420786865Z"
+}

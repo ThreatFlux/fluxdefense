@@ -1,0 +1,17 @@
+{
+  "uuid": "cf570ba8-0f60-409d-84b5-67266c15af76",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/modernize/AvoidBindCheck.h",
+  "size": 1430,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "c749300ee1ce92fc4a55397e2c0250b2204c42886e9c027ab4ae54ad3b513695",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.258137848Z"
+}

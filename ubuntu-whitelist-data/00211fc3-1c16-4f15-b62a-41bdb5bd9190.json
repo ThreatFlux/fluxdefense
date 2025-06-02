@@ -1,0 +1,17 @@
+{
+  "uuid": "00211fc3-1c16-4f15-b62a-41bdb5bd9190",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/asm-generic/termbits.ph",
+  "size": 5775,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.521591281Z",
+  "sha256_hash": "4f18f273dc906b86366e1068af5d645abce682b98b98936d17783ec88009f78f",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.697502541Z"
+}

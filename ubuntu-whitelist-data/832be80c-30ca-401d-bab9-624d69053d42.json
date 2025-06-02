@@ -1,0 +1,17 @@
+{
+  "uuid": "832be80c-30ca-401d-bab9-624d69053d42",
+  "path": "/usr/lib/systemd/user/gnome-session-initialized.target",
+  "size": 531,
+  "modified": "2024-03-18T19:30:06Z",
+  "created": "2025-05-09T05:07:28.305769124Z",
+  "sha256_hash": "9e7109b231f35dcce65034e9010e47087e68ce32cbe90ee2db1dbb8a2318c4ad",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.505179746Z"
+}

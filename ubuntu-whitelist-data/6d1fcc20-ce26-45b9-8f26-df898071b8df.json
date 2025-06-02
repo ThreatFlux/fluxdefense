@@ -1,0 +1,17 @@
+{
+  "uuid": "6d1fcc20-ce26-45b9-8f26-df898071b8df",
+  "path": "/usr/lib/x86_64-linux-gnu/libnettle.so.8.8",
+  "size": 342280,
+  "modified": "2024-08-09T02:33:22Z",
+  "created": "2025-05-09T05:07:31.711717150Z",
+  "sha256_hash": "a245ed916229583d6fe0b07657b3ed945bc148c28cc08b5266295f620d2b91cc",
+  "file_type": {
+    "Other": "8"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.690091101Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a0df467f-6774-4612-ab2e-8c407ce4e2b9",
+  "path": "/lib/x86_64-linux-gnu/libunwind.so.8.0.1",
+  "size": 63776,
+  "modified": "2024-10-02T12:40:51Z",
+  "created": "2025-05-09T05:07:32.346707460Z",
+  "sha256_hash": "28e77a498f2f17f8cb883c91303f9901343ea0d8e34959d138dd462fcc9b201f",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.462794580Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "21f35ebb-e4a3-41a0-b8dd-5a6ce5dc6dbd",
+  "path": "/lib/ipxe/qemu/compat-256k-efi-e1000.rom",
+  "size": 252928,
+  "modified": "2024-04-16T21:48:11Z",
+  "created": "2025-05-09T05:56:50.553631220Z",
+  "sha256_hash": "70670a3f984c8f4ac6dcc787ee3e36ab3a9076e15a9b5e9686660a7fe4eaea8d",
+  "file_type": {
+    "Other": "rom"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.476331729Z"
+}

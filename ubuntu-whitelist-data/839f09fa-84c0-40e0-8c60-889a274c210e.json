@@ -1,0 +1,17 @@
+{
+  "uuid": "839f09fa-84c0-40e0-8c60-889a274c210e",
+  "path": "/lib/firmware/ath11k/QCA2066/hw2.1/m3.bin.zst",
+  "size": 117051,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.458542837Z",
+  "sha256_hash": "571efaa1722b6b7849cd3c6f1c796e6f7ae1abed45d2bd2d1da376b9a9daff70",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:03.293041040Z"
+}

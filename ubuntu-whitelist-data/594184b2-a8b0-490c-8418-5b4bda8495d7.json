@@ -1,0 +1,15 @@
+{
+  "uuid": "594184b2-a8b0-490c-8418-5b4bda8495d7",
+  "path": "/bin/pod2man",
+  "size": 18898,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.073582856Z",
+  "sha256_hash": "fdcf8ff920a7461cad02121890b58039f01206809cea6e09eef84692eb793a17",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.005264645Z"
+}

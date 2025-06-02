@@ -1,0 +1,15 @@
+{
+  "uuid": "8486f284-ec93-4978-97bf-d1165a620a14",
+  "path": "/usr/sbin/update-cracklib",
+  "size": 1182,
+  "modified": "2022-11-29T07:26:33Z",
+  "created": "2025-05-09T05:07:38.449614331Z",
+  "sha256_hash": "d27b77e4169d05540c2a4fbfd409f7123fdc771f34eba79ba4fb4258ec5f96ed",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.325105921Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "746ac0ff-d679-4cb6-87ab-0b884bccdd68",
+  "path": "/usr/lib/firmware/nxp/uartspi_n61x_v1.bin.se.zst",
+  "size": 252123,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.962535856Z",
+  "sha256_hash": "092c6a880826b478faea3d4a6b08c7a9b2b2a173b8adadc67ac2c0f2fac6e926",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.551902234Z"
+}

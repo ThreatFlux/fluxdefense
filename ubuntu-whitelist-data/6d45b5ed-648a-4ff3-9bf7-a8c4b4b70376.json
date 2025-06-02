@@ -1,0 +1,17 @@
+{
+  "uuid": "6d45b5ed-648a-4ff3-9bf7-a8c4b4b70376",
+  "path": "/lib/x86_64-linux-gnu/libsgutils2-1.46.so.2.0.0",
+  "size": 268800,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:32.160710299Z",
+  "sha256_hash": "c64672f8a71d1d13fac5ba39031d652bf13cb65fe5c9830d69c01c12f3530539",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:32.885761429Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "290be0c7-d7d5-4e93-825b-9a62f470e066",
+  "path": "/usr/lib/x86_64-linux-gnu/libpsx.so.2.66",
+  "size": 22744,
+  "modified": "2025-02-20T15:49:57Z",
+  "created": "2025-05-09T05:11:22.546194030Z",
+  "sha256_hash": "b2056c5a90068bbb7877a9635ba2e02ad74c49b955d71f9b0a975f147ea9468d",
+  "file_type": {
+    "Other": "66"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.184790469Z"
+}

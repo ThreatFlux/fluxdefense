@@ -1,0 +1,17 @@
+{
+  "uuid": "8d65f1dc-ac19-4a47-a07d-cf349c6d0e88",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/Visibility.h",
+  "size": 4649,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.532533542Z",
+  "sha256_hash": "42e87f72df17e6d2ce9e1715c76888fce2cbfaef4e75754271b94c9de386ceaf",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.552472009Z"
+}

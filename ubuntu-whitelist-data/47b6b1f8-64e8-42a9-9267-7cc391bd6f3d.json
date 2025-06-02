@@ -1,0 +1,15 @@
+{
+  "uuid": "47b6b1f8-64e8-42a9-9267-7cc391bd6f3d",
+  "path": "/usr/lib/x86_64-linux-gnu/libns-9.18.30-0ubuntu0.24.04.2-Ubuntu.so",
+  "size": 320552,
+  "modified": "2025-01-28T14:26:30Z",
+  "created": "2025-05-09T05:07:31.728716891Z",
+  "sha256_hash": "1b340ae33107e28b170f427c3fa014f5ba6a44b4096d9a1ae25ea1304652d15e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.165544928Z"
+}

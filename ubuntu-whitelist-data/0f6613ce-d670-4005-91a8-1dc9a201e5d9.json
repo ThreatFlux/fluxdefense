@@ -1,0 +1,17 @@
+{
+  "uuid": "0f6613ce-d670-4005-91a8-1dc9a201e5d9",
+  "path": "/lib/firmware/ath11k/QCA6390/hw2.0/m3.bin.zst",
+  "size": 127598,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.460542809Z",
+  "sha256_hash": "f31d9464055ca78951f8e30db544a8ad73a40d11870df61445a8a572539b6778",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:03.441625027Z"
+}

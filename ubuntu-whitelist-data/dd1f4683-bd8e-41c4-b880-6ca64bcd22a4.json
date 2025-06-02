@@ -1,0 +1,15 @@
+{
+  "uuid": "dd1f4683-bd8e-41c4-b880-6ca64bcd22a4",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstnavigationtest.so",
+  "size": 22928,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.774655151Z",
+  "sha256_hash": "3901a226c74f346fe1a3d44bdf063370c2503c0299d1fc541f843397e557b3a5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.921912960Z"
+}

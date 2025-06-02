@@ -1,0 +1,15 @@
+{
+  "uuid": "db886bfc-48d6-46ea-8f6a-77b5cea49197",
+  "path": "/bin/mbim-network",
+  "size": 11342,
+  "modified": "2024-03-31T02:07:22Z",
+  "created": "2025-05-09T05:07:20.169893274Z",
+  "sha256_hash": "8982d6bf81d0e76fd31cf72c20790548f0819cd4200e4d0b93984673518a84bd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.288772731Z"
+}

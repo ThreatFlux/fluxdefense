@@ -1,0 +1,17 @@
+{
+  "uuid": "a389b6a2-06a8-4f92-80a2-64db038593bd",
+  "path": "/lib/google-cloud-sdk/completion.bash.inc",
+  "size": 2711,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.327921832Z",
+  "sha256_hash": "8c9e86cdb82cf777646e868430c1c9d54a47374400cf81d3fd329bb6a8a5e428",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.069170133Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "bf8cf993-8106-4c2f-9750-9a9d8c9645dd",
+  "path": "/usr/bin/dh_installsystemduser",
+  "size": 8650,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.514341255Z",
+  "sha256_hash": "5898de5362f1d4e560748348b5fabd2c489cfb0b751ef2e621b8c602a2427790",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.088207619Z"
+}

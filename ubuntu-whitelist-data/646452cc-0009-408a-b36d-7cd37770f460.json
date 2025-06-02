@@ -1,0 +1,17 @@
+{
+  "uuid": "646452cc-0009-408a-b36d-7cd37770f460",
+  "path": "/lib/firmware/ti-connectivity/TIInit_6.2.31.bts.zst",
+  "size": 30317,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.075534291Z",
+  "sha256_hash": "2d7e51e46368ed9a4e6783776a0f1f37bafa8fbaf01856c2d4444cc79fa459ca",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.540456541Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "ddbfc1d8-5ede-4399-8c69-560e425a70fa",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-geveop.adb",
+  "size": 6153,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.078344764Z",
+  "sha256_hash": "439edff6edb0d995e67d79e141f0688621dcfb41da74cb0cf509b73e0ba417ed",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.305338767Z"
+}

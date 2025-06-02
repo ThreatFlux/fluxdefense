@@ -1,0 +1,17 @@
+{
+  "uuid": "00cd2dbe-3174-43bd-849c-b3cee7968a36",
+  "path": "/bin/ntfs-3g.probe",
+  "size": 14720,
+  "modified": "2024-04-08T14:46:29Z",
+  "created": "2025-05-09T05:07:20.242892160Z",
+  "sha256_hash": "c10ed050bdf72df4403824d39d420f89ce7211ef71f6e0018b91053c7e5798e9",
+  "file_type": {
+    "Other": "probe"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.914098193Z"
+}

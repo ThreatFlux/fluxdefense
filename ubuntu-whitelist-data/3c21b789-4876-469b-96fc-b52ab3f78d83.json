@@ -1,0 +1,15 @@
+{
+  "uuid": "3c21b789-4876-469b-96fc-b52ab3f78d83",
+  "path": "/usr/lib/update-notifier/package-data-downloader",
+  "size": 12112,
+  "modified": "2024-10-08T13:47:14Z",
+  "created": "2025-05-09T05:24:21.991888836Z",
+  "sha256_hash": "391e6221124df1be64aa64dc84e094dffd2165f6a708ee1db29aabffa0559aaf",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.268099172Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "9e0ba5b5-1080-4df2-8ad6-aaf631bde57c",
+  "path": "/usr/lib/modules/6.11.0-25-generic/kernel/crypto/pcrypt.ko.zst",
+  "size": 5599,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.099459834Z",
+  "sha256_hash": "5f8630af45d7b7e1eb1cd67cb922ac5e9f373de76f8120358d34cb6bf407813d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.036053624Z"
+}

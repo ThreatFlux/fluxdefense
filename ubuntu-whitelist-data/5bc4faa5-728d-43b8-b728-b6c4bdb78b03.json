@@ -1,0 +1,17 @@
+{
+  "uuid": "5bc4faa5-728d-43b8-b728-b6c4bdb78b03",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/asm-generic/sockios.ph",
+  "size": 683,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.521591281Z",
+  "sha256_hash": "7642c2f16bdabccb326f5e2f42676f25084f781d95ded37d62fea052a8e6364a",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.697673250Z"
+}

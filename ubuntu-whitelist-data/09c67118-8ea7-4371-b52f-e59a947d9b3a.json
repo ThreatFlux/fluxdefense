@@ -1,0 +1,17 @@
+{
+  "uuid": "09c67118-8ea7-4371-b52f-e59a947d9b3a",
+  "path": "/lib/x86_64-linux-gnu/libinstpatch-1.0.so.2.2.0",
+  "size": 736520,
+  "modified": "2024-03-31T07:50:31Z",
+  "created": "2025-05-29T11:16:22.098839250Z",
+  "sha256_hash": "2ae5446e8422beaabf2a9d8e50d1ef035efdbe9721e38270b79a9193ac20b7ae",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.283510644Z"
+}

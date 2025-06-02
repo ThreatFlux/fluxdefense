@@ -1,0 +1,17 @@
+{
+  "uuid": "f2f6ad0b-ad82-432c-9941-24daa6f02d3c",
+  "path": "/lib/firmware/cxgb4/bcm8483.bin.zst",
+  "size": 114500,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.512542089Z",
+  "sha256_hash": "0e7b2c12eaa4e01f5fa0392a7f59594ba1c6332244e228c804b4e0babf9be081",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.640833374Z"
+}

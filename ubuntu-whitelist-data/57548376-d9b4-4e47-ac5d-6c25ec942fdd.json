@@ -1,0 +1,17 @@
+{
+  "uuid": "57548376-d9b4-4e47-ac5d-6c25ec942fdd",
+  "path": "/lib/x86_64-linux-gnu/libatk-1.0.so.0.25209.1",
+  "size": 170064,
+  "modified": "2024-04-08T14:37:40Z",
+  "created": "2025-05-09T05:07:29.180755772Z",
+  "sha256_hash": "d312f3dbed8f19037bf4d8581f0e41ddfe53796dc7abbc9b7f253495d472a923",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.826663927Z"
+}

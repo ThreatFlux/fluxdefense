@@ -1,0 +1,17 @@
+{
+  "uuid": "5bf5fce8-bfe0-4840-9b79-6e194626da92",
+  "path": "/usr/lib/llvm-18/include/clang/Driver/Distro.h",
+  "size": 3524,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.540533437Z",
+  "sha256_hash": "1fe1a448c6785dcfbaace9e3ca629f9eb17959ef13421d5a73e92185da1062e2",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.429705983Z"
+}

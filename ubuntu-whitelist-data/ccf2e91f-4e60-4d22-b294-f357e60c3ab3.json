@@ -1,0 +1,17 @@
+{
+  "uuid": "ccf2e91f-4e60-4d22-b294-f357e60c3ab3",
+  "path": "/lib/x86_64-linux-gnu/librte_mempool.so.24.0",
+  "size": 47552,
+  "modified": "2024-12-18T18:31:38Z",
+  "created": "2025-05-26T20:18:25.684043637Z",
+  "sha256_hash": "85d6cdbfa86c7d26cfbfee303d2f6d3d17eaa4c6539a82973b0dddad5fbd0b73",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.459492072Z"
+}

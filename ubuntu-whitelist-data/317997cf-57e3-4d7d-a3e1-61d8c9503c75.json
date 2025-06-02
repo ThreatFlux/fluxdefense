@@ -1,0 +1,17 @@
+{
+  "uuid": "317997cf-57e3-4d7d-a3e1-61d8c9503c75",
+  "path": "/usr/lib/systemd/system/shutdown.target",
+  "size": 457,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "66be4f001c56d7a7b8d2dc636b951acd8627d92281ff5688a746586b34a48e72",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.452291087Z"
+}

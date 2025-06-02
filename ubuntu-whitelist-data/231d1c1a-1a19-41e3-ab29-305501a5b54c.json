@@ -1,0 +1,17 @@
+{
+  "uuid": "231d1c1a-1a19-41e3-ab29-305501a5b54c",
+  "path": "/lib/systemd/system/systemd-random-seed.service",
+  "size": 1187,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "e4b935cc3c5aa680af2addebc0af1507d46c0f0f638bed3497a46b1db0ee51f6",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.110893311Z"
+}

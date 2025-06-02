@@ -1,0 +1,15 @@
+{
+  "uuid": "adf543ba-e957-4fca-bb45-dac8e84b2647",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstequalizer.so",
+  "size": 35064,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.772655181Z",
+  "sha256_hash": "36e438ea98025b35621b7a2e25ce80fb8003c8b56b3fb26a7958c358dfdbaf6a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.192947784Z"
+}

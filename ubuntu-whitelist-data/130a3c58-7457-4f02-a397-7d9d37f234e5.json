@@ -1,0 +1,17 @@
+{
+  "uuid": "130a3c58-7457-4f02-a397-7d9d37f234e5",
+  "path": "/usr/lib/systemd/system/ua-timer.service",
+  "size": 640,
+  "modified": "2025-02-19T13:15:01Z",
+  "created": "2025-05-09T05:24:25.021928480Z",
+  "sha256_hash": "2bebcb43a4e48724223e58caa0e412e67b58992d916adf72a8a7ca20a34cb551",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.451225525Z"
+}

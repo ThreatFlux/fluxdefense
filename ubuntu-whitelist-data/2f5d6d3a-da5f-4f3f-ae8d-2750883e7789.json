@@ -1,0 +1,17 @@
+{
+  "uuid": "2f5d6d3a-da5f-4f3f-ae8d-2750883e7789",
+  "path": "/lib/x86_64-linux-gnu/samba/libkrb5samba-samba4.so.0",
+  "size": 55528,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.060635527Z",
+  "sha256_hash": "e60d1ed949ab4c7ed0400542cbf1aeec05b527891ac2e816ddc4b306cb28eae2",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.436597437Z"
+}

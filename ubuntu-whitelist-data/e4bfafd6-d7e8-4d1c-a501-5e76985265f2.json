@@ -1,0 +1,17 @@
+{
+  "uuid": "e4bfafd6-d7e8-4d1c-a501-5e76985265f2",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/xrender.pc",
+  "size": 276,
+  "modified": "2024-04-08T16:10:12Z",
+  "created": "2025-05-29T11:16:06.127058420Z",
+  "sha256_hash": "efd101976c11c1c285eb6656b5d89f9906bb2dbf80fee667a543fb6d970471d2",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.106764607Z"
+}

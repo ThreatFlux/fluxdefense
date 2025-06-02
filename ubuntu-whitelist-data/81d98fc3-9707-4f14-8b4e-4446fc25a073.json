@@ -1,0 +1,17 @@
+{
+  "uuid": "81d98fc3-9707-4f14-8b4e-4446fc25a073",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/a-wtmoio.adb",
+  "size": 7123,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.063344970Z",
+  "sha256_hash": "1100674245f60544f5121a5fac7ce39883380e38718134230ff5c998d1103117",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.005132177Z"
+}

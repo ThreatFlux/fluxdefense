@@ -1,0 +1,17 @@
+{
+  "uuid": "f6211548-141f-4ed9-8606-9870b2200f3c",
+  "path": "/opt/google/chrome/MEIPreload/preloaded_data.pb",
+  "size": 8254,
+  "modified": "2025-05-26T20:54:35Z",
+  "created": "2025-05-27T21:53:44.430474105Z",
+  "sha256_hash": "c6070a157b4e28d16fbccbd233e93846ddb070c85e1a1bc64469b7a5f1424fad",
+  "file_type": {
+    "Other": "pb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:43.959549137Z"
+}

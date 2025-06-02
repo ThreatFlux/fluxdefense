@@ -1,0 +1,15 @@
+{
+  "uuid": "cb96d6fa-3df8-4007-8b59-6655600e2a42",
+  "path": "/usr/lib/x86_64-linux-gnu/fwupd-1.9.29/libfu_plugin_flashrom.so",
+  "size": 35040,
+  "modified": "2025-03-25T17:48:06Z",
+  "created": "2025-05-09T05:24:28.639976146Z",
+  "sha256_hash": "3d362729d36b8f401502fa9399ce5a92e89d178a690c84998e99dc54f6587bf4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.978441064Z"
+}

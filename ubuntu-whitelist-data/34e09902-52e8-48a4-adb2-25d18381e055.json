@@ -1,0 +1,15 @@
+{
+  "uuid": "34e09902-52e8-48a4-adb2-25d18381e055",
+  "path": "/bin/xset",
+  "size": 35136,
+  "modified": "2024-03-31T17:27:26Z",
+  "created": "2025-05-09T05:07:20.940881509Z",
+  "sha256_hash": "0e2ae3a0dbe2104ee5e2e1e4a700778a45d5ea6b3b26ac77e6e8054c11e63ee7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:18.955915010Z"
+}

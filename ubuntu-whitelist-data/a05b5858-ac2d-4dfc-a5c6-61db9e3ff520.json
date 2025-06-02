@@ -1,0 +1,15 @@
+{
+  "uuid": "a05b5858-ac2d-4dfc-a5c6-61db9e3ff520",
+  "path": "/usr/bin/sadf",
+  "size": 391488,
+  "modified": "2024-01-09T20:31:44Z",
+  "created": "2025-05-09T05:07:20.399889764Z",
+  "sha256_hash": "2d6dbeddb11aa9b805e257ca0b1b5797ff6061b0470f4485cf76b0ff63038eb7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.031647950Z"
+}

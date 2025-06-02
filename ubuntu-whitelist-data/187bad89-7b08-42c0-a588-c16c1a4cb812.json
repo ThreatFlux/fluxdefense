@@ -1,0 +1,17 @@
+{
+  "uuid": "187bad89-7b08-42c0-a588-c16c1a4cb812",
+  "path": "/usr/lib/firmware/emi62/bitstream.fw.zst",
+  "size": 75012,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.530541840Z",
+  "sha256_hash": "415d6eea654fae67f9469c5aa5112082ab400af7360aab13a62f42a77142e511",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.949214396Z"
+}

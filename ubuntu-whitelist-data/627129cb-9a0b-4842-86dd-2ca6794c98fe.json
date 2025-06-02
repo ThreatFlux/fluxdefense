@@ -1,0 +1,15 @@
+{
+  "uuid": "627129cb-9a0b-4842-86dd-2ca6794c98fe",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgsttaglib.so",
+  "size": 55912,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.776655120Z",
+  "sha256_hash": "4c0451db5a57ff753df7cc12898ebf4ecafbbcb4395ac621e18cf767a67f0d74",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.927154571Z"
+}

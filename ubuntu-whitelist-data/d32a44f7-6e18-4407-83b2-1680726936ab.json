@@ -1,0 +1,17 @@
+{
+  "uuid": "d32a44f7-6e18-4407-83b2-1680726936ab",
+  "path": "/usr/lib/udev/hwdb.d/60-seat.hwdb",
+  "size": 1119,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.059786335Z",
+  "sha256_hash": "631ad48aa053be33314bef2d079042cbe1f7976134534c89593b5ad1a61ff660",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.144140490Z"
+}

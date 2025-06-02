@@ -1,0 +1,17 @@
+{
+  "uuid": "f4cf68ff-3e23-44d0-8881-465c08640194",
+  "path": "/lib/firmware/nvidia/tu102/gr/sw_ctx.bin.zst",
+  "size": 1279,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.943536119Z",
+  "sha256_hash": "7b62c2cfd8763ac6a6f485700fbfe7a15e0cec35e7006e1f4ca2f516ed17a8ff",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.446086471Z"
+}

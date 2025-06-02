@@ -1,0 +1,17 @@
+{
+  "uuid": "baa2461c-c7b0-4423-994e-1646d2ffde88",
+  "path": "/lib/firmware/nvidia/gp10b/gr/sw_ctx.bin.zst",
+  "size": 1164,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.940536161Z",
+  "sha256_hash": "5890af7509aa996732cfe8b655e592926abda4c169d4a83bbc75ac6b938c3882",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.418766565Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "19fb5a7e-e20f-4242-829a-3742406b5ae1",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/sources/DataSourceScaleway.py",
+  "size": 15079,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.242037257Z",
+  "sha256_hash": "842fa11e2e784eabd3b8e5265c7de843559c12fd0358bc930ae2c9ec096d6988",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.827392293Z"
+}

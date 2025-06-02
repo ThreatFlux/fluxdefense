@@ -1,0 +1,17 @@
+{
+  "uuid": "d2710e64-198f-4197-893e-01413a4f8ce4",
+  "path": "/usr/lib/x86_64-linux-gnu/libgusb.so.2.0.10",
+  "size": 100424,
+  "modified": "2024-03-31T02:01:47Z",
+  "created": "2025-05-09T05:07:30.163740772Z",
+  "sha256_hash": "29675c0eef7a114c9bd51b90dce5a9a44371ef34b450ad84137f864f2fdf0c58",
+  "file_type": {
+    "Other": "10"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:29.635870970Z"
+}

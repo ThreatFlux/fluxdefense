@@ -1,0 +1,17 @@
+{
+  "uuid": "e39abf39-d0e1-4e7f-97d8-56116b07ddbc",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-u12.so.1.2.1",
+  "size": 155600,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.166633909Z",
+  "sha256_hash": "46845f7d3d899b68c2971b41cfcbb1b7aa2c56d8607cb0aab572507fd465539a",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.797087936Z"
+}

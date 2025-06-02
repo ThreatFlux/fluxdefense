@@ -1,0 +1,17 @@
+{
+  "uuid": "c1b2e897-b032-42d7-b8bb-c8a6e8f7e89f",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-adl-max98390-ssp2-rt5682-ssp0.tplg.zst",
+  "size": 2278,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.056491014Z",
+  "sha256_hash": "202fff8d37a25e38c49ab72db504c82590a51658bf91eb424ece534b261a68b4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.883789172Z"
+}

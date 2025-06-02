@@ -1,0 +1,17 @@
+{
+  "uuid": "22bad7fa-fc2b-4d21-b154-a4cdb727c3e5",
+  "path": "/usr/lib/x86_64-linux-gnu/libespeak-ng.so.1.1.51",
+  "size": 495480,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:29.374752812Z",
+  "sha256_hash": "a18be542512749ea11dcbb5799f0de86a4bcacc75b3a625198160f67bfd37508",
+  "file_type": {
+    "Other": "51"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.106457747Z"
+}

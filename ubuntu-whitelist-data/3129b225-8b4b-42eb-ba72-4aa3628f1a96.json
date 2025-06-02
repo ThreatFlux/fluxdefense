@@ -1,0 +1,17 @@
+{
+  "uuid": "3129b225-8b4b-42eb-ba72-4aa3628f1a96",
+  "path": "/lib/firmware/brcm/brcmfmac4330-sdio.Prowise-PT301.txt.zst",
+  "size": 734,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.483542491Z",
+  "sha256_hash": "6eb204ce326daef6c99199a66120f0d1efadc04ace8d2f43bf7ee51f537a26da",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.517477165Z"
+}

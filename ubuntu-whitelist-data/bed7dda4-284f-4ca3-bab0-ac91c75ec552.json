@@ -1,0 +1,17 @@
+{
+  "uuid": "bed7dda4-284f-4ca3-bab0-ac91c75ec552",
+  "path": "/lib/firmware/intel/sof-tplg/sof-cml-es8336-ssp1.tplg.zst",
+  "size": 1105,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.058490984Z",
+  "sha256_hash": "e8343ec4c3df29d47c3de9392b8a96e7c8bf8d9803d594ccf8a740b9fa687565",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.207891198Z"
+}

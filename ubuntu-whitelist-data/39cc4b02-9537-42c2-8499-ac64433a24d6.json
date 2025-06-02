@@ -1,0 +1,17 @@
+{
+  "uuid": "39cc4b02-9537-42c2-8499-ac64433a24d6",
+  "path": "/lib/x86_64-linux-gnu/libgiomm-2.68.so.1.3.0",
+  "size": 2308440,
+  "modified": "2024-03-31T01:08:25Z",
+  "created": "2025-05-09T05:07:29.799746326Z",
+  "sha256_hash": "52e784c76fb9b0df618019ddaa7b5e2b5cfa97e679d34fb90e51efff967b8cca",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.495591422Z"
+}

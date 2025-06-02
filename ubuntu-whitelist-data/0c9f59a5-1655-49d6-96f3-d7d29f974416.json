@@ -1,0 +1,17 @@
+{
+  "uuid": "0c9f59a5-1655-49d6-96f3-d7d29f974416",
+  "path": "/lib/x86_64-linux-gnu/gettext/cldr-plurals",
+  "size": 35200,
+  "modified": "2024-04-08T15:58:30Z",
+  "created": "2025-05-29T11:15:44.959348870Z",
+  "sha256_hash": "b9a5e8ffcb6da02b812187367d18df1124a83353701e938a9e2a5431c836a169",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.304314611Z"
+}

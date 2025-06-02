@@ -1,0 +1,17 @@
+{
+  "uuid": "e5037e7f-4033-4d53-8035-de7d80f33d37",
+  "path": "/usr/lib/x86_64-linux-gnu/libexempi.so.8.1.5",
+  "size": 1397080,
+  "modified": "2024-04-08T15:57:18Z",
+  "created": "2025-05-09T05:07:29.406752323Z",
+  "sha256_hash": "12e651953775a7a4301abfd8d830b35fa83093ca65d80e301e905e99314499cf",
+  "file_type": {
+    "Other": "5"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:22.210166182Z"
+}

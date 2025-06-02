@@ -1,0 +1,15 @@
+{
+  "uuid": "829c7bcc-4da7-4403-87c9-22e1a64e016e",
+  "path": "/lib/x86_64-linux-gnu/spa-0.2/test/libspa-test.so",
+  "size": 71920,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.449855783Z",
+  "sha256_hash": "81fcceca8f7822e359af2e699d6190c64f8666e645c91ff7030bcf191656ff03",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.754295731Z"
+}

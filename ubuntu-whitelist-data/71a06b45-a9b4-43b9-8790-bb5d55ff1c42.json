@@ -1,0 +1,17 @@
+{
+  "uuid": "71a06b45-a9b4-43b9-8790-bb5d55ff1c42",
+  "path": "/usr/lib/udev/rules.d/77-mm-dell-port-types.rules",
+  "size": 1767,
+  "modified": "2024-02-19T14:58:32Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "289dc694d8e0e95f5df44ab305c27f33cbca11a03e833edce3b07ae7a3a65ca0",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.098167724Z"
+}

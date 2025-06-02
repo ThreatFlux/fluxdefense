@@ -1,0 +1,17 @@
+{
+  "uuid": "314112e7-ef29-41db-95f9-bfccc0e7d487",
+  "path": "/usr/lib/systemd/system/power-profiles-daemon.service",
+  "size": 989,
+  "modified": "2024-04-04T00:19:26Z",
+  "created": "2025-05-09T05:07:28.300769200Z",
+  "sha256_hash": "13491aae75bfa99db6f8fd68d98e8a0284936d16a4496b990639b43d384916b3",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.473877546Z"
+}

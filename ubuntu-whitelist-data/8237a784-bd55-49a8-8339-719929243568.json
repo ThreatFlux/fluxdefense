@@ -1,0 +1,17 @@
+{
+  "uuid": "8237a784-bd55-49a8-8339-719929243568",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-tadert.adb",
+  "size": 3027,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.090344599Z",
+  "sha256_hash": "bd8bc6297b3eb8b4fcd69a0af86632df8f0af70c7a31ae7584ce1183f5d2fea2",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.118869187Z"
+}

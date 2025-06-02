@@ -1,0 +1,17 @@
+{
+  "uuid": "9c419b4f-4f0a-4d61-a597-05f8439ce4ba",
+  "path": "/lib/cups/filter/brftoembosser",
+  "size": 1025,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.343875359Z",
+  "sha256_hash": "0092aaa1064ab68a2f68278552eddec156d4a96696fb7b94aef72890e4f15b1b",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.638576548Z"
+}

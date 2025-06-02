@@ -1,0 +1,15 @@
+{
+  "uuid": "cfd5f2c2-299c-4ab1-9191-c8600adbcb80",
+  "path": "/usr/lib/python3/dist-packages/suricata/update/util.py",
+  "size": 2725,
+  "modified": "2023-07-07T17:38:45Z",
+  "created": "2025-05-26T20:18:27.985008880Z",
+  "sha256_hash": "b118c745f98fd464b7979608e83bab75860d29feea9e01bc8c24971f0851f0ea",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.494932300Z"
+}

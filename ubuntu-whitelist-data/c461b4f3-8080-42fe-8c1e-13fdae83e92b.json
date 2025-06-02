@@ -1,0 +1,17 @@
+{
+  "uuid": "c461b4f3-8080-42fe-8c1e-13fdae83e92b",
+  "path": "/lib/x86_64-linux-gnu/samba/libiov-buf-samba4.so.0",
+  "size": 14568,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.060635527Z",
+  "sha256_hash": "50e3b35e904d1d0babce869e2ed495f50cfb23f86974bc556c4d088ad75f4a88",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.409336867Z"
+}

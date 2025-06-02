@@ -1,0 +1,17 @@
+{
+  "uuid": "844bf23a-aef5-4353-b4d7-0f93302dc7f4",
+  "path": "/lib/udev/rules.d/60-persistent-alsa.rules",
+  "size": 727,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "09b1687035afc5c5a5f839d637b72ed9ae901000915b8b5e93586ecfc35e0d00",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.248190329Z"
+}

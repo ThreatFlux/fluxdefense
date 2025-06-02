@@ -1,0 +1,17 @@
+{
+  "uuid": "c12f8ce3-15ea-4a70-bfed-c728f7f28c99",
+  "path": "/usr/lib/x86_64-linux-gnu/libpinyin/data/geology.bin",
+  "size": 17985,
+  "modified": "2024-04-06T01:15:02Z",
+  "created": "2025-05-09T05:07:36.270647582Z",
+  "sha256_hash": "ba518254ae446485685404a095273e0c904ab50bc1ee52035bbdc41cf7f4fa44",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.427865310Z"
+}

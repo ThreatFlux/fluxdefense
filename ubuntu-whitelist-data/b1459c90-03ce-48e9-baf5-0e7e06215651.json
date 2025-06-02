@@ -1,0 +1,15 @@
+{
+  "uuid": "b1459c90-03ce-48e9-baf5-0e7e06215651",
+  "path": "/lib/x86_64-linux-gnu/security/pam_echo.so",
+  "size": 14488,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:37.196633451Z",
+  "sha256_hash": "89ea3aca696355451e4e3f8834db08cbc56be36359e4bf8397c768dde58d10f7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.367973009Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "eaa42bc4-4b8d-47a4-a9be-5b5dce80c250",
+  "path": "/lib/llvm-18/include/clang-tidy/performance/FasterStringFindCheck.h",
+  "size": 1571,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "f200cccfa889637c4dcc7c7fc30e16d820706b29ea790b7c99d27488ad5da774",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.919941873Z"
+}

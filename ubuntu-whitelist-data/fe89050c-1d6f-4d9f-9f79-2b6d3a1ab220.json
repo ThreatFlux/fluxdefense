@@ -1,0 +1,15 @@
+{
+  "uuid": "fe89050c-1d6f-4d9f-9f79-2b6d3a1ab220",
+  "path": "/bin/switcherooctl",
+  "size": 4887,
+  "modified": "2024-03-31T17:17:43Z",
+  "created": "2025-05-09T05:07:20.650885934Z",
+  "sha256_hash": "73f7ccf3d4eeb8fd95e8f4be4a334ab54b014186c7a2ca99a6811b3f216733c5",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.286829287Z"
+}

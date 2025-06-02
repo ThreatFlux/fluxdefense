@@ -1,0 +1,17 @@
+{
+  "uuid": "ddd0f597-d9e3-4173-bc79-010d703b33ca",
+  "path": "/lib/x86_64-linux-gnu/libmount.so.1.1.0",
+  "size": 309960,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:31.353722613Z",
+  "sha256_hash": "8d9c01b19d3e4ee385e87eff3184baef59ea2ad0172dfe3170f270683d5df7f4",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.566963468Z"
+}

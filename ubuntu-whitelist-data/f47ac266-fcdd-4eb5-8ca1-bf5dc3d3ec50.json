@@ -1,0 +1,17 @@
+{
+  "uuid": "f47ac266-fcdd-4eb5-8ca1-bf5dc3d3ec50",
+  "path": "/lib/firmware/i915/skl_huc_ver01_07_1398.bin.zst",
+  "size": 56528,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.543541660Z",
+  "sha256_hash": "d241d3d0a40975c7a0760d74b241161cd197037a462a6feab74a894316fc9656",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.669910288Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "81ee1a0f-c746-4520-826b-01fd8d42117b",
+  "path": "/lib/update-notifier/system-crash-notification",
+  "size": 14488,
+  "modified": "2024-10-08T13:47:14Z",
+  "created": "2025-05-09T05:24:21.710885176Z",
+  "sha256_hash": "2924968f73162d774bca10628f5367fb95939c42fa907c22b072de4e820221b8",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.765832255Z"
+}

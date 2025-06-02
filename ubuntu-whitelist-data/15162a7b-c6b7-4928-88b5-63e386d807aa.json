@@ -1,0 +1,17 @@
+{
+  "uuid": "15162a7b-c6b7-4928-88b5-63e386d807aa",
+  "path": "/opt/google/chrome/MEIPreload/manifest.json",
+  "size": 238,
+  "modified": "2025-05-26T20:54:35Z",
+  "created": "2025-05-27T21:53:44.430474105Z",
+  "sha256_hash": "44844cf3dde6e80087ae0e6bf0d9326d7ef7d23326d24ac83af0850be26923d2",
+  "file_type": {
+    "Other": "json"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:43.959706420Z"
+}

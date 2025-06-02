@@ -1,0 +1,17 @@
+{
+  "uuid": "20b88d91-a549-4bb2-8a3a-f01292d79310",
+  "path": "/lib/x86_64-linux-gnu/libabsl_flags_usage_internal.so.20220623.0.0",
+  "size": 47432,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.938492440Z",
+  "sha256_hash": "cf8df68b02a83f6a07cc991ee42a813cde5d0fb508e9e53d0ef41276898ad344",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.328915497Z"
+}

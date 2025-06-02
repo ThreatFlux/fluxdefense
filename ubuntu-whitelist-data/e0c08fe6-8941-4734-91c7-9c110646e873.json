@@ -1,0 +1,17 @@
+{
+  "uuid": "e0c08fe6-8941-4734-91c7-9c110646e873",
+  "path": "/lib/firmware/libertas/cf8381_helper.bin.zst",
+  "size": 1408,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.668539928Z",
+  "sha256_hash": "eb1eeb8cd1597f19e49e085f30577e6d39f91502313c75b9538a31b6a3a66a65",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:01.950360916Z"
+}

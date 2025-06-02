@@ -1,0 +1,17 @@
+{
+  "uuid": "742c04bf-476a-4843-a82d-d1a75cbc3edc",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/include/stdatomic.h",
+  "size": 9726,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.246389788Z",
+  "sha256_hash": "e6544cb60cf2b30c69d47424f7b04ab18bd2bc97e03a9c852b238f95ed26f3ca",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.937317965Z"
+}

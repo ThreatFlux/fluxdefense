@@ -1,0 +1,17 @@
+{
+  "uuid": "e1f31086-acf4-41a5-b0b7-8e3cfd071e2a",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-artec.so.1.2.1",
+  "size": 92416,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.128634489Z",
+  "sha256_hash": "ab1d6d962d253f72bb4a2f6f7cc763294a056124b5a4f1e60adf90df5cdcf338",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.825694818Z"
+}

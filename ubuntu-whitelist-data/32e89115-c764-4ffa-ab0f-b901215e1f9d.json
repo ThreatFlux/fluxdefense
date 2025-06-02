@@ -1,0 +1,17 @@
+{
+  "uuid": "32e89115-c764-4ffa-ab0f-b901215e1f9d",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-tadeca.adb",
+  "size": 3677,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.090344599Z",
+  "sha256_hash": "aa33fd2403eb7a8f8c36e1c92873a7ff6f29ba43e4a271b08007fa865aaacd5d",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.166533449Z"
+}

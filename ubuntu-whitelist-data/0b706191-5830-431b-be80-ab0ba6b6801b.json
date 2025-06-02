@@ -1,0 +1,17 @@
+{
+  "uuid": "0b706191-5830-431b-be80-ab0ba6b6801b",
+  "path": "/lib/llvm-18/include/clang/AST/CommentHTMLTagsProperties.inc",
+  "size": 3031,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.515533766Z",
+  "sha256_hash": "bd6ec7642b5529f8fdc09576a83d0dab6635e655dc331e6cde970eaf67294d43",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.001535099Z"
+}

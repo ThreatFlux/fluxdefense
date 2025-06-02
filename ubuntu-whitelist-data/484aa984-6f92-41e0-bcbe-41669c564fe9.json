@@ -1,0 +1,15 @@
+{
+  "uuid": "484aa984-6f92-41e0-bcbe-41669c564fe9",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstsoup.so",
+  "size": 104912,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.775655135Z",
+  "sha256_hash": "f0cba37ab998efdd469e87d743483fc9a0a2fb1f796e882f629b7f9274b00af9",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.945430472Z"
+}

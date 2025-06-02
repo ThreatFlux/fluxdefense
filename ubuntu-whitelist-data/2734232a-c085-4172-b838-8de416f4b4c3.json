@@ -1,0 +1,15 @@
+{
+  "uuid": "2734232a-c085-4172-b838-8de416f4b4c3",
+  "path": "/sbin/start-stop-daemon",
+  "size": 48632,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T05:07:38.422614743Z",
+  "sha256_hash": "ff36e87810954ffd7e0cad7612e82808e593195bc7065afe2ae8ba163e759d08",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.780665374Z"
+}

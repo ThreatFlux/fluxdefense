@@ -1,0 +1,15 @@
+{
+  "uuid": "541d49a5-8d29-4ef2-9f71-01d56ecca95a",
+  "path": "/lib/python3.12/lib-dynload/_asyncio.cpython-312-x86_64-linux-gnu.so",
+  "size": 82184,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:10:59.925539323Z",
+  "sha256_hash": "22617289e7760e2ce822c3d8b867576d61510203870e773eb841295dc19c2c3f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.225631699Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e7e61a5b-adc2-4f4f-967d-8de1b97cbe1c",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-ststop.ali",
+  "size": 21540,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.144343857Z",
+  "sha256_hash": "953c5e6f761c611bafe82c4f567179f69d879a47963a54d11491d7f2c280b8be",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.877828779Z"
+}

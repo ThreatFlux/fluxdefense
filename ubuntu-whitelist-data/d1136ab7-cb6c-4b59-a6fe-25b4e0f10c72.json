@@ -1,0 +1,17 @@
+{
+  "uuid": "d1136ab7-cb6c-4b59-a6fe-25b4e0f10c72",
+  "path": "/lib/firmware/rtl_nic/rtl8153a-3.fw.zst",
+  "size": 1225,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.067534402Z",
+  "sha256_hash": "c4b60d498e9b395fbea27f62e4715f0df995158eb25fffc8fd898a8a3fe90235",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.419444064Z"
+}

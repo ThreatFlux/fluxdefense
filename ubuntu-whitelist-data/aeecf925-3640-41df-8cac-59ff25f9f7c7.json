@@ -1,0 +1,17 @@
+{
+  "uuid": "aeecf925-3640-41df-8cac-59ff25f9f7c7",
+  "path": "/lib/x86_64-linux-gnu/perl-base/parent.pm",
+  "size": 460,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.362578444Z",
+  "sha256_hash": "888cd38a7ba0c10fb159510e372816c4749f71d582bcc85f682e6e882195e7bb",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.905785619Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "7cdcac46-262a-4097-8b9f-35fb7cc2f58f",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/libzstd.pc",
+  "size": 456,
+  "modified": "2024-08-09T02:33:22Z",
+  "created": "2025-05-29T11:16:02.532107749Z",
+  "sha256_hash": "27b7d79998d3e005b2d4354222d543f22bf55b602d773c1473479135cfb040e8",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.108406630Z"
+}

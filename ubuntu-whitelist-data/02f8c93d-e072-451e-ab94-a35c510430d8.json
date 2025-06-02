@@ -1,0 +1,17 @@
+{
+  "uuid": "02f8c93d-e072-451e-ab94-a35c510430d8",
+  "path": "/lib/cups/cgi-bin/printers.cgi",
+  "size": 51536,
+  "modified": "2024-09-26T11:15:36Z",
+  "created": "2025-05-09T05:07:21.046879891Z",
+  "sha256_hash": "4c64bffcc2c855c0cc8b535dd70a54ba7ab45241b1a18a76e161d6d0153af787",
+  "file_type": {
+    "Other": "cgi"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.758164728Z"
+}

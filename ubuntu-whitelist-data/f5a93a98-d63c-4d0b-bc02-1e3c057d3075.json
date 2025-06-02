@@ -1,0 +1,15 @@
+{
+  "uuid": "f5a93a98-d63c-4d0b-bc02-1e3c057d3075",
+  "path": "/usr/lib/x86_64-linux-gnu/device-mapper/libdevmapper-event-lvm2snapshot.so",
+  "size": 18656,
+  "modified": "2024-11-27T19:06:49Z",
+  "created": "2025-05-09T05:56:47.944660527Z",
+  "sha256_hash": "1d27960f2013f0ac8e19b145b58fac582b307c435e9ac73c617e373b60b10f90",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.978134624Z"
+}

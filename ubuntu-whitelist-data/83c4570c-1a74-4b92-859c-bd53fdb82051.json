@@ -1,0 +1,17 @@
+{
+  "uuid": "83c4570c-1a74-4b92-859c-bd53fdb82051",
+  "path": "/lib/modules/6.11.0-25-generic/kernel/crypto/blake2b_generic.ko.zst",
+  "size": 7507,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.098459849Z",
+  "sha256_hash": "0ebee601d179d3bcf1328bf60a67068be625c0a9f3724043187ac39695b082d5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.633091314Z"
+}

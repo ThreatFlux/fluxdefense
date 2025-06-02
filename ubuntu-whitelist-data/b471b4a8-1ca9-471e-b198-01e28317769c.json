@@ -1,0 +1,15 @@
+{
+  "uuid": "b471b4a8-1ca9-471e-b198-01e28317769c",
+  "path": "/usr/lib/xorg/modules/drivers/intel_drv.so",
+  "size": 1707624,
+  "modified": "2024-04-08T16:23:40Z",
+  "created": "2025-05-09T05:07:37.367630842Z",
+  "sha256_hash": "c0259454f4dd2a11443c03d1a2dab757fcaf355f937438e631c677d651d15df3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.608383616Z"
+}

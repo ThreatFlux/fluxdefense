@@ -1,0 +1,17 @@
+{
+  "uuid": "0ee9a177-d2a6-4b17-86c5-244466701f99",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/gl.pc",
+  "size": 205,
+  "modified": "2024-04-08T16:04:01Z",
+  "created": "2025-05-29T11:16:21.463847964Z",
+  "sha256_hash": "4359c2bd79b417c8d49121e1a0aa8fe2d760bf61cb0016d6eccce9ff85ff7608",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.103041782Z"
+}

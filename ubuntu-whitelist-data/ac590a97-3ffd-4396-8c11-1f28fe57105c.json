@@ -1,0 +1,15 @@
+{
+  "uuid": "ac590a97-3ffd-4396-8c11-1f28fe57105c",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM1008_420.so",
+  "size": 13708,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.274663507Z",
+  "sha256_hash": "16af7960d2ab16c81201db5de689ef02632756349f3f28d14ae9f9bcfb464524",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.918974261Z"
+}

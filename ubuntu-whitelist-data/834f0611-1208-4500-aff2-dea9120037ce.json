@@ -1,0 +1,17 @@
+{
+  "uuid": "834f0611-1208-4500-aff2-dea9120037ce",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/libva.pc",
+  "size": 298,
+  "modified": "2024-04-18T17:47:47Z",
+  "created": "2025-05-12T13:47:40.269133370Z",
+  "sha256_hash": "5e39232ff0f58ee9d0121457d8687b6a90064ac3b02a68d9af2d6100240238d2",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.056458928Z"
+}

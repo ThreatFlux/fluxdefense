@@ -1,0 +1,17 @@
+{
+  "uuid": "2561950f-bed0-4c83-a366-73c6db7e5417",
+  "path": "/lib/rustlib/x86_64-unknown-linux-gnu/lib/librustc_demangle-9126b5789c3b641d.rlib",
+  "size": 2013556,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T17:41:10.589616740Z",
+  "sha256_hash": "e6beae027d891ac33a59cd1d5849eb067f3c492ab2734e57e61e41bec01d819f",
+  "file_type": {
+    "Other": "rlib"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:58.477988604Z"
+}

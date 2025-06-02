@@ -1,0 +1,15 @@
+{
+  "uuid": "2c6d42d9-a183-443b-beef-5893fc5624b0",
+  "path": "/usr/lib/dhcpcd/dhcpcd-run-hooks",
+  "size": 8205,
+  "modified": "2024-05-07T10:12:01Z",
+  "created": "2025-05-09T05:07:21.655870599Z",
+  "sha256_hash": "00014efd2b2044d95c3d7452df23e291bbb40b75734f8ebb268e3cef70f290e8",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.748104806Z"
+}

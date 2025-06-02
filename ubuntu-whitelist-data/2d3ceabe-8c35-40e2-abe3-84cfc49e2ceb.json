@@ -1,0 +1,15 @@
+{
+  "uuid": "2d3ceabe-8c35-40e2-abe3-84cfc49e2ceb",
+  "path": "/lib/x86_64-linux-gnu/libisccc-9.18.30-0ubuntu0.24.04.2-Ubuntu.so",
+  "size": 39376,
+  "modified": "2025-01-28T14:26:30Z",
+  "created": "2025-05-09T05:07:30.568734592Z",
+  "sha256_hash": "832d61778a49c97fec52b56028185b253d14e01e036cc0b912611d70e88cf864",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.297257417Z"
+}

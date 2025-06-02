@@ -1,0 +1,17 @@
+{
+  "uuid": "7c81b928-ee37-4c2f-82fb-7da59655ac7c",
+  "path": "/lib/firmware/amdgpu/gc_12_0_1_mes1.bin.zst",
+  "size": 34763,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.399543654Z",
+  "sha256_hash": "3c5a3e87875eda8db258b918c4f8c1f1e269a0366e2e35a610686b29361532ba",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.849697042Z"
+}

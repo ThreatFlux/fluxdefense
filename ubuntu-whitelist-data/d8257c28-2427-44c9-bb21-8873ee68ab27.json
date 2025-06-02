@@ -1,0 +1,17 @@
+{
+  "uuid": "d8257c28-2427-44c9-bb21-8873ee68ab27",
+  "path": "/usr/lib/systemd/system/sound.target",
+  "size": 428,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "52c92b8cc874b85fc6fca72947ef210f9d02d46368ecfc1f98700f59ad529468",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.478274855Z"
+}

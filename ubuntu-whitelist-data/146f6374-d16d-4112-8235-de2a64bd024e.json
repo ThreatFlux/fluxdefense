@@ -1,0 +1,15 @@
+{
+  "uuid": "146f6374-d16d-4112-8235-de2a64bd024e",
+  "path": "/bin/mbimcli",
+  "size": 221848,
+  "modified": "2024-03-31T02:07:22Z",
+  "created": "2025-05-09T05:07:20.169893274Z",
+  "sha256_hash": "169e2389133cbb53c2de19c3f742556890e21c226a6fdd29a6d0e6cc96b6400e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.456818392Z"
+}

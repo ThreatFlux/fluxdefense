@@ -1,0 +1,17 @@
+{
+  "uuid": "f6eb3094-95c6-4772-81aa-5286d1da828a",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/modernize/UseDefaultMemberInitCheck.h",
+  "size": 1954,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "d30f8a8f9e7b553078c044c02825427dd13e025367f3d023e8de160c44fb5f07",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.254250808Z"
+}

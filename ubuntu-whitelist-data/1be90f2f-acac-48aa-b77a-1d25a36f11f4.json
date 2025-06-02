@@ -1,0 +1,17 @@
+{
+  "uuid": "1be90f2f-acac-48aa-b77a-1d25a36f11f4",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/libpcre2-8.pc",
+  "size": 347,
+  "modified": "2024-10-02T12:40:51Z",
+  "created": "2025-05-13T14:30:45.399492426Z",
+  "sha256_hash": "a5ba3c492820fa8f853069005a30b48db9a90158c15f97bc6977cfe4bdfa09c2",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.107049438Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "51fe3ac4-5a6c-4baf-ae13-c6feeeba6a8e",
+  "path": "/lib/llvm-18/lib/libclangTidyObjCModule.a",
+  "size": 556470,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.891528814Z",
+  "sha256_hash": "6b26c57885a8a86de92d23c0dace07306283c2fd7f4e97bda7cbfda8ffe54008",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:42.326374110Z"
+}

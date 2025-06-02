@@ -1,0 +1,15 @@
+{
+  "uuid": "7486c127-0813-4d3f-b09a-16487fc077ef",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstavi.so",
+  "size": 187056,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.771655196Z",
+  "sha256_hash": "bee4374a205acc4c0783d0f3d4a23e53b0161a90d067ba0056ee6324360436a8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.196374145Z"
+}

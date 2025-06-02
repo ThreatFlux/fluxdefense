@@ -1,0 +1,15 @@
+{
+  "uuid": "96ece18e-35c1-467a-ac59-6b7e11eeb602",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM870.so",
+  "size": 13708,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.279663431Z",
+  "sha256_hash": "0e453479688f322701578f60c5ea730f5eba549f9733a8de8f3fb2046d36670a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.958765800Z"
+}

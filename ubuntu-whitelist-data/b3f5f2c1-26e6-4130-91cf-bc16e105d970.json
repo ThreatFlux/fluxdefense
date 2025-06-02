@@ -1,0 +1,17 @@
+{
+  "uuid": "b3f5f2c1-26e6-4130-91cf-bc16e105d970",
+  "path": "/usr/lib/python3.12/test/decimaltestdata/decQuad.decTest",
+  "size": 2207,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.992551762Z",
+  "sha256_hash": "d3254e8174e0d90c33b6f22cd3462e0691eae840d2a2b85d2e7446708b92f485",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.960141008Z"
+}

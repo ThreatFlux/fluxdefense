@@ -1,0 +1,17 @@
+{
+  "uuid": "24a66572-68e7-4424-802c-c86f18a9809a",
+  "path": "/usr/lib/grub/x86_64-efi/efifwsetup.mod",
+  "size": 2728,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.803708536Z",
+  "sha256_hash": "9a1e3ce97cf49015418c147b98f861c42237c50df3634316ec90b97aa323bd6b",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.476295072Z"
+}

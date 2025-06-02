@@ -1,0 +1,15 @@
+{
+  "uuid": "0f814c7e-c909-489e-8ab2-f7b3632c4f2f",
+  "path": "/lib/x86_64-linux-gnu/libbind9-9.18.30-0ubuntu0.24.04.2-Ubuntu.so",
+  "size": 96488,
+  "modified": "2025-01-28T14:26:30Z",
+  "created": "2025-05-09T05:07:29.183755726Z",
+  "sha256_hash": "b05409ffd84afd6ec3229558ae61cf8a9c1447c53917f787f9d998ef0282c73a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.942291008Z"
+}

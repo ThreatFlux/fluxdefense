@@ -1,0 +1,15 @@
+{
+  "uuid": "6f356fff-7389-490d-b66f-aa2550dfa50b",
+  "path": "/lib/x86_64-linux-gnu/rsyslog/omjournal.so",
+  "size": 14664,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.547922264Z",
+  "sha256_hash": "585ce90535eb3fd5fa0fb54509489c48e67a4f3b42b7f7c791d3e29b244accc7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.860162452Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f44fa50c-ef24-4f0d-9ba9-4dc149019797",
+  "path": "/lib/x86_64-linux-gnu/libXvMCW.so.1.0.0",
+  "size": 22896,
+  "modified": "2024-04-08T16:10:35Z",
+  "created": "2025-05-09T05:07:29.061757588Z",
+  "sha256_hash": "985683d739943832c42975e7c895db1b2e26da8db962bb816097e674c2044bdb",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.961068950Z"
+}

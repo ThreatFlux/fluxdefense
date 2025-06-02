@@ -1,0 +1,17 @@
+{
+  "uuid": "f2ad9b6d-40c3-4930-ab18-0f5062dc2f1f",
+  "path": "/usr/lib/firmware/amdgpu/oland_pfp.bin.zst",
+  "size": 2798,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.407543543Z",
+  "sha256_hash": "65d3e95734eb6778d6896c86c8897ebe496affcdb5431e44287ec22497f34d26",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.845569194Z"
+}

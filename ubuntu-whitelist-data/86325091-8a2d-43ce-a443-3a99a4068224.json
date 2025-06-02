@@ -1,0 +1,17 @@
+{
+  "uuid": "86325091-8a2d-43ce-a443-3a99a4068224",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/g-tastus.ali",
+  "size": 1633,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.110344324Z",
+  "sha256_hash": "3045233694c0981cc5360bf1e47ae04e32763ac3b159ab74862736e219923d09",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.642013700Z"
+}

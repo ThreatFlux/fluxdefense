@@ -1,0 +1,17 @@
+{
+  "uuid": "ab06bbbe-c0ad-49a8-b1f5-167e3b09e229",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-s9036.so.1.2.1",
+  "size": 67848,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.159634016Z",
+  "sha256_hash": "d2d50240b9f0df9e72dcedd6bb10508eb9068fd978cb5638175c84dc4b85dfbc",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.288560156Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "9daccc0f-00a5-49c5-b0af-7d1255dbb81b",
+  "path": "/lib/i386-linux-gnu/gconv/IBM856.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.279663431Z",
+  "sha256_hash": "a44aa60dd7f91b444b57a6a7d3b62d30a742e76b6422065260d009462a0107c8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.859976102Z"
+}

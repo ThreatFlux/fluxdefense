@@ -1,0 +1,17 @@
+{
+  "uuid": "25439cdd-2394-4412-b631-c734f8040cc2",
+  "path": "/usr/lib/x86_64-linux-gnu/libpoppler-cpp.so.0.11.0",
+  "size": 104528,
+  "modified": "2025-04-24T12:59:17Z",
+  "created": "2025-05-09T05:11:21.011217461Z",
+  "sha256_hash": "56cdcbedb75cc4e435df600f7771b9f46ba3bc1b45cd2c3dea4517e40b931283",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.167360145Z"
+}

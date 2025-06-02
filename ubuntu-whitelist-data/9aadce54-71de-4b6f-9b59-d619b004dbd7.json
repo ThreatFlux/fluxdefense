@@ -1,0 +1,17 @@
+{
+  "uuid": "9aadce54-71de-4b6f-9b59-d619b004dbd7",
+  "path": "/usr/lib/udev/rules.d/56-lvm.rules",
+  "size": 2424,
+  "modified": "2024-11-27T19:06:49Z",
+  "created": "2025-05-09T05:56:54.626585473Z",
+  "sha256_hash": "4107716d0cb0b46a62091a21e2f10443f4347d6a71935d2f2deaf75e81826ab9",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.109418630Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "eb6fcb0d-6262-435e-91b8-994984955bfe",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-sm3600.so.1.2.1",
+  "size": 105256,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.159634016Z",
+  "sha256_hash": "4eee249b83fccaca120c1ef6ca0c67c966926f9164ad648ebc2e40ad861da124",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.839071891Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "ac89cc99-bcd0-4e05-9202-52082b3b7fff",
+  "path": "/usr/lib/python3/dist-packages/aptdaemon/worker/pkworker.py",
+  "size": 59133,
+  "modified": "2023-05-22T20:24:55Z",
+  "created": "2025-05-09T05:07:26.520796362Z",
+  "sha256_hash": "ab138d4a089eb9ac94229ec2fa76f6329b92050cbb0339eafdd6f301fc58c7da",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.564012244Z"
+}

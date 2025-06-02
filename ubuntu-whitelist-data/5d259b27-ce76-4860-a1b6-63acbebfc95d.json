@@ -1,0 +1,17 @@
+{
+  "uuid": "5d259b27-ce76-4860-a1b6-63acbebfc95d",
+  "path": "/lib/systemd/system/systemd-pcrphase.service",
+  "size": 756,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "445cea129db7dd49047bb33f057fc75df98f5dd1ffb0c7d7f8b3c99e814e143e",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.104570375Z"
+}

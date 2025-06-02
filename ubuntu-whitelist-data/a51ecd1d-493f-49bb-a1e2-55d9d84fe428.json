@@ -1,0 +1,17 @@
+{
+  "uuid": "a51ecd1d-493f-49bb-a1e2-55d9d84fe428",
+  "path": "/lib/firmware/amdgpu/hainan_mc.bin.zst",
+  "size": 12193,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.401543627Z",
+  "sha256_hash": "05981a42c96ab871229fcabcf68c91f28c9439abfd1e6cceb04c195cbd27b4a2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.961074058Z"
+}

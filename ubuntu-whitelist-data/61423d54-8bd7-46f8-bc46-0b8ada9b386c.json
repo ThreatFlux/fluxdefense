@@ -1,0 +1,15 @@
+{
+  "uuid": "61423d54-8bd7-46f8-bc46-0b8ada9b386c",
+  "path": "/lib/x86_64-linux-gnu/rsyslog/pmsnare.so",
+  "size": 19544,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.548922277Z",
+  "sha256_hash": "1defaab5b92a1d5b93ce26f85bebd56cecbf3aca37206f2575fc3492c0325f26",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.858700555Z"
+}

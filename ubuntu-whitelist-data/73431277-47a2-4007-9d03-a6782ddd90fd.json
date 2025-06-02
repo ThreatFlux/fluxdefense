@@ -1,0 +1,15 @@
+{
+  "uuid": "73431277-47a2-4007-9d03-a6782ddd90fd",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstrealmedia.so",
+  "size": 84560,
+  "modified": "2024-03-31T08:55:07Z",
+  "created": "2025-05-09T05:09:27.688947179Z",
+  "sha256_hash": "bdee1aaae5d63a83859dd3b59004ae7415f9ee0ba2e6ac1034b56e58eda53db1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.151645712Z"
+}

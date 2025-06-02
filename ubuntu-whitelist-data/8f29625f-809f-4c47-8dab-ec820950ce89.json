@@ -1,0 +1,15 @@
+{
+  "uuid": "8f29625f-809f-4c47-8dab-ec820950ce89",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/IBM1146.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.626657409Z",
+  "sha256_hash": "96129d6def06baf0780d9eab559e122b2a3d726dd4421a2f94664c06078f048c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.529697665Z"
+}

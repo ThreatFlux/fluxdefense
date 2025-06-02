@@ -1,0 +1,17 @@
+{
+  "uuid": "62f71d3a-ba78-43b4-82e1-66560542924b",
+  "path": "/lib/firmware/i915/dg2_dmc_ver2_08.bin.zst",
+  "size": 4907,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.535541770Z",
+  "sha256_hash": "7af0dea7fd56f8edf1ce5bdd77d4452087a32add3d0813b5a98e0b60bb167656",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.729010008Z"
+}

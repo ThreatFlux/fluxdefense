@@ -1,0 +1,15 @@
+{
+  "uuid": "f7caf03d-c085-46d7-9cf8-ce07e33f5454",
+  "path": "/usr/sbin/wpa_cli",
+  "size": 143680,
+  "modified": "2025-02-21T21:03:52Z",
+  "created": "2025-05-09T05:11:35.941989548Z",
+  "sha256_hash": "c361f341fe48a91fca3c59434254dded538cf9c2db59cecd209c3a300af19c64",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.161112926Z"
+}

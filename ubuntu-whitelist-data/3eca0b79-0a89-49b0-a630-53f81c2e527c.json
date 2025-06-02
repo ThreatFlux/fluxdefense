@@ -1,0 +1,15 @@
+{
+  "uuid": "3eca0b79-0a89-49b0-a630-53f81c2e527c",
+  "path": "/usr/bin/l2test",
+  "size": 35472,
+  "modified": "2025-02-25T06:11:15Z",
+  "created": "2025-05-09T05:24:15.925810275Z",
+  "sha256_hash": "5cbe5512647b0092e41a578f02aab5cb04776c987c1656883380d67d6ba11e9f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:06.316975334Z"
+}

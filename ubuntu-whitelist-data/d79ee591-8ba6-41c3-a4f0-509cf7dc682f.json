@@ -1,0 +1,17 @@
+{
+  "uuid": "d79ee591-8ba6-41c3-a4f0-509cf7dc682f",
+  "path": "/lib/firmware/iwlwifi-8265-34.ucode.zst",
+  "size": 408066,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.585541078Z",
+  "sha256_hash": "900dcb48f7f6345426f198f049265d485ab55aa8959cf6a4243d94eaebfe2e8c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.376992741Z"
+}

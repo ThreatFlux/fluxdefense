@@ -1,0 +1,15 @@
+{
+  "uuid": "26ec37a7-35f9-4bb6-af8f-4290b55d7f55",
+  "path": "/lib/x86_64-linux-gnu/traceevent/plugins/plugin_function.so",
+  "size": 14776,
+  "modified": "2024-04-03T11:46:23Z",
+  "created": "2025-05-09T05:07:37.304631803Z",
+  "sha256_hash": "9f7b158f9f7b2adb8d3bfe2a7c4b7694454ebf9b3e4ff0746d0c9a4ee4dbc26d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.534025980Z"
+}

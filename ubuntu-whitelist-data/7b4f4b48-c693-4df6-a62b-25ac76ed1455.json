@@ -1,0 +1,17 @@
+{
+  "uuid": "7b4f4b48-c693-4df6-a62b-25ac76ed1455",
+  "path": "/usr/lib/x86_64-linux-gnu/libpoppler-glib.so.8.26.0",
+  "size": 493704,
+  "modified": "2025-04-24T12:59:17Z",
+  "created": "2025-05-09T05:11:21.207214469Z",
+  "sha256_hash": "0d6bb870b0eb24467c0c9a94d70c136fd95899930e839b0ff24ae25aff2c707e",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.117389579Z"
+}

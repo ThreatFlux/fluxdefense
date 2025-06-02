@@ -1,0 +1,17 @@
+{
+  "uuid": "dd1e401a-b9cf-4ebd-a021-41cad5dca0d3",
+  "path": "/lib/x86_64-linux-gnu/libiec61883.so.0.1.1",
+  "size": 55360,
+  "modified": "2024-04-08T16:04:31Z",
+  "created": "2025-05-09T05:07:30.561734699Z",
+  "sha256_hash": "f64cec1defae39d3a28cbad1b4ae5c3cc9d9b1e420c1201b1cd81d0c9526d589",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.055795508Z"
+}

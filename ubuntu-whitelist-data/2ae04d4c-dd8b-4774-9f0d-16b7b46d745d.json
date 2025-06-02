@@ -1,0 +1,17 @@
+{
+  "uuid": "2ae04d4c-dd8b-4774-9f0d-16b7b46d745d",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/sdl12_compat.pc",
+  "size": 386,
+  "modified": "2024-01-02T15:09:33Z",
+  "created": "2025-05-29T11:16:28.966745003Z",
+  "sha256_hash": "3e5e8092ede29ffcddf7f91387223cc7aaf9bfad19b94dfeb217c91f98055a91",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.060686437Z"
+}

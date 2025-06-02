@@ -1,0 +1,17 @@
+{
+  "uuid": "75e61f10-1b40-4260-b68b-4cf4ebc43b96",
+  "path": "/lib/firmware/brcm/bcm4329-fullmac-4.bin.zst",
+  "size": 171803,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.480542532Z",
+  "sha256_hash": "c8b3f1784d46d3fc854ed7074279c29361a2207d40b5f9f9917ba21046f20fbc",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.498036548Z"
+}

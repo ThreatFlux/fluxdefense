@@ -1,0 +1,17 @@
+{
+  "uuid": "db0e6053-eac7-4be8-99b0-fa7f12ae7c7e",
+  "path": "/usr/lib/llvm-18/include/clang/Frontend/PrecompiledPreamble.h",
+  "size": 10764,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "a073c456789c5bb73d6eb50180de377f001efa11fcbadb6d23ed0f24c3616d82",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.299954474Z"
+}

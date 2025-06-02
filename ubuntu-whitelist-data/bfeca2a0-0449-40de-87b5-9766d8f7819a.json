@@ -1,0 +1,17 @@
+{
+  "uuid": "bfeca2a0-0449-40de-87b5-9766d8f7819a",
+  "path": "/lib/firmware/mediatek/mt7662u.bin.zst",
+  "size": 50471,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.678539790Z",
+  "sha256_hash": "381ee0b7bb45f8e1d65757a52762149625103b1627ee49b78ef47ab1ce48a629",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.096951395Z"
+}

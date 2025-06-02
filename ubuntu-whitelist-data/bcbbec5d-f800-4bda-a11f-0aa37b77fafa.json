@@ -1,0 +1,17 @@
+{
+  "uuid": "bcbbec5d-f800-4bda-a11f-0aa37b77fafa",
+  "path": "/lib/llvm-18/include/clang-tidy/fuchsia/TrailingReturnCheck.h",
+  "size": 1401,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "5b18d08fc03dc5d486a253918a76723379cb1c5e8678731b81163d43cac1a2d4",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.913671925Z"
+}

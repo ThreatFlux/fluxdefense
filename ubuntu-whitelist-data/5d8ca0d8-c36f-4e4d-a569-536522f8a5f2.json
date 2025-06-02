@@ -1,0 +1,17 @@
+{
+  "uuid": "5d8ca0d8-c36f-4e4d-a569-536522f8a5f2",
+  "path": "/usr/lib/firmware/i915/tgl_huc_7.0.3.bin.zst",
+  "size": 124331,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.545541632Z",
+  "sha256_hash": "313604ada5d80ac0b128ad01223706afc78488a4de0089ae4bb53beb8a30130b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.759078567Z"
+}

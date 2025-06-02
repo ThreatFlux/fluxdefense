@@ -1,0 +1,15 @@
+{
+  "uuid": "813a9616-4e56-4e79-aacc-af14824a642b",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstalpha.so",
+  "size": 59856,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.771655196Z",
+  "sha256_hash": "b1c2783ecf7c165db70162162f9dfc7a541b5a1255ca9a4e2606ef96ef3d2a42",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.205689872Z"
+}

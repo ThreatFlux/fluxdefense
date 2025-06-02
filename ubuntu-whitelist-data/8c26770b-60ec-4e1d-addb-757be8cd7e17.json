@@ -1,0 +1,15 @@
+{
+  "uuid": "8c26770b-60ec-4e1d-addb-757be8cd7e17",
+  "path": "/usr/lib/x86_64-linux-gnu/gtk-2.0/modules/libgail.so",
+  "size": 351320,
+  "modified": "2024-07-15T16:53:59Z",
+  "created": "2025-05-09T05:07:35.804654693Z",
+  "sha256_hash": "17cf6667cd10cbe76a6b8aa4a8bba297d03379760f9ef9f988383dcc4b4ee21a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.322176753Z"
+}

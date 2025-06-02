@@ -1,0 +1,17 @@
+{
+  "uuid": "ea7b1295-8b32-4d57-96d4-1cda74ec28b1",
+  "path": "/usr/lib/firmware/amdgpu/bonaire_me.bin.zst",
+  "size": 3919,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.389543793Z",
+  "sha256_hash": "c5a1503cc80e2019855549c7d1cec9b9e3d83fe9905f1cb5451c1259cdccb773",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.749475086Z"
+}

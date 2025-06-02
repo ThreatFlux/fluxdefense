@@ -1,0 +1,17 @@
+{
+  "uuid": "a2d6c17c-dfcb-4e31-8b2f-576fb3cbfe0c",
+  "path": "/usr/lib/google-cloud-sdk/.install/anthoscli-linux-x86_64.manifest",
+  "size": 91,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:05:46.740273669Z",
+  "sha256_hash": "f5a34dc49142c9d06fba7b8c8e4b8e2c4e59a216c60a6ed7ef130e011a2baecc",
+  "file_type": {
+    "Other": "manifest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.537111420Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "509cce50-1513-49fd-89e2-ab3d62fec721",
+  "path": "/usr/bin/fwupdmgr",
+  "size": 121136,
+  "modified": "2025-03-25T17:48:06Z",
+  "created": "2025-05-09T05:24:28.638976132Z",
+  "sha256_hash": "db36abd8b290bc20daa0d3cdc18f8a1843533724be99aeec6931dd8332ae5b79",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:08.481234393Z"
+}

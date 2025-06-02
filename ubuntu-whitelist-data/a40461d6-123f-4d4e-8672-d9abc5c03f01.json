@@ -1,0 +1,15 @@
+{
+  "uuid": "a40461d6-123f-4d4e-8672-d9abc5c03f01",
+  "path": "/usr/bin/dh_installcron",
+  "size": 1690,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.513341269Z",
+  "sha256_hash": "eb5a6c0a12ea78b79b65b1ac90001c20106ce0c12091351b8a3b86e15b8d0a82",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:05.792480671Z"
+}

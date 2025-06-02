@@ -1,0 +1,17 @@
+{
+  "uuid": "97fcbdcb-ccfb-40cd-b2aa-131bfd1ed65d",
+  "path": "/lib/llvm-18/include/clang/Tooling/FixIt.h",
+  "size": 2823,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.553533265Z",
+  "sha256_hash": "404f3937be6854db214a86d7c61b535f2905f50307f8657fcfcf80cac76a9173",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.018305729Z"
+}

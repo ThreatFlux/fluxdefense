@@ -6,8 +6,9 @@ pub mod ffi;
 pub mod scanner;
 pub mod monitor;
 pub mod system_metrics;
+pub mod api;
 
-#[cfg(target_os = "linux")]
+#[cfg(all(target_os = "linux", feature = "pcap"))]
 pub mod linux_security;
 
 use anyhow::Result;

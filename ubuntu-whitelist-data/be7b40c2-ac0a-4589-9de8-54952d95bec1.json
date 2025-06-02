@@ -1,0 +1,17 @@
+{
+  "uuid": "be7b40c2-ac0a-4589-9de8-54952d95bec1",
+  "path": "/usr/lib/x86_64-linux-gnu/libtwolame.so.0.0.0",
+  "size": 133192,
+  "modified": "2024-04-08T16:21:15Z",
+  "created": "2025-05-09T05:07:32.327707750Z",
+  "sha256_hash": "d9cc5a4e0d2b7553048e32d47d5db2fb19bf68b2a5d6a7131cc9a8e036164ae4",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.062863768Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c1d774b5-44f4-450c-bea6-de6fede735f5",
+  "path": "/lib/firmware/i915/cml_huc_4.0.0.bin.zst",
+  "size": 71864,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.534541784Z",
+  "sha256_hash": "433b4bab1d5b2e83b22b13e55d58aeae0c1de8e28d6242ec10da488c1e7343e6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.720196567Z"
+}

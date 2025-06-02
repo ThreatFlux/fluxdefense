@@ -1,0 +1,15 @@
+{
+  "uuid": "b2f2a324-f785-48de-9101-8c42030e8926",
+  "path": "/usr/lib/x86_64-linux-gnu/libicutest.a",
+  "size": 132648,
+  "modified": "2024-08-09T02:33:20Z",
+  "created": "2025-05-12T13:34:33.857502927Z",
+  "sha256_hash": "d2b2fdf83935018293b77aa7be131f688391d5b500e583de0171041430edbdfa",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:28.092060743Z"
+}

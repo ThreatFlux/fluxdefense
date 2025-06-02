@@ -1,0 +1,17 @@
+{
+  "uuid": "a833618a-8f93-4d64-9015-cd539549c679",
+  "path": "/lib/llvm-18/include/clang/AST/ExprConcepts.h",
+  "size": 21555,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.518533726Z",
+  "sha256_hash": "561d7b2f13ee1c98a4f61d4f2018378b88ba1729329d301ff4bf289e98043e92",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.002258228Z"
+}

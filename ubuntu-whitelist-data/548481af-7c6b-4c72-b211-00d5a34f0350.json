@@ -1,0 +1,17 @@
+{
+  "uuid": "548481af-7c6b-4c72-b211-00d5a34f0350",
+  "path": "/lib/llvm-18/include/clang/Basic/DiagnosticCategories.h",
+  "size": 960,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.527533608Z",
+  "sha256_hash": "b9a16c32987fc64e0f4e2b53e7bf4c1f092f36f06d32e20f84ff791bb02e6f07",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.149163340Z"
+}

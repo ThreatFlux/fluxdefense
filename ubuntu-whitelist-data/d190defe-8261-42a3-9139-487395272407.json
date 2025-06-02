@@ -1,0 +1,15 @@
+{
+  "uuid": "d190defe-8261-42a3-9139-487395272407",
+  "path": "/usr/lib/update-notifier/distro-cd-updater",
+  "size": 14488,
+  "modified": "2024-10-08T13:47:14Z",
+  "created": "2025-05-09T05:24:21.710885176Z",
+  "sha256_hash": "982e67421aa2a3abba5ebe69cbec7f9ca1378ea5ab4e8d25866c60a9c866fb04",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.267842865Z"
+}

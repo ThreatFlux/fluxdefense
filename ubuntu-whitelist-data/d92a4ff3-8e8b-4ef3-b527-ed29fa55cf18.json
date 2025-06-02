@@ -1,0 +1,17 @@
+{
+  "uuid": "d92a4ff3-8e8b-4ef3-b527-ed29fa55cf18",
+  "path": "/lib/x86_64-linux-gnu/libkrb5support.so.0.1",
+  "size": 47904,
+  "modified": "2025-05-15T08:09:20Z",
+  "created": "2025-05-29T10:40:04.064603700Z",
+  "sha256_hash": "8e1ef5a40f7b0d5b0fbcd6e4f28dd50b263650338a2bb72503be34632f3629d6",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.159836852Z"
+}

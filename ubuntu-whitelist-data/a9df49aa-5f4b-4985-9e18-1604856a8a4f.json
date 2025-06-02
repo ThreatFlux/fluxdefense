@@ -1,0 +1,15 @@
+{
+  "uuid": "a9df49aa-5f4b-4985-9e18-1604856a8a4f",
+  "path": "/bin/dh_installinitramfs",
+  "size": 2563,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.513341269Z",
+  "sha256_hash": "54074b42f8f0bc5d4788b4adecf1d7ea929da8ac04a4808093101a3ea2092357",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.712721768Z"
+}

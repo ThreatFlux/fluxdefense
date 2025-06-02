@@ -1,0 +1,17 @@
+{
+  "uuid": "812954d4-a596-4d1a-8fdb-86fa64447e7f",
+  "path": "/usr/lib/firmware/cis/PE-200.cis.zst",
+  "size": 81,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.510542117Z",
+  "sha256_hash": "350c4a5cc29cce85c41a8fc4647171adf8a4df4a9538db204029b60dda99446c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:57.031699795Z"
+}

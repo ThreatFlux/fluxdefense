@@ -1,0 +1,17 @@
+{
+  "uuid": "019947f6-00ce-4b22-9884-ec5ba48f0cc2",
+  "path": "/usr/lib/firmware/amdgpu/bonaire_vce.bin.zst",
+  "size": 62835,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.389543793Z",
+  "sha256_hash": "8935a18d7a2ca7f682cf883932110582e939fe3649684612c5849cdf219a62b1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.778945499Z"
+}

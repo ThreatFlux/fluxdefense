@@ -1,0 +1,15 @@
+{
+  "uuid": "a9bfce96-a6ef-47c6-bc11-1f3f1d8a123a",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/managed_kafka/__init__.py",
+  "size": 1141,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.626933739Z",
+  "sha256_hash": "3fafedc7e8edd3a6f69d742a831452b51da76c25279241c7c13cb393ea984adb",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.760958539Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "cc12d4e4-07ba-403b-94e1-6bcf9a47e636",
+  "path": "/lib/grub/x86_64-efi/lspci.mod",
+  "size": 7272,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.814708369Z",
+  "sha256_hash": "a49f8c2ca212152d4c879f9b382fec5f41d5c8d44de50d0a58dcc4bfc7a2d143",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.140409305Z"
+}

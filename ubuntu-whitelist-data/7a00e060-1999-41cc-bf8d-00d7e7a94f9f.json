@@ -1,0 +1,17 @@
+{
+  "uuid": "7a00e060-1999-41cc-bf8d-00d7e7a94f9f",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/libwebpdecoder.pc",
+  "size": 283,
+  "modified": "2024-03-31T08:02:02Z",
+  "created": "2025-05-29T11:16:02.933102247Z",
+  "sha256_hash": "af345030fd184ed02b1f309c7f4edbd99c5544a31c35debb05925867521f5c6d",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.058464631Z"
+}

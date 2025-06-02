@@ -1,0 +1,15 @@
+{
+  "uuid": "22b030ed-2d11-43f5-bd96-c0ffb1da0ca6",
+  "path": "/usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-loopback.so",
+  "size": 55568,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.781860089Z",
+  "sha256_hash": "f0ad80520f1ed5d9efd558ee09f84a3c91c05bc60d8d71b65e3c4094a43ee8e7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.393550366Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a4ab5788-e44f-4973-a736-3f2136859842",
+  "path": "/lib/gnome-settings-daemon-3.0/gtk-modules/canberra-gtk3-module.desktop",
+  "size": 197,
+  "modified": "2011-02-23T01:24:15Z",
+  "created": "2025-05-09T05:07:21.687870110Z",
+  "sha256_hash": "809c216ca7a0733e15c4cc06676fd27a14869d22af7b7edd1798b2400979ccd1",
+  "file_type": {
+    "Other": "desktop"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.494404652Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "ed9f89cc-03cf-4d8f-afd4-59a6746d2a2e",
+  "path": "/lib/x86_64-linux-gnu/libldap.so.2.0.200",
+  "size": 372400,
+  "modified": "2024-12-09T02:50:18Z",
+  "created": "2025-05-09T05:24:29.808991618Z",
+  "sha256_hash": "4a0664ab6a8a66c685e78d5604b79df330f5710f0c5e2c382536a8325dc4c2a4",
+  "file_type": {
+    "Other": "200"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.292374846Z"
+}

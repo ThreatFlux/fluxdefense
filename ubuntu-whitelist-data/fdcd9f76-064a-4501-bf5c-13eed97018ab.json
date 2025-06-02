@@ -1,0 +1,17 @@
+{
+  "uuid": "fdcd9f76-064a-4501-bf5c-13eed97018ab",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/android/CloexecMemfdCreateCheck.h",
+  "size": 1216,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "605f4981d6a722cf8de4cfffbfe9ba7c3e96ca2fb4a12d8669d054a81702845d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.223259937Z"
+}

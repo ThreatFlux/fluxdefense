@@ -1,0 +1,15 @@
+{
+  "uuid": "8e2dd3cc-65ae-41e0-ab03-4eb20a5cf6ba",
+  "path": "/usr/bin/xdg-open",
+  "size": 26075,
+  "modified": "2022-08-01T14:14:26Z",
+  "created": "2025-05-09T05:07:20.910881967Z",
+  "sha256_hash": "faec92df30f89fa338d9fba723e010265ffd062b41decd7885b1ff8fd46cc529",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.659958465Z"
+}

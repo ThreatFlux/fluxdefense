@@ -1,0 +1,15 @@
+{
+  "uuid": "a655567f-886a-4a30-8d25-4c1634e0fbb3",
+  "path": "/sbin/nfsslower-bpfcc",
+  "size": 13939,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "7b5713e71914fe5906cfd58e19b7b4a4136479fc2a64eb5511a0f431adccd59c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.153282786Z"
+}

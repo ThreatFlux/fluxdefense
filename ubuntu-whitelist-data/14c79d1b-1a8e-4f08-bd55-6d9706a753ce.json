@@ -1,0 +1,17 @@
+{
+  "uuid": "14c79d1b-1a8e-4f08-bd55-6d9706a753ce",
+  "path": "/lib/rustlib/x86_64-unknown-linux-gnu/lib/libunwind-696e7611411ecc8d.rlib",
+  "size": 42062,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T17:41:10.694615159Z",
+  "sha256_hash": "7784cbb712439b6f8be25033c99ae8ea3c06dbec428c6f669a9948c8f57916cd",
+  "file_type": {
+    "Other": "rlib"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.471268882Z"
+}

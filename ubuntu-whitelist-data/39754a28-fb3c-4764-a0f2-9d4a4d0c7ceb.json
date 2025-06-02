@@ -1,0 +1,15 @@
+{
+  "uuid": "39754a28-fb3c-4764-a0f2-9d4a4d0c7ceb",
+  "path": "/usr/sbin/rubystat-bpfcc",
+  "size": 54,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "4d6ba191581009b5dbf70a3fea681774300df2039f9c3e7764ee7ed034d40b00",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.362954226Z"
+}

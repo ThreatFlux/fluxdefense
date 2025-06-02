@@ -1,0 +1,17 @@
+{
+  "uuid": "3405f861-e349-4689-9c34-1bbdb91f73fd",
+  "path": "/lib/x86_64-linux-gnu/perl5/5.38/Glib/Object.pod",
+  "size": 11955,
+  "modified": "2024-03-31T07:49:23Z",
+  "created": "2025-05-09T05:07:36.875638350Z",
+  "sha256_hash": "76fee3dce51b754ed8cb2a1d3bb98604e1f237889990ca7e6663ee77cb226a01",
+  "file_type": {
+    "Other": "pod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.345993181Z"
+}

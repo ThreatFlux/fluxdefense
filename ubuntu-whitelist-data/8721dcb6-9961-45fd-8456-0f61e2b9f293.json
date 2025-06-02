@@ -1,0 +1,17 @@
+{
+  "uuid": "8721dcb6-9961-45fd-8456-0f61e2b9f293",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/riscv_sifive_vector_builtin_sema.inc",
+  "size": 15029,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.537533476Z",
+  "sha256_hash": "e5b5e35bf545b0014ef42ca00dfebe227c1dbfba6750eccfd3d4aeabaa47ea76",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.559208919Z"
+}

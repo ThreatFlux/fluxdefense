@@ -1,0 +1,15 @@
+{
+  "uuid": "c2b7d5fe-f0d6-4f8c-ba96-1aee195c11f4",
+  "path": "/usr/libexec/x86_64-linux-gnu/isa-support/qemu-bad-x86-64-v2",
+  "size": 343,
+  "modified": "2024-04-18T17:54:37Z",
+  "created": "2025-05-26T20:18:23.196081220Z",
+  "sha256_hash": "c013346331bcc63b9ef4f8e1107caa3ae0cb4f7b7edb589749b80b0f78616f44",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.532322065Z"
+}

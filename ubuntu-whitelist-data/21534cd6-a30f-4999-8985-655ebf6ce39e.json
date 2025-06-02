@@ -1,0 +1,17 @@
+{
+  "uuid": "21534cd6-a30f-4999-8985-655ebf6ce39e",
+  "path": "/lib/firmware/nvidia/gp108/gr/gpccs_data.bin.zst",
+  "size": 552,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.940536161Z",
+  "sha256_hash": "2ff80c067c96116f4cd8c90d9e49e5b90f0260beacdb152fd687a148e4ea12c9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.434132761Z"
+}

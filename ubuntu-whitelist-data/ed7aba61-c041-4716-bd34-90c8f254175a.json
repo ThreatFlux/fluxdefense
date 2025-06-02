@@ -1,0 +1,17 @@
+{
+  "uuid": "ed7aba61-c041-4716-bd34-90c8f254175a",
+  "path": "/usr/lib/x86_64-linux-gnu/librte_meter.so.24.0",
+  "size": 14408,
+  "modified": "2024-12-18T18:31:38Z",
+  "created": "2025-05-26T20:18:25.939039785Z",
+  "sha256_hash": "279cf49628ced4f992b814eb0228a4a914f8ffb286d9e8d4fe1f7c3ea8ef57df",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.809598678Z"
+}

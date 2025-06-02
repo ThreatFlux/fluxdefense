@@ -1,0 +1,15 @@
+{
+  "uuid": "635ecdab-4a1f-4116-b884-452520da99e2",
+  "path": "/usr/lib/python3.12/lib2to3/fixes/fix_itertools_imports.py",
+  "size": 2086,
+  "modified": "2024-04-12T13:14:55Z",
+  "created": "2025-05-28T17:29:43.455611334Z",
+  "sha256_hash": "2e419cfbd7f2a326ae7fa10873aa377112ebec32545238fdf988acb088c3cdb7",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.920398299Z"
+}

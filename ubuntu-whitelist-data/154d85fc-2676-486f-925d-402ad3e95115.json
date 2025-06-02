@@ -1,0 +1,17 @@
+{
+  "uuid": "154d85fc-2676-486f-925d-402ad3e95115",
+  "path": "/usr/lib/firmware/amdgpu/vega20_ta.bin.zst",
+  "size": 24313,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.426543280Z",
+  "sha256_hash": "b4abb61bc7d29d0c58586211b57c6f04739719ac9c654cb3c73ff52307c9bb73",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.036935281Z"
+}

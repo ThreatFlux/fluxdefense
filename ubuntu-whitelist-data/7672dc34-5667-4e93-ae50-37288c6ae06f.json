@@ -1,0 +1,15 @@
+{
+  "uuid": "7672dc34-5667-4e93-ae50-37288c6ae06f",
+  "path": "/lib/llvm-18/lib/libLLVMX86TargetMCA.a",
+  "size": 7052,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.084460426Z",
+  "sha256_hash": "0ee41160d84957743be9aeac441f0276f346edf27347b3df6e62f905e123adbc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:37.857588891Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f3b182cb-35f5-482c-bf3a-9df79abcfc38",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/lib/ts_fsm.ko.zst",
+  "size": 4142,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.115797254Z",
+  "sha256_hash": "36f73d8c4e2c8c7ec9d1c942d3b210d24f56bcf92a96d7d350d0dc4e6c5255d7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.268442749Z"
+}

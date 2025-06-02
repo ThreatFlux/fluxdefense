@@ -1,0 +1,17 @@
+{
+  "uuid": "9d8dc4d3-5652-4f2e-8979-ca2ca9020e30",
+  "path": "/lib/x86_64-linux-gnu/libnuma.so.1.0.0",
+  "size": 52248,
+  "modified": "2024-04-08T16:14:45Z",
+  "created": "2025-05-09T05:07:31.750716555Z",
+  "sha256_hash": "ccce381ad9aca398846df70536100d3936eaa218b228ba589523ad6b67ef7f3c",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.725968763Z"
+}

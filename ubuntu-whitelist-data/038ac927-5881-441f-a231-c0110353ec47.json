@@ -1,0 +1,15 @@
+{
+  "uuid": "038ac927-5881-441f-a231-c0110353ec47",
+  "path": "/usr/sbin/e4crypt",
+  "size": 31104,
+  "modified": "2024-04-28T23:44:46Z",
+  "created": "2025-05-09T05:07:38.190618283Z",
+  "sha256_hash": "8769619fee779bfca67a65f81b4a99a6f709dc6c0b310ed42972b50d0c99f356",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.491829435Z"
+}

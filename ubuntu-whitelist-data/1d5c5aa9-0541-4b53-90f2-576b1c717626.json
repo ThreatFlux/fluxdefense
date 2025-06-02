@@ -1,0 +1,15 @@
+{
+  "uuid": "1d5c5aa9-0541-4b53-90f2-576b1c717626",
+  "path": "/usr/lib/apt/methods/rsh",
+  "size": 76272,
+  "modified": "2024-10-22T13:02:22Z",
+  "created": "2025-05-30T21:04:50.160634101Z",
+  "sha256_hash": "dc4cc2cb6c7eecbc49cc297f6a19a54dd741e87bc6e046430ecaaee17435214b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.975813738Z"
+}

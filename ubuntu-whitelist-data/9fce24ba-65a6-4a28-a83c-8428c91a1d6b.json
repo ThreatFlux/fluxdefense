@@ -1,0 +1,15 @@
+{
+  "uuid": "9fce24ba-65a6-4a28-a83c-8428c91a1d6b",
+  "path": "/usr/bin/wayland-scanner",
+  "size": 47336,
+  "modified": "2024-04-08T16:21:56Z",
+  "created": "2025-05-12T13:47:39.905138173Z",
+  "sha256_hash": "e955c99dd2badc09297e580cce9132c58a2bdd04e9ecd5b2df4696ae87ac87d2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.572906665Z"
+}

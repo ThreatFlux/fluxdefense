@@ -1,0 +1,15 @@
+{
+  "uuid": "9b64853e-2f37-4338-81ac-907cddf6001d",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/registry.py",
+  "size": 1022,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.240037230Z",
+  "sha256_hash": "dddcd986d171b1917b967e5adef58d04331aadc984172754958bff5d38fac205",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.822964658Z"
+}

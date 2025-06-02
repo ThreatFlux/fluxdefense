@@ -1,0 +1,15 @@
+{
+  "uuid": "2882e659-e97f-45d1-83b9-6d726b04a322",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstaasink.so",
+  "size": 39376,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.770655212Z",
+  "sha256_hash": "0c49fad21c15c34c2ed7e918bb588d8a7473693c89d1f9e21890a52b1d4e57ac",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.933828634Z"
+}

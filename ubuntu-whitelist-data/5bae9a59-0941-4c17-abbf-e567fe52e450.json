@@ -1,0 +1,15 @@
+{
+  "uuid": "5bae9a59-0941-4c17-abbf-e567fe52e450",
+  "path": "/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-pantech.so",
+  "size": 18720,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.160664520Z",
+  "sha256_hash": "e95d2f00f4b94bb835e7e3e904b6fe7c949b20c46e57fd7f60d6d8840406407a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.570227290Z"
+}

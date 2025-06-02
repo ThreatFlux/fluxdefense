@@ -1,0 +1,17 @@
+{
+  "uuid": "5dedc8df-62a5-443a-a80a-9fe574ce6b33",
+  "path": "/usr/lib/udev/rules.d/40-usb_modeswitch.rules",
+  "size": 42861,
+  "modified": "2023-12-16T21:51:02Z",
+  "created": "2025-05-09T05:07:28.435767140Z",
+  "sha256_hash": "9f2352448647d33410c53a5b9d3bbbc8235f6dd3b2ab724c8b664bec1618978d",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.105967902Z"
+}

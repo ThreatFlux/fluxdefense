@@ -1,0 +1,17 @@
+{
+  "uuid": "8eb14490-14da-4f14-94c5-aa48d260566c",
+  "path": "/usr/lib/firmware/radeon/BTC_rlc.bin.zst",
+  "size": 776,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.059534513Z",
+  "sha256_hash": "0bf68375373510387822c7a1006946db9dc19b0c54d1ab224e6eed37caa07742",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.373944926Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "4998bebc-ab8b-412f-9da5-f49fc9c42c0b",
+  "path": "/lib/libreoffice/program/libcached1.so",
+  "size": 350464,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:19.813235747Z",
+  "sha256_hash": "f4ce02b208247d4d5a651acd92d3accc34e954bdc13eabde60caffa64ef8a4a0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:49.642561250Z"
+}

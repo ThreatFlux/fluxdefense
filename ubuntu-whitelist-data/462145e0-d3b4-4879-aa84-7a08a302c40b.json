@@ -1,0 +1,15 @@
+{
+  "uuid": "462145e0-d3b4-4879-aa84-7a08a302c40b",
+  "path": "/sbin/applygnupgdefaults",
+  "size": 2217,
+  "modified": "2025-03-28T15:23:49Z",
+  "created": "2025-05-09T05:11:23.298182551Z",
+  "sha256_hash": "fd3dd5e998504628720e5047af75f2af198f016bc75ee5f8f6eabd735972cfe2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.745253320Z"
+}

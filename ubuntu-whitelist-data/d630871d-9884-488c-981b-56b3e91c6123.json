@@ -1,0 +1,17 @@
+{
+  "uuid": "d630871d-9884-488c-981b-56b3e91c6123",
+  "path": "/lib/llvm-18/include/clang-tidy/google/AvoidThrowingObjCExceptionCheck.h",
+  "size": 1506,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "c08a8820ca89c73ecb33f1a804a213cc15129a2f854f0b14028894d1f467b137",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.917308279Z"
+}

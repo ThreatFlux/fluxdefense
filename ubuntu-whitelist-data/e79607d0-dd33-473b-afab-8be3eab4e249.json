@@ -1,0 +1,17 @@
+{
+  "uuid": "e79607d0-dd33-473b-afab-8be3eab4e249",
+  "path": "/lib/firmware/ql2300_fw.bin.zst",
+  "size": 63937,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.057534540Z",
+  "sha256_hash": "ef50085698bd930a74bb05316765b6461fdfe9de76b6d813964caeee199962b6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.979607420Z"
+}

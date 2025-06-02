@@ -1,0 +1,17 @@
+{
+  "uuid": "d8ee0682-4696-4bb0-bbb6-eaff0c06da68",
+  "path": "/lib/firmware/ct2fw-3.2.5.1.bin.zst",
+  "size": 339444,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.510542117Z",
+  "sha256_hash": "eefaab2b383e84b5c8c06bf55dc45f11ccfa056ea034901e348a4d04336cee32",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.445806140Z"
+}

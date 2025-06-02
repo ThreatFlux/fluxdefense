@@ -1,0 +1,17 @@
+{
+  "uuid": "59af4c65-09e1-4518-9803-485494dfd8c5",
+  "path": "/lib/x86_64-linux-gnu/libabsl_examine_stack.so.20220623.0.0",
+  "size": 14496,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.938492440Z",
+  "sha256_hash": "8511b4eeb6704f82bd768581787a68e34a6c8feaa996a16905b3f60440464510",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.533787085Z"
+}

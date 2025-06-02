@@ -1,0 +1,17 @@
+{
+  "uuid": "f81f790e-3c65-4584-a77a-70ec25ea349b",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-nec.so.1.2.1",
+  "size": 84416,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.148634184Z",
+  "sha256_hash": "6d5bdbd9b9ec4dea4e60f3ec79cf76fa95b40383b3691cac377aa61761f62970",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.864286526Z"
+}

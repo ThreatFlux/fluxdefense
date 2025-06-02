@@ -1,0 +1,15 @@
+{
+  "uuid": "8ea002ad-2594-4666-acdf-82c1b6a94e7a",
+  "path": "/sbin/nameif",
+  "size": 14736,
+  "modified": "2025-05-28T13:23:35Z",
+  "created": "2025-05-29T10:40:06.156574722Z",
+  "sha256_hash": "6c2dae1bb2c2a608eaee45e8e81280d20d53789db267946af54d5af81d6c6a9e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.664336040Z"
+}

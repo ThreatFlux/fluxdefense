@@ -1,0 +1,17 @@
+{
+  "uuid": "7ba0bf1e-c75b-4277-a7d0-e66169793da8",
+  "path": "/lib/x86_64-linux-gnu/libabsl_raw_logging_internal.so.20220623.0.0",
+  "size": 14552,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.939492424Z",
+  "sha256_hash": "ba514da06b84f6a27765b91b2c4180b82d82eea2f4518c95e6f6ac556a9122d8",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.598711362Z"
+}

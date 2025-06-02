@@ -1,0 +1,17 @@
+{
+  "uuid": "00e3cece-e135-4319-8f61-468a57d0eb7c",
+  "path": "/lib/firmware/asihpi/dsp6205.bin.zst",
+  "size": 17066,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.432543197Z",
+  "sha256_hash": "3ea3529fbd0a145ba644705fe75dca0948e8ea63a459be2fbf9771ceac22d30e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.653869072Z"
+}

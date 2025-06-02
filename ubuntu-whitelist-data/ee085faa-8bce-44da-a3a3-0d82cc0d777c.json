@@ -1,0 +1,17 @@
+{
+  "uuid": "ee085faa-8bce-44da-a3a3-0d82cc0d777c",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-dmc.so.1.2.1",
+  "size": 63880,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.137634352Z",
+  "sha256_hash": "b73dd0d03a3de91b4f1bed4baaa1d608e63f16186530da27ff796d4ad510cb23",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.168925403Z"
+}

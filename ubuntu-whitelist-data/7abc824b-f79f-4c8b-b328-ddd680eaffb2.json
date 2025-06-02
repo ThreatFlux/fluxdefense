@@ -1,0 +1,17 @@
+{
+  "uuid": "7abc824b-f79f-4c8b-b328-ddd680eaffb2",
+  "path": "/usr/lib/firmware/intel/ibt-11-5.ddc.zst",
+  "size": 31,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.560541424Z",
+  "sha256_hash": "72374410a431cf5581a105e2b271dc74ddfb217018e3a82e3e73856c477f7b50",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.842423945Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "b1795ad2-27e4-478a-9345-a7114e5f920b",
+  "path": "/usr/lib/i386-linux-gnu/gconv/ISO_2033.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.282663385Z",
+  "sha256_hash": "99265f5870a9e6d40fcafd599e8c230e0c1f6ab913512510ff5f980601ea4549",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.934732620Z"
+}

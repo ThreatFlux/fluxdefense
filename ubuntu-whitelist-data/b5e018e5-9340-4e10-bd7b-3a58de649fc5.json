@@ -1,0 +1,17 @@
+{
+  "uuid": "b5e018e5-9340-4e10-bd7b-3a58de649fc5",
+  "path": "/usr/lib/x86_64-linux-gnu/sasl2/libanonymous.so.2.0.25",
+  "size": 18808,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T05:07:37.175633772Z",
+  "sha256_hash": "bac5629adfb58ec0731064ca8bb50d2166060dbfb2978347e387e7ba48282f90",
+  "file_type": {
+    "Other": "25"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.983367889Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "cf7573f1-010d-466a-b271-d32bd563e549",
+  "path": "/usr/bin/python3.12",
+  "size": 8019136,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:11:00.394532164Z",
+  "sha256_hash": "6bcd758cce71c048f2a5f69cf36a6af6f3038211807f2d5509bad71abaa5dbfe",
+  "file_type": {
+    "Other": "12"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:14.533956820Z"
+}

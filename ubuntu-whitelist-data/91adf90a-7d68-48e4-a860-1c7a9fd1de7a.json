@@ -1,0 +1,17 @@
+{
+  "uuid": "91adf90a-7d68-48e4-a860-1c7a9fd1de7a",
+  "path": "/usr/lib/x86_64-linux-gnu/libabsl_random_internal_randen_slow.so.20220623.0.0",
+  "size": 18296,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.939492424Z",
+  "sha256_hash": "356c8efd20d55a84a4d71e09b0aad11ab6f42e493d283e116332a8ae23b9a094",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:22.218776869Z"
+}

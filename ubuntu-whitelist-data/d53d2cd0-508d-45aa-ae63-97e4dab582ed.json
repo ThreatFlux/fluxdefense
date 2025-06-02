@@ -1,0 +1,15 @@
+{
+  "uuid": "d53d2cd0-508d-45aa-ae63-97e4dab582ed",
+  "path": "/bin/speaker-test",
+  "size": 31168,
+  "modified": "2024-04-07T07:09:55Z",
+  "created": "2025-05-09T05:07:20.572887124Z",
+  "sha256_hash": "6a4f923eda7e021d80d0a3745eef2257a0e6bac52e87b372c231b15b3da38bff",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.432370381Z"
+}

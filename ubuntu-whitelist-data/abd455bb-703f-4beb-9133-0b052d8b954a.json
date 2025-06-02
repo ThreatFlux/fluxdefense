@@ -1,0 +1,17 @@
+{
+  "uuid": "abd455bb-703f-4beb-9133-0b052d8b954a",
+  "path": "/usr/lib/x86_64-linux-gnu/samba/libldb-key-value-samba4.so.0",
+  "size": 96600,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.061635511Z",
+  "sha256_hash": "67e7f84a7d78eab5c736917e0af9bb9d39996395afe32748d3162374fb22f1c7",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.240331776Z"
+}

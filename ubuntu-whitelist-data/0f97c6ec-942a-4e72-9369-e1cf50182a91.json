@@ -1,0 +1,17 @@
+{
+  "uuid": "0f97c6ec-942a-4e72-9369-e1cf50182a91",
+  "path": "/lib/firmware/qcom/qrb4210/a610_zap.mbn.zst",
+  "size": 3579,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.999535344Z",
+  "sha256_hash": "113d4cee89453a2595492a66589bcda36015a034a468fe843b61687241c2dd29",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.066487312Z"
+}

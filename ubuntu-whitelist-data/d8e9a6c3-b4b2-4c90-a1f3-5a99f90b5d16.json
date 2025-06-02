@@ -1,0 +1,17 @@
+{
+  "uuid": "d8e9a6c3-b4b2-4c90-a1f3-5a99f90b5d16",
+  "path": "/usr/lib/google-cloud-sdk/.install/bq-nix.snapshot.json",
+  "size": 1080,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.312922087Z",
+  "sha256_hash": "631ace1ccfc891273f032e392d431cd452d58ba29bc593ab3622bf6a5c46ab8b",
+  "file_type": {
+    "Other": "json"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.521301585Z"
+}

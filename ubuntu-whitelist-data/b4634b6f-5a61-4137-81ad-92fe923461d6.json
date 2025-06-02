@@ -1,0 +1,15 @@
+{
+  "uuid": "b4634b6f-5a61-4137-81ad-92fe923461d6",
+  "path": "/lib/google-cloud-sdk/lib/surface/functions/remove_iam_policy_binding.py",
+  "size": 2431,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.638933535Z",
+  "sha256_hash": "03fd216e0a13079699323241a1acd9dccd38035baae46bbbea330bba4ba4e878",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.035050529Z"
+}

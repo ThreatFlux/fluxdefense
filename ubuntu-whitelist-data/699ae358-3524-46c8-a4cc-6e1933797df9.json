@@ -1,0 +1,17 @@
+{
+  "uuid": "699ae358-3524-46c8-a4cc-6e1933797df9",
+  "path": "/lib/x86_64-linux-gnu/libeot.so.0.0.0",
+  "size": 50840,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.370752873Z",
+  "sha256_hash": "f7634a2d637a7d04c21c8efb0b642f2853780e07868ced3549442ecb7913f39c",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:18.308878237Z"
+}

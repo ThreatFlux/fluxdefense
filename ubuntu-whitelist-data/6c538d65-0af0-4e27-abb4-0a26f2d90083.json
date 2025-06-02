@@ -1,0 +1,15 @@
+{
+  "uuid": "6c538d65-0af0-4e27-abb4-0a26f2d90083",
+  "path": "/bin/gobject-query",
+  "size": 14656,
+  "modified": "2025-05-15T12:06:49Z",
+  "created": "2025-05-27T10:16:57.776728066Z",
+  "sha256_hash": "728f60fb3b66ded9129a3801eb296ba93ad8582a7f6de28431393132379c9b1d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.524793373Z"
+}

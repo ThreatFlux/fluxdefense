@@ -1,0 +1,17 @@
+{
+  "uuid": "9d2ac0de-6606-4de1-b9b3-3eae674b91ef",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-adl-max98360a-da7219.tplg.zst",
+  "size": 2015,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.056491014Z",
+  "sha256_hash": "62dedc69bd9351c8cba30e162822b47a1a81bfac85304753421ed919a76aa834",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.854967816Z"
+}

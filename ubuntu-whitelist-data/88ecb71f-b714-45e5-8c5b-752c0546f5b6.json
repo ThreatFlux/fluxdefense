@@ -1,0 +1,15 @@
+{
+  "uuid": "88ecb71f-b714-45e5-8c5b-752c0546f5b6",
+  "path": "/usr/libexec/sssd/p11_child",
+  "size": 92552,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:38.054620358Z",
+  "sha256_hash": "32b3b9a49fa1c52d01f62d8fb96008d439c1ea11e88ac15e9f2227025dddf48f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.136617006Z"
+}

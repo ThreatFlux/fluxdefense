@@ -1,0 +1,17 @@
+{
+  "uuid": "78a46489-3ca4-4904-b3df-5762ced1ccb6",
+  "path": "/usr/lib/firmware/nvidia/gk20a/sw_ctx.bin.zst",
+  "size": 995,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.936536216Z",
+  "sha256_hash": "684e74919245035ac1c885a7fdb1b34c0842a48dfc99ffe382c79f70175500f9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.259359535Z"
+}

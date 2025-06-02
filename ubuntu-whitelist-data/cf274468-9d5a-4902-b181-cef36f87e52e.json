@@ -1,0 +1,17 @@
+{
+  "uuid": "cf274468-9d5a-4902-b181-cef36f87e52e",
+  "path": "/usr/lib/ispell/README.select-ispell",
+  "size": 197,
+  "modified": "2023-09-07T08:57:00Z",
+  "created": "2025-05-09T05:07:21.709869775Z",
+  "sha256_hash": "9baca5ee7a781ad43f956f26bdca242117f963146acbb0db91f25144301079c9",
+  "file_type": {
+    "Other": "select-ispell"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.634747422Z"
+}

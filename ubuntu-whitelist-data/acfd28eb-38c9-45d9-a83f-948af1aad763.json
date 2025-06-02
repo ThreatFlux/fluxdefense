@@ -1,0 +1,15 @@
+{
+  "uuid": "acfd28eb-38c9-45d9-a83f-948af1aad763",
+  "path": "/sbin/mkntfs",
+  "size": 67976,
+  "modified": "2024-04-08T14:46:29Z",
+  "created": "2025-05-09T05:07:38.366615597Z",
+  "sha256_hash": "8d0c3662ef5139e760c261132166929dbb5a38fee8fac15c5446b184090e4f6b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.798093520Z"
+}

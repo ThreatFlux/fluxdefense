@@ -1,0 +1,17 @@
+{
+  "uuid": "60830c32-1093-4d0f-b753-84b5f4f4e603",
+  "path": "/lib/llvm-18/include/clang/Basic/BuiltinsSME.def",
+  "size": 808,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.526533621Z",
+  "sha256_hash": "7eadaeca5e80af895d0fe2ca842a27e3b8d67f4210ae5d4df4a3461e735b25dc",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.094464344Z"
+}

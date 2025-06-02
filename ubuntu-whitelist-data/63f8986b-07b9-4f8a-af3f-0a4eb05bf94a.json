@@ -1,0 +1,15 @@
+{
+  "uuid": "63f8986b-07b9-4f8a-af3f-0a4eb05bf94a",
+  "path": "/lib/x86_64-linux-gnu/device-mapper/libdevmapper-event-lvm2vdo.so",
+  "size": 26848,
+  "modified": "2024-11-27T19:06:49Z",
+  "created": "2025-05-09T05:56:47.944660527Z",
+  "sha256_hash": "0ff9fc5831714a7356dca0521a89480c9af11c0773ad1e8d554472cc18fd0efc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.864626591Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "2b9d4fa8-3a38-4152-84b8-224ce69333d6",
+  "path": "/lib/firmware/rtl_bt/rtl8192ee_fw.bin.zst",
+  "size": 18344,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.065534429Z",
+  "sha256_hash": "10fb05a11662d223c93da4bb10ba564c5f63e12459337fd93f6f29f441e3fb5d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:01.934833479Z"
+}

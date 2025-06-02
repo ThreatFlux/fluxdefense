@@ -1,0 +1,17 @@
+{
+  "uuid": "e2f54372-1cf6-4bfc-9785-0997b6ee8cdd",
+  "path": "/usr/lib/x86_64-linux-gnu/libparted.so.2.0.5",
+  "size": 320128,
+  "modified": "2024-03-31T06:44:32Z",
+  "created": "2025-05-09T05:07:31.786716006Z",
+  "sha256_hash": "f6ffd90ec4268747b077d988f8191da3573ca78809ccbbe61f7acee906b0edb7",
+  "file_type": {
+    "Other": "5"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.902546942Z"
+}

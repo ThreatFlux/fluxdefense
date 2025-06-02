@@ -1,0 +1,17 @@
+{
+  "uuid": "6793a234-5ef2-458c-ae51-fd12738a51c6",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-tamarack.so.1.2.1",
+  "size": 67840,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.163633955Z",
+  "sha256_hash": "7bf3558d2b9604ec64f1c61905290b72da4c670be1a3ea96655dd733a0f95d35",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.241724243Z"
+}

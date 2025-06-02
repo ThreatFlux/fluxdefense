@@ -1,0 +1,17 @@
+{
+  "uuid": "d887e4d8-64ac-4c13-b017-3924e80d6e00",
+  "path": "/lib/x86_64-linux-gnu/samba/libutil-tdb-samba4.so.0",
+  "size": 14568,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.120634611Z",
+  "sha256_hash": "4ecede762fbec826c4936c85dbd1cfa98effbc646da4192b93da2258009ace19",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.434250198Z"
+}

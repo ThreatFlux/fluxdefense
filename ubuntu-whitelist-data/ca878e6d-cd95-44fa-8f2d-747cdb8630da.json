@@ -1,0 +1,17 @@
+{
+  "uuid": "ca878e6d-cd95-44fa-8f2d-747cdb8630da",
+  "path": "/usr/lib/llvm-18/include/clang/Testing/TestClangConfig.h",
+  "size": 2663,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.552533279Z",
+  "sha256_hash": "78059209876ff70949817bae8f57ab4f613499b6d6ebb075d71ecb2dca413ca7",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.310065650Z"
+}

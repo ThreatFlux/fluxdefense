@@ -1,0 +1,17 @@
+{
+  "uuid": "25b39b9c-819d-4cf4-b8fd-1c4f27e1f1d7",
+  "path": "/usr/lib/grub/x86_64-efi/backtrace.mod",
+  "size": 2552,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.801708567Z",
+  "sha256_hash": "dacf3ae50e7b0abadce227273058abe00dd89560e0bd4633955987341514d68e",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.593982713Z"
+}

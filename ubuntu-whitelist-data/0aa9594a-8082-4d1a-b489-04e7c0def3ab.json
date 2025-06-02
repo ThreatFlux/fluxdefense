@@ -1,0 +1,15 @@
+{
+  "uuid": "0aa9594a-8082-4d1a-b489-04e7c0def3ab",
+  "path": "/usr/bin/sss_ssh_authorizedkeys",
+  "size": 35128,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:20.616886453Z",
+  "sha256_hash": "eeb7891af79e818d6aff7b4a3a911c955a14bc309d66b7935d4fcc5cfc7215b9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:05.797007190Z"
+}

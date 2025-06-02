@@ -1,0 +1,17 @@
+{
+  "uuid": "5165d354-9d69-4a29-9c60-5f45c1d6cea2",
+  "path": "/lib/aspell/x86_64-linux-gnu/email.amf",
+  "size": 113,
+  "modified": "2024-04-08T15:54:10Z",
+  "created": "2025-05-09T05:07:21.019880303Z",
+  "sha256_hash": "e6aa85748d625c083850f8625d73696afde1a26011d965234c13029e2d18a9fb",
+  "file_type": {
+    "Other": "amf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.796869606Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e655a3c5-8fbd-4184-ab11-5417af6f8e0e",
+  "path": "/usr/lib/python3.12/test/xmltestdata/c14n-20/doc.dtd",
+  "size": 68,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.053550961Z",
+  "sha256_hash": "dee1adbb448ffb2d55c7f9816e53faa285dd4b9c7b7e862869f8aa003bc55b4e",
+  "file_type": {
+    "Other": "dtd"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.753768219Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "4349fa5e-ff11-4e88-b04e-f25d0c87ad34",
+  "path": "/bin/monitor-sensor",
+  "size": 18744,
+  "modified": "2024-03-31T08:58:13Z",
+  "created": "2025-05-09T05:07:20.184893045Z",
+  "sha256_hash": "f81e3b92e24e5149f0f7369654b7ed2b02f74f04ca9c4909c8015b504bef8cb0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.652005018Z"
+}

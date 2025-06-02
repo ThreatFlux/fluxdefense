@@ -1,0 +1,15 @@
+{
+  "uuid": "41d943fb-3625-4f35-b429-9fc9607ac42f",
+  "path": "/lib/google-cloud-sdk/lib/third_party/s3transfer/upload.py",
+  "size": 29558,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.117942387Z",
+  "sha256_hash": "ca140b6b6e571905485bf426fb56780d594f8f5ac4135c820abbfccc1df3e79f",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.885619398Z"
+}

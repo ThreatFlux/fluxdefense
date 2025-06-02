@@ -1,0 +1,17 @@
+{
+  "uuid": "e0277c4d-19e1-44f4-8caa-d44ed4a32d38",
+  "path": "/lib/x86_64-linux-gnu/libulockmgr.so.1.0.1",
+  "size": 18656,
+  "modified": "2024-03-31T05:27:22Z",
+  "created": "2025-05-09T05:30:00.126902690Z",
+  "sha256_hash": "745ce9d57cd26cc78a1a039642f4a3207275b825bd261910d107f9921cf69013",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.628609647Z"
+}

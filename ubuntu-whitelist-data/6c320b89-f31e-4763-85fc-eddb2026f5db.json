@@ -1,0 +1,17 @@
+{
+  "uuid": "6c320b89-f31e-4763-85fc-eddb2026f5db",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-caldel.ali",
+  "size": 3093,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.095344530Z",
+  "sha256_hash": "e1e7c37172ec800eb594b96c0fdc3e995ee134ad0e245b0f9d9f2cb1da558d00",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.699824674Z"
+}

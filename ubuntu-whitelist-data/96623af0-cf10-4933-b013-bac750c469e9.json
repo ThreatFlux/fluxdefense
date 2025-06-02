@@ -1,0 +1,17 @@
+{
+  "uuid": "96623af0-cf10-4933-b013-bac750c469e9",
+  "path": "/lib/firmware/mediatek/mt7915_eeprom_dbdc.bin.zst",
+  "size": 587,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.679539776Z",
+  "sha256_hash": "ba81f3a0a016a3eae23522f6a949eebf4aa7d77a26b12588feee32b2e2eaff13",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.097022167Z"
+}

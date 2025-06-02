@@ -1,0 +1,17 @@
+{
+  "uuid": "83c99b4a-d833-4dfc-a944-95d3d6a8dcab",
+  "path": "/lib/x86_64-linux-gnu/perl-base/Exporter/Heavy.pm",
+  "size": 6385,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.349578643Z",
+  "sha256_hash": "ee888b1e508a74d79d35d123b5aa352171ede62e05eac8b137a93ef93aa07c26",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.906724130Z"
+}

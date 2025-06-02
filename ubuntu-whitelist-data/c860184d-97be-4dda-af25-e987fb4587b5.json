@@ -1,0 +1,17 @@
+{
+  "uuid": "c860184d-97be-4dda-af25-e987fb4587b5",
+  "path": "/usr/lib/aspell/british-w_accents.alias",
+  "size": 85,
+  "modified": "2020-12-08T01:19:37Z",
+  "created": "2025-05-09T05:07:21.010880441Z",
+  "sha256_hash": "2d431e645d3c80b488b7cbc82b358a827da5a49477a1d72f9dbb5304871327c0",
+  "file_type": {
+    "Other": "alias"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.301351439Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "dc84d9c4-18e9-4aa5-a6ad-d70c3ebdecf1",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/include/avx512erintrin.h",
+  "size": 17697,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.241389896Z",
+  "sha256_hash": "03fbddd38a3033a266c98b38957ede20a7bb39acdc30ec3cf2c016ba5c5c6c7f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.900576829Z"
+}

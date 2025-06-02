@@ -1,0 +1,17 @@
+{
+  "uuid": "bcc78b42-0e9d-4070-b173-91c484a1409b",
+  "path": "/usr/lib/firmware/intel/ipu/shisp_2401a0_v21.bin.zst",
+  "size": 1275010,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.569541300Z",
+  "sha256_hash": "0126f06072380c6b3ba5d7a246170c993e5a44546d427fdf4c9a077722f3859e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.830429767Z"
+}

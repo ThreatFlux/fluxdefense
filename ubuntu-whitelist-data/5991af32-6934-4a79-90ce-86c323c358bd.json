@@ -1,0 +1,15 @@
+{
+  "uuid": "5991af32-6934-4a79-90ce-86c323c358bd",
+  "path": "/lib/python3.12/test/test_module/good_getattr.py",
+  "size": 198,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.030551263Z",
+  "sha256_hash": "5bcf1fbf4606c5ea0ab13bd0a95271ebc6bb30e8dcdd44592c575efff7ab819b",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.326105833Z"
+}

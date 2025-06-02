@@ -1,0 +1,17 @@
+{
+  "uuid": "6db94c3a-7c40-44e2-9fb9-43736f532e80",
+  "path": "/lib/firmware/nvidia/gp102/acr/ucode_unload.bin.zst",
+  "size": 1846,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.939536174Z",
+  "sha256_hash": "88607e76bf0d4615023933de83fef193e9f1eb9f6de9bbd13827d46f6866b39a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.438470924Z"
+}

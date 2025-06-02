@@ -1,0 +1,15 @@
+{
+  "uuid": "b9b3b96c-08e9-4bf7-b725-a5d6bb7f6f7d",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/config/cc_apk_configure.py",
+  "size": 4331,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.234037150Z",
+  "sha256_hash": "721078d216a6d946444a03bbccab5eda324a46d28cc3f6529c1b33a66f2c1544",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.851890447Z"
+}

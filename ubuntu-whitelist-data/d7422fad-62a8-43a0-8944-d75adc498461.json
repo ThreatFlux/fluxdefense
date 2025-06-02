@@ -1,0 +1,17 @@
+{
+  "uuid": "d7422fad-62a8-43a0-8944-d75adc498461",
+  "path": "/lib/x86_64-linux-gnu/libavc1394.so.0.3.0",
+  "size": 22768,
+  "modified": "2024-04-08T16:01:51Z",
+  "created": "2025-05-09T05:07:29.182755741Z",
+  "sha256_hash": "96fb9f93896ee8f876edaca51e7a51c4b95c30d9ced64ee9374875b413bff0d9",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.765442262Z"
+}

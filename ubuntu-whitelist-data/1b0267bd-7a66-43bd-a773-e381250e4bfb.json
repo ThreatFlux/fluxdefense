@@ -1,0 +1,15 @@
+{
+  "uuid": "1b0267bd-7a66-43bd-a773-e381250e4bfb",
+  "path": "/bin/nohup",
+  "size": 35240,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:20.235892267Z",
+  "sha256_hash": "da0bfc0631eb1f9031054a7b3fe2a9fdac5cb6d5dbb5ff0bb6600aae4e62e4ca",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.111506149Z"
+}

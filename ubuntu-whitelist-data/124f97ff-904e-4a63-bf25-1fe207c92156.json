@@ -1,0 +1,17 @@
+{
+  "uuid": "124f97ff-904e-4a63-bf25-1fe207c92156",
+  "path": "/usr/lib/systemd/resolv.conf",
+  "size": 710,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.510779317Z",
+  "sha256_hash": "d8bd60118a920446b887709a3b1f227008a3a4006bf9209a3fec627e18634ed4",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.490617612Z"
+}

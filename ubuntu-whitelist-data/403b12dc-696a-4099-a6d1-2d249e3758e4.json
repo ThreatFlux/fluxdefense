@@ -1,0 +1,17 @@
+{
+  "uuid": "403b12dc-696a-4099-a6d1-2d249e3758e4",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/a-tags.adb",
+  "size": 33806,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.060345011Z",
+  "sha256_hash": "3c18e38dddc58183386cfb45c64fcf5f5feb184424ce61aa4ac3f2ea57c9129f",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.028707969Z"
+}

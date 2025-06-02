@@ -1,0 +1,17 @@
+{
+  "uuid": "0feb8a9c-6849-4a67-8555-5fea51ed32e5",
+  "path": "/usr/lib/systemd/system/initrd.target",
+  "size": 810,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "58667069b4da13bbefdb9114459f630a8a63ab6ff22a11889c74a2bcd4f31494",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.467602275Z"
+}

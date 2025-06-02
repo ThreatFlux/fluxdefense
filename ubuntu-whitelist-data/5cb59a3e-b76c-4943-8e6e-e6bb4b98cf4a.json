@@ -1,0 +1,17 @@
+{
+  "uuid": "5cb59a3e-b76c-4943-8e6e-e6bb4b98cf4a",
+  "path": "/usr/lib/x86_64-linux-gnu/libnvidia-egl-wayland.so.1.1.17",
+  "size": 81624,
+  "modified": "2025-02-09T08:27:43Z",
+  "created": "2025-05-09T12:56:00.852920136Z",
+  "sha256_hash": "18eab7ac53dfd1592a9cf64fbbc01d111aa5b6bdfe7d39e6ff770d6dcab9a16c",
+  "file_type": {
+    "Other": "17"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:30.167494044Z"
+}

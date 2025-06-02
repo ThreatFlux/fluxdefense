@@ -1,0 +1,17 @@
+{
+  "uuid": "be788b9a-f712-4596-96e7-bc3e21c99d25",
+  "path": "/usr/lib/firmware/radeon/CYPRESS_pfp.bin.zst",
+  "size": 2127,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.060534499Z",
+  "sha256_hash": "967b9cc92b76747a63db95c8acc9d9ea5e7df5465a071c8f3696d3141cc94011",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.408649514Z"
+}

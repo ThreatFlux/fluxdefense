@@ -1,0 +1,17 @@
+{
+  "uuid": "50c98a05-38e4-4816-b4de-e8303d8ef2a1",
+  "path": "/usr/lib/firmware/i915/glk_guc_69.0.3.bin.zst",
+  "size": 95888,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.538541729Z",
+  "sha256_hash": "da2791c14b3dda4da94655964d03f229bc48752308584d02148bd2025c56b86b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.799599513Z"
+}

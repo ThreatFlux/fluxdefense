@@ -1,0 +1,17 @@
+{
+  "uuid": "0e28f777-64c5-4fca-a82d-4755212c64d0",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-mustek_pp.so.1.2.1",
+  "size": 117512,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.148634184Z",
+  "sha256_hash": "f01da2e50d5cb785dceab57dc06835bf8cea0122e299f59a8550c7d12e3694bc",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.234930566Z"
+}

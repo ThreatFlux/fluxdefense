@@ -1,0 +1,15 @@
+{
+  "uuid": "584f750b-3bb0-4dc1-923f-34d17a7e8e65",
+  "path": "/usr/lib/llvm-18/lib/libLLVMJITLink.a",
+  "size": 2829022,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.907462757Z",
+  "sha256_hash": "64c72ca3e7918ac8bc29bcc747dfe82eab0d79efa59b65d0e0d80048daa6bb93",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:33.976040183Z"
+}

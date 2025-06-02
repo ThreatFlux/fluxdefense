@@ -1,0 +1,15 @@
+{
+  "uuid": "b4889fdc-5090-48ac-acf8-5b51031891a1",
+  "path": "/usr/lib/python3.12/lib-dynload/_testinternalcapi.cpython-312-x86_64-linux-gnu.so",
+  "size": 37128,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:10:59.931539231Z",
+  "sha256_hash": "97efc3d10aa799785dc5504ab9b61bce2147ad8c1d249ba8e59035bf252c222d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.967901842Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "947c6996-8c5d-4be8-b63b-e38504f4cda0",
+  "path": "/lib/llvm-18/include/clang/Frontend/ChainedDiagnosticConsumer.h",
+  "size": 2448,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "dffc191c64d05c7b2af0199aaaa37f55d5b23bf207a729f3e20561d6f777cc5e",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.927871318Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "65898f70-e3cb-4c1b-8ef4-b8c2619a5f71",
+  "path": "/lib/grub/grub-sort-version",
+  "size": 1481,
+  "modified": "2025-03-17T11:36:42Z",
+  "created": "2025-05-09T05:08:37.602711604Z",
+  "sha256_hash": "2cc12ed30a0d47cbd1c2b932d1901af49bfa8819b36f24c762ae775b0f990374",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.015050191Z"
+}

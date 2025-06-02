@@ -1,0 +1,17 @@
+{
+  "uuid": "c0cf9d96-7867-423a-b436-753e41e775e1",
+  "path": "/lib/firmware/ti-connectivity/wl128x-fw-4-mr.bin.zst",
+  "size": 152821,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.077534263Z",
+  "sha256_hash": "c8244bc59cfe28638b97b4eab2f7cb829902ebe1f1aa28711e4f8e8332841374",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.518995325Z"
+}

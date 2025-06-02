@@ -1,0 +1,15 @@
+{
+  "uuid": "62810a7a-f90e-447b-ae32-4682a615b100",
+  "path": "/usr/lib/i386-linux-gnu/gconv/UTF-32.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.284663355Z",
+  "sha256_hash": "8b6978cdb78631fc0e2e6035da6bab38e99910a19b691f170ff333713af4a774",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:41.006389327Z"
+}

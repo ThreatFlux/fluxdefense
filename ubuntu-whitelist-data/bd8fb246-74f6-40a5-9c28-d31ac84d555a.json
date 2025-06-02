@@ -1,0 +1,17 @@
+{
+  "uuid": "bd8fb246-74f6-40a5-9c28-d31ac84d555a",
+  "path": "/lib/grub/x86_64-efi/echo.mod",
+  "size": 3064,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.803708536Z",
+  "sha256_hash": "75c8f1fb0bbca7d5d9c01dcdefa1b8a72c20818efc77f42163aac30e7ed5f599",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.031749895Z"
+}

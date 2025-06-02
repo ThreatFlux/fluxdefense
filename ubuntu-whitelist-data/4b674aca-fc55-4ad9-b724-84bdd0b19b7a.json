@@ -1,0 +1,17 @@
+{
+  "uuid": "4b674aca-fc55-4ad9-b724-84bdd0b19b7a",
+  "path": "/usr/lib/llvm-18/include/clang/Serialization/ASTWriter.h",
+  "size": 35519,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.549533318Z",
+  "sha256_hash": "db169c7af7c9023cf2c32e0d21b99746ef267596643ce36e59f1e6ed3259e71a",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.426735417Z"
+}

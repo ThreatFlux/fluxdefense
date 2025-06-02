@@ -1,0 +1,17 @@
+{
+  "uuid": "9c9c40bf-73b1-40ce-98e1-e6c0aaaf7c1d",
+  "path": "/lib/firmware/amdgpu/tonga_me.bin.zst",
+  "size": 6529,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.418543391Z",
+  "sha256_hash": "b8c0e0c508af95b11227d23ff54e8e1179aaab9e25de4c500c4ef85170864f1e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.963451353Z"
+}

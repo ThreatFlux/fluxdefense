@@ -1,0 +1,17 @@
+{
+  "uuid": "27243c59-8381-436e-8b3c-d31448ad5b25",
+  "path": "/lib/x86_64-linux-gnu/librav1e.so.0.7.1",
+  "size": 3287192,
+  "modified": "2024-02-17T07:23:49Z",
+  "created": "2025-05-09T05:09:19.104078206Z",
+  "sha256_hash": "17a828222eaf81d649941b6085d78000f05aedf812d7a22f4c1ce515ed80c7ab",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.222372036Z"
+}

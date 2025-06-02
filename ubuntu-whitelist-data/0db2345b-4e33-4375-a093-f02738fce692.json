@@ -1,0 +1,17 @@
+{
+  "uuid": "0db2345b-4e33-4375-a093-f02738fce692",
+  "path": "/lib/x86_64-linux-gnu/libc_malloc_debug.so.0",
+  "size": 60744,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:29.200755467Z",
+  "sha256_hash": "cc6ccca885265a5c0bc102b989ebe9502e12b8e2278f9b4b949caebdb084b611",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.814534297Z"
+}

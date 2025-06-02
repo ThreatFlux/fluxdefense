@@ -1,0 +1,15 @@
+{
+  "uuid": "a6d833d3-cec5-4730-a6fc-c967e05bd116",
+  "path": "/bin/node",
+  "size": 26704,
+  "modified": "2024-04-18T19:08:10Z",
+  "created": "2025-05-13T14:32:07.052895017Z",
+  "sha256_hash": "f3f93db342d5ac5bb61656d0599a603a73779e98befd9342171e550002725f4d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:20.058567596Z"
+}

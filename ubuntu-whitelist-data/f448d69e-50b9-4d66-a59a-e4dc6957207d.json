@@ -1,0 +1,15 @@
+{
+  "uuid": "f448d69e-50b9-4d66-a59a-e4dc6957207d",
+  "path": "/lib/llvm-18/lib/libLLVMHexagonAsmParser.a",
+  "size": 416212,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.884463060Z",
+  "sha256_hash": "a29f88cf92a91b9b05ace6802239dae48135424ff0d8bf5e9f051964482770b0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:40.286400139Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d5ba84a6-bf8e-4871-865d-94d4c7b3b054",
+  "path": "/lib/systemd/network/80-wifi-ap.network.example",
+  "size": 664,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.510779317Z",
+  "sha256_hash": "39bb68334023ca4431f5f4d5dd6170f3cce1635dd0b5e774c2aa095456f8c0e3",
+  "file_type": {
+    "Other": "example"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.195327829Z"
+}

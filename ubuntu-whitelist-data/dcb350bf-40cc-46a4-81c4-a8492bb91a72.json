@@ -1,0 +1,15 @@
+{
+  "uuid": "dcb350bf-40cc-46a4-81c4-a8492bb91a72",
+  "path": "/usr/lib/gnome-shell/libshew-0.so",
+  "size": 22680,
+  "modified": "2025-04-14T09:35:20Z",
+  "created": "2025-05-21T14:13:56.582918512Z",
+  "sha256_hash": "b33666ef08326e5489be32f7af9a9bdee8fd6dd9860e10b6da0fe10ec786527f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.333729690Z"
+}

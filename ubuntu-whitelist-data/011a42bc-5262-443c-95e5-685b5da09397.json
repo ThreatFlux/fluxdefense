@@ -1,0 +1,17 @@
+{
+  "uuid": "011a42bc-5262-443c-95e5-685b5da09397",
+  "path": "/usr/lib/grub/x86_64-efi/video.lst",
+  "size": 41,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.840707972Z",
+  "sha256_hash": "c1e522beadd3b37cad435d9ef6e955c5862d2964cc6534878ccff8c0a384dcc0",
+  "file_type": {
+    "Other": "lst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.463981059Z"
+}

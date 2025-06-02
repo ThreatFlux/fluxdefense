@@ -1,0 +1,15 @@
+{
+  "uuid": "d0aff144-5a25-4a9e-a89b-56724c1b1974",
+  "path": "/lib/x86_64-linux-gnu/libcrypt.a",
+  "size": 271404,
+  "modified": "2024-04-08T16:09:21Z",
+  "created": "2025-05-09T05:08:52.822479323Z",
+  "sha256_hash": "b83d28425e641d8edcffcea5967f7c6cfc771a56b835ac7517d9baf335b6a57d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.557225187Z"
+}

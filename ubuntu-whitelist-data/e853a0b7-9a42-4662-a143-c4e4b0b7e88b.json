@@ -1,0 +1,17 @@
+{
+  "uuid": "e853a0b7-9a42-4662-a143-c4e4b0b7e88b",
+  "path": "/usr/lib/x86_64-linux-gnu/libaio.so.1t64.0.2",
+  "size": 14336,
+  "modified": "2024-10-02T12:40:51Z",
+  "created": "2025-05-09T05:56:47.654663785Z",
+  "sha256_hash": "9dbba7441fe096f6654bfd31bfdbba52f41a209bd4a560468293c226ff63c998",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.436775439Z"
+}

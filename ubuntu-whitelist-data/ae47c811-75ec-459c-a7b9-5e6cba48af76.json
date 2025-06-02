@@ -1,0 +1,17 @@
+{
+  "uuid": "ae47c811-75ec-459c-a7b9-5e6cba48af76",
+  "path": "/usr/lib/udev/rules.d/60-bridge-network-interface.rules",
+  "size": 65,
+  "modified": "2023-01-25T21:11:52Z",
+  "created": "2025-05-09T05:56:47.137669593Z",
+  "sha256_hash": "73bd36fb6395e31c9eeaf0067dc664c88c3e24a756b3b37fb9c5bcb14cd6ecd8",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.106272709Z"
+}

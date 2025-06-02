@@ -1,0 +1,17 @@
+{
+  "uuid": "fff3200f-6624-42f0-8bda-3468c81c5c72",
+  "path": "/usr/lib/systemd/user/tracker-miner-fs-3.service",
+  "size": 421,
+  "modified": "2024-03-31T17:20:13Z",
+  "created": "2025-05-09T05:07:28.307769094Z",
+  "sha256_hash": "44512e584915146eaf8c3d1fa1a637e24cb7935910d47940506e7dae7a13d146",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.494708340Z"
+}

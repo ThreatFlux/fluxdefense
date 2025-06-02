@@ -1,0 +1,15 @@
+{
+  "uuid": "077f9d62-8a41-42b0-a405-aa89b0e1c389",
+  "path": "/usr/lib/x86_64-linux-gnu/libibverbs/libvmw_pvrdma-rdmav34.so",
+  "size": 26864,
+  "modified": "2024-03-31T08:21:10Z",
+  "created": "2025-05-09T05:07:35.871653670Z",
+  "sha256_hash": "47db4d63d6511d91b41e32003c965f4793f940e04ddbee968bbde9650c7bd9bd",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.094451339Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "0eaf3612-11e2-4c0e-99ca-f95c97bd1ddc",
+  "path": "/lib/x86_64-linux-gnu/libabsl_graphcycles_internal.so.20220623.0.0",
+  "size": 26872,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.938492440Z",
+  "sha256_hash": "fbfb724d7b37cd3e459bbfede0cd1baa3b85a50449440512f7fba54b315d0cb1",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.383415096Z"
+}

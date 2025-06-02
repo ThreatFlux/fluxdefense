@@ -1,0 +1,15 @@
+{
+  "uuid": "4b5c1533-6aa0-41da-8057-4191993312b3",
+  "path": "/lib/x86_64-linux-gnu/ao/plugins-4/liboss.so",
+  "size": 14680,
+  "modified": "2024-04-08T16:01:21Z",
+  "created": "2025-05-09T05:07:35.181664199Z",
+  "sha256_hash": "c8f58758253dfcd9140cdd24b30476769b029b3344f7c958031e23ba51d8a660",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.577925690Z"
+}

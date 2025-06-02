@@ -1,0 +1,17 @@
+{
+  "uuid": "e7300c95-67e1-4aa5-82cf-67c765fc1f65",
+  "path": "/usr/lib/firmware/i915/ehl_guc_33.0.4.bin.zst",
+  "size": 112990,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.536541757Z",
+  "sha256_hash": "4883cf1c82341a2a3d8815767f5c0db3cdf6b169f919680f21424d8740893c35",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.802236498Z"
+}

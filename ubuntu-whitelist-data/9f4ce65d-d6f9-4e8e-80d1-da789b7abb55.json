@@ -1,0 +1,15 @@
+{
+  "uuid": "9f4ce65d-d6f9-4e8e-80d1-da789b7abb55",
+  "path": "/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/io-wmf.so",
+  "size": 14488,
+  "modified": "2024-03-31T02:20:53Z",
+  "created": "2025-05-09T05:07:35.704656219Z",
+  "sha256_hash": "aabbfa0a4589744cfccd9ae2fdc981869ed20acad5d282d09b2414fc1e8e7abe",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:30.310630753Z"
+}

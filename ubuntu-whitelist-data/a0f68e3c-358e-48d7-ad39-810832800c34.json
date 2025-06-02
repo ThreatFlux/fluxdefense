@@ -1,0 +1,17 @@
+{
+  "uuid": "a0f68e3c-358e-48d7-ad39-810832800c34",
+  "path": "/lib/x86_64-linux-gnu/libXNVCtrl.so.0.0.0",
+  "size": 31120,
+  "modified": "2024-03-31T08:10:30Z",
+  "created": "2025-05-09T12:56:03.086977859Z",
+  "sha256_hash": "05f6209900c8018ee655b45272103e7de16f3cd170c974e8bc1181e5b57226e8",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.239058828Z"
+}

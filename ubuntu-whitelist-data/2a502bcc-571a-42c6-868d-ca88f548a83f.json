@@ -1,0 +1,17 @@
+{
+  "uuid": "2a502bcc-571a-42c6-868d-ca88f548a83f",
+  "path": "/lib/llvm-18/include/clang/Basic/FileSystemStatCache.h",
+  "size": 3365,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.530533568Z",
+  "sha256_hash": "3628b7bc0dd90d9c5068e617cbf7e05b03eac3811594387a10a669a1650d0408",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.095169279Z"
+}

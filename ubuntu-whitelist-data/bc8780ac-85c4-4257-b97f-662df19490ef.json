@@ -1,0 +1,17 @@
+{
+  "uuid": "bc8780ac-85c4-4257-b97f-662df19490ef",
+  "path": "/lib/grub/x86_64-efi/fat.mod",
+  "size": 8824,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.804708521Z",
+  "sha256_hash": "0dcc135c908a27322239d9f48c03e720829c648c30fe4cfe277150d73f778c51",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.048877999Z"
+}

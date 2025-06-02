@@ -1,0 +1,17 @@
+{
+  "uuid": "f39347ce-1249-4e4f-ac05-62fcba3febf7",
+  "path": "/lib/x86_64-linux-gnu/libfribidi.so.0.4.0",
+  "size": 121144,
+  "modified": "2024-04-08T15:57:48Z",
+  "created": "2025-05-09T05:07:29.526750492Z",
+  "sha256_hash": "550020af7ff4f77e3f05500e71051b676ee76f530479c2a836dfe899fcaf8395",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.007458681Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a125270d-6899-4a44-a3c3-979fc84663a7",
+  "path": "/usr/lib/firmware/radeon/CYPRESS_uvd.bin.zst",
+  "size": 76483,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.060534499Z",
+  "sha256_hash": "2e93965d38f1a03f8d781f243848924175b2a90da25741375ec7b118dbd5a999",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.379120722Z"
+}

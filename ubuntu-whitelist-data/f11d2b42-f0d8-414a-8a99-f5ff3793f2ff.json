@@ -1,0 +1,15 @@
+{
+  "uuid": "f11d2b42-f0d8-414a-8a99-f5ff3793f2ff",
+  "path": "/usr/libexec/gnome-remote-desktop-enable-service",
+  "size": 14656,
+  "modified": "2024-07-11T15:32:56Z",
+  "created": "2025-05-09T05:07:37.466629331Z",
+  "sha256_hash": "a90d24acf66729b962e0704f9bbf32e2a4e73294aec0b3f192f9b77f7a20ae18",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.482364162Z"
+}

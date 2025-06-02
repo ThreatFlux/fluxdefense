@@ -1,0 +1,15 @@
+{
+  "uuid": "dd525b2e-8117-45d0-bd3d-9d96e7c80f16",
+  "path": "/bin/gnome-text-editor",
+  "size": 555632,
+  "modified": "2024-08-13T11:29:03Z",
+  "created": "2025-05-09T05:07:19.674900827Z",
+  "sha256_hash": "2edda359554d55370450227d67940c8fa4f00d4c1b53c3c6a9bb9b4a33737a63",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.617870049Z"
+}

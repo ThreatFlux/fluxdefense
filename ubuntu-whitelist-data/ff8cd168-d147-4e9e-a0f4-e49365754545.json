@@ -1,0 +1,17 @@
+{
+  "uuid": "ff8cd168-d147-4e9e-a0f4-e49365754545",
+  "path": "/usr/lib/x86_64-linux-gnu/libgjs.so.0.0.0",
+  "size": 1316056,
+  "modified": "2024-04-08T14:39:54Z",
+  "created": "2025-05-09T05:07:29.813746113Z",
+  "sha256_hash": "fa55034e79132a36d8e11bcdf7d0b365717e3dc85efe3fca6414f075c422d7a1",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.560842723Z"
+}

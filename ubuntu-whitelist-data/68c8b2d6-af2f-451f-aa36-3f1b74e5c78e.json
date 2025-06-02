@@ -1,0 +1,17 @@
+{
+  "uuid": "68c8b2d6-af2f-451f-aa36-3f1b74e5c78e",
+  "path": "/usr/lib/python3.12/test/decimaltestdata/samequantum.decTest",
+  "size": 16202,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.997551697Z",
+  "sha256_hash": "a2d4cfdb9b174b45f1b619a8cd19e5e4b97508f5218ebed3bd7aec420cce393d",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.964753437Z"
+}

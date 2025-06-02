@@ -1,0 +1,17 @@
+{
+  "uuid": "f8902916-ef68-4fc3-81c9-75dfc9a5e95b",
+  "path": "/lib/python3.12/test/certdata/badcert.pem",
+  "size": 1928,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.987551828Z",
+  "sha256_hash": "262a107916641c7f211ac5898c0177535cd0bdc5aa872cc6e883842694d8f521",
+  "file_type": {
+    "Other": "pem"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.632406160Z"
+}

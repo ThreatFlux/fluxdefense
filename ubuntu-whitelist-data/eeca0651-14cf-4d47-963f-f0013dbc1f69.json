@@ -1,0 +1,15 @@
+{
+  "uuid": "eeca0651-14cf-4d47-963f-f0013dbc1f69",
+  "path": "/usr/lib/llvm-18/lib/libLLVMPowerPCAsmParser.a",
+  "size": 189618,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.969461941Z",
+  "sha256_hash": "6c432be6dc47275aefd79610cfad98246f4598582004f5817d01084cd1e38342",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:35.121948021Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "abc72e7f-faf4-4a5c-b865-7cfea531c3ec",
+  "path": "/lib/x86_64-linux-gnu/libcdda_interface.so.0.10.2",
+  "size": 73808,
+  "modified": "2024-04-08T15:55:19Z",
+  "created": "2025-05-09T05:07:29.208755345Z",
+  "sha256_hash": "b665140f29e0f23b4c4fa0ede1a142f53cfc4c1cb9805a77045e424f102a7a95",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.216850432Z"
+}

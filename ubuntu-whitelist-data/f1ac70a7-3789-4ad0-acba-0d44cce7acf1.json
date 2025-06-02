@@ -1,0 +1,15 @@
+{
+  "uuid": "f1ac70a7-3789-4ad0-acba-0d44cce7acf1",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/sources/DataSourceCloudStack.py",
+  "size": 11481,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.241037243Z",
+  "sha256_hash": "529ee0f87783699345570e9c0fdb09eab126cecbbd89b5e9a927053dbbb72d5f",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.831987920Z"
+}

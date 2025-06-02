@@ -1,0 +1,17 @@
+{
+  "uuid": "e0373d9a-9163-4327-9cf6-ab6f66a41000",
+  "path": "/usr/lib/llvm-18/include/clang/AST/StmtIterator.h",
+  "size": 4298,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.520533700Z",
+  "sha256_hash": "d31ba3fe72bbb05cc796eaac905e3c98f0f9e21b4825022c2b26611ed5b2f6f0",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.335956976Z"
+}

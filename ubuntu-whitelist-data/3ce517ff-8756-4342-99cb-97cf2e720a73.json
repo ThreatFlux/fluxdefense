@@ -1,0 +1,15 @@
+{
+  "uuid": "3ce517ff-8756-4342-99cb-97cf2e720a73",
+  "path": "/usr/lib/x86_64-linux-gnu/totem/plugins/recent/librecent.so",
+  "size": 30952,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:37.301631849Z",
+  "sha256_hash": "6882f5b2528b491392983e507bbe8647d9bd07cc817b87128595e31001915245",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:26.377922031Z"
+}

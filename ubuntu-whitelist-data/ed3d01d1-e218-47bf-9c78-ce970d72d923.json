@@ -1,0 +1,17 @@
+{
+  "uuid": "ed3d01d1-e218-47bf-9c78-ce970d72d923",
+  "path": "/usr/lib/firmware/brcm/brcmfmac4350-pcie.bin.zst",
+  "size": 373681,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.485542463Z",
+  "sha256_hash": "be47eeefac94efd6dfd265926715e3158517390ffe1ccdc3cd7c3e6dff2f50fd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.690003973Z"
+}

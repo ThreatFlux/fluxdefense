@@ -1,0 +1,17 @@
+{
+  "uuid": "bad85ffb-6af8-4404-96df-be885e7f8768",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/Diagnostic.h",
+  "size": 65092,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.527533608Z",
+  "sha256_hash": "e5be8d95b79bc67c153ba485d16845b27c926cedc4c775363ea844abc800d295",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.563502595Z"
+}

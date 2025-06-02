@@ -1,0 +1,15 @@
+{
+  "uuid": "d7ad03f5-5e66-497e-91f2-405426db9d57",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/distros/mariner.py",
+  "size": 1740,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.237037190Z",
+  "sha256_hash": "2f2cba1ac01dd2a0428ad55b7c8c543a1bc967819bb5fe9c9cbd2e7740715983",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.841139361Z"
+}

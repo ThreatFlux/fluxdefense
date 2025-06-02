@@ -1,0 +1,17 @@
+{
+  "uuid": "d16b2577-41a9-4643-8230-e6ae9d667a32",
+  "path": "/lib/udev/hwdb.d/20-bluetooth-vendor-product.hwdb",
+  "size": 140340,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.050786220Z",
+  "sha256_hash": "6a6ad8bd08e79a995f11459f6191d922126b4cc2452ca685c2c874b7839caae6",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.254893965Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "051f0e8c-200b-4c82-a5fc-f59e11bce23c",
+  "path": "/usr/lib/libreoffice/program/libbootstraplo.so",
+  "size": 603744,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:03.177489684Z",
+  "sha256_hash": "9daf0db124dd052ab8ee61c83aeb87fafaadf54f23c281c63a3d37f7aae1d0f6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:42.175246899Z"
+}

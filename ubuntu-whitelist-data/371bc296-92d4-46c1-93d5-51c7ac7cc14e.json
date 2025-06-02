@@ -1,0 +1,15 @@
+{
+  "uuid": "371bc296-92d4-46c1-93d5-51c7ac7cc14e",
+  "path": "/lib/llvm-18/lib/libLLVMGlobalISel.a",
+  "size": 2747654,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.881463100Z",
+  "sha256_hash": "04751b4acd188ad4d45b1683a020454c5156acb6212bbcdf8c0cae3ecb469839",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:40.271804697Z"
+}

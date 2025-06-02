@@ -1,0 +1,17 @@
+{
+  "uuid": "e2b8fa63-d313-49a1-b9db-8fb24b952753",
+  "path": "/lib/grub/x86_64-efi/crypto.mod",
+  "size": 7184,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.802708552Z",
+  "sha256_hash": "3bc89a8b12cefd1f46a24f5e52c045569ad996ae3f24c9a1f30e49d3781bd063",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.048622372Z"
+}

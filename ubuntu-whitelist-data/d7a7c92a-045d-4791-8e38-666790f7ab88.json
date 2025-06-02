@@ -1,0 +1,15 @@
+{
+  "uuid": "d7a7c92a-045d-4791-8e38-666790f7ab88",
+  "path": "/sbin/mkinitramfs",
+  "size": 15762,
+  "modified": "2025-02-07T14:21:59Z",
+  "created": "2025-05-09T05:24:23.583909636Z",
+  "sha256_hash": "209dbb330f57bf5f3c60d9dec060d098c751af464077127cd5e69103a4aeb649",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.691046359Z"
+}

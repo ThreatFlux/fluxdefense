@@ -1,0 +1,15 @@
+{
+  "uuid": "e96683f2-de20-4369-8413-f8e5883dc304",
+  "path": "/sbin/pppd",
+  "size": 420416,
+  "modified": "2024-04-03T17:56:59Z",
+  "created": "2025-05-09T05:07:38.402615048Z",
+  "sha256_hash": "35fabb31c2ca355951f3b0eff465177b674a968cce25ee3ac1ce87ed6cff2590",
+  "file_type": "Executable",
+  "permissions": 35308,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.987821400Z"
+}

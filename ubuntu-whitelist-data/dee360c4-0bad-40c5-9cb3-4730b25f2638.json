@@ -1,0 +1,15 @@
+{
+  "uuid": "dee360c4-0bad-40c5-9cb3-4730b25f2638",
+  "path": "/usr/bin/gnome-extensions",
+  "size": 76240,
+  "modified": "2025-04-14T09:35:20Z",
+  "created": "2025-05-21T14:13:56.577918586Z",
+  "sha256_hash": "4ce00e4910aec431d4b02110c74ea36fb5478672b52bf0607ba4c4928dcd90be",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.543411748Z"
+}

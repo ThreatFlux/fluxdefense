@@ -1,0 +1,15 @@
+{
+  "uuid": "9e1576ff-5cc5-41d6-8d4c-4a1144732675",
+  "path": "/usr/lib/brltty/libbrlttyxem.so",
+  "size": 22624,
+  "modified": "2024-03-31T00:24:15Z",
+  "created": "2025-05-09T05:07:21.033880090Z",
+  "sha256_hash": "40979b8523b3345664663ad7e78269f5a05dc25d310e07a33cf5539838ff50b1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.249684385Z"
+}

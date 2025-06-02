@@ -1,0 +1,17 @@
+{
+  "uuid": "be6955de-7447-4c91-ad92-fcc86100dd51",
+  "path": "/lib/x86_64-linux-gnu/libxcb-damage.so.0.0.0",
+  "size": 14536,
+  "modified": "2024-04-18T14:21:22Z",
+  "created": "2025-05-09T05:07:35.149664688Z",
+  "sha256_hash": "382d2b674151a86bff2465644af92cc200a6129447e2181c9ac6441fd69e1394",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.880783027Z"
+}

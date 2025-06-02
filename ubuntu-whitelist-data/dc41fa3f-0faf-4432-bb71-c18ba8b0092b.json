@@ -1,0 +1,17 @@
+{
+  "uuid": "dc41fa3f-0faf-4432-bb71-c18ba8b0092b",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/g-souinf.ali",
+  "size": 1485,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.109344338Z",
+  "sha256_hash": "b89f035a64c068300ce2416b21fcf77fe26291e4a07a9b5a5e59df3bca3fb9db",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.686629161Z"
+}

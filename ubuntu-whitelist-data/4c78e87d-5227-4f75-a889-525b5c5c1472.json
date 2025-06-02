@@ -1,0 +1,17 @@
+{
+  "uuid": "4c78e87d-5227-4f75-a889-525b5c5c1472",
+  "path": "/lib/x86_64-linux-gnu/libgrlnet-0.3.so.0.316.0",
+  "size": 43160,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.833745808Z",
+  "sha256_hash": "674d1ffd0180ee917c9232b543565e7449d2f15963c3ddea389a48f2138364fe",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.147044085Z"
+}

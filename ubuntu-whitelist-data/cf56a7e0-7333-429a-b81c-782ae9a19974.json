@@ -1,0 +1,15 @@
+{
+  "uuid": "cf56a7e0-7333-429a-b81c-782ae9a19974",
+  "path": "/lib/python3/dist-packages/cloudinit/sources/DataSourceEc2.py",
+  "size": 43266,
+  "modified": "2025-04-02T15:09:15Z",
+  "created": "2025-05-09T05:24:33.241037243Z",
+  "sha256_hash": "194b38972a6f7fbf65254a0fcbdc352886f105701e9a364019acd92b6664d181",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.899081930Z"
+}

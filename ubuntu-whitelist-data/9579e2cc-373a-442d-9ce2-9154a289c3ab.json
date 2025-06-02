@@ -1,0 +1,15 @@
+{
+  "uuid": "9579e2cc-373a-442d-9ce2-9154a289c3ab",
+  "path": "/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so",
+  "size": 207352,
+  "modified": "2024-04-18T13:39:03Z",
+  "created": "2025-05-09T05:07:35.708656158Z",
+  "sha256_hash": "2a78d051030358c606fe5b9d8f67b06f048a033cb9e80e12ae1c3171f14299f2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.897027323Z"
+}

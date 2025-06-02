@@ -1,0 +1,15 @@
+{
+  "uuid": "5d75fc1a-6732-4601-b225-47b3ca3d79f3",
+  "path": "/usr/bin/chown",
+  "size": 59912,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:19.100909586Z",
+  "sha256_hash": "3fbdbc8cf10dca5adcf87a7baf83499cbff4c66942e27e2ca7df49e7bfe13a1c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.868282733Z"
+}

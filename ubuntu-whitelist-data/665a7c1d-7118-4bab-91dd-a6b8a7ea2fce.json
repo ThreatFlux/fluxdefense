@@ -1,0 +1,15 @@
+{
+  "uuid": "665a7c1d-7118-4bab-91dd-a6b8a7ea2fce",
+  "path": "/usr/lib/systemd/systemd-modules-load",
+  "size": 19008,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.519779432Z",
+  "sha256_hash": "a3deb96b3a0cfac4d49874c2087672fd8d7a233d63dff3a1eac9e8202173c9ed",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.508829124Z"
+}

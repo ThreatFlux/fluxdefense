@@ -1,0 +1,15 @@
+{
+  "uuid": "f21b1082-622e-4804-8d0e-083d11992418",
+  "path": "/usr/sbin/filelife-bpfcc",
+  "size": 6528,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "9b84da8a0d94dbae645eecdd229d0ff97e02df515b932afdd32afe9d4d1fe25f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.325315150Z"
+}

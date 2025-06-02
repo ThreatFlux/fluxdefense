@@ -1,0 +1,15 @@
+{
+  "uuid": "adb65e6c-a558-49cc-b095-76bb1e81a79e",
+  "path": "/lib/x86_64-linux-gnu/libdw-0.190.so",
+  "size": 737696,
+  "modified": "2025-03-17T16:03:58Z",
+  "created": "2025-05-09T05:09:47.592643391Z",
+  "sha256_hash": "989dc9873f358a5af7d18d6100cf5fd66531d7990dc47d69068b3c6c96588867",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:28.944048507Z"
+}

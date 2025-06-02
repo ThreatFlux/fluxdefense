@@ -1,0 +1,15 @@
+{
+  "uuid": "3f8d72b0-061a-42c9-a107-f334c4f862b1",
+  "path": "/lib/llvm-18/bin/yaml2obj",
+  "size": 2811064,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.090486688Z",
+  "sha256_hash": "ae38e23f5c44b31ae2853295893278a403acb490e3204bc05ba02766c7028dd4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.634187097Z"
+}

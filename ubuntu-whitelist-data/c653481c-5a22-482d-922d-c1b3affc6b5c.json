@@ -1,0 +1,17 @@
+{
+  "uuid": "c653481c-5a22-482d-922d-c1b3affc6b5c",
+  "path": "/usr/lib/firmware/rtl_nic/rtl8105e-1.fw.zst",
+  "size": 916,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.067534402Z",
+  "sha256_hash": "08a3fc92fdce38f96780596c3ed4cd83579dbae46f55ffefd3199e7b462a9b6d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.565318356Z"
+}

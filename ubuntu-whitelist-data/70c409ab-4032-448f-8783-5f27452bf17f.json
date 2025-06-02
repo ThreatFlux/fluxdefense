@@ -1,0 +1,15 @@
+{
+  "uuid": "70c409ab-4032-448f-8783-5f27452bf17f",
+  "path": "/usr/bin/foo2hiperc",
+  "size": 44024,
+  "modified": "2024-04-10T21:38:27Z",
+  "created": "2025-05-09T05:07:19.220907755Z",
+  "sha256_hash": "e7072922d76a5489b1dd68fa4e3131346636f173d626a98296af7b1864e3412e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.458743149Z"
+}

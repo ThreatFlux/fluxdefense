@@ -1,0 +1,15 @@
+{
+  "uuid": "2f34feb7-c1b8-40df-8140-250d9d772edd",
+  "path": "/usr/lib/cups/filter/rastertoptch",
+  "size": 27000,
+  "modified": "2024-03-31T17:02:37Z",
+  "created": "2025-05-09T05:07:21.360875100Z",
+  "sha256_hash": "810bcaa436b30ce1e67222e55615fed494ba87f2000a03a2d5cd85b512a55557",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.983761220Z"
+}

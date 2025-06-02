@@ -1,0 +1,15 @@
+{
+  "uuid": "148f7151-3256-4672-aa36-260bd71d6790",
+  "path": "/lib/x86_64-linux-gnu/NetworkManager/libnm-vpn-plugin-pptp-editor.so",
+  "size": 59864,
+  "modified": "2024-03-31T09:21:08Z",
+  "created": "2025-05-09T05:07:35.173664322Z",
+  "sha256_hash": "1ab3fa3bba8504847738f6c50aba0f614f2ca5cbd7c4e22b43e79475923abef3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.711479244Z"
+}

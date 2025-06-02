@@ -1,0 +1,17 @@
+{
+  "uuid": "b21edf71-48fd-4d41-b972-1e9a3a717ef0",
+  "path": "/usr/lib/x86_64-linux-gnu/libabsl_random_internal_seed_material.so.20220623.0.0",
+  "size": 14584,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.939492424Z",
+  "sha256_hash": "00caa0eecc2e80e866cfc59c0d95ecd9ea2bdbd4ead0731f39ee4ffa05364146",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:29.552457203Z"
+}

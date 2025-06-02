@@ -1,0 +1,17 @@
+{
+  "uuid": "3c4ccc04-a023-41db-93b9-0a2bfdb0c6b8",
+  "path": "/lib/x86_64-linux-gnu/libe2p.so.2.3",
+  "size": 45168,
+  "modified": "2024-04-28T23:44:46Z",
+  "created": "2025-05-09T05:07:29.363752979Z",
+  "sha256_hash": "471a02b06797769a6d0e11a59c138074985f56d1ec62dfcbe2feb00a31f37c28",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.695928988Z"
+}

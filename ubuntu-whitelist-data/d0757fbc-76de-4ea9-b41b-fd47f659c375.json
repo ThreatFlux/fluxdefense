@@ -1,0 +1,17 @@
+{
+  "uuid": "d0757fbc-76de-4ea9-b41b-fd47f659c375",
+  "path": "/lib/llvm-18/include/clang-tidy/performance/InefficientVectorOperationCheck.h",
+  "size": 2082,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "b49169571fbf20fb66966664abd9f5d68b8d9f14a6feed3f8ada27c2220fd7f1",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.921314524Z"
+}

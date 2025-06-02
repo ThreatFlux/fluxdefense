@@ -1,0 +1,17 @@
+{
+  "uuid": "f717f43d-18ea-49fa-a9fd-4038c7bf3d70",
+  "path": "/lib/firmware/qlogic/isp1000.bin.zst",
+  "size": 10794,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.058534526Z",
+  "sha256_hash": "afc18a99332e834818712208e6644ab6959173772cc7583bcc434b6db6d66723",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.421266030Z"
+}

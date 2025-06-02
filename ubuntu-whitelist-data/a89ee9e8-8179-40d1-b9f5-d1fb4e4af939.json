@@ -1,0 +1,15 @@
+{
+  "uuid": "a89ee9e8-8179-40d1-b9f5-d1fb4e4af939",
+  "path": "/sbin/rfkill",
+  "size": 30952,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.409614941Z",
+  "sha256_hash": "11327d62b57f47f3d3e336cb71329d2efe65e616a5d49cde6349049da8dad7c9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.738382471Z"
+}

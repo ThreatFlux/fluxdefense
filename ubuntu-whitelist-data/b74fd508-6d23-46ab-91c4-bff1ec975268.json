@@ -1,0 +1,15 @@
+{
+  "uuid": "b74fd508-6d23-46ab-91c4-bff1ec975268",
+  "path": "/usr/lib/i386-linux-gnu/gconv/TSCII.so",
+  "size": 21900,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.284663355Z",
+  "sha256_hash": "f89f7888bc494109887462deafd3344dc49c3a0187ea83b53ad78ac747552940",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:41.011802625Z"
+}

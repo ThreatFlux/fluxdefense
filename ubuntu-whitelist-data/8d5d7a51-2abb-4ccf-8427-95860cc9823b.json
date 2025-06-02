@@ -1,0 +1,17 @@
+{
+  "uuid": "8d5d7a51-2abb-4ccf-8427-95860cc9823b",
+  "path": "/lib/firmware/radeon/RV730_me.bin.zst",
+  "size": 2133,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.062534471Z",
+  "sha256_hash": "56b8cab4fcc1dde06fc66732aed7ba9dfabba71ea915a0382e3871bc031aac7b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.387596389Z"
+}

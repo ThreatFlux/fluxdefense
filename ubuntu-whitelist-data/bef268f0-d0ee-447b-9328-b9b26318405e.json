@@ -1,0 +1,17 @@
+{
+  "uuid": "bef268f0-d0ee-447b-9328-b9b26318405e",
+  "path": "/lib/systemd/systemd-resolved",
+  "size": 535048,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:12.158762064Z",
+  "sha256_hash": "54325f184a8be2836c8f595a4ca246e475bf42f6e01bd9fdc97d9600a6d4358a",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.176744070Z"
+}

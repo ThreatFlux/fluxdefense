@@ -1,0 +1,15 @@
+{
+  "uuid": "a9441bce-647e-4176-b127-845fabc54512",
+  "path": "/usr/lib/aspell/x86_64-linux-gnu/sgml-filter.so",
+  "size": 26856,
+  "modified": "2024-04-08T15:54:10Z",
+  "created": "2025-05-09T05:07:21.019880303Z",
+  "sha256_hash": "6a5dd2b85272c5034523b191d252d326303a355143bd1f122b65c137738fb532",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.315096704Z"
+}

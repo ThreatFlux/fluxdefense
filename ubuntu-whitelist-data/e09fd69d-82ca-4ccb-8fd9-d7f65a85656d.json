@@ -1,0 +1,17 @@
+{
+  "uuid": "e09fd69d-82ca-4ccb-8fd9-d7f65a85656d",
+  "path": "/lib/libBLT.2.5.so.8.6",
+  "size": 1485232,
+  "modified": "2024-04-08T15:54:39Z",
+  "created": "2025-05-28T17:29:44.079603140Z",
+  "sha256_hash": "6b91a969d850ddc6b3124743caccb370fc9c015e1a7623be6c23ae0ee2136ab5",
+  "file_type": {
+    "Other": "6"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.606478479Z"
+}

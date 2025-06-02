@@ -1,0 +1,17 @@
+{
+  "uuid": "907dce33-54b6-41fa-a7a8-44735595c54f",
+  "path": "/usr/lib/firmware/amdgpu/arcturus_asd.bin.zst",
+  "size": 40521,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.386543834Z",
+  "sha256_hash": "919454c3b03445d01a3c2acfe47d09f0bbfd633884fb06d44f465f12a8a21581",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.946421252Z"
+}

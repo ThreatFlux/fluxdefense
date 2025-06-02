@@ -1,0 +1,17 @@
+{
+  "uuid": "210f5d38-91d6-4e55-8728-acbf787e0079",
+  "path": "/usr/lib/x86_64-linux-gnu/libabsl_periodic_sampler.so.20220623.0.0",
+  "size": 14664,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.939492424Z",
+  "sha256_hash": "d12c79138a4a044556118a37135263dc940852d87d073a5d8920024d84d451f6",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.443817999Z"
+}

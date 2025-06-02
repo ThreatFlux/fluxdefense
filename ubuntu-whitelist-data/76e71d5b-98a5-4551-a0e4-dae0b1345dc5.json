@@ -1,0 +1,17 @@
+{
+  "uuid": "76e71d5b-98a5-4551-a0e4-dae0b1345dc5",
+  "path": "/lib/llvm-18/include/clang-tidy/modernize/ReplaceAutoPtrCheck.h",
+  "size": 2217,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "907f487916970e95a4e2c223f5ac0922c4fb01b6eebd76edfe9aff821e8ce281",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.910536284Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "bb0d39d0-c03f-434b-afb5-0b831ce50b83",
+  "path": "/usr/bin/bluetoothctl",
+  "size": 485840,
+  "modified": "2025-02-25T06:11:15Z",
+  "created": "2025-05-09T05:24:15.920810211Z",
+  "sha256_hash": "29cff962ce677bca1462193a3ac50dacc737442fdaa7fedcd2835c8cf9b96c02",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.767356768Z"
+}

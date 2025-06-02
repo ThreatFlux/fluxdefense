@@ -1,0 +1,15 @@
+{
+  "uuid": "44163841-d1a4-4cc2-bcb8-350bc0540c55",
+  "path": "/usr/lib/evolution-data-server/calendar-backends/libecalbackendfile.so",
+  "size": 80032,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:21.657870568Z",
+  "sha256_hash": "8260baeac557f0bb415eacd9cda472aeaf3c2716da6e128cd7934bd465d99580",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.042854088Z"
+}

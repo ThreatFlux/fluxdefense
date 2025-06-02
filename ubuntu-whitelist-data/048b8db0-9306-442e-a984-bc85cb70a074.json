@@ -1,0 +1,17 @@
+{
+  "uuid": "048b8db0-9306-442e-a984-bc85cb70a074",
+  "path": "/lib/x86_64-linux-gnu/libgoa-backend-1.0.so.2.0.0",
+  "size": 301488,
+  "modified": "2024-08-09T12:09:20Z",
+  "created": "2025-05-09T05:07:29.825745930Z",
+  "sha256_hash": "935fdcac73c345b56c67c440616037e112a677d8fb2fc3b2f26553a7fb0c6ec7",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.185330204Z"
+}

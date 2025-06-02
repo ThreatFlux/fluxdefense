@@ -1,0 +1,17 @@
+{
+  "uuid": "564affc5-9f8b-4184-9165-bd16335b0683",
+  "path": "/lib/polkit-1/polkit-agent-helper-1",
+  "size": 18736,
+  "modified": "2024-12-02T11:59:52Z",
+  "created": "2025-05-09T05:07:25.895805899Z",
+  "sha256_hash": "205771bae1bff69b288e27bd5e37be73e9c71cc63b809502b6eae536ef792f81",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 35309,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.380647902Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "3ab01d42-db1f-4ba4-b0d5-a2585d9724a0",
+  "path": "/lib/llvm-18/include/clang-tidy/cppcoreguidelines/PreferMemberInitializerCheck.h",
+  "size": 1581,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "2feaa2daa6914ebac1c04b4f49b57e79bf12ccbbfd8731f1fd2cb33cf9767a83",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.906469937Z"
+}

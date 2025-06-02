@@ -1,0 +1,15 @@
+{
+  "uuid": "1787cb6a-20e6-4e12-b006-aa8fff1ad219",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM874.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.279663431Z",
+  "sha256_hash": "90f20e423f05ae9e2c0ca3f6f9e0e2ea3214bb4262172d95cbc38f0efdc73e5b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.929546374Z"
+}

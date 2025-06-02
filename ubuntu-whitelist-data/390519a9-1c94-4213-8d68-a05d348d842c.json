@@ -1,0 +1,15 @@
+{
+  "uuid": "390519a9-1c94-4213-8d68-a05d348d842c",
+  "path": "/lib/llvm-18/lib/libLLVMOrcJIT.a",
+  "size": 5261658,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.952462165Z",
+  "sha256_hash": "4f8b96d7f3bc861b5138c9de90792d13c5609d140514b97daabcf97790e30845",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.450097850Z"
+}

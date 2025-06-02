@@ -1,0 +1,17 @@
+{
+  "uuid": "0444d372-779c-474c-a446-c7906f814e1d",
+  "path": "/lib/google-cloud-sdk/platform/ext-runtime/java/runtime.yaml",
+  "size": 787,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.306922189Z",
+  "sha256_hash": "c6c8ba6ce21d307fa53cdfe9bc32042cd8466b7554d959de934cbaebb21ce89b",
+  "file_type": {
+    "Other": "yaml"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.981736168Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "70dd0e27-b1c7-4f57-a581-653a4e4bb0b2",
+  "path": "/lib/ubiquity/target-config/31ubuntu_driver_packages",
+  "size": 801,
+  "modified": "2024-08-22T12:25:17Z",
+  "created": "2025-05-09T05:07:28.308769079Z",
+  "sha256_hash": "e48abc2e4ab7aa7216ce00e83b64d2328aa5c1979e5d8a32823f7fb8b5832576",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.068417067Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "faca7201-2a8a-4650-b393-4e1e316ce4df",
+  "path": "/lib/x86_64-linux-gnu/libabsl_cord_internal.so.20220623.0.0",
+  "size": 108792,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.938492440Z",
+  "sha256_hash": "a603366d3836597ac1f1db7a3876797785cfee70b3686028d145ceb8beaccb88",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.809424571Z"
+}

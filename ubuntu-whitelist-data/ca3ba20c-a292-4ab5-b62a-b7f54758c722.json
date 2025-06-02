@@ -1,0 +1,15 @@
+{
+  "uuid": "ca3ba20c-a292-4ab5-b62a-b7f54758c722",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_HMARK.so",
+  "size": 14984,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.331631391Z",
+  "sha256_hash": "ea154fd871b4f5f47ff84a03e0b6426e013e5c5e4aae4f887c65ab8983069d0e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.674539249Z"
+}

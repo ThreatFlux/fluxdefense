@@ -1,0 +1,15 @@
+{
+  "uuid": "15cf0cfe-b016-4246-9978-07496590bfd4",
+  "path": "/sbin/gdisk",
+  "size": 203248,
+  "modified": "2024-03-31T05:38:03Z",
+  "created": "2025-05-09T05:07:38.207618024Z",
+  "sha256_hash": "0bce202609ba98fed15c8a4acca620537e42dbebf5b316dfeda9020d24cfb16b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.183647493Z"
+}

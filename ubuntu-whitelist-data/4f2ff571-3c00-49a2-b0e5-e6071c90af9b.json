@@ -1,0 +1,17 @@
+{
+  "uuid": "4f2ff571-3c00-49a2-b0e5-e6071c90af9b",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/signal.ph",
+  "size": 3700,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.559590701Z",
+  "sha256_hash": "c2d816cc1e77816f607f56b01cea615a2cddbdbf526748e9d263c1a23b7d997e",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.588770417Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "d45d76fa-93db-4581-878d-bf75d46a53cd",
+  "path": "/lib/x86_64-linux-gnu/samba/gensec/krb5.so",
+  "size": 35152,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.125634535Z",
+  "sha256_hash": "3c16458b2b14c2c1592c6c667a771bfa2b0308e4948be670f5206d1adc61de25",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.451978237Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "892a252c-7c2c-40ee-b5c9-95aea0fcf01d",
+  "path": "/sbin/ustat",
+  "size": 12412,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.524499133Z",
+  "sha256_hash": "bc9c4d381e84b3ac972d985d27aecc12692f37b691149e67819f13fa91bfddac",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.179837116Z"
+}

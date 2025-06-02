@@ -1,0 +1,15 @@
+{
+  "uuid": "019fa5bf-fd30-4553-939d-b6fc4a724b45",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/kms/decrypt.py",
+  "size": 8771,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.761931445Z",
+  "sha256_hash": "d8adf4af92da320aabe347864ebd00bb3da452d43dd3663208db0081fbc80c58",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.837724018Z"
+}

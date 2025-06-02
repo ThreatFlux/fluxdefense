@@ -1,0 +1,17 @@
+{
+  "uuid": "39d6ae58-93fe-4ca5-97a2-4c1cf119e1d6",
+  "path": "/usr/lib/firmware/mediatek/sof/sof-mt8186.ri.zst",
+  "size": 75085,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.692539596Z",
+  "sha256_hash": "ba7e35c36e78892fc60b68daa8ce3c641eaa970954351eaa90d091fd1dcd3bfa",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.192237302Z"
+}

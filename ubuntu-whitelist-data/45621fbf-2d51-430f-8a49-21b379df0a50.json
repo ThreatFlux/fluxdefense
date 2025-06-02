@@ -1,0 +1,15 @@
+{
+  "uuid": "45621fbf-2d51-430f-8a49-21b379df0a50",
+  "path": "/usr/lib/systemd/systemd-time-wait-sync",
+  "size": 18808,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.525779508Z",
+  "sha256_hash": "1a2832918f81810e0dfa7c8ab83bcb7fa83ae5999fa53cb0e21ed3c663f621c3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.554942171Z"
+}

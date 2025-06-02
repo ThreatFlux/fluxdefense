@@ -1,0 +1,15 @@
+{
+  "uuid": "bef80d02-3d06-4b7c-b2c1-909a88fb4279",
+  "path": "/usr/lib/llvm-18/lib/libclangAPINotes.a",
+  "size": 765110,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.563533133Z",
+  "sha256_hash": "b29f8938f3964a66d453ba475bc4ccabc46a00c7fafa3a189ceb48de86890def",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:30.896089101Z"
+}

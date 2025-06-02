@@ -1,0 +1,15 @@
+{
+  "uuid": "49c5ab9c-5d95-4fc5-9aee-43f658f1ab3e",
+  "path": "/bin/lshw",
+  "size": 980168,
+  "modified": "2024-03-31T09:13:00Z",
+  "created": "2025-05-09T05:07:20.138893747Z",
+  "sha256_hash": "4acce7ab1233c7bd98a2f95554c5531adb00bfdc0783cf0f201dee963a23b471",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:18.991291007Z"
+}

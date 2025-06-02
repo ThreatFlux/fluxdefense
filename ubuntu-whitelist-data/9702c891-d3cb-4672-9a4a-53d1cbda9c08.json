@@ -1,0 +1,15 @@
+{
+  "uuid": "9702c891-d3cb-4672-9a4a-53d1cbda9c08",
+  "path": "/usr/bin/sed",
+  "size": 113224,
+  "modified": "2024-04-08T16:19:08Z",
+  "created": "2025-05-09T05:07:20.433889245Z",
+  "sha256_hash": "db67d4895f868617bfd19786247ebda7c2f50f4cb3857a987f732a2c267a799e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.042746502Z"
+}

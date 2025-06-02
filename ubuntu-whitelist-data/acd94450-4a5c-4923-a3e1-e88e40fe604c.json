@@ -1,0 +1,15 @@
+{
+  "uuid": "acd94450-4a5c-4923-a3e1-e88e40fe604c",
+  "path": "/usr/lib/llvm-18/lib/libclangRewriteFrontend.a",
+  "size": 1179758,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.746530724Z",
+  "sha256_hash": "817f25c78ce406ea32f2880e9a1abfe8fe3d7fc0e3720fc64f585eec44fd7081",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.799769054Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "110d929b-e08e-4dc7-bc38-7acbbae3a7af",
+  "path": "/usr/lib/tmpfiles.d/legacy.conf",
+  "size": 878,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.527779534Z",
+  "sha256_hash": "7d7f257c567c0dc180f86b7fe16fae57e2e5e73827f473a8be24a56c217b1264",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.134264275Z"
+}

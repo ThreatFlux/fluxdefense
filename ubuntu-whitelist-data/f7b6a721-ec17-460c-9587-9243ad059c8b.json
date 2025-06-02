@@ -1,0 +1,17 @@
+{
+  "uuid": "f7b6a721-ec17-460c-9587-9243ad059c8b",
+  "path": "/lib/libreoffice/program/opengl/rectangularMultiColorGradientFragmentShader.glsl",
+  "size": 1329,
+  "modified": "2024-10-29T11:14:30Z",
+  "created": "2025-05-09T05:11:17.294274200Z",
+  "sha256_hash": "d76d80dcaa1bce67873bdc7e748a95d3ad85f4268962979d654ed275b4e3538a",
+  "file_type": {
+    "Other": "glsl"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:50.104628577Z"
+}

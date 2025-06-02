@@ -1,0 +1,15 @@
+{
+  "uuid": "827dcb29-566e-429e-b3f5-d8de2ae53045",
+  "path": "/usr/lib/i386-linux-gnu/gconv/EUC-JISX0213.so",
+  "size": 21900,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.272663538Z",
+  "sha256_hash": "bc725996b04c4870c2108619d201b9b0949c51b2528c57c519c911ec14561898",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:41.001362006Z"
+}

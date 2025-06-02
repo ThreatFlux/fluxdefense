@@ -1,0 +1,15 @@
+{
+  "uuid": "3bdf8cb2-1867-4bda-9903-d3fa00148dec",
+  "path": "/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-quectel.so",
+  "size": 43336,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.161664505Z",
+  "sha256_hash": "9e7c8ba4197d03d4a7637c7dac190ef3e5f597f54a8dbabc5444daead3eb428a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.578588286Z"
+}

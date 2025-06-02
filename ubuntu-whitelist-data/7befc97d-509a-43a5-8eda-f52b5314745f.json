@@ -1,0 +1,15 @@
+{
+  "uuid": "7befc97d-509a-43a5-8eda-f52b5314745f",
+  "path": "/usr/lib/xorg/modules/drivers/nouveau_drv.so",
+  "size": 216648,
+  "modified": "2022-03-25T09:54:33Z",
+  "created": "2025-05-09T05:07:37.387630537Z",
+  "sha256_hash": "733a8b6bb6aa4c2dda3d0d3360d18fa2da0a553c14d9e40f21d7216d1ec88034",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.622223026Z"
+}

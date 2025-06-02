@@ -1,0 +1,17 @@
+{
+  "uuid": "89dc2a1c-3798-4a81-8a2d-d4e37007fb5f",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/lib/crc-itu-t.ko.zst",
+  "size": 2473,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.114797272Z",
+  "sha256_hash": "1f84d2a86a2cf7f12c5ee424b7cb35c094dabde545fd29116c66b189362023a6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.268899121Z"
+}

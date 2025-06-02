@@ -1,0 +1,17 @@
+{
+  "uuid": "0cddab4d-38d8-4534-b733-661d98e0b2fb",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/gmodule-2.0.pc",
+  "size": 271,
+  "modified": "2025-05-15T12:06:49Z",
+  "created": "2025-05-27T10:16:56.762744220Z",
+  "sha256_hash": "ce3fe3b0f4c77070879f343b4ebedf953083136247ded4166f7fc0f9a863cfef",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.061488533Z"
+}

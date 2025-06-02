@@ -1,0 +1,17 @@
+{
+  "uuid": "b9a706c9-fe6e-463d-838a-d0bb0a064249",
+  "path": "/usr/lib/firmware/ene-ub6250/sd_init2.bin.zst",
+  "size": 906,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.530541840Z",
+  "sha256_hash": "14121d848003ebfbe90863b93d8621be806b0f9aac0470e6de2a711b95294be8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.106112576Z"
+}

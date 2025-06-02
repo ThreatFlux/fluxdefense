@@ -1,0 +1,15 @@
+{
+  "uuid": "45a256d5-bc92-4617-9763-dfc97314f524",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/components/reinstall.py",
+  "size": 1669,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.620933841Z",
+  "sha256_hash": "83ca4d0e450c050811d3e5d0e72a782f0b00eb2548c4c72def43cbe03e5965e0",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.844123861Z"
+}

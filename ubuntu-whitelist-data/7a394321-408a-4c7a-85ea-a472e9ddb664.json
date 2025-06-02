@@ -1,0 +1,17 @@
+{
+  "uuid": "7a394321-408a-4c7a-85ea-a472e9ddb664",
+  "path": "/lib/x86_64-linux-gnu/libpamc.so.0.82.1",
+  "size": 22752,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:31.785716021Z",
+  "sha256_hash": "fb214219a03e1fed03a6b5294750f33ebcf6b5067a4fd746defa8a77f72813a0",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.945959045Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c9f55f45-7274-48cc-823f-fbc9c1b57619",
+  "path": "/lib/firmware/qcom/leia_pm4_470.fw.zst",
+  "size": 2190,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.988535496Z",
+  "sha256_hash": "e06fe70da1d283b15cae430a4f45280be298cff75b006b25bfac5691f51019d0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.004362929Z"
+}

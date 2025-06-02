@@ -1,0 +1,17 @@
+{
+  "uuid": "a91e84db-3df1-4cf3-9b92-d984be17104d",
+  "path": "/lib/x86_64-linux-gnu/samba/libposix-eadb-samba4.so.0",
+  "size": 14568,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.081635206Z",
+  "sha256_hash": "1494abf50142f117a25e4a52c0374de0f2031fa980dd80ee44ea1c98265fe383",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.483750061Z"
+}

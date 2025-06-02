@@ -1,0 +1,15 @@
+{
+  "uuid": "ad6e1b09-29a2-4997-ab4d-961f6c4bed75",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/distros/sle_hpc.py",
+  "size": 247,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.238037203Z",
+  "sha256_hash": "86439a4a2798dd417db962e76aca76fefb2922f42acc919dccbcb079bb429621",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.841442946Z"
+}

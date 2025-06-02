@@ -1,0 +1,17 @@
+{
+  "uuid": "af15d906-4388-42be-ba5d-db263527cce0",
+  "path": "/lib/firmware/amdgpu/vangogh_mec.bin.zst",
+  "size": 38303,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.419543377Z",
+  "sha256_hash": "e56078ba239ebf70ae822b70eca30f76d9d7b248767411e9e67ef6fd8396eee7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.064769423Z"
+}

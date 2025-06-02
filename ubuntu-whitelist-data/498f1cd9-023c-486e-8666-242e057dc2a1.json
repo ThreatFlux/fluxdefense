@@ -1,0 +1,17 @@
+{
+  "uuid": "498f1cd9-023c-486e-8666-242e057dc2a1",
+  "path": "/usr/lib/llvm-18/include/clang/Index/IndexSymbol.h",
+  "size": 4538,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "ee053b683f5d19ea008f04278a8865fcdb3d6fd5bf731e913070570e97c0d2dd",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.307369455Z"
+}

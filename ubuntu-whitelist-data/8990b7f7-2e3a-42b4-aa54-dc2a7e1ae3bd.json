@@ -1,0 +1,15 @@
+{
+  "uuid": "8990b7f7-2e3a-42b4-aa54-dc2a7e1ae3bd",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_rpfilter.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.336631315Z",
+  "sha256_hash": "5b19f8aa2c8f88f846dd519e04faabf98dc7563ddbf43daa0bd2fcad7c95b022",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.682419910Z"
+}

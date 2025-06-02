@@ -1,0 +1,17 @@
+{
+  "uuid": "b2646582-f184-4734-9356-062ba1078655",
+  "path": "/lib/llvm-18/include/clang/Lex/MacroInfo.h",
+  "size": 21554,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.544533384Z",
+  "sha256_hash": "7ab82e8286a70c1b21472721afc91d1a0408f51cf30bd9ec38d693d5d592320d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.176740883Z"
+}

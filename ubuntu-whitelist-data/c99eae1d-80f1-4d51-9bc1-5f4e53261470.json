@@ -1,0 +1,17 @@
+{
+  "uuid": "c99eae1d-80f1-4d51-9bc1-5f4e53261470",
+  "path": "/lib/udev/hwdb.d/60-keyboard.hwdb",
+  "size": 99576,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.059786335Z",
+  "sha256_hash": "fda93229dd8f484903595006a11ddc2137947b5cbfdaedba24ed3b60650b7c2a",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.257516738Z"
+}

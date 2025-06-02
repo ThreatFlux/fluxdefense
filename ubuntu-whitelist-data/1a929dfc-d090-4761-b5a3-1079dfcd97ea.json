@@ -1,0 +1,17 @@
+{
+  "uuid": "1a929dfc-d090-4761-b5a3-1079dfcd97ea",
+  "path": "/lib/byobu/include/tmux-send-command-to-all-windows",
+  "size": 881,
+  "modified": "2024-02-10T17:03:36Z",
+  "created": "2025-05-23T03:43:49.241694174Z",
+  "sha256_hash": "cf9dc2e361fcab1872e70ac7a375c84fbaa2d4d174d8fc1068301db801264e8c",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.408476599Z"
+}

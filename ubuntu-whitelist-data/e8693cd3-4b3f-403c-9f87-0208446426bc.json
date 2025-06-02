@@ -1,0 +1,17 @@
+{
+  "uuid": "e8693cd3-4b3f-403c-9f87-0208446426bc",
+  "path": "/lib/cups/driver/m2300w",
+  "size": 9659,
+  "modified": "2024-04-08T16:11:57Z",
+  "created": "2025-05-09T05:07:21.095879144Z",
+  "sha256_hash": "3cbd4b20f6b3882866adf18b4ebb2ab0eda688c3e038e3b1015345de40bf2eb9",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.652519618Z"
+}

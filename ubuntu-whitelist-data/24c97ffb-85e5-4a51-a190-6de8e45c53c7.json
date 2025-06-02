@@ -1,0 +1,15 @@
+{
+  "uuid": "24c97ffb-85e5-4a51-a190-6de8e45c53c7",
+  "path": "/lib/google-cloud-sdk/lib/third_party/wcwidth/wcwidth.py",
+  "size": 14942,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.121942319Z",
+  "sha256_hash": "c7bffd53e0fa03e84bf7e17ea7df483620bed387636ec70472e5dd70777f215c",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.931722359Z"
+}

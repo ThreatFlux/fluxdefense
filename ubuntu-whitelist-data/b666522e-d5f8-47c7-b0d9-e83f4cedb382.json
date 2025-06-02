@@ -1,0 +1,17 @@
+{
+  "uuid": "b666522e-d5f8-47c7-b0d9-e83f4cedb382",
+  "path": "/lib/llvm-18/include/clang/Basic/XRayLists.h",
+  "size": 1767,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.532533542Z",
+  "sha256_hash": "e91a28ab523459bf48777c1a96f968d01cd371cec45f5083fefae6ccb0c11e86",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.123562545Z"
+}

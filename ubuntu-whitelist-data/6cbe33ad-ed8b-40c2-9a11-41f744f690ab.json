@@ -1,0 +1,17 @@
+{
+  "uuid": "6cbe33ad-ed8b-40c2-9a11-41f744f690ab",
+  "path": "/usr/lib/grub/x86_64-efi/dm_nv.mod",
+  "size": 2832,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.803708536Z",
+  "sha256_hash": "0b89ee1fd97185551793e1b4ed72d169e7a88cdfa54a87f917f0f7128cd08d38",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.485374860Z"
+}

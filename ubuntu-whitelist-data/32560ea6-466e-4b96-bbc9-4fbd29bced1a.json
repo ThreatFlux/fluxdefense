@@ -1,0 +1,17 @@
+{
+  "uuid": "32560ea6-466e-4b96-bbc9-4fbd29bced1a",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-wtinio.ali",
+  "size": 9653,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.105344393Z",
+  "sha256_hash": "0f8b8eef73740ebdf002b4736c7de56c726108fd866fcdc24c01ceecfa5aa22c",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.607075116Z"
+}

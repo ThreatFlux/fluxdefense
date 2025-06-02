@@ -1,0 +1,15 @@
+{
+  "uuid": "345de9a8-aae8-4ed7-94e1-ede819940ac4",
+  "path": "/usr/libexec/bluetooth/bluetoothd",
+  "size": 1565736,
+  "modified": "2025-02-25T06:11:15Z",
+  "created": "2025-05-09T05:24:15.926810288Z",
+  "sha256_hash": "36040949355f107e54924116c3987e1a8894318f56d6971378ff0073f6e67156",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.180948786Z"
+}

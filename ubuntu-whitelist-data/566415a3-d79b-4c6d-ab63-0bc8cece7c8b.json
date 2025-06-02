@@ -1,0 +1,17 @@
+{
+  "uuid": "566415a3-d79b-4c6d-ab63-0bc8cece7c8b",
+  "path": "/usr/lib/systemd/user/gnome-keyring-daemon.socket",
+  "size": 157,
+  "modified": "2024-03-31T06:07:47Z",
+  "created": "2025-05-09T05:07:28.305769124Z",
+  "sha256_hash": "dc525051ed1613edb13fd84c63dd9db601690ea9bc3e547f0d13fb2f93bd44fb",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.495098396Z"
+}

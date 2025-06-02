@@ -1,0 +1,17 @@
+{
+  "uuid": "403688fe-1b91-4ec8-8a2f-8adefffe3bf7",
+  "path": "/lib/systemd/user/org.gnome.SettingsDaemon.PrintNotifications.target",
+  "size": 370,
+  "modified": "2024-04-18T10:59:35Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "6c946b5ea5487bec2bb2c3855db4852daa9dd7469eebe195492bcd7d1b7c33b2",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.144219423Z"
+}

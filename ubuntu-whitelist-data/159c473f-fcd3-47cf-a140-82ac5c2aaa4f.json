@@ -1,0 +1,15 @@
+{
+  "uuid": "159c473f-fcd3-47cf-a140-82ac5c2aaa4f",
+  "path": "/lib/x86_64-linux-gnu/rhythmbox/plugins/dbus-media-server/libdbus-media-server.so",
+  "size": 55784,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:36.988636625Z",
+  "sha256_hash": "32c652ddf3b461a46f35f58647985f275be0428a978282b1231e74a29051535d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.307870292Z"
+}

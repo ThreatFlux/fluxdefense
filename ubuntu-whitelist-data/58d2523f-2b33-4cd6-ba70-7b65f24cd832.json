@@ -1,0 +1,17 @@
+{
+  "uuid": "58d2523f-2b33-4cd6-ba70-7b65f24cd832",
+  "path": "/lib/x86_64-linux-gnu/perl5/5.38/Glib/Bytes.pod",
+  "size": 1132,
+  "modified": "2024-03-31T07:49:23Z",
+  "created": "2025-05-09T05:07:36.873638380Z",
+  "sha256_hash": "915fd46e8b9480f6db0daed52f6cab23848f6ec7c924700fcee625fa00ccc3a2",
+  "file_type": {
+    "Other": "pod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.344247134Z"
+}

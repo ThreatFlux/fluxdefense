@@ -1,0 +1,17 @@
+{
+  "uuid": "5fdb08f4-4949-4b89-9b4c-52a5d160522e",
+  "path": "/lib/x86_64-linux-gnu/crtn.o",
+  "size": 760,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:08:53.060475691Z",
+  "sha256_hash": "a2266079f95b84ccc2162ebbf279bcd78858a748aa1882e0bdb912316c76a58f",
+  "file_type": {
+    "Other": "o"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:12.708899949Z"
+}

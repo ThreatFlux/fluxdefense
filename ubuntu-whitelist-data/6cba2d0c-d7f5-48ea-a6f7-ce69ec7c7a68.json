@@ -1,0 +1,17 @@
+{
+  "uuid": "6cba2d0c-d7f5-48ea-a6f7-ce69ec7c7a68",
+  "path": "/lib/systemd/system/systemd-udevd-kernel.socket",
+  "size": 624,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.044786143Z",
+  "sha256_hash": "42c2c6e0b77dd66b1bd885cd5c2cc82191662738c1e565950fcff3deabdcaa56",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.131398174Z"
+}

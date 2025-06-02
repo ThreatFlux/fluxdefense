@@ -1,0 +1,17 @@
+{
+  "uuid": "e4cc859a-3bfb-4c7e-8830-5cb2e5cb9d2d",
+  "path": "/lib/mime/packages/groff-base",
+  "size": 255,
+  "modified": "2023-10-16T11:11:07Z",
+  "created": "2025-05-09T05:07:25.882806097Z",
+  "sha256_hash": "dea60a5cdb6710ce90b1c1cffba6c2ce0028aa3dce59f6e52036b2389ad43411",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.405026663Z"
+}

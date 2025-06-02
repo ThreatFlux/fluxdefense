@@ -1,0 +1,17 @@
+{
+  "uuid": "2c728710-b64b-4d4b-81ef-075028218c0a",
+  "path": "/usr/lib/aspell/british-ize-wo_accents.alias",
+  "size": 90,
+  "modified": "2020-12-08T01:19:37Z",
+  "created": "2025-05-09T05:07:21.010880441Z",
+  "sha256_hash": "52258539e34e55939fc4444738fd5a93f553b4fb8b6438eca5bf2a1127dc962a",
+  "file_type": {
+    "Other": "alias"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.281940666Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "48830209-531a-4529-9821-e09ee6cbbc95",
+  "path": "/usr/lib/systemd/system/hybrid-sleep.target",
+  "size": 538,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "0c32ba84d3434f2859bb813ea016d10098f8f51297ca4450d2a65cd4779ae8ee",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.448703093Z"
+}

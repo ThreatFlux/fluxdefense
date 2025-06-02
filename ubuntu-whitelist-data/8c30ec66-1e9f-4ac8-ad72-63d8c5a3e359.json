@@ -1,0 +1,17 @@
+{
+  "uuid": "8c30ec66-1e9f-4ac8-ad72-63d8c5a3e359",
+  "path": "/usr/lib/x86_64-linux-gnu/libdbusmenu-glib.so.4.0.12",
+  "size": 112728,
+  "modified": "2024-04-07T07:26:42Z",
+  "created": "2025-05-09T05:07:29.291754078Z",
+  "sha256_hash": "57bfe721a5b4d2c8a568229c5f808ee99ba6d888d9d0b495f4381fb622864fb2",
+  "file_type": {
+    "Other": "12"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.865337062Z"
+}

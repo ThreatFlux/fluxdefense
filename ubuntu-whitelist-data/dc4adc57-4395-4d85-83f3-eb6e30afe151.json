@@ -1,0 +1,15 @@
+{
+  "uuid": "dc4adc57-4395-4d85-83f3-eb6e30afe151",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstpng.so",
+  "size": 39440,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.775655135Z",
+  "sha256_hash": "e581ae28558be84eec33faa860a04713227dc3ba4d4c9873b37de2ab15582e05",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.192189560Z"
+}

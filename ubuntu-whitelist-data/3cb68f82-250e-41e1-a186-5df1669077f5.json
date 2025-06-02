@@ -1,0 +1,17 @@
+{
+  "uuid": "3cb68f82-250e-41e1-a186-5df1669077f5",
+  "path": "/lib/systemd/user/dbus.service",
+  "size": 410,
+  "modified": "2024-08-09T02:33:22Z",
+  "created": "2025-05-09T05:07:28.305769124Z",
+  "sha256_hash": "a3156e86c7a5ea0af164a08d971eb6da110ec740a553cb64e2e2cf2cc2d33059",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.146560601Z"
+}

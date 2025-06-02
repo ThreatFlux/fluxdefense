@@ -1,0 +1,17 @@
+{
+  "uuid": "03c52b9f-a11b-4349-ad8c-74b630565c64",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/TooSmallLoopVariableCheck.h",
+  "size": 1643,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "035e48c4e43b9431158e975b08a3a3404e5d3f0825ec7fdd20852af53a6f5310",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.895474993Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "13f667ec-bb3c-4e74-8844-bdb5ca67fa3a",
+  "path": "/lib/google-cloud-sdk/lib/surface/functions/remove_invoker_policy_binding.py",
+  "size": 3405,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.638933535Z",
+  "sha256_hash": "6b0ffc089f50ac37d8afa25bb41962a4a69d516c70348e2da6d5ba41a809b113",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.034306862Z"
+}

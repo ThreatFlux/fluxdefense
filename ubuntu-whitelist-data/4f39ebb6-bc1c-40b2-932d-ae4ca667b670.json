@@ -1,0 +1,17 @@
+{
+  "uuid": "4f39ebb6-bc1c-40b2-932d-ae4ca667b670",
+  "path": "/lib/systemd/system-generators/systemd-cryptsetup-generator",
+  "size": 35464,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.516779393Z",
+  "sha256_hash": "a2483890f12ddc5412dada9d8dd28e89bd2edefcd48f349a8a7cef7d2f8a1072",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.092933746Z"
+}

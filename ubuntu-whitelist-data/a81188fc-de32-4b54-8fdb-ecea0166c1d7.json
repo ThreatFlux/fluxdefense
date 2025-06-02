@@ -1,0 +1,15 @@
+{
+  "uuid": "a81188fc-de32-4b54-8fdb-ecea0166c1d7",
+  "path": "/sbin/groupadd",
+  "size": 72840,
+  "modified": "2024-05-30T14:52:35Z",
+  "created": "2025-05-09T05:07:38.210617978Z",
+  "sha256_hash": "8c9d1e48c4aa79e42049cb166b4f3e708dccd20c4b491832e52931ba7cc1d56c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.141727765Z"
+}

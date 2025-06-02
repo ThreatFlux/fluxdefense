@@ -1,0 +1,15 @@
+{
+  "uuid": "8300124c-ddf4-4535-96d8-9fa6869512ea",
+  "path": "/lib/python3/dist-packages/cloudinit/sources/DataSourceNone.py",
+  "size": 1304,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.241037243Z",
+  "sha256_hash": "3252ebbf794620aadae196819853e95a85c2c009c54a304e82395dab6c0d53db",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.901269342Z"
+}

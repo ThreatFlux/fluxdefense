@@ -1,0 +1,17 @@
+{
+  "uuid": "8d5697be-d21e-450a-806e-cc6d231a6e89",
+  "path": "/usr/lib/x86_64-linux-gnu/libapparmor.so.1.17.1",
+  "size": 80768,
+  "modified": "2025-03-19T18:09:43Z",
+  "created": "2025-05-09T05:24:14.503792025Z",
+  "sha256_hash": "eb01ac621bc2c654247cf40a4a93e536a34ed51f150075f6ba613b8f3b0baad2",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.510467362Z"
+}

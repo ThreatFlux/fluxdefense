@@ -1,0 +1,17 @@
+{
+  "uuid": "d87ad294-de8b-4ce7-aa3c-5c5bff9ce2c6",
+  "path": "/usr/lib/firmware/amdgpu/navi12_smc.bin.zst",
+  "size": 90909,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.405543571Z",
+  "sha256_hash": "40025de47fb964eff8898560d4348f7f6fdd13778c3aedcf3c8ff9fd52773942",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.809144206Z"
+}

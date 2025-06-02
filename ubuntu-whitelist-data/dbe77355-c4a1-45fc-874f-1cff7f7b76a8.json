@@ -1,0 +1,17 @@
+{
+  "uuid": "dbe77355-c4a1-45fc-874f-1cff7f7b76a8",
+  "path": "/lib/grub/x86_64-efi/xzio.mod",
+  "size": 20096,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.840707972Z",
+  "sha256_hash": "71f2dec7bb57f15801034e8eba8bb28f993ca55cbc9988288b81b837961bb2ab",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.144695892Z"
+}

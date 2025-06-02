@@ -1,0 +1,17 @@
+{
+  "uuid": "340baf9a-b3af-4cb5-9514-fc83c140e9c8",
+  "path": "/lib/udev/rules.d/60-persistent-storage-dm.rules",
+  "size": 1964,
+  "modified": "2024-11-27T19:06:49Z",
+  "created": "2025-05-09T05:24:22.549896121Z",
+  "sha256_hash": "31a088ec6e41872ad4ab3d6781bb419ea2aa270826475e9055229ac85d6ecdf0",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.239708195Z"
+}

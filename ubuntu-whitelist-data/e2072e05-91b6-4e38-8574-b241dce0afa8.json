@@ -1,0 +1,15 @@
+{
+  "uuid": "e2072e05-91b6-4e38-8574-b241dce0afa8",
+  "path": "/usr/lib/x86_64-linux-gnu/rygel-2.8/engines/librygel-media-engine-simple.so",
+  "size": 35040,
+  "modified": "2024-03-31T08:21:52Z",
+  "created": "2025-05-09T05:07:37.018636167Z",
+  "sha256_hash": "8fddcbb2b990bfa0ec8c7f1dc93139f5c81c6d41c5bd41db80f1516d143be66b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:26.307391971Z"
+}

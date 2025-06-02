@@ -1,0 +1,17 @@
+{
+  "uuid": "b8f0c724-640a-4e21-8f89-44ed23a08826",
+  "path": "/lib/firmware/intel/sof-ipc4-tplg/sof-mtl-rt5650-dts.tplg.zst",
+  "size": 4055,
+  "modified": "2025-01-06T07:09:53Z",
+  "created": "2025-05-09T05:08:52.055491029Z",
+  "sha256_hash": "c1d2bc271eab29a5bf2001ab09971bbf58cdf1660ce4717bee7fab17f6856ad3",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.069350716Z"
+}

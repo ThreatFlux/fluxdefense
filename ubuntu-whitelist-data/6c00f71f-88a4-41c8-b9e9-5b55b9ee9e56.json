@@ -1,0 +1,17 @@
+{
+  "uuid": "6c00f71f-88a4-41c8-b9e9-5b55b9ee9e56",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/include/avxintrin.h",
+  "size": 53370,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.244389832Z",
+  "sha256_hash": "6306868ef91c52f75cb26853c55d8c07eb7a0b1413eca63091a1ea76bc8e40e7",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.913338975Z"
+}

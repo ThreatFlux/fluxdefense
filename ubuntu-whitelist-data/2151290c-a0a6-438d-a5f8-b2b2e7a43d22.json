@@ -1,0 +1,15 @@
+{
+  "uuid": "2151290c-a0a6-438d-a5f8-b2b2e7a43d22",
+  "path": "/usr/lib/python3/dist-packages/duplicity/_librsync.cpython-312-x86_64-linux-gnu.so",
+  "size": 20144,
+  "modified": "2025-02-15T08:51:42Z",
+  "created": "2025-05-09T05:07:26.841791464Z",
+  "sha256_hash": "3e03f2a48bba80cfdc1b00fe35a18fd8f8b2b590bab09220f6ac599e51890072",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.656021765Z"
+}

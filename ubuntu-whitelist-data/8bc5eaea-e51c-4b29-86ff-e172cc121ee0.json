@@ -1,0 +1,15 @@
+{
+  "uuid": "8bc5eaea-e51c-4b29-86ff-e172cc121ee0",
+  "path": "/usr/bin/last",
+  "size": 35200,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:20.087894525Z",
+  "sha256_hash": "826a8d2cc13116f3e8a73841c8b2ab8721c009b04a8a265e1fc0acd88a244893",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.852180347Z"
+}

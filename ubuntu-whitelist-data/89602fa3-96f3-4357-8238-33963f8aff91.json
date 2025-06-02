@@ -1,0 +1,15 @@
+{
+  "uuid": "89602fa3-96f3-4357-8238-33963f8aff91",
+  "path": "/lib/x86_64-linux-gnu/libm.a",
+  "size": 132,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:08:53.073475493Z",
+  "sha256_hash": "420cd3c406f6f8c12deb3d1291146e9c091ee015a7c39eaf2237f01e80d6f0ae",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.503418548Z"
+}

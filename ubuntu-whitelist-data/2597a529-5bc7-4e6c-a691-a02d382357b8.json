@@ -1,0 +1,17 @@
+{
+  "uuid": "2597a529-5bc7-4e6c-a691-a02d382357b8",
+  "path": "/lib/shim/shimx64.efi",
+  "size": 957042,
+  "modified": "2024-04-04T12:39:00Z",
+  "created": "2025-05-09T05:08:38.663695412Z",
+  "sha256_hash": "39037872a0bb357a0f40c5e3ce6a1757b5b54c78c31f8d5da01169c2ca94b3a7",
+  "file_type": {
+    "Other": "efi"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.518982702Z"
+}

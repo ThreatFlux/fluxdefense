@@ -1,0 +1,17 @@
+{
+  "uuid": "a3a84360-f641-4803-9b22-847b892f3152",
+  "path": "/lib/rustlib/x86_64-unknown-linux-gnu/lib/libcore-393698f6b78844c3.rlib",
+  "size": 54892720,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T17:41:10.446618893Z",
+  "sha256_hash": "efb240def2941489318ad3a05c473837db1d374356ddd3bd1b7ea23fc4c2fd94",
+  "file_type": {
+    "Other": "rlib"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.071921657Z"
+}

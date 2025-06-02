@@ -1,0 +1,15 @@
+{
+  "uuid": "b9806884-6ed4-48eb-9d01-6edca87f049c",
+  "path": "/usr/lib/python3/dist-packages/duplicity/backends/ssh_paramiko_backend.py",
+  "size": 19675,
+  "modified": "2025-02-15T08:51:42Z",
+  "created": "2025-05-09T05:07:26.871791006Z",
+  "sha256_hash": "616dc32de4cf0969747e80e7913b6b185b7b0e3b4848fdb8e1c9f3a87941cdd2",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.651634986Z"
+}

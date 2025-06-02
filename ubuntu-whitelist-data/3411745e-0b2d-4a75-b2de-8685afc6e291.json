@@ -1,0 +1,17 @@
+{
+  "uuid": "3411745e-0b2d-4a75-b2de-8685afc6e291",
+  "path": "/usr/lib/x86_64-linux-gnu/libgtk-4.so.1.1400.2",
+  "size": 11773232,
+  "modified": "2025-04-10T13:30:28Z",
+  "created": "2025-05-22T00:31:06.886072655Z",
+  "sha256_hash": "1f5d61408da7d1e4368d0b913156bb845e72ce99bdc68b0c5237072243b71e58",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:13.613043304Z"
+}

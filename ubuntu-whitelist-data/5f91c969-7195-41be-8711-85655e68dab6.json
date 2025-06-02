@@ -1,0 +1,15 @@
+{
+  "uuid": "5f91c969-7195-41be-8711-85655e68dab6",
+  "path": "/sbin/tcpconnlat-bpfcc",
+  "size": 9285,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.523499148Z",
+  "sha256_hash": "2b5b92ee4af911e0a2eee52d3d11a77ef04ade6e33280e115bae5edc5705a7cf",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.034266114Z"
+}

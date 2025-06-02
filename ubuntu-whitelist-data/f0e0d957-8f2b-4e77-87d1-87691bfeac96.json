@@ -1,0 +1,15 @@
+{
+  "uuid": "f0e0d957-8f2b-4e77-87d1-87691bfeac96",
+  "path": "/usr/lib/x86_64-linux-gnu/sssd/modules/libsss_autofs.so",
+  "size": 27240,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:37.290632017Z",
+  "sha256_hash": "d410b853470eb40f87ac4074e46d4b23a5826ef78974233ff97bfb906d1666c4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.029143637Z"
+}

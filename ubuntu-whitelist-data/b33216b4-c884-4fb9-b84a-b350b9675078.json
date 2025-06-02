@@ -1,0 +1,17 @@
+{
+  "uuid": "b33216b4-c884-4fb9-b84a-b350b9675078",
+  "path": "/lib/x86_64-linux-gnu/libhwasan.so.0.0.0",
+  "size": 4957496,
+  "modified": "2024-09-09T13:21:53Z",
+  "created": "2025-05-09T06:33:30.011394849Z",
+  "sha256_hash": "0a865a7e464007fc67c8070793410fd799e4d278afe5f1e5ade24800e5a4d977",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.628286193Z"
+}

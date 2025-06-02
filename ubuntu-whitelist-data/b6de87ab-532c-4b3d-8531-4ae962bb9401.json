@@ -1,0 +1,15 @@
+{
+  "uuid": "b6de87ab-532c-4b3d-8531-4ae962bb9401",
+  "path": "/bin/partx",
+  "size": 63880,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:20.262891855Z",
+  "sha256_hash": "60ea6d3432cd99903171348a4b62aa6896e669247d07b41a4b0d44b636cd3c0f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.930111997Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "1234aab8-1b80-4c5f-98a1-93988f547369",
+  "path": "/usr/lib/llvm-18/lib/libLLVMAggressiveInstCombine.a",
+  "size": 138220,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.783464390Z",
+  "sha256_hash": "0975b479f01694c35004311bc10f8dbd59da87e4f0303b069c885b0ea0308a64",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.069330054Z"
+}

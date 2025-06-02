@@ -1,0 +1,15 @@
+{
+  "uuid": "b363dc86-94d2-4488-87f1-6043d7faa900",
+  "path": "/usr/sbin/wpa_action",
+  "size": 1735,
+  "modified": "2023-12-25T09:47:06Z",
+  "created": "2025-05-09T05:11:35.941989548Z",
+  "sha256_hash": "50a3011d4f360bfd8e5b2b1eb06ef8904f19d9dff52b5e7c2ab29dac2194cdde",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.235350142Z"
+}

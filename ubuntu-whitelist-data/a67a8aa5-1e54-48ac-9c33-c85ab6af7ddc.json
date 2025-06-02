@@ -1,0 +1,15 @@
+{
+  "uuid": "a67a8aa5-1e54-48ac-9c33-c85ab6af7ddc",
+  "path": "/lib/x86_64-linux-gnu/traceevent/plugins/plugin_kvm.so",
+  "size": 24760,
+  "modified": "2024-04-03T11:46:23Z",
+  "created": "2025-05-09T05:07:37.304631803Z",
+  "sha256_hash": "46b33f43cc54ad17e4e791e0da3a75ab342becb642f32bd4fc96ad5a295879d1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.536483064Z"
+}

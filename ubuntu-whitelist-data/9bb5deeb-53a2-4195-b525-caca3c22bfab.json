@@ -1,0 +1,17 @@
+{
+  "uuid": "9bb5deeb-53a2-4195-b525-caca3c22bfab",
+  "path": "/lib/firmware/kaweth/trigger_code.bin.zst",
+  "size": 159,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.667539942Z",
+  "sha256_hash": "0d680078c8b838846727b689a41495d00162cf9286bde3d94056c77e9388db8d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.506805344Z"
+}

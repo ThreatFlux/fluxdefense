@@ -1,0 +1,17 @@
+{
+  "uuid": "37a50928-32aa-4fb5-bbe4-2ff9f2c8a2f7",
+  "path": "/lib/mime/packages/unzip",
+  "size": 77,
+  "modified": "2023-05-30T10:34:18Z",
+  "created": "2025-05-09T05:07:25.882806097Z",
+  "sha256_hash": "b7c7e36cce686444451141590a41c3e1f22126a99dc4d01a6e9a63a2a187556d",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.405467285Z"
+}

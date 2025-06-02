@@ -1,0 +1,17 @@
+{
+  "uuid": "12323a36-75d5-4d0b-8f7a-5982d961ee49",
+  "path": "/lib/x86_64-linux-gnu/libX11.so.6.4.0",
+  "size": 1298088,
+  "modified": "2024-04-08T16:09:07Z",
+  "created": "2025-05-09T05:07:29.059757618Z",
+  "sha256_hash": "c5b5d782bd9cab3420a62df88f5c991507edf3331a89f98464ddbc538c37b879",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.869630804Z"
+}

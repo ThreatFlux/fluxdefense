@@ -1,0 +1,17 @@
+{
+  "uuid": "219d2ed5-7a35-4310-a498-557eadc4cc56",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/s-c_time.adb",
+  "size": 8171,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.074344818Z",
+  "sha256_hash": "17f8f6463f21aadf61a3a4e82613b72ac63a8926020038862abd7c3240d6ace5",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.031253849Z"
+}

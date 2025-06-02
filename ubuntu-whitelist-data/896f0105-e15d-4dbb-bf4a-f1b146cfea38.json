@@ -1,0 +1,15 @@
+{
+  "uuid": "896f0105-e15d-4dbb-bf4a-f1b146cfea38",
+  "path": "/lib/llvm-18/lib/libclangdRemoteIndexServiceProto.a",
+  "size": 687046,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.921528418Z",
+  "sha256_hash": "1b820eb192986e7294d79b62ddb35ddb06d7e8f2603bc08c51e51ffdd20c9ba1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:40.296423890Z"
+}

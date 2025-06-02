@@ -1,0 +1,15 @@
+{
+  "uuid": "44ddc8e6-d1c6-43ec-bea8-cacf216715d2",
+  "path": "/usr/libexec/glib-pacrunner",
+  "size": 22760,
+  "modified": "2024-03-31T05:56:57Z",
+  "created": "2025-05-09T05:07:37.431629865Z",
+  "sha256_hash": "8e107427496cd32852ba98f53afc8e48c9f60263464c4f1666520a9c754a3494",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.483698080Z"
+}

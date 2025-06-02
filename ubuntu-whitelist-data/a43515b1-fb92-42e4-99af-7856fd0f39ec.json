@@ -1,0 +1,17 @@
+{
+  "uuid": "a43515b1-fb92-42e4-99af-7856fd0f39ec",
+  "path": "/lib/tmpfiles.d/systemd-resolve.conf",
+  "size": 393,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:12.159762077Z",
+  "sha256_hash": "0b1b9b1240c9db1c4507c987c3bb0e0063f7db78fe5ea07a0bb0990c006128c1",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.759686477Z"
+}

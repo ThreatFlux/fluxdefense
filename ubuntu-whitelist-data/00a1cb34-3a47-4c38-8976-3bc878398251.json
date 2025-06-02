@@ -1,0 +1,15 @@
+{
+  "uuid": "00a1cb34-3a47-4c38-8976-3bc878398251",
+  "path": "/usr/libexec/evolution-addressbook-factory-subprocess",
+  "size": 47712,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:37.411630170Z",
+  "sha256_hash": "b4bd410275181c7cf3f9df7ce6f7d9b4aaeb64e245cb22776eaaa768b48a6f40",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.097161102Z"
+}

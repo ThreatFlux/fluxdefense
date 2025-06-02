@@ -1,0 +1,15 @@
+{
+  "uuid": "4fad05e5-6a1e-4704-b387-e50641b695dd",
+  "path": "/lib/llvm-18/lib/libLLVMFuzzerCLI.a",
+  "size": 28680,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.881463100Z",
+  "sha256_hash": "0d99971c2be8b364b6f36b61693999674fa4117994bd28404afa6c1963cc549e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.511691837Z"
+}

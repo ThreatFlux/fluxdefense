@@ -1,0 +1,17 @@
+{
+  "uuid": "e64b595a-e781-4f44-8014-45d623361d5c",
+  "path": "/lib/systemd/system/systemd-sysctl.service",
+  "size": 731,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "67802699b135aa011f76ff08ecaf37b3a5d821de3a1e6f8ee55c3404e6df208a",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.107612541Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "71d230d5-8ec2-406d-8b6c-432b7ba96cb4",
+  "path": "/lib/llvm-18/include/clang/Serialization/SourceLocationEncoding.h",
+  "size": 6024,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.550533305Z",
+  "sha256_hash": "c7d593a885cfec7e85f96761afce96d29a5aa2270a143a9d03a14bfdd65330fe",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.025850055Z"
+}

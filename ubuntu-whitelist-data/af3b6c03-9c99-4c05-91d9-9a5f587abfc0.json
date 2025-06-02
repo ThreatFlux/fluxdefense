@@ -1,0 +1,17 @@
+{
+  "uuid": "af3b6c03-9c99-4c05-91d9-9a5f587abfc0",
+  "path": "/usr/lib/firmware/i915/skl_guc_32.0.3.bin.zst",
+  "size": 76920,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.542541673Z",
+  "sha256_hash": "fcc75d3337037bea409aa6e6976c98391598e4d4789d150b84672c6e8f5f99ed",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.744945380Z"
+}

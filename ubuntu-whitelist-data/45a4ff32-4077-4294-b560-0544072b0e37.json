@@ -1,0 +1,15 @@
+{
+  "uuid": "45a4ff32-4077-4294-b560-0544072b0e37",
+  "path": "/usr/bin/apt-mark",
+  "size": 55776,
+  "modified": "2024-10-22T13:02:22Z",
+  "created": "2025-05-30T21:04:50.159634116Z",
+  "sha256_hash": "6a31af1ed4932f7cb34e64bc6c9ab67b566db96dd478be0eaf96402666687635",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.203270901Z"
+}

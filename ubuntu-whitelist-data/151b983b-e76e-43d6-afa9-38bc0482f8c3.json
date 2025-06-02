@@ -1,0 +1,15 @@
+{
+  "uuid": "151b983b-e76e-43d6-afa9-38bc0482f8c3",
+  "path": "/usr/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-dlink.so",
+  "size": 14384,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.160664520Z",
+  "sha256_hash": "d3e6f996d02568f09b1c38060ec42f6e576b3246be3b7723974245f8c5885b89",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.059338390Z"
+}

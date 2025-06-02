@@ -1,0 +1,17 @@
+{
+  "uuid": "76db17cc-d0c7-4e38-8927-2a5bf7508caf",
+  "path": "/usr/lib/x86_64-linux-gnu/libopus.so.0.9.0",
+  "size": 387368,
+  "modified": "2024-04-08T16:14:57Z",
+  "created": "2025-05-09T05:07:31.757716448Z",
+  "sha256_hash": "63ddaf057d71c53090607e0467eb308640c3b39b0f189e5b937e9c397be2f676",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:15.578855759Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "77f8221b-a1f7-4f5b-8d9f-189cc5efae4b",
+  "path": "/lib/x86_64-linux-gnu/libcairomm-1.16.so.1.4.0",
+  "size": 194736,
+  "modified": "2024-04-08T15:55:16Z",
+  "created": "2025-05-09T05:07:29.206755375Z",
+  "sha256_hash": "e0caf847aaaa64b8a2bcf6eb186f89dee9535af01a0c198144e17f369d1c078e",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.004883718Z"
+}

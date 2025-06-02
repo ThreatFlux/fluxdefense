@@ -1,0 +1,15 @@
+{
+  "uuid": "b5a45c90-d0c7-48f4-a7fd-6973f0be508f",
+  "path": "/usr/libexec/iio-sensor-proxy",
+  "size": 81112,
+  "modified": "2024-03-31T08:58:13Z",
+  "created": "2025-05-09T05:07:37.532628324Z",
+  "sha256_hash": "a8bfbf9507fe7b5c71201959cd165fe9267a9f9d15f88197399516572d945842",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.257744778Z"
+}

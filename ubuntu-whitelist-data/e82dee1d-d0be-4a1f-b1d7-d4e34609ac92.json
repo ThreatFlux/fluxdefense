@@ -1,0 +1,17 @@
+{
+  "uuid": "e82dee1d-d0be-4a1f-b1d7-d4e34609ac92",
+  "path": "/usr/lib/grub/x86_64-efi/password.mod",
+  "size": 2992,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.838708002Z",
+  "sha256_hash": "3e614ffade942244131e6f54a94683ba56c82743a6d77403e4947a7e8dcb8833",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.476891502Z"
+}

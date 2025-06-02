@@ -1,0 +1,17 @@
+{
+  "uuid": "b2bebc32-99dd-4e59-9859-9a1e52fbf5e9",
+  "path": "/lib/llvm-18/include/clang/Analysis/CloneDetection.h",
+  "size": 16886,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.523533660Z",
+  "sha256_hash": "ba703076d13e31047ee08c1b86f59530522fafb082fceec06f928a9350106626",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.187037955Z"
+}

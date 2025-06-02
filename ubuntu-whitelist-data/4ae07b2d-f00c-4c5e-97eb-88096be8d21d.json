@@ -1,0 +1,15 @@
+{
+  "uuid": "4ae07b2d-f00c-4c5e-97eb-88096be8d21d",
+  "path": "/usr/bin/dpkg-genbuildinfo",
+  "size": 18981,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T06:33:31.736357711Z",
+  "sha256_hash": "ea892fe9ccde89d43d3ab990a00a098cafc0826251973f2eebb01464aa067cf0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.886806328Z"
+}

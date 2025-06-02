@@ -1,0 +1,17 @@
+{
+  "uuid": "e0e0c5ce-7098-4eba-b39f-34bd09677e1c",
+  "path": "/lib/x86_64-linux-gnu/libnvidia-ml.so.550.144.03",
+  "size": 2082456,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:00.241904651Z",
+  "sha256_hash": "51d4ac8866536c6d21b1e91af63b658a4d24042cd3a686cc9283fdbcd946be65",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.656156620Z"
+}

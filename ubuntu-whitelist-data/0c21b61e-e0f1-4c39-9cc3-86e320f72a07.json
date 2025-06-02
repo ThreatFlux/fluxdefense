@@ -1,0 +1,17 @@
+{
+  "uuid": "0c21b61e-e0f1-4c39-9cc3-86e320f72a07",
+  "path": "/lib/firmware/iwlwifi-so-a0-jf-b0-73.ucode.zst",
+  "size": 487589,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.656540094Z",
+  "sha256_hash": "c598a72c317719a0f4228b205620b89f724abb53e4d06a279dcb509acdd84653",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.605530156Z"
+}

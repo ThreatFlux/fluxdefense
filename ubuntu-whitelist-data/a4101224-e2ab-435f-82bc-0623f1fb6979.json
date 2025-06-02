@@ -1,0 +1,15 @@
+{
+  "uuid": "a4101224-e2ab-435f-82bc-0623f1fb6979",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstwavenc.so",
+  "size": 39312,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.777655105Z",
+  "sha256_hash": "22237d1c75ed8dc2459a72dd86391f2fe3a10113008c5f99dc0dbc67e0ae3e5c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.006192097Z"
+}

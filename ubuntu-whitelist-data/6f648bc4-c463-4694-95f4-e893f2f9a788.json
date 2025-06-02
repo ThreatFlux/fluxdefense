@@ -1,0 +1,15 @@
+{
+  "uuid": "6f648bc4-c463-4694-95f4-e893f2f9a788",
+  "path": "/sbin/prime-switch",
+  "size": 905,
+  "modified": "2023-06-13T15:25:56Z",
+  "created": "2025-05-09T12:56:04.378011988Z",
+  "sha256_hash": "c798104b9dc0cbeb2c6e77629746bd451839960eba1621c9bef64e26a36081f3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.737557607Z"
+}

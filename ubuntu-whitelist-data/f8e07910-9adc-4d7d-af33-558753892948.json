@@ -1,0 +1,17 @@
+{
+  "uuid": "f8e07910-9adc-4d7d-af33-558753892948",
+  "path": "/usr/lib/grub/x86_64-efi/multiboot2.mod",
+  "size": 25232,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.837708018Z",
+  "sha256_hash": "8de485de920a817bbf4e6db6041264acd4189f704a7ff840370ec69f5cbe501e",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.601408475Z"
+}

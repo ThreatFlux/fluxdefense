@@ -1,0 +1,17 @@
+{
+  "uuid": "6dfc620f-073a-4439-9fe1-b915bbffed00",
+  "path": "/lib/x86_64-linux-gnu/libabsl_strings_internal.so.20220623.0.0",
+  "size": 18672,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.941492393Z",
+  "sha256_hash": "f69b22ba9219d57b6dfeb86aee1591b93268b2cca86801af4ac6c8f057a738d8",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.339900148Z"
+}

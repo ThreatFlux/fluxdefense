@@ -1,0 +1,15 @@
+{
+  "uuid": "501a8b5c-ffa0-4cb8-9cb6-c7f5829094dd",
+  "path": "/usr/lib/python3/dist-packages/ufw/backend_iptables.py",
+  "size": 58842,
+  "modified": "2023-05-18T13:07:39Z",
+  "created": "2025-05-09T05:07:27.479781728Z",
+  "sha256_hash": "69cabdd144d3feef41910ac44fd79dde9fd518aa2c9eb8d9e6a7800c4661fc55",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.582545104Z"
+}

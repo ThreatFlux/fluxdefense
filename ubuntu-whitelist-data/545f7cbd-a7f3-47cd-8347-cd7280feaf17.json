@@ -1,0 +1,15 @@
+{
+  "uuid": "545f7cbd-a7f3-47cd-8347-cd7280feaf17",
+  "path": "/sbin/rtacct",
+  "size": 28992,
+  "modified": "2024-03-31T09:00:13Z",
+  "created": "2025-05-09T05:07:38.409614941Z",
+  "sha256_hash": "8b283ac377b68a5df8176100ef4c73187d91af69b62186d3b2cf687d50544106",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.782658722Z"
+}

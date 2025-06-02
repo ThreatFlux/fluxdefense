@@ -1,0 +1,17 @@
+{
+  "uuid": "29726290-285d-45ef-af10-a87e0a9b7dc6",
+  "path": "/lib/firmware/cxgb3/t3c_psram-1.1.0.bin.zst",
+  "size": 471,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.511542103Z",
+  "sha256_hash": "07f311dade439e19b6da709c95ee137c543f68f1ee2c899993e498c7a915afb1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.377066599Z"
+}

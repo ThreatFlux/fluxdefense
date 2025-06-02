@@ -1,0 +1,17 @@
+{
+  "uuid": "0b9adcbf-df6f-4665-af8e-2a685b1ed944",
+  "path": "/lib/firmware/regulatory.db",
+  "size": 5980,
+  "modified": "2025-02-28T16:29:03Z",
+  "created": "2025-05-30T21:04:55.096555831Z",
+  "sha256_hash": "92eec693a0a9ec460be6bb3ff9e22b259b2f906eddd2984dd90654b5ecfa0f18",
+  "file_type": {
+    "Other": "db"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.146751411Z"
+}

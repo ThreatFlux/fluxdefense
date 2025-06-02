@@ -1,0 +1,15 @@
+{
+  "uuid": "6905b930-ee1d-45fd-9e02-22d508854ba9",
+  "path": "/bin/mount",
+  "size": 51584,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:20.184893045Z",
+  "sha256_hash": "d376d3bfb71e3f98d458a9c484bc230ecb878f047daf68d8b4112afd983a901a",
+  "file_type": "Executable",
+  "permissions": 35309,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.485760363Z"
+}

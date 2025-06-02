@@ -1,0 +1,17 @@
+{
+  "uuid": "c549aa97-423f-43aa-b164-63ebb4f4a629",
+  "path": "/lib/llvm-18/include/clang-tidy/abseil/DurationUnnecessaryConversionCheck.h",
+  "size": 1307,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.555533239Z",
+  "sha256_hash": "3a458c6a8508e725d36664a44c4a904d4b9942460848bffbbc503a87305d5e60",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.902970318Z"
+}

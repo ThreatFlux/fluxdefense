@@ -1,0 +1,17 @@
+{
+  "uuid": "96b77108-8f78-4439-8649-1b1d65c6c0a5",
+  "path": "/lib/x86_64-linux-gnu/librygel-db-2.8.so.0.42.5",
+  "size": 51272,
+  "modified": "2024-03-31T08:21:52Z",
+  "created": "2025-05-09T05:07:32.102711184Z",
+  "sha256_hash": "3adb2cdd513dd91797097bf609b6b8f42b6e9246090f1a0ffd9a40910e0ba55c",
+  "file_type": {
+    "Other": "5"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.409898064Z"
+}

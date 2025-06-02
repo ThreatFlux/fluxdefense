@@ -1,0 +1,17 @@
+{
+  "uuid": "09d99501-a9bc-4cf5-b1b8-d38ddec60365",
+  "path": "/lib/kernel/install.d/50-depmod.install",
+  "size": 2035,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.508779291Z",
+  "sha256_hash": "28bd019f29999ac9db99392b81f65f94dd0b671985fe073256d29b9be204caf9",
+  "file_type": {
+    "Other": "install"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.762192454Z"
+}

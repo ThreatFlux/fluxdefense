@@ -1,0 +1,15 @@
+{
+  "uuid": "f26b1e10-31cc-4468-a419-12a40ef3b0d5",
+  "path": "/usr/lib/llvm-18/lib/libLLVMLanaiDesc.a",
+  "size": 177038,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.914462665Z",
+  "sha256_hash": "5f44bd5d881122771d8dbeceb6a478d548995dad9e374c84c68243193530ce08",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:29.141612799Z"
+}

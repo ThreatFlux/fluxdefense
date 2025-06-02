@@ -1,0 +1,17 @@
+{
+  "uuid": "a9d7b7f1-f355-45d6-b5bb-eb6ce08413b2",
+  "path": "/lib/llvm-18/include/clang-tidy/concurrency/ThreadCanceltypeAsynchronousCheck.h",
+  "size": 1353,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "3239fe46021024e707dc3ad8d4f6602ca87c2581613acc341a392010658b4e50",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.916440601Z"
+}

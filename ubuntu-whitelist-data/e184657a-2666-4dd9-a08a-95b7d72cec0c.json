@@ -1,0 +1,17 @@
+{
+  "uuid": "e184657a-2666-4dd9-a08a-95b7d72cec0c",
+  "path": "/lib/llvm-18/include/clang-tidy/readability/UniqueptrDeleteReleaseCheck.h",
+  "size": 1516,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "d8a21ba03d6a6674696a873f1d3f8ec1f5b8c11ca896d0ec281c05ca1afb5dd4",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.921958085Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "cf7f0fc9-3f7b-4d18-b331-0673a976f185",
+  "path": "/usr/lib/x86_64-linux-gnu/rsyslog/impstats.so",
+  "size": 23880,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.546922251Z",
+  "sha256_hash": "c838a0d278c04ea82016018f53d3c6abe4ea167d0046f1320779cbcd40336b8e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.180609832Z"
+}

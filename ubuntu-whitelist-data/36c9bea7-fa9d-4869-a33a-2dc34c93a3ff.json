@@ -1,0 +1,17 @@
+{
+  "uuid": "36c9bea7-fa9d-4869-a33a-2dc34c93a3ff",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-strsup.adb",
+  "size": 71253,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.057345052Z",
+  "sha256_hash": "58bd40daedc17dff4796856ca28c2d66537fd3e8c2253782b1a85f6502d3006d",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.239143488Z"
+}

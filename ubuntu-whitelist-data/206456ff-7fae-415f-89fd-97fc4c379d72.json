@@ -1,0 +1,15 @@
+{
+  "uuid": "206456ff-7fae-415f-89fd-97fc4c379d72",
+  "path": "/sbin/pythonstat-bpfcc",
+  "size": 56,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "3246ac54ea57829084e4ab604a52504b13469155718b5146263612444a9824f3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.999265074Z"
+}

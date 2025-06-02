@@ -1,0 +1,17 @@
+{
+  "uuid": "f3a5ad3a-92aa-4046-80c8-8f815c0abbe3",
+  "path": "/lib/llvm-18/include/clang/CodeGen/CodeGenABITypes.h",
+  "size": 9229,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.539533450Z",
+  "sha256_hash": "132b06ad47641400bc9e9ada9d88ab4b5e8f3d9615c421a04ff7e14e6365c188",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.938240945Z"
+}

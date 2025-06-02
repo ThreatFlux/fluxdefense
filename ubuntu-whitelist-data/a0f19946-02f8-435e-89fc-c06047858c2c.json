@@ -1,0 +1,17 @@
+{
+  "uuid": "a0f19946-02f8-435e-89fc-c06047858c2c",
+  "path": "/usr/lib/x86_64-linux-gnu/libraptor2.so.0.0.0",
+  "size": 403848,
+  "modified": "2025-02-25T13:35:30Z",
+  "created": "2025-05-09T05:11:21.815205188Z",
+  "sha256_hash": "31c89de344dfde9484c83e1fb1be5a4babd522eebfc58c85f14b21a377746132",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.467922950Z"
+}

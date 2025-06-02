@@ -1,0 +1,17 @@
+{
+  "uuid": "ed4f4502-2207-44b9-909a-0f0bfe8631a9",
+  "path": "/usr/lib/grub/x86_64-efi/usbms.mod",
+  "size": 11120,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "0b4f6e1e60790dce9bf029680ea9fec7ef2c77928b20f6682085b3624198ae58",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.595052382Z"
+}

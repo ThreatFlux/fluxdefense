@@ -1,0 +1,17 @@
+{
+  "uuid": "b1dc8b11-1301-4d5a-ac62-efffad5fa256",
+  "path": "/lib/x86_64-linux-gnu/libbd_fs.so.3.0.0",
+  "size": 104520,
+  "modified": "2024-03-26T13:32:04Z",
+  "created": "2025-05-09T05:07:29.183755726Z",
+  "sha256_hash": "48cdecace41145d8a79dbb67ad6d13548dd95ddefbfb820e0874c9275c50e9c9",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:32.874791307Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "1ca418af-8178-4452-8091-7f7f9c552dfc",
+  "path": "/lib/x86_64-linux-gnu/xtables/libipt_NETMAP.so",
+  "size": 14784,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.327631452Z",
+  "sha256_hash": "3605d39859b8e44cf542d79317e95a498a75cb1e52c4e1316b5e5a804dbb833b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.669801692Z"
+}

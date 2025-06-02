@@ -1,0 +1,15 @@
+{
+  "uuid": "ebdb1bb2-6ea1-4722-85eb-24651901783b",
+  "path": "/lib/llvm-18/lib/libLLVMAMDGPUUtils.a",
+  "size": 2158238,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.760464694Z",
+  "sha256_hash": "88641fd07a7be6ba90ce21104f155dc13beaae337c1aa5134711e1bdabc3219e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.535695591Z"
+}

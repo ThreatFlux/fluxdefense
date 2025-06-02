@@ -1,0 +1,17 @@
+{
+  "uuid": "e61a238f-8671-4aa4-bdb8-057389ab73f5",
+  "path": "/usr/lib/llvm-18/include/clang/Lex/HeaderMapTypes.h",
+  "size": 1482,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.544533384Z",
+  "sha256_hash": "3154e7ed948c4271f03a9de4d0fc5c3348aa668ca3e702c9a6464142f364dc5c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.618614148Z"
+}

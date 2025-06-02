@@ -1,0 +1,17 @@
+{
+  "uuid": "c23d22a8-a6ab-4cb6-8965-3d49e26b9081",
+  "path": "/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/gdk-pixbuf-query-loaders",
+  "size": 14656,
+  "modified": "2024-06-03T16:36:10Z",
+  "created": "2025-05-09T05:07:35.704656219Z",
+  "sha256_hash": "6d6e77ea8d6a862f4af1081120461b373f977daf6f0d034f2514a4fdde20dfaf",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.171035621Z"
+}

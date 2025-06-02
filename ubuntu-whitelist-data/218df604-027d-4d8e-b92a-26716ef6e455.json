@@ -1,0 +1,17 @@
+{
+  "uuid": "218df604-027d-4d8e-b92a-26716ef6e455",
+  "path": "/lib/firmware/intel/sof-tplg/sof-glk-rt5682.tplg.zst",
+  "size": 1547,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.059490968Z",
+  "sha256_hash": "28f03ab2ad0cf40e9e300925a3cf542cc8ac146733e24d38169562c7ece3b945",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.224607924Z"
+}

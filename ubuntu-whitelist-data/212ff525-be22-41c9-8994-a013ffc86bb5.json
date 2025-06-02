@@ -1,0 +1,17 @@
+{
+  "uuid": "212ff525-be22-41c9-8994-a013ffc86bb5",
+  "path": "/usr/lib/firmware/intel/vsc/ivsc_pkg_himx2170_0.bin.zst",
+  "size": 358937,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.574541230Z",
+  "sha256_hash": "b4c5905945d363d318b499c316acf475368064f264fe1af849a41911fa7e0b8f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:57.000591265Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "9b2b3fe0-6cab-4fa6-a7e1-ac9bd3938cc1",
+  "path": "/usr/lib/x86_64-linux-gnu/libdv.so.4.0.3",
+  "size": 123888,
+  "modified": "2024-03-31T07:47:38Z",
+  "created": "2025-05-09T05:07:29.358753056Z",
+  "sha256_hash": "adf65096549338a8061fe154825e2760c93cafeadce2bb4a949a410aa7f582de",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.769649067Z"
+}

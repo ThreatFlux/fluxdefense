@@ -1,0 +1,15 @@
+{
+  "uuid": "cff4e35b-b33e-45a9-acd5-7b5638937d60",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libip6t_ah.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.326631467Z",
+  "sha256_hash": "eeb6aaa1a456fada994aefdc88737dcf98a1e7d7e1b87f4901e97bb4a41fc40b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.250734440Z"
+}

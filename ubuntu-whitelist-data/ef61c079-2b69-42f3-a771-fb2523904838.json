@@ -1,0 +1,15 @@
+{
+  "uuid": "ef61c079-2b69-42f3-a771-fb2523904838",
+  "path": "/usr/bin/byobu-silent",
+  "size": 1306,
+  "modified": "2024-02-10T17:03:36Z",
+  "created": "2025-05-23T03:43:49.240694211Z",
+  "sha256_hash": "41e3a1ed898d2e297b95260b3df7f9a3e8c3294fdfa736129a94044a695f3007",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.871553356Z"
+}

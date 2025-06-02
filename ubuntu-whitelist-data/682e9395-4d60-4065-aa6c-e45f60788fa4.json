@@ -1,0 +1,17 @@
+{
+  "uuid": "682e9395-4d60-4065-aa6c-e45f60788fa4",
+  "path": "/usr/lib/llvm-18/include/clang-c/CXSourceLocation.h",
+  "size": 10007,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.554533252Z",
+  "sha256_hash": "e7933d26e763a579dddbd3bf20955433909ee24181206b2be0961d4179ac7eb9",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.216520763Z"
+}

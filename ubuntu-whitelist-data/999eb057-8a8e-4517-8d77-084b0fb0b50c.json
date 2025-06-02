@@ -1,0 +1,17 @@
+{
+  "uuid": "999eb057-8a8e-4517-8d77-084b0fb0b50c",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/glesv2.pc",
+  "size": 207,
+  "modified": "2024-04-08T16:04:01Z",
+  "created": "2025-05-29T11:16:23.687817445Z",
+  "sha256_hash": "aaac296099223854fd2a6593b15596b0dbd93a7cb4cc119a9da6a35ae367c3cb",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.058198314Z"
+}

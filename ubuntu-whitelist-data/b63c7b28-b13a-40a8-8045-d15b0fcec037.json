@@ -1,0 +1,15 @@
+{
+  "uuid": "b63c7b28-b13a-40a8-8045-d15b0fcec037",
+  "path": "/lib/x86_64-linux-gnu/security/pam_gnome_keyring.so",
+  "size": 30712,
+  "modified": "2024-03-31T06:07:47Z",
+  "created": "2025-05-09T05:07:37.199633405Z",
+  "sha256_hash": "ab4654415b1856cab2f81cc5b0049c0bbcc33b72e6ab0383bce4b5d15cebf27e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.373452429Z"
+}

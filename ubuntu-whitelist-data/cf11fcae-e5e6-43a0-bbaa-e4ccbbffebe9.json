@@ -1,0 +1,17 @@
+{
+  "uuid": "cf11fcae-e5e6-43a0-bbaa-e4ccbbffebe9",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-stwiha.adb",
+  "size": 2504,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.058345038Z",
+  "sha256_hash": "e079d7e6ec7443d5fdc22c041b26ca288d2245e988d39510b1c2bcda77ceee07",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.163824711Z"
+}

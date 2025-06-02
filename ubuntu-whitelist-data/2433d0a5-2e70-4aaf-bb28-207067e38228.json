@@ -1,0 +1,15 @@
+{
+  "uuid": "2433d0a5-2e70-4aaf-bb28-207067e38228",
+  "path": "/bin/foo2oak",
+  "size": 35736,
+  "modified": "2024-04-10T21:38:27Z",
+  "created": "2025-05-09T05:07:19.222907724Z",
+  "sha256_hash": "9f94074263d6100cfa0f3bf5de65f8d1c7cbe5454eb360ca65cc34d9030dca4a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.803522649Z"
+}

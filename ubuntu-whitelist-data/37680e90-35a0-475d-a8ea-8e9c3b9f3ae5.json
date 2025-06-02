@@ -1,0 +1,17 @@
+{
+  "uuid": "37680e90-35a0-475d-a8ea-8e9c3b9f3ae5",
+  "path": "/lib/x86_64-linux-gnu/samba/libdb-glue-samba4.so.0",
+  "size": 96608,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.045635755Z",
+  "sha256_hash": "6ba7b531bc3c0c616d5767b876fc88c61d51da4009937f3cff8534048ca70e62",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.448136420Z"
+}

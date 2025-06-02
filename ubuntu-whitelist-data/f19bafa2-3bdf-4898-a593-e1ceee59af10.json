@@ -1,0 +1,17 @@
+{
+  "uuid": "f19bafa2-3bdf-4898-a593-e1ceee59af10",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/include/avx512pfintrin.h",
+  "size": 10288,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.242389875Z",
+  "sha256_hash": "375099ebe72a1425129bb792a46fab0998ed1bf260cf0219d9e71b6cf5d95eeb",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.912163656Z"
+}

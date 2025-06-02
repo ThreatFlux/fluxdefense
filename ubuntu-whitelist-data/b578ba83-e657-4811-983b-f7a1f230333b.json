@@ -1,0 +1,17 @@
+{
+  "uuid": "b578ba83-e657-4811-983b-f7a1f230333b",
+  "path": "/lib/systemd/system/user@0.service.d/10-login-barrier.conf",
+  "size": 548,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.516779393Z",
+  "sha256_hash": "8871be748b7deb5aa26786504b1c6fad4cdda548161869f586e3bb2cfb11476f",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.111281155Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "09874629-841b-47ba-b336-29b721b59d97",
+  "path": "/usr/bin/iceauth",
+  "size": 43440,
+  "modified": "2024-03-31T17:27:26Z",
+  "created": "2025-05-09T05:07:20.048895120Z",
+  "sha256_hash": "9f009bb92b95ec5c48d9e6daf8abf74edacfca67542c2e37f5beb5b86bccf6dc",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:14.997296519Z"
+}

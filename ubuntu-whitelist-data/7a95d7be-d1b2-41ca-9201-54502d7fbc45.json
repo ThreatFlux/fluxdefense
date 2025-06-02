@@ -1,0 +1,15 @@
+{
+  "uuid": "7a95d7be-d1b2-41ca-9201-54502d7fbc45",
+  "path": "/usr/lib/xorg/modules/drivers/amdgpu_drv.so",
+  "size": 160800,
+  "modified": "2024-04-08T16:23:24Z",
+  "created": "2025-05-09T05:07:37.355631025Z",
+  "sha256_hash": "822421843f8f814dc8942bb678833f7d10aa3735d4b6348665396f46cbbe3574",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.624001965Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "9f76b5fe-0743-4792-b5ec-a4ede9b64f1d",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/ogg.pc",
+  "size": 281,
+  "modified": "2024-04-08T16:06:10Z",
+  "created": "2025-05-29T11:16:21.690844849Z",
+  "sha256_hash": "9878540f00e7994af136e65676b5994067bba7894bc1f62d9285211010d63bc2",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.105697125Z"
+}

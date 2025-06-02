@@ -1,0 +1,17 @@
+{
+  "uuid": "a729d267-e9e1-4366-83bb-b96032ec2a8d",
+  "path": "/lib/udev/rules.d/60-autosuspend.rules",
+  "size": 704,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.060786348Z",
+  "sha256_hash": "ef171e3921df1aa26414a383bc62a9ba82995257e0601fd3d58eb75b93f5ab78",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.244991151Z"
+}

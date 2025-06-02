@@ -1,0 +1,15 @@
+{
+  "uuid": "84b0f8f6-1ea2-4b6d-9620-bdb8117c840c",
+  "path": "/bin/cp",
+  "size": 141848,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:19.128909158Z",
+  "sha256_hash": "2e17fe58f9bd77232d9565a503fb43f20bdc2206a3c6bf0d841071a1da6efd35",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.002462221Z"
+}

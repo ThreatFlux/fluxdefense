@@ -1,0 +1,15 @@
+{
+  "uuid": "9e1ade9f-ce86-4e60-904a-815b71c26bd6",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/GBK.so",
+  "size": 129232,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.623657455Z",
+  "sha256_hash": "ca8723a920c22ca363266f9d86af025e905e51839cd376340a4e8cb5402ba792",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.567314224Z"
+}

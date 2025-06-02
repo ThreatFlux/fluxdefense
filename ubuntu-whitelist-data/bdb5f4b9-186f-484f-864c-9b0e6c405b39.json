@@ -1,0 +1,17 @@
+{
+  "uuid": "bdb5f4b9-186f-484f-864c-9b0e6c405b39",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/SuspiciousMemoryComparisonCheck.h",
+  "size": 1309,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "fbf84623aa998bb1e4020522c171fda4b65728e35df6d44edaad9539bcd16db0",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.235589269Z"
+}

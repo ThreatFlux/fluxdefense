@@ -1,0 +1,17 @@
+{
+  "uuid": "e613a15a-64c2-4db8-8180-9bc399a35c78",
+  "path": "/usr/lib/x86_64-linux-gnu/libnma.so.0.0.0",
+  "size": 362792,
+  "modified": "2024-03-31T02:08:45Z",
+  "created": "2025-05-09T05:07:31.724716952Z",
+  "sha256_hash": "cde601a2011152efa52d0ff1bbde796fd7e6cf330983729a6d285f047a213bd0",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.084030137Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e77efd98-30b3-4d77-b0cf-17703631e037",
+  "path": "/usr/lib/modules/6.11.0-26-generic/kernel/crypto/des_generic.ko.zst",
+  "size": 2959,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.078797895Z",
+  "sha256_hash": "a8e3e8013115f59c3d2d72baa9e0200447aa301a100b1f23731af170bfe93de9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.636783861Z"
+}

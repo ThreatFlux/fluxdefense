@@ -1,0 +1,17 @@
+{
+  "uuid": "ffd5e096-407e-41aa-b0d9-fed407d1cde1",
+  "path": "/lib/python3.12/test/xmltestdata/expat224_utf8_bug.xml",
+  "size": 1036,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.054550948Z",
+  "sha256_hash": "9152fc90d3c84314239b59356c452c7d88b88fe8fa96f2f123d25437728bb82e",
+  "file_type": {
+    "Other": "xml"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.278555780Z"
+}

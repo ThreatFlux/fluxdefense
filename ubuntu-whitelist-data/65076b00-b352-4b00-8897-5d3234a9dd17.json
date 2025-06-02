@@ -1,0 +1,17 @@
+{
+  "uuid": "65076b00-b352-4b00-8897-5d3234a9dd17",
+  "path": "/lib/grub/x86_64-efi/help.mod",
+  "size": 4096,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.810708430Z",
+  "sha256_hash": "006662e5a109acbe4ed059ccd8b58b446bf99e097b3b4515b6026fde5df0f19d",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.049234514Z"
+}

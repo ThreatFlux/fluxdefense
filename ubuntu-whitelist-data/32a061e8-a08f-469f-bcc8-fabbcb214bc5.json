@@ -1,0 +1,17 @@
+{
+  "uuid": "32a061e8-a08f-469f-bcc8-fabbcb214bc5",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/modernize/ConcatNestedNamespacesCheck.h",
+  "size": 2174,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "f54450ff77b8b5b2b12b5b8ee0562073cca221c1b5b5e38bda2586646d20f484",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.254948907Z"
+}

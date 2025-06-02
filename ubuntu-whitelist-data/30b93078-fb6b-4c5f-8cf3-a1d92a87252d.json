@@ -1,0 +1,15 @@
+{
+  "uuid": "30b93078-fb6b-4c5f-8cf3-a1d92a87252d",
+  "path": "/bin/firefox",
+  "size": 2377,
+  "modified": "2022-11-06T11:24:36Z",
+  "created": "2025-05-09T05:07:19.217907800Z",
+  "sha256_hash": "0ed9f1a3e4c189165e94979eafa0751fdd20fded42c46679a6caa2adfbd46c7f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.482306479Z"
+}

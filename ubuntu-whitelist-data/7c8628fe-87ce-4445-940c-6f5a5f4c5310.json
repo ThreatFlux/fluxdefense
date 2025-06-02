@@ -1,0 +1,15 @@
+{
+  "uuid": "7c8628fe-87ce-4445-940c-6f5a5f4c5310",
+  "path": "/usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-protocol-pulse.so",
+  "size": 419760,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.783860115Z",
+  "sha256_hash": "521feef06fccabfccc4582bd3f3f79545c6fd53661564cb7b664243316249188",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.430442915Z"
+}

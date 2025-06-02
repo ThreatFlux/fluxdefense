@@ -1,0 +1,17 @@
+{
+  "uuid": "1479a775-7369-4041-b0af-7b7ca9c31c5f",
+  "path": "/lib/x86_64-linux-gnu/libgc.so.1.5.3",
+  "size": 184184,
+  "modified": "2024-04-08T16:03:52Z",
+  "created": "2025-05-12T13:34:30.280550031Z",
+  "sha256_hash": "1e3eab1378bd6be4e1e383f50e42dc7bb6d03c9fe5cd7dd35f046cef9cebbbee",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.693972940Z"
+}

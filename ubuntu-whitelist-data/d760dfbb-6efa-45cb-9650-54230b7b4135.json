@@ -1,0 +1,17 @@
+{
+  "uuid": "d760dfbb-6efa-45cb-9650-54230b7b4135",
+  "path": "/bin/gst-device-monitor-1.0",
+  "size": 22936,
+  "modified": "2024-12-17T13:24:56Z",
+  "created": "2025-05-09T05:07:19.872897806Z",
+  "sha256_hash": "e05d81e052f78602a8c7bdb612c50d6af48f35e4e99e5706ba9c15791a6345e3",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.797885795Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "ec97fcaa-9909-4e2e-b25a-799c24970045",
+  "path": "/bin/ec2metadata",
+  "size": 8583,
+  "modified": "2022-06-03T10:51:54Z",
+  "created": "2025-05-09T05:07:19.186908274Z",
+  "sha256_hash": "d4200b155f27c303c63a41b8c5c9db79c259aba1fac88efc725a3f5574671af8",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.271772963Z"
+}

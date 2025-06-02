@@ -1,0 +1,17 @@
+{
+  "uuid": "ce7abf3d-aef0-4f80-b86f-4457f8c1ac63",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/g-memdum.ali",
+  "size": 3899,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.108344351Z",
+  "sha256_hash": "876b76551e10bcc78ab59fbcd5d6822bd084c6a86b14fc280b03ad2458484389",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.697478891Z"
+}

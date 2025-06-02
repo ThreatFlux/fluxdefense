@@ -1,0 +1,17 @@
+{
+  "uuid": "170a9c79-d117-4b38-80aa-b275efb5afaa",
+  "path": "/usr/lib/x86_64-linux-gnu/libcdio.so.19.0.0",
+  "size": 154024,
+  "modified": "2024-06-24T02:34:25Z",
+  "created": "2025-05-09T05:07:29.208755345Z",
+  "sha256_hash": "5962d19bcb5955a51949900d95e31523e7e75180f26082b5964deed5175f9679",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.474948489Z"
+}

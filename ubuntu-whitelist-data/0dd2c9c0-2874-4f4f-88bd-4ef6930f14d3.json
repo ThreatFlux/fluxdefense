@@ -1,0 +1,17 @@
+{
+  "uuid": "0dd2c9c0-2874-4f4f-88bd-4ef6930f14d3",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-memory.adb",
+  "size": 6303,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.080344736Z",
+  "sha256_hash": "fdbbd73713fd00561a6e69e708dcebf856b48c5b96f95845751d7c02954598cf",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.267469082Z"
+}

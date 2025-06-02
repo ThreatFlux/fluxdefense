@@ -1,0 +1,15 @@
+{
+  "uuid": "29d0c571-8cd6-46a6-8a9d-82ede46b696d",
+  "path": "/lib/llvm-18/bin/llvm-profdata",
+  "size": 327664,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.065487017Z",
+  "sha256_hash": "2086a74d7d22fc8ae5c0ac77b5059aceb7828a93892fb99cec1048812bf7477a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.837356680Z"
+}

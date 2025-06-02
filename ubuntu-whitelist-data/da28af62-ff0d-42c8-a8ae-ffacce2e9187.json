@@ -1,0 +1,17 @@
+{
+  "uuid": "da28af62-ff0d-42c8-a8ae-ffacce2e9187",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-imgint.ali",
+  "size": 3940,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.139343925Z",
+  "sha256_hash": "b20f91c7ab014b3883d16fad9e5d2d85e1ecba0df4509438dacbe8971c74e8b1",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.596785638Z"
+}

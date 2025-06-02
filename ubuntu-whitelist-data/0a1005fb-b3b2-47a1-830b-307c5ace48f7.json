@@ -1,0 +1,15 @@
+{
+  "uuid": "0a1005fb-b3b2-47a1-830b-307c5ace48f7",
+  "path": "/sbin/profile-bpfcc",
+  "size": 14756,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "2cae8921944626491b021dc0f3554effb90f22d4e0f574fe787ed23d17193b2b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.143649319Z"
+}

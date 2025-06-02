@@ -1,0 +1,15 @@
+{
+  "uuid": "a9520e21-a1eb-422b-ab1c-360f7200a843",
+  "path": "/usr/lib/x86_64-linux-gnu/libpcre2-32.a",
+  "size": 707608,
+  "modified": "2024-10-02T12:40:51Z",
+  "created": "2025-05-13T14:30:45.397492465Z",
+  "sha256_hash": "71291e55f6f09b75dabb35ca2877e92ad6de47bb5dd2005d20634eb926dd4ba2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:13.484654340Z"
+}

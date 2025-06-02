@@ -1,0 +1,17 @@
+{
+  "uuid": "db97ec8a-e54f-4753-82ca-c5dbac7c77dd",
+  "path": "/lib/llvm-18/include/clang-tidy/darwin/AvoidSpinlockCheck.h",
+  "size": 1216,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "6a17172e5f6c4df94f1a9a753f26787fe807bb571773ecc22dc91b76d311a4dd",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.911281234Z"
+}

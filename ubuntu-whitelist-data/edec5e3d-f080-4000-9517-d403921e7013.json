@@ -1,0 +1,17 @@
+{
+  "uuid": "edec5e3d-f080-4000-9517-d403921e7013",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-sequio.ali",
+  "size": 5935,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.143343871Z",
+  "sha256_hash": "a8ddd099058f32d223385f423310bfb453c5a37b0f75403004cca13b2f1fc047",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.657762120Z"
+}

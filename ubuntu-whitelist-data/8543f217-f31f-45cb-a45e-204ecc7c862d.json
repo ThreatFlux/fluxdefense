@@ -1,0 +1,17 @@
+{
+  "uuid": "8543f217-f31f-45cb-a45e-204ecc7c862d",
+  "path": "/usr/lib/firmware/slicoss/oasisrcvucode.sys.zst",
+  "size": 1244,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.073534319Z",
+  "sha256_hash": "ccf86e95ceda9106fadcb4ae3ebc6c9a9f871a66ce6f89d99329be6a5708a483",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.086714747Z"
+}

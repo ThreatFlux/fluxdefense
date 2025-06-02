@@ -1,0 +1,15 @@
+{
+  "uuid": "3f1bffb8-83fe-43cf-b991-14194139ab67",
+  "path": "/usr/lib/python3/dist-packages/DistUpgrade/xorg_fix_proprietary.py",
+  "size": 4083,
+  "modified": "2024-06-21T20:19:38Z",
+  "created": "2025-05-09T05:07:26.393798300Z",
+  "sha256_hash": "ec07022849d824e0d3e58f9c6c6683940d203c872a9bae8249db1561be9a8ebd",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.096961312Z"
+}

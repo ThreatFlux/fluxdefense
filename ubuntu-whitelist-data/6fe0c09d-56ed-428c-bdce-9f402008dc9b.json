@@ -1,0 +1,17 @@
+{
+  "uuid": "6fe0c09d-56ed-428c-bdce-9f402008dc9b",
+  "path": "/usr/lib/x86_64-linux-gnu/libattr.so.1.1.2502",
+  "size": 26696,
+  "modified": "2024-10-02T12:40:50Z",
+  "created": "2025-05-09T05:07:29.181755757Z",
+  "sha256_hash": "b96b8d32ff2454f29f09961e29832181bc7cccca5b5dce81f4580cd68701170a",
+  "file_type": {
+    "Other": "2502"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.058954474Z"
+}

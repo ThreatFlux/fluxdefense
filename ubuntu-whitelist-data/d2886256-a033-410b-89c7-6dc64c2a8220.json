@@ -1,0 +1,17 @@
+{
+  "uuid": "d2886256-a033-410b-89c7-6dc64c2a8220",
+  "path": "/lib/x86_64-linux-gnu/libisoburn.so.1.113.0",
+  "size": 1027536,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:30.599734119Z",
+  "sha256_hash": "11815fe6186ee9c23c966173f8be1565d124ef9238800e5e6ea5697d6782f4fc",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.331168435Z"
+}

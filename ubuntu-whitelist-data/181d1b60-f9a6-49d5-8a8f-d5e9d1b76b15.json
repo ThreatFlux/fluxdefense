@@ -1,0 +1,15 @@
+{
+  "uuid": "181d1b60-f9a6-49d5-8a8f-d5e9d1b76b15",
+  "path": "/lib/llvm-18/lib/libclangAnalysis.a",
+  "size": 4975292,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.615532449Z",
+  "sha256_hash": "986c2cb7613340be4f5c0e02fa487b0ec2d2e62c2de1b8b19818e08d98b2a9dd",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:43.482242010Z"
+}

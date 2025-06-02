@@ -1,0 +1,17 @@
+{
+  "uuid": "c2212572-95e7-4df2-b872-96ba9487d133",
+  "path": "/lib/python3.12/test/dtracedata/call_stack.d.expected",
+  "size": 797,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.998551683Z",
+  "sha256_hash": "81b46c8691e5f38eb7bb657a7e9107a0416ad88bf141e0d1fc42bea3499d4ea3",
+  "file_type": {
+    "Other": "expected"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.323108021Z"
+}

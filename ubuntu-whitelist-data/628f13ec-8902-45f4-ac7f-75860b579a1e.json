@@ -1,0 +1,15 @@
+{
+  "uuid": "628f13ec-8902-45f4-ac7f-75860b579a1e",
+  "path": "/lib/llvm-18/lib/libclangPseudoCXX.a",
+  "size": 87368,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.745530737Z",
+  "sha256_hash": "5f28285a4c4267f5210538a1394f3916bb2e9273f6bdded331b8db2662fe9a52",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.132528904Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "ddba8be8-c506-4954-b36c-9bafb1234f31",
+  "path": "/usr/lib/x86_64-linux-gnu/libswscale.so.7.5.100",
+  "size": 636920,
+  "modified": "2024-04-05T17:28:52Z",
+  "created": "2025-05-09T05:09:26.474965707Z",
+  "sha256_hash": "a2122c6342e9457a9b7faab2d3f7018f3634fdac4d0b25b8ea974eae0277d78c",
+  "file_type": {
+    "Other": "100"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.090415357Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "970d80c9-90cb-4c86-b3e8-1646fdd2bf7f",
+  "path": "/lib/llvm-18/lib/libLLVMVEDesc.a",
+  "size": 1151096,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.046460927Z",
+  "sha256_hash": "6bcfde02691185e94c06b57fdbd070c42ba0906a74009bd23b4c3ee6d7ce0b45",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.915958984Z"
+}

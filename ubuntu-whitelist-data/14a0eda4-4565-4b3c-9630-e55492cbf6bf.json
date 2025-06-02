@@ -1,0 +1,17 @@
+{
+  "uuid": "14a0eda4-4565-4b3c-9630-e55492cbf6bf",
+  "path": "/lib/grub/x86_64-efi/disk.mod",
+  "size": 3152,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.803708536Z",
+  "sha256_hash": "d1e39004476dd597eade83a947284159955bf71c6c6cb0ad46a2d35768fe4846",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.017981379Z"
+}

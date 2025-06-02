@@ -1,0 +1,15 @@
+{
+  "uuid": "ce201f88-9bdd-4d84-a3d1-b6e482850076",
+  "path": "/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-viqr.so",
+  "size": 16536,
+  "modified": "2025-01-27T19:56:56Z",
+  "created": "2025-05-09T05:24:16.537818153Z",
+  "sha256_hash": "2a4c96b9092a72b73a940cd08b132b84ae47a10d4305a655ad2a0c154f936688",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.386062844Z"
+}

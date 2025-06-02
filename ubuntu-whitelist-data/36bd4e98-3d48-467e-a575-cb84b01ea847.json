@@ -1,0 +1,17 @@
+{
+  "uuid": "36bd4e98-3d48-467e-a575-cb84b01ea847",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/crtbeginT.o",
+  "size": 2968,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.240389918Z",
+  "sha256_hash": "0faeeceea4585b9b6da8dfb093f8b1feb35260240590d598c2b7d0049bff227e",
+  "file_type": {
+    "Other": "o"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.493165184Z"
+}

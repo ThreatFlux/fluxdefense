@@ -1,0 +1,15 @@
+{
+  "uuid": "51a815f4-ec2d-48da-9078-748e3a4c38b0",
+  "path": "/usr/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-linktop.so",
+  "size": 14512,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.160664520Z",
+  "sha256_hash": "ecbd483486eef472d4b842e7fd807d342ff7afe1d79893e412dc526f9307a346",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.078837895Z"
+}

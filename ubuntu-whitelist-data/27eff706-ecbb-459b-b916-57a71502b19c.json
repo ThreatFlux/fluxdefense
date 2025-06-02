@@ -1,0 +1,17 @@
+{
+  "uuid": "27eff706-ecbb-459b-b916-57a71502b19c",
+  "path": "/lib/systemd/system/apport-autoreport.service",
+  "size": 249,
+  "modified": "2022-04-22T13:54:11Z",
+  "created": "2025-05-30T21:04:52.101603322Z",
+  "sha256_hash": "9be72b6a5ce373fc3c4580cbe3901703a6cb47fff0bde3d2c29fb82d69160b73",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.105219656Z"
+}

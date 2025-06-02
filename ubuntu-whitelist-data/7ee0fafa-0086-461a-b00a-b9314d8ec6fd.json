@@ -1,0 +1,15 @@
+{
+  "uuid": "7ee0fafa-0086-461a-b00a-b9314d8ec6fd",
+  "path": "/usr/bin/tail",
+  "size": 64032,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:20.681885461Z",
+  "sha256_hash": "80f08f3d456c221b584dfecd607025b7883047f586761bb2e1d04738b7513d39",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.052885755Z"
+}

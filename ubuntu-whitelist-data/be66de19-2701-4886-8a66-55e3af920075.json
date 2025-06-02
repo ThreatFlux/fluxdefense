@@ -1,0 +1,15 @@
+{
+  "uuid": "be66de19-2701-4886-8a66-55e3af920075",
+  "path": "/sbin/u-d-c-print-pci-ids",
+  "size": 517,
+  "modified": "2024-08-22T12:25:17Z",
+  "created": "2025-05-09T05:07:38.448614346Z",
+  "sha256_hash": "66f801b61c62ec71531bdb8807de42662f05b1b15e36d7a723805d69545b2fbf",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.672973365Z"
+}

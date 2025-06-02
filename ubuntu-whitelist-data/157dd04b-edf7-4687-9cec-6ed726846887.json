@@ -1,0 +1,17 @@
+{
+  "uuid": "157dd04b-edf7-4687-9cec-6ed726846887",
+  "path": "/usr/lib/modules/6.11.0-26-generic/kernel/crypto/crypto_simd.ko.zst",
+  "size": 5674,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.078797895Z",
+  "sha256_hash": "ab7acdb5aa7dfe2291d34ea0ada30293e776ef0f2b05ac54827da4a4b83ac472",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.628047421Z"
+}

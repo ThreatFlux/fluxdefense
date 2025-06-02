@@ -1,0 +1,15 @@
+{
+  "uuid": "aa77cae3-3fe9-4634-8257-bb248889e789",
+  "path": "/usr/sbin/update-grub",
+  "size": 64,
+  "modified": "2025-03-17T11:36:12Z",
+  "created": "2025-05-09T05:08:37.985705759Z",
+  "sha256_hash": "d34caba6343ba89573b3fc21df22ca3d041432c3008b6dbdf5c15fabdd0c418d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.712384552Z"
+}

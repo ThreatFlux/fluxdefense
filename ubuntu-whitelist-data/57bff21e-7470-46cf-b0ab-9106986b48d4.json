@@ -1,0 +1,17 @@
+{
+  "uuid": "57bff21e-7470-46cf-b0ab-9106986b48d4",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/cert/DefaultOperatorNewAlignmentCheck.h",
+  "size": 1401,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "b6a3e92d9bb2f3e57edbcafeb74f372e6bdcc377aa9a5cb3af30f0d53471c7e3",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.263497827Z"
+}

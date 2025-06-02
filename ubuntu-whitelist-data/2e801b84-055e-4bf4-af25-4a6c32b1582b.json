@@ -1,0 +1,17 @@
+{
+  "uuid": "2e801b84-055e-4bf4-af25-4a6c32b1582b",
+  "path": "/lib/x86_64-linux-gnu/perl-base/IO/Seekable.pm",
+  "size": 642,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.350578627Z",
+  "sha256_hash": "d4348fb1adf6d4dbc0c05bedd000f1f20b40970383f32591837d37e3ad221bd3",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.921478023Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "8b1227ab-c1a3-4e26-ab01-db02f4329caa",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/LLVM.h",
+  "size": 2586,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "0928f3ae2a61e2f7b7be21f45f7c3b42bdb8087a025e3c2ae183bc09c101bc5b",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.557639089Z"
+}

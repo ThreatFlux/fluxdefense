@@ -1,0 +1,17 @@
+{
+  "uuid": "b3d31dff-b7bc-4f94-a4b8-d21dc7100176",
+  "path": "/lib/llvm-18/include/clang/Analysis/IssueHash.h",
+  "size": 2112,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.524533647Z",
+  "sha256_hash": "7d11b57592a103ad8809945d1814f0b15d87834a25b2f76d769c9143c8179f12",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.187729436Z"
+}

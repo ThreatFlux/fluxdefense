@@ -1,0 +1,15 @@
+{
+  "uuid": "12f9bca7-6bf4-4d57-9a33-ed1f428b8e59",
+  "path": "/lib/x86_64-linux-gnu/gconv/EUC-TW.so",
+  "size": 35024,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.613657607Z",
+  "sha256_hash": "9a619314ae4df2116a7cb528d3810c7988a1c34046424040a5643beaa5b031f7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.728705094Z"
+}

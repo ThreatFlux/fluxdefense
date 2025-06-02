@@ -1,0 +1,17 @@
+{
+  "uuid": "2eb03c4a-b267-4284-bbce-6323eaaefb24",
+  "path": "/lib/x86_64-linux-gnu/X11/rstart/contexts/default",
+  "size": 1286,
+  "modified": "2024-03-31T17:26:54Z",
+  "created": "2025-05-09T05:07:35.178664245Z",
+  "sha256_hash": "9c1659ffefa539afbcf262479b4ef50a924e28410d6acc3e291bbd3eb69c8150",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.298438678Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "dff5234f-181d-4c97-8fb0-3a8518bf35ff",
+  "path": "/lib/google-cloud-sdk/lib/third_party/botocore/eventstream.py",
+  "size": 20449,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.307939158Z",
+  "sha256_hash": "957dd4e88d6dbaa1e0a0fc68c3b98d739d5bccea42abf1cef1761a2e209467a9",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.904226301Z"
+}

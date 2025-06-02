@@ -1,0 +1,15 @@
+{
+  "uuid": "bf3bd73e-adc0-42d6-a3e4-26d39392c98e",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/cachetools/lru.py",
+  "size": 1312,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.327938819Z",
+  "sha256_hash": "137256960214172a273defc1859e54d74277ec48e827abe08e29e913e18b50ec",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.692291584Z"
+}

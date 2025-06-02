@@ -1,0 +1,17 @@
+{
+  "uuid": "10c9b763-1234-4c8e-a143-3b96fd6d43ce",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/crypto/sm3.ko.zst",
+  "size": 10321,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.079797878Z",
+  "sha256_hash": "2a0504be42e4e221c9cb785495ec7967b229a35b6a2659ee03066df9c3a659c1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.257543276Z"
+}

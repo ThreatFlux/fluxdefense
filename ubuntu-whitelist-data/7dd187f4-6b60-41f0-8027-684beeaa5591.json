@@ -1,0 +1,17 @@
+{
+  "uuid": "7dd187f4-6b60-41f0-8027-684beeaa5591",
+  "path": "/usr/lib/firmware/dvb-fe-xc5000c-4.1.30.7.fw.zst",
+  "size": 12191,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.528541867Z",
+  "sha256_hash": "231a8305c76270bc204296d8780f4ceef4385daac8d7e5f32eee9fe4f42276b4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.393582760Z"
+}

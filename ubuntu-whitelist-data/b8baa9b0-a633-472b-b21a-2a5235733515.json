@@ -1,0 +1,15 @@
+{
+  "uuid": "b8baa9b0-a633-472b-b21a-2a5235733515",
+  "path": "/bin/strace-log-merge",
+  "size": 1821,
+  "modified": "2021-02-16T08:00:00Z",
+  "created": "2025-05-09T05:07:20.642886056Z",
+  "sha256_hash": "a8c835c03d9760c4ffa777cab90f5336983115a3b0e6d8fd5cbfb7554bb5cd2b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.469243334Z"
+}

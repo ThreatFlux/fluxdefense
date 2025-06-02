@@ -1,0 +1,17 @@
+{
+  "uuid": "47782581-3009-47f0-808e-e6f20a5c51ce",
+  "path": "/lib/x86_64-linux-gnu/libtss2-mu.so.0.0.1",
+  "size": 276888,
+  "modified": "2024-05-24T20:06:42Z",
+  "created": "2025-05-09T05:07:32.326707766Z",
+  "sha256_hash": "706b47eb7fe64be83c5e3d86564ddfefb648188613ffbac689410558816f95d0",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.957804090Z"
+}

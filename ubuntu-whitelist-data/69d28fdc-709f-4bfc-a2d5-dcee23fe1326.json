@@ -1,0 +1,17 @@
+{
+  "uuid": "69d28fdc-709f-4bfc-a2d5-dcee23fe1326",
+  "path": "/usr/lib/i386-linux-gnu/libwayland-server.so.0.22.0",
+  "size": 83984,
+  "modified": "2024-04-08T16:21:56Z",
+  "created": "2025-05-09T12:56:01.092926249Z",
+  "sha256_hash": "86eccd500d7355cc8f1135e03bab75a741991a913a11874d3c10a77d9ca20f30",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.681749590Z"
+}

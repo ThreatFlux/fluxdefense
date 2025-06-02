@@ -1,0 +1,17 @@
+{
+  "uuid": "2fa0af79-4874-4b7f-88ce-d69329dcbe3c",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-vallfl.ali",
+  "size": 6519,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.145343843Z",
+  "sha256_hash": "41c75ed36c79cd318a84f821079fc2c3357fc4d34c2a4df918e9c1a63dabb8be",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.643364482Z"
+}

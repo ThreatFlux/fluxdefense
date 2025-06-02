@@ -1,0 +1,15 @@
+{
+  "uuid": "c9df8116-baa7-418b-9a30-0c92093a0d6c",
+  "path": "/lib/python3/dist-packages/cloudinit/distros/photon.py",
+  "size": 5486,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.238037203Z",
+  "sha256_hash": "db2a9012b04d029dac5eaf62707bccc807be9a9332fe0dc02edc46fa53dd851a",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.905748970Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "11ab8650-e2a3-4ffa-9977-9344648555d1",
+  "path": "/lib/libreoffice/program/libdbalo.so",
+  "size": 3355440,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:19.106246540Z",
+  "sha256_hash": "15e38ad232a659a136838071af6ad90dbb0453106ce59f567a752959ff11642c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:49.158636214Z"
+}

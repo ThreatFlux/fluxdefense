@@ -1,0 +1,17 @@
+{
+  "uuid": "b2d2e3ab-2e48-4a6f-88ec-f097e7b22c88",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-sharp.so.1.2.1",
+  "size": 92752,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.159634016Z",
+  "sha256_hash": "310ead4fc758a6f634fc8daa434c06060ac768b291d4fbea39f36df62e408c41",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.751988649Z"
+}

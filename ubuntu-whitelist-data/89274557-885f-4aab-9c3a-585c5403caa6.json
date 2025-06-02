@@ -1,0 +1,17 @@
+{
+  "uuid": "89274557-885f-4aab-9c3a-585c5403caa6",
+  "path": "/lib/firmware/i915/mtl_dmc.bin.zst",
+  "size": 12124,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.541541687Z",
+  "sha256_hash": "26b2795477597f0c3067ffcaabbcab05c175143b4fefc31b3facc88a68f3ac9e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.701514976Z"
+}

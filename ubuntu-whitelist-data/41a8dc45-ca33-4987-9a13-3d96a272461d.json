@@ -1,0 +1,17 @@
+{
+  "uuid": "41a8dc45-ca33-4987-9a13-3d96a272461d",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-mastop.adb",
+  "size": 4141,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.080344736Z",
+  "sha256_hash": "dfa7e91f15b23a9e947085a277e88956bb2ebf7d8a1c9d8cc18141e5f6eb34cd",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.085736502Z"
+}

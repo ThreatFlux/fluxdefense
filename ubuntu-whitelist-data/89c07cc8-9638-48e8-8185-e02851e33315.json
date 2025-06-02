@@ -1,0 +1,17 @@
+{
+  "uuid": "89c07cc8-9638-48e8-8185-e02851e33315",
+  "path": "/usr/lib/x86_64-linux-gnu/libdcerpc-binding.so.0.0.1",
+  "size": 145712,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:29.291754078Z",
+  "sha256_hash": "4424c0d81be83db91cfbf9d95629220b07c239349729c93acd07cd1cd751500b",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.048318627Z"
+}

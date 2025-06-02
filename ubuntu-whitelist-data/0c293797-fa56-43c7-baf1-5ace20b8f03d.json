@@ -1,0 +1,17 @@
+{
+  "uuid": "0c293797-fa56-43c7-baf1-5ace20b8f03d",
+  "path": "/lib/x86_64-linux-gnu/samba/libldb-tdb-err-map-samba4.so.0",
+  "size": 14344,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.062635496Z",
+  "sha256_hash": "32836ce623ec2e2ec5881771697ee0d959ec55da59105a927407438500bb2b6e",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.539912171Z"
+}

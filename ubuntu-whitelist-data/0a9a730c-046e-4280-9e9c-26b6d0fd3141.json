@@ -1,0 +1,15 @@
+{
+  "uuid": "0a9a730c-046e-4280-9e9c-26b6d0fd3141",
+  "path": "/lib/x86_64-linux-gnu/gconv/IBM866.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.651657027Z",
+  "sha256_hash": "bd0f0df3e6bb4d7d993f929e0ee128f22a3e1b8629e11e46d4576d37825fcb71",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.789749812Z"
+}

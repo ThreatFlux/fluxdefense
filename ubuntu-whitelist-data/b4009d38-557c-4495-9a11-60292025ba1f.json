@@ -1,0 +1,17 @@
+{
+  "uuid": "b4009d38-557c-4495-9a11-60292025ba1f",
+  "path": "/usr/lib/x86_64-linux-gnu/libubsan.so.1.0.0",
+  "size": 3423712,
+  "modified": "2024-09-09T13:21:53Z",
+  "created": "2025-05-09T06:33:29.874397802Z",
+  "sha256_hash": "d1931e866644901a63a667b126e92f2f3e23d5fd78732c1f0fdba48d0ba5d606",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.113905728Z"
+}

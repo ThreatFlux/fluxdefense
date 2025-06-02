@@ -1,0 +1,17 @@
+{
+  "uuid": "c691d3d5-5a9c-41b7-92eb-2010b0b05a60",
+  "path": "/lib/firmware/i915/dg1_huc.bin.zst",
+  "size": 154384,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.535541770Z",
+  "sha256_hash": "5276b878320decd4014a57b539ce1fb2fd4044729fbfdda786cfe34d44e2bab8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.721888363Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "dcb9fcfd-24a4-408a-8174-67e253762101",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adalib/g-alveop.ali",
+  "size": 414623,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.106344379Z",
+  "sha256_hash": "9b8ca0fd8d146ce6d7b8b753a9babf86406cb16c758998e221b2a474e505de3e",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.890253751Z"
+}

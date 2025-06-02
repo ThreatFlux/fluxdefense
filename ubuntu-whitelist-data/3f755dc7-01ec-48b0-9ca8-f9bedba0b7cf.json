@@ -1,0 +1,17 @@
+{
+  "uuid": "3f755dc7-01ec-48b0-9ca8-f9bedba0b7cf",
+  "path": "/lib/llvm-18/include/clang-tidy/fuchsia/MultipleInheritanceCheck.h",
+  "size": 1902,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "a7e1b55d296826604fdd433f4c06a5887c0e2457dd2ed69df87a3c72d9b10ed3",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.913358109Z"
+}

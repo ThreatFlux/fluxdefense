@@ -1,0 +1,15 @@
+{
+  "uuid": "a8f627fb-8d3e-4629-b24d-f1095fc7b985",
+  "path": "/usr/libexec/x86_64-linux-gnu/isa-support/qemu-static-good-amd64-baseline",
+  "size": 295,
+  "modified": "2024-04-18T17:54:37Z",
+  "created": "2025-05-26T20:18:23.196081220Z",
+  "sha256_hash": "0fe2177f5eccdf1b7c9d37ca379c91df71d19f9a0baf7d3a6be108b3d09168e2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.527603423Z"
+}

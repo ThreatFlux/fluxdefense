@@ -1,0 +1,15 @@
+{
+  "uuid": "05049ac0-821c-4a09-a732-464c1737ef91",
+  "path": "/usr/lib/python3.12/test/tokenizedata/bad_coding.py",
+  "size": 24,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.051550987Z",
+  "sha256_hash": "ffd93515dbe0bc61779aafb3cdf11e4c32d229e120139bfc38d3ea54b95a76e3",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.230656608Z"
+}

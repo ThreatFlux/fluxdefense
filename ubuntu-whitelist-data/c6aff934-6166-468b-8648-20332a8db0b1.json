@@ -1,0 +1,17 @@
+{
+  "uuid": "c6aff934-6166-468b-8648-20332a8db0b1",
+  "path": "/lib/llvm-18/include/clang/AST/PrettyPrinter.h",
+  "size": 12250,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.519533713Z",
+  "sha256_hash": "5b63068d784cca6ce11b89dcb87b3c5d58238d7b57ad45d085a819c267770c42",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.957390815Z"
+}

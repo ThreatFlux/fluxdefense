@@ -1,0 +1,17 @@
+{
+  "uuid": "b4a663bf-79fb-4594-bd35-5cb60dc11027",
+  "path": "/usr/lib/systemd/system/nftables.service",
+  "size": 458,
+  "modified": "2023-10-19T14:02:56Z",
+  "created": "2025-05-09T05:07:28.300769200Z",
+  "sha256_hash": "e040269f9010bb805d21a7c7b61af5b06530857967cdb2e2fbcf9a470fdf1810",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.465465991Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e2df245e-61f9-4200-8f18-506f94eb01b3",
+  "path": "/usr/lib/x86_64-linux-gnu/libudev.so.1.7.8",
+  "size": 207288,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:14.256788860Z",
+  "sha256_hash": "361d3152bb5a8fe7ee0345bb9fcb2469f09e7c4a4afaa635a69dd664688dfd52",
+  "file_type": {
+    "Other": "8"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.773060734Z"
+}

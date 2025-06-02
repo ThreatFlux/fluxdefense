@@ -1,0 +1,17 @@
+{
+  "uuid": "1a06fc4c-8372-4dfa-a596-2517afb23bf9",
+  "path": "/usr/lib/x86_64-linux-gnu/libcacard.so.0.0.0",
+  "size": 91464,
+  "modified": "2024-03-31T18:53:08Z",
+  "created": "2025-05-09T05:56:49.319645082Z",
+  "sha256_hash": "28158c250b8097af5f03de691be17a12246f0f5f9d486958806fb7e436317fc2",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.780350830Z"
+}

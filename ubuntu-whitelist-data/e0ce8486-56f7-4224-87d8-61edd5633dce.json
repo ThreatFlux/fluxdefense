@@ -1,0 +1,17 @@
+{
+  "uuid": "e0ce8486-56f7-4224-87d8-61edd5633dce",
+  "path": "/lib/tmpfiles.d/credstore.conf",
+  "size": 473,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.527779534Z",
+  "sha256_hash": "35876f54beb1aa1ae5b14d58c15a5508437338f66b9261babc24f1488de6c5ed",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.758689988Z"
+}

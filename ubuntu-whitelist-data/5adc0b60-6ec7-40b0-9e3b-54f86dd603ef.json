@@ -1,0 +1,17 @@
+{
+  "uuid": "5adc0b60-6ec7-40b0-9e3b-54f86dd603ef",
+  "path": "/usr/lib/firmware/brcm/brcmfmac43340-sdio.pov-tab-p1006w-data.txt.zst",
+  "size": 817,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.484542477Z",
+  "sha256_hash": "f66a2c2ec8e2087bc8030e2503f6a581467ff2e218ad05525822daaedf64fca7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.627532290Z"
+}

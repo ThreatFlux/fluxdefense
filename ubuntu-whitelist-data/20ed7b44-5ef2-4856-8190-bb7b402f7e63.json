@@ -1,0 +1,17 @@
+{
+  "uuid": "20ed7b44-5ef2-4856-8190-bb7b402f7e63",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/abseil/DurationFactoryFloatCheck.h",
+  "size": 1408,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.555533239Z",
+  "sha256_hash": "c0b5046dbc4d172dc7f3dcecaf8a52c07789e3b252843e8e5b392d5a635f1fa8",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.244607032Z"
+}

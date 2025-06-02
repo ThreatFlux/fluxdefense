@@ -1,0 +1,15 @@
+{
+  "uuid": "a83accce-a489-421e-a518-bf35fd7f7dc7",
+  "path": "/lib/llvm-18/lib/libLLVMWindowsDriver.a",
+  "size": 38294,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.058460769Z",
+  "sha256_hash": "fbb3200e96bcbded614108ecd4a6196755765234d99bd066a8e2aed4d74d149c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.596621513Z"
+}

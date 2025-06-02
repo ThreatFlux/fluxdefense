@@ -1,0 +1,17 @@
+{
+  "uuid": "b277e469-0aea-47ee-b06f-990d14361d59",
+  "path": "/lib/llvm-18/include/clang/Basic/TargetOSMacros.def",
+  "size": 2286,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.532533542Z",
+  "sha256_hash": "fd1531e538714e5488d4f47a1fbf8f7d310db1ebc19e1c76351a450ac0526225",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.149248849Z"
+}

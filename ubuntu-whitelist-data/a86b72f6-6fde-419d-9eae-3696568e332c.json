@@ -1,0 +1,15 @@
+{
+  "uuid": "a86b72f6-6fde-419d-9eae-3696568e332c",
+  "path": "/usr/sbin/setvesablank",
+  "size": 14712,
+  "modified": "2024-03-31T09:02:08Z",
+  "created": "2025-05-09T05:07:38.414614865Z",
+  "sha256_hash": "b44a95f7a1774caabee7afb0648ccad45499fc769938957af9d3f702789f33c8",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.271386086Z"
+}

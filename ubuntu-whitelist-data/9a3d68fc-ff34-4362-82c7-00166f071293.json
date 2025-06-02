@@ -1,0 +1,15 @@
+{
+  "uuid": "9a3d68fc-ff34-4362-82c7-00166f071293",
+  "path": "/lib/llvm-18/lib/libLLVMSparcCodeGen.a",
+  "size": 944436,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.019461282Z",
+  "sha256_hash": "2338d7bcfc9624c6d3f7dcb58ab41a73fb3d6886eb1ec6e406efcc2f63f2c6ee",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.600556439Z"
+}

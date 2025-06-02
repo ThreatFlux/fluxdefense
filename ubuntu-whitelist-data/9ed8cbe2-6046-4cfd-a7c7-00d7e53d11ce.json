@@ -1,0 +1,17 @@
+{
+  "uuid": "9ed8cbe2-6046-4cfd-a7c7-00d7e53d11ce",
+  "path": "/usr/libexec/x86_64-linux-gnu/isa-support/test-SSE4.1",
+  "size": 19232,
+  "modified": "2024-04-18T17:54:37Z",
+  "created": "2025-05-26T20:18:23.196081220Z",
+  "sha256_hash": "8de601ccab382cbe8e555a28e1d734d082241f7bd2a120c62a982e8e32cd0f5d",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.528317515Z"
+}

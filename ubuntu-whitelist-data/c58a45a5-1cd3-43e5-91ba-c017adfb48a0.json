@@ -1,0 +1,17 @@
+{
+  "uuid": "c58a45a5-1cd3-43e5-91ba-c017adfb48a0",
+  "path": "/usr/lib/systemd/user/ssh-agent.service",
+  "size": 542,
+  "modified": "2024-07-30T16:12:40Z",
+  "created": "2025-05-09T05:11:28.352105405Z",
+  "sha256_hash": "e2afd9b600b91148f3da58c077331e0921cc5bd031d55c941a51325ae221b9a2",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.493032373Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "59643779-76c1-4b90-81e4-fb69699e338b",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/UnhandledSelfAssignmentCheck.h",
+  "size": 1606,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "ff239f8e25528f6562f83a97b11a9bf1332dff6d34cb56c35a7509898034b024",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.894662688Z"
+}

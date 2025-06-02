@@ -1,0 +1,15 @@
+{
+  "uuid": "5181489e-38da-49f9-99ba-1d3f9aa57bea",
+  "path": "/usr/lib/brltty/libbrlttysxs.so",
+  "size": 14408,
+  "modified": "2024-03-31T00:24:15Z",
+  "created": "2025-05-09T05:07:21.029880151Z",
+  "sha256_hash": "83059fedca9a926cacfe3a0244bae282a7e2f1923cd41e5c5a833f4b2486a894",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.257941733Z"
+}

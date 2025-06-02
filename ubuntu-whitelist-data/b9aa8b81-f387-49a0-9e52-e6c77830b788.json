@@ -1,0 +1,17 @@
+{
+  "uuid": "b9aa8b81-f387-49a0-9e52-e6c77830b788",
+  "path": "/lib/x86_64-linux-gnu/libgtk-vnc-2.0.so.0.0.2",
+  "size": 211016,
+  "modified": "2024-03-31T18:22:04Z",
+  "created": "2025-05-09T05:56:48.314656371Z",
+  "sha256_hash": "efca979954d605f0ab1bc6ab43d489baf9466b0d78fe797e19c2e4f585b0ddb7",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:28.558597563Z"
+}

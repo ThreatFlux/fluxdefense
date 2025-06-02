@@ -1,0 +1,17 @@
+{
+  "uuid": "b0ac4dcf-623e-406e-b7e3-362c62f5663d",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/OpenCLImageTypes.def",
+  "size": 4173,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "08cdcff524f26ed04ae53b9e9e3a94727d6ce2f236dd9bbf6bb0691ddf090bf2",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.578542207Z"
+}

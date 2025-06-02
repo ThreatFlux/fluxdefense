@@ -1,0 +1,15 @@
+{
+  "uuid": "2a4d4726-56e7-43d8-9371-9d2ce16f1432",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstogg.so",
+  "size": 244816,
+  "modified": "2024-12-17T13:24:56Z",
+  "created": "2025-05-09T05:07:35.774655151Z",
+  "sha256_hash": "8934f5db5229bfe18465581732c40c44b4831c6ed5f880c52d69a23d559d2267",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.139003311Z"
+}

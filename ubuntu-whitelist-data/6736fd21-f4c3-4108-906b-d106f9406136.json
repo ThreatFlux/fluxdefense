@@ -1,0 +1,15 @@
+{
+  "uuid": "6736fd21-f4c3-4108-906b-d106f9406136",
+  "path": "/lib/google-cloud-sdk/bin/bootstrapping/gsutil.py",
+  "size": 6915,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.327921832Z",
+  "sha256_hash": "a698601e1cbf4c830f7b5b75f5b9eb7b88d08d203c75ecfd9daa31fbab559ea7",
+  "file_type": "Script",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:51.546787517Z"
+}

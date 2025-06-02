@@ -1,0 +1,15 @@
+{
+  "uuid": "9a01072f-3f40-4be2-923d-fea0295322d8",
+  "path": "/bin/tnftp",
+  "size": 187288,
+  "modified": "2024-04-08T14:50:55Z",
+  "created": "2025-05-09T05:07:20.715884942Z",
+  "sha256_hash": "6e289075a4d5827fb441cf6ad4a9773c1f36af9ecf59dc346d0eab428200cd69",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:18.961750403Z"
+}

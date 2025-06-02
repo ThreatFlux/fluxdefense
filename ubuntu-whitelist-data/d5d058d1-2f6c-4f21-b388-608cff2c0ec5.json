@@ -1,0 +1,17 @@
+{
+  "uuid": "d5d058d1-2f6c-4f21-b388-608cff2c0ec5",
+  "path": "/usr/lib/google-cloud-sdk/platform/gsutil/MANIFEST.in",
+  "size": 422,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.931928557Z",
+  "sha256_hash": "d75849db9ed416b9f8cbcab9fc706facf656bf653f6681be33aedd87ab91c4ea",
+  "file_type": {
+    "Other": "in"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.566686478Z"
+}

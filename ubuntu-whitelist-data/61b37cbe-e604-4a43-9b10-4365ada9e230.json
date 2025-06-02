@@ -1,0 +1,17 @@
+{
+  "uuid": "61b37cbe-e604-4a43-9b10-4365ada9e230",
+  "path": "/usr/lib/llvm-18/include/clang/Lex/HeaderMap.h",
+  "size": 3605,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.544533384Z",
+  "sha256_hash": "93e25e701e397c810671397a6f28f8e34c78227197c84fe6642ea536fee34869",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.617419637Z"
+}

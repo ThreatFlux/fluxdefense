@@ -1,0 +1,15 @@
+{
+  "uuid": "7bd5c0e2-8300-408e-91f0-c00bffd6962a",
+  "path": "/bin/apt-sortpkgs",
+  "size": 51608,
+  "modified": "2024-10-22T13:02:22Z",
+  "created": "2025-05-30T21:04:51.160618244Z",
+  "sha256_hash": "548321a177ac4b2055abc56147535f127f03e529f0df69c8824ad5c84415194c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.813534624Z"
+}

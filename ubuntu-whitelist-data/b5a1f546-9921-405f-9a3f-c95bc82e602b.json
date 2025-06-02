@@ -1,0 +1,17 @@
+{
+  "uuid": "b5a1f546-9921-405f-9a3f-c95bc82e602b",
+  "path": "/usr/lib/systemd/system/colord.service",
+  "size": 1248,
+  "modified": "2024-03-31T07:30:41Z",
+  "created": "2025-05-09T05:07:28.297769246Z",
+  "sha256_hash": "b4dbb7f673b811615d8fa562b90f1a0e8ef07b7e6662d8eeb9425fb28a1b20d0",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.469974527Z"
+}

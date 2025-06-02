@@ -1,0 +1,15 @@
+{
+  "uuid": "40a6b60e-5b2d-4ccd-923d-fcdc4e350a12",
+  "path": "/sbin/dhcpcd",
+  "size": 404888,
+  "modified": "2024-05-07T10:12:01Z",
+  "created": "2025-05-09T05:07:38.167618634Z",
+  "sha256_hash": "c74348ca86a801494b70c7d34c57a486549c859acd0aa1ffd96ce115cf518bf2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.148741811Z"
+}

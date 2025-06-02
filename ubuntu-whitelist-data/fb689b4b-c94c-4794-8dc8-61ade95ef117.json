@@ -1,0 +1,17 @@
+{
+  "uuid": "fb689b4b-c94c-4794-8dc8-61ade95ef117",
+  "path": "/lib/firmware/intel/sof-tplg/sof-mt8195-mt6359-max98390-rt5682.tplg.zst",
+  "size": 718,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.060490953Z",
+  "sha256_hash": "e4a7dd5327df28857accedb8ca16d7d9ac3c887d4e2d5cbe2307d8101dd73706",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.221760141Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "3e440d68-c43d-44b4-9549-dc65ac962964",
+  "path": "/lib/x86_64-linux-gnu/libenchant-2.so.2.3.3",
+  "size": 51352,
+  "modified": "2024-03-31T07:33:26Z",
+  "created": "2025-05-09T05:07:29.370752873Z",
+  "sha256_hash": "6e5c276e08d3a05a95d3e7293ca54bb30f7b05e04ad0d501b5059ca5ad3d530a",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.617915394Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a68a2359-6bec-49f7-aa98-81000288c6e2",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/bits/struct_mutex.ph",
+  "size": 1019,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.558590717Z",
+  "sha256_hash": "b656249e10dd647446d6cbec12038b03c60b2898b4d05366a84c1e688325430d",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.593357003Z"
+}

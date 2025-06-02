@@ -1,0 +1,17 @@
+{
+  "uuid": "e7e95e40-1e27-42af-95c9-942a495ff57c",
+  "path": "/lib/x86_64-linux-gnu/librte_mbuf.so.24.0",
+  "size": 73208,
+  "modified": "2024-12-18T18:31:38Z",
+  "created": "2025-05-26T20:18:25.808041764Z",
+  "sha256_hash": "2a34dd6d03165137964cff5f657d69243e520bd9faccc48374b0ddff4e564b80",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.215879487Z"
+}

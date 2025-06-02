@@ -1,0 +1,17 @@
+{
+  "uuid": "a678ada6-788d-4d77-bbce-29e2f08d1cb2",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-tgl-rt711-l0-rt1316-l1-mono-rt714-l3.tplg.zst",
+  "size": 1722,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.061490937Z",
+  "sha256_hash": "20f82e9de8a283d21665a5460c5c2d4cc41ab3e1f6d37084ebedd9fbdebecd18",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.861930005Z"
+}

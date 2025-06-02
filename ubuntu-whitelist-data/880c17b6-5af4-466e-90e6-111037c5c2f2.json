@@ -1,0 +1,15 @@
+{
+  "uuid": "880c17b6-5af4-466e-90e6-111037c5c2f2",
+  "path": "/sbin/update-info-dir",
+  "size": 1700,
+  "modified": "2024-01-13T19:09:56Z",
+  "created": "2025-05-09T05:07:38.450614315Z",
+  "sha256_hash": "2e22271d7ff33c1fec17c691de7e71316e06ddd3589922538fdf5e2f2a74b1a6",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.862549303Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "802555f4-8b1c-4a55-9b2d-b59c75a76436",
+  "path": "/usr/lib/systemd/system/systemd-update-utmp.service",
+  "size": 856,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "92ed5c0d5a05ec76076cb41bc4c6318a4ca8f0f21d5179eeb315f0f1f2f7ea4d",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.468103567Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b3c3c4bf-cda1-4068-afdd-dcc2641bc324",
+  "path": "/lib/x86_64-linux-gnu/libcanberra.so.0.2.5",
+  "size": 71992,
+  "modified": "2024-04-07T07:16:08Z",
+  "created": "2025-05-09T05:07:29.208755345Z",
+  "sha256_hash": "626bfac23934e0a254e3caea7fa18a9cf39f80eda014b1604c1e5b9aec0e76e2",
+  "file_type": {
+    "Other": "5"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.910471257Z"
+}

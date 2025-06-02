@@ -1,0 +1,17 @@
+{
+  "uuid": "6d24c38e-6352-4169-ae2e-3fe12c325732",
+  "path": "/lib/firmware/mediatek/mt7663pr2h_rebb.bin.zst",
+  "size": 140070,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.679539776Z",
+  "sha256_hash": "f8ac4e160c04c00257a7e186d4cf947e94bc4ec39a037dad4a4474464de933a8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.125554925Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "bc2cba5e-8a86-4763-a6f7-62802c74fec3",
+  "path": "/usr/bin/deb-systemd-helper",
+  "size": 24358,
+  "modified": "2023-12-06T07:46:52Z",
+  "created": "2025-05-09T05:07:19.148908853Z",
+  "sha256_hash": "a895d5f077651960b6ca4ed9c53f8b36eae422ae170f61c972d0c6579e9f8732",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.318325783Z"
+}

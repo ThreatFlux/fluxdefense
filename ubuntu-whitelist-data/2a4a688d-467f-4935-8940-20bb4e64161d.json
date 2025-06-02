@@ -1,0 +1,15 @@
+{
+  "uuid": "2a4a688d-467f-4935-8940-20bb4e64161d",
+  "path": "/bin/x86_64-linux-gnu-gp-collect-app",
+  "size": 178552,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:52.034575593Z",
+  "sha256_hash": "f70f179dd68d5169ce3abe2ed9d6459e4ab95da74ae84a443bafb4eb81d9e86a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.082144125Z"
+}

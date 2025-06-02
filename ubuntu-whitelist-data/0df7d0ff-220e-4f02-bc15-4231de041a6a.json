@@ -1,0 +1,15 @@
+{
+  "uuid": "0df7d0ff-220e-4f02-bc15-4231de041a6a",
+  "path": "/bin/pidstat",
+  "size": 51656,
+  "modified": "2024-01-09T20:31:44Z",
+  "created": "2025-05-09T05:07:20.294891366Z",
+  "sha256_hash": "371e58fb833b0fd3a98e103b36748dc5672e6b91fe8982e873df8e6658e81a12",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.031056670Z"
+}

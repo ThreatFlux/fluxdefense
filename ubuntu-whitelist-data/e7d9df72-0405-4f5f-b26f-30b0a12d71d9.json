@@ -1,0 +1,17 @@
+{
+  "uuid": "e7d9df72-0405-4f5f-b26f-30b0a12d71d9",
+  "path": "/lib/firmware/amdgpu/aldebaran_ta.bin.zst",
+  "size": 35623,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.386543834Z",
+  "sha256_hash": "8be9264069d306b680e6a1fb78d20c2e9e0e14992c5ae988496c7154d52898de",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.138348135Z"
+}

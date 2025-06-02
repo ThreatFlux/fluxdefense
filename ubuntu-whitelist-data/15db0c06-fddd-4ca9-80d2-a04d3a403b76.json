@@ -1,0 +1,15 @@
+{
+  "uuid": "15db0c06-fddd-4ca9-80d2-a04d3a403b76",
+  "path": "/usr/bin/jq",
+  "size": 30872,
+  "modified": "2024-03-31T07:40:40Z",
+  "created": "2025-05-09T05:07:20.079894647Z",
+  "sha256_hash": "ffad3f8668bf0c05aa08fec41626c1d2da42d2b009cd9b0ff96a9a9f0f8a9722",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.571441491Z"
+}

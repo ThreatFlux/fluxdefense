@@ -1,0 +1,15 @@
+{
+  "uuid": "950c0d88-80b8-4caa-bd5b-ad7a1667935e",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/s3transfer/bandwidth.py",
+  "size": 15643,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.117942387Z",
+  "sha256_hash": "d693d13fa94feee979db91fc5013dab3767571dea00508fbedd03ba9e8ab05e0",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.563335675Z"
+}

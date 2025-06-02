@@ -1,0 +1,17 @@
+{
+  "uuid": "a88039fe-6783-43cf-9b12-b15303407d71",
+  "path": "/usr/lib/x86_64-linux-gnu/libcom_err.so.2.1",
+  "size": 18504,
+  "modified": "2024-04-28T23:44:46Z",
+  "created": "2025-05-09T05:07:29.238754887Z",
+  "sha256_hash": "022943b3b11c860b049bce41342f1c2594941b7b401d95dfdf235521099fee08",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.766118338Z"
+}

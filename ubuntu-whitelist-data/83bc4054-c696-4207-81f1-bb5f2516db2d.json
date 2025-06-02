@@ -1,0 +1,17 @@
+{
+  "uuid": "83bc4054-c696-4207-81f1-bb5f2516db2d",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/RISCVVTypes.def",
+  "size": 33098,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "5e1833667d92db4527985badf71867f49c43ebc5b9329600bc7169d9ccdf1c02",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.564311129Z"
+}

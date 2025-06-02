@@ -1,0 +1,15 @@
+{
+  "uuid": "7f059061-3e18-4ed4-ad2a-d7b602ded0cf",
+  "path": "/lib/x86_64-linux-gnu/samba/bind9/dlz_bind9_14.so",
+  "size": 51504,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.123634565Z",
+  "sha256_hash": "4b41d6844f8ca9c51cb3080b331e5fc8e3d89cffcfc86754ef9440b07739c734",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.417731165Z"
+}

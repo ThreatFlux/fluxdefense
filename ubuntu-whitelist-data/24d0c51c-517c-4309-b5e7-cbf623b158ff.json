@@ -1,0 +1,17 @@
+{
+  "uuid": "24d0c51c-517c-4309-b5e7-cbf623b158ff",
+  "path": "/lib/x86_64-linux-gnu/libtss2-tcti-swtpm.so.0.0.0",
+  "size": 35280,
+  "modified": "2024-05-24T20:06:42Z",
+  "created": "2025-05-09T05:07:32.326707766Z",
+  "sha256_hash": "23d64c6c9c55b13f1d6189007d59e5d7de136c208581e873a44a1208b3531dff",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:28.626458555Z"
+}

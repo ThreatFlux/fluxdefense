@@ -1,0 +1,15 @@
+{
+  "uuid": "1755197c-82c3-4eda-9f8c-1694fc16a2df",
+  "path": "/bin/tar",
+  "size": 432048,
+  "modified": "2024-04-08T16:20:47Z",
+  "created": "2025-05-09T05:07:20.681885461Z",
+  "sha256_hash": "6453fce2cf2dde32b86557bb44f533afb3b5171b59b8d21cc797b9b20d9c7b06",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.341639748Z"
+}

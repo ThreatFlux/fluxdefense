@@ -1,0 +1,15 @@
+{
+  "uuid": "538dd6ac-0675-4959-b045-b1f855ff32f2",
+  "path": "/usr/lib/llvm-18/lib/libLLVMNVPTXDesc.a",
+  "size": 1199634,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.938462349Z",
+  "sha256_hash": "e7d92f2957e68e3fb8f4266f63fab9471c4331179251f667138c0230b8b2ce54",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:31.246666140Z"
+}

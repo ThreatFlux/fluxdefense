@@ -1,0 +1,17 @@
+{
+  "uuid": "561e8fc3-a754-49d9-960d-4031b478a8a7",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/include/omp.h",
+  "size": 12832,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.245389810Z",
+  "sha256_hash": "4c4add3bee649c66078df2031941826830afd495591dfc4fcc8735a6d0a0b2df",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.934473878Z"
+}

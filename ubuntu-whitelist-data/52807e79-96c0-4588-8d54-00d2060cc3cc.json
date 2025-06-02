@@ -1,0 +1,17 @@
+{
+  "uuid": "52807e79-96c0-4588-8d54-00d2060cc3cc",
+  "path": "/usr/lib/llvm-18/include/clang/Interpreter/CodeCompletion.h",
+  "size": 1598,
+  "modified": "2024-01-03T13:06:20Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "dc2cb28180fcd98bb9c9be92032f80731db4a2f13c96c2ad8dc2518345473c64",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.413982969Z"
+}

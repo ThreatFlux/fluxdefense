@@ -1,0 +1,17 @@
+{
+  "uuid": "f6975106-22dd-445d-bf09-0b27822fb92f",
+  "path": "/usr/lib/modules/6.11.0-26-generic/kernel/crypto/cmac.ko.zst",
+  "size": 4467,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.078797895Z",
+  "sha256_hash": "19793bced44495f8ecfd1fc531597e6b22aa98af51829a5bb71ee921de554875",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.627919704Z"
+}

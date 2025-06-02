@@ -1,0 +1,17 @@
+{
+  "uuid": "14ddcac6-ed22-4895-9d4a-08bc1217d841",
+  "path": "/lib/llvm-18/include/clang-tidy/ClangTidyProfiling.h",
+  "size": 1480,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.555533239Z",
+  "sha256_hash": "aa13a4ff9df265c3c1e9ac75900cbc22a9cc4d9e37a5ff85c8c69fb8e1c9e083",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.911868730Z"
+}

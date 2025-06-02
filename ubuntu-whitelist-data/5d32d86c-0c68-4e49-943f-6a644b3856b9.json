@@ -1,0 +1,17 @@
+{
+  "uuid": "5d32d86c-0c68-4e49-943f-6a644b3856b9",
+  "path": "/usr/lib/x86_64-linux-gnu/libnss_mdns4.so.2",
+  "size": 18664,
+  "modified": "2024-04-08T16:14:43Z",
+  "created": "2025-05-09T05:07:31.741716692Z",
+  "sha256_hash": "06362149ef345312769eb2930107a07a773216f7f88174095394dd50f9f0e168",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:28.096962529Z"
+}

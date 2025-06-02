@@ -1,0 +1,15 @@
+{
+  "uuid": "659c0418-93ca-432e-a3fb-65e65d912dab",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/sources/DataSourceHetzner.py",
+  "size": 5520,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.241037243Z",
+  "sha256_hash": "789b958133bc446426448473e91ac78bc2f2ed44909c305928438352d7cbd016",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.827071376Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "eadf6d00-7606-4952-b591-5787d7b46494",
+  "path": "/usr/bin/ptx",
+  "size": 55848,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:20.321890954Z",
+  "sha256_hash": "964be16a8c41b552fae30fd7350265761e780629bc3cbc3c2968bec591aa115f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.145908989Z"
+}

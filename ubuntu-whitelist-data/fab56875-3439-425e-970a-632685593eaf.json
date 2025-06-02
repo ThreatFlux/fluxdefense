@@ -1,0 +1,17 @@
+{
+  "uuid": "fab56875-3439-425e-970a-632685593eaf",
+  "path": "/lib/x86_64-linux-gnu/libdbusmenu-gtk3.so.4.0.12",
+  "size": 84040,
+  "modified": "2024-04-07T07:26:42Z",
+  "created": "2025-05-09T05:07:29.291754078Z",
+  "sha256_hash": "336a5ba828f5e0ef2f0d40ee13963970a15f88f5420e5f524573dc002188534c",
+  "file_type": {
+    "Other": "12"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.725362041Z"
+}

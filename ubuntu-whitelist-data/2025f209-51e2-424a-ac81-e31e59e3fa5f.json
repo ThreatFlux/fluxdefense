@@ -1,0 +1,15 @@
+{
+  "uuid": "2025f209-51e2-424a-ac81-e31e59e3fa5f",
+  "path": "/usr/lib/llvm-18/lib/libLLVMAsmPrinter.a",
+  "size": 2323554,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.800464167Z",
+  "sha256_hash": "33fb1468220db3120a3202f44437bd0d30a95889d6dc369226997c391903748f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:33.558414769Z"
+}

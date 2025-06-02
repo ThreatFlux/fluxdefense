@@ -1,0 +1,17 @@
+{
+  "uuid": "9514e1d6-8637-4d04-a0b9-713ad5c4ac79",
+  "path": "/usr/lib/x86_64-linux-gnu/libflite_cmu_us_rms.so.2.2",
+  "size": 4819080,
+  "modified": "2024-04-07T07:12:09Z",
+  "created": "2025-05-09T05:09:24.124001589Z",
+  "sha256_hash": "f78b65b0955caf40131f2228133268b53b0bdc6a5aeada22b29599561c69bbaa",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.625574022Z"
+}

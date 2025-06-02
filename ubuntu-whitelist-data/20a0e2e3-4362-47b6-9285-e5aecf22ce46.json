@@ -1,0 +1,15 @@
+{
+  "uuid": "20a0e2e3-4362-47b6-9285-e5aecf22ce46",
+  "path": "/usr/lib/google-cloud-sdk/bin/git-credential-gcloud.sh",
+  "size": 6320,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.326921849Z",
+  "sha256_hash": "26c27e7b63d755a31eaa5a07009385fb2988c2ea900c48166bbd464d09ada745",
+  "file_type": "Script",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.519868630Z"
+}

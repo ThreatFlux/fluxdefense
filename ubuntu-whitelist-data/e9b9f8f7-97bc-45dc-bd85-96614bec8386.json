@@ -1,0 +1,17 @@
+{
+  "uuid": "e9b9f8f7-97bc-45dc-bd85-96614bec8386",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/Time/Seconds.pm",
+  "size": 5351,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.520591297Z",
+  "sha256_hash": "fe05c1e5e516859d6d32354db8afb9b9aaf1ca38d179ca1c51a355218439fe95",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.468443007Z"
+}

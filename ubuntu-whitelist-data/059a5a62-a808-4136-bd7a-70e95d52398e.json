@@ -1,0 +1,15 @@
+{
+  "uuid": "059a5a62-a808-4136-bd7a-70e95d52398e",
+  "path": "/lib/llvm-18/lib/libLLVMBOLTRuntimeLibs.a",
+  "size": 87732,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.816463956Z",
+  "sha256_hash": "85ee19c58c340fe0d8e585cbe77485c6b66e1fd3f887861ffc022da94a4f0431",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.550989676Z"
+}

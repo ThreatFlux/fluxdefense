@@ -1,0 +1,17 @@
+{
+  "uuid": "ef55b9f3-05e5-4bc6-9ff3-ef50ba915b27",
+  "path": "/usr/lib/firmware/ath11k/WCN6750/hw1.0/Notice.txt.zst",
+  "size": 15413,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.463542768Z",
+  "sha256_hash": "c35e0419643a716162ba26406918ab3807c1ece7a9d1e6aa65fed9fa505698df",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:58.091650389Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "6ed78428-4596-4d35-97c4-657a363ae3df",
+  "path": "/lib/x86_64-linux-gnu/librsvg-2.so.2.50.0",
+  "size": 6781312,
+  "modified": "2024-03-31T02:14:29Z",
+  "created": "2025-05-09T05:07:32.090711367Z",
+  "sha256_hash": "5d7825eb908cfb6aebf9a0c4962307865875bfb8ad3b5cda5e9503d328be4a1b",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.250186605Z"
+}

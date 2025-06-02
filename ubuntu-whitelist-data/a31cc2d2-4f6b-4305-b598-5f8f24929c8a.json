@@ -1,0 +1,17 @@
+{
+  "uuid": "a31cc2d2-4f6b-4305-b598-5f8f24929c8a",
+  "path": "/usr/lib/grub/x86_64-efi/elf.mod",
+  "size": 8976,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.804708521Z",
+  "sha256_hash": "1f585223776f041fe931448e28590bc896d9f3ae59001abe26de25e197cf2f0f",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.478252984Z"
+}

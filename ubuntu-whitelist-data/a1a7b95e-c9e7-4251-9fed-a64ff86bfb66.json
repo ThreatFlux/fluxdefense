@@ -1,0 +1,17 @@
+{
+  "uuid": "a1a7b95e-c9e7-4251-9fed-a64ff86bfb66",
+  "path": "/lib/x86_64-linux-gnu/libbd_mdraid.so.3.0.0",
+  "size": 34808,
+  "modified": "2024-03-26T13:32:04Z",
+  "created": "2025-05-09T05:07:29.183755726Z",
+  "sha256_hash": "ced2a1fdb1229b0a60b99846e2d1dd65f511180c65aaa4daef7f4a176551eee0",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.802243992Z"
+}

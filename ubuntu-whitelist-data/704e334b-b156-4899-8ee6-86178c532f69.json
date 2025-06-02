@@ -1,0 +1,15 @@
+{
+  "uuid": "704e334b-b156-4899-8ee6-86178c532f69",
+  "path": "/lib/x86_64-linux-gnu/totem/plugins/screenshot/libscreenshot.so",
+  "size": 51584,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:37.302631834Z",
+  "sha256_hash": "0ce7741a2f7d79f44d5a9dd1e0d70cb19a750498bbe9b36330dcf978b1637e90",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.426116046Z"
+}

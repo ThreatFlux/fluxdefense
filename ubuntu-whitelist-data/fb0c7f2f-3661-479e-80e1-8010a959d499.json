@@ -1,0 +1,17 @@
+{
+  "uuid": "fb0c7f2f-3661-479e-80e1-8010a959d499",
+  "path": "/lib/x86_64-linux-gnu/X11/rstart/rstartd.real",
+  "size": 27304,
+  "modified": "2024-03-31T17:26:54Z",
+  "created": "2025-05-09T05:07:35.176664276Z",
+  "sha256_hash": "2b65d5d787fc86fd23e106abee93c5ebc1831306ceafd5b09ad031ec4ee9e8ff",
+  "file_type": {
+    "Other": "real"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.298007484Z"
+}

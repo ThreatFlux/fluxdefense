@@ -1,0 +1,17 @@
+{
+  "uuid": "e4504703-343c-478d-aff6-bc2915f50799",
+  "path": "/lib/firmware/amdgpu/hainan_smc.bin.zst",
+  "size": 25241,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.401543627Z",
+  "sha256_hash": "a6e0e680fa4d17678337b764bf0191724e5240c4ac3e49b59d6231c90c55d4d3",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.914446323Z"
+}

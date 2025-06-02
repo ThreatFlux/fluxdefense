@@ -1,0 +1,15 @@
+{
+  "uuid": "144b3ba5-e475-4c47-9df0-7a4c0fb612fe",
+  "path": "/lib/python3/dist-packages/debian/_deb822_repro/tokens.py",
+  "size": 16383,
+  "modified": "2023-01-31T19:04:35Z",
+  "created": "2025-05-09T05:07:26.826791693Z",
+  "sha256_hash": "5d2149628bbdd38df21246a2f724dd2425429895aa25b7c7dd5a6283b707d1f6",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.948108745Z"
+}

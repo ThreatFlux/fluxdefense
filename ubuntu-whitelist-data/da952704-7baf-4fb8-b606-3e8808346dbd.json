@@ -1,0 +1,15 @@
+{
+  "uuid": "da952704-7baf-4fb8-b606-3e8808346dbd",
+  "path": "/usr/sbin/fdisk",
+  "size": 117168,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.195618207Z",
+  "sha256_hash": "e997f45d9710074c2bec3789186ebc1232c93a1263c0e442c27e1bc2474ef668",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.522422656Z"
+}

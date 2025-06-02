@@ -1,0 +1,15 @@
+{
+  "uuid": "5be94105-3eee-4942-b322-d27b5fa7f4a5",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/libsupc++.a",
+  "size": 379464,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:32.258346482Z",
+  "sha256_hash": "7c47f3a6102fa1005fb3e66a4d297d9157a74bfd9d9171777d87e0326b74e8b2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.641704991Z"
+}

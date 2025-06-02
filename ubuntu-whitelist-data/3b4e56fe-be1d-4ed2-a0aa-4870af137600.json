@@ -1,0 +1,17 @@
+{
+  "uuid": "3b4e56fe-be1d-4ed2-a0aa-4870af137600",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adalib/s-imen32.ali",
+  "size": 1336,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.139343925Z",
+  "sha256_hash": "562545c7c39d21f176826a143636682b21b5f437e1f1993627a7336914bcb76a",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.682767936Z"
+}

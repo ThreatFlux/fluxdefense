@@ -1,0 +1,17 @@
+{
+  "uuid": "0e2549fc-f2d3-4c94-ab85-53d836fa2aea",
+  "path": "/usr/lib/x86_64-linux-gnu/libflite_cmu_us_kal.so.2.2",
+  "size": 1460400,
+  "modified": "2024-04-07T07:12:09Z",
+  "created": "2025-05-09T05:09:24.112001773Z",
+  "sha256_hash": "38bfa0eadb0a2e5af6f6947b16b9bf7ed8118d9c6eee308c23e92cba05956761",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.768132367Z"
+}

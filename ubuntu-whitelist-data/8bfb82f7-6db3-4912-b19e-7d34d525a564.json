@@ -1,0 +1,15 @@
+{
+  "uuid": "8bfb82f7-6db3-4912-b19e-7d34d525a564",
+  "path": "/usr/bin/trust",
+  "size": 236240,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T05:07:20.803883599Z",
+  "sha256_hash": "b70edf51b30871243a12e49881ea9bb6fa71b9b26d28d917d10d6aef17cceadc",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.017777382Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "0359baa5-5367-4510-8f62-7d89e6850f06",
+  "path": "/lib/llvm-18/lib/libLLVMVEAsmParser.a",
+  "size": 166534,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.044460953Z",
+  "sha256_hash": "764f9163b5b0c0cef22393c6180966a7fb5dc6a004acf43f7d5493ce968492b3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.510398664Z"
+}

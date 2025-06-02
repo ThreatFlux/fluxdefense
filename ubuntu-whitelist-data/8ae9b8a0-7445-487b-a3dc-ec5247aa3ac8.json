@@ -1,0 +1,17 @@
+{
+  "uuid": "8ae9b8a0-7445-487b-a3dc-ec5247aa3ac8",
+  "path": "/lib/llvm-18/include/clang-tidy/modernize/UseStdNumbersCheck.h",
+  "size": 1997,
+  "modified": "2023-12-09T22:26:51Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "cd213481bdb3f42eee0b13ec2485c41d0a8b60ac5e0ece2d487c6eacca30c79e",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.911122739Z"
+}

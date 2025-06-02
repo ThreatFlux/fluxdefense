@@ -1,0 +1,17 @@
+{
+  "uuid": "e5fbfb5d-884e-4dee-a090-33687d373007",
+  "path": "/usr/lib/systemd/system/systemd-sysext@.service",
+  "size": 657,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "d81e6de39167e27385ecfaafb04b2f96f06acb1586d47968ab4887d229b7cbec",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.469128944Z"
+}

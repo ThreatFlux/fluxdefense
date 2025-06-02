@@ -1,0 +1,17 @@
+{
+  "uuid": "23e8d566-f01f-484a-8e7c-cf278061b667",
+  "path": "/lib/x86_64-linux-gnu/libjacknet.so.0.1.0",
+  "size": 129368,
+  "modified": "2024-04-06T01:14:24Z",
+  "created": "2025-05-09T05:56:51.069625424Z",
+  "sha256_hash": "f9e82656a9140b866e8aa94f6cdf88a5750b2abc74a1bc27e6ac173cc74bd8bd",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:11.313206725Z"
+}

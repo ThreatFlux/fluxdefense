@@ -1,0 +1,17 @@
+{
+  "uuid": "877d96f3-7109-4084-a488-bcd9625608d1",
+  "path": "/lib/firmware/iwlwifi-8000C-34.ucode.zst",
+  "size": 408393,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.584541092Z",
+  "sha256_hash": "8707c628b723579349f248f389e9f390c1deb8db657b09ed0cd58601e3bc0fc8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.807942419Z"
+}

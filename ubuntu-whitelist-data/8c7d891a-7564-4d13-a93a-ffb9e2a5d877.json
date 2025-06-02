@@ -1,0 +1,17 @@
+{
+  "uuid": "8c7d891a-7564-4d13-a93a-ffb9e2a5d877",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-fujitsu.so.1.2.1",
+  "size": 231688,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.140634306Z",
+  "sha256_hash": "08176668ea73355f1c2eba60addffb8766b4692ca0f0c90f709f74818cb714a2",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.292551594Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "ff1ccd10-72d2-4113-9068-2999c89fb33c",
+  "path": "/lib/grub/x86_64-efi/reiserfs.mod",
+  "size": 14280,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.838708002Z",
+  "sha256_hash": "021ebbbc1abedfb473c478f814bad12b8cdd6aa22b6d5f76f1b4eba0335d0ce2",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.020559379Z"
+}

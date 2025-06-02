@@ -1,0 +1,15 @@
+{
+  "uuid": "011d0dfd-5faa-4ee5-be11-d066960c83c3",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstmpeg2dec.so",
+  "size": 39312,
+  "modified": "2024-03-31T08:55:07Z",
+  "created": "2025-05-09T05:09:27.688947179Z",
+  "sha256_hash": "cde6f8a26da97e87fa5d8c5818e765374f22aae599b549b1bf1adc477d7ed068",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.201326543Z"
+}

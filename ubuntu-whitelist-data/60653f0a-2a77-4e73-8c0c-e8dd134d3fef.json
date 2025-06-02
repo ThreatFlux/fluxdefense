@@ -1,0 +1,17 @@
+{
+  "uuid": "60653f0a-2a77-4e73-8c0c-e8dd134d3fef",
+  "path": "/usr/lib/firmware/amdgpu/navi10_me.bin.zst",
+  "size": 8113,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.404543585Z",
+  "sha256_hash": "637ce9992a17018376266bbfcb4ae03bdaca336f7a364658a6005a492f748761",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.790316217Z"
+}

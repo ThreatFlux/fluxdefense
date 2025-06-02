@@ -1,0 +1,17 @@
+{
+  "uuid": "fcb3db0c-d953-4383-80ac-d93fe3f6c580",
+  "path": "/lib/firmware/amdgpu/psp_13_0_10_sos.bin.zst",
+  "size": 165703,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.411543488Z",
+  "sha256_hash": "20c0393f93ffe0eb3dbb3ce43bf1037fd5b2da1a26e0557d4db4df6feba7336e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.132785347Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "0a690bdf-2136-4454-b8ea-3d87413a9231",
+  "path": "/sbin/e2scrub_all",
+  "size": 5394,
+  "modified": "2024-04-28T23:44:46Z",
+  "created": "2025-05-09T05:07:38.190618283Z",
+  "sha256_hash": "ca2883dfcc5568121cf4afe5d1556a4fdaa5e24c6677d56e1c03da07bfc5356b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.996928949Z"
+}

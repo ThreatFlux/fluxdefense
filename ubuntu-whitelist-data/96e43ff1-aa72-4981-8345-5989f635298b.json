@@ -1,0 +1,15 @@
+{
+  "uuid": "96e43ff1-aa72-4981-8345-5989f635298b",
+  "path": "/usr/lib/llvm-18/lib/libLLVMHexagonDesc.a",
+  "size": 1374518,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.895462915Z",
+  "sha256_hash": "862226cbbb0cb8887501e99b050f56466d464dbd5e095ff04b8b6ac6b24b2976",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:34.978405402Z"
+}

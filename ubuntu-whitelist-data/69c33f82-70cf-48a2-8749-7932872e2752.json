@@ -1,0 +1,15 @@
+{
+  "uuid": "69c33f82-70cf-48a2-8749-7932872e2752",
+  "path": "/lib/x86_64-linux-gnu/samba/ldb/paged_searches.so",
+  "size": 14664,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.126634519Z",
+  "sha256_hash": "bc85cb05a903ff82d4826a2b692e77079b6b64b75f395e71c401b6197589a99e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.483215654Z"
+}

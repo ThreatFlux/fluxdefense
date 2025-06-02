@@ -1,0 +1,17 @@
+{
+  "uuid": "b08407a6-d0b9-4c9f-98ec-6b5bb7460bbc",
+  "path": "/lib/firmware/wfx/brd4001a.pds.zst",
+  "size": 223,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.083534180Z",
+  "sha256_hash": "931de8bb0f97b2d8c12f41783e421d203dde45757bd1383297d3c7feb024db0c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.885052126Z"
+}

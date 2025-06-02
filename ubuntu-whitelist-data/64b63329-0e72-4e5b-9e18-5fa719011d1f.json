@@ -1,0 +1,17 @@
+{
+  "uuid": "64b63329-0e72-4e5b-9e18-5fa719011d1f",
+  "path": "/lib/x86_64-linux-gnu/librte_kvargs.so.24.0",
+  "size": 14336,
+  "modified": "2024-12-18T18:31:38Z",
+  "created": "2025-05-26T20:18:25.142051824Z",
+  "sha256_hash": "e8ab862c5811c680d9b37d2e9de478697d91bc0f98698b6e4cfd378cdc93040e",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.537755858Z"
+}

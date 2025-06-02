@@ -1,0 +1,15 @@
+{
+  "uuid": "7ff16397-f79c-4b6b-871c-8d2163b03afb",
+  "path": "/usr/lib/x86_64-linux-gnu/libjansson.a",
+  "size": 110490,
+  "modified": "2024-03-31T01:26:06Z",
+  "created": "2025-05-28T13:49:50.491516789Z",
+  "sha256_hash": "39cc75d4cefcf3cc9fc6be02e3c2ba46692a740fca575cb09858a17f7f6cb25b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:13.998114607Z"
+}

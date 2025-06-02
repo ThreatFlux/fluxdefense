@@ -1,0 +1,15 @@
+{
+  "uuid": "bc9c1ed0-3361-40b4-9876-fd634fc6a95d",
+  "path": "/usr/bin/lsns",
+  "size": 43400,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:20.146893625Z",
+  "sha256_hash": "d1338fff96701ab59cc6110ed5c42a886fd63fd8cae14bf783576b10a5b509f9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.681694993Z"
+}

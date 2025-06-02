@@ -1,0 +1,17 @@
+{
+  "uuid": "8ac056c8-2bff-4e75-b50d-0cae65387333",
+  "path": "/lib/llvm-18/include/clang/AST/ExprOpenMP.h",
+  "size": 15845,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.518533726Z",
+  "sha256_hash": "863e825fc805f5b5027c5a34282f80f5f4b18df63fdc3ef8c5b8a85324d04540",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.005949846Z"
+}

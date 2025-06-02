@@ -1,0 +1,17 @@
+{
+  "uuid": "2cc016fc-263a-4c5f-9e67-e564d42180ad",
+  "path": "/lib/firmware/amdgpu/aldebaran_sjt_mec.bin.zst",
+  "size": 31704,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.385543848Z",
+  "sha256_hash": "5cf29d9cf2287649ad6577dbeb05a32ae8a9b2f067902da0f7b3c4a70ec81242",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.122449866Z"
+}

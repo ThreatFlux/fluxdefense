@@ -1,0 +1,15 @@
+{
+  "uuid": "ea38a3d4-2c3e-4c5d-9f19-f3f7e31a51ee",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstsmpte.so",
+  "size": 84560,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.775655135Z",
+  "sha256_hash": "f92ad6efa0665b826af21ade4569e7bc011108add82abc36807936b71edba2c1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.176673708Z"
+}

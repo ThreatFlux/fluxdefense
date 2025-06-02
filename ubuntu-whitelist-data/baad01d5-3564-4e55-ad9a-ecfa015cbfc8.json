@@ -1,0 +1,17 @@
+{
+  "uuid": "baad01d5-3564-4e55-ad9a-ecfa015cbfc8",
+  "path": "/usr/share/applications/org.gnome.Calculator.desktop",
+  "size": 600,
+  "modified": "2024-06-22T18:00:54Z",
+  "created": "2025-05-09T05:07:38.596612087Z",
+  "sha256_hash": "18f21a1b230271e5821aa2e454d5fae9bf96356ef997d95688d684cc0a8e0068",
+  "file_type": {
+    "Other": "desktop"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.553358011Z"
+}

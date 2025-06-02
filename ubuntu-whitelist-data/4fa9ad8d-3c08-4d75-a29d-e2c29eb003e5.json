@@ -1,0 +1,17 @@
+{
+  "uuid": "4fa9ad8d-3c08-4d75-a29d-e2c29eb003e5",
+  "path": "/usr/lib/systemd/system/blockdev@.target",
+  "size": 519,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.510779317Z",
+  "sha256_hash": "c1db541fd7a72204a082bde5974d8d1b6435fa3ac389e81402c6f01b23942ab4",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.462388487Z"
+}

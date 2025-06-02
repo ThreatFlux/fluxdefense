@@ -1,0 +1,17 @@
+{
+  "uuid": "38a41335-f741-4f4d-923a-0196af68a08b",
+  "path": "/lib/systemd/network/80-6rd-tunnel.network",
+  "size": 819,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.509779304Z",
+  "sha256_hash": "d759d446f8416a4fe43a1b454af4b5df42254c588df27203fb9b3118a4860968",
+  "file_type": {
+    "Other": "network"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.195139548Z"
+}

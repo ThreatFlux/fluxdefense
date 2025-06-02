@@ -1,0 +1,15 @@
+{
+  "uuid": "10b9bd3c-c081-4923-9adb-3283e815700d",
+  "path": "/lib/x86_64-linux-gnu/spa-0.2/avb/libspa-avb.so",
+  "size": 157968,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.448855770Z",
+  "sha256_hash": "9ad2cf7a8d6012055cbfe12c1716626f544f8cee4b73f7f264df1685febc2e5e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.757971318Z"
+}

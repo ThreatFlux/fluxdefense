@@ -1,0 +1,17 @@
+{
+  "uuid": "bfa10ea1-3e66-4fce-a0af-8961cc0ceda3",
+  "path": "/lib/grub/x86_64-efi/usb.mod",
+  "size": 15920,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "2b5a757958e711e63a461f5c8cea8ac119badc0bc3f967afc865bb861bf97868",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.053668285Z"
+}

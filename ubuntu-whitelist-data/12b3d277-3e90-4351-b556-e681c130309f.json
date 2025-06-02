@@ -1,0 +1,17 @@
+{
+  "uuid": "12b3d277-3e90-4351-b556-e681c130309f",
+  "path": "/usr/lib/grub/x86_64-efi/part_sun.mod",
+  "size": 2280,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.838708002Z",
+  "sha256_hash": "4868b52c3ba1a4c398536588246275bb2b3b9d627d1892e6dc177711afe01787",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.601800524Z"
+}

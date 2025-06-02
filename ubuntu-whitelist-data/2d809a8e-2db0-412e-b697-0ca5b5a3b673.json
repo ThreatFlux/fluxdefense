@@ -1,0 +1,17 @@
+{
+  "uuid": "2d809a8e-2db0-412e-b697-0ca5b5a3b673",
+  "path": "/lib/firmware/amdgpu/psp_13_0_0_ta.bin.zst",
+  "size": 71129,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.411543488Z",
+  "sha256_hash": "ba74794333c5184bfca0674c769916221a44970703557c3932ac449b77cc4cab",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.854501986Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b3317b34-2b65-47e7-9da0-467a727335fc",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-rannum.adb",
+  "size": 28240,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.087344640Z",
+  "sha256_hash": "2103602698de34e0f81ea787889bfaf6f79505bf53ae4757c234279027fac304",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.214812274Z"
+}

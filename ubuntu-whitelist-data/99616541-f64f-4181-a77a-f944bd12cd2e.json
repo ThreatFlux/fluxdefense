@@ -1,0 +1,15 @@
+{
+  "uuid": "99616541-f64f-4181-a77a-f944bd12cd2e",
+  "path": "/sbin/zic",
+  "size": 67984,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:38.500613552Z",
+  "sha256_hash": "14914a8898d39ebd5ca7b24f4f176fbe45c05b6662e2ea0720ca573167f4f034",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.682612784Z"
+}

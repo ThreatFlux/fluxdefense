@@ -1,0 +1,17 @@
+{
+  "uuid": "c8021548-3a6b-4b1f-8637-0166bc493fd3",
+  "path": "/lib/llvm-18/include/clang-tidy/altera/SingleWorkItemBarrierCheck.h",
+  "size": 1525,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "e7658c146f236ecc702d8fd2d9b072455b5d8a4d3eb696c94a778d0aa4d43d1b",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.893775132Z"
+}

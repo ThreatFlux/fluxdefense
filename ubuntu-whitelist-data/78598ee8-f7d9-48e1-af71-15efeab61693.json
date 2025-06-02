@@ -1,0 +1,15 @@
+{
+  "uuid": "78598ee8-f7d9-48e1-af71-15efeab61693",
+  "path": "/lib/x86_64-linux-gnu/gnome-keyring/devel/gkm-ssh-store-standalone.so",
+  "size": 407376,
+  "modified": "2024-03-31T06:07:47Z",
+  "created": "2025-05-09T05:07:35.759655379Z",
+  "sha256_hash": "935d0f2f1f1aaeb1815a6ff1f561b2c490342bb80c5b190d05d98a6fde561c7a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:12.714095511Z"
+}

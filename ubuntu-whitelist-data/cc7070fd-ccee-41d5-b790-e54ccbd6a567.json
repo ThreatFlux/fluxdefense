@@ -1,0 +1,15 @@
+{
+  "uuid": "cc7070fd-ccee-41d5-b790-e54ccbd6a567",
+  "path": "/usr/lib/xorg/modules/input/inputtest_drv.so",
+  "size": 27584,
+  "modified": "2025-03-04T04:58:03Z",
+  "created": "2025-05-09T05:24:13.315776824Z",
+  "sha256_hash": "5a16d0a4c8b911d5009bd1d83a0383964e1bc3dc158432b4050513ea62864ef7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.587130045Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "bbca1543-76a6-476e-95a4-676cdcd56dbf",
+  "path": "/usr/lib/x86_64-linux-gnu/libmhash.so.2.0.1",
+  "size": 186440,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:31.344722750Z",
+  "sha256_hash": "72196591230abe1692c62723d8305f9b4f3d005fb7ed62957784e65cb4081fe4",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.281604812Z"
+}

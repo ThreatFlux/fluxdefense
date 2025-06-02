@@ -1,0 +1,17 @@
+{
+  "uuid": "3b158b24-7a9e-4815-ad5c-55b64f82d4a5",
+  "path": "/usr/lib/firmware/qat_402xx.bin.zst",
+  "size": 111154,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.964535828Z",
+  "sha256_hash": "90e1cbe6ea1991f23164f3ca6956b19a01e6bdff953bb4f6f142ab392b0a85f0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.464727203Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "6194ea1c-d0f6-4620-a827-e25f45f294dd",
+  "path": "/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-samsung.so",
+  "size": 14360,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.161664505Z",
+  "sha256_hash": "d9b052542698791ac474d686fe45594d04fe2fc3ef6c0582f6dd573449be31e0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.577997143Z"
+}

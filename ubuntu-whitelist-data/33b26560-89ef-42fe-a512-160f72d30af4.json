@@ -1,0 +1,17 @@
+{
+  "uuid": "33b26560-89ef-42fe-a512-160f72d30af4",
+  "path": "/usr/lib/x86_64-linux-gnu/libbrlapi.so.0.8.5",
+  "size": 63736,
+  "modified": "2024-03-31T00:24:15Z",
+  "created": "2025-05-09T05:07:29.190755620Z",
+  "sha256_hash": "f94781ee331908e53c9eb1bf3d2b8151ced508a6db769214bb64c49ae8d644a5",
+  "file_type": {
+    "Other": "5"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.411571840Z"
+}

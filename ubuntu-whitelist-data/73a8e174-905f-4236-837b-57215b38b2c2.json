@@ -1,0 +1,17 @@
+{
+  "uuid": "73a8e174-905f-4236-837b-57215b38b2c2",
+  "path": "/lib/firmware/intel/sof-tplg/sof-ehl-rt5660.tplg.zst",
+  "size": 1481,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.058490984Z",
+  "sha256_hash": "9ec216d89671aa2d21bfca5e56dabb3be6fd0338902a1b26a3cedf100496190a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.207256805Z"
+}

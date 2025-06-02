@@ -1,0 +1,17 @@
+{
+  "uuid": "d485f6c5-21b1-4e92-87c8-d8e44c7f782a",
+  "path": "/usr/lib/firmware/brcm/brcmfmac43340-sdio.predia-basic.txt.zst",
+  "size": 808,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.484542477Z",
+  "sha256_hash": "64c781185af0b2a88a454ac01092d57db72d7c8da53fcbfc661a61ca2bfa0bb1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.618994550Z"
+}

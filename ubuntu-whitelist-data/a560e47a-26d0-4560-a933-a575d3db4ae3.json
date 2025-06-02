@@ -1,0 +1,15 @@
+{
+  "uuid": "a560e47a-26d0-4560-a933-a575d3db4ae3",
+  "path": "/usr/bin/delv",
+  "size": 45896,
+  "modified": "2025-01-28T14:26:30Z",
+  "created": "2025-05-09T05:07:19.149908838Z",
+  "sha256_hash": "4681b733399e975f753b7f6d0304edc4376943a2dacad6d7de4b42ff4a3d9269",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:06.022832188Z"
+}

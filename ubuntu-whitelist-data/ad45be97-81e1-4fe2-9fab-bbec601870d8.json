@@ -1,0 +1,17 @@
+{
+  "uuid": "ad45be97-81e1-4fe2-9fab-bbec601870d8",
+  "path": "/lib/firmware/intel/sof-ipc4-tplg/sof-mtl-rt5650-dts-google-aec.tplg.zst",
+  "size": 4534,
+  "modified": "2025-01-06T07:09:53Z",
+  "created": "2025-05-09T05:08:52.055491029Z",
+  "sha256_hash": "540b4881e47d4ebd6583c84f8294c1bfa16394816c4a2778aeff82dc32c5356d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.066430979Z"
+}

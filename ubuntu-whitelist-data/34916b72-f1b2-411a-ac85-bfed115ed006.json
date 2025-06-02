@@ -1,0 +1,15 @@
+{
+  "uuid": "34916b72-f1b2-411a-ac85-bfed115ed006",
+  "path": "/usr/lib/python3.12/__hello__.py",
+  "size": 227,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:10:59.919539414Z",
+  "sha256_hash": "a8ce70b199497950f0f06def93115a6814daf1f961934457f59046909901487f",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.980778522Z"
+}

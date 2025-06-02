@@ -1,0 +1,17 @@
+{
+  "uuid": "33bf85c2-8b04-4304-90db-46a4e5e0bdda",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/phontab",
+  "size": 55900,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.497659378Z",
+  "sha256_hash": "88799c9eedd188a63e63304b86b1abc2dc91a8ad29c19f34e3da4a3d22ab4401",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.293895580Z"
+}

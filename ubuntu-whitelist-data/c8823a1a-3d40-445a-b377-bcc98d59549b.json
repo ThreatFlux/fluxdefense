@@ -1,0 +1,15 @@
+{
+  "uuid": "c8823a1a-3d40-445a-b377-bcc98d59549b",
+  "path": "/usr/lib/initramfs-tools/bin/wait-for-root",
+  "size": 14488,
+  "modified": "2025-02-07T14:21:59Z",
+  "created": "2025-05-09T05:24:23.780912214Z",
+  "sha256_hash": "d2c86e4811b04d7ff5a3f2d6b3c0876c97468bd9c36ddb472f9bd9579b1c1cf2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.285787726Z"
+}

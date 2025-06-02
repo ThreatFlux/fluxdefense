@@ -1,0 +1,15 @@
+{
+  "uuid": "0c1260a6-e6eb-4520-b5ff-3cdd7f083b8a",
+  "path": "/usr/lib/x86_64-linux-gnu/libcrypto.a",
+  "size": 10017034,
+  "modified": "2025-02-05T13:17:43Z",
+  "created": "2025-05-12T13:31:13.664138071Z",
+  "sha256_hash": "659d745daa071670ff5f658050a55aa89d04369604a2d64eef6f49b011f44692",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.483330307Z"
+}

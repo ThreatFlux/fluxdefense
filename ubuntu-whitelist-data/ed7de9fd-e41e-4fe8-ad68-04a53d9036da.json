@@ -1,0 +1,17 @@
+{
+  "uuid": "ed7de9fd-e41e-4fe8-ad68-04a53d9036da",
+  "path": "/usr/lib/firmware/sun/cassini.bin.zst",
+  "size": 1518,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.073534319Z",
+  "sha256_hash": "045259c6e77e3173f56473d97bc5206def48f17ba14f6f63b5a89aa6df9ab766",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.554708372Z"
+}

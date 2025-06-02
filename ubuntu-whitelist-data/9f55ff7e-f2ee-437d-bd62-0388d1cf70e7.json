@@ -1,0 +1,15 @@
+{
+  "uuid": "9f55ff7e-f2ee-437d-bd62-0388d1cf70e7",
+  "path": "/lib/llvm-18/lib/libLLVMLoongArchCodeGen.a",
+  "size": 1531686,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.915462652Z",
+  "sha256_hash": "e79b163758c2b2abe6cb2aa270b39d77abe8acde81d3f560d96e1b3da6b098f2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.891866222Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "686c446e-2d25-4433-943b-2b494d1592c4",
+  "path": "/lib/firmware/intel/sof-tplg/sof-adl-max98357a-rt5682-2way.tplg.zst",
+  "size": 2297,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.056491014Z",
+  "sha256_hash": "98ce20dc91c07cee5870132bfd15f6446b3a72d96a0c4dd33dfd92f336aa316b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.203091614Z"
+}

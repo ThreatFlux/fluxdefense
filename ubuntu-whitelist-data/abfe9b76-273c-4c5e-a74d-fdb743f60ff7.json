@@ -1,0 +1,17 @@
+{
+  "uuid": "abfe9b76-273c-4c5e-a74d-fdb743f60ff7",
+  "path": "/usr/lib/x86_64-linux-gnu/libfuse3.so.3.14.0",
+  "size": 256184,
+  "modified": "2024-04-08T15:57:57Z",
+  "created": "2025-05-09T05:07:29.526750492Z",
+  "sha256_hash": "f1e75247f42d414df611ee554c8399bfe74565f89eed7c4501e2d97c48f21eab",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.071939124Z"
+}

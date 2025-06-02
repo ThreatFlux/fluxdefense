@@ -1,0 +1,17 @@
+{
+  "uuid": "f737f815-a3d5-4303-90b7-58634965f2d6",
+  "path": "/usr/lib/python3.12/test/decimaltestdata/dqQuantize.decTest",
+  "size": 43092,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.994551736Z",
+  "sha256_hash": "f5d32f10b89479cfd28202f3a5dc91216fee0be038eef0c27b7a636c01f33b69",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.944659253Z"
+}

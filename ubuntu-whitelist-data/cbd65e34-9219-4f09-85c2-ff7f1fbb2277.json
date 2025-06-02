@@ -1,0 +1,15 @@
+{
+  "uuid": "cbd65e34-9219-4f09-85c2-ff7f1fbb2277",
+  "path": "/usr/lib/x86_64-linux-gnu/totem/plugins/skipto/libskipto.so",
+  "size": 43384,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:37.302631834Z",
+  "sha256_hash": "14c71894e1316e1d252bab48d7c26b2302962a942cd304c6bce993a4a047345d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:26.369434725Z"
+}

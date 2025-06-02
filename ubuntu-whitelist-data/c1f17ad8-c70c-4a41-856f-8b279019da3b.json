@@ -1,0 +1,17 @@
+{
+  "uuid": "c1f17ad8-c70c-4a41-856f-8b279019da3b",
+  "path": "/lib/x86_64-linux-gnu/libvorbisfile.so.3.3.8",
+  "size": 34808,
+  "modified": "2024-04-08T16:08:48Z",
+  "created": "2025-05-09T05:07:32.360707247Z",
+  "sha256_hash": "7499ededea9e6c2a1f3801da281f10ff50cd831b7bf3274da911ef6327b0035d",
+  "file_type": {
+    "Other": "8"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.437125978Z"
+}

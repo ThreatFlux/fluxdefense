@@ -1,0 +1,15 @@
+{
+  "uuid": "fd26b110-2ce3-4838-9222-8cd2bde89329",
+  "path": "/bin/swtpm_setup",
+  "size": 80184,
+  "modified": "2024-07-30T22:16:43Z",
+  "created": "2025-05-09T05:56:58.426542798Z",
+  "sha256_hash": "7a53fbc49ac6b02d4de5b0e46896b0f01d1b15e77284696b8b8f4dacf99ceda4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.655607275Z"
+}

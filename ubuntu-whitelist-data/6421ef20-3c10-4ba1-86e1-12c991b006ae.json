@@ -1,0 +1,17 @@
+{
+  "uuid": "6421ef20-3c10-4ba1-86e1-12c991b006ae",
+  "path": "/lib/firmware/nxp/helper_uart_3000000.bin.zst",
+  "size": 2014,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.961535870Z",
+  "sha256_hash": "4acb42c1b104823eb87c4bdf88a6a9957168447042c79bf13ccb8cd6d03d247f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.670474771Z"
+}

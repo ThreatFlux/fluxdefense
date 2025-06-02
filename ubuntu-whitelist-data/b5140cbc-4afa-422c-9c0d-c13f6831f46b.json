@@ -1,0 +1,17 @@
+{
+  "uuid": "b5140cbc-4afa-422c-9c0d-c13f6831f46b",
+  "path": "/lib/modules/6.11.0-25-generic/kernel/crypto/rmd160.ko.zst",
+  "size": 6692,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.099459834Z",
+  "sha256_hash": "27f119553281b8b4906b89415929f16f39bc6cf2e36605f827db4e347d87d8ce",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.631543977Z"
+}

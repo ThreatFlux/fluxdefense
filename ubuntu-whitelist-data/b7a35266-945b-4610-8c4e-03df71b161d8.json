@@ -1,0 +1,17 @@
+{
+  "uuid": "b7a35266-945b-4610-8c4e-03df71b161d8",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-kvs20xx.so.1.2.1",
+  "size": 125632,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.144634245Z",
+  "sha256_hash": "d90bd29e7f80218a0d16ff4cf376137088b1205fc86cb92f819222f1dd28c49c",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.289987710Z"
+}

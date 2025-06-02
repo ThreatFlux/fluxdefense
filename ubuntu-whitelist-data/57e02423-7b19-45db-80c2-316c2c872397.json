@@ -1,0 +1,17 @@
+{
+  "uuid": "57e02423-7b19-45db-80c2-316c2c872397",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/ml_dict",
+  "size": 92345,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.476659698Z",
+  "sha256_hash": "b12687557c38f9bcd17417854253ddde3781e3b0c16f9470d732205818e7cd38",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.319817623Z"
+}

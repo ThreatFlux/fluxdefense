@@ -1,0 +1,15 @@
+{
+  "uuid": "6f227d90-f22c-44b1-89bd-84b556e71fb4",
+  "path": "/usr/bin/rootlesskit",
+  "size": 14957000,
+  "modified": "2025-05-30T12:07:27Z",
+  "created": "2025-05-30T21:04:53.854575525Z",
+  "sha256_hash": "84868e0571e74ff370e20b27c1264c43ee8472c702f3fac26a292684bdf8b4dd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:06.004297515Z"
+}

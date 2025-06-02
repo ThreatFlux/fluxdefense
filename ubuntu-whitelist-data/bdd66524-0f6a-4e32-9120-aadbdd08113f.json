@@ -1,0 +1,15 @@
+{
+  "uuid": "bdd66524-0f6a-4e32-9120-aadbdd08113f",
+  "path": "/lib/llvm-18/lib/libLLVMWebAssemblyDisassembler.a",
+  "size": 22150,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.057460782Z",
+  "sha256_hash": "9d3c7375b95ee9ded969745b332ec1cac1eeee1e390befb180b8bc612ff2a9a3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.508568940Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "f90fa154-2605-463e-8465-73ac2e36be3f",
+  "path": "/bin/xgc",
+  "size": 72064,
+  "modified": "2024-03-31T17:26:36Z",
+  "created": "2025-05-09T05:07:20.929881677Z",
+  "sha256_hash": "72cf230a6bd8d25fb051888d8da021ba02e78ba11cba8bb00cf396bc51bec5ac",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.262967226Z"
+}

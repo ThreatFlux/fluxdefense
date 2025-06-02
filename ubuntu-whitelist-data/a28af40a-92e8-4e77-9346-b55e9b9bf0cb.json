@@ -1,0 +1,17 @@
+{
+  "uuid": "a28af40a-92e8-4e77-9346-b55e9b9bf0cb",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/abseil/TimeComparisonCheck.h",
+  "size": 1203,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "2f4c4578891ba060f9661160704d8b544f1782f154c463a18f83075d04a34b9d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.245207679Z"
+}

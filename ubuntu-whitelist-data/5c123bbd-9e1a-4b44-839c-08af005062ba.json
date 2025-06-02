@@ -1,0 +1,17 @@
+{
+  "uuid": "5c123bbd-9e1a-4b44-839c-08af005062ba",
+  "path": "/usr/lib/firmware/mellanox/mlxsw_spectrum2-29.2010.1406.mfa2.zst",
+  "size": 1199151,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.751538779Z",
+  "sha256_hash": "8d5d187177c25380badc1fab3b0aa75d13e564c5ca694c524cb843de0cc29af2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:57.503671780Z"
+}

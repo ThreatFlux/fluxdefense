@@ -1,0 +1,17 @@
+{
+  "uuid": "eba8bd39-3bbe-485c-a622-3e2e52069199",
+  "path": "/lib/firmware/rp2.fw.zst",
+  "size": 76,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.064534443Z",
+  "sha256_hash": "59357ae356869068213d7eeed28e20f41a855f6493ea7a08618b71dd3176f4e3",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.552777405Z"
+}

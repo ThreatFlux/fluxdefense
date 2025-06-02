@@ -1,0 +1,15 @@
+{
+  "uuid": "b394aaa3-1a12-499a-89d8-0e585b674f8a",
+  "path": "/bin/grub-mount",
+  "size": 698584,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.599711650Z",
+  "sha256_hash": "99f0c8d42c2b92a98193950daf0b3e3e22a20fe6a84b6a87b248f88908b99516",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.881353931Z"
+}

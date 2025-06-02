@@ -1,0 +1,15 @@
+{
+  "uuid": "6b8362b4-344b-4d5e-b2bf-17c344742fa5",
+  "path": "/usr/lib/x86_64-linux-gnu/libheif/plugins/libheif-libde265.so",
+  "size": 18624,
+  "modified": "2024-10-21T10:48:55Z",
+  "created": "2025-05-09T05:07:35.858653869Z",
+  "sha256_hash": "d49c3d13d17a9a036955b248054c3376737e72ff8cd2dac2eeae0142706e748f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.831065679Z"
+}

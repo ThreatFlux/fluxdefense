@@ -1,0 +1,17 @@
+{
+  "uuid": "cc2517f6-badd-42e8-b2ba-3c48092d3585",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/xi.pc",
+  "size": 267,
+  "modified": "2024-04-08T16:09:53Z",
+  "created": "2025-05-29T11:16:07.808035353Z",
+  "sha256_hash": "be504581c917861d4cb0253a98c83e026d72451757cd4265dc9f29817c3baab7",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.108975491Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "03f66f98-4606-477a-8a7d-bdeaf075d778",
+  "path": "/lib/x86_64-linux-gnu/tracker-miners-3.0/extract-modules/libextract-ps.so",
+  "size": 35048,
+  "modified": "2024-03-31T17:20:13Z",
+  "created": "2025-05-09T05:07:37.309631727Z",
+  "sha256_hash": "20e938ffc0cba49407b801b12e067d4ba5ddcae1b571a39f33fe164b19faec87",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.706813190Z"
+}

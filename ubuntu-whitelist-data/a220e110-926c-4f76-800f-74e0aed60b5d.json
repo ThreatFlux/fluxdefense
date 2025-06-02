@@ -1,0 +1,17 @@
+{
+  "uuid": "a220e110-926c-4f76-800f-74e0aed60b5d",
+  "path": "/usr/lib/firmware/ath6k/AR6003/hw2.0/athwlan.bin.z77.zst",
+  "size": 88698,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.474542615Z",
+  "sha256_hash": "c5b8acf63b5cbf0e142e1e64791ec5c636f4f387e0b853e90b9075f4791095bc",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.538075376Z"
+}

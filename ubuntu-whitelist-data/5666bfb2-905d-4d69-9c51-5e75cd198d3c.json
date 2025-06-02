@@ -1,0 +1,17 @@
+{
+  "uuid": "5666bfb2-905d-4d69-9c51-5e75cd198d3c",
+  "path": "/lib/systemd/system/systemd-firstboot.service",
+  "size": 1536,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "6ee3c978f82e6949b0928a3b420fb3aa273ac5c1a85819d40c5bb67c89e84ad8",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.107760657Z"
+}

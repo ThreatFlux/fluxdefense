@@ -1,0 +1,17 @@
+{
+  "uuid": "93e8be15-fa38-4d30-8068-7f87cb6f26b3",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/xxf86vm.pc",
+  "size": 287,
+  "modified": "2024-04-08T16:10:44Z",
+  "created": "2025-05-29T11:16:28.608749915Z",
+  "sha256_hash": "9a3a5b4f10264be1f909f728b0df4b8fc266549f1c2343bfe13a620a3534befc",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.063404499Z"
+}

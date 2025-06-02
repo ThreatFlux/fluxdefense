@@ -1,0 +1,17 @@
+{
+  "uuid": "7c1c9475-41dc-42b9-ac27-080776b4f779",
+  "path": "/lib/firmware/cirrus/cs35l56/CS35L56_Rev3.11.16.wmfw.zst",
+  "size": 16114,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.507542158Z",
+  "sha256_hash": "dadc0bb2c22b5e2f4a14ef2902ec5ae0f423beb1e9b5285faa8672438128026f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.128318417Z"
+}

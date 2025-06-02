@@ -1,0 +1,15 @@
+{
+  "uuid": "33bea0e1-6040-4bec-9e15-a02e2aef5532",
+  "path": "/usr/lib/x86_64-linux-gnu/rsyslog/imtcp.so",
+  "size": 33192,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.546922251Z",
+  "sha256_hash": "e24d21bcb430300bea5fa8398984884fb2ef0293a18f07f4376a4109826efbe7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.172683643Z"
+}

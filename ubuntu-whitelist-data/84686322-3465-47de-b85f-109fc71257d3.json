@@ -1,0 +1,15 @@
+{
+  "uuid": "84686322-3465-47de-b85f-109fc71257d3",
+  "path": "/sbin/tcpsynbl-bpfcc",
+  "size": 2175,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.523499148Z",
+  "sha256_hash": "262fe23744cf8906790ec2a8a5473732023df941c1bbb0eec43fb4286a59f79e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.179123969Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "49fb628a-9c3d-4126-8e82-43126fe93eed",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/cairo-svg.pc",
+  "size": 182,
+  "modified": "2024-04-16T13:33:30Z",
+  "created": "2025-05-29T11:16:06.229057020Z",
+  "sha256_hash": "2b6d27345c16a548cab151b02ec24c173871d41d5229c95dc0e24cd626e54d29",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.057648157Z"
+}

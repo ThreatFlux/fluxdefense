@@ -1,0 +1,15 @@
+{
+  "uuid": "cf47ae37-6fc8-42ee-8f3c-61cee588d298",
+  "path": "/usr/sbin/hdparm",
+  "size": 142776,
+  "modified": "2024-04-08T15:58:49Z",
+  "created": "2025-05-09T05:07:38.255617291Z",
+  "sha256_hash": "21f60d1b85cab71d14e8421e0977471e3202c0853f4614d5546bbd5298fd13d9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.718224444Z"
+}

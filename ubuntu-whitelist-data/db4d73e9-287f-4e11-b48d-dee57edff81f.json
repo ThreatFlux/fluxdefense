@@ -1,0 +1,15 @@
+{
+  "uuid": "db4d73e9-287f-4e11-b48d-dee57edff81f",
+  "path": "/usr/lib/i386-linux-gnu/gconv/ISO-IR-209.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.282663385Z",
+  "sha256_hash": "ec070bd9beb388ec671ae1f90e00bc903169cbe5f0b0f4749f252d21b0d52e40",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.939615232Z"
+}

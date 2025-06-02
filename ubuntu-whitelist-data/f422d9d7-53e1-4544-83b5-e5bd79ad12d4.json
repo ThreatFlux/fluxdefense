@@ -1,0 +1,17 @@
+{
+  "uuid": "f422d9d7-53e1-4544-83b5-e5bd79ad12d4",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/z3.pc",
+  "size": 289,
+  "modified": "2024-04-22T09:52:27Z",
+  "created": "2025-05-12T13:34:36.490468249Z",
+  "sha256_hash": "8c01ab73f2b5249ee4b634b2d5867969e69758cf8ce569a1d1560f1c19b7bb43",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.055886881Z"
+}

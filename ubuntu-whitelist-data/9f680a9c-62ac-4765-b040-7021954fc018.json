@@ -1,0 +1,15 @@
+{
+  "uuid": "9f680a9c-62ac-4765-b040-7021954fc018",
+  "path": "/usr/lib/llvm-18/bin/llvm-stress",
+  "size": 56568,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.071486938Z",
+  "sha256_hash": "980d4853f69264248d0d03093f0981d8ec507765348ca9910a1353bf286c9f4c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.793330660Z"
+}

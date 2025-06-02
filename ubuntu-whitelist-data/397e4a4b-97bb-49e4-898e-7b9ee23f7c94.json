@@ -1,0 +1,15 @@
+{
+  "uuid": "397e4a4b-97bb-49e4-898e-7b9ee23f7c94",
+  "path": "/lib/x86_64-linux-gnu/grilo-0.3/libgrlthetvdb.so",
+  "size": 51680,
+  "modified": "2025-03-17T11:05:34Z",
+  "created": "2025-05-12T03:14:18.439811199Z",
+  "sha256_hash": "73c768e75a423de3b82678d5e25bdc6583716a513e884728d9e0e6a11519509e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.452496049Z"
+}

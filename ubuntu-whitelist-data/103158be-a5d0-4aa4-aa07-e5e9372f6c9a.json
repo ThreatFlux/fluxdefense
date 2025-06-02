@@ -1,0 +1,17 @@
+{
+  "uuid": "103158be-a5d0-4aa4-aa07-e5e9372f6c9a",
+  "path": "/usr/lib/x86_64-linux-gnu/libabsl_cordz_info.so.20220623.0.0",
+  "size": 26976,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.938492440Z",
+  "sha256_hash": "192a5a88729b597f9d6576775dd718600f546046025d9ae54a2805564fc73926",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.971462489Z"
+}

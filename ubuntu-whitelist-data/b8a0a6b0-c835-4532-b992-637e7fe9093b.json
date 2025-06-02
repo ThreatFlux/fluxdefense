@@ -1,0 +1,17 @@
+{
+  "uuid": "b8a0a6b0-c835-4532-b992-637e7fe9093b",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-catizo.ali",
+  "size": 2475,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.095344530Z",
+  "sha256_hash": "a32a99ebd5f4ce819a5c85a2cfc87b734f62636f2919f1e5693b5927c45e4cb8",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.610835851Z"
+}

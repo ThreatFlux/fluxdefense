@@ -1,0 +1,15 @@
+{
+  "uuid": "ec07f7b1-d420-42ec-a531-ca7f6972082e",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/auth/print_identity_token.py",
+  "size": 5059,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.732931938Z",
+  "sha256_hash": "bb4cd5fbf2fa6c085e1b42a3b592373c8880c235ac48015356f963e5965821ca",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.791584993Z"
+}

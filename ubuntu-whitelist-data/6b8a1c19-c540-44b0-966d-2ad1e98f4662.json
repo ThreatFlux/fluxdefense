@@ -1,0 +1,15 @@
+{
+  "uuid": "6b8a1c19-c540-44b0-966d-2ad1e98f4662",
+  "path": "/bin/grub-editenv",
+  "size": 402600,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.591711772Z",
+  "sha256_hash": "95473a09242eb2e6d152d16b2b7f48a5ba1710718c97bd97a5c318acbde08abd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.086725917Z"
+}

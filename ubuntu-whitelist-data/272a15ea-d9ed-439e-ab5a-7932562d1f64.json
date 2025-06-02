@@ -1,0 +1,15 @@
+{
+  "uuid": "272a15ea-d9ed-439e-ab5a-7932562d1f64",
+  "path": "/usr/lib/update-notifier/livepatch-notification",
+  "size": 18584,
+  "modified": "2024-10-08T13:47:14Z",
+  "created": "2025-05-09T05:24:21.710885176Z",
+  "sha256_hash": "7411b6bdeacf10061ef1c35ac375209f092d6784f505bdc1ac4fd0068543083e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.269052856Z"
+}

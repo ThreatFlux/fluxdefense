@@ -1,0 +1,17 @@
+{
+  "uuid": "8a6d8214-4c15-41c5-b27c-e1e304a06da2",
+  "path": "/lib/firmware/amdgpu/cyan_skillfish2_sdma1.bin.zst",
+  "size": 9967,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.390543779Z",
+  "sha256_hash": "cd6a9223637875a77e19bc9444b9b5a304fa1bb635c59f745a124ff0386b3a5e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.004414871Z"
+}

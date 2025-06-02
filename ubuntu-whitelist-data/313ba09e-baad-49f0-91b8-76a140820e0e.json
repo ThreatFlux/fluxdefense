@@ -1,0 +1,17 @@
+{
+  "uuid": "313ba09e-baad-49f0-91b8-76a140820e0e",
+  "path": "/lib/firmware/amdgpu/oland_rlc.bin.zst",
+  "size": 1787,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.407543543Z",
+  "sha256_hash": "7bc4fdc9554956fbc9ccf814aa36c1704ef5ede113fb9cb3b1027bbd8a86ce03",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.052374971Z"
+}

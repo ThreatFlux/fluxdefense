@@ -1,0 +1,15 @@
+{
+  "uuid": "f6ee71d6-77c6-4416-a529-d4f388afb2ed",
+  "path": "/lib/google-cloud-sdk/bin/bootstrapping/bq.py",
+  "size": 5373,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.327921832Z",
+  "sha256_hash": "d893ad6a51fdb39d6eb9ca3b10c598e5023fbd8d13e40c7bedbecf6b5459c492",
+  "file_type": "Script",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:51.547089390Z"
+}

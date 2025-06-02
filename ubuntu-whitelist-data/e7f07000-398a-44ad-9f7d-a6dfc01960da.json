@@ -1,0 +1,15 @@
+{
+  "uuid": "e7f07000-398a-44ad-9f7d-a6dfc01960da",
+  "path": "/usr/lib/llvm-18/lib/libLLVMPasses.a",
+  "size": 8179408,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.960462059Z",
+  "sha256_hash": "3ae20aa1c418c40fd157bef6e65bacb573f7526a7532daeb209708248d12d51e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:33.939928748Z"
+}

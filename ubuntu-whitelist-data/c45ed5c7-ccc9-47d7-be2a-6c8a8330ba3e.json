@@ -1,0 +1,15 @@
+{
+  "uuid": "c45ed5c7-ccc9-47d7-be2a-6c8a8330ba3e",
+  "path": "/bin/wget",
+  "size": 470032,
+  "modified": "2024-06-19T12:14:03Z",
+  "created": "2025-05-09T05:07:20.881882409Z",
+  "sha256_hash": "b8f8a975cf3e7908e076de79814aa448c6086aacfc08165be04ce65665e08e39",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.816199436Z"
+}

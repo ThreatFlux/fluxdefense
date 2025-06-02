@@ -1,0 +1,15 @@
+{
+  "uuid": "50992970-5fb0-4ab2-9922-3d6fe21a2427",
+  "path": "/usr/libexec/sssd/sss_signal",
+  "size": 14648,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:38.060620267Z",
+  "sha256_hash": "0a6703d20bcb4ab24939e835bb239b9e4d9ee58098a70001388c295137d9c4f3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.131535097Z"
+}

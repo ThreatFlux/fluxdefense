@@ -1,0 +1,17 @@
+{
+  "uuid": "380fce07-97f4-4267-809c-08af358ff832",
+  "path": "/opt/google/chrome/PrivacySandboxAttestationsPreloaded/privacy-sandbox-attestations.dat",
+  "size": 7581,
+  "modified": "2025-05-26T20:54:35Z",
+  "created": "2025-05-27T21:53:44.430474105Z",
+  "sha256_hash": "dfc59b1a042d0beefe21bdf7f0aefea5bd2d163b555d21b84c44b2c026c73783",
+  "file_type": {
+    "Other": "dat"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:43.934794124Z"
+}

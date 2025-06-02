@@ -1,0 +1,15 @@
+{
+  "uuid": "b2caeaab-efd7-4df0-91c8-51eeb385043e",
+  "path": "/usr/lib/llvm-18/lib/libLLVMLineEditor.a",
+  "size": 20850,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.914462665Z",
+  "sha256_hash": "7380b3842eb99596c7e60593ab9bcd480a1fbf726089457c4e8ffbe7ed353e1b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:30.658913822Z"
+}

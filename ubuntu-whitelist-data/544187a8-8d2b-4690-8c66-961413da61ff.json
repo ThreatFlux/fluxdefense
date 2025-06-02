@@ -1,0 +1,17 @@
+{
+  "uuid": "544187a8-8d2b-4690-8c66-961413da61ff",
+  "path": "/bin/vim.tiny",
+  "size": 1736392,
+  "modified": "2025-04-01T20:12:31Z",
+  "created": "2025-05-09T05:11:27.680115663Z",
+  "sha256_hash": "e2c61c70a777c4db279ec885ba27cc7808185f47e637c58cf6671c5b9dc33bd8",
+  "file_type": {
+    "Other": "tiny"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.908250739Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "f3ee72de-9aa0-461b-8cdb-8d6deb482d22",
+  "path": "/usr/lib/x86_64-linux-gnu/tracker-miners-3.0/extract-modules/libextract-icon.so",
+  "size": 35048,
+  "modified": "2024-03-31T17:20:13Z",
+  "created": "2025-05-09T05:07:37.309631727Z",
+  "sha256_hash": "ca483df1631d378b7a835b4a92f261a67e30cad5725772b42dfdf9a204122e74",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.210972158Z"
+}

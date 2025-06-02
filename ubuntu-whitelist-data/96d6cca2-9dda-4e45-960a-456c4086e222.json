@@ -1,0 +1,17 @@
+{
+  "uuid": "96d6cca2-9dda-4e45-960a-456c4086e222",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/ForwardDeclarationNamespaceCheck.h",
+  "size": 2169,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "20a68412961d34ab36586900df6b6e204d6aafe341f18864a2f4c0670aef65c5",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.899301412Z"
+}

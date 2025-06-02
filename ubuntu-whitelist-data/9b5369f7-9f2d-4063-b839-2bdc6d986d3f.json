@@ -1,0 +1,15 @@
+{
+  "uuid": "9b5369f7-9f2d-4063-b839-2bdc6d986d3f",
+  "path": "/lib/llvm-18/lib/libLLVMInterfaceStub.a",
+  "size": 263116,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.906462771Z",
+  "sha256_hash": "72569201471e01ac2be15fdf1667dc858765e2ee189de850ae9138c008aa1e08",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:42.376547449Z"
+}

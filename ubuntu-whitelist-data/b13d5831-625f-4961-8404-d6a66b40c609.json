@@ -1,0 +1,17 @@
+{
+  "uuid": "b13d5831-625f-4961-8404-d6a66b40c609",
+  "path": "/lib/llvm-18/include/clang-tidy/modernize/UseConstraintsCheck.h",
+  "size": 1314,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "a333fb0d5c7db205dbc071c3dd21f2333b61551e9956761fd8bac3d9a8338c66",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.908092675Z"
+}

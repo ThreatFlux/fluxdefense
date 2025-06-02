@@ -1,0 +1,15 @@
+{
+  "uuid": "df2517a2-cdcd-4108-bbb5-77cf13655d4a",
+  "path": "/usr/bin/powerprofilesctl",
+  "size": 7398,
+  "modified": "2024-04-04T00:19:26Z",
+  "created": "2025-05-09T05:07:20.309891137Z",
+  "sha256_hash": "e9b0acfea66c9615848bb8139bd253b1cc9fc016b4109957040b1924045bcbf0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.883187847Z"
+}

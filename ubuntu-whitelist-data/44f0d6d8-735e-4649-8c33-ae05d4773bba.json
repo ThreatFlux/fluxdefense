@@ -1,0 +1,15 @@
+{
+  "uuid": "44f0d6d8-735e-4649-8c33-ae05d4773bba",
+  "path": "/usr/sbin/grpck",
+  "size": 59720,
+  "modified": "2024-05-30T14:52:35Z",
+  "created": "2025-05-09T05:07:38.214617917Z",
+  "sha256_hash": "283ba23e7e8d100f8769170b8c4e77c89d4fb893a235614c2076142f7d81efa6",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.584203885Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f70caa36-b96e-4267-86b4-80038b89bad7",
+  "path": "/usr/lib/python3.12/test/certdata/revocation.crl",
+  "size": 800,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.987551828Z",
+  "sha256_hash": "172a97207d979f7c3bd568e22878a981481ff2eac2f622bc4d7563ae506438ed",
+  "file_type": {
+    "Other": "crl"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.234075607Z"
+}

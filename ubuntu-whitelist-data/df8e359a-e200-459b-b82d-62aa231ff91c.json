@@ -1,0 +1,17 @@
+{
+  "uuid": "df8e359a-e200-459b-b82d-62aa231ff91c",
+  "path": "/lib/firmware/amdgpu/raven_ta.bin.zst",
+  "size": 12937,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.414543446Z",
+  "sha256_hash": "85edea40c24a3b03dea43b84d80b76d9d3db5b30b5197e37cc0a2a4a722c712e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.919534265Z"
+}

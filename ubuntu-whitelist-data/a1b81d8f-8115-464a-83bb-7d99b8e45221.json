@@ -1,0 +1,17 @@
+{
+  "uuid": "a1b81d8f-8115-464a-83bb-7d99b8e45221",
+  "path": "/usr/lib/firmware/ene-ub6250/msp_rdwr.bin.zst",
+  "size": 415,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.530541840Z",
+  "sha256_hash": "ad3515b412257b2fb1e03a4bcb3ab4fcb0feea08b43c16ccbb27e5968aa56491",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.106263527Z"
+}

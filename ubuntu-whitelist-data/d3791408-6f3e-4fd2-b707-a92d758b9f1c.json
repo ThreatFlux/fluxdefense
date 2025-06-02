@@ -1,0 +1,15 @@
+{
+  "uuid": "d3791408-6f3e-4fd2-b707-a92d758b9f1c",
+  "path": "/usr/bin/gpgconf",
+  "size": 118128,
+  "modified": "2025-03-28T15:23:49Z",
+  "created": "2025-05-09T05:11:24.066170828Z",
+  "sha256_hash": "e3a89e8e7cfed485d8410b9a7352077968093e378100ed121309bd1e908e19d1",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.745510117Z"
+}

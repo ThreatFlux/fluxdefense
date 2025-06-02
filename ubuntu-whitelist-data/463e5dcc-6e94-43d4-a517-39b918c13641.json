@@ -1,0 +1,17 @@
+{
+  "uuid": "463e5dcc-6e94-43d4-a517-39b918c13641",
+  "path": "/lib/llvm-18/include/clang-tidy/GlobList.h",
+  "size": 2092,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.555533239Z",
+  "sha256_hash": "9702aad1eb540a7dc2a741167aa59fba369b50e56f447ffb91c09e7b34bfaa8b",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.913841110Z"
+}

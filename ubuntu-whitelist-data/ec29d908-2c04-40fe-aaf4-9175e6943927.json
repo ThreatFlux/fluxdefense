@@ -1,0 +1,15 @@
+{
+  "uuid": "ec29d908-2c04-40fe-aaf4-9175e6943927",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/libstdc++exp.a",
+  "size": 946254,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:32.255346546Z",
+  "sha256_hash": "a52b9d446117215e82d524d5b7a265b92985abd26e0679fa93b2b33a176954ee",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.533410238Z"
+}

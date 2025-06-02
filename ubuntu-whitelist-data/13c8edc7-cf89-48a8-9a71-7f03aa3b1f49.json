@@ -1,0 +1,15 @@
+{
+  "uuid": "13c8edc7-cf89-48a8-9a71-7f03aa3b1f49",
+  "path": "/usr/lib/llvm-18/lib/libclangTransformer.a",
+  "size": 517652,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.918528458Z",
+  "sha256_hash": "e3a099e141594e05788a932dd6d649213a413e4f24c6539d9ece4f7a8293c212",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.640795254Z"
+}

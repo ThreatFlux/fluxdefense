@@ -1,0 +1,17 @@
+{
+  "uuid": "9917ceef-946a-4e70-823c-000fdd25684c",
+  "path": "/lib/rustlib/x86_64-unknown-linux-gnu/lib/liballoc-78e98507e9d056e5.rlib",
+  "size": 8654964,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T17:41:10.423619239Z",
+  "sha256_hash": "898ee6284a8cddf1a191a1f7d622e1e12066203294f774326191eeca56b07890",
+  "file_type": {
+    "Other": "rlib"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.470492534Z"
+}

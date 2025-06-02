@@ -1,0 +1,17 @@
+{
+  "uuid": "29ec4d03-549d-4ec6-8b0d-5d83424a0d33",
+  "path": "/lib/qemu/qemu-bridge-helper",
+  "size": 687280,
+  "modified": "2025-03-13T16:15:00Z",
+  "created": "2025-05-22T16:56:50.589978705Z",
+  "sha256_hash": "a35fd64f3cf339e341095389661ff11c804d96e519aaa0879de9bfb41697142c",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.154524798Z"
+}

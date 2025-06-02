@@ -1,0 +1,17 @@
+{
+  "uuid": "e39122fa-f75d-4591-82f2-2d915f8fd779",
+  "path": "/lib/firmware/intel/sof/sof-cnl.ldc.zst",
+  "size": 17930,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.046491166Z",
+  "sha256_hash": "fa733707c4b9d8997576d86add262e6665288bd1823f94eb020eae937b3316ae",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.060378207Z"
+}

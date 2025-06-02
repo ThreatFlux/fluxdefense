@@ -1,0 +1,17 @@
+{
+  "uuid": "18ccd66d-2a9c-4be5-a4a8-4b515adafd78",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/MIME/Base64.pm",
+  "size": 5436,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.518591327Z",
+  "sha256_hash": "f72989b567ccfdf5b1eae2cbee497758ac077ef81b29aaa95265f57692817350",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.571445799Z"
+}

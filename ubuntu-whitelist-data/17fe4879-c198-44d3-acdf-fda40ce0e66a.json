@@ -1,0 +1,17 @@
+{
+  "uuid": "17fe4879-c198-44d3-acdf-fda40ce0e66a",
+  "path": "/lib/systemd/repart/definitions/confext.repart.d/10-root.conf",
+  "size": 437,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.510779317Z",
+  "sha256_hash": "3077e853517a87213815d315331397875eb47791b3d8140bfdeaecf5f71f01c4",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.182249721Z"
+}

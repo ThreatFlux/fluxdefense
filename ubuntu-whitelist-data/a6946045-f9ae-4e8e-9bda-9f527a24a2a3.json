@@ -1,0 +1,15 @@
+{
+  "uuid": "a6946045-f9ae-4e8e-9bda-9f527a24a2a3",
+  "path": "/lib/x86_64-linux-gnu/samba/ldb/server_sort.so",
+  "size": 14640,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.127634504Z",
+  "sha256_hash": "47b7462e53d61c88888a8b99a5fedd3cc15ea738e043a5fa678ad821c8a8a1a0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.480723716Z"
+}

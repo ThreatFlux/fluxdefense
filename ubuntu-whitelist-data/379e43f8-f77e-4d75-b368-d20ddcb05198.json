@@ -1,0 +1,17 @@
+{
+  "uuid": "379e43f8-f77e-4d75-b368-d20ddcb05198",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/ug_dict",
+  "size": 2070,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.559658431Z",
+  "sha256_hash": "7c4567ffe6bd8d5224b6b3fd8fab65b1343254636e6228d738ae3a708428e8e7",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.300480643Z"
+}

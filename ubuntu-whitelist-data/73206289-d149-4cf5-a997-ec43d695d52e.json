@@ -1,0 +1,17 @@
+{
+  "uuid": "73206289-d149-4cf5-a997-ec43d695d52e",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/linux/ioctl.ph",
+  "size": 196,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.559590701Z",
+  "sha256_hash": "20ec9a7ddf2e63ae95eb154d9e9496b6d972400d2ce4c238bdf5326e609ba9e4",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.571833993Z"
+}

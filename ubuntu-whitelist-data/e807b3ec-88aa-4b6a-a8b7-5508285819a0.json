@@ -1,0 +1,17 @@
+{
+  "uuid": "e807b3ec-88aa-4b6a-a8b7-5508285819a0",
+  "path": "/sbin/vfscount.bt",
+  "size": 515,
+  "modified": "2024-03-07T22:14:52Z",
+  "created": "2025-05-09T05:08:51.886493608Z",
+  "sha256_hash": "a58f87f84fbf8c49fbaf347e6d9c47bf6655d5717e315f781b7f30ec114e840c",
+  "file_type": {
+    "Other": "bt"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.149324033Z"
+}

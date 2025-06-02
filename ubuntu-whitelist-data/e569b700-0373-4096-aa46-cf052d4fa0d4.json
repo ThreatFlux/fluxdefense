@@ -1,0 +1,15 @@
+{
+  "uuid": "e569b700-0373-4096-aa46-cf052d4fa0d4",
+  "path": "/lib/x86_64-linux-gnu/rsocket/librspreload.so",
+  "size": 30944,
+  "modified": "2024-03-31T08:21:10Z",
+  "created": "2025-05-09T05:56:50.823628187Z",
+  "sha256_hash": "708615822138eab15c719cb451c9ba84bd79a2e2f7267ed62e6d21356d6d739d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.297890117Z"
+}

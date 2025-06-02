@@ -1,0 +1,17 @@
+{
+  "uuid": "6f92fc2e-f409-4e35-8a04-4db9d38bedca",
+  "path": "/opt/google/chrome/chrome_200_percent.pak",
+  "size": 1735280,
+  "modified": "2025-05-26T20:54:34Z",
+  "created": "2025-05-27T21:53:47.340430651Z",
+  "sha256_hash": "22eea8a245197eb7cc973d17e4273bb0e3abc361c0d31daaf70f61c04a73b1e3",
+  "file_type": {
+    "Other": "pak"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:43.979112025Z"
+}

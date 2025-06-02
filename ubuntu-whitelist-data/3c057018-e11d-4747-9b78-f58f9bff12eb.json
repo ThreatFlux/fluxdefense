@@ -1,0 +1,17 @@
+{
+  "uuid": "3c057018-e11d-4747-9b78-f58f9bff12eb",
+  "path": "/lib/modules/6.11.0-25-generic/kernel/crypto/crypto_user.ko.zst",
+  "size": 7439,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.098459849Z",
+  "sha256_hash": "25a9b91a232fb4a84b311805e6f587bc626ee09a82c0a836b674edc2c9a74145",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.632723497Z"
+}

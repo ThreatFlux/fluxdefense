@@ -1,0 +1,17 @@
+{
+  "uuid": "ce077378-eb18-4cc4-8992-8ab91c5caaff",
+  "path": "/lib/firmware/intel/sof-tplg/sof-adl-nau8825.tplg.zst",
+  "size": 2145,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.057490999Z",
+  "sha256_hash": "ed269b6d5a3973ad0846590b194e79d090b6ac2b15897f68a01b839f50678798",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.212533619Z"
+}

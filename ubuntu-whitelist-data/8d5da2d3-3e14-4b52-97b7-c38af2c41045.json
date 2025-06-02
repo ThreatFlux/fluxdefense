@@ -1,0 +1,17 @@
+{
+  "uuid": "8d5da2d3-3e14-4b52-97b7-c38af2c41045",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/include/avx512vnnivlintrin.h",
+  "size": 7404,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.244389832Z",
+  "sha256_hash": "e0658d93fd0cd2b15e9f7d602616651630f318010736081ab7f2cdda2cc080d2",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.919533355Z"
+}

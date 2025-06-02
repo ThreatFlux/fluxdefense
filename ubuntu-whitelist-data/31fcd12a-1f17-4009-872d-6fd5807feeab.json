@@ -1,0 +1,17 @@
+{
+  "uuid": "31fcd12a-1f17-4009-872d-6fd5807feeab",
+  "path": "/lib/sysusers.d/gnome-remote-desktop-sysusers.conf",
+  "size": 153,
+  "modified": "2024-07-11T15:32:56Z",
+  "created": "2025-05-09T05:07:28.308769079Z",
+  "sha256_hash": "92b25fd8619605e06caccc3aafca76d4bbfe19842a6a0bad9fd9260e32e8da81",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.406374507Z"
+}

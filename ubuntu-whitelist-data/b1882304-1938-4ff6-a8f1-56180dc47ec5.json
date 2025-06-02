@@ -1,0 +1,15 @@
+{
+  "uuid": "b1882304-1938-4ff6-a8f1-56180dc47ec5",
+  "path": "/lib/llvm-18/lib/libLLVMExegesisMips.a",
+  "size": 49066,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.878463139Z",
+  "sha256_hash": "adb96aa4d01529a762f91e563f22ee4ce0c01f5c2833ad803b3b808ba6fd76cb",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.215237167Z"
+}

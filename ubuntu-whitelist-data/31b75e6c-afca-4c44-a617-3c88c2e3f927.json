@@ -1,0 +1,15 @@
+{
+  "uuid": "31b75e6c-afca-4c44-a617-3c88c2e3f927",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/config/cc_lxd.py",
+  "size": 13798,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.235037163Z",
+  "sha256_hash": "07db20fbc77bbd6249dc67396b8b7b8894dbd52becd7cccc86afabcea885cdfb",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.857314315Z"
+}

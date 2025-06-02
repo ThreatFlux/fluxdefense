@@ -1,0 +1,15 @@
+{
+  "uuid": "50fe423f-2828-4245-be13-0fc46fc2db00",
+  "path": "/usr/lib/cups/filter/pwgtoraster",
+  "size": 14648,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.358875130Z",
+  "sha256_hash": "748452945deae129e6a8a89a87132bc0b99144a3523e11ba2ebae476a1c07298",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.995262542Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "7678e76d-6c16-4903-8be4-2da9a879891a",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/cppcoreguidelines/ProTypeVarargCheck.h",
+  "size": 1519,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "e95906ee6813609ea86bb180913fd212319fa3313628b33536715eda78712007",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.249351195Z"
+}

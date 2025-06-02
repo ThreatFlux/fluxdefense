@@ -1,0 +1,17 @@
+{
+  "uuid": "465bc3b2-e199-4e72-b1d6-416b37d5b2a4",
+  "path": "/lib/firmware/mediatek/mt7981_wo.bin.zst",
+  "size": 43837,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.684539707Z",
+  "sha256_hash": "1cca78656a7bd3c9c04c856de10ee017e0696f57b0310264e04cb88e66975cc1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.090723737Z"
+}

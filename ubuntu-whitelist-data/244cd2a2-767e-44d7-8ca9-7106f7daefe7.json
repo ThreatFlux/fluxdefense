@@ -1,0 +1,15 @@
+{
+  "uuid": "244cd2a2-767e-44d7-8ca9-7106f7daefe7",
+  "path": "/usr/bin/mountpoint",
+  "size": 18816,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:20.185893030Z",
+  "sha256_hash": "e44e1b94c144cfbe415be0f2daf5918867012f9b00a0bc1d03f9c7a1e13ebfc0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.188330824Z"
+}

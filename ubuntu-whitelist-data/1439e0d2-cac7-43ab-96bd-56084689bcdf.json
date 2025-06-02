@@ -1,0 +1,17 @@
+{
+  "uuid": "1439e0d2-cac7-43ab-96bd-56084689bcdf",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/CORE/time64.h",
+  "size": 900,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.508591480Z",
+  "sha256_hash": "fd1495137b54dcd56a1a5ffc31a67f3c430919a61200f0b0a684c7f3516e074b",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.548395005Z"
+}

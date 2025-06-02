@@ -1,0 +1,17 @@
+{
+  "uuid": "157f6b95-a9c7-4df1-ae12-599ec326dbf5",
+  "path": "/lib/tmpfiles.d/polkitd.conf",
+  "size": 130,
+  "modified": "2024-03-16T19:22:27Z",
+  "created": "2025-05-09T05:07:28.308769079Z",
+  "sha256_hash": "1d6ae922326cb6dd8637a2cb3ae6fc74f394ffa91d68939396dc298044672374",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.759181174Z"
+}

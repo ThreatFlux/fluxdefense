@@ -1,0 +1,15 @@
+{
+  "uuid": "d21eee3a-9ac8-46d8-8d37-ba694b366a6b",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstdvdread.so",
+  "size": 51568,
+  "modified": "2024-03-31T08:55:07Z",
+  "created": "2025-05-09T05:09:27.687947194Z",
+  "sha256_hash": "d761c1079b8c2fea43bf6c3f61b06da63c7f003f248863d32031a42c4dd12a41",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.080767913Z"
+}

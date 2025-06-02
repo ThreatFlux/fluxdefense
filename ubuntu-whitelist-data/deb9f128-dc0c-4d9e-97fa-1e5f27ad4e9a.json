@@ -1,0 +1,15 @@
+{
+  "uuid": "deb9f128-dc0c-4d9e-97fa-1e5f27ad4e9a",
+  "path": "/usr/lib/x86_64-linux-gnu/espeak-ng-data/voices/!v/benjamin",
+  "size": 201,
+  "modified": "2022-04-02T20:26:29Z",
+  "created": "2025-05-09T05:07:35.584658050Z",
+  "sha256_hash": "3fa10b0d865fc751fd9c8ed1dabac4bb9b011ea2b95064d4d25a8c719f7785d8",
+  "file_type": "Executable",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.942578866Z"
+}

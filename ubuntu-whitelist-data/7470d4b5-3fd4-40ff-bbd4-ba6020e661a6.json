@@ -1,0 +1,17 @@
+{
+  "uuid": "7470d4b5-3fd4-40ff-bbd4-ba6020e661a6",
+  "path": "/lib/firmware/i915/xe2lpd_dmc.bin.zst",
+  "size": 13830,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.545541632Z",
+  "sha256_hash": "7931524c467e99815b7c882dd9b266b34bad30c9a6e3d583327bc88c06c009f0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.703700624Z"
+}

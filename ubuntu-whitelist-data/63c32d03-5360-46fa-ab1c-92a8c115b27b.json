@@ -1,0 +1,15 @@
+{
+  "uuid": "63c32d03-5360-46fa-ab1c-92a8c115b27b",
+  "path": "/lib/google-cloud-sdk/platform/bundledpythonunix/lib/libpython3.12.a",
+  "size": 16092192,
+  "modified": "2025-05-23T11:56:37Z",
+  "created": "2025-05-29T15:06:06.989927572Z",
+  "sha256_hash": "af825a61ba941ebd0a9fc1e79a23756a5207eb53c1b30c44fe8391f988789d66",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.187187863Z"
+}

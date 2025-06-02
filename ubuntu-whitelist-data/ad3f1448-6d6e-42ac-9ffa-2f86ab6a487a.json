@@ -1,0 +1,15 @@
+{
+  "uuid": "ad3f1448-6d6e-42ac-9ffa-2f86ab6a487a",
+  "path": "/usr/bin/tapestat",
+  "size": 27072,
+  "modified": "2024-01-09T20:31:44Z",
+  "created": "2025-05-09T05:07:20.681885461Z",
+  "sha256_hash": "accd195d13b01f73731c472ccf0b49b2404adb9b3e7c75c0e496493a91412e64",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:05.792936409Z"
+}

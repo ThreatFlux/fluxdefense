@@ -1,0 +1,17 @@
+{
+  "uuid": "a6953b9c-dc87-461b-889d-7f62745499ee",
+  "path": "/usr/lib/x86_64-linux-gnu/libwps-0.4.so.4.0.14",
+  "size": 1991376,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:35.023666610Z",
+  "sha256_hash": "246e78b1a219d0b68ddd6188a29c7927f6054c4b549778207b59414c99789c23",
+  "file_type": {
+    "Other": "14"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.953558725Z"
+}

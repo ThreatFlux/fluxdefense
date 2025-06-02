@@ -1,0 +1,17 @@
+{
+  "uuid": "a5f52e78-5b44-4e87-a06b-db8c9970ddff",
+  "path": "/lib/firmware/nvidia/tegra124/vic03_ucode.bin.zst",
+  "size": 7039,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.941536147Z",
+  "sha256_hash": "2256b1b9cd42683b0767d947b3b8e2713418e65332b12f28e19246c8389a95f5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.436702044Z"
+}

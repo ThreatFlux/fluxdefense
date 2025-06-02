@@ -1,0 +1,17 @@
+{
+  "uuid": "9e5e721f-687b-407e-9534-47f9f8f01d09",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/pangofc.pc",
+  "size": 168,
+  "modified": "2024-03-31T06:43:55Z",
+  "created": "2025-05-29T11:16:07.373041322Z",
+  "sha256_hash": "5d5e5aa9b45b614f6e6107342c866cda978ff3e5a30bf4df953fb166bc50969c",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.100277085Z"
+}

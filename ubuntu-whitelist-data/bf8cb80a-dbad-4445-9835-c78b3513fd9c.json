@@ -1,0 +1,15 @@
+{
+  "uuid": "bf8cb80a-dbad-4445-9835-c78b3513fd9c",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM869.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.279663431Z",
+  "sha256_hash": "a57d7f428b655ce0ab7284813a5e81d623edc74dbf668deae5732f2574ecebbc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.993707399Z"
+}

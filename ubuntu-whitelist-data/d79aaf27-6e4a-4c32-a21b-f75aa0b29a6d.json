@@ -1,0 +1,15 @@
+{
+  "uuid": "d79aaf27-6e4a-4c32-a21b-f75aa0b29a6d",
+  "path": "/lib/llvm-18/lib/libLLVMNVPTXInfo.a",
+  "size": 7106,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.939462336Z",
+  "sha256_hash": "db8dcb6f09743d177fdc34fd3d72e9a65e41c4eac890c62d925b6722fa9c32dc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.394025833Z"
+}

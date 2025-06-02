@@ -1,0 +1,17 @@
+{
+  "uuid": "863edae3-b6e2-487d-822b-6b49fe3d4ea4",
+  "path": "/lib/x86_64-linux-gnu/libaudit.so.1.0.0",
+  "size": 133200,
+  "modified": "2024-10-02T12:40:50Z",
+  "created": "2025-05-09T05:07:29.181755757Z",
+  "sha256_hash": "8a4ca5eda7607f2e65da7cb32a780cc0dcfbf202037482ef4261a3c1ec339083",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.889262355Z"
+}

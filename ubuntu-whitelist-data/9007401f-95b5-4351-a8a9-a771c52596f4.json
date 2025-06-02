@@ -1,0 +1,17 @@
+{
+  "uuid": "9007401f-95b5-4351-a8a9-a771c52596f4",
+  "path": "/lib/firmware/intel/sof-tplg/sof-adl-max98357a-rt5682-waves.tplg.zst",
+  "size": 2454,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.056491014Z",
+  "sha256_hash": "1ef415896b89ed8c7750e1aa968e1d96629a26840c6510e338d22b18b55308b5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.204252410Z"
+}

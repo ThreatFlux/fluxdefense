@@ -1,0 +1,17 @@
+{
+  "uuid": "dac9fa67-37c7-4875-b0f1-353bccc8656d",
+  "path": "/lib/x86_64-linux-gnu/fpc/3.2.2/msg/erroriu.msg",
+  "size": 188903,
+  "modified": "2024-01-05T07:40:08Z",
+  "created": "2025-05-29T11:15:46.762324132Z",
+  "sha256_hash": "66744a38d51174fbe8845d714ea7eaab416bfd3d0d48cff27a1e9cfe17782392",
+  "file_type": {
+    "Other": "msg"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.786681852Z"
+}

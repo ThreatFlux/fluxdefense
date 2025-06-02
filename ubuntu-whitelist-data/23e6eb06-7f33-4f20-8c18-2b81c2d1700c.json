@@ -1,0 +1,17 @@
+{
+  "uuid": "23e6eb06-7f33-4f20-8c18-2b81c2d1700c",
+  "path": "/lib/x86_64-linux-gnu/sasl2/libsasldb.so.2.0.25",
+  "size": 34880,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T05:07:37.178633726Z",
+  "sha256_hash": "3c79d50db47596682ff49e6f5d29059e9765a29c6559648fae65d01602fac9e2",
+  "file_type": {
+    "Other": "25"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.867142194Z"
+}

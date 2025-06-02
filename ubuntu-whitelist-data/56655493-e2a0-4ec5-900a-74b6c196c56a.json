@@ -1,0 +1,17 @@
+{
+  "uuid": "56655493-e2a0-4ec5-900a-74b6c196c56a",
+  "path": "/lib/google-cloud-sdk/.install/gsutil-nix.snapshot.json",
+  "size": 1094,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.312922087Z",
+  "sha256_hash": "dab7980ebd2391d897b2e8dcabe43dcd361fd69a423077b8e38f096bce833d5f",
+  "file_type": {
+    "Other": "json"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.965345369Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "5010794e-d92d-4641-ad56-ae8b02a83d6b",
+  "path": "/lib/x86_64-linux-gnu/libcanberra-0.30/libcanberra-pulse.so",
+  "size": 30712,
+  "modified": "2024-04-07T07:16:08Z",
+  "created": "2025-05-09T05:07:35.824654388Z",
+  "sha256_hash": "3cfe1d8d57c72156b7bfc37165276b848cbcc279da5a5678f23ad511504ccba7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.006105768Z"
+}

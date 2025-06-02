@@ -1,0 +1,17 @@
+{
+  "uuid": "3abf8ce4-18ce-43f4-a178-6463f9cdaa07",
+  "path": "/lib/x86_64-linux-gnu/libmbedcrypto.so.2.28.8",
+  "size": 489648,
+  "modified": "2024-03-31T18:02:32Z",
+  "created": "2025-05-09T05:09:22.675023705Z",
+  "sha256_hash": "6a8310e17b6825987ba3b95fbb57b1c23f8098d5887c62ed813bc723e2b1d55b",
+  "file_type": {
+    "Other": "8"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.889837093Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "4c6c1cdc-9290-4867-ae24-8e1d73c3e2ff",
+  "path": "/usr/sbin/select-default-wordlist",
+  "size": 3284,
+  "modified": "2023-09-07T08:57:00Z",
+  "created": "2025-05-09T05:07:38.414614865Z",
+  "sha256_hash": "354518f649fb84114458ab91204dfe41f579279752ad694703476162231ac7e5",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.719689639Z"
+}

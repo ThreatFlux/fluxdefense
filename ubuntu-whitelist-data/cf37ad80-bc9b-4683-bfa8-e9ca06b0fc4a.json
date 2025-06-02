@@ -1,0 +1,15 @@
+{
+  "uuid": "cf37ad80-bc9b-4683-bfa8-e9ca06b0fc4a",
+  "path": "/usr/bin/systemd-hwdb",
+  "size": 158456,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:14.040786092Z",
+  "sha256_hash": "168045e43dbc6de0d1aab94075e8b064b473939f69dac973de4dc7bc81426c21",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.125039957Z"
+}

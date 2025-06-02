@@ -1,0 +1,17 @@
+{
+  "uuid": "df5ff71c-b9cd-483e-b417-6e5b94b6ab1d",
+  "path": "/lib/firmware/nvidia/tu10x/typec/ccg_boot.cyacd.zst",
+  "size": 33381,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.960535884Z",
+  "sha256_hash": "4ae50fc8501639a7730be975d452c413ec28f37bfea1a69dec1c5a587befa22e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.441168576Z"
+}

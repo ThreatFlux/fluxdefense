@@ -1,0 +1,17 @@
+{
+  "uuid": "0fd5a0eb-73f3-41cc-b8c1-97e409b4e0d2",
+  "path": "/lib/firmware/nxp/uartuart9098_bt_v1.bin.zst",
+  "size": 130853,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.962535856Z",
+  "sha256_hash": "106f0c34aacad5b52857188e603cf34c08db5586281026800a37334d88911ca8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.679467707Z"
+}

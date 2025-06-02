@@ -1,0 +1,17 @@
+{
+  "uuid": "3695d3f9-463d-4b7a-abcb-a25856231080",
+  "path": "/lib/lsb/init-functions.d/40-systemd",
+  "size": 3251,
+  "modified": "2025-02-18T17:24:37Z",
+  "created": "2025-05-09T05:24:13.508779291Z",
+  "sha256_hash": "deab4c161571359f3e74deab9f555c3f0774d2fd7e49258ef26891053cfbe5c2",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.772717720Z"
+}

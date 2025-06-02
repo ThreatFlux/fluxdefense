@@ -1,0 +1,17 @@
+{
+  "uuid": "be7afb5c-9c66-4835-8d08-e9db513493f3",
+  "path": "/lib/systemd/user/org.gnome.SettingsDaemon.ScreensaverProxy.target",
+  "size": 370,
+  "modified": "2024-04-18T10:59:35Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "94403a94f1c3790eb7acb6c1f8e9c41fdb436f2ecef0c368295ee1b8dec199b3",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.141045512Z"
+}

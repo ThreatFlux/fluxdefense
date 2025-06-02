@@ -1,0 +1,17 @@
+{
+  "uuid": "a6a42879-15a9-4c44-aaa9-0c9b00f97d98",
+  "path": "/lib/firmware/cis/tamarack.cis.zst",
+  "size": 98,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.510542117Z",
+  "sha256_hash": "b559d164e8f095b964de56ca9c5aa6b466458a0d4527497f96c00058b1020342",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.343495623Z"
+}

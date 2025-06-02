@@ -1,0 +1,17 @@
+{
+  "uuid": "8ed3598d-6e98-4d91-8263-b6ea29165317",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-jsl-es8336-ssp2.tplg.zst",
+  "size": 1107,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.060490953Z",
+  "sha256_hash": "83751f151d3df8485a4e376ec300fe949f6f9c51b78ac9f2bc28743661832cbe",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.855437119Z"
+}

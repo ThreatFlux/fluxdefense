@@ -1,0 +1,17 @@
+{
+  "uuid": "42bad447-c320-4ffa-a29a-8aa744fd76fc",
+  "path": "/usr/lib/firmware/amdgpu/topaz_sdma1.bin.zst",
+  "size": 2637,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.419543377Z",
+  "sha256_hash": "319f52fbeb34dcb79e6832d80c44ff6f5ee819321f59226f3438dab0b084f5df",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.786413388Z"
+}

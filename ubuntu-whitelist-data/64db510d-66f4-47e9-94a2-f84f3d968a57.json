@@ -1,0 +1,17 @@
+{
+  "uuid": "64db510d-66f4-47e9-94a2-f84f3d968a57",
+  "path": "/usr/lib/firmware/amdgpu/fiji_sdma1.bin.zst",
+  "size": 3917,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.393543737Z",
+  "sha256_hash": "5e324bedb3110ae45d57f0e2b8a0471191bfcce147216452965db489ce74489c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.820944744Z"
+}

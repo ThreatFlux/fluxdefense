@@ -1,0 +1,17 @@
+{
+  "uuid": "8fe072b8-9e1c-424a-929d-e3dd085afdf0",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/gbm.pc",
+  "size": 248,
+  "modified": "2024-12-16T10:17:11Z",
+  "created": "2025-05-29T11:16:23.010826735Z",
+  "sha256_hash": "4a510f2077cc39cad2a6bd9a374e60ae02af52e2b36ab13f0633eb838eb0547e",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.064513698Z"
+}

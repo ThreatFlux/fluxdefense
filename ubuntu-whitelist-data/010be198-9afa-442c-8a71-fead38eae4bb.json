@@ -1,0 +1,17 @@
+{
+  "uuid": "010be198-9afa-442c-8a71-fead38eae4bb",
+  "path": "/lib/firmware/ctspeq.bin.zst",
+  "size": 3399,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.511542103Z",
+  "sha256_hash": "ebcfb67e41b17c0425c15c7d4ac4fb3c128ce77f8e0665499d1dd36065391fee",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:01.725150266Z"
+}

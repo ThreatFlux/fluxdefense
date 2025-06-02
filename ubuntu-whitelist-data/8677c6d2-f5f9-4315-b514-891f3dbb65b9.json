@@ -1,0 +1,17 @@
+{
+  "uuid": "8677c6d2-f5f9-4315-b514-891f3dbb65b9",
+  "path": "/lib/systemd/user/gnome-session-monitor.service",
+  "size": 449,
+  "modified": "2024-04-15T15:49:55Z",
+  "created": "2025-05-09T05:07:28.305769124Z",
+  "sha256_hash": "a52e625009ade4c9ebc42b2596801d1c6e9314a0b6c6666697608eee9687d485",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.147669850Z"
+}

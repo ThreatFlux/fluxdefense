@@ -1,0 +1,15 @@
+{
+  "uuid": "591dcff0-cd3b-4386-8620-71391f713c62",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/IBM904.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.652657012Z",
+  "sha256_hash": "de1553a7d146804ca2ebdf41277b36b03d8a37ffac758cf3161adb6a99040333",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.478112402Z"
+}

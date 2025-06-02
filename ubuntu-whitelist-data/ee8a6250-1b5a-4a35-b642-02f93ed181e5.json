@@ -1,0 +1,15 @@
+{
+  "uuid": "ee8a6250-1b5a-4a35-b642-02f93ed181e5",
+  "path": "/lib/llvm-18/lib/libclangTidyLinuxKernelModule.a",
+  "size": 67100,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.870529090Z",
+  "sha256_hash": "d3f051432bf0f5e346545cf6830fe8b87c78ea896f32791dc08e70b8c88d9e4b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.901378855Z"
+}

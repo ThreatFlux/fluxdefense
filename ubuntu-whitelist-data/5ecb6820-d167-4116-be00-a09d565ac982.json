@@ -1,0 +1,17 @@
+{
+  "uuid": "5ecb6820-d167-4116-be00-a09d565ac982",
+  "path": "/lib/google-cloud-sdk/platform/anthoscli_licenses/lib.zip",
+  "size": 3444774,
+  "modified": "2025-05-23T11:49:23Z",
+  "created": "2025-05-29T15:05:46.626275630Z",
+  "sha256_hash": "a4b7b8e921b5ad68b94de34e514a048671179e9456cec39cc1fa0e5c0930c90d",
+  "file_type": {
+    "Other": "zip"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.738196403Z"
+}

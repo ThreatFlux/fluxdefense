@@ -1,0 +1,15 @@
+{
+  "uuid": "231a7dfe-a82b-414d-9ec6-5a0b07706b10",
+  "path": "/usr/lib/udev/udev-add-printer",
+  "size": 9112,
+  "modified": "2024-04-08T14:50:48Z",
+  "created": "2025-05-09T05:07:28.373768086Z",
+  "sha256_hash": "cfde85f7fa0d2095d89a6dbbf1b1bdb45ce138d5826643af50c76f6be8e03ed6",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.225639864Z"
+}

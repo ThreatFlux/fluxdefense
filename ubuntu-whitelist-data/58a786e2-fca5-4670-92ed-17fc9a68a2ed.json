@@ -1,0 +1,15 @@
+{
+  "uuid": "58a786e2-fca5-4670-92ed-17fc9a68a2ed",
+  "path": "/bin/dh_autoreconf",
+  "size": 6614,
+  "modified": "2021-02-04T11:26:25Z",
+  "created": "2025-05-29T11:15:44.035361548Z",
+  "sha256_hash": "ed2e228eed6c872459b53bdd22c47660d421dbe69234eb808ec61abb79fff869",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.868218400Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "ae5a260e-31c4-4dcb-aedd-9ddad1de82b6",
+  "path": "/usr/lib/systemd/user/org.gnome.SettingsDaemon.Color.target",
+  "size": 352,
+  "modified": "2024-04-18T10:59:35Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "1710af2c5f0e55d5eb872a5ed70292d6fcc5e0c309cfce71762810d46dcb5516",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.493517645Z"
+}

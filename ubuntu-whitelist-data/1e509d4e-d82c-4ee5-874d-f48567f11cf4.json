@@ -1,0 +1,15 @@
+{
+  "uuid": "1e509d4e-d82c-4ee5-874d-f48567f11cf4",
+  "path": "/usr/libexec/gcc/x86_64-linux-gnu/13/liblto_plugin.so",
+  "size": 68296,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.643381238Z",
+  "sha256_hash": "9231a5a25f048cc39678861a58d7ba855decf4cafab000b769395127f3db8b0a",
+  "file_type": "Library",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.957915903Z"
+}

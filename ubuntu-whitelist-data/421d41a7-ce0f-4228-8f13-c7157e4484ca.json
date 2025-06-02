@@ -1,0 +1,15 @@
+{
+  "uuid": "421d41a7-ce0f-4228-8f13-c7157e4484ca",
+  "path": "/usr/sbin/iucode_tool",
+  "size": 55640,
+  "modified": "2024-04-08T16:00:19Z",
+  "created": "2025-05-09T05:08:52.287487488Z",
+  "sha256_hash": "3d7f544480811434a70e4b3e66711e70e428ed7dc515aa9786e14e31fa7904e4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.493760707Z"
+}

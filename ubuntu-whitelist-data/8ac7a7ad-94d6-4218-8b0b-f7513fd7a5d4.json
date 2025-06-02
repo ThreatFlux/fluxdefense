@@ -1,0 +1,15 @@
+{
+  "uuid": "8ac7a7ad-94d6-4218-8b0b-f7513fd7a5d4",
+  "path": "/sbin/service",
+  "size": 9104,
+  "modified": "2023-12-06T07:50:15Z",
+  "created": "2025-05-09T05:07:38.414614865Z",
+  "sha256_hash": "4fee72f9c3405585048dbe085313ea5541a8ca03a924abefa1d762859c713163",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.983216205Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "fb05fa7e-8355-4d39-84b1-7ada2802ff1f",
+  "path": "/lib/x86_64-linux-gnu/samba/libgpo-samba4.so.0",
+  "size": 80960,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.058635557Z",
+  "sha256_hash": "1e59c5a1a5b67a045bb4956a57ce809a55508f75f852dd54e7b81df7b7445cae",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.496373919Z"
+}

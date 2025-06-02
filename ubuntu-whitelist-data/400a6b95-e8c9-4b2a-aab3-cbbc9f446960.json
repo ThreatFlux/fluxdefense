@@ -1,0 +1,17 @@
+{
+  "uuid": "400a6b95-e8c9-4b2a-aab3-cbbc9f446960",
+  "path": "/usr/lib/aspell/en_phonet.dat",
+  "size": 7273,
+  "modified": "2020-12-08T01:18:36Z",
+  "created": "2025-05-09T05:07:21.014880380Z",
+  "sha256_hash": "c3256e7ade0fc9cc36b32316ecc8facb61b1257eee7dd6b02d1adbca602b26ab",
+  "file_type": {
+    "Other": "dat"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.304693345Z"
+}

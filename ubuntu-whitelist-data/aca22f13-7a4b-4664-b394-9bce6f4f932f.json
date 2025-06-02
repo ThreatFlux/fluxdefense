@@ -1,0 +1,17 @@
+{
+  "uuid": "aca22f13-7a4b-4664-b394-9bce6f4f932f",
+  "path": "/lib/libreoffice/program/soffice.bin",
+  "size": 14488,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:20.114231153Z",
+  "sha256_hash": "85607014cb2bca082d9bbc11ce5f8d3c01bcde895973b547887ea938524fd3f6",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:49.446749964Z"
+}

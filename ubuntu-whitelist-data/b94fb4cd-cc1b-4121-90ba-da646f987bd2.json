@@ -1,0 +1,17 @@
+{
+  "uuid": "b94fb4cd-cc1b-4121-90ba-da646f987bd2",
+  "path": "/usr/lib/x86_64-linux-gnu/libsss_nss_idmap.so.0.6.0",
+  "size": 52272,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:32.206709597Z",
+  "sha256_hash": "e8fdf36bef758b3e693ddc9f770af45fb4e5cd598765792e9ac3c736c3de5c43",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.058599842Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "721a7afe-a283-4aee-a4a1-80a4674912b4",
+  "path": "/sbin/netqtop-bpfcc",
+  "size": 5725,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "d7a1620e8dce81da0e504f315a8d4c85cef0ee436e4383ad3bbbd6e8949d7274",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.747051064Z"
+}

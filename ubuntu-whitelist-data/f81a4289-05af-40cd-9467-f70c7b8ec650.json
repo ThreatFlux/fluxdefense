@@ -1,0 +1,17 @@
+{
+  "uuid": "f81a4289-05af-40cd-9467-f70c7b8ec650",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/g-excact.adb",
+  "size": 6489,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.068344901Z",
+  "sha256_hash": "ebd0c29f9fcfdbb4dabb768de5991610789c312de39e8fa1fa1bb0cceb3e06c2",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.051984997Z"
+}

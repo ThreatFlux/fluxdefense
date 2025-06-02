@@ -1,0 +1,15 @@
+{
+  "uuid": "5d02abbb-755c-4a86-9bba-bf3a14eecfff",
+  "path": "/usr/bin/localectl",
+  "size": 27080,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.500779189Z",
+  "sha256_hash": "31ea7238d8cf398e838a3e8bbc4f5acca6e0fadb6464b005c36fc281657b8a69",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.910731958Z"
+}

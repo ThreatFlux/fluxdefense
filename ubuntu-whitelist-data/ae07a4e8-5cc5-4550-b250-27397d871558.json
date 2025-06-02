@@ -1,0 +1,17 @@
+{
+  "uuid": "ae07a4e8-5cc5-4550-b250-27397d871558",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/include/clflushoptintrin.h",
+  "size": 1664,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.244389832Z",
+  "sha256_hash": "db9d96d0c5aff0f2c2349259925857342bcc040ebeef9ae05763bdd30a41fb10",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.911904192Z"
+}

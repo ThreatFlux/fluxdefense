@@ -1,0 +1,17 @@
+{
+  "uuid": "92ac9ac7-ebac-491a-ac8c-79160b802fb8",
+  "path": "/lib/llvm-18/include/clang/Parse/ParseAST.h",
+  "size": 1880,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.545533371Z",
+  "sha256_hash": "aa1a4fe170c67bf7edfdf5ccad391d2050780fef9d5b75fd19380d6ae4b6feac",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.182451518Z"
+}

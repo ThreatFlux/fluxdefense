@@ -1,0 +1,17 @@
+{
+  "uuid": "58fd935a-2d2b-4f62-9be4-5ce3c9ae56a6",
+  "path": "/lib/x86_64-linux-gnu/libbd_crypto.so.3.0.0",
+  "size": 59384,
+  "modified": "2024-03-26T13:32:04Z",
+  "created": "2025-05-09T05:07:29.183755726Z",
+  "sha256_hash": "b19733996e6debafd1e8f0dc0f1daf51c2a78283323f812df74e2354c6885680",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.674509767Z"
+}

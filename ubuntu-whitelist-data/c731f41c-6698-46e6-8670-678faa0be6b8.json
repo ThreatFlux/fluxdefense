@@ -1,0 +1,17 @@
+{
+  "uuid": "c731f41c-6698-46e6-8670-678faa0be6b8",
+  "path": "/usr/lib/firmware/brcm/bcm43xx-0.fw.zst",
+  "size": 27425,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.480542532Z",
+  "sha256_hash": "d0ecfe5c26cd55c2c1f56c3b25129ca95b9081d7cca1f042209f4ce6b4f2f2ae",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.681745062Z"
+}

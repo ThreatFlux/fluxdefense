@@ -1,0 +1,15 @@
+{
+  "uuid": "64693770-f645-4697-9fd1-496160b629bf",
+  "path": "/bin/fuser",
+  "size": 40288,
+  "modified": "2024-03-31T17:02:29Z",
+  "created": "2025-05-09T05:07:19.229907617Z",
+  "sha256_hash": "88aeee250ef0622fb638acd4694a4ffd96ec04d5e25dd2ca880739c4719197f5",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.897713620Z"
+}

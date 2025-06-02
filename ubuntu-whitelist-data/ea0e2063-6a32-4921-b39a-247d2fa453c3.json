@@ -1,0 +1,17 @@
+{
+  "uuid": "ea0e2063-6a32-4921-b39a-247d2fa453c3",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-expint.ali",
+  "size": 2619,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.137343953Z",
+  "sha256_hash": "51638f73b190eb0d361e45ee040b0dedf25928482c665a9d29c0d3ae04287dd9",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.866126213Z"
+}

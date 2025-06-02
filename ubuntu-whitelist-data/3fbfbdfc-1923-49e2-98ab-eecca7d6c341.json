@@ -1,0 +1,15 @@
+{
+  "uuid": "3fbfbdfc-1923-49e2-98ab-eecca7d6c341",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/IBM855.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.650657043Z",
+  "sha256_hash": "613f0b824eada442eb0b7dc423533cdf70f6dac896efae706a7a3cb50e122730",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.561287509Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "40d66b24-b7e8-4195-8212-d2828e157ad0",
+  "path": "/usr/lib/python3/dist-packages/debian/_version.py",
+  "size": 63,
+  "modified": "2023-02-01T09:32:24Z",
+  "created": "2025-05-09T05:07:26.816791845Z",
+  "sha256_hash": "c78271d70487aae4cdc0ca46859ce184cc77c63f80cac09ac3761a8148175058",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.900480942Z"
+}

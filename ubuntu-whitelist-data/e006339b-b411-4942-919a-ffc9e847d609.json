@@ -1,0 +1,15 @@
+{
+  "uuid": "e006339b-b411-4942-919a-ffc9e847d609",
+  "path": "/lib/xorg/modules/libvgahw.so",
+  "size": 40264,
+  "modified": "2025-03-04T04:58:03Z",
+  "created": "2025-05-09T05:24:13.316776837Z",
+  "sha256_hash": "4e18652a6af5e718d74c2689f73a1508f12a0559f80d5b11e21190150a8a2bd3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.664820832Z"
+}

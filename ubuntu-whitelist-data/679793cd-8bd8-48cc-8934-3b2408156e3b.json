@@ -1,0 +1,17 @@
+{
+  "uuid": "679793cd-8bd8-48cc-8934-3b2408156e3b",
+  "path": "/usr/lib/x86_64-linux-gnu/librte_ethdev.so.24.0",
+  "size": 405880,
+  "modified": "2024-12-18T18:31:38Z",
+  "created": "2025-05-26T20:18:26.204035782Z",
+  "sha256_hash": "8b1ba052b1a50b0e9cf3af49098a4d35de538ab5b6f39b9d3e104c9a66c12c5f",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.840137302Z"
+}

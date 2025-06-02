@@ -1,0 +1,17 @@
+{
+  "uuid": "d2a0979b-7050-4d36-9cd7-632bb41cf08e",
+  "path": "/lib/firmware/cxgb4/t5fw-1.14.4.0.bin.zst",
+  "size": 358957,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.513542075Z",
+  "sha256_hash": "ca9cdb2040fc85337416ffc6e783961e3061a5ca623d617ea441e672f121643a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.639552555Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a88af88f-6f8b-4e88-9cab-6f9ed4379684",
+  "path": "/usr/lib/systemd/system/e2scrub_fail@.service",
+  "size": 245,
+  "modified": "2024-04-28T23:44:46Z",
+  "created": "2025-05-09T05:07:28.299769216Z",
+  "sha256_hash": "2d11a0ceea342723aefe89e0dce95b66c2a6a6936d2da95dde51934f15d0ed0a",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.478749989Z"
+}

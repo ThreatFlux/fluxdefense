@@ -1,0 +1,15 @@
+{
+  "uuid": "66e73592-1cca-47ee-b778-f8c7ed25d917",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/net/udev.py",
+  "size": 1419,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.240037230Z",
+  "sha256_hash": "7741f115898c0d6eecddbb291dae89c827e8ed39f9ddd83d10a659c25e2ffb78",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.820090342Z"
+}

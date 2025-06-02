@@ -1,0 +1,15 @@
+{
+  "uuid": "9f0e01da-7d3b-4b90-9140-ec56031df157",
+  "path": "/bin/autoupdate",
+  "size": 34017,
+  "modified": "2023-01-14T17:42:30Z",
+  "created": "2025-05-28T13:47:44.298508936Z",
+  "sha256_hash": "ba9fe21e52f5d192312245fb72a3e9bd216bdf3db49c902b7a3bd5b58a179ecb",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:18.980807017Z"
+}

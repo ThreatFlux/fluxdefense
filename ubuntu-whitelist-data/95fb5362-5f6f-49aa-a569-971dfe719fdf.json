@@ -1,0 +1,15 @@
+{
+  "uuid": "95fb5362-5f6f-49aa-a569-971dfe719fdf",
+  "path": "/lib/x86_64-linux-gnu/ao/plugins-4/libsndio.so",
+  "size": 14664,
+  "modified": "2024-04-08T16:01:21Z",
+  "created": "2025-05-09T05:07:35.182664184Z",
+  "sha256_hash": "9be72f753a44c6064c79f61a23333885d8810d018c4af2215dd5251d3ca3b5ab",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.578139959Z"
+}

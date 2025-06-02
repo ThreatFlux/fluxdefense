@@ -1,0 +1,15 @@
+{
+  "uuid": "ce8bb011-39a3-40aa-bb66-100330520b41",
+  "path": "/usr/lib/llvm-18/lib/libLLVMFrontendOpenACC.a",
+  "size": 31566,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.879463126Z",
+  "sha256_hash": "fc47aa75615bc1a6e33a58b4774a3a837d3c0b10ae7833cca141db0f5d7661aa",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:33.163560829Z"
+}

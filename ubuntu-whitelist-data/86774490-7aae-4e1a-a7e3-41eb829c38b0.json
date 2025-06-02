@@ -1,0 +1,15 @@
+{
+  "uuid": "86774490-7aae-4e1a-a7e3-41eb829c38b0",
+  "path": "/lib/x86_64-linux-gnu/evince/4/backends/libdvidocument.so",
+  "size": 109792,
+  "modified": "2024-10-15T07:35:01Z",
+  "created": "2025-05-09T05:07:35.586658019Z",
+  "sha256_hash": "6bad905533e835f044ce1845c852bec6f8a0a8eb501539f272a02187105fdcee",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.708371423Z"
+}

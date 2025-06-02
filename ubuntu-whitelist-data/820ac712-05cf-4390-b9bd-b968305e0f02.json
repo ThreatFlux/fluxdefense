@@ -1,0 +1,15 @@
+{
+  "uuid": "820ac712-05cf-4390-b9bd-b968305e0f02",
+  "path": "/lib/google-cloud-sdk/lib/third_party/packaging/_manylinux.py",
+  "size": 9526,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.111942489Z",
+  "sha256_hash": "46aea9a570311fc5c5b4d7fab42f81fb548abaf08e0cf06f702a12ba532d6ed9",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.981868231Z"
+}

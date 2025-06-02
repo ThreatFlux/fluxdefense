@@ -1,0 +1,15 @@
+{
+  "uuid": "6d396e1a-774e-43dc-bdcd-605edb8a66a5",
+  "path": "/bin/notify-send",
+  "size": 26864,
+  "modified": "2024-03-31T02:08:51Z",
+  "created": "2025-05-09T05:07:20.235892267Z",
+  "sha256_hash": "74a4ae5321e354b6dec6e56c5d2b4b66db5591a266491f687fef437dd125daa1",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.503033309Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "6a3bff9a-b2c8-4bc0-84f9-0b168f73a916",
+  "path": "/lib/llvm-18/include/clang-tidy/utils/RenamerClangTidyCheck.h",
+  "size": 6210,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.563533133Z",
+  "sha256_hash": "8b704625846b4a269a5243f7a8198286b8308b19b61ac5d9efa8694a8139ebdc",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.914171146Z"
+}

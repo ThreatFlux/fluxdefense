@@ -1,0 +1,17 @@
+{
+  "uuid": "600e662a-8dee-46ab-b6ee-6b20a2d318d7",
+  "path": "/usr/lib/grub/x86_64-efi/macbless.mod",
+  "size": 4968,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.814708369Z",
+  "sha256_hash": "8cab313d567c8ff89bbc38ee28a716023ee2dda7b7b653d0cfd1fb0fc15b60d1",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.477737896Z"
+}

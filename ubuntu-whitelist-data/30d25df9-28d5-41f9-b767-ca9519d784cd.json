@@ -1,0 +1,15 @@
+{
+  "uuid": "30d25df9-28d5-41f9-b767-ca9519d784cd",
+  "path": "/usr/lib/systemd/systemd-fsck",
+  "size": 27008,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.517779406Z",
+  "sha256_hash": "71bf3bae8e1eff697c13ed76fa7ac3b95110552b56eb1160b9aac5664fcd8bd4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.441406553Z"
+}

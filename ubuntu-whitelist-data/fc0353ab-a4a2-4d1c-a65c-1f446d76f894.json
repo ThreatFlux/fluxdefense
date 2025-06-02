@@ -1,0 +1,17 @@
+{
+  "uuid": "fc0353ab-a4a2-4d1c-a65c-1f446d76f894",
+  "path": "/lib/firmware/amdgpu/gc_11_0_1_rlc.bin.zst",
+  "size": 50304,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.395543709Z",
+  "sha256_hash": "6e566919d03b697f4829291d88f3d3e4fa2743133fdac73fdc31cb659d0b06ab",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.123457396Z"
+}

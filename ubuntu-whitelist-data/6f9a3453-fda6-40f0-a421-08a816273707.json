@@ -1,0 +1,17 @@
+{
+  "uuid": "6f9a3453-fda6-40f0-a421-08a816273707",
+  "path": "/usr/lib/llvm-18/include/clang/AST/DeclOpenMP.h",
+  "size": 20957,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.517533740Z",
+  "sha256_hash": "71d2adfd1633baf33e3820fb23b1859724972c31965591c14a20aac6a0e21adf",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.375915726Z"
+}

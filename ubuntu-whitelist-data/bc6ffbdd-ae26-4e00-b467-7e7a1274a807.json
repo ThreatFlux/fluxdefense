@@ -1,0 +1,17 @@
+{
+  "uuid": "bc6ffbdd-ae26-4e00-b467-7e7a1274a807",
+  "path": "/lib/udev/rules.d/61-gdm.rules",
+  "size": 4612,
+  "modified": "2024-12-02T22:47:57Z",
+  "created": "2025-05-09T05:07:28.436767125Z",
+  "sha256_hash": "e8c021936ea55061d49387dd11507dbfc042c9bd8985a2b2f985b650fd8f8f4e",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.245766206Z"
+}

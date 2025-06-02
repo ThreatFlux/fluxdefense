@@ -1,0 +1,17 @@
+{
+  "uuid": "81fe4e50-3608-4a08-aa56-ea15dd492300",
+  "path": "/lib/llvm-18/include/clang/Basic/DiagnosticFrontend.h",
+  "size": 933,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.527533608Z",
+  "sha256_hash": "b6e322b713b433865cc6d213934da70d7a39faf146be0c41293c36d43c5fe97a",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.149092728Z"
+}

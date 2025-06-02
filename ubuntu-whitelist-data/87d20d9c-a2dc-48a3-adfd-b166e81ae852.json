@@ -1,0 +1,17 @@
+{
+  "uuid": "87d20d9c-a2dc-48a3-adfd-b166e81ae852",
+  "path": "/lib/llvm-18/include/clang/Basic/DiagnosticASTKinds.inc",
+  "size": 67981,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.527533608Z",
+  "sha256_hash": "7eac66d186d6d3e7739caf84abede7f20f710dc5c017e0fe954a4c339f60a057",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.100471281Z"
+}

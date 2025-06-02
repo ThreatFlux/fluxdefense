@@ -1,0 +1,15 @@
+{
+  "uuid": "6a0dc848-f21c-4146-b6c0-1a40f9eaa368",
+  "path": "/lib/google-cloud-sdk/lib/third_party/urllib3/__init__.py",
+  "size": 6112,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.162941622Z",
+  "sha256_hash": "c5083f872dff17cb856dfe458a9cf9f68b774686f0d034f52f7441220cc42cb6",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.973138395Z"
+}

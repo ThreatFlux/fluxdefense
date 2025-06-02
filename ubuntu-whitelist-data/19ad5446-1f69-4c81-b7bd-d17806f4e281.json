@@ -1,0 +1,17 @@
+{
+  "uuid": "19ad5446-1f69-4c81-b7bd-d17806f4e281",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/g-debpoo.adb",
+  "size": 86261,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.067344915Z",
+  "sha256_hash": "4f5983313cfaea51139a7c4556c699f9f268f4b8b795219f2f8c5ddde31651d9",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.190341941Z"
+}

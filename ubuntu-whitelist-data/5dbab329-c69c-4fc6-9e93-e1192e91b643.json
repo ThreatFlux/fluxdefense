@@ -1,0 +1,17 @@
+{
+  "uuid": "5dbab329-c69c-4fc6-9e93-e1192e91b643",
+  "path": "/usr/lib/x86_64-linux-gnu/libfreerdp-server3.so.3.5.1",
+  "size": 378872,
+  "modified": "2024-04-29T14:25:11Z",
+  "created": "2025-05-09T05:07:29.492751011Z",
+  "sha256_hash": "446f8df190848e6cc4f06bc6680a8352bd1b4566c0da736be0f47f836b869f4d",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.804952453Z"
+}

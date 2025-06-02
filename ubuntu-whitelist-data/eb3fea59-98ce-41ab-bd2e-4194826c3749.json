@@ -1,0 +1,17 @@
+{
+  "uuid": "eb3fea59-98ce-41ab-bd2e-4194826c3749",
+  "path": "/lib/modules/6.11.0-25-generic/kernel/crypto/cast5_generic.ko.zst",
+  "size": 10469,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.098459849Z",
+  "sha256_hash": "a274c42a2d5861dacfa84372b636dba7c7cf5cc8167de01b90ee01dedc211ce7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.628774660Z"
+}

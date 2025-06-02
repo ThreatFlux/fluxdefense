@@ -1,0 +1,17 @@
+{
+  "uuid": "afb9b399-bb50-48f7-978f-451ef9ec4b32",
+  "path": "/lib/firmware/radeon/HAWAII_rlc.bin.zst",
+  "size": 2360,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.060534499Z",
+  "sha256_hash": "b6a67d077323b7eebcecbee7ddcdb7dbe8ed3d1cab446ab6f63b4933f1f1edae",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.394765202Z"
+}

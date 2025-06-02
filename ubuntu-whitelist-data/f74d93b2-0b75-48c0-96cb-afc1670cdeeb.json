@@ -1,0 +1,17 @@
+{
+  "uuid": "f74d93b2-0b75-48c0-96cb-afc1670cdeeb",
+  "path": "/lib/x86_64-linux-gnu/libdcerpc-server-core.so.0.0.1",
+  "size": 76080,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:29.291754078Z",
+  "sha256_hash": "0ed625be07813cbf0ab4e9b292f77784e1e41bea2e40757ae91e184d3e511b23",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.285985240Z"
+}

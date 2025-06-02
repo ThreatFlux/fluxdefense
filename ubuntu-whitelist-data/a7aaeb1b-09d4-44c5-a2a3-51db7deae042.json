@@ -1,0 +1,15 @@
+{
+  "uuid": "a7aaeb1b-09d4-44c5-a2a3-51db7deae042",
+  "path": "/usr/libexec/gsd-datetime",
+  "size": 55904,
+  "modified": "2024-04-18T10:59:35Z",
+  "created": "2025-05-09T05:07:37.498628843Z",
+  "sha256_hash": "dc54206bece006ec1a1ff16a001e458f5710fbcc85295e3f18f09b2aa6fedcb4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.088047493Z"
+}

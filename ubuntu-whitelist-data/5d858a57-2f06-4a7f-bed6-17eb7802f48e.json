@@ -1,0 +1,17 @@
+{
+  "uuid": "5d858a57-2f06-4a7f-bed6-17eb7802f48e",
+  "path": "/lib/x86_64-linux-gnu/libcbor.so.0.10.2",
+  "size": 59712,
+  "modified": "2024-03-31T01:40:51Z",
+  "created": "2025-05-09T05:07:29.208755345Z",
+  "sha256_hash": "da2c5eb89376ed8c1b1525481bd740681316e3baf53602158d9839e7c7d5ecaa",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.754053267Z"
+}

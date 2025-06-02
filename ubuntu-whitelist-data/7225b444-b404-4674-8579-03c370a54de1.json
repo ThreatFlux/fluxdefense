@@ -1,0 +1,17 @@
+{
+  "uuid": "7225b444-b404-4674-8579-03c370a54de1",
+  "path": "/usr/lib/systemd/system/exit.target",
+  "size": 549,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "e5a6121dc7bb4075179ef4c8a93e92c25afba290d642f56921f1b586066a058e",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.477225714Z"
+}

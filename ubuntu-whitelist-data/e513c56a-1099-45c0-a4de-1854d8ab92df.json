@@ -1,0 +1,17 @@
+{
+  "uuid": "e513c56a-1099-45c0-a4de-1854d8ab92df",
+  "path": "/usr/lib/grub/x86_64-efi/cbfs.mod",
+  "size": 6064,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.802708552Z",
+  "sha256_hash": "c3c5ea1fbdc70910ec92c8b5ac81a729445cdc11fa9ee2ebc49b802a5ab80116",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.453241915Z"
+}

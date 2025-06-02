@@ -1,0 +1,17 @@
+{
+  "uuid": "a9870cfd-c678-4e96-b79a-12f7dc738953",
+  "path": "/lib/llvm-18/include/clang/ExtractAPI/AvailabilityInfo.h",
+  "size": 2750,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.542533410Z",
+  "sha256_hash": "77a7e0e9468bc51ec50d78e005928099c02cd6df1c4ab74befde25af9c923068",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.184630804Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "af9547b1-1157-47d0-8e09-d47277ac2887",
+  "path": "/lib/firmware/intel/sof-ipc4-tplg/sof-mtl-rt1019-rt5682.tplg.zst",
+  "size": 3391,
+  "modified": "2025-01-06T07:09:53Z",
+  "created": "2025-05-09T05:08:52.055491029Z",
+  "sha256_hash": "ad3552221c38ca9e07cd22c18cd3033f8a2b130d488024134d060d26c19c1996",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.068180132Z"
+}

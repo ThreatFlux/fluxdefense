@@ -1,0 +1,17 @@
+{
+  "uuid": "f7ac8494-7549-4598-87e6-5017b917601d",
+  "path": "/lib/python3/dist-packages/packaging/py.typed",
+  "size": 0,
+  "modified": "2024-04-02T15:20:50Z",
+  "created": "2025-05-13T14:30:44.453510932Z",
+  "sha256_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "file_type": {
+    "Other": "typed"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.369314429Z"
+}

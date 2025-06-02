@@ -1,0 +1,17 @@
+{
+  "uuid": "9972683b-d8b3-42ed-b101-5c224214b184",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-crtl.ali",
+  "size": 7576,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.137343953Z",
+  "sha256_hash": "56aa8cf7abf7b071d58b4de98908df96685acd27129636c395c6ba62558e2a76",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.860844119Z"
+}

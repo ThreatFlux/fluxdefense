@@ -1,0 +1,17 @@
+{
+  "uuid": "d07dbe47-49b0-4b7e-8b5f-49f30c5c39e5",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/g-awk.ali",
+  "size": 40718,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.107344365Z",
+  "sha256_hash": "cf614a400a232281df5c7a2037029a681c76d62548741cb07fef326aa4e27246",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.859730738Z"
+}

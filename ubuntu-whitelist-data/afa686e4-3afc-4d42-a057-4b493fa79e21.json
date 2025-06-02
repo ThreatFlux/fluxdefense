@@ -1,0 +1,15 @@
+{
+  "uuid": "afa686e4-3afc-4d42-a057-4b493fa79e21",
+  "path": "/usr/lib/x86_64-linux-gnu/security/pam_sss.so",
+  "size": 64256,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:37.203633344Z",
+  "sha256_hash": "cde645104976f092348ca7939921c5047d5aab0a9c7824989f23b6ac7136e4fc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.670382254Z"
+}

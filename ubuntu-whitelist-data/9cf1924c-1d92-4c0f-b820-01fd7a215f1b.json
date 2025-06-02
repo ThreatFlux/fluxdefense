@@ -1,0 +1,15 @@
+{
+  "uuid": "9cf1924c-1d92-4c0f-b820-01fd7a215f1b",
+  "path": "/usr/lib/llvm-18/lib/libLLVMAMDGPUTargetMCA.a",
+  "size": 23304,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.760464694Z",
+  "sha256_hash": "f0c2ba467a082e65e20e2c7679590263b9a475a0476eb9d4c4e7200bd5e9a69f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:35.068257610Z"
+}

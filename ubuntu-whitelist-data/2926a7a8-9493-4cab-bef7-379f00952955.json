@@ -1,0 +1,17 @@
+{
+  "uuid": "2926a7a8-9493-4cab-bef7-379f00952955",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/g-semaph.adb",
+  "size": 3318,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.069344887Z",
+  "sha256_hash": "84a1596541c0016f552068ee92af2c7b6f24b7d520ec8c8180e3c276fb12e209",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.988893401Z"
+}

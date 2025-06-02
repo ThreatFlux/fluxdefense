@@ -1,0 +1,15 @@
+{
+  "uuid": "7db088c9-645e-46a7-94eb-6be9e7664d03",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/IBM1149.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.627657394Z",
+  "sha256_hash": "c762aa0ed2bf4ba0fb03fa15c0c808827ee9e17befda5693a98d9cca5eb294c3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.501530658Z"
+}

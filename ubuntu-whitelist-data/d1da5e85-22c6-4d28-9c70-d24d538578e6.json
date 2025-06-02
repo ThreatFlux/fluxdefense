@@ -1,0 +1,17 @@
+{
+  "uuid": "d1da5e85-22c6-4d28-9c70-d24d538578e6",
+  "path": "/usr/lib/systemd/system/motd-news.service",
+  "size": 173,
+  "modified": "2025-02-05T16:08:58Z",
+  "created": "2025-05-09T05:07:28.299769216Z",
+  "sha256_hash": "b39d6da1bf420221beedb50b2d65f82ce5932c0ec9dba4f5dee5fcad874d6a37",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.448571659Z"
+}

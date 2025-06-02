@@ -1,0 +1,15 @@
+{
+  "uuid": "4f288232-a9c4-48c0-9586-d1c290c773f4",
+  "path": "/bin/tcpdump",
+  "size": 1273976,
+  "modified": "2024-04-08T14:50:51Z",
+  "created": "2025-05-09T05:07:20.697885217Z",
+  "sha256_hash": "bf1c2b79b4fdd793235775a6688ef7fb3cdb86516bce8eccb3851db52a122f8c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:18.087126775Z"
+}

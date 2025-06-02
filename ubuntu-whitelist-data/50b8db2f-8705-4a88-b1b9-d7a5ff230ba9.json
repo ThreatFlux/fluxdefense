@@ -1,0 +1,17 @@
+{
+  "uuid": "50b8db2f-8705-4a88-b1b9-d7a5ff230ba9",
+  "path": "/lib/llvm-18/lib/cmake/llvm/LLVMInstallSymlink.cmake",
+  "size": 825,
+  "modified": "2023-06-24T20:41:10Z",
+  "created": "2025-05-12T13:34:36.685465681Z",
+  "sha256_hash": "1dfe06be235db963859b3c9d5e0c133612c3aaabeb0196c17f7d6e3a66385530",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.510759530Z"
+}

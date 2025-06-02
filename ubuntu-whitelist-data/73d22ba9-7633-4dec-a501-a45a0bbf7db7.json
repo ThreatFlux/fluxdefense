@@ -1,0 +1,15 @@
+{
+  "uuid": "73d22ba9-7633-4dec-a501-a45a0bbf7db7",
+  "path": "/usr/lib/x86_64-linux-gnu/libplds4.so",
+  "size": 14624,
+  "modified": "2024-04-08T16:14:31Z",
+  "created": "2025-05-09T05:07:31.849715044Z",
+  "sha256_hash": "403f3c1ec489de93d04b5a386d2e659af6da0a41e09ffb90a280b6d68eeb1617",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.286927583Z"
+}

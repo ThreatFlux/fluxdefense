@@ -1,0 +1,17 @@
+{
+  "uuid": "44f5dfba-6353-4774-88ea-244ab4fe0fb8",
+  "path": "/usr/lib/x86_64-linux-gnu/libICE.so.6.3.0",
+  "size": 97984,
+  "modified": "2024-04-08T16:04:21Z",
+  "created": "2025-05-09T05:07:28.453766866Z",
+  "sha256_hash": "899ff245d50d4f1a7bb114d13b6200f42f93696ad93f38020c6ed7c84a5a943e",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.610042711Z"
+}

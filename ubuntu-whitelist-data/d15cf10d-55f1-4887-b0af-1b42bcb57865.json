@@ -1,0 +1,15 @@
+{
+  "uuid": "d15cf10d-55f1-4887-b0af-1b42bcb57865",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libip6t_frag.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.326631467Z",
+  "sha256_hash": "8fbd4292ffd1a886db298a2234c13c1eb715d3a54fddc50bc788cf489b0b7dbc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.272866777Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d6f913b8-195c-48b8-95a8-ceaf05db2128",
+  "path": "/lib/systemd/user/glib-pacrunner.service",
+  "size": 147,
+  "modified": "2024-03-31T05:56:57Z",
+  "created": "2025-05-09T05:07:28.305769124Z",
+  "sha256_hash": "26be7c815d50ace0fbde850902dc87c0b86566caec1a628fc84f2b0ead671e1b",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.143447273Z"
+}

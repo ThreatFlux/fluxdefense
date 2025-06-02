@@ -1,0 +1,15 @@
+{
+  "uuid": "ec7da271-f9d1-489c-92fb-fd0ab13ece56",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/config/cc_salt_minion.py",
+  "size": 4053,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.235037163Z",
+  "sha256_hash": "d8b92fd0b697b81d28120e016c030a7a369fc818eaf65a829e2346aa0aa1bfb4",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.854472810Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "88eae7e9-e560-46cd-98f9-359bbc032d07",
+  "path": "/usr/lib/firmware/mediatek/mt7663_n9_rebb.bin.zst",
+  "size": 300251,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.678539790Z",
+  "sha256_hash": "a4f7284b781913238eaff17f5655eef87d8294dd64e032328228dea920006c2f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.262828186Z"
+}

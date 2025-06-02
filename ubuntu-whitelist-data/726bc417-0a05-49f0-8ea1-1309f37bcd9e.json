@@ -1,0 +1,17 @@
+{
+  "uuid": "726bc417-0a05-49f0-8ea1-1309f37bcd9e",
+  "path": "/lib/x86_64-linux-gnu/libxcb-render.so.0.0.0",
+  "size": 55528,
+  "modified": "2024-04-18T14:21:22Z",
+  "created": "2025-05-09T05:07:35.149664688Z",
+  "sha256_hash": "35fdef7a90d7f44a0ad9cb259c9ee22f04a48cb064ceb1fc7d17be815acab327",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:28.612900144Z"
+}

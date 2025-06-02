@@ -1,0 +1,17 @@
+{
+  "uuid": "32f41d10-154d-439a-86cc-6e9b1fb3f88d",
+  "path": "/bin/fppkg-3.2.2",
+  "size": 2433656,
+  "modified": "2024-01-05T07:40:08Z",
+  "created": "2025-05-29T11:16:19.044881158Z",
+  "sha256_hash": "73dba26c5c0a831fd025f054a6ed3fd96482139edff993e7a58bc72dd5cf54c8",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.233927183Z"
+}

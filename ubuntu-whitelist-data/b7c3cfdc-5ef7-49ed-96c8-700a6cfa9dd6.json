@@ -1,0 +1,17 @@
+{
+  "uuid": "b7c3cfdc-5ef7-49ed-96c8-700a6cfa9dd6",
+  "path": "/usr/lib/firmware/qcom/a650_sqe.fw.zst",
+  "size": 15277,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.970535745Z",
+  "sha256_hash": "7eff92268de3ae606c417cf1206d88ef3516800f08d71e98265d020feb5963af",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.216159485Z"
+}

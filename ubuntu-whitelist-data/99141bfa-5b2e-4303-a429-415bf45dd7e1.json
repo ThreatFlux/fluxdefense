@@ -1,0 +1,17 @@
+{
+  "uuid": "99141bfa-5b2e-4303-a429-415bf45dd7e1",
+  "path": "/lib/systemd/system/ModemManager.service",
+  "size": 515,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:28.297769246Z",
+  "sha256_hash": "7440e1296cf610dd3847641c2bc93cadf210b4021964d07b7a59b6cf3d5aee06",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.123120772Z"
+}

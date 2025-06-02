@@ -1,0 +1,17 @@
+{
+  "uuid": "e6c7b659-95c8-45cd-b6bf-cb197bccc06b",
+  "path": "/usr/lib/firmware/amdgpu/yellow_carp_mec.bin.zst",
+  "size": 38319,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.427543266Z",
+  "sha256_hash": "b49a600ac4822d712c7fd91aa45ca50715c525953fcfe7989d29f946cdc2d1ec",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.934285159Z"
+}

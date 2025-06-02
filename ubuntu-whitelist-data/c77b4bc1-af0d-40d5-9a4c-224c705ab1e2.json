@@ -1,0 +1,17 @@
+{
+  "uuid": "c77b4bc1-af0d-40d5-9a4c-224c705ab1e2",
+  "path": "/lib/firmware/ueagle-atm/eagleI.fw.zst",
+  "size": 7910,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.081534208Z",
+  "sha256_hash": "08c33ff2a1be2d8860d48348646983effad32c51e30b9e77b755b47882df2216",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.340004249Z"
+}

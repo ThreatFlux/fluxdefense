@@ -1,0 +1,17 @@
+{
+  "uuid": "f635e8cd-4662-476a-b067-1e15a8b34542",
+  "path": "/lib/python3.12/config-3.12-x86_64-linux-gnu/Setup.stdlib",
+  "size": 6268,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-26T18:06:52.220888058Z",
+  "sha256_hash": "38c68f6adb163c8123483b4ba0b738858fa392c69e352d2a2bfdbd0516f15d57",
+  "file_type": {
+    "Other": "stdlib"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.868671829Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "eb0e5cf1-a250-4b9c-a209-c79d7ee538a0",
+  "path": "/usr/bin/sane-find-scanner",
+  "size": 97280,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:20.402889718Z",
+  "sha256_hash": "4b16b640b21ff96529da4b7acecc8ffdafd874457037ba6d7a8fb89e9e95356d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.075932090Z"
+}

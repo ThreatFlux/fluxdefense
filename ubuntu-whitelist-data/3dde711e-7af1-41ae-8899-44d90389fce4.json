@@ -1,0 +1,17 @@
+{
+  "uuid": "3dde711e-7af1-41ae-8899-44d90389fce4",
+  "path": "/lib/grub/x86_64-efi/hfs.mod",
+  "size": 10440,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.810708430Z",
+  "sha256_hash": "b95562dd68b3b48ace56ad9404d1290f4b022d3e3b0fc52e070b4a7ffc834d6e",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.138968327Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "40a0104b-7f6c-454f-bb61-0480a8708662",
+  "path": "/bin/x86_64-linux-gnu-ld.gold",
+  "size": 3218592,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:52.038575532Z",
+  "sha256_hash": "4df8eed1ec73794591721df87fbd3cc9cd3c86cce427c00fb6280b4ed84d39c8",
+  "file_type": {
+    "Other": "gold"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.974866896Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "8a3d4bc9-7b59-4f0c-8db0-212b2f2cbaf4",
+  "path": "/usr/lib/x86_64-linux-gnu/libxcb-shm.a",
+  "size": 9898,
+  "modified": "2024-04-18T14:21:22Z",
+  "created": "2025-05-29T11:16:05.921061246Z",
+  "sha256_hash": "ebc4c879977fbef8028f2b967da82d69cc39c771af262ac25a5c479fbb77b6e3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.845941906Z"
+}

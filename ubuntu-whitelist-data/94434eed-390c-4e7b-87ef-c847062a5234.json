@@ -1,0 +1,17 @@
+{
+  "uuid": "94434eed-390c-4e7b-87ef-c847062a5234",
+  "path": "/usr/lib/firmware/radeon/HAINAN_ce.bin.zst",
+  "size": 894,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.060534499Z",
+  "sha256_hash": "b858dae49fec1f16efed36736eab041120791c2b04f76d9f7f44270f39c813a7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.401651438Z"
+}

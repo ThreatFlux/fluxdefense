@@ -1,0 +1,15 @@
+{
+  "uuid": "a917bcd2-1c26-4fee-bad0-b5611dc014e1",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libebt_redirect.so",
+  "size": 14784,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.325631483Z",
+  "sha256_hash": "0c4f99e09286ee5f14151e85705bec627353fb565f88db3fe4b49c7fd09841c5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.274154039Z"
+}

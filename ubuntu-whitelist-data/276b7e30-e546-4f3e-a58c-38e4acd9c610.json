@@ -1,0 +1,17 @@
+{
+  "uuid": "276b7e30-e546-4f3e-a58c-38e4acd9c610",
+  "path": "/lib/llvm-18/include/clang/Basic/BuiltinsAArch64.def",
+  "size": 18707,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.525533634Z",
+  "sha256_hash": "1de056c55d5c9943e2f7b10c4954d1029fa14eed2ef370adede9ff4f3e05afff",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.087548330Z"
+}

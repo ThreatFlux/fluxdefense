@@ -1,0 +1,17 @@
+{
+  "uuid": "7e6220c7-1707-4f86-b8bf-86cc35f81997",
+  "path": "/usr/lib/grub/x86_64-efi/part_apple.mod",
+  "size": 3104,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.837708018Z",
+  "sha256_hash": "e0f1c311c5bc27fefce263bdb8f8bb07ee55b516c0c65352d22ac48cf9302f91",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.474377786Z"
+}

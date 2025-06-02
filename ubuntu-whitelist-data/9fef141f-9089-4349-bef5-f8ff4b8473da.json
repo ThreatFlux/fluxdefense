@@ -1,0 +1,17 @@
+{
+  "uuid": "9fef141f-9089-4349-bef5-f8ff4b8473da",
+  "path": "/usr/lib/systemd/system/usbmuxd.service",
+  "size": 171,
+  "modified": "2024-03-31T17:24:34Z",
+  "created": "2025-05-09T05:07:28.304769139Z",
+  "sha256_hash": "13e7147714a33c1427402225fbc3b023c1cdc1725e60974a892e34de0de62658",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.481510784Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "1c315fb3-d661-446b-af0f-71f921d8190a",
+  "path": "/lib/x86_64-linux-gnu/libfreebl3.so",
+  "size": 14560,
+  "modified": "2024-04-08T16:14:43Z",
+  "created": "2025-05-09T05:07:29.482751164Z",
+  "sha256_hash": "7ffe84a7b9dfa02c9422e5e1e0d37c579ec2a35d50705b17beda040fdf64539b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.952781248Z"
+}

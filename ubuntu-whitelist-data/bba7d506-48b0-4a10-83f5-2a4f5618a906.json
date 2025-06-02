@@ -1,0 +1,17 @@
+{
+  "uuid": "bba7d506-48b0-4a10-83f5-2a4f5618a906",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/asm/termios.ph",
+  "size": 94,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.521591281Z",
+  "sha256_hash": "1d2222314056c1335fb35d44f8ebed3a495ca01d3a6341d2df736c02389ef5b4",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.675637120Z"
+}

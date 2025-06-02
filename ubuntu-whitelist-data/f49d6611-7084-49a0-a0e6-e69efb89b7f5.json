@@ -1,0 +1,17 @@
+{
+  "uuid": "f49d6611-7084-49a0-a0e6-e69efb89b7f5",
+  "path": "/lib/pm-utils/sleep.d/60_wpa_supplicant",
+  "size": 267,
+  "modified": "2022-01-16T20:51:29Z",
+  "created": "2025-05-09T05:11:35.940989563Z",
+  "sha256_hash": "fdcc84989e7add6b1a1373114f2e26adb1d5eb747a7bc23d3909044a386a4484",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.099655332Z"
+}

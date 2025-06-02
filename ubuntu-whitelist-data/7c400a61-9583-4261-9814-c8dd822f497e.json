@@ -1,0 +1,17 @@
+{
+  "uuid": "7c400a61-9583-4261-9814-c8dd822f497e",
+  "path": "/usr/lib/x86_64-linux-gnu/ldscripts/elf32_x86_64.xdwe",
+  "size": 9837,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:52.047575395Z",
+  "sha256_hash": "f534632653c63a2e11b4e2d58f7dc95e052296248cff72b8768331a4745d590e",
+  "file_type": {
+    "Other": "xdwe"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.417329628Z"
+}

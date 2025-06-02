@@ -1,0 +1,15 @@
+{
+  "uuid": "7a15822c-8cb8-4a75-b1e2-00717bd4b167",
+  "path": "/usr/bin/mpstat",
+  "size": 51656,
+  "modified": "2024-01-09T20:31:44Z",
+  "created": "2025-05-09T05:07:20.187892999Z",
+  "sha256_hash": "74695dd7d010730cd1e19efa0664904c1e3b17d746d304c06243e183a5ac9f9c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:13.951871432Z"
+}

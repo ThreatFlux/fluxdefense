@@ -1,0 +1,17 @@
+{
+  "uuid": "e9162c6a-a695-463f-960b-cef0ccf42684",
+  "path": "/usr/lib/firmware/cypress/cyfmac4373-sdio.clm_blob.zst",
+  "size": 1906,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.520541978Z",
+  "sha256_hash": "545efc9a616784868f6c9dd8b8fd84856f8f322352c154e506f13343d281e43c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.630020438Z"
+}

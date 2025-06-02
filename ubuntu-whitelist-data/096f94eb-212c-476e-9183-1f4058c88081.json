@@ -1,0 +1,15 @@
+{
+  "uuid": "096f94eb-212c-476e-9183-1f4058c88081",
+  "path": "/usr/lib/brltty/libbrlttybvr.so",
+  "size": 26696,
+  "modified": "2024-03-31T00:24:15Z",
+  "created": "2025-05-09T05:07:21.028880166Z",
+  "sha256_hash": "a0eefc96cff5fdb3143d3f56b56c47fd0ad3c7e8b90d5e09880f962b030d29d2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.259548712Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "bfa7dd0a-ec22-45d5-8394-3f72a962b0f2",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/kms/encrypt.py",
+  "size": 8647,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.761931445Z",
+  "sha256_hash": "a092963f9e4f29eb27cf504a908a11092bbefe8e594d9d3e8474582028526876",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.837487498Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "0709d792-18e8-4b90-b9dd-d11276e0519e",
+  "path": "/lib/firmware/amdgpu/gc_12_0_0_toc.bin.zst",
+  "size": 618,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.399543654Z",
+  "sha256_hash": "a8e14dada8ae689d9bbe785252d6e34c156a1090f59caa782e6aa073c3c6bc46",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.927699638Z"
+}

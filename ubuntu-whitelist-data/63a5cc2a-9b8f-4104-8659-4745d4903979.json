@@ -1,0 +1,15 @@
+{
+  "uuid": "63a5cc2a-9b8f-4104-8659-4745d4903979",
+  "path": "/usr/lib/llvm-18/lib/libclangFormat.a",
+  "size": 1991894,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.722531039Z",
+  "sha256_hash": "7c6af22d431644b5260b7c8b91dcf7b721f400aeeef3a85d761a88ae2e9ca9cc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:29.247494321Z"
+}

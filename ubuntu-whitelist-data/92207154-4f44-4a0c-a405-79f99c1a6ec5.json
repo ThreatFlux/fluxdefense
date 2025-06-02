@@ -1,0 +1,15 @@
+{
+  "uuid": "92207154-4f44-4a0c-a405-79f99c1a6ec5",
+  "path": "/lib/python3/dist-packages/cloudinit/config/cc_apt_pipelining.py",
+  "size": 1890,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.234037150Z",
+  "sha256_hash": "641ccac099248abc4511583dbf8647784839b883adab38f58d4aae50af111d89",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.910978908Z"
+}

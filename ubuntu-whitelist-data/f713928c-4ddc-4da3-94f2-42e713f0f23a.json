@@ -1,0 +1,17 @@
+{
+  "uuid": "f713928c-4ddc-4da3-94f2-42e713f0f23a",
+  "path": "/lib/x86_64-linux-gnu/libnice.so.10.13.1",
+  "size": 352896,
+  "modified": "2024-03-31T02:08:37Z",
+  "created": "2025-05-09T05:09:27.955943104Z",
+  "sha256_hash": "7f866f015570f989d252676acfda362e55ea4629b8847709fcd89fe552476ba2",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.236145387Z"
+}

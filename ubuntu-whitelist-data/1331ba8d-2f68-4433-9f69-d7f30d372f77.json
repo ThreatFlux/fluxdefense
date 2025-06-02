@@ -1,0 +1,15 @@
+{
+  "uuid": "1331ba8d-2f68-4433-9f69-d7f30d372f77",
+  "path": "/usr/sbin/pppdump",
+  "size": 18832,
+  "modified": "2024-04-03T17:56:59Z",
+  "created": "2025-05-09T05:07:38.402615048Z",
+  "sha256_hash": "7dfb1537b25b6fab38709f7a8aadc491e805aba4ffa883e02b577091770d000d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.185923652Z"
+}

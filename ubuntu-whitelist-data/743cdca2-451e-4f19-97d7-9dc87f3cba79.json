@@ -1,0 +1,15 @@
+{
+  "uuid": "743cdca2-451e-4f19-97d7-9dc87f3cba79",
+  "path": "/usr/lib/google-cloud-sdk/platform/bq/gcloud_wrapper/gcloud_runner.py",
+  "size": 1797,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.797930833Z",
+  "sha256_hash": "29aefc5f53bc8a0564a47245e70c74ea2f9310245894effe313f0f055ddb233f",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.629354035Z"
+}

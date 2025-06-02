@@ -1,0 +1,17 @@
+{
+  "uuid": "6ea66ffd-8ac1-4217-9dec-655429fd693d",
+  "path": "/usr/lib/x86_64-linux-gnu/samba/libevents-samba4.so.0",
+  "size": 14568,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.056635588Z",
+  "sha256_hash": "5d224babbbc2ecd462a4953330aa3a6b58d600a3ea9fe31e7dd92a1cad2feb00",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.347888305Z"
+}

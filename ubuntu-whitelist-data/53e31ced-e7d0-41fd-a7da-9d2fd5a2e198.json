@@ -1,0 +1,17 @@
+{
+  "uuid": "53e31ced-e7d0-41fd-a7da-9d2fd5a2e198",
+  "path": "/lib/tmpfiles.d/portables.conf",
+  "size": 104,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:56:53.647596468Z",
+  "sha256_hash": "aa464fe463c48a652e9734d256bc9426d593aca9fe94237657e41bd2507a1367",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.760125947Z"
+}

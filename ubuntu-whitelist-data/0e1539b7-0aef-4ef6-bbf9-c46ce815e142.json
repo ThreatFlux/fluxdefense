@@ -1,0 +1,17 @@
+{
+  "uuid": "0e1539b7-0aef-4ef6-bbf9-c46ce815e142",
+  "path": "/lib/x86_64-linux-gnu/librhash.so.0",
+  "size": 218496,
+  "modified": "2024-04-08T16:18:32Z",
+  "created": "2025-05-25T19:15:53.503744016Z",
+  "sha256_hash": "a02aee7fd2f933294f8b7af54c7cc1f35952a966f449cf1a39c670c7beb294c4",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.927918380Z"
+}

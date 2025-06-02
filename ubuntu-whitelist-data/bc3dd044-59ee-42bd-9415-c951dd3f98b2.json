@@ -1,0 +1,17 @@
+{
+  "uuid": "bc3dd044-59ee-42bd-9415-c951dd3f98b2",
+  "path": "/lib/llvm-18/include/clang/Basic/FPOptions.def",
+  "size": 1635,
+  "modified": "2023-12-13T20:46:50Z",
+  "created": "2025-05-12T13:34:31.530533568Z",
+  "sha256_hash": "cf176aeca5b9adfba90cd1eda88ee95e0af982fb01773be1c22e90be7fd4de87",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.132785292Z"
+}

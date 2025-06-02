@@ -1,0 +1,17 @@
+{
+  "uuid": "2e26dc98-1449-41dc-ba10-c45288bb0a78",
+  "path": "/usr/lib/firmware/amdgpu/tahiti_uvd.bin.zst",
+  "size": 142294,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.417543405Z",
+  "sha256_hash": "28326ff2b4de5a10147638ffd5ab2c9a3e93f59bac2709720d2df274dc9e7374",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.044073678Z"
+}

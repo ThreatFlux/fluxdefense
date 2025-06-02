@@ -1,0 +1,17 @@
+{
+  "uuid": "195c818e-827f-4da7-b4a2-0a0ff5ce1bff",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/crypto/tcrypt.ko.zst",
+  "size": 27602,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.079797878Z",
+  "sha256_hash": "867c52adfcaf7b4fafe8da2a96506a652858c97191e4236b6aee715804127bcc",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.259050007Z"
+}

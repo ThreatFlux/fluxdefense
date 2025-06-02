@@ -1,0 +1,15 @@
+{
+  "uuid": "93d16768-1281-4a62-8b1d-77b44dbd6245",
+  "path": "/usr/lib/python3.12/test/test_module/bad_getattr3.py",
+  "size": 139,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.030551263Z",
+  "sha256_hash": "c855e2f48f814bf478e5b904a220368e897847f75da7a8bffe9f84e561d08e92",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.815487823Z"
+}

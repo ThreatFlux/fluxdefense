@@ -1,0 +1,17 @@
+{
+  "uuid": "410ba4f5-0bd6-4155-a289-3c9e81a455ba",
+  "path": "/usr/lib/google-cloud-sdk/.install/core.snapshot.json",
+  "size": 1022,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.312922087Z",
+  "sha256_hash": "0e539a7f517d71c40cd0cc50112d078a1532dbbafb648ba8bac0235ec6880171",
+  "file_type": {
+    "Other": "json"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.555536569Z"
+}

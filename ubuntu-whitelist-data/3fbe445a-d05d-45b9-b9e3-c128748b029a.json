@@ -1,0 +1,15 @@
+{
+  "uuid": "3fbe445a-d05d-45b9-b9e3-c128748b029a",
+  "path": "/lib/x86_64-linux-gnu/vpl/libvpl_wayland.so",
+  "size": 48096,
+  "modified": "2024-04-18T17:47:48Z",
+  "created": "2025-05-09T05:09:17.847097391Z",
+  "sha256_hash": "ebe3446bbc581c7a974d684e24a5d70ad3491c584845174865d27c77dd7557ee",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.742900687Z"
+}

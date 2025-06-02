@@ -1,0 +1,15 @@
+{
+  "uuid": "f0690a53-840a-4be7-957b-2532feb6ae6a",
+  "path": "/usr/bin/dh_installxfonts",
+  "size": 2864,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.514341255Z",
+  "sha256_hash": "02173a9526b3ad01458cf91ebc33444a5271eb49486769307c9c8dbe671d5869",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:11.652790273Z"
+}

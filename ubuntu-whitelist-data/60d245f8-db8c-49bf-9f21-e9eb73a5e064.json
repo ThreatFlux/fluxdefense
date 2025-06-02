@@ -1,0 +1,15 @@
+{
+  "uuid": "60d245f8-db8c-49bf-9f21-e9eb73a5e064",
+  "path": "/bin/ss",
+  "size": 132168,
+  "modified": "2024-03-31T09:00:13Z",
+  "created": "2025-05-09T05:07:20.583886956Z",
+  "sha256_hash": "a613fac473c76ec66057bace35872f17c068f5c9f5e764d6710e7f2ea022f4f3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.097164903Z"
+}

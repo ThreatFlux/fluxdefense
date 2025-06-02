@@ -1,0 +1,17 @@
+{
+  "uuid": "c2bd2f2e-902f-42e0-99a5-02ffcee2b63e",
+  "path": "/usr/lib/firmware/amdgpu/dimgrey_cavefish_sos.bin.zst",
+  "size": 112820,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.393543737Z",
+  "sha256_hash": "e8eee9e61602d34cfb4e9c8ab0eacbdc82dd852180517a97220050dc61042d0b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.793323330Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "799552c4-4560-40d1-beb0-4a6899aa99a6",
+  "path": "/usr/lib/python3/dist-packages/certifi/cacert.pem",
+  "size": 290282,
+  "modified": "2023-12-27T15:27:12Z",
+  "created": "2025-05-09T05:07:26.571795584Z",
+  "sha256_hash": "cf9d37fa81407afe11dcc0d70fe602561422aa2344708c324e4504db8c6c5748",
+  "file_type": {
+    "Other": "pem"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.035524925Z"
+}

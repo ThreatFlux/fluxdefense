@@ -1,0 +1,15 @@
+{
+  "uuid": "f4b3eeef-bba0-448a-9d74-499c0eab7dbe",
+  "path": "/opt/google/chrome/libGLESv2.so",
+  "size": 6545656,
+  "modified": "2025-05-26T20:54:35Z",
+  "created": "2025-05-27T21:53:47.501428323Z",
+  "sha256_hash": "e6d0051e4a6e6a83c9e8e0e5d83d48bc1363131b63684203971aa7e1b2d94966",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:43.734204138Z"
+}

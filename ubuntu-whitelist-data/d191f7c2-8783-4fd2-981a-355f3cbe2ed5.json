@@ -1,0 +1,17 @@
+{
+  "uuid": "d191f7c2-8783-4fd2-981a-355f3cbe2ed5",
+  "path": "/lib/python3.12/test/decimaltestdata/ddAnd.decTest",
+  "size": 18619,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.990551788Z",
+  "sha256_hash": "46598fb15155dfef47686b54ddd4fc61db04ea2490528684175e9d3435ab12fe",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.410701054Z"
+}

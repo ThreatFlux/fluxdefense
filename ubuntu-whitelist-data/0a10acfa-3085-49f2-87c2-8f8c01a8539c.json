@@ -1,0 +1,17 @@
+{
+  "uuid": "0a10acfa-3085-49f2-87c2-8f8c01a8539c",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/sequenio.ali",
+  "size": 2298,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.146343830Z",
+  "sha256_hash": "a8c4dd793afd73a4c59241ee25cc00dfe13c6a565119c9c3fb465520158ff2c5",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.871872100Z"
+}

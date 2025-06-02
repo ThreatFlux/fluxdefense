@@ -1,0 +1,17 @@
+{
+  "uuid": "03c831ad-deac-4c06-b3f4-9b03db670b5a",
+  "path": "/usr/lib/grub/x86_64-efi/loadenv.mod",
+  "size": 9248,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.813708384Z",
+  "sha256_hash": "7485202726a6de4b4338e9218ad7025570cf6c9a9a98f9a5d75bea6d237d41bb",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.491656263Z"
+}

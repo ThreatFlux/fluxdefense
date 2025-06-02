@@ -1,0 +1,17 @@
+{
+  "uuid": "c35a903f-8da6-4a42-874a-cd589f631295",
+  "path": "/lib/dracut/dracut-install",
+  "size": 67896,
+  "modified": "2025-02-13T14:21:06Z",
+  "created": "2025-05-09T05:24:23.176904311Z",
+  "sha256_hash": "c52fbdec879821cdef72b08c3c9f7dfb9125d0833a94458c989dc7333a7b4ae0",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.171859247Z"
+}

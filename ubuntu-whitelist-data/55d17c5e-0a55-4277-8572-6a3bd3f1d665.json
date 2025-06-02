@@ -1,0 +1,17 @@
+{
+  "uuid": "55d17c5e-0a55-4277-8572-6a3bd3f1d665",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/sd_dict",
+  "size": 59928,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.545658645Z",
+  "sha256_hash": "d655bc0323884376ee7c17c91f1b5864d13b6fde560b91f17cdf0744b93cc1ee",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.259165597Z"
+}

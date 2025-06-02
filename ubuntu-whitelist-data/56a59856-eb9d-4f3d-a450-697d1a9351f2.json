@@ -1,0 +1,17 @@
+{
+  "uuid": "56a59856-eb9d-4f3d-a450-697d1a9351f2",
+  "path": "/lib/x86_64-linux-gnu/libminiupnpc.so.17",
+  "size": 59464,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:31.344722750Z",
+  "sha256_hash": "de68525d09c7cc2b2ab848235178d60dec7b94d8e881a2826d6e57548dba849c",
+  "file_type": {
+    "Other": "17"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.996422156Z"
+}

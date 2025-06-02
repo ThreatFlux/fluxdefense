@@ -1,0 +1,15 @@
+{
+  "uuid": "da85415a-ca28-42f6-b3cb-154308ab49f7",
+  "path": "/sbin/pwunconv",
+  "size": 47272,
+  "modified": "2024-05-30T14:52:35Z",
+  "created": "2025-05-09T05:07:38.405615002Z",
+  "sha256_hash": "bf42f99cdc30d463fe9e3f2fb9cdf0472e4ffd679acb33b561db5508c61457bf",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.971325048Z"
+}

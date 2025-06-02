@@ -1,0 +1,17 @@
+{
+  "uuid": "e81ca73c-c719-4a85-beb0-b82b0890bb65",
+  "path": "/usr/lib/grub/x86_64-efi/luks.mod",
+  "size": 6032,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.814708369Z",
+  "sha256_hash": "77daf619bb6cf457dd86e79669439ad93110e2c1acf2ea71798548636a680e38",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.488330608Z"
+}

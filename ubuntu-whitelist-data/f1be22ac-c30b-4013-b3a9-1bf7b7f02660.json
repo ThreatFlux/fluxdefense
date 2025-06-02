@@ -1,0 +1,17 @@
+{
+  "uuid": "f1be22ac-c30b-4013-b3a9-1bf7b7f02660",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/intonations",
+  "size": 2040,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.450660095Z",
+  "sha256_hash": "3f8af65fd3eda9759a10f021d61361c120871f463515229c925995c7f90918cc",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.266944778Z"
+}

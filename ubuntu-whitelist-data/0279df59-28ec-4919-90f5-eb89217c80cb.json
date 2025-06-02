@@ -1,0 +1,15 @@
+{
+  "uuid": "0279df59-28ec-4919-90f5-eb89217c80cb",
+  "path": "/lib/google-cloud-sdk/platform/bundledpythonunix/bin/wheel",
+  "size": 239,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.305922206Z",
+  "sha256_hash": "99b754157c4011abc9dda3dd53031c5d109cd16616419c0bfab3167519cfaf2a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.014667406Z"
+}

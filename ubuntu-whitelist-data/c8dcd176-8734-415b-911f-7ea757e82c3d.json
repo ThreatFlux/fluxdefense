@@ -1,0 +1,17 @@
+{
+  "uuid": "c8dcd176-8734-415b-911f-7ea757e82c3d",
+  "path": "/lib/firmware/brcm/brcmfmac43455-sdio.acepc-t8.txt.zst",
+  "size": 815,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.485542463Z",
+  "sha256_hash": "b310e71b7d306b401345e75a638e96ce19ce6ed0b9c75057fbdbdd5724adfa45",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.509514881Z"
+}

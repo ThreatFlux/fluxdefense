@@ -1,0 +1,15 @@
+{
+  "uuid": "057e036e-0ab9-409f-bb37-4d812b63e3be",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/IBM930.so",
+  "size": 100560,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.654656982Z",
+  "sha256_hash": "dff87390fcf48cb4cf93005981e035b5e3f7d4944d5b06a255eca554387144a7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.578106762Z"
+}

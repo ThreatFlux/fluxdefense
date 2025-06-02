@@ -1,0 +1,15 @@
+{
+  "uuid": "26b23142-eaf5-4f0d-8351-58b6d4d0501b",
+  "path": "/lib/bridge-utils/ifupdown.sh",
+  "size": 6620,
+  "modified": "2023-02-17T13:45:16Z",
+  "created": "2025-05-09T05:56:47.136669604Z",
+  "sha256_hash": "7f9c7cb078a2fe1fe488f1ff20fc8abfccdb1c89e47a8c3316d824a2b77cb351",
+  "file_type": "Script",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.651022599Z"
+}

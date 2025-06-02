@@ -1,0 +1,17 @@
+{
+  "uuid": "55f0db9a-3ad6-482c-ada2-17599d781656",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/libsanitizer.spec",
+  "size": 362,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.641381281Z",
+  "sha256_hash": "15e0778e7a6d3ed8763425c801cc714cec9d0438251726809c035c581daee94d",
+  "file_type": {
+    "Other": "spec"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.493069565Z"
+}

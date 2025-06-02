@@ -1,0 +1,17 @@
+{
+  "uuid": "dd39ba6d-e3d2-42f8-a0dc-bd4f4bfdd39f",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-conca7.ali",
+  "size": 1408,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.137343953Z",
+  "sha256_hash": "c5c791d07bdbe7e40560352bac776976f13336beb05840cf58fffffc8e1a454b",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.825263922Z"
+}

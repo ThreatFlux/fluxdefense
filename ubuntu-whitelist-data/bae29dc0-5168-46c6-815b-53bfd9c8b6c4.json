@@ -1,0 +1,17 @@
+{
+  "uuid": "bae29dc0-5168-46c6-815b-53bfd9c8b6c4",
+  "path": "/usr/lib/udev/rules.d/90-nm-thunderbolt.rules",
+  "size": 588,
+  "modified": "2024-10-23T11:04:42Z",
+  "created": "2025-05-09T05:07:28.439767079Z",
+  "sha256_hash": "a5d7612f4e5de1cfa7459be7c01b09835099ea70097375bdf7572458ccd0c88c",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.101441674Z"
+}

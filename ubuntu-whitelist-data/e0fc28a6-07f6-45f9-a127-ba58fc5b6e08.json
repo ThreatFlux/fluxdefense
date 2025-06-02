@@ -1,0 +1,17 @@
+{
+  "uuid": "e0fc28a6-07f6-45f9-a127-ba58fc5b6e08",
+  "path": "/lib/lsb/init-functions.d/99-plymouth",
+  "size": 531,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:27.491960985Z",
+  "sha256_hash": "e94a01d28306ca252c18cd1aa1757955bc44cb230b8e3088bceae6f0a34c3076",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.772593328Z"
+}

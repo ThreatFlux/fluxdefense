@@ -1,0 +1,17 @@
+{
+  "uuid": "f9868899-24ae-42f5-88f2-9e8ba095b9e3",
+  "path": "/lib/pcrlock.d/500-separator.pcrlock.d/300-0x00000000.pcrlock",
+  "size": 3374,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.508779291Z",
+  "sha256_hash": "13fd269f11aeb2e4bef9fe716ee99d5a977f0acfc034de812da7c2ec9716fd0c",
+  "file_type": {
+    "Other": "pcrlock"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.397258059Z"
+}

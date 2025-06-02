@@ -1,0 +1,17 @@
+{
+  "uuid": "e0c3858a-7a6a-4985-9965-3fe972eea53c",
+  "path": "/lib/x86_64-linux-gnu/libwebpmux.so.3.0.13",
+  "size": 51520,
+  "modified": "2024-03-31T08:02:02Z",
+  "created": "2025-05-09T05:07:34.994667053Z",
+  "sha256_hash": "97e04dbba80ea27d0258584452efda0fa41bfa598bbca52eb4e120fcb6300962",
+  "file_type": {
+    "Other": "13"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.429245483Z"
+}

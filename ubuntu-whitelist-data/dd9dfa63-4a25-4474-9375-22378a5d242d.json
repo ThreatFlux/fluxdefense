@@ -1,0 +1,15 @@
+{
+  "uuid": "dd9dfa63-4a25-4474-9375-22378a5d242d",
+  "path": "/bin/systemd-dissect",
+  "size": 68440,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:56:53.644596502Z",
+  "sha256_hash": "5d48594c4655bd8bc487097bf2a57853c01225ce93c0629b682e1a2695defd8a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.730596321Z"
+}

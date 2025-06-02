@@ -1,0 +1,17 @@
+{
+  "uuid": "6a1b6dac-efe7-44eb-a4cd-afa2d24acce0",
+  "path": "/lib/x86_64-linux-gnu/libpinyin/data/addon_pinyin_index.bin",
+  "size": 1523712,
+  "modified": "2024-04-06T01:15:02Z",
+  "created": "2025-05-09T05:07:35.900653228Z",
+  "sha256_hash": "5ea6db078cd461408aa03306359624bc3e6717ff43d7571f0b5afdaedd699ab8",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.012830586Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "11237aa6-5009-4d3d-ac89-77486b6d5fe2",
+  "path": "/usr/lib/x86_64-linux-gnu/libnvidia-glsi.so.550.144.03",
+  "size": 582808,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:02.030950353Z",
+  "sha256_hash": "8dff3bb9962bddf019936d05905002816f834fa1ee6f287855cf1f5777d08409",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.271116890Z"
+}

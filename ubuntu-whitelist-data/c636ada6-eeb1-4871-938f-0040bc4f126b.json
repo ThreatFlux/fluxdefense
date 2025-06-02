@@ -1,0 +1,17 @@
+{
+  "uuid": "c636ada6-eeb1-4871-938f-0040bc4f126b",
+  "path": "/lib/llvm-18/include/clang-tidy/cppcoreguidelines/ProTypeStaticCastDowncastCheck.h",
+  "size": 1649,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "983593f2a865f5de4a0460f84ccaed9b452d08fddd2fad28c3a564c7b67c80ac",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.905988088Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "eb4ac9d2-048e-42e5-a310-8c5346d07099",
+  "path": "/usr/lib/systemd/system/cloud-init-hotplugd.socket",
+  "size": 659,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.233037137Z",
+  "sha256_hash": "7915b5f33156488eb197f507aa8fcb93d24094a943bf1e421b35e076d8affc4f",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.457201280Z"
+}

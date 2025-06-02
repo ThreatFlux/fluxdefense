@@ -1,0 +1,15 @@
+{
+  "uuid": "d1ce1c35-3c23-4971-bed3-1e11597edd01",
+  "path": "/usr/bin/xbrlapi",
+  "size": 215552,
+  "modified": "2024-03-31T00:24:15Z",
+  "created": "2025-05-09T05:07:20.906882028Z",
+  "sha256_hash": "94b171e03ea83ad7944c02bafdfa80adcd9b4438da583a8565aed90d9edf6a4a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.128994873Z"
+}

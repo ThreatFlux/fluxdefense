@@ -1,0 +1,17 @@
+{
+  "uuid": "ee06768c-ffcb-4e7f-b850-f2b52f45c139",
+  "path": "/usr/lib/x86_64-linux-gnu/libaacs.so.0.7.2",
+  "size": 138104,
+  "modified": "2024-04-18T17:47:47Z",
+  "created": "2025-05-09T05:09:28.765930741Z",
+  "sha256_hash": "e81f9e0ada6b8eafa320e2d4d346b6b6f890372236df88f08524f2981d836475",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.623404232Z"
+}

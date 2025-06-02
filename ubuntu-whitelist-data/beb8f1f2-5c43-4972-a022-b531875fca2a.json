@@ -1,0 +1,15 @@
+{
+  "uuid": "beb8f1f2-5c43-4972-a022-b531875fca2a",
+  "path": "/bin/swtpm",
+  "size": 40488,
+  "modified": "2024-07-30T22:16:43Z",
+  "created": "2025-05-09T05:56:58.327543910Z",
+  "sha256_hash": "5e9e073fc569588b9fa87dff6785233a714a27c234d23da940e708f44e25368d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:20.087187266Z"
+}

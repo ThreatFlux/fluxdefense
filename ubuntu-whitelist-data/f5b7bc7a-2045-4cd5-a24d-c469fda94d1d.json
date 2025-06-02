@@ -1,0 +1,17 @@
+{
+  "uuid": "f5b7bc7a-2045-4cd5-a24d-c469fda94d1d",
+  "path": "/lib/systemd/system/snapd.system-shutdown.service",
+  "size": 608,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.385025837Z",
+  "sha256_hash": "1b69a8fe7dffd24f7d8a5576062c536cc9f1626a21f0a1259c596f6777f1e39f",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.130137021Z"
+}

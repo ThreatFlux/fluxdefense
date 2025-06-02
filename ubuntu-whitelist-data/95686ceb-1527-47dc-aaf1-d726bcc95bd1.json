@@ -1,0 +1,17 @@
+{
+  "uuid": "95686ceb-1527-47dc-aaf1-d726bcc95bd1",
+  "path": "/usr/lib/systemd/system/systemd-journal-catalog-update.service",
+  "size": 750,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "9d06e11680ff85b40579106281faf56442dfac86bddff0151d8524464439ae9e",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.484652858Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b65d354e-8725-4822-831a-55708396b102",
+  "path": "/usr/lib/x86_64-linux-gnu/libpostproc.so.57.3.100",
+  "size": 84120,
+  "modified": "2024-04-05T17:28:52Z",
+  "created": "2025-05-09T05:09:26.064971965Z",
+  "sha256_hash": "f282fc8370aad3d9246de333c0e6c356834cf16077a7fed3437da75ab29a99ed",
+  "file_type": {
+    "Other": "100"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.916095819Z"
+}

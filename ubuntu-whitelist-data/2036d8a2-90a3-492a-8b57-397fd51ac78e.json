@@ -1,0 +1,17 @@
+{
+  "uuid": "2036d8a2-90a3-492a-8b57-397fd51ac78e",
+  "path": "/sbin/oomkill.bt",
+  "size": 1198,
+  "modified": "2024-03-07T22:14:52Z",
+  "created": "2025-05-09T05:08:51.886493608Z",
+  "sha256_hash": "d7170ded95c5b2f65660ff2e0dcc2990b01a1fd7914a5f33a6dc58732b9775bf",
+  "file_type": {
+    "Other": "bt"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.689726685Z"
+}

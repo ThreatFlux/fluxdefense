@@ -1,0 +1,15 @@
+{
+  "uuid": "5d37241d-47e8-4232-9da8-a15f515130a2",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_tcp.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.337631300Z",
+  "sha256_hash": "501173c7c1e62779bd492e449be4f93c8ff4dc5bc015521b4bf65bfd9d5de6b9",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.683908576Z"
+}

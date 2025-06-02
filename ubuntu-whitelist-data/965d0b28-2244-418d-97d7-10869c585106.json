@@ -1,0 +1,17 @@
+{
+  "uuid": "965d0b28-2244-418d-97d7-10869c585106",
+  "path": "/usr/lib/x86_64-linux-gnu/libfastjson.so.4.3.0",
+  "size": 51456,
+  "modified": "2024-04-08T16:03:33Z",
+  "created": "2025-05-09T05:07:29.425752034Z",
+  "sha256_hash": "565e7267d7e9c373025a4d6e0bea362405deeab627363ec628e45400883997e2",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.169596448Z"
+}

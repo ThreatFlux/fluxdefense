@@ -1,0 +1,17 @@
+{
+  "uuid": "fb58c3cd-dee2-4421-92e6-961566d32e8c",
+  "path": "/usr/lib/x86_64-linux-gnu/samba/libdsdb-garbage-collect-tombstones-samba4.so.0",
+  "size": 88296,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.055635603Z",
+  "sha256_hash": "b9a44b9791970313c140a523159c4c57748fb375d2874608aa822a182fac49a4",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.379140979Z"
+}

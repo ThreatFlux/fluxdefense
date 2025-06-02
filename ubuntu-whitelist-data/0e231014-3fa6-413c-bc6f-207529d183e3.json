@@ -1,0 +1,15 @@
+{
+  "uuid": "0e231014-3fa6-413c-bc6f-207529d183e3",
+  "path": "/usr/libexec/nm-openvpn-service",
+  "size": 63880,
+  "modified": "2024-03-31T09:21:00Z",
+  "created": "2025-05-09T05:07:37.548628080Z",
+  "sha256_hash": "e6301e99186e55cdd56b6acf68927874e17235c16a6bd0b337e5d8fd7427f811",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.202057338Z"
+}

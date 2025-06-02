@@ -1,0 +1,17 @@
+{
+  "uuid": "da289ddc-82f7-4818-b574-114c9be0617c",
+  "path": "/usr/lib/x86_64-linux-gnu/libflite_cmu_us_awb.so.2.2",
+  "size": 4147336,
+  "modified": "2024-04-07T07:12:09Z",
+  "created": "2025-05-09T05:09:24.106001864Z",
+  "sha256_hash": "507a9d48ef3fc3162e682932e0dd85e415c0a65ee879f1bb7a126101cc3a6155",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.117022799Z"
+}

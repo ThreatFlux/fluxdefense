@@ -1,0 +1,17 @@
+{
+  "uuid": "2cdff254-790e-4536-abb7-9d0debe95864",
+  "path": "/usr/lib/aspell/en_AU-wo_accents.multi",
+  "size": 107,
+  "modified": "2020-12-08T01:19:37Z",
+  "created": "2025-05-09T05:07:21.014880380Z",
+  "sha256_hash": "b9edb9d65ff42ac3f1d54532dc9d751ad5e17026de3ea2ba0304a238650ebfc4",
+  "file_type": {
+    "Other": "multi"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.309327083Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "8c6b0b1d-6cc5-4220-9276-02759067567c",
+  "path": "/lib/udev/rules.d/61-persistent-storage-android.rules",
+  "size": 455,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "9da728ccc7cdfe91c888ee95b635f4e1f2085be69ee3b550b45a44da3fe748df",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.244783493Z"
+}

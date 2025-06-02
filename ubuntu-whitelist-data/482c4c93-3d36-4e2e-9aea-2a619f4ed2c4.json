@@ -1,0 +1,15 @@
+{
+  "uuid": "482c4c93-3d36-4e2e-9aea-2a619f4ed2c4",
+  "path": "/usr/lib/x86_64-linux-gnu/rsyslog/mmexternal.so",
+  "size": 22904,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.547922264Z",
+  "sha256_hash": "2eb12a294ed88d124670f6429d419a6dab763bddb6b64df775c8b5fce0e6528a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.170663223Z"
+}

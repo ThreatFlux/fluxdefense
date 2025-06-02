@@ -1,0 +1,15 @@
+{
+  "uuid": "8613991f-de09-42a2-9ccb-3ce87ba5857d",
+  "path": "/bin/bluetooth-sendto",
+  "size": 31128,
+  "modified": "2024-10-08T05:18:25Z",
+  "created": "2025-05-09T05:07:18.951911859Z",
+  "sha256_hash": "f1ebd1d9043f7bfd1bc2bc3fb18cc6ce930e3db77b5446b57f8cf90fa59e9759",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.471101560Z"
+}

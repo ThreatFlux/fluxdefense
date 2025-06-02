@@ -1,0 +1,17 @@
+{
+  "uuid": "3d9c9a79-b65e-46f3-a678-196d019f3f5c",
+  "path": "/lib/pam.d/polkit-1",
+  "size": 270,
+  "modified": "2024-12-02T11:59:52Z",
+  "created": "2025-05-09T05:07:25.893805930Z",
+  "sha256_hash": "bc30e80027e6cd3d29900f2f8d46f4137c7c5dc06e0dffc34d5ef586476e5bfb",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.365311169Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "06e4d2f3-9e12-4e64-b622-f2972b26ed35",
+  "path": "/usr/lib/firmware/ath10k/WCN3990/hw1.0/wlanmdsp.mbn.zst",
+  "size": 1705369,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.444543031Z",
+  "sha256_hash": "a24a6a151c6998ec7b6f1e3c8e79b0e145dabbd7c4454dc8b0b16375886ef410",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.008402732Z"
+}

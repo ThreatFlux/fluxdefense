@@ -1,0 +1,17 @@
+{
+  "uuid": "a98bab92-457e-4fab-81bc-7fe518dd3b5e",
+  "path": "/usr/lib/x86_64-linux-gnu/libfprint-2-tod.so.1",
+  "size": 159496,
+  "modified": "2025-03-10T15:54:46Z",
+  "created": "2025-05-09T05:24:29.969993750Z",
+  "sha256_hash": "c7bf735d09348cffc10bc58cafabf2661177e19384f8b306ad58f0d15ebde03c",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:22.021141418Z"
+}

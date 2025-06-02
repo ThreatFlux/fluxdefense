@@ -1,0 +1,17 @@
+{
+  "uuid": "22294b46-2345-45c9-bb3c-2c0b412eb55d",
+  "path": "/lib/llvm-18/include/clang/Frontend/LogDiagnosticPrinter.h",
+  "size": 2427,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "21548a8f56d4596134a73f13f8de89e26b197857623a228d27e9dc6f4d9670e5",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.927155452Z"
+}

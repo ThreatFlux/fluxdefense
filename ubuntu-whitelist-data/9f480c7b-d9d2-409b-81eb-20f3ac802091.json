@@ -1,0 +1,17 @@
+{
+  "uuid": "9f480c7b-d9d2-409b-81eb-20f3ac802091",
+  "path": "/lib/x86_64-linux-gnu/libgvnc-1.0.so.0.0.1",
+  "size": 170288,
+  "modified": "2024-03-31T18:22:04Z",
+  "created": "2025-05-09T05:56:48.194657719Z",
+  "sha256_hash": "d6f758c513a382554f0e61d29c8834ff86ce9a3d20ffacea54bc2b1e668cb9c5",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.859502198Z"
+}

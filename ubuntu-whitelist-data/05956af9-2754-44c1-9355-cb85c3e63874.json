@@ -1,0 +1,17 @@
+{
+  "uuid": "05956af9-2754-44c1-9355-cb85c3e63874",
+  "path": "/usr/lib/firmware/amdgpu/yellow_carp_rlc.bin.zst",
+  "size": 45050,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.427543266Z",
+  "sha256_hash": "206d9394eee7a5ac4c634621aed6bde001ee492bb395a465ec708ffd3102699f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.072480703Z"
+}

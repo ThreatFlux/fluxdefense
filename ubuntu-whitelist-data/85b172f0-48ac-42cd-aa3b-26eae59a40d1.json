@@ -1,0 +1,17 @@
+{
+  "uuid": "85b172f0-48ac-42cd-aa3b-26eae59a40d1",
+  "path": "/usr/lib/python3.12/test/decimaltestdata/dqMin.decTest",
+  "size": 12004,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.993551749Z",
+  "sha256_hash": "bfb997c6d1af30f2b996eb7b8b6ed811aff39c252b83393475bd8e5d33ce9533",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.983278622Z"
+}

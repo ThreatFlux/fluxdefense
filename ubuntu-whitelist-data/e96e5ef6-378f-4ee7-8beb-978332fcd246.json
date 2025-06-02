@@ -1,0 +1,17 @@
+{
+  "uuid": "e96e5ef6-378f-4ee7-8beb-978332fcd246",
+  "path": "/usr/lib/firmware/radeon/PITCAIRN_pfp.bin.zst",
+  "size": 2068,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "8a085de88e143e4acad534a42f59b07a8413d48ce4fdf509cc4298a0119b7949",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.412217460Z"
+}

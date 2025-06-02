@@ -1,0 +1,17 @@
+{
+  "uuid": "5b40fa93-6a7f-44df-a2ca-e35b05a764a8",
+  "path": "/usr/lib/firmware/amdgpu/vangogh_dmcub.bin.zst",
+  "size": 55743,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.419543377Z",
+  "sha256_hash": "4587fb986d1333e06c49d4d911f15304f1c1c64710287f6e5995e17460975c43",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.106480030Z"
+}

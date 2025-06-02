@@ -1,0 +1,17 @@
+{
+  "uuid": "41317195-a71c-4991-b921-b61892d1dd69",
+  "path": "/lib/x86_64-linux-gnu/libpaper.so.1.1.2",
+  "size": 20072,
+  "modified": "2024-04-08T16:06:21Z",
+  "created": "2025-05-09T05:07:31.786716006Z",
+  "sha256_hash": "d10324ee6eb9fba75439f8f68cf4e640be5bd46a8868db90964a134c33aeb19c",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.727703165Z"
+}

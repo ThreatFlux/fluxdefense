@@ -1,0 +1,17 @@
+{
+  "uuid": "cf4029ff-a37d-446a-882c-db74b064b715",
+  "path": "/usr/lib/firmware/qca/rampatch_usb_00000200.bin.zst",
+  "size": 37567,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.968535773Z",
+  "sha256_hash": "e874600e8d7587877c9ef07cdc30cd88444048b00aeede05c667c4746b98b99c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.451082225Z"
+}

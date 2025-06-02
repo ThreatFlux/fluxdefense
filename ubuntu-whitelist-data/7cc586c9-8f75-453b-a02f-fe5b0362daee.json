@@ -1,0 +1,15 @@
+{
+  "uuid": "7cc586c9-8f75-453b-a02f-fe5b0362daee",
+  "path": "/usr/sbin/perlstat-bpfcc",
+  "size": 54,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "d498434a9c699a5e57b1117a54e14d4d0650a58ec9c67a1a7f8610df2527e5cf",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.150355978Z"
+}

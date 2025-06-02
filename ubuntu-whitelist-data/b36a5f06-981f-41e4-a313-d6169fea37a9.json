@@ -1,0 +1,15 @@
+{
+  "uuid": "b36a5f06-981f-41e4-a313-d6169fea37a9",
+  "path": "/usr/lib/llvm-18/lib/LLVMPolly.so",
+  "size": 3989152,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:30.761543696Z",
+  "sha256_hash": "262c10900298a3e7e1cd631ea26002256b005d3de303109bf882cb7e259d1c51",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.172294541Z"
+}

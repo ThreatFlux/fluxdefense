@@ -1,0 +1,15 @@
+{
+  "uuid": "bc448fcc-6954-455f-ac46-bf75f5f65705",
+  "path": "/bin/fc-list",
+  "size": 14720,
+  "modified": "2024-03-31T00:59:34Z",
+  "created": "2025-05-09T05:07:19.210907907Z",
+  "sha256_hash": "6ba4c9975e6c4a933627e223b15eb99a6f88b958ea38b33427b0ace1f8ac06a7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.236058505Z"
+}

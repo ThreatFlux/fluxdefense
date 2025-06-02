@@ -1,0 +1,15 @@
+{
+  "uuid": "e670f949-fd7e-453a-b3b4-4b4bc8c6615a",
+  "path": "/usr/lib/python3/dist-packages/gi/_gi.cpython-312-x86_64-linux-gnu.so",
+  "size": 357400,
+  "modified": "2024-04-06T10:49:50Z",
+  "created": "2025-05-09T05:07:26.884790808Z",
+  "sha256_hash": "ccea8fd632c76c13635f6a81b2dc5e7e22a8de396821607e96a236880c3c0ecc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.915920108Z"
+}

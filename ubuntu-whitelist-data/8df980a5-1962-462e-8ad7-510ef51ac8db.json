@@ -1,0 +1,17 @@
+{
+  "uuid": "8df980a5-1962-462e-8ad7-510ef51ac8db",
+  "path": "/usr/lib/x86_64-linux-gnu/libwhoopsie.so.0.0",
+  "size": 23056,
+  "modified": "2024-03-31T08:32:58Z",
+  "created": "2025-05-09T05:07:35.000666961Z",
+  "sha256_hash": "68eba228e03ac485eaf68a96b113ca54cd7052139dabd65d5839aa2e444734b3",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.477419190Z"
+}

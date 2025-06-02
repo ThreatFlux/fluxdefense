@@ -1,0 +1,17 @@
+{
+  "uuid": "5e7c7208-c5a9-412c-a89c-482df5af3bef",
+  "path": "/lib/x86_64-linux-gnu/samba/libndr-samba4.so.0",
+  "size": 2079024,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.069635389Z",
+  "sha256_hash": "42c32a6e280fb26a58c4296008c6654b56558cf6a2aa47c7b8aab322aee1ebf7",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.476386746Z"
+}

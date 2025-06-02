@@ -1,0 +1,15 @@
+{
+  "uuid": "6f68ac5e-9861-4799-85ba-413d024c2906",
+  "path": "/usr/lib/x86_64-linux-gnu/security/pam_nologin.so",
+  "size": 14488,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:37.201633375Z",
+  "sha256_hash": "a63f18bf05ab1bf231fd211efff75518b0f2b6e4e325b61310ea14191fbac950",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.650299543Z"
+}

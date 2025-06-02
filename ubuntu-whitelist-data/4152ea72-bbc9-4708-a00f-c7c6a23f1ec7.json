@@ -1,0 +1,17 @@
+{
+  "uuid": "4152ea72-bbc9-4708-a00f-c7c6a23f1ec7",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/abseil/NoInternalDependenciesCheck.h",
+  "size": 1376,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.555533239Z",
+  "sha256_hash": "907c6122832780d54060e81262f41af49a951fa200579f8b15cc3571cf9ea08e",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.245356806Z"
+}

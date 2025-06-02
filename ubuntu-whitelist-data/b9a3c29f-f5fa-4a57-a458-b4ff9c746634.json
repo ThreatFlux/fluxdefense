@@ -1,0 +1,15 @@
+{
+  "uuid": "b9a3c29f-f5fa-4a57-a458-b4ff9c746634",
+  "path": "/lib/x86_64-linux-gnu/libbfd-2.42-system.so",
+  "size": 1479888,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:51.425584888Z",
+  "sha256_hash": "43b796c2603b848614cfa55adc198338bce103cddd2aedcc5c863243e90b9d06",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.877514658Z"
+}

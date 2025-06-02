@@ -1,0 +1,17 @@
+{
+  "uuid": "c3148750-a98e-4e2f-aa32-0a95cb2979bf",
+  "path": "/usr/lib/systemd/user/tracker-writeback-3.service",
+  "size": 297,
+  "modified": "2024-03-31T17:20:13Z",
+  "created": "2025-05-09T05:07:28.307769094Z",
+  "sha256_hash": "943fd4c35556e47b830dd96a61f4eadb5b95d0b3c91db06c2df5257bdaf29e62",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.502846226Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "dbd9d006-ae69-41c0-9d27-02f8a0060c84",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/atk.pc",
+  "size": 254,
+  "modified": "2024-04-08T14:37:40Z",
+  "created": "2025-05-29T11:16:07.500039579Z",
+  "sha256_hash": "29b03a3f3e28bec690c5c90a5cb9a4deb7dcf62a255bbfe5ac82a97e3a3e7ab3",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.065594034Z"
+}

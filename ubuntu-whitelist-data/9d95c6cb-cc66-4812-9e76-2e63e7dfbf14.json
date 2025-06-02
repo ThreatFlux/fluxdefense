@@ -1,0 +1,15 @@
+{
+  "uuid": "9d95c6cb-cc66-4812-9e76-2e63e7dfbf14",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_AUDIT.so",
+  "size": 14784,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.330631406Z",
+  "sha256_hash": "5546fab57d3e1f3b5dcdc6e6e90e48b9f078e409d51167a5add0f2a7497998ff",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.672938383Z"
+}

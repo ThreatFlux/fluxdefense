@@ -1,0 +1,17 @@
+{
+  "uuid": "a29aa5f7-e435-4e54-8912-6a1159971d48",
+  "path": "/lib/firmware/yamaha/ds1_ctrl.fw.zst",
+  "size": 3108,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.087534125Z",
+  "sha256_hash": "3dfdafc3b11e21f185a1ba8a1e0cf422f6bcf7db5b70c569ec77184fb26f69a5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.465145037Z"
+}

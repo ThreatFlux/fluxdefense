@@ -1,0 +1,17 @@
+{
+  "uuid": "aea35cff-a9ea-40d3-a039-c677ff5d1b9e",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-matsushita.so.1.2.1",
+  "size": 76496,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.144634245Z",
+  "sha256_hash": "f1574b93e41f4a8217d390e2d546ad2bc04b19a4c0e46f243aa07b8c14c4ddb5",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.162748137Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "0b52f64f-bc6e-4d7f-84ad-1fbc816c4571",
+  "path": "/lib/x86_64-linux-gnu/libdebuginfod-0.190.so",
+  "size": 35624,
+  "modified": "2025-03-17T16:03:58Z",
+  "created": "2025-05-09T05:09:47.389646489Z",
+  "sha256_hash": "ada59231b9ce983951fdd3425ebb4c138fa473b7470d5bc9d9285a3f8687f801",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.965181206Z"
+}

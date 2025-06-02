@@ -1,0 +1,15 @@
+{
+  "uuid": "2eec6c43-db91-41ad-b0e7-9d331ed76ff1",
+  "path": "/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-client-device.so",
+  "size": 55568,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.779860062Z",
+  "sha256_hash": "35f3aabc46e24008b7ae845e220f04fdd6547024edafac2dad74c37ce0e23d6c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.890166628Z"
+}

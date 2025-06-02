@@ -1,0 +1,17 @@
+{
+  "uuid": "73134a0b-4d02-4e9c-bfb7-0d2443569293",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/CLWarnings.h",
+  "size": 796,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.526533621Z",
+  "sha256_hash": "e3d8aa2d9adfec599d8d2e7ef2a1249c52da71a9ff6af6db11e5cf2406b8a1fd",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.599171446Z"
+}

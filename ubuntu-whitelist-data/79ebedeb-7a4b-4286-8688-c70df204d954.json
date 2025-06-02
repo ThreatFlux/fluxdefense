@@ -1,0 +1,17 @@
+{
+  "uuid": "79ebedeb-7a4b-4286-8688-c70df204d954",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-tasloc.ali",
+  "size": 1643,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.145343843Z",
+  "sha256_hash": "21c15540bcd5d2ace16394164abdc6e1788995ddc508c9b35ea4e75d197119aa",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.646436856Z"
+}

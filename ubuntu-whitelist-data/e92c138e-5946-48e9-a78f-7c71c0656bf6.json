@@ -1,0 +1,15 @@
+{
+  "uuid": "e92c138e-5946-48e9-a78f-7c71c0656bf6",
+  "path": "/sbin/biotop-bpfcc",
+  "size": 9567,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.520499194Z",
+  "sha256_hash": "0c5f5fd90f71e624df5950259c7c9829420300af7f07d89a60a11c9f7adb7ede",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.741717224Z"
+}

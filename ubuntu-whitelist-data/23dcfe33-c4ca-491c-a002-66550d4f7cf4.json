@@ -1,0 +1,17 @@
+{
+  "uuid": "23dcfe33-c4ca-491c-a002-66550d4f7cf4",
+  "path": "/lib/i386-linux-gnu/libnss_dns.so.2",
+  "size": 13620,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.293663217Z",
+  "sha256_hash": "560666f4b39c2baf8a0e3b1be4e37389b364cf8e296d799a0bc768b2c8349225",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.878211333Z"
+}

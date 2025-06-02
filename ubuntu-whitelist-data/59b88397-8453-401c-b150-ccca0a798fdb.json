@@ -1,0 +1,17 @@
+{
+  "uuid": "59b88397-8453-401c-b150-ccca0a798fdb",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/sys/wait.ph",
+  "size": 3073,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.560590686Z",
+  "sha256_hash": "35f898690edd21df2377610dc84f139868271ee40e19a69e1e8e183b03fbf471",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.573487438Z"
+}

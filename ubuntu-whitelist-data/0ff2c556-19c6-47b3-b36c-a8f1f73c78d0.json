@@ -1,0 +1,17 @@
+{
+  "uuid": "0ff2c556-19c6-47b3-b36c-a8f1f73c78d0",
+  "path": "/lib/firmware/nvidia/gp10b/pmu/image.bin.zst",
+  "size": 19376,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.941536147Z",
+  "sha256_hash": "939c49949de60c46272653b484850adf5d65d3030328d857cd876eddf0163a13",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.419881595Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a04557e6-48e7-4356-bf75-bf91b01d575f",
+  "path": "/usr/lib/firmware/nvidia/gm204/gr/fecs_sig.bin.zst",
+  "size": 89,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.937536202Z",
+  "sha256_hash": "d68765e374ea5c6d68b63764fd20d03079f60ea9583105670e6b660e6dd3ab60",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.292833795Z"
+}

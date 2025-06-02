@@ -1,0 +1,17 @@
+{
+  "uuid": "fdd27bd6-e7e9-4b68-82ef-93563966eacf",
+  "path": "/usr/lib/firmware/cis/COMpad4.cis.zst",
+  "size": 89,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.510542117Z",
+  "sha256_hash": "4fe478f7c3fd0b692b031235a901528a49880939f0b67df338726e72cace1979",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:57.029859582Z"
+}

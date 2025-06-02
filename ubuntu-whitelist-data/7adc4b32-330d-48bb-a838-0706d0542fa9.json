@@ -1,0 +1,15 @@
+{
+  "uuid": "7adc4b32-330d-48bb-a838-0706d0542fa9",
+  "path": "/usr/lib/systemd/system-generators/systemd-fstab-generator",
+  "size": 56072,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.516779393Z",
+  "sha256_hash": "b8f45686f25a144044210a57934816af598e31ee0fcbed95819b27911f22db47",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.428902566Z"
+}

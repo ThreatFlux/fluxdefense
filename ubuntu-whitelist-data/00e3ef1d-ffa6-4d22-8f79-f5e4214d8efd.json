@@ -1,0 +1,17 @@
+{
+  "uuid": "00e3ef1d-ffa6-4d22-8f79-f5e4214d8efd",
+  "path": "/lib/firmware/libertas/cf8385.bin.zst",
+  "size": 65645,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.668539928Z",
+  "sha256_hash": "5fd71f566b10e6ab43371a87b3a83dce6f7606e28177ae485fe67e492a774245",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:01.948939033Z"
+}

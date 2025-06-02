@@ -1,0 +1,17 @@
+{
+  "uuid": "3ca9a0ee-0b0e-4f48-be16-e56f7d6f964b",
+  "path": "/usr/lib/systemd/user/gvfs-metadata.service",
+  "size": 195,
+  "modified": "2024-04-18T13:39:03Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "8a1164937a2b1251b24440abdb40f3582f1d0e88b12daff87eebd8c4e940865e",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.501762641Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "e1af7fad-6659-4a23-9644-9054b6fd3f19",
+  "path": "/usr/lib/google-cloud-sdk/platform/gsutil/gslib/lazy_wrapper.py",
+  "size": 2311,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.850929933Z",
+  "sha256_hash": "17a43effa9f1c65676cae49558a76a480c4ee802147cbd788e27b63bcc6848a9",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.574367554Z"
+}

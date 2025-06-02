@@ -1,0 +1,17 @@
+{
+  "uuid": "77b03614-11da-489b-a1ac-c5e453f8b92e",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/libfl.pc",
+  "size": 181,
+  "modified": "2024-04-08T15:57:47Z",
+  "created": "2025-05-28T13:47:39.479578950Z",
+  "sha256_hash": "3e54080534e6332c821aa4efa8047388a38a0fffe62d1e5f50099727ec2723ed",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.104568169Z"
+}

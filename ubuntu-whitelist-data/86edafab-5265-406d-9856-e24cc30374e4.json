@@ -1,0 +1,17 @@
+{
+  "uuid": "86edafab-5265-406d-9856-e24cc30374e4",
+  "path": "/usr/lib/x86_64-linux-gnu/libgstaudio-1.0.so.0.2402.0",
+  "size": 539304,
+  "modified": "2024-12-17T13:24:56Z",
+  "created": "2025-05-09T05:07:30.020742954Z",
+  "sha256_hash": "8bbea1a8af017f9d47ddeed7560f9495a7612a50c650d2e82ca5476ce6209801",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.143539050Z"
+}

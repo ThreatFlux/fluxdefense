@@ -1,0 +1,17 @@
+{
+  "uuid": "d86c8d39-0d35-47e2-b028-5fbdfb5a24ae",
+  "path": "/lib/systemd/system/graphical.target",
+  "size": 606,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "07df05786d62d57c98c66d3cf808e245ed274c19a7bfdd9c0c8f310d1a0c324d",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.107467931Z"
+}

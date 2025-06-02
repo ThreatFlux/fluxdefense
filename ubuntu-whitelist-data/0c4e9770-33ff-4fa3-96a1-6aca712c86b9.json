@@ -1,0 +1,15 @@
+{
+  "uuid": "0c4e9770-33ff-4fa3-96a1-6aca712c86b9",
+  "path": "/usr/sbin/capsh",
+  "size": 58456,
+  "modified": "2025-02-20T15:49:57Z",
+  "created": "2025-05-09T05:11:26.264137277Z",
+  "sha256_hash": "e5ce3b058185f1379d7280ae5057e3d92bab8619cb08a78b1ed6a11c08d8726c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.308568462Z"
+}

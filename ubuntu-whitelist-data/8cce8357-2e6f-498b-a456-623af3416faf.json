@@ -1,0 +1,15 @@
+{
+  "uuid": "8cce8357-2e6f-498b-a456-623af3416faf",
+  "path": "/lib/x86_64-linux-gnu/totem/plugins/vimeo/libvimeo.so",
+  "size": 22760,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:37.303631818Z",
+  "sha256_hash": "198c433c91a58858729c1d2ca788c9710b7fdb01e5ef1c42f7e8692247268dac",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.422253120Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "002da1ba-9a24-496e-8037-8006debf3f3c",
+  "path": "/usr/lib/systemd/system/usb_modeswitch@.service",
+  "size": 273,
+  "modified": "2024-04-08T16:21:24Z",
+  "created": "2025-05-09T05:07:28.304769139Z",
+  "sha256_hash": "fbc3972f2e92fda3691fa194dfb6c9b2b7e390533bef5a7c8acdd59db464a34d",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.479690488Z"
+}

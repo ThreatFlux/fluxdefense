@@ -1,0 +1,17 @@
+{
+  "uuid": "48c28f5b-2bfa-48a8-a81d-806a30f76d86",
+  "path": "/lib/cups/filter/musicxmltobrf",
+  "size": 893,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.357875146Z",
+  "sha256_hash": "61dd2c019bacd9a75a0d8ce126c1ce79afe5753f4dd2552f7e0a1f3d1e2f4ef4",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.632891572Z"
+}

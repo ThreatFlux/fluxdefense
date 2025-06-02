@@ -1,0 +1,17 @@
+{
+  "uuid": "de94fe0a-97fd-40b2-bef9-6e98b37dd701",
+  "path": "/lib/x86_64-linux-gnu/swtpm/libswtpm_libtpms.so.0.0.0",
+  "size": 92400,
+  "modified": "2024-07-30T22:16:43Z",
+  "created": "2025-05-09T05:56:58.327543910Z",
+  "sha256_hash": "d5387902bf7bd24b73bd0f443b52ab64f24775160a2eda402acdaf563b468bbc",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.834542830Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "4ab9aa75-14e4-4fb6-9a8f-a27ae18991eb",
+  "path": "/lib/firmware/iwlwifi-QuZ-a0-jf-b0-72.ucode.zst",
+  "size": 471052,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.612540704Z",
+  "sha256_hash": "5cbb6111abc83282e7585b9606809592c91ef5f8592b5f11dc5d5c3d3c7b82fc",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:03.248179960Z"
+}

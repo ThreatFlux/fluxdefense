@@ -1,0 +1,17 @@
+{
+  "uuid": "9b535795-bad8-4ed2-b0be-294bfe741d45",
+  "path": "/lib/modules/6.11.0-25-generic/kernel/zfs/spl.ko.zst",
+  "size": 57869,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.151459040Z",
+  "sha256_hash": "ee2a385cd691ee41cb1da803701af6923f2d217d51867ef523e1fc3097cac203",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.894802131Z"
+}

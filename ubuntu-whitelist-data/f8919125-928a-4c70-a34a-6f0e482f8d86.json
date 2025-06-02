@@ -1,0 +1,17 @@
+{
+  "uuid": "f8919125-928a-4c70-a34a-6f0e482f8d86",
+  "path": "/usr/lib/firmware/htc_7010.fw.zst",
+  "size": 31777,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.531541826Z",
+  "sha256_hash": "1eda3ffe2120e22bc5f851f5c863d3833bfc297cabc40f0da56687a1dfd2765f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.513015958Z"
+}

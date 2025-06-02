@@ -1,0 +1,15 @@
+{
+  "uuid": "5e275c49-9c68-45ed-a940-0dfd971d837d",
+  "path": "/usr/bin/zdump",
+  "size": 31008,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:20.951881341Z",
+  "sha256_hash": "e1d412609b37a5ba818061b9255354a7b5229cbd4437aa5864dc1d5f795ae617",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:14.429243230Z"
+}

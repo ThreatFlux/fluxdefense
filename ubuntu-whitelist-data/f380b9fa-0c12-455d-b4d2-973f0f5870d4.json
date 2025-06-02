@@ -1,0 +1,15 @@
+{
+  "uuid": "f380b9fa-0c12-455d-b4d2-973f0f5870d4",
+  "path": "/usr/sbin/update-dictcommon-hunspell",
+  "size": 782,
+  "modified": "2023-09-07T08:57:00Z",
+  "created": "2025-05-09T05:07:38.450614315Z",
+  "sha256_hash": "038cb3e4b771110114f906cf61d283b7cc8bfae843e670f793a1ec290dbd0f3c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.524297533Z"
+}

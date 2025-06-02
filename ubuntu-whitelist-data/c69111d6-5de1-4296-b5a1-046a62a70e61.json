@@ -1,0 +1,17 @@
+{
+  "uuid": "c69111d6-5de1-4296-b5a1-046a62a70e61",
+  "path": "/usr/lib/grub/x86_64-efi/lsefi.mod",
+  "size": 5152,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.813708384Z",
+  "sha256_hash": "61c8ab6aec2948283d0821a53b34950e23f2fb07fa9358f220f355015547fe25",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.463841550Z"
+}

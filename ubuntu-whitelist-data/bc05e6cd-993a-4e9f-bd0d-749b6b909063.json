@@ -1,0 +1,15 @@
+{
+  "uuid": "bc05e6cd-993a-4e9f-bd0d-749b6b909063",
+  "path": "/lib/x86_64-linux-gnu/libgettextsrc-0.21.so",
+  "size": 325472,
+  "modified": "2024-04-08T15:58:30Z",
+  "created": "2025-05-29T11:15:44.960348856Z",
+  "sha256_hash": "6d1871f773cd8a53857d818e4643732f8cf6cfb0be2560fbf197ab68edb12236",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.692009089Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "12aeb2a6-3e07-42ca-8876-d294876fdaaa",
+  "path": "/usr/lib/x86_64-linux-gnu/libicalvcal.so.3.0.17",
+  "size": 84648,
+  "modified": "2024-04-06T01:14:50Z",
+  "created": "2025-05-09T05:07:30.188740391Z",
+  "sha256_hash": "9f1ddcffed6285af9e31977b49f41ec392b4cdfec0ffa44c701904bf11df50bd",
+  "file_type": {
+    "Other": "17"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.293548838Z"
+}

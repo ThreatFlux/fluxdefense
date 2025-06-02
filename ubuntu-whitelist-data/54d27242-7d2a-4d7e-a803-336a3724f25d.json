@@ -1,0 +1,17 @@
+{
+  "uuid": "54d27242-7d2a-4d7e-a803-336a3724f25d",
+  "path": "/usr/lib/firmware/rtl_nic/rtl8402-1.fw.zst",
+  "size": 850,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.067534402Z",
+  "sha256_hash": "f10ab81ac58fb1a1a58eeb62ae00d1542ffd5084230a1abcd88a6f13eee2907e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.565818797Z"
+}

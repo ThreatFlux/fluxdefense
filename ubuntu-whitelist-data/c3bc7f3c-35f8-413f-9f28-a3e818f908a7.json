@@ -1,0 +1,17 @@
+{
+  "uuid": "c3bc7f3c-35f8-413f-9f28-a3e818f908a7",
+  "path": "/usr/lib/x86_64-linux-gnu/libsmartcols.so.1.1.0",
+  "size": 112792,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:32.168710177Z",
+  "sha256_hash": "b9adc017420905de2d0739621d8403ff98a356b249d722cb89a74b6688659a5c",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:08.595059163Z"
+}

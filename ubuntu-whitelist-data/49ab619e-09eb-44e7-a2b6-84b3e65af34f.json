@@ -1,0 +1,15 @@
+{
+  "uuid": "49ab619e-09eb-44e7-a2b6-84b3e65af34f",
+  "path": "/lib/llvm-18/lib/libLLVMLanaiAsmParser.a",
+  "size": 71996,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.912462691Z",
+  "sha256_hash": "7cc135fbfe86be5354b18bbe412d16d912e833273f4b5cf50029a2e42f4f8c5f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.663174510Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f0298184-0fc3-44b5-8e36-f16ef3c3b9a6",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/BranchCloneCheck.h",
+  "size": 1619,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "c470902b59780d1d982b0a855338a3394f4adf191339986f56a40ee5a755c209",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.896609149Z"
+}

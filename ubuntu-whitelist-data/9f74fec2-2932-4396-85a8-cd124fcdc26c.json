@@ -1,0 +1,17 @@
+{
+  "uuid": "9f74fec2-2932-4396-85a8-cd124fcdc26c",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/IncorrectRoundingsCheck.h",
+  "size": 1489,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "00bbc9627bb65e38834328fa9ab0c0defb1d2579fac04b5398ac9186d83b2c4f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.896694599Z"
+}

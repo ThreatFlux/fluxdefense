@@ -1,0 +1,15 @@
+{
+  "uuid": "64701fa0-683e-4e35-a25a-57593acc5915",
+  "path": "/usr/lib/x86_64-linux-gnu/rhythmbox/plugins/grilo/libgrilo.so",
+  "size": 47344,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:36.990636595Z",
+  "sha256_hash": "1e68187f9c636f70376f4ef804e866980e11ed3d15835858bcd8de2ea5e4c05d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.576938034Z"
+}

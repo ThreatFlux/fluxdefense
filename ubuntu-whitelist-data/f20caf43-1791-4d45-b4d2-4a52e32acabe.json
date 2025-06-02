@@ -1,0 +1,17 @@
+{
+  "uuid": "f20caf43-1791-4d45-b4d2-4a52e32acabe",
+  "path": "/lib/google-cloud-sdk/VERSION",
+  "size": 8,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.314922053Z",
+  "sha256_hash": "57b3c64606328330e94d11ad7562bc6b5b2915faed7273d47d0eb22799d2e84c",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.934004279Z"
+}

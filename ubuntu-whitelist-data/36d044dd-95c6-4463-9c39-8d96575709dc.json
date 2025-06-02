@@ -1,0 +1,17 @@
+{
+  "uuid": "36d044dd-95c6-4463-9c39-8d96575709dc",
+  "path": "/lib/llvm-18/include/clang/CrossTU/CrossTUDiagnostic.h",
+  "size": 558,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.539533450Z",
+  "sha256_hash": "5fd8126810acd91833a4811969df7a71cab18e81410da79404aa4083cbfb6120",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.020625417Z"
+}

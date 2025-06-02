@@ -1,0 +1,15 @@
+{
+  "uuid": "ae51b4b3-a11d-4860-93a8-9265f8a7aa3a",
+  "path": "/usr/sbin/statsnoop-bpfcc",
+  "size": 5041,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.523499148Z",
+  "sha256_hash": "ef5a0e03a2878c72d3a10cd794ad011dbf5f0b2854e35ded598d24d095229daa",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.576984798Z"
+}

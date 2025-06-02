@@ -1,0 +1,17 @@
+{
+  "uuid": "ebdbb5a6-f408-41c1-ae29-c97d6e2e0536",
+  "path": "/usr/lib/firmware/brcm/brcmfmac4371-pcie.bin.zst",
+  "size": 374057,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.489542408Z",
+  "sha256_hash": "ab736dc89c9ca6a3278f4b4206a985feab04b9b065d9ae1bf0c8c73b7ee3c0ed",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.627368826Z"
+}

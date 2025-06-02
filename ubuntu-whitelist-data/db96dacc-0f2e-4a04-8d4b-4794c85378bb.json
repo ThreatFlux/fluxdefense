@@ -1,0 +1,17 @@
+{
+  "uuid": "db96dacc-0f2e-4a04-8d4b-4794c85378bb",
+  "path": "/lib/firmware/amd/amd_sev_fam19h_model0xh.sbin",
+  "size": 88320,
+  "modified": "2023-10-21T18:01:08Z",
+  "created": "2025-05-09T05:08:55.077444908Z",
+  "sha256_hash": "4123e12cb50e7d518bed4248e34906d91cee97b1a37cdb26e4399930f20ffe4f",
+  "file_type": {
+    "Other": "sbin"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.597937932Z"
+}

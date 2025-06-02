@@ -1,0 +1,17 @@
+{
+  "uuid": "eea8c2c7-bb2d-46b0-9a9d-7d4f6dd81eb5",
+  "path": "/lib/llvm-18/include/clang/Basic/WebAssemblyReferenceTypes.def",
+  "size": 1355,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.532533542Z",
+  "sha256_hash": "189ee3e0fa330630d74f78223710d3efdbe01c8f22273e16ddf7b7ff9e854bcc",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.072390248Z"
+}

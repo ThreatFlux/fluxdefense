@@ -1,0 +1,17 @@
+{
+  "uuid": "3d05c6fd-ea56-4645-a556-3a74f651bca3",
+  "path": "/lib/firmware/i915/ehl_huc_9.0.0.bin.zst",
+  "size": 118569,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.537541743Z",
+  "sha256_hash": "3aa76ca9f25d916e64a56267338d37993b8e4e7321856de83d98d14e15ace4ad",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.770781624Z"
+}

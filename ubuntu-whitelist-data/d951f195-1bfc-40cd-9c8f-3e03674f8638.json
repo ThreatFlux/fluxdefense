@@ -1,0 +1,15 @@
+{
+  "uuid": "d951f195-1bfc-40cd-9c8f-3e03674f8638",
+  "path": "/bin/aplay",
+  "size": 84400,
+  "modified": "2024-04-07T07:09:55Z",
+  "created": "2025-05-09T05:07:18.917912378Z",
+  "sha256_hash": "0d3645e574a0fd865879d865ee054e18cac5c3248dbfd7ecd92e9529f98319f9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.079745674Z"
+}

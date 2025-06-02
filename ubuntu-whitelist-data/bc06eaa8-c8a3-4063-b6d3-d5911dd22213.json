@@ -1,0 +1,15 @@
+{
+  "uuid": "bc06eaa8-c8a3-4063-b6d3-d5911dd22213",
+  "path": "/usr/bin/systemd-delta",
+  "size": 27080,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.505779253Z",
+  "sha256_hash": "127fe0b29e66414b512568285da618accab2c6554ae3eaa247b14e689a6831f9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.376246793Z"
+}

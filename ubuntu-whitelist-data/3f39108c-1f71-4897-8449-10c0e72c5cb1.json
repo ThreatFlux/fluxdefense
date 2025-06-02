@@ -1,0 +1,17 @@
+{
+  "uuid": "3f39108c-1f71-4897-8449-10c0e72c5cb1",
+  "path": "/lib/firmware/rockchip/dptx.bin.zst",
+  "size": 32781,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.064534443Z",
+  "sha256_hash": "5275cfd82f68a7517a983ea1e482943941681510dec0536d4c2fb7fe68ac20cd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.366440226Z"
+}

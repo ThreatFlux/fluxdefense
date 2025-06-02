@@ -1,0 +1,17 @@
+{
+  "uuid": "c91820b4-c1d5-47b2-8bdf-d10ec1b88710",
+  "path": "/usr/lib/x86_64-linux-gnu/libxcb-glx.so.0.0.0",
+  "size": 112840,
+  "modified": "2024-04-18T14:21:22Z",
+  "created": "2025-05-09T05:07:35.149664688Z",
+  "sha256_hash": "7537790510f7a4a14cc54785761dffb1c6fc0058fc379f9cdb0ff26bafee3ff1",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:17.911374585Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "13af811b-8519-49a2-9907-fadfa48fee3c",
+  "path": "/lib/x86_64-linux-gnu/libisc-9.18.30-0ubuntu0.24.04.2-Ubuntu.so",
+  "size": 601200,
+  "modified": "2025-01-28T14:26:30Z",
+  "created": "2025-05-09T05:07:30.568734592Z",
+  "sha256_hash": "9a0ef2f1727ba5a9365615e476e8e737bb30bc82db703bee4c5331df99b5c82f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.264861400Z"
+}

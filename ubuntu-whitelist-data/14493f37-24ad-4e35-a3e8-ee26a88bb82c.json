@@ -1,0 +1,17 @@
+{
+  "uuid": "14493f37-24ad-4e35-a3e8-ee26a88bb82c",
+  "path": "/usr/lib/firmware/amdgpu/green_sardine_mec.bin.zst",
+  "size": 30054,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.400543640Z",
+  "sha256_hash": "4355e6f25c0df8b09930cdfed4ce35555520a840e95d397e7a6e67c8689537f1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.020806824Z"
+}

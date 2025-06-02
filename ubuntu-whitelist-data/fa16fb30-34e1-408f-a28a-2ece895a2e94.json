@@ -1,0 +1,17 @@
+{
+  "uuid": "fa16fb30-34e1-408f-a28a-2ece895a2e94",
+  "path": "/usr/lib/firmware/qca/apnv11.bin.zst",
+  "size": 2076,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.966535801Z",
+  "sha256_hash": "0111cfbb0294a68946ceccfb0572bfa9657db92f0247128a5f28f0615ea69568",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.445090601Z"
+}

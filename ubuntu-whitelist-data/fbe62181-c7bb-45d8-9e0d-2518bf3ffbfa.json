@@ -1,0 +1,17 @@
+{
+  "uuid": "fbe62181-c7bb-45d8-9e0d-2518bf3ffbfa",
+  "path": "/usr/lib/systemd/system/sssd-pac.service",
+  "size": 458,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:28.301769185Z",
+  "sha256_hash": "fbfa4986524d664fcdfbf5c472eddff38e48eabf447ea14d95ccb61f4cf2483c",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.455552122Z"
+}

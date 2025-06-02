@@ -1,0 +1,17 @@
+{
+  "uuid": "8f4991ae-71b9-404c-9611-20648888062c",
+  "path": "/usr/lib/grub/x86_64-efi/json.mod",
+  "size": 5912,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.811708415Z",
+  "sha256_hash": "6b95e9405408326b8cb022b236ed079152a2a5d6831baf0473e6a2c78d080622",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.504716885Z"
+}

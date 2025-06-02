@@ -1,0 +1,15 @@
+{
+  "uuid": "cb828447-1c07-4828-be7b-3665ea8b8f30",
+  "path": "/usr/bin/pzstd",
+  "size": 707112,
+  "modified": "2024-08-09T02:33:22Z",
+  "created": "2025-05-09T05:07:20.364890298Z",
+  "sha256_hash": "2aee44ed419cef41c3dc372c82c7e47c537af7fd7f4251e99fd4740c193f6052",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.106217607Z"
+}

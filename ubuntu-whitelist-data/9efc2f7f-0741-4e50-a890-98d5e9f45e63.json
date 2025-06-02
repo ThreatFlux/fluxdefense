@@ -1,0 +1,15 @@
+{
+  "uuid": "9efc2f7f-0741-4e50-a890-98d5e9f45e63",
+  "path": "/usr/bin/ntfssecaudit",
+  "size": 80752,
+  "modified": "2024-04-08T14:46:29Z",
+  "created": "2025-05-09T05:07:20.248892068Z",
+  "sha256_hash": "eb39e1ec341811d45e1101e39a31e2d910213696472c7600267097c2f0056fe8",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.293352174Z"
+}

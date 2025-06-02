@@ -1,0 +1,15 @@
+{
+  "uuid": "2ac9a838-f89e-400a-8b33-48ae5cdb69b0",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/IBM860.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.650657043Z",
+  "sha256_hash": "b98a33f5921e2bae626f5a31918230f109e02bef09aeb7a1000275cd1a89663d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.478472113Z"
+}

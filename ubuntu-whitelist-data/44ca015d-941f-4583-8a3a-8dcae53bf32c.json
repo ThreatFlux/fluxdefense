@@ -1,0 +1,17 @@
+{
+  "uuid": "44ca015d-941f-4583-8a3a-8dcae53bf32c",
+  "path": "/lib/firmware/intel/sof-ipc4-tplg/sof-hda-generic.tplg.zst",
+  "size": 2227,
+  "modified": "2025-01-06T07:09:53Z",
+  "created": "2025-05-09T05:08:52.055491029Z",
+  "sha256_hash": "be1bb5ceb5e66b39ab9ffa46fa25227b2b4380109a02c2a7c4b583d62e84007d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.067400428Z"
+}

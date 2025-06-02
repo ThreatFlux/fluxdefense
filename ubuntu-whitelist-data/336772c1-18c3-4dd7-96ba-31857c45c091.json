@@ -1,0 +1,17 @@
+{
+  "uuid": "336772c1-18c3-4dd7-96ba-31857c45c091",
+  "path": "/usr/lib/firmware/i915/dg2_huc_gsc.bin.zst",
+  "size": 177205,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.536541757Z",
+  "sha256_hash": "c1fe1b690671a305109a87bf83b292166fb1cf95ce3df438493d31a4f93599e3",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.722160191Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "14624b2e-7115-46ed-8dc2-0e27c0eab6f0",
+  "path": "/lib/udev/rules.d/84-nm-drivers.rules",
+  "size": 533,
+  "modified": "2024-10-23T11:04:42Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "123dac1d3cc01d7eae08870b434c1afd9d76c1a15d4579427885e6ed46fcf171",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.249296382Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c7b79a71-40ef-40d4-b8f3-6e57acfcf938",
+  "path": "/lib/firmware/iwlwifi-ty-a0-gf-a0-79.ucode.zst",
+  "size": 574867,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.662540011Z",
+  "sha256_hash": "94118a2e4a5e5acc89957aa9f9eee3a9058a7c287a9f669d9b4f99349a0176f8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.726576289Z"
+}

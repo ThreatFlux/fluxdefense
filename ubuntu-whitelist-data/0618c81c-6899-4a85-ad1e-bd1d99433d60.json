@@ -1,0 +1,17 @@
+{
+  "uuid": "0618c81c-6899-4a85-ad1e-bd1d99433d60",
+  "path": "/lib/firmware/amdgpu/picasso_pfp.bin.zst",
+  "size": 9762,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.407543543Z",
+  "sha256_hash": "3e56affb3c9e53287239702ee84aa30237353a11cad51c522776243e425bae92",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.080016136Z"
+}

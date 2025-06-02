@@ -1,0 +1,17 @@
+{
+  "uuid": "80ee56f8-4fbe-40b8-8559-d55770894d23",
+  "path": "/usr/lib/firmware/qcom/apq8096/adspua.jsn",
+  "size": 403,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.984535551Z",
+  "sha256_hash": "141e236cecfb655dfbebdd3b5e63502725040f003aa4e4a4dd9d12fe0510f4b3",
+  "file_type": {
+    "Other": "jsn"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.936117426Z"
+}

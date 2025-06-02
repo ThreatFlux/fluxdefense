@@ -1,0 +1,17 @@
+{
+  "uuid": "5b2ccc71-ded0-4be0-9bba-8728704a3c0b",
+  "path": "/lib/x86_64-linux-gnu/libspeex.so.1.5.2",
+  "size": 116808,
+  "modified": "2024-10-30T08:36:36Z",
+  "created": "2025-05-09T05:07:32.204709627Z",
+  "sha256_hash": "3115c70bb3a24d8a8b7e79d3e55e243604f9ed534f4c606f63574731a4d04bb7",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.642049060Z"
+}

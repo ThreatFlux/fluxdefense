@@ -1,0 +1,17 @@
+{
+  "uuid": "5a8da8ee-3995-4608-9cdd-9e47b8c233b3",
+  "path": "/lib/grub/x86_64-efi/cbmemc.mod",
+  "size": 3936,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.802708552Z",
+  "sha256_hash": "ee516e882f46087ddec497d524f65246153706ee11f00858bf1d5cb86944a929",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.023426578Z"
+}

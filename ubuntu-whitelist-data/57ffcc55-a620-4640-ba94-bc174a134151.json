@@ -1,0 +1,17 @@
+{
+  "uuid": "57ffcc55-a620-4640-ba94-bc174a134151",
+  "path": "/lib/google-cloud-sdk/platform/ext-runtime/go/runtime.yaml",
+  "size": 183,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.305922206Z",
+  "sha256_hash": "a5b36acfb69b9f60f272ef2fe15816770c61fded1a864b6cf11d4db5cd84081e",
+  "file_type": {
+    "Other": "yaml"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.982853323Z"
+}

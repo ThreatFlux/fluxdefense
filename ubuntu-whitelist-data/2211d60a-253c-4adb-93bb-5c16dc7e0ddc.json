@@ -1,0 +1,17 @@
+{
+  "uuid": "2211d60a-253c-4adb-93bb-5c16dc7e0ddc",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/readability/AvoidNestedConditionalOperatorCheck.h",
+  "size": 1457,
+  "modified": "2024-01-17T08:14:10Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "5893a236c61d9fe0420fb24e810aca18d084547eb3be43772dcd29074118ecbd",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.286339230Z"
+}

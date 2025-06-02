@@ -1,0 +1,17 @@
+{
+  "uuid": "243dea81-a918-4b45-ba47-6434963cb11d",
+  "path": "/lib/firmware/ueagle-atm/CMVep.bin.zst",
+  "size": 124,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.080534222Z",
+  "sha256_hash": "1e1f7a7c7715bf6c6fee3f3cc97b1554812c8664f78a848230468ee0319be265",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.340069Z"
+}

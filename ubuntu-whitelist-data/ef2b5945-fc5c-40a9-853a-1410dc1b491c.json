@@ -1,0 +1,17 @@
+{
+  "uuid": "ef2b5945-fc5c-40a9-853a-1410dc1b491c",
+  "path": "/usr/bin/sar.sysstat",
+  "size": 140680,
+  "modified": "2024-01-09T20:31:44Z",
+  "created": "2025-05-09T05:07:20.404889688Z",
+  "sha256_hash": "4a215aabb32736e4b42d7c1c13498a4731a66c9aa456a8e75aba156170b8856a",
+  "file_type": {
+    "Other": "sysstat"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:14.913073149Z"
+}

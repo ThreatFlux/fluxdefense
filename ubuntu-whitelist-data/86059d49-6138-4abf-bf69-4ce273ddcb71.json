@@ -1,0 +1,15 @@
+{
+  "uuid": "86059d49-6138-4abf-bf69-4ce273ddcb71",
+  "path": "/sbin/genl",
+  "size": 123472,
+  "modified": "2024-03-31T09:00:13Z",
+  "created": "2025-05-09T05:07:38.209617993Z",
+  "sha256_hash": "25f8255a607a5c82ce0ab0b122c050ec7fa98a691e69a2cabfa46946879fc113",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.768096477Z"
+}

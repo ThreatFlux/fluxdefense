@@ -1,0 +1,15 @@
+{
+  "uuid": "ccf5049e-92fa-4ec4-bbf2-64de04676b24",
+  "path": "/usr/lib/x86_64-linux-gnu/gtk-2.0/2.10.0/engines/libadwaita.so",
+  "size": 14328,
+  "modified": "2024-04-08T14:39:59Z",
+  "created": "2025-05-09T05:07:35.796654815Z",
+  "sha256_hash": "50dac6f55189fd51848ffe4307eebed292bb555df4fcb2c616524a7523a7267d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.308850587Z"
+}

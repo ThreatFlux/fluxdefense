@@ -1,0 +1,15 @@
+{
+  "uuid": "c9345bf8-b296-4417-9a3a-0c64da090a84",
+  "path": "/usr/sbin/dumpe2fs",
+  "size": 35136,
+  "modified": "2024-04-28T23:44:46Z",
+  "created": "2025-05-09T05:07:38.181618420Z",
+  "sha256_hash": "a4546512b79b3dcbfa50ea68208a935f6e9c5abe1178014c0414e27ab7702862",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.700274698Z"
+}

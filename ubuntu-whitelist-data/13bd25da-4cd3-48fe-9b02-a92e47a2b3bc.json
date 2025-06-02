@@ -1,0 +1,15 @@
+{
+  "uuid": "13bd25da-4cd3-48fe-9b02-a92e47a2b3bc",
+  "path": "/usr/lib/linux-boot-probes/mounted/50lilo",
+  "size": 2331,
+  "modified": "2023-03-07T13:24:16Z",
+  "created": "2025-05-09T05:07:25.745808188Z",
+  "sha256_hash": "adfe1ed4d379153e955bbd886fa611f98a2f59cc209c297a4028ff52d274bff3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.562287022Z"
+}

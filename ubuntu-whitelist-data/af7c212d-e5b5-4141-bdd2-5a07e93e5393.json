@@ -1,0 +1,15 @@
+{
+  "uuid": "af7c212d-e5b5-4141-bdd2-5a07e93e5393",
+  "path": "/usr/bin/groups",
+  "size": 35336,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:19.743899774Z",
+  "sha256_hash": "616f3bcc4c244c7c44d452d32079356f4c207e183fec897aa64f072a4c4d5bc3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:06.012208709Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "9cc4e422-12d3-43ef-abec-c6ce82a34ade",
+  "path": "/usr/lib/llvm-18/include/clang/AST/NSAPI.h",
+  "size": 9462,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.518533726Z",
+  "sha256_hash": "59a59f9f62917e67e3d29db75179e75b0739ce1f71944235cb92548e1cfec59c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.377407892Z"
+}

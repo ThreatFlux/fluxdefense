@@ -1,0 +1,17 @@
+{
+  "uuid": "17abcd23-8ff8-4fc7-8872-990db55c2389",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-wchjis.ali",
+  "size": 2147,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.146343830Z",
+  "sha256_hash": "e8c6b863e2d776faceb42bdf85cbf5dafe925dfab5ee641e78993e8655401d6b",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.677397100Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "7e82ca2d-4431-4075-81e6-39fd68c37cae",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/s-imaged.adb",
+  "size": 3449,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.078344764Z",
+  "sha256_hash": "08e47eb5e6cec25ba931d1df27b6670205bc2d9a2891a80de18ea596f3259027",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.017160046Z"
+}

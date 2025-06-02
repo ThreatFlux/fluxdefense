@@ -1,0 +1,17 @@
+{
+  "uuid": "88745c7b-26e7-4feb-9e64-954e1f21482d",
+  "path": "/usr/lib/x86_64-linux-gnu/libyelp.so.0.0.0",
+  "size": 240448,
+  "modified": "2025-04-17T14:58:08Z",
+  "created": "2025-05-09T05:11:34.980004233Z",
+  "sha256_hash": "b34f8b06112e73a550cdac46a27c4c00504027fbc01e7c17cd9ef7be57398873",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:30.674797257Z"
+}

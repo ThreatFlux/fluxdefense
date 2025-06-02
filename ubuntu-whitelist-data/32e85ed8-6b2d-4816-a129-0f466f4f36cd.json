@@ -1,0 +1,17 @@
+{
+  "uuid": "32e85ed8-6b2d-4816-a129-0f466f4f36cd",
+  "path": "/lib/cups/filter/texttobrf",
+  "size": 8309,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.362875070Z",
+  "sha256_hash": "a047e606f8dd6398f99464ab08c526e3d2f4ac4cdf174f95e3a3108995c92139",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.631992726Z"
+}

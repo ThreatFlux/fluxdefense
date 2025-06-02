@@ -1,0 +1,17 @@
+{
+  "uuid": "434dab37-512a-4fb1-8540-88934ed37dbf",
+  "path": "/lib/x86_64-linux-gnu/libXft.so.2.3.6",
+  "size": 105944,
+  "modified": "2024-04-08T16:23:07Z",
+  "created": "2025-05-09T05:07:29.060757603Z",
+  "sha256_hash": "368eee2879589cb6716f03ba23dee35b97faa0a4102c715776c7224bef8e3164",
+  "file_type": {
+    "Other": "6"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.568175128Z"
+}

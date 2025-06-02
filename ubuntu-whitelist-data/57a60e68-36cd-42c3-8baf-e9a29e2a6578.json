@@ -1,0 +1,17 @@
+{
+  "uuid": "57a60e68-36cd-42c3-8baf-e9a29e2a6578",
+  "path": "/opt/google/chrome/PrivacySandboxAttestationsPreloaded/manifest.json",
+  "size": 122,
+  "modified": "2025-05-26T20:54:35Z",
+  "created": "2025-05-27T21:53:44.430474105Z",
+  "sha256_hash": "33bc78f38818bb3ee55c380979efb883402cb81db36196e90e15c7cc809ec666",
+  "file_type": {
+    "Other": "json"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:43.934959823Z"
+}

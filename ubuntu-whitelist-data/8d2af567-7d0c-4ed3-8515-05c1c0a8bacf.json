@@ -1,0 +1,17 @@
+{
+  "uuid": "8d2af567-7d0c-4ed3-8515-05c1c0a8bacf",
+  "path": "/lib/udev/rules.d/60-tpm-udev.rules",
+  "size": 243,
+  "modified": "2022-01-25T17:57:41Z",
+  "created": "2025-05-09T05:07:28.436767125Z",
+  "sha256_hash": "b78cfbf6322c7c95c43dc66658c69f49619aa618d5157759850c4d1ef76872f3",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.239448200Z"
+}

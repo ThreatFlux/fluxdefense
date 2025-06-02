@@ -1,0 +1,15 @@
+{
+  "uuid": "bd0fc240-e15e-4768-99df-dc013b72c015",
+  "path": "/usr/lib/llvm-18/lib/libLLVMM68kAsmParser.a",
+  "size": 96688,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.917462626Z",
+  "sha256_hash": "6cd23d4d35e55ff32da854a9120ac2197faea76a94f92d16fe32ec21a80387fa",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:32.951952763Z"
+}

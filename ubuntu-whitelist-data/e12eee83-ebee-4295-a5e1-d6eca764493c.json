@@ -1,0 +1,15 @@
+{
+  "uuid": "e12eee83-ebee-4295-a5e1-d6eca764493c",
+  "path": "/usr/lib/llvm-18/lib/libLLVMTextAPI.a",
+  "size": 710660,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.036461058Z",
+  "sha256_hash": "36792d2b46532d7a8b10d9a8cb3931596a794b6af3ad244130f3e8b384a04f26",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:29.111785122Z"
+}

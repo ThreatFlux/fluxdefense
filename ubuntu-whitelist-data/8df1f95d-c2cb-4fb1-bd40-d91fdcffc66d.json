@@ -1,0 +1,17 @@
+{
+  "uuid": "8df1f95d-c2cb-4fb1-bd40-d91fdcffc66d",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/AddressSpaces.h",
+  "size": 2925,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.524533647Z",
+  "sha256_hash": "841257146709f784b9d95e0d054e02bdea13d96c272e7f5c79163a1cce7234d6",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.482540030Z"
+}

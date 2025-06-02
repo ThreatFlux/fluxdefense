@@ -1,0 +1,17 @@
+{
+  "uuid": "b8ac1e1d-4ed0-4251-a706-a89c863a63eb",
+  "path": "/lib/tmpfiles.d/systemd-nspawn.conf",
+  "size": 976,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:56:53.647596468Z",
+  "sha256_hash": "8c75be2de3dbc9d9e59079f5e1999ef98f509d4ac8b7be04ac0feedf1442f6a1",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.758258243Z"
+}

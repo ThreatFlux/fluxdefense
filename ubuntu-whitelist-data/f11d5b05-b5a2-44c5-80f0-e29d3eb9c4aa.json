@@ -1,0 +1,15 @@
+{
+  "uuid": "f11d5b05-b5a2-44c5-80f0-e29d3eb9c4aa",
+  "path": "/usr/lib/x86_64-linux-gnu/qemu/audio-spice.so",
+  "size": 18952,
+  "modified": "2025-03-13T16:15:00Z",
+  "created": "2025-05-22T16:56:49.627988335Z",
+  "sha256_hash": "f80c1d368929a35f4f9b2a25d17cbc1eb86016376f271d222e646e7caeb18fb0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.911744883Z"
+}

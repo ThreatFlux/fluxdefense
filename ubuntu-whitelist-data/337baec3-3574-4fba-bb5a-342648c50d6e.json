@@ -1,0 +1,15 @@
+{
+  "uuid": "337baec3-3574-4fba-bb5a-342648c50d6e",
+  "path": "/usr/lib/x86_64-linux-gnu/libvulkan_nouveau.so",
+  "size": 16015312,
+  "modified": "2024-12-16T10:17:11Z",
+  "created": "2025-05-09T05:07:32.778700868Z",
+  "sha256_hash": "195cc42b17dc46782a60b8fb6b966cb53d9a2a3565ec0e343f06b9000898ba7c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.261632550Z"
+}

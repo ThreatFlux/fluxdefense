@@ -1,0 +1,15 @@
+{
+  "uuid": "743ec057-aee3-4225-be8c-78bd00d0fa87",
+  "path": "/sbin/update-passwd",
+  "size": 35392,
+  "modified": "2024-04-08T15:54:09Z",
+  "created": "2025-05-09T05:07:38.450614315Z",
+  "sha256_hash": "3eb8b895cbd48f76f7d60df3377502c3e21eb353b02b669019d9fd505a075fd0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.931643784Z"
+}

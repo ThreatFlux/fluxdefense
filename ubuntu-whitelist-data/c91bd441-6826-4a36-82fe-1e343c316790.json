@@ -1,0 +1,17 @@
+{
+  "uuid": "c91bd441-6826-4a36-82fe-1e343c316790",
+  "path": "/usr/lib/python3.12/test/decimaltestdata/powersqrt.decTest",
+  "size": 158655,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.996551710Z",
+  "sha256_hash": "b8d624407ef24026f267e96615b666001352077da66479109793d2e217eb52b4",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.988398895Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "8ff9faf5-6743-420a-a2e2-ee59ee9c194b",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM868.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.279663431Z",
+  "sha256_hash": "987b59309d5cbaf1249d627b2581b5408fdf4194db75609bd0a6344f00fe3f7b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:41.009587986Z"
+}

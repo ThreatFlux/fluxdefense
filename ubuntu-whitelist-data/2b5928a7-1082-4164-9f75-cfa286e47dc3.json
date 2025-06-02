@@ -1,0 +1,17 @@
+{
+  "uuid": "2b5928a7-1082-4164-9f75-cfa286e47dc3",
+  "path": "/lib/firmware/ath11k/QCA2066/hw2.1/board-2.bin.zst",
+  "size": 32436,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.458542837Z",
+  "sha256_hash": "8f65c680a421e97c20b940b8c44ebe2716bb2eebaa62f7ab5756d8f550ab3755",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:03.293450293Z"
+}

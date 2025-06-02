@@ -1,0 +1,17 @@
+{
+  "uuid": "6c68ee6d-8922-4586-acae-bbd53ad60cfb",
+  "path": "/usr/lib/firmware/amdgpu/hainan_rlc.bin.zst",
+  "size": 1788,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.401543627Z",
+  "sha256_hash": "b941331fd19e5d632d08190e837217fc7fd19e540896c3c184005eb8f17b2974",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.097175524Z"
+}

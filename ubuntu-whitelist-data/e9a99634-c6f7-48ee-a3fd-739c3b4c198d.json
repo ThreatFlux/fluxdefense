@@ -1,0 +1,17 @@
+{
+  "uuid": "e9a99634-c6f7-48ee-a3fd-739c3b4c198d",
+  "path": "/lib/x86_64-linux-gnu/libwireplumber-0.4.so.0.4.17",
+  "size": 469464,
+  "modified": "2024-03-31T08:33:26Z",
+  "created": "2025-05-09T05:07:35.011666794Z",
+  "sha256_hash": "432a44661b337f0e3d9bb2418e6b353c35d3dc568d4401bb51c05fd403af0c90",
+  "file_type": {
+    "Other": "17"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.311765559Z"
+}

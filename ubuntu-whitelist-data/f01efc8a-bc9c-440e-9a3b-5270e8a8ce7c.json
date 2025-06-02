@@ -1,0 +1,17 @@
+{
+  "uuid": "f01efc8a-bc9c-440e-9a3b-5270e8a8ce7c",
+  "path": "/lib/xorg/Xorg",
+  "size": 2535552,
+  "modified": "2025-03-04T04:58:03Z",
+  "created": "2025-05-09T05:24:13.308776735Z",
+  "sha256_hash": "2c40c8fd64a8497946673256045a07d13063eec0f25ebde62e2c13ef12d03dcc",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.736999126Z"
+}

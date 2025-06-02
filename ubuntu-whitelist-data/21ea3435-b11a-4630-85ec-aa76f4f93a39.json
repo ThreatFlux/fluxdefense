@@ -1,0 +1,17 @@
+{
+  "uuid": "21ea3435-b11a-4630-85ec-aa76f4f93a39",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/a-except.adb",
+  "size": 70235,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.052345121Z",
+  "sha256_hash": "990239bf804d0463386d943d0b80635684e351dc2db2c1fa741fc6b6d507ff26",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.921136977Z"
+}

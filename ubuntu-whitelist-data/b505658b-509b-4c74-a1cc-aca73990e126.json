@@ -1,0 +1,17 @@
+{
+  "uuid": "b505658b-509b-4c74-a1cc-aca73990e126",
+  "path": "/usr/lib/sysusers.d/systemd-resolve.conf",
+  "size": 331,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:12.159762077Z",
+  "sha256_hash": "58b0cb4cac4927700c38321ec3315b740a24fbede21f05508860f9ace1fdc520",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.295969772Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "1c92fa54-bf1c-4cc9-9ed3-4660468baaca",
+  "path": "/lib/x86_64-linux-gnu/security/pam_systemd.so",
+  "size": 537832,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:12.939772021Z",
+  "sha256_hash": "b602ec950bfab727549539999a0bca04decfb53f283d948c8b6b7e6dbb098eea",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.381633419Z"
+}

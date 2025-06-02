@@ -1,0 +1,15 @@
+{
+  "uuid": "cd40516a-465d-4db4-a009-274a4c58b466",
+  "path": "/lib/llvm-18/lib/libLLVMPowerPCInfo.a",
+  "size": 11996,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.979461809Z",
+  "sha256_hash": "16c5a7c2a58fdf5bc6bd52375f590b0339f6589e3c743c239290798953fe8377",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:40.619890354Z"
+}

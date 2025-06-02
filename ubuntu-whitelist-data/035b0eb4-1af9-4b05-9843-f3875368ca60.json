@@ -1,0 +1,15 @@
+{
+  "uuid": "035b0eb4-1af9-4b05-9843-f3875368ca60",
+  "path": "/usr/sbin/offwaketime-bpfcc",
+  "size": 15676,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "47c0c0c33c67157c6d50e920e4e79cf73684b1c029a7cbe6281ec903775fc0ef",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.551920761Z"
+}

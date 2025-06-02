@@ -1,0 +1,15 @@
+{
+  "uuid": "9f591377-832e-44cd-9b8d-6c583bb904c2",
+  "path": "/lib/x86_64-linux-gnu/alsa-lib/libasound_module_pcm_pipewire.so",
+  "size": 115104,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:18.969849559Z",
+  "sha256_hash": "b742ddf6c17ccaa1e60ea0cfb3ba163bda3701bfc5c54eb60929985846caa2d5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.853929797Z"
+}

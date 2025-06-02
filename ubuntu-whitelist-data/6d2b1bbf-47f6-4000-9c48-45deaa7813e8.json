@@ -1,0 +1,15 @@
+{
+  "uuid": "6d2b1bbf-47f6-4000-9c48-45deaa7813e8",
+  "path": "/usr/bin/pw-dump",
+  "size": 100824,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:18.615844979Z",
+  "sha256_hash": "c3d96aa3d4f715b1177e5e62d0e35162693ea8d98c3d75e0edb30e7c4616ad79",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.121802435Z"
+}

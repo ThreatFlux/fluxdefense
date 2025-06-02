@@ -1,0 +1,17 @@
+{
+  "uuid": "a839c546-5a92-46f0-8e91-0e40b15d82e7",
+  "path": "/usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0.4200.10",
+  "size": 186744,
+  "modified": "2024-06-03T16:36:10Z",
+  "created": "2025-05-09T05:07:29.789746479Z",
+  "sha256_hash": "7f8f6310f40cc40ff971688f2e1e818ef2d91d5824afb6f17f817c5a86125490",
+  "file_type": {
+    "Other": "10"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.226407078Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "49bac509-9e73-4de9-a2d2-a696d93566da",
+  "path": "/usr/lib/systemd/user/background.slice",
+  "size": 446,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.526779521Z",
+  "sha256_hash": "64352a7d8e99827974ac7c51fb1672cfa00b90a0498e49bcf8db212efa2e861e",
+  "file_type": {
+    "Other": "slice"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.500223267Z"
+}

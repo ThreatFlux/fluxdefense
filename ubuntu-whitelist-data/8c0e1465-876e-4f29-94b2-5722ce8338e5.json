@@ -1,0 +1,17 @@
+{
+  "uuid": "8c0e1465-876e-4f29-94b2-5722ce8338e5",
+  "path": "/lib/x86_64-linux-gnu/libyara.so.10.0.0",
+  "size": 500744,
+  "modified": "2024-04-01T04:52:41Z",
+  "created": "2025-05-26T17:20:33.705245975Z",
+  "sha256_hash": "1f93792ce1974dd0fa978c7f49f13a00273905b9565b57f0ad18b6357f80a0cc",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.192776175Z"
+}

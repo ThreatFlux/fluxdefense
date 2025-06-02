@@ -1,0 +1,15 @@
+{
+  "uuid": "50a5de55-aa21-46b0-9758-ad9cc889d602",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM1141.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.275663492Z",
+  "sha256_hash": "ba4e0463ae58ac474c7353f82c185e5a514defe43138eef4b61b2fcb80cb6632",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.961813970Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "42f788b1-8254-40a8-b496-0acef764ba2f",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/Encode/TW.pm",
+  "size": 2292,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.514591388Z",
+  "sha256_hash": "2079c9f1486d270c204850fca458c83dd54dfdba475c126801f4a04b82f4b8ca",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.464752823Z"
+}

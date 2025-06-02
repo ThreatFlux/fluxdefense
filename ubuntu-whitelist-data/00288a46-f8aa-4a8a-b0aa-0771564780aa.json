@@ -1,0 +1,15 @@
+{
+  "uuid": "00288a46-f8aa-4a8a-b0aa-0771564780aa",
+  "path": "/usr/lib/systemd/systemd-bsod",
+  "size": 22984,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.517779406Z",
+  "sha256_hash": "ad2e67b95df65fe0d58c772b8751bffa85b3c16e08189d74e5ee0eebaf87437d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.492610348Z"
+}

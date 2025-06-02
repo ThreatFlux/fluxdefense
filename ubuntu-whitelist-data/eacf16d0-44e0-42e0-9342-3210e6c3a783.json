@@ -1,0 +1,17 @@
+{
+  "uuid": "eacf16d0-44e0-42e0-9342-3210e6c3a783",
+  "path": "/lib/x86_64-linux-gnu/libpwquality.so.1.0.2",
+  "size": 30872,
+  "modified": "2024-04-08T16:06:33Z",
+  "created": "2025-05-09T05:07:31.892714388Z",
+  "sha256_hash": "6166c5406f52903c8f54779128ed2100f606e14b0a891cd34aa4cde4a7e722be",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.851721658Z"
+}

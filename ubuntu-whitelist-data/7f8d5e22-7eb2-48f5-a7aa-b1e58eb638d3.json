@@ -1,0 +1,15 @@
+{
+  "uuid": "7f8d5e22-7eb2-48f5-a7aa-b1e58eb638d3",
+  "path": "/usr/lib/llvm-18/bin/llvm-extract",
+  "size": 72736,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.057487123Z",
+  "sha256_hash": "3cfade75adc3e242b235b17960d8a729eb2fc6db855275c91cccc536a2b514c6",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.816456482Z"
+}

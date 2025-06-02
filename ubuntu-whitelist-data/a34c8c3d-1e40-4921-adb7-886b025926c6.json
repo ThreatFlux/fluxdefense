@@ -1,0 +1,15 @@
+{
+  "uuid": "a34c8c3d-1e40-4921-adb7-886b025926c6",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/apport.py",
+  "size": 8466,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.234037150Z",
+  "sha256_hash": "c62676983667ad92e38366f8b5da410bc3e987b764985516a7ba00778886ee0b",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.868024055Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "8071b4bd-b9a9-48bd-b9c1-8ecdc941f29e",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/a-cohama.adb",
+  "size": 33301,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.049345162Z",
+  "sha256_hash": "79cef133297966e3af125c855946020bc07dd54c41a4daca47b90263ebf30dc6",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.060094113Z"
+}

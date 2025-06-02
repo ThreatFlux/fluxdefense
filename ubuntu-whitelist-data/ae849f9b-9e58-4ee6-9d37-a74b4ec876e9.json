@@ -1,0 +1,15 @@
+{
+  "uuid": "ae849f9b-9e58-4ee6-9d37-a74b4ec876e9",
+  "path": "/usr/lib/i386-linux-gnu/gconv/BIG5HKSCS.so",
+  "size": 238988,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.270663568Z",
+  "sha256_hash": "64b4984e9cc771675489c782f7434346bb3339cd8a50c7687939ea2767edf36d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:41.018487378Z"
+}

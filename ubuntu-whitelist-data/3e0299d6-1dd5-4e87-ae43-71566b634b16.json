@@ -1,0 +1,15 @@
+{
+  "uuid": "3e0299d6-1dd5-4e87-ae43-71566b634b16",
+  "path": "/lib/llvm-18/lib/libclangExtractAPI.a",
+  "size": 2677148,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.719531079Z",
+  "sha256_hash": "0b8489ca26bbca0226ebf6a933792af1260d9106802693fb2e1443f535031249",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:43.429398008Z"
+}

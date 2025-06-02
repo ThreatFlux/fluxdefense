@@ -1,0 +1,17 @@
+{
+  "uuid": "3b681735-a6a1-422c-b3d2-86942b8d5450",
+  "path": "/usr/lib/llvm-18/include/clang/FrontendTool/Utils.h",
+  "size": 1290,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "46935a7939cfb813af6813ab88dcbed835d032f2c1fd362926fdb5f1464aa9a2",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.309305616Z"
+}

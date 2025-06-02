@@ -1,0 +1,17 @@
+{
+  "uuid": "60d1e428-d36c-455e-a41d-88c4db5012c6",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-pooglo.adb",
+  "size": 5967,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.087344640Z",
+  "sha256_hash": "252bc49634230eee7709c69cb61c8c9ee558db44997527be8708d672d0ff6a28",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.967832760Z"
+}

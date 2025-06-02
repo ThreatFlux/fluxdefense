@@ -1,0 +1,17 @@
+{
+  "uuid": "08f7b33f-1ed1-4506-9ef3-1c984aa71214",
+  "path": "/usr/lib/firmware/radeon/CYPRESS_smc.bin.zst",
+  "size": 10594,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.060534499Z",
+  "sha256_hash": "a2f4a28455b5c4a58c22d9fd5da1c15a35dfd3ce212c571095acad61fea16f8a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.397759709Z"
+}

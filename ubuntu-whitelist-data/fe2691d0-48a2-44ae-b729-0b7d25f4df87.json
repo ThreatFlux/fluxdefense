@@ -1,0 +1,17 @@
+{
+  "uuid": "fe2691d0-48a2-44ae-b729-0b7d25f4df87",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/s-mantis.adb",
+  "size": 2883,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.080344736Z",
+  "sha256_hash": "9b924a7c20be7c0707def543b01798af35939d61b6e5599538f4121c45878616",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.857949525Z"
+}

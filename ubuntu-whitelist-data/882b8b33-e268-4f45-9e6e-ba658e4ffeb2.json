@@ -1,0 +1,15 @@
+{
+  "uuid": "882b8b33-e268-4f45-9e6e-ba658e4ffeb2",
+  "path": "/usr/lib/llvm-18/lib/libLLVMAVRCodeGen.a",
+  "size": 916858,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.781464417Z",
+  "sha256_hash": "32f1e86421abc4347a58940a963b1b39b88e74baef12eb6241d6d7b84a3699c6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:34.212714340Z"
+}

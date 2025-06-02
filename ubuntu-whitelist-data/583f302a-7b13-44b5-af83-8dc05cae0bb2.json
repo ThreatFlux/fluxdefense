@@ -1,0 +1,17 @@
+{
+  "uuid": "583f302a-7b13-44b5-af83-8dc05cae0bb2",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/cppcoreguidelines/ProBoundsConstantArrayIndexCheck.h",
+  "size": 1780,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "90d673762cb8060420cb965a6be36c3d59e1a5c1d6f47b1bf9c814e074b3911c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.250541339Z"
+}

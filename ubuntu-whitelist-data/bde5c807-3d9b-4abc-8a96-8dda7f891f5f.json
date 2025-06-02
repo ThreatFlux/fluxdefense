@@ -1,0 +1,15 @@
+{
+  "uuid": "bde5c807-3d9b-4abc-8a96-8dda7f891f5f",
+  "path": "/sbin/tcpcong-bpfcc",
+  "size": 20591,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.523499148Z",
+  "sha256_hash": "b37b08c6d38ef9c2744904291bf3982f7c3a496474332b1a7cf16b264c4e33cc",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.860363898Z"
+}

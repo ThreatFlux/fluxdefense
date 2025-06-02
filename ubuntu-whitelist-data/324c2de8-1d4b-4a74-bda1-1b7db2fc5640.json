@@ -1,0 +1,15 @@
+{
+  "uuid": "324c2de8-1d4b-4a74-bda1-1b7db2fc5640",
+  "path": "/usr/bin/spd-conf",
+  "size": 1003,
+  "modified": "2024-04-07T07:23:33Z",
+  "created": "2025-05-09T05:07:20.572887124Z",
+  "sha256_hash": "92560e63e72bd69bf8376234e4b0833ef8619662a91a61e3e5ed38137a7dd08b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.129208327Z"
+}

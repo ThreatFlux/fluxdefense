@@ -1,0 +1,17 @@
+{
+  "uuid": "d79f727d-db5d-480b-9a95-1d889f2a90f7",
+  "path": "/lib/python3.12/test/certdata/ffdh3072.pem",
+  "size": 2212,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.987551828Z",
+  "sha256_hash": "1ce7e4f76ea1ca631f8c7f6f111a79da0459abbdb3b7ffb75889016aa063f49b",
+  "file_type": {
+    "Other": "pem"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.634170802Z"
+}

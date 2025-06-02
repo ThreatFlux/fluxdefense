@@ -1,0 +1,15 @@
+{
+  "uuid": "c2e47078-552b-4e0d-8876-c706292a50f0",
+  "path": "/usr/lib/console-setup/console-setup.sh",
+  "size": 920,
+  "modified": "2024-02-26T12:58:31Z",
+  "created": "2025-05-09T05:07:21.034880075Z",
+  "sha256_hash": "26565008e9dbc7332fd999dbe92fb66b2410b66460b2c844b836de672d6040d8",
+  "file_type": "Script",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.980012468Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "35bcf8cf-130e-4629-9be5-9f7b1df9fa7f",
+  "path": "/lib/firmware/rsi/rs9113_ap_bt_dual_mode.rps.zst",
+  "size": 171170,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.064534443Z",
+  "sha256_hash": "fe45aaa56e7919b32934d82bc1a8f292838476a1e5c85544965c8864d335cf7b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.363091829Z"
+}

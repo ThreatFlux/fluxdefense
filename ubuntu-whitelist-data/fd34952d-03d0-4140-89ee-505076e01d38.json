@@ -1,0 +1,15 @@
+{
+  "uuid": "fd34952d-03d0-4140-89ee-505076e01d38",
+  "path": "/usr/lib/x86_64-linux-gnu/traceevent/plugins/plugin_jbd2.so",
+  "size": 13792,
+  "modified": "2024-04-03T11:46:23Z",
+  "created": "2025-05-09T05:07:37.304631803Z",
+  "sha256_hash": "b6d41caad77ecc216da100a56aabc101009a93ad5fd6cc397de88d14be32022e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.857920660Z"
+}

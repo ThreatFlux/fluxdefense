@@ -1,0 +1,15 @@
+{
+  "uuid": "99acbef6-bcc9-4ec1-b32f-22baa85e5a49",
+  "path": "/usr/bin/do-release-upgrade",
+  "size": 10675,
+  "modified": "2025-01-31T17:11:23Z",
+  "created": "2025-05-09T05:07:19.175908441Z",
+  "sha256_hash": "1edadf42308909f102cdf31fe664b69e7992953bbedc3be5f19a0836db01590e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.869184290Z"
+}

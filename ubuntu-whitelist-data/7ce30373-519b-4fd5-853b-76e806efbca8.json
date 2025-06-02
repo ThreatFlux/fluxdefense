@@ -1,0 +1,15 @@
+{
+  "uuid": "7ce30373-519b-4fd5-853b-76e806efbca8",
+  "path": "/usr/sbin/aspell-autobuildhash",
+  "size": 13685,
+  "modified": "2023-09-07T08:57:00Z",
+  "created": "2025-05-09T05:07:38.126619260Z",
+  "sha256_hash": "c48aa13f1b3466b2d9ab02fb20bc4403961661d942bc899d7150f8d2c1254cc8",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.597006577Z"
+}

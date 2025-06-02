@@ -1,0 +1,17 @@
+{
+  "uuid": "394a3704-58ad-49d7-9cf3-8da4c8e70ae3",
+  "path": "/usr/lib/aspell/cp1252.cset",
+  "size": 14039,
+  "modified": "2024-04-08T15:54:10Z",
+  "created": "2025-05-09T05:07:21.010880441Z",
+  "sha256_hash": "0292c90d8e8f3462959a6fc739df08b0f22df809bcc5c40bb2521cb640c3825b",
+  "file_type": {
+    "Other": "cset"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.306704636Z"
+}

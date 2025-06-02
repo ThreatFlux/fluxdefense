@@ -1,0 +1,15 @@
+{
+  "uuid": "e49076f0-4679-48f4-8ac6-358999090345",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libipt_ttl.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.330631406Z",
+  "sha256_hash": "28cef7000165a62ffa79cd95bd5dc8fee81eb30a195a1b575dcbb51c0f741651",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.261089942Z"
+}

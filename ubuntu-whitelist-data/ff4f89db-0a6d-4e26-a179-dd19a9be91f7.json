@@ -1,0 +1,17 @@
+{
+  "uuid": "ff4f89db-0a6d-4e26-a179-dd19a9be91f7",
+  "path": "/lib/udev/v4l_id",
+  "size": 35400,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:14.062786374Z",
+  "sha256_hash": "2445f0da237500b2b4776d0735602aa5259d7a271ed0537adc75ebeb1cb58197",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.252185432Z"
+}

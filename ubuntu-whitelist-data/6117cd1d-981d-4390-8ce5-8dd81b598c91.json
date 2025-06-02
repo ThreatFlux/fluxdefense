@@ -1,0 +1,17 @@
+{
+  "uuid": "6117cd1d-981d-4390-8ce5-8dd81b598c91",
+  "path": "/usr/lib/systemd/system/systemd-poweroff.service",
+  "size": 575,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "d9c09b6716cb56dc5a54c18babb66a0882d352525a4e242d69c3584bda7153a4",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.459108577Z"
+}

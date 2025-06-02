@@ -1,0 +1,17 @@
+{
+  "uuid": "009cf613-eaad-4acc-a7af-b043dd870382",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/include/xsavecintrin.h",
+  "size": 1822,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.247389767Z",
+  "sha256_hash": "1e0cbfc0f220b382cf06a9051f92a131594e4899630f317959da2da6018c3c92",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.918832673Z"
+}

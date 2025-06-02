@@ -1,0 +1,15 @@
+{
+  "uuid": "ef41e0b4-6aad-4fbc-a5a3-2f07307ef7af",
+  "path": "/lib/llvm-18/lib/libLLVMLibDriver.a",
+  "size": 71136,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.914462665Z",
+  "sha256_hash": "57eb5087947b943920d4a92931a1ef4a8208f51d29762741737178a6dfe21b58",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:43.783372081Z"
+}

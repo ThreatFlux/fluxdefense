@@ -1,0 +1,17 @@
+{
+  "uuid": "d6d5be00-0884-4ab7-abe2-6a1ce40a2019",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-carun8.adb",
+  "size": 6271,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.074344818Z",
+  "sha256_hash": "2372c6bc983f5b2dded16ebf948bbd1f8a86753475cf032e8bda46fe857cfb75",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.997836274Z"
+}

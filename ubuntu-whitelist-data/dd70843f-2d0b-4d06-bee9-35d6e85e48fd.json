@@ -1,0 +1,15 @@
+{
+  "uuid": "dd70843f-2d0b-4d06-bee9-35d6e85e48fd",
+  "path": "/lib/x86_64-linux-gnu/colord-sensors/libcolord_sensor_huey.so",
+  "size": 39056,
+  "modified": "2024-03-31T07:30:41Z",
+  "created": "2025-05-09T05:07:35.183664169Z",
+  "sha256_hash": "6f88033febc0d81ecb3d7a16e631a736ba8b2125464b659c1454e6f80e123720",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.398072807Z"
+}

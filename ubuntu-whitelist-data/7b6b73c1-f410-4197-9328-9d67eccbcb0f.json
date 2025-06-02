@@ -1,0 +1,17 @@
+{
+  "uuid": "7b6b73c1-f410-4197-9328-9d67eccbcb0f",
+  "path": "/lib/firmware/intel/sof-tplg/sof-adl-rt1015-nau8825.tplg.zst",
+  "size": 2541,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.057490999Z",
+  "sha256_hash": "6e2226af6d12eff130787f1d5eb8e562118eb63d450f57d8ae2d3530dad3eeef",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.215816403Z"
+}

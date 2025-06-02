@@ -1,0 +1,17 @@
+{
+  "uuid": "99c84fb8-d9ff-47b9-99ef-42134c6d1e56",
+  "path": "/usr/lib/grub/x86_64-efi/lsefimmap.mod",
+  "size": 3712,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.813708384Z",
+  "sha256_hash": "66f779d43393588d1bade653bf3c349d733097d64293676310cab5d7faec4aaa",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.500245569Z"
+}

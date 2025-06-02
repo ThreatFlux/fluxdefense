@@ -1,0 +1,17 @@
+{
+  "uuid": "2d93d047-a6bb-4767-9536-a7b38ca7c1df",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-os_lib.ali",
+  "size": 56272,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.140343912Z",
+  "sha256_hash": "fd7666862dae10657b5d164d36fd14263f4304be1352f1021726f44916db4613",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.588819783Z"
+}

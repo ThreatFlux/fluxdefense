@@ -1,0 +1,15 @@
+{
+  "uuid": "5b5f0672-a98b-49f5-bc63-53e19bb448ea",
+  "path": "/lib/python3.12/lib-dynload/readline.cpython-312-x86_64-linux-gnu.so",
+  "size": 40640,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:10:59.932539216Z",
+  "sha256_hash": "627676d56e4743ab2a3b13753996bdc65fb929b50552f01830070dc4d63fe0a9",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.229573753Z"
+}

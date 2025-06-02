@@ -1,0 +1,17 @@
+{
+  "uuid": "d180f8aa-5886-4520-92cc-778739d677cd",
+  "path": "/lib/x86_64-linux-gnu/libnsl.so.1",
+  "size": 100640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:31.728716891Z",
+  "sha256_hash": "c7c02eb2a91e279efc02a3c189c7faea7f858839e53593b3f4909784fb938413",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.297752491Z"
+}

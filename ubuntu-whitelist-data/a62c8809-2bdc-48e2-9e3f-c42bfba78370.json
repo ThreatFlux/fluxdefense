@@ -1,0 +1,17 @@
+{
+  "uuid": "a62c8809-2bdc-48e2-9e3f-c42bfba78370",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/PerlIO/encoding.pm",
+  "size": 1220,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.519591312Z",
+  "sha256_hash": "12276ce2add26e2ff3a0139839473adb268d1d41e9ce31a1caf6f34b3a2e0d87",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.600813873Z"
+}

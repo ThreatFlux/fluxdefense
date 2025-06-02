@@ -1,0 +1,17 @@
+{
+  "uuid": "e0be8ecd-ff0d-43f6-998d-71e667f30c90",
+  "path": "/usr/lib/systemd/system/apparmor.service",
+  "size": 1191,
+  "modified": "2024-07-14T22:22:07Z",
+  "created": "2025-05-09T05:24:25.755938123Z",
+  "sha256_hash": "281b4d583889077bbd52630d128b790a1502bbabe514d81f36ec17187d2084b1",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.465012338Z"
+}

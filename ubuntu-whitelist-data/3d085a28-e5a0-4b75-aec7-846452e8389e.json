@@ -1,0 +1,15 @@
+{
+  "uuid": "3d085a28-e5a0-4b75-aec7-846452e8389e",
+  "path": "/lib/python3/dist-packages/cloudinit/config/cc_install_hotplug.py",
+  "size": 3267,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.235037163Z",
+  "sha256_hash": "a01b50716a4581a22bb79c9e5459491ddc54e00d1a14823c760ddcb68604b355",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.918698491Z"
+}

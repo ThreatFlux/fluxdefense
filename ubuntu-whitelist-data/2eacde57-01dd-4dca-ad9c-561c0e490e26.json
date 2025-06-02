@@ -1,0 +1,17 @@
+{
+  "uuid": "2eacde57-01dd-4dca-ad9c-561c0e490e26",
+  "path": "/usr/lib/systemd/system/dbus.socket",
+  "size": 193,
+  "modified": "2024-08-09T02:33:22Z",
+  "created": "2025-05-09T05:07:28.298769231Z",
+  "sha256_hash": "12b7aaec8d1e007047ec12fc85b1cc6db78565dfb896850cd9148dee0455fe7e",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.451407423Z"
+}

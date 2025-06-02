@@ -1,0 +1,17 @@
+{
+  "uuid": "f20f8852-c422-4c61-afc3-bd6bc1bdb378",
+  "path": "/lib/firmware/nvidia/tu116/gr/sw_ctx.bin.zst",
+  "size": 1279,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.960535884Z",
+  "sha256_hash": "2f165d0d1e777e6b3a9620d8c62ae8659ac206ea81e2268cc23773177149ae45",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.429678982Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "40cfc840-c445-4528-b243-5c14ae000f0f",
+  "path": "/usr/lib/pcmciautils/config.opts",
+  "size": 1117,
+  "modified": "2024-04-08T16:15:23Z",
+  "created": "2025-05-09T05:07:25.894805914Z",
+  "sha256_hash": "39a0927fef5d0eeeb759625ce30148c8599b74c9cf212df214730cdf8ac02f52",
+  "file_type": {
+    "Other": "opts"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.292183931Z"
+}

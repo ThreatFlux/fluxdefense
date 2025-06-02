@@ -1,0 +1,17 @@
+{
+  "uuid": "aca66152-57f4-4964-ac75-e3c1ee5d799e",
+  "path": "/lib/llvm-18/include/clang/AST/StmtCXX.h",
+  "size": 18471,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.520533700Z",
+  "sha256_hash": "4fbabd42fce93ea2c23c06b1582038f04db09242159cee6ca9bab06793c75472",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.990055200Z"
+}

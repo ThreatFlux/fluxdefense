@@ -1,0 +1,17 @@
+{
+  "uuid": "950eb246-6d06-476a-86c8-3570e02c497a",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/jansson.pc",
+  "size": 253,
+  "modified": "2024-03-31T01:26:06Z",
+  "created": "2025-05-28T13:49:50.491516789Z",
+  "sha256_hash": "35eea85ea6b504c8ecf010bb25e22cf992f02e26fc08f4a3ff6eab1d2c48b6c4",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.096432242Z"
+}

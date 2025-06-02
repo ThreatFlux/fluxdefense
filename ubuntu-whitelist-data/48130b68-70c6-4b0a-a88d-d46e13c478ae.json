@@ -1,0 +1,17 @@
+{
+  "uuid": "48130b68-70c6-4b0a-a88d-d46e13c478ae",
+  "path": "/lib/firmware/rtlwifi/rtl8723bu_nic.bin.zst",
+  "size": 20448,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.068534388Z",
+  "sha256_hash": "cfe541ca4b5e3212fe28192ba5dd77afcc67a1cd473e501d0af1b6f81e7b6104",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.479864165Z"
+}

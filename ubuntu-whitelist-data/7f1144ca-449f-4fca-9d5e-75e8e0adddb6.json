@@ -1,0 +1,17 @@
+{
+  "uuid": "7f1144ca-449f-4fca-9d5e-75e8e0adddb6",
+  "path": "/lib/libreoffice/program/opengl/linearMultiColorGradientFragmentShader.glsl",
+  "size": 1332,
+  "modified": "2024-10-29T11:14:30Z",
+  "created": "2025-05-09T05:11:17.294274200Z",
+  "sha256_hash": "bac50fc04524af3613a2b2b23832548bc384e52422cd3d304f5c2bf2bb1076c0",
+  "file_type": {
+    "Other": "glsl"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:50.103053007Z"
+}

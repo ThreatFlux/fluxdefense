@@ -1,0 +1,15 @@
+{
+  "uuid": "e8dd3793-da3e-4e9c-88f5-ac81d157c516",
+  "path": "/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-ani.so",
+  "size": 18712,
+  "modified": "2024-06-03T16:36:10Z",
+  "created": "2025-05-09T05:07:35.704656219Z",
+  "sha256_hash": "a8a78714ca1dffeed220b584dd53c96b718edb0f171cd44098a01994e71765f4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.167242015Z"
+}

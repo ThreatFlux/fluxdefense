@@ -1,0 +1,17 @@
+{
+  "uuid": "fb789116-68bf-4477-af36-47a8ee03e297",
+  "path": "/usr/lib/x86_64-linux-gnu/libharfbuzz-icu.so.0.60830.0",
+  "size": 14328,
+  "modified": "2024-03-31T01:19:37Z",
+  "created": "2025-05-09T05:07:30.170740665Z",
+  "sha256_hash": "a680210bb7c6e4c1cbcdb58a1dc000d505bb694a2589422303a6e58c0963c31a",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.436545318Z"
+}

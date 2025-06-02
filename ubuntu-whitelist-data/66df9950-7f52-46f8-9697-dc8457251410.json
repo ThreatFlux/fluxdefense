@@ -1,0 +1,17 @@
+{
+  "uuid": "66df9950-7f52-46f8-9697-dc8457251410",
+  "path": "/usr/lib/firmware/meson/vdec/gxl_h264.bin.zst",
+  "size": 13471,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.791538225Z",
+  "sha256_hash": "6608df1863e217bce2c5b2cb092045280d24515e53c9b826c7fe142f4d98f973",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.495669365Z"
+}

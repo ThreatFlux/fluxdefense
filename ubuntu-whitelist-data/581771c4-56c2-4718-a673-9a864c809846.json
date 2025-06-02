@@ -1,0 +1,15 @@
+{
+  "uuid": "581771c4-56c2-4718-a673-9a864c809846",
+  "path": "/usr/sbin/ownership",
+  "size": 14792,
+  "modified": "2024-10-14T20:25:58Z",
+  "created": "2025-05-09T05:07:38.389615246Z",
+  "sha256_hash": "9bf40e07cf0c7c1b15e6ad045cfa0b96a3cc64dfd2f3437865b90ca254089b1f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.153289194Z"
+}

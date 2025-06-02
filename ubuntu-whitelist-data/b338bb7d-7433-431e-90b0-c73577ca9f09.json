@@ -1,0 +1,17 @@
+{
+  "uuid": "b338bb7d-7433-431e-90b0-c73577ca9f09",
+  "path": "/lib/x86_64-linux-gnu/samba/libREG-FULL-samba4.so.0",
+  "size": 48408,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.031635969Z",
+  "sha256_hash": "2b55b56e3b2a7d90278b3f0e83e01b7b12affaca5ff6e81c8e82ea615efeea87",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.532447197Z"
+}

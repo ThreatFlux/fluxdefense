@@ -1,0 +1,17 @@
+{
+  "uuid": "64e095bf-63c9-44f0-b936-e30b008be171",
+  "path": "/lib/systemd/system/systemd-tpm2-setup-early.service",
+  "size": 708,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "08bdc996bb54fcbb0b7f4beddab00635d4d84c1c552730b73c1f54f20880fad9",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.109945864Z"
+}

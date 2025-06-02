@@ -1,0 +1,17 @@
+{
+  "uuid": "5fc7edcb-44bb-486a-984d-a95742b52c44",
+  "path": "/lib/firmware/brcm/bcm43xx_hdr-0.fw.zst",
+  "size": 115,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.480542532Z",
+  "sha256_hash": "348bc6afd48944e222abd8a5806e9ec768dfa1a209137ce8d1526f79715763a5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.457535514Z"
+}

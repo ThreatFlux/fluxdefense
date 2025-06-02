@@ -1,0 +1,15 @@
+{
+  "uuid": "2c54abe1-fc07-40af-af6a-95a57556de30",
+  "path": "/usr/lib/llvm-18/lib/libLLVMCFGuard.a",
+  "size": 36754,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.823463864Z",
+  "sha256_hash": "4112464b88d3904bb7cdd945c124330d14e236fffec63b74923d778b02eb69e1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:30.969974653Z"
+}

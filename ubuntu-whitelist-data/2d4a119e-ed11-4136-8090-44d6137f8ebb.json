@@ -1,0 +1,17 @@
+{
+  "uuid": "2d4a119e-ed11-4136-8090-44d6137f8ebb",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/libcgraph.pc",
+  "size": 329,
+  "modified": "2024-05-11T18:31:23Z",
+  "created": "2025-05-29T11:16:25.239796147Z",
+  "sha256_hash": "1921a16d20b8030d2e7ead5fc23f924c28a0df61a4a6e1d44ef20d9e423363bc",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.061186981Z"
+}

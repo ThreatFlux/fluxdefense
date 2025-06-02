@@ -1,0 +1,17 @@
+{
+  "uuid": "59c50ff0-c2d8-4ead-8439-fe39bfcc5d9f",
+  "path": "/usr/lib/grub/x86_64-efi/ls.mod",
+  "size": 6552,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.813708384Z",
+  "sha256_hash": "8f735436896dfca88955cab7b5e473b39ef9ae27643ce728d03910a6105189cc",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.486150433Z"
+}

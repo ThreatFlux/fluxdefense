@@ -1,0 +1,17 @@
+{
+  "uuid": "e8e7c69d-8a05-45d2-9c25-d59e1ad38331",
+  "path": "/usr/lib/x86_64-linux-gnu/libspeexdsp.so.1.5.2",
+  "size": 79944,
+  "modified": "2024-03-31T08:24:18Z",
+  "created": "2025-05-09T05:07:32.204709627Z",
+  "sha256_hash": "ef4e0d1c80fb4fcf832bb98be7df08b44faaed84ee2c003070fa1b1023a1c5fd",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.832500392Z"
+}

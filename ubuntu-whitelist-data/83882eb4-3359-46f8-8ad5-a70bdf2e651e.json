@@ -1,0 +1,17 @@
+{
+  "uuid": "83882eb4-3359-46f8-8ad5-a70bdf2e651e",
+  "path": "/lib/llvm-18/include/clang/Frontend/LayoutOverrideSource.h",
+  "size": 2345,
+  "modified": "2023-06-24T20:41:17Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "874779dd329b9887292357aa9e6451a640b590b4d00ecffece506731491e9e8a",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.927958591Z"
+}

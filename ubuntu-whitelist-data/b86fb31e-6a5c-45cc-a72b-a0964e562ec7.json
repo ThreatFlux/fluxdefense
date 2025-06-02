@@ -1,0 +1,15 @@
+{
+  "uuid": "b86fb31e-6a5c-45cc-a72b-a0964e562ec7",
+  "path": "/bin/xmllint",
+  "size": 80840,
+  "modified": "2025-04-24T18:42:32Z",
+  "created": "2025-05-09T05:56:54.451587438Z",
+  "sha256_hash": "14acc9bea62fe16bacc7e6f6c806e381320a364b5246cd81f46b6142973b81f1",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.939498062Z"
+}

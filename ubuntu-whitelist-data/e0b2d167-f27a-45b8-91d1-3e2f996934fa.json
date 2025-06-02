@@ -1,0 +1,17 @@
+{
+  "uuid": "e0b2d167-f27a-45b8-91d1-3e2f996934fa",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/bits/wordsize.ph",
+  "size": 743,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.559590701Z",
+  "sha256_hash": "c66209844352e1b8c0b9d2343c853ec1bb6364ad4598b12b1f538a15d28caf94",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.590909056Z"
+}

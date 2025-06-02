@@ -1,0 +1,17 @@
+{
+  "uuid": "b59fd780-e7ea-46ca-bb7a-13fb7e24b7cb",
+  "path": "/lib/llvm-18/include/clang/Basic/DiagnosticSerialization.h",
+  "size": 962,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.530533568Z",
+  "sha256_hash": "d9a7dd17c1cc860407c85d38c68ec7186dac02cc1071ffb53acdb1680abc8499",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.122541269Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "17d53514-7436-4d92-b016-bbb261db88cb",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-fileio.adb",
+  "size": 41772,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.077344777Z",
+  "sha256_hash": "db8f7a69faa33a4e34658116e8801c6bf16825d8e16eab2fde996d1b96c7d517",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.053630828Z"
+}

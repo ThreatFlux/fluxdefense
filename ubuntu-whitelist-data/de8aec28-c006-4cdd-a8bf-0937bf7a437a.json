@@ -1,0 +1,15 @@
+{
+  "uuid": "de8aec28-c006-4cdd-a8bf-0937bf7a437a",
+  "path": "/usr/lib/x86_64-linux-gnu/libvpx.a",
+  "size": 4707194,
+  "modified": "2024-06-05T13:49:38Z",
+  "created": "2025-05-29T11:16:23.333822303Z",
+  "sha256_hash": "dea62325d4c68c505e093aa9137a6e1e1f8694859c01e308c07ee79055d74628",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.273883075Z"
+}

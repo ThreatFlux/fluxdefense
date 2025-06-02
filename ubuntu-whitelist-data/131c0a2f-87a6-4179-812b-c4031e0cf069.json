@@ -1,0 +1,17 @@
+{
+  "uuid": "131c0a2f-87a6-4179-812b-c4031e0cf069",
+  "path": "/lib/llvm-18/include/clang-tidy/readability/ContainerSizeEmptyCheck.h",
+  "size": 1980,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "6e29f091287716623be85a452e07b3ef77049ad2964d9f124ad6f363bf9edda9",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.924711983Z"
+}

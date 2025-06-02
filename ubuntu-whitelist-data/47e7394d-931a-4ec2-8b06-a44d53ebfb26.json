@@ -1,0 +1,15 @@
+{
+  "uuid": "47e7394d-931a-4ec2-8b06-a44d53ebfb26",
+  "path": "/bin/dh_installwm",
+  "size": 3379,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.514341255Z",
+  "sha256_hash": "cb4ba6afb2acbde33b807fee9a7839fc9152a7150a7e0fb556526d9145ae15c1",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.056894723Z"
+}

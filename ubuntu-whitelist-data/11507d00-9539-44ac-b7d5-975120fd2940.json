@@ -1,0 +1,17 @@
+{
+  "uuid": "11507d00-9539-44ac-b7d5-975120fd2940",
+  "path": "/usr/lib/llvm-18/include/clang/Sema/SemaConsumer.h",
+  "size": 1521,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.549533318Z",
+  "sha256_hash": "375d1b70b589324dddc04aceedd8b71da494458831bd531f9e86f03c72aab8aa",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.478007851Z"
+}

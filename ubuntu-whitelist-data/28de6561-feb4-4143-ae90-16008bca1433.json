@@ -1,0 +1,15 @@
+{
+  "uuid": "28de6561-feb4-4143-ae90-16008bca1433",
+  "path": "/usr/sbin/rdmsr",
+  "size": 14728,
+  "modified": "2024-04-08T16:13:34Z",
+  "created": "2025-05-09T05:56:47.281667975Z",
+  "sha256_hash": "16f394c377703cf288772776b4776b0a45fd9f1e4955e78a38bbd3aa530dd0e9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.601469037Z"
+}

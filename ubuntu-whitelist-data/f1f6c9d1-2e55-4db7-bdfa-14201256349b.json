@@ -1,0 +1,15 @@
+{
+  "uuid": "f1f6c9d1-2e55-4db7-bdfa-14201256349b",
+  "path": "/lib/x86_64-linux-gnu/cryptsetup/libcryptsetup-token-systemd-tpm2.so",
+  "size": 22832,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.527779534Z",
+  "sha256_hash": "2f7cac25e8a01dd1d7cc326bc19d2a75f2edd8294ed11ff192d8fed2d8f11a9d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.491364554Z"
+}

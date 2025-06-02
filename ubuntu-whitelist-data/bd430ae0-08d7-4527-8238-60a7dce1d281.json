@@ -1,0 +1,17 @@
+{
+  "uuid": "bd430ae0-08d7-4527-8238-60a7dce1d281",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adalib/s-mmap.ali",
+  "size": 11458,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.139343925Z",
+  "sha256_hash": "1b35111067d022658b0e6ef416059dea36319eae7649e118675bb6317835d0b5",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.878330177Z"
+}

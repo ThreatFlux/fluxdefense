@@ -1,0 +1,17 @@
+{
+  "uuid": "ccd182a1-c95e-4cac-8f58-b7910d9ea21f",
+  "path": "/usr/lib/x86_64-linux-gnu/libmagic.so.1.0.0",
+  "size": 170360,
+  "modified": "2024-03-31T07:35:22Z",
+  "created": "2025-05-09T05:07:31.337722858Z",
+  "sha256_hash": "2f4745657a648f09add1aee122891f9be1c24bae93d29e734da9386544fedb71",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.301638279Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "37bf4463-07f2-4a21-9494-fca52749bb40",
+  "path": "/lib/llvm-18/include/clang-tidy/misc/ThrowByValueCatchByReferenceCheck.h",
+  "size": 2407,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "ff438d53250535cafaa7cc8ac912c79800bd6c4af526663cbd88bd74dc4b798b",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.919002410Z"
+}

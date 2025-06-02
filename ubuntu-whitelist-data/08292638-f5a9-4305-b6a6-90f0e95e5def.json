@@ -1,0 +1,17 @@
+{
+  "uuid": "08292638-f5a9-4305-b6a6-90f0e95e5def",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/PartialDiagnostic.h",
+  "size": 6629,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "ee1f579c21c247881ee0256dc7767a8e881d188f8cd02b80ef8683ed4f648425",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.513848522Z"
+}

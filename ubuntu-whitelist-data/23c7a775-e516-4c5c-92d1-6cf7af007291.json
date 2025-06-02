@@ -1,0 +1,17 @@
+{
+  "uuid": "23c7a775-e516-4c5c-92d1-6cf7af007291",
+  "path": "/usr/lib/x86_64-linux-gnu/libphodav-3.0.so.0.0.0",
+  "size": 75928,
+  "modified": "2024-03-31T06:45:47Z",
+  "created": "2025-05-09T05:56:49.580642150Z",
+  "sha256_hash": "a9b990e9f1b48045a6632a3f77f87d5daf52f9aa2ab366293e94f509e374ee1b",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.053234986Z"
+}

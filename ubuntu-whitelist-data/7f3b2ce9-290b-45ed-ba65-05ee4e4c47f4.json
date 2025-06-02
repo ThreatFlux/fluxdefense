@@ -1,0 +1,15 @@
+{
+  "uuid": "7f3b2ce9-290b-45ed-ba65-05ee4e4c47f4",
+  "path": "/bin/setlogcons",
+  "size": 14712,
+  "modified": "2024-03-31T09:02:08Z",
+  "created": "2025-05-09T05:07:20.437889184Z",
+  "sha256_hash": "1f14099ce56b0e286b90ae5c2e35fcdf5fd40563df7d601b7507f2952008bd1b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.551900861Z"
+}

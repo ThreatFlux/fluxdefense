@@ -1,0 +1,17 @@
+{
+  "uuid": "587e20db-ccdb-44f6-9d30-c209050c3e19",
+  "path": "/usr/lib/grub/x86_64-efi/usbserial_usbdebug.mod",
+  "size": 2392,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.840707972Z",
+  "sha256_hash": "d1098bffc61092a34cf5becd35af3be604976984c3dc38890f8b52cff1f930da",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.501346857Z"
+}

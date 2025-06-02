@@ -1,0 +1,17 @@
+{
+  "uuid": "b4051a99-1834-4447-9012-4a96eaa0a3a9",
+  "path": "/lib/x86_64-linux-gnu/libSDL_mixer-1.2.so.0.12.0",
+  "size": 194864,
+  "modified": "2024-03-13T13:34:04Z",
+  "created": "2025-05-29T11:16:27.547764476Z",
+  "sha256_hash": "08061821f5cb69b3bb3c046871dda82ce2df408fea7728c103c041fbd0581d5f",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.187383665Z"
+}

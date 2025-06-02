@@ -1,0 +1,17 @@
+{
+  "uuid": "fe309e87-8836-4f26-8b23-a5efe4241490",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/workflows/delete.yaml",
+  "size": 1018,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.692932618Z",
+  "sha256_hash": "5ef95ab2112332f667b1c9bd8e2264327001643da949ca25ae2c400f44e49a9c",
+  "file_type": {
+    "Other": "yaml"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.775774306Z"
+}

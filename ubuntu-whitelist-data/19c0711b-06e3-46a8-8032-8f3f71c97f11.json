@@ -1,0 +1,17 @@
+{
+  "uuid": "19c0711b-06e3-46a8-8032-8f3f71c97f11",
+  "path": "/lib/firmware/meson/vdec/gxl_hevc.bin.zst",
+  "size": 7727,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.791538225Z",
+  "sha256_hash": "075ae0915863ae8ec75c72a6896e7f4a27552898fc4671f1513a9c2c3fde1074",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.621630721Z"
+}

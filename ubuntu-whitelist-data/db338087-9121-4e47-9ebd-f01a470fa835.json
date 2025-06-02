@@ -1,0 +1,17 @@
+{
+  "uuid": "db338087-9121-4e47-9ebd-f01a470fa835",
+  "path": "/usr/lib/libreoffice/program/opengl/reflectionVertexShader.glsl",
+  "size": 2788,
+  "modified": "2024-10-29T11:14:30Z",
+  "created": "2025-05-09T05:11:19.580239304Z",
+  "sha256_hash": "68f642fec051282e1a82a671e3bd763d1f241c409bbb4ed182750b0effe5acdd",
+  "file_type": {
+    "Other": "glsl"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:43.497300927Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "aff1d6b5-159a-486d-bae4-bc6e6ba38596",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-apl-keyword-detect.tplg.zst",
+  "size": 929,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.057490999Z",
+  "sha256_hash": "04942122d4644cdbca0dfa6d93c8f85a5c215e1bc92c3bb44aa218463641a461",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.855756433Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "a2114775-2c5d-4ca7-9d31-71b1f0d5355a",
+  "path": "/usr/bin/btmon",
+  "size": 1006704,
+  "modified": "2025-02-25T06:11:15Z",
+  "created": "2025-05-09T05:24:15.921810223Z",
+  "sha256_hash": "0dc770346f85db7c92a8f45312e3ca2120ef98d0fbeb85fdf8834060e7ef5f6b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.143629097Z"
+}

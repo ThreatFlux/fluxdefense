@@ -1,0 +1,15 @@
+{
+  "uuid": "aa33118f-095f-4555-b1bd-ecfe75dd738d",
+  "path": "/lib/xorg/modules/drivers/vesa_drv.so",
+  "size": 31936,
+  "modified": "2023-11-08T12:44:29Z",
+  "created": "2025-05-09T05:07:37.391630476Z",
+  "sha256_hash": "2ee2bfe4629066bcb18cdd658e2fa83767215dfffdb88af9f839564809008417",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.709334592Z"
+}

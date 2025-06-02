@@ -1,0 +1,15 @@
+{
+  "uuid": "2f15733d-3957-4d24-bdd6-ba4abb5106e1",
+  "path": "/lib/llvm-18/lib/libLLVMMIRParser.a",
+  "size": 543260,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.925462520Z",
+  "sha256_hash": "9f24166b7a139ccd72e87d604ba9725de3973db2185401d88bcaa69e8c896cdc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.900585816Z"
+}

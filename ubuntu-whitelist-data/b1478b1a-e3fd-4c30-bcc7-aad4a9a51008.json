@@ -1,0 +1,17 @@
+{
+  "uuid": "b1478b1a-e3fd-4c30-bcc7-aad4a9a51008",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/DiagnosticParseKinds.inc",
+  "size": 135761,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.529533581Z",
+  "sha256_hash": "bdc74197afc070a27a0cc3c1e20d2b33ad8d2e77fd8260ac9d2b04ba236ed541",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.538308245Z"
+}

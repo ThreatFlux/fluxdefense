@@ -1,0 +1,17 @@
+{
+  "uuid": "4f40c9d9-9028-4959-b7cd-397d4eaba500",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/libswresample.pc",
+  "size": 346,
+  "modified": "2024-04-05T17:28:52Z",
+  "created": "2025-05-12T13:32:31.495113949Z",
+  "sha256_hash": "3a18392b1fff2294a58526ca5ec9697290d995d2e56b0d4ce47917133a9672db",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.065530195Z"
+}

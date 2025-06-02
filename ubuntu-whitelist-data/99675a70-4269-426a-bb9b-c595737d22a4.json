@@ -1,0 +1,15 @@
+{
+  "uuid": "99675a70-4269-426a-bb9b-c595737d22a4",
+  "path": "/lib/x86_64-linux-gnu/librustc_driver-234e49097c8e48f4.so",
+  "size": 70216696,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T17:41:10.208622476Z",
+  "sha256_hash": "7f202d1eb31eed0978ddb4e66698fda5a68c598cf9f4fb5a0e72afb04313cb0b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.162295082Z"
+}

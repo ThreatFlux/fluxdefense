@@ -1,0 +1,17 @@
+{
+  "uuid": "5095df1a-698d-4c59-80fe-e5e2b64457bf",
+  "path": "/usr/lib/udev/hwdb.d/80-ieee1394-unit-function.hwdb",
+  "size": 50309,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.060786348Z",
+  "sha256_hash": "6595425acf18568fb4ef4fe999da791f2416e66589c524962e33689b1a9c18a6",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.112574410Z"
+}

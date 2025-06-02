@@ -1,0 +1,15 @@
+{
+  "uuid": "913858fb-0687-4176-86ae-6cb93a6515e9",
+  "path": "/usr/lib/dkms/dkms_autoinstaller",
+  "size": 2635,
+  "modified": "2024-04-08T15:56:18Z",
+  "created": "2025-05-09T06:58:49.102109Z",
+  "sha256_hash": "3c037c952a0423e4be31037caa7cdba592dd66b1ed224d097544b333d4f49d14",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.941387628Z"
+}

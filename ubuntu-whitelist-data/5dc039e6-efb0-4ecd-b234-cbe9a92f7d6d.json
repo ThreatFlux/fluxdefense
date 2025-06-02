@@ -1,0 +1,17 @@
+{
+  "uuid": "5dc039e6-efb0-4ecd-b234-cbe9a92f7d6d",
+  "path": "/lib/systemd/system/systemd-networkd.socket",
+  "size": 682,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "cb8f907e9c4234b08d5000cb99b143ada9aad336c59225250baa9e135f9bd448",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.113974529Z"
+}

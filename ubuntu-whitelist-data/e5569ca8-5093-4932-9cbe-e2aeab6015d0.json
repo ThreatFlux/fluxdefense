@@ -1,0 +1,17 @@
+{
+  "uuid": "e5569ca8-5093-4932-9cbe-e2aeab6015d0",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/libbrotlienc.pc",
+  "size": 302,
+  "modified": "2024-03-31T07:29:06Z",
+  "created": "2025-05-29T11:16:03.934088511Z",
+  "sha256_hash": "14cfb24dc809f290fcc4553937d543a31f817c8cf802d5a495af94a44045e677",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.107361700Z"
+}

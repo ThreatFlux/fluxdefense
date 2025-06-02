@@ -1,0 +1,17 @@
+{
+  "uuid": "e352188d-0b53-450f-89d4-5b9c13616e11",
+  "path": "/usr/lib/firmware/qca/crbtfw32.tlv.zst",
+  "size": 79410,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.966535801Z",
+  "sha256_hash": "47a62e341c936c0166de0befc7fe983b4d5793b466aaafd68575d0c15c8815dd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.461186257Z"
+}

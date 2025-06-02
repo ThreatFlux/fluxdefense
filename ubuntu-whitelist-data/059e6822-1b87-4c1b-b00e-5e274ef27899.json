@@ -1,0 +1,17 @@
+{
+  "uuid": "059e6822-1b87-4c1b-b00e-5e274ef27899",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/crypto/crypto_engine.ko.zst",
+  "size": 8982,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.078797895Z",
+  "sha256_hash": "1683c1b2c13484761c70498e84ef85d3b03e81998daa9b9be8edd4b854b0144e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.261657912Z"
+}

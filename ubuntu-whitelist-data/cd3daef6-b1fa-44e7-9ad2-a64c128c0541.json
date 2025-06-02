@@ -1,0 +1,17 @@
+{
+  "uuid": "cd3daef6-b1fa-44e7-9ad2-a64c128c0541",
+  "path": "/lib/llvm-18/include/clang/Frontend/FrontendDiagnostic.h",
+  "size": 521,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "239a875417ee079793c74df8bcd11bbaf86d268e802f2f9069b19b7e6669cbc9",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.928541679Z"
+}

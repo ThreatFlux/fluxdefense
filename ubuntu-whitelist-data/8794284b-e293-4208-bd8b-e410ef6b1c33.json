@@ -1,0 +1,15 @@
+{
+  "uuid": "8794284b-e293-4208-bd8b-e410ef6b1c33",
+  "path": "/usr/lib/recovery-mode/options/apt-snapshots",
+  "size": 914,
+  "modified": "2018-10-02T17:24:12Z",
+  "created": "2025-05-09T05:07:27.534780889Z",
+  "sha256_hash": "deb226b925cc67b73a76d57a6a3c83402f89e80f6e94deea5fc60a05154aa9c3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.274046844Z"
+}

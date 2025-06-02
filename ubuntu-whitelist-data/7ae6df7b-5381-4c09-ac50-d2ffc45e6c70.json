@@ -1,0 +1,15 @@
+{
+  "uuid": "7ae6df7b-5381-4c09-ac50-d2ffc45e6c70",
+  "path": "/usr/lib/libreoffice/program/libucppkg1.so",
+  "size": 230144,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:20.110231214Z",
+  "sha256_hash": "660022765b25a0fb81e2d412ad13f590a26a513ec7a202738d4131c1204c8f86",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:42.432174727Z"
+}

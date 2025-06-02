@@ -1,0 +1,15 @@
+{
+  "uuid": "d1e8d853-dd55-4248-84cc-f3ca133a5764",
+  "path": "/usr/lib/x86_64-linux-gnu/plymouth/details.so",
+  "size": 23248,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:27.491960985Z",
+  "sha256_hash": "03bc91a64f07262ed472621c7df3dde2f00ca01ce452c2a128cfc8f17ce7f9cb",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.018581760Z"
+}

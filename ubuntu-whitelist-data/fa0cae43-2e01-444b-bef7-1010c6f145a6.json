@@ -1,0 +1,15 @@
+{
+  "uuid": "fa0cae43-2e01-444b-bef7-1010c6f145a6",
+  "path": "/usr/lib/x86_64-linux-gnu/wireplumber-0.4/libwireplumber-module-si-audio-endpoint.so",
+  "size": 22688,
+  "modified": "2024-03-31T08:33:26Z",
+  "created": "2025-05-09T05:07:37.320631559Z",
+  "sha256_hash": "de23fc962b13a7d1c0812d13bfef45fae5d5a70a66ee27ecfe6fe3bcf2a9e3db",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.087484533Z"
+}

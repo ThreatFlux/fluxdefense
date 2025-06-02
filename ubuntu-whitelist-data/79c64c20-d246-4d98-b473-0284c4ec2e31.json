@@ -1,0 +1,17 @@
+{
+  "uuid": "79c64c20-d246-4d98-b473-0284c4ec2e31",
+  "path": "/lib/firmware/radeon/hainan_pfp.bin.zst",
+  "size": 2631,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.063534457Z",
+  "sha256_hash": "2d97c923614f1839849e705367ae2e31a589c8339b5ae35feb5b3cc34e1cc0ee",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.379359162Z"
+}

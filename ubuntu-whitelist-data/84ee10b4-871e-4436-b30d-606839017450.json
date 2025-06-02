@@ -1,0 +1,17 @@
+{
+  "uuid": "84ee10b4-871e-4436-b30d-606839017450",
+  "path": "/usr/lib/grub/x86_64-efi/lsmmap.mod",
+  "size": 2984,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.814708369Z",
+  "sha256_hash": "a8fbc9cec1d1c8a75354cd0949bdc405b3900e5e69f87ee428751932d21e26fe",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.452750231Z"
+}

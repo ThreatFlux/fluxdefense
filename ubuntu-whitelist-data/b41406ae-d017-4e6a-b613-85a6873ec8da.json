@@ -1,0 +1,17 @@
+{
+  "uuid": "b41406ae-d017-4e6a-b613-85a6873ec8da",
+  "path": "/lib/x86_64-linux-gnu/samba/libheimntlm-samba4.so.0",
+  "size": 31504,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.059635542Z",
+  "sha256_hash": "111100c2178eaca5e0600bc1ac6ae4d4e86f3dac55c7baef7ed7df6c65cfefd6",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.534354364Z"
+}

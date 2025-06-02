@@ -1,0 +1,15 @@
+{
+  "uuid": "3e6682a7-735c-4822-abfd-fa2791778aa0",
+  "path": "/usr/lib/x86_64-linux-gnu/sssd/libsss_semanage.so",
+  "size": 18880,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:37.276632231Z",
+  "sha256_hash": "2051d1175c2424849554c6d97f135c3dc52dcaa642ea7ec8e4519104a179ab4d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.005146098Z"
+}

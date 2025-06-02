@@ -1,0 +1,17 @@
+{
+  "uuid": "891a6d3e-1e1a-4a3c-b2b3-6886765cf80b",
+  "path": "/usr/lib/x86_64-linux-gnu/libgupnp-igd-1.6.so.0.0.0",
+  "size": 38984,
+  "modified": "2024-03-31T01:18:21Z",
+  "created": "2025-05-09T05:09:27.817945210Z",
+  "sha256_hash": "dbf336bd068478b28b6a78d551788fb525879481fbae10464fc180347a783263",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.463190690Z"
+}

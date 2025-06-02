@@ -1,0 +1,17 @@
+{
+  "uuid": "2d298011-dbc8-480a-beee-8d500523dd78",
+  "path": "/lib/llvm-18/include/clang-tidy/cert/NonTrivialTypesLibcMemoryCallsCheck.h",
+  "size": 1623,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "4afdf035667ba8ae467e92ebdea98da5efb596f2ac01c2c03d92d22592155d95",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.913044444Z"
+}

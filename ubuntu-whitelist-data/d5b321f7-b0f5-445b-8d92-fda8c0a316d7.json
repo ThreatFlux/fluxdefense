@@ -1,0 +1,17 @@
+{
+  "uuid": "d5b321f7-b0f5-445b-8d92-fda8c0a316d7",
+  "path": "/lib/firmware/nvidia/gp107/gr/sw_ctx.bin.zst",
+  "size": 1173,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.940536161Z",
+  "sha256_hash": "8f02343e7de4b67080d7f3b2390ba7bf99ce8c876b7ef87357e7bc030d36d474",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.442726893Z"
+}

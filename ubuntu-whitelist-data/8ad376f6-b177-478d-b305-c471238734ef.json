@@ -1,0 +1,17 @@
+{
+  "uuid": "8ad376f6-b177-478d-b305-c471238734ef",
+  "path": "/lib/udev/rules.d/65-libwacom.rules",
+  "size": 1214,
+  "modified": "2024-02-07T04:59:26Z",
+  "created": "2025-05-09T05:07:28.436767125Z",
+  "sha256_hash": "6dafaa34fb0da666a2bd0856602d2ef06287b7a4995c97b9bd82040a4d9b912b",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.241427633Z"
+}

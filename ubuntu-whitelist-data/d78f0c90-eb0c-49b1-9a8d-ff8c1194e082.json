@@ -1,0 +1,17 @@
+{
+  "uuid": "d78f0c90-eb0c-49b1-9a8d-ff8c1194e082",
+  "path": "/lib/firmware/amdgpu/beige_goby_sdma.bin.zst",
+  "size": 11654,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.388543806Z",
+  "sha256_hash": "ed0837970f41db925f9fbad86a120774b958961d4aa37b4df6e427614a0830b1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.070634885Z"
+}

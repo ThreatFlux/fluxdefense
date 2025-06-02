@@ -1,0 +1,17 @@
+{
+  "uuid": "50d0e14c-2ef3-49f6-9d64-8864ce6caf25",
+  "path": "/lib/x86_64-linux-gnu/libEGL_mesa.so.0.0.0",
+  "size": 378680,
+  "modified": "2024-12-16T10:17:11Z",
+  "created": "2025-05-09T05:07:28.451766896Z",
+  "sha256_hash": "998a72878bcacd1901dfa74f6f0caa4a542a079a83bfa10090411a5130a307c7",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.684882963Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "4c05bb4d-c10e-47bb-ab6c-022bec7f8ea6",
+  "path": "/usr/lib/firmware/nvidia/gk20a/sw_bundle_init.bin.zst",
+  "size": 1515,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.936536216Z",
+  "sha256_hash": "2f93c48d3c265041817f6c8075c229c69e5001b4a91eb971b87535b7ca0ae96b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.260174190Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "4912e0e3-29ac-4db2-bff7-4c6aafbf1e68",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/crypto/fcrypt.ko.zst",
+  "size": 6152,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.078797895Z",
+  "sha256_hash": "c961a96e9dda9346c1f3f925dfd67b6fba3aa5c0a0807974e3387f822c0622a1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.264543735Z"
+}

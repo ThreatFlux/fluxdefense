@@ -1,0 +1,17 @@
+{
+  "uuid": "72fd228a-1e2d-4533-88eb-2e7f5545b87a",
+  "path": "/lib/systemd/system/cloud-final.service",
+  "size": 708,
+  "modified": "2025-04-02T15:09:15Z",
+  "created": "2025-05-09T05:24:33.233037137Z",
+  "sha256_hash": "96b9a7b8a74af189954aa04dc589b0e4fbf9e0d725f3f0fa7ca5ab05e6204a24",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.101457989Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "4e2427f0-52c2-4e7b-aea0-85cd12dcc3a9",
+  "path": "/lib/x86_64-linux-gnu/security/pam_timestamp.so",
+  "size": 22768,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:37.206633299Z",
+  "sha256_hash": "7a5504ac8ae9ff74711e8c66377bbf7e2af8c82111491f49e38bdf80ba3748d0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.368997369Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "8fa54006-514f-4340-aa21-1bbe95bc8049",
+  "path": "/usr/sbin/xfsslower-bpfcc",
+  "size": 7964,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.524499133Z",
+  "sha256_hash": "8c77144d8cb9f8189f0747855939374285b420c16b78bcdaa08b47ed993a7eeb",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.482276557Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "8ccf3a49-5ec2-457b-8d60-3fc820889560",
+  "path": "/lib/os-probes/mounted/90solaris",
+  "size": 385,
+  "modified": "2023-03-07T13:24:16Z",
+  "created": "2025-05-09T05:07:25.893805930Z",
+  "sha256_hash": "4a79c4622dadc3bc83fb76cc1673783455a78584ef2752eadd4d429a39969232",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.145462913Z"
+}

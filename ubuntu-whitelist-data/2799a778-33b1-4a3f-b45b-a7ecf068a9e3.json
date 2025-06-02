@@ -1,0 +1,17 @@
+{
+  "uuid": "2799a778-33b1-4a3f-b45b-a7ecf068a9e3",
+  "path": "/usr/lib/llvm-18/include/clang/Frontend/CompilerInstance.h",
+  "size": 28655,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "12c2369c059046c88b96024abf1cd1596cee6f16d389a3623ab2992d77c649c4",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.298691956Z"
+}

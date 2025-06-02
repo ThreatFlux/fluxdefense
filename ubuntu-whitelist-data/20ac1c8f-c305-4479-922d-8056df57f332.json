@@ -1,0 +1,15 @@
+{
+  "uuid": "20ac1c8f-c305-4479-922d-8056df57f332",
+  "path": "/bin/nano",
+  "size": 279040,
+  "modified": "2024-10-10T16:14:07Z",
+  "created": "2025-05-09T05:07:20.198892831Z",
+  "sha256_hash": "3df5b9943d658be886099749a6fd24ce810561be724353758229302bd542d916",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.979592720Z"
+}

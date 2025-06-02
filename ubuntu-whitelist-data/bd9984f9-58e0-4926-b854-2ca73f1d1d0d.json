@@ -1,0 +1,17 @@
+{
+  "uuid": "bd9984f9-58e0-4926-b854-2ca73f1d1d0d",
+  "path": "/usr/lib/tmpfiles.d/openvpn.conf",
+  "size": 112,
+  "modified": "2025-04-01T16:06:17Z",
+  "created": "2025-05-09T05:11:35.246000172Z",
+  "sha256_hash": "dc98c6e5ded509080350eab69a822b99a23f7234c4649a06b8d6cf3ba8879f3b",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.134337792Z"
+}

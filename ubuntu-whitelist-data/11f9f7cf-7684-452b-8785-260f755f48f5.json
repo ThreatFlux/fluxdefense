@@ -1,0 +1,15 @@
+{
+  "uuid": "11f9f7cf-7684-452b-8785-260f755f48f5",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_SYNPROXY.so",
+  "size": 14784,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.331631391Z",
+  "sha256_hash": "d02d4c832fd943e608902644cc556f42a0773dbaedd58e63894b5d5a31a125e8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.681986902Z"
+}

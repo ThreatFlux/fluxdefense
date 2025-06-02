@@ -1,0 +1,17 @@
+{
+  "uuid": "6b4069b3-abe3-4fa7-b6c7-dfb80fce38e3",
+  "path": "/usr/lib/x86_64-linux-gnu/libsasl2.so.2.0.25",
+  "size": 101200,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T05:07:32.149710467Z",
+  "sha256_hash": "a0f410ad093236856eee59c4ff2838dc04d932ea0993400f23ed77d67d85af34",
+  "file_type": {
+    "Other": "25"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.126510583Z"
+}

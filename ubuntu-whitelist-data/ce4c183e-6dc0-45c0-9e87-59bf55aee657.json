@@ -1,0 +1,15 @@
+{
+  "uuid": "ce4c183e-6dc0-45c0-9e87-59bf55aee657",
+  "path": "/lib/x86_64-linux-gnu/libgphoto2_port/0.12.2/usbscsi.so",
+  "size": 18592,
+  "modified": "2024-03-31T02:00:03Z",
+  "created": "2025-05-09T05:07:35.856653899Z",
+  "sha256_hash": "3b848d6594a326bf44df8968fa9111ea1d92076320f26a9fb7449b1089858ef5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.833269284Z"
+}

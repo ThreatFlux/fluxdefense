@@ -1,0 +1,15 @@
+{
+  "uuid": "da83585a-33ac-4428-b20d-8aca879ad1bf",
+  "path": "/usr/bin/mtr-packet",
+  "size": 35120,
+  "modified": "2024-10-07T02:35:31Z",
+  "created": "2025-05-09T05:07:20.190892953Z",
+  "sha256_hash": "bf2f9789e9d48eb15f4271645f54ab6d711fa326b993806cd39dc6a563aa9040",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:14.379657464Z"
+}

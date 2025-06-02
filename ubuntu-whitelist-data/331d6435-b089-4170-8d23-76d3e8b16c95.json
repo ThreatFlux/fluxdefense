@@ -1,0 +1,17 @@
+{
+  "uuid": "331d6435-b089-4170-8d23-76d3e8b16c95",
+  "path": "/usr/lib/x86_64-linux-gnu/evince/4/backends/pdfdocument.evince-backend",
+  "size": 4195,
+  "modified": "2024-10-15T07:35:01Z",
+  "created": "2025-05-09T05:07:35.589657974Z",
+  "sha256_hash": "e2691532afc1250dcaa3ef287b1e70454e03b44b5cdef03e3775f06a5689091d",
+  "file_type": {
+    "Other": "evince-backend"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:15.984423360Z"
+}

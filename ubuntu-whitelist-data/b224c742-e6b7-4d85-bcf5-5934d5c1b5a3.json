@@ -1,0 +1,15 @@
+{
+  "uuid": "b224c742-e6b7-4d85-bcf5-5934d5c1b5a3",
+  "path": "/bin/zforce",
+  "size": 2081,
+  "modified": "2024-04-08T15:58:45Z",
+  "created": "2025-05-09T05:07:20.956881265Z",
+  "sha256_hash": "61b3a0106c72648199611b79caf2e7a8c0800a8ef5745193cc0fa16455a79901",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.133910750Z"
+}

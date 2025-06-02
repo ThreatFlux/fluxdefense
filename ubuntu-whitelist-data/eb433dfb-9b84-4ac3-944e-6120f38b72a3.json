@@ -1,0 +1,17 @@
+{
+  "uuid": "eb433dfb-9b84-4ac3-944e-6120f38b72a3",
+  "path": "/usr/lib/llvm-18/include/clang/Driver/Job.h",
+  "size": 10664,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.540533437Z",
+  "sha256_hash": "bca8b31cc534bcb0e235be56cd8e45cfe91ce0a7b2f7d0d50576ef565cebbb82",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.445222913Z"
+}

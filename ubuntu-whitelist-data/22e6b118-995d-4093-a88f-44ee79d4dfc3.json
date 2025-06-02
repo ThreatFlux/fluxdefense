@@ -1,0 +1,15 @@
+{
+  "uuid": "22e6b118-995d-4093-a88f-44ee79d4dfc3",
+  "path": "/usr/bin/mtrace",
+  "size": 6525,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:08:52.522483902Z",
+  "sha256_hash": "55fa3de0a34e6262b0697da6dd36cd8b659a28088656557be47fc24f05b82ef2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.012817912Z"
+}

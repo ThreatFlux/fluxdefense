@@ -1,0 +1,17 @@
+{
+  "uuid": "87222771-1865-4be2-b6d7-ddee7f97d2eb",
+  "path": "/lib/systemd/system/proc-sys-fs-binfmt_misc.mount",
+  "size": 711,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "3116015dc8cb50bc04e78aa7660047e976ba3d02c527d8fec36e0d35992b0d61",
+  "file_type": {
+    "Other": "mount"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.103480191Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c93987c4-07d2-4e97-b481-04c192e40263",
+  "path": "/usr/lib/llvm-18/include/clang/Sema/Overload.h",
+  "size": 45282,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.547533344Z",
+  "sha256_hash": "a9544aa08dce0218b57d188bfc3d318ac1754fa211e95b0f976a2d5cc4d57059",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.478833737Z"
+}

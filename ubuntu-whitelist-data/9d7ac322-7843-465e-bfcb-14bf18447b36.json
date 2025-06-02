@@ -1,0 +1,17 @@
+{
+  "uuid": "9d7ac322-7843-465e-bfcb-14bf18447b36",
+  "path": "/lib/llvm-18/include/clang/CodeGen/SwiftCallingConv.h",
+  "size": 6768,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.539533450Z",
+  "sha256_hash": "4de0227648b1acc17b254cc35c3b193e38b9bef2ae0c05a71f2c0bd42d554a40",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.937608625Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "b53ba51f-fb20-42a8-aa65-6a4ad195adfe",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_cgroup.so",
+  "size": 15160,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.333631361Z",
+  "sha256_hash": "6b1e9b35769c2f5b4dd7a8449d60b56b47228883164bccc8b1c2d177df85a448",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.662905689Z"
+}

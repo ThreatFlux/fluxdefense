@@ -1,0 +1,15 @@
+{
+  "uuid": "d5c1fee7-2b2c-45d0-bf8f-f4dbb4d6bb70",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/argcomplete/my_shlex.py",
+  "size": 13218,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.121942319Z",
+  "sha256_hash": "0091393db78560621ffe64f4e06ef60009428a429cb365d91045586b80148fb3",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.642942648Z"
+}

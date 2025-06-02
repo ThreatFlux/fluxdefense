@@ -1,0 +1,15 @@
+{
+  "uuid": "bcbf5129-fee6-42e3-ae61-3090ab4189c2",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM921.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.280663416Z",
+  "sha256_hash": "caa689a847f2fc8eaaf023ec74a3ae346aeeb48688e18f60bd54b05963a5ead4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.943791139Z"
+}

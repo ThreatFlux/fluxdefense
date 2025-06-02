@@ -1,0 +1,17 @@
+{
+  "uuid": "6103628b-8f7b-4bc9-9d39-c1da8cee2843",
+  "path": "/lib/x86_64-linux-gnu/samba/libsamdb-common-samba4.so.0",
+  "size": 207200,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.085635145Z",
+  "sha256_hash": "4fd97b443c908349296acf418649a56a2cc1daa864d037a12b9e26bf775636ea",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.505457743Z"
+}

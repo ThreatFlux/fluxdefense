@@ -1,0 +1,17 @@
+{
+  "uuid": "5d085b12-27bc-4196-b13e-17459d3f74cc",
+  "path": "/lib/firmware/intel/dsp_fw_release_v969.bin.zst",
+  "size": 134374,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.550541563Z",
+  "sha256_hash": "08c9ddb3306d4427c168375b5b5f2859ed1192386290b42b551b6c7e0f4e51eb",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.188178624Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "0f558e41-81a3-4cf9-855a-d2ddebf2bd6f",
+  "path": "/usr/lib/snapd/snap-confine",
+  "size": 163112,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.449026690Z",
+  "sha256_hash": "8e36f56908e0111240997c53b8b727ab6a6eeaaf5f3993663e9384397ca4d4f6",
+  "file_type": "Executable",
+  "permissions": 35309,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:48.020097179Z"
+}

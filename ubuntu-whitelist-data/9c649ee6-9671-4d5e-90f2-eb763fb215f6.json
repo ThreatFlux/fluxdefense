@@ -1,0 +1,17 @@
+{
+  "uuid": "9c649ee6-9671-4d5e-90f2-eb763fb215f6",
+  "path": "/lib/systemd/systemd-sleep",
+  "size": 47560,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.524779496Z",
+  "sha256_hash": "e8ce4e53a3d888abbf99b8d45f3003fed49fe6d16422a81b22a757a7de2a8367",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.194377887Z"
+}

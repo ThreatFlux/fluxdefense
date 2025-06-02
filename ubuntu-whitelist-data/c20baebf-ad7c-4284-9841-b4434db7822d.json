@@ -1,0 +1,17 @@
+{
+  "uuid": "c20baebf-ad7c-4284-9841-b4434db7822d",
+  "path": "/lib/google-cloud-sdk/.install/core-nix.manifest",
+  "size": 58,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.312922087Z",
+  "sha256_hash": "75f28d6d7ec3980df684553b43ab15183854e8b7018b4a811078919860868f16",
+  "file_type": {
+    "Other": "manifest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.965266282Z"
+}

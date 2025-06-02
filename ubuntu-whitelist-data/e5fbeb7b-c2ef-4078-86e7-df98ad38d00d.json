@@ -1,0 +1,15 @@
+{
+  "uuid": "e5fbeb7b-c2ef-4078-86e7-df98ad38d00d",
+  "path": "/usr/lib/byobu/cpu_temp",
+  "size": 1828,
+  "modified": "2024-02-10T17:03:36Z",
+  "created": "2025-05-23T03:43:49.241694174Z",
+  "sha256_hash": "de64780322405f6ba38a744c7a98a85dac9145ae43fcad0686a2821946b396b8",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.298149887Z"
+}

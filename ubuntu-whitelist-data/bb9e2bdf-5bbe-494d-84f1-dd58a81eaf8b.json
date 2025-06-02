@@ -1,0 +1,15 @@
+{
+  "uuid": "bb9e2bdf-5bbe-494d-84f1-dd58a81eaf8b",
+  "path": "/lib/x86_64-linux-gnu/spa-0.2/aec/libspa-aec-webrtc.so",
+  "size": 31080,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.445855731Z",
+  "sha256_hash": "16c3e226c28a53915243d0a300620600855681299fd75bec9d71bf51797f3dc3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.754915347Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "69f048e5-4bd8-44a7-90ef-869ff7724265",
+  "path": "/usr/lib/firmware/radeon/CEDAR_smc.bin.zst",
+  "size": 10197,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.060534499Z",
+  "sha256_hash": "0f9020a9d61d7746af2a37096ae83abefca8154212bdb3ddaba648ed1612ef5e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.374991743Z"
+}

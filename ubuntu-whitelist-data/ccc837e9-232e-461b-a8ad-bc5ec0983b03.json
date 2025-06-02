@@ -1,0 +1,17 @@
+{
+  "uuid": "ccc837e9-232e-461b-a8ad-bc5ec0983b03",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/ncurses++.pc",
+  "size": 483,
+  "modified": "2024-04-08T16:14:03Z",
+  "created": "2025-05-12T13:34:34.214498225Z",
+  "sha256_hash": "bc884364d584f8e857c9038e9f4ca0c5ba19244925914f93daa4a6df51f55bb4",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.058793424Z"
+}

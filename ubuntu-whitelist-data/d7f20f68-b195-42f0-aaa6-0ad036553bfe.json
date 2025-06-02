@@ -1,0 +1,17 @@
+{
+  "uuid": "d7f20f68-b195-42f0-aaa6-0ad036553bfe",
+  "path": "/usr/lib/x86_64-linux-gnu/samba/libsmbclient-raw-samba4.so.0",
+  "size": 223496,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.090635069Z",
+  "sha256_hash": "526524912eae3997768d845d3acabd265795a496dcd0cdf967b76ffb68439070",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.314609220Z"
+}

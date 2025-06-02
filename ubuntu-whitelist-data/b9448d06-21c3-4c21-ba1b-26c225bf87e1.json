@@ -1,0 +1,17 @@
+{
+  "uuid": "b9448d06-21c3-4c21-ba1b-26c225bf87e1",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-stzsup.adb",
+  "size": 59701,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.058345038Z",
+  "sha256_hash": "6db50ad020200c605ea95c8b9a27d1709079a6c7ec0f866ee2d9730f49e60c99",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.062666053Z"
+}

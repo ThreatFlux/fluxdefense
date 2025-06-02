@@ -1,0 +1,15 @@
+{
+  "uuid": "d86f8e4b-9c7b-479f-b0d4-10c3e67f3cad",
+  "path": "/lib/x86_64-linux-gnu/gconv/ISO_11548-1.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.675656661Z",
+  "sha256_hash": "9896d19ad15a4abc1e7314eacc8c591637c5addd36287d0f0fdcd155a2eb778d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.783482531Z"
+}

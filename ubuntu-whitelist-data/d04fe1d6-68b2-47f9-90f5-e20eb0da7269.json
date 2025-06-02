@@ -1,0 +1,15 @@
+{
+  "uuid": "d04fe1d6-68b2-47f9-90f5-e20eb0da7269",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstcdparanoia.so",
+  "size": 26872,
+  "modified": "2024-12-17T13:24:56Z",
+  "created": "2025-05-09T05:07:35.771655196Z",
+  "sha256_hash": "0c92e511c6df01c883289d0142bfc09079e9263b271d7b7fcf2c7f8d488c4fc3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.992761176Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "3f27402f-33b9-407c-a96f-49d53f151f56",
+  "path": "/usr/lib/python3.12/config-3.12-x86_64-linux-gnu/Setup.local",
+  "size": 1068,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-26T18:06:52.220888058Z",
+  "sha256_hash": "b5a40b9aeb32765319b6579da8dddd9dff628a26f736c97f5cc041140e006379",
+  "file_type": {
+    "Other": "local"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.347560360Z"
+}

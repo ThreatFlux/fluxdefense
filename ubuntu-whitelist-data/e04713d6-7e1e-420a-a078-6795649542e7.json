@@ -1,0 +1,17 @@
+{
+  "uuid": "e04713d6-7e1e-420a-a078-6795649542e7",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-storio.adb",
+  "size": 3036,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.056345066Z",
+  "sha256_hash": "8a652bd4357f33c668058111e49ae9f7ec3d38ed358496409cf18784828355db",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.206357970Z"
+}

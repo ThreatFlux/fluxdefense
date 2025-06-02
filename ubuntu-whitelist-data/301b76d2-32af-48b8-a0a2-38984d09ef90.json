@@ -1,0 +1,17 @@
+{
+  "uuid": "301b76d2-32af-48b8-a0a2-38984d09ef90",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/g-binsea.adb",
+  "size": 4530,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.066344929Z",
+  "sha256_hash": "9d243ddd52fd426f65b05b13e7d64796d3690fdf74706375d03369239f35edd4",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.880735995Z"
+}

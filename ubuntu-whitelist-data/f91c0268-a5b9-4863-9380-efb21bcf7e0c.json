@@ -1,0 +1,17 @@
+{
+  "uuid": "f91c0268-a5b9-4863-9380-efb21bcf7e0c",
+  "path": "/lib/x86_64-linux-gnu/libpinyin/data/merged.bin",
+  "size": 32259,
+  "modified": "2024-04-06T01:15:02Z",
+  "created": "2025-05-09T05:07:36.273647536Z",
+  "sha256_hash": "a8143661533920a004206aaf17abe58a0522181993d39ee80a3931d1a7003124",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.169089217Z"
+}

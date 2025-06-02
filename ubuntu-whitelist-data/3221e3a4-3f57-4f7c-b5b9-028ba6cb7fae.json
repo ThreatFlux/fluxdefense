@@ -1,0 +1,15 @@
+{
+  "uuid": "3221e3a4-3f57-4f7c-b5b9-028ba6cb7fae",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/chardet/gb2312freq.py",
+  "size": 20735,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.106942574Z",
+  "sha256_hash": "e3d3ab757cc3f875eac1abe4aa3a3c67b82fb39f2138d3730e103230434d92f6",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.712298175Z"
+}

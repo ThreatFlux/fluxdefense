@@ -1,0 +1,17 @@
+{
+  "uuid": "04f1beea-6a84-4de5-953e-971701c7fe56",
+  "path": "/usr/lib/firmware/amdgpu/navi12_gpu_info.bin.zst",
+  "size": 216,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.405543571Z",
+  "sha256_hash": "f47406f1b40cf6f7953d4c31da34eb2152d8112d8077a9c32c3a9e283202f037",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.075190864Z"
+}

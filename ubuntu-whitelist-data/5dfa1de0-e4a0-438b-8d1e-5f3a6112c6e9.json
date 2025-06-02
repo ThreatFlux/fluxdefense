@@ -1,0 +1,17 @@
+{
+  "uuid": "5dfa1de0-e4a0-438b-8d1e-5f3a6112c6e9",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/libdecor-0.pc",
+  "size": 267,
+  "modified": "2024-03-31T07:46:50Z",
+  "created": "2025-05-29T11:16:20.912855525Z",
+  "sha256_hash": "7abae5152936ac9cd105c411a6677672a4e9a9322bd980a48f0fbf2b315a6634",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.101947701Z"
+}

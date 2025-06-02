@@ -1,0 +1,15 @@
+{
+  "uuid": "a6d0da2c-fc43-46f0-9ce0-fc2bffe04714",
+  "path": "/bin/zmore",
+  "size": 1842,
+  "modified": "2024-04-08T15:58:45Z",
+  "created": "2025-05-09T05:07:20.974880990Z",
+  "sha256_hash": "bb9ee270bee119238c74779fb5fa5cddc7939ec4923a22c5649bcb9aa7d70b76",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.866319326Z"
+}

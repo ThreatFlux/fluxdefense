@@ -1,0 +1,17 @@
+{
+  "uuid": "0e7cf8a7-2ee9-4427-a4d6-78be7562e9e3",
+  "path": "/usr/lib/firmware/go7007/go7007tv.bin.zst",
+  "size": 24446,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.530541840Z",
+  "sha256_hash": "91166af92228b6b8c172014d696765429412e7a9c499118d30f0dc4128e2514a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.612364600Z"
+}

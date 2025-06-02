@@ -1,0 +1,17 @@
+{
+  "uuid": "c8194e45-2008-4dbc-9c0c-54d0ddaea139",
+  "path": "/usr/lib/x86_64-linux-gnu/libdmapsharing-4.0.so.3.9.13",
+  "size": 523984,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.326753544Z",
+  "sha256_hash": "ee6feb5fcc8cf7c388b47392f0567b1631080ed9d672bf6a29c0ab4d12ca0f7d",
+  "file_type": {
+    "Other": "13"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:29.977961407Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b7ce139a-133d-403e-aab1-beb2fbb196b2",
+  "path": "/usr/lib/systemd/system/dm-event.socket",
+  "size": 248,
+  "modified": "2024-11-27T19:06:49Z",
+  "created": "2025-05-09T05:56:47.944660527Z",
+  "sha256_hash": "4c555dfe91f8b8807ab5d16d0398c1494be6e2a737385c02bd0913485afb8769",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.468165031Z"
+}

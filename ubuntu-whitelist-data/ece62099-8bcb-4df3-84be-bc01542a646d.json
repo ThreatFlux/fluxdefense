@@ -1,0 +1,17 @@
+{
+  "uuid": "ece62099-8bcb-4df3-84be-bc01542a646d",
+  "path": "/lib/modules/6.11.0-25-generic/kernel/crypto/wp512.ko.zst",
+  "size": 10589,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.100459819Z",
+  "sha256_hash": "0a97cb31623139d693b28fd7d99c4aa77a6557dacbb978f067a232ecfb5c044b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.629566007Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "8b21f9e6-2014-4cc3-810a-baeabaaed005",
+  "path": "/lib/grub/x86_64-efi/usbtest.mod",
+  "size": 5688,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.840707972Z",
+  "sha256_hash": "19b45da788a0695b0b40e5cca16db86341ca9868832ee7b7cce728784d3911d6",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.031884757Z"
+}

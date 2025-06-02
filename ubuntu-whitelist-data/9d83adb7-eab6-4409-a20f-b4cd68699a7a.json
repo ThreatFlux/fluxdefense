@@ -1,0 +1,17 @@
+{
+  "uuid": "9d83adb7-eab6-4409-a20f-b4cd68699a7a",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/InaccurateEraseCheck.h",
+  "size": 1666,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "a9901f8eb380a24cb067ffee77404cd08013b7be26177814a433f8d601f41aaa",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.232389618Z"
+}

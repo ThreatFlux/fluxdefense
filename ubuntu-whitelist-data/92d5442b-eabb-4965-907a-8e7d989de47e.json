@@ -1,0 +1,17 @@
+{
+  "uuid": "92d5442b-eabb-4965-907a-8e7d989de47e",
+  "path": "/lib/llvm-18/include/clang-tidy/readability/ContainerDataPointerCheck.h",
+  "size": 1855,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "16f02749f1bc1c63ae9ff9f428209339d68e1565b8620781e444a49185cc8ae4",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.922855509Z"
+}

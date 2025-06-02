@@ -1,0 +1,17 @@
+{
+  "uuid": "ea5df63d-9c09-4aac-9b72-4dd5b6e9adbd",
+  "path": "/lib/firmware/iwlwifi-8000C-36.ucode.zst",
+  "size": 410399,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.585541078Z",
+  "sha256_hash": "6a4536e87e372cbf766ed7ea965917e39cf446238d93a5c2b2100223d37d580d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.475695759Z"
+}

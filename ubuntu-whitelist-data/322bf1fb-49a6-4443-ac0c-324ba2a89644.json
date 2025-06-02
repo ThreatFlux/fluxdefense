@@ -1,0 +1,17 @@
+{
+  "uuid": "322bf1fb-49a6-4443-ac0c-324ba2a89644",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/abseil/DurationFactoryScaleCheck.h",
+  "size": 1445,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.555533239Z",
+  "sha256_hash": "ec0f3ac8d2bae800e1328cae3db7b2d0c8f37a210058fb6e5c7c2b9373b575ed",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.243040929Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "50a2f12b-1a0c-41e4-89fd-1769eda00787",
+  "path": "/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-link-factory.so",
+  "size": 22800,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.781860089Z",
+  "sha256_hash": "4d6338d28f82241b087688dfca33d033627b7d20d1a0178b87dcfb473a47ae7c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.911568440Z"
+}

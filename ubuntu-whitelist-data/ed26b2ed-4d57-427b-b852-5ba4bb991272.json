@@ -1,0 +1,17 @@
+{
+  "uuid": "ed26b2ed-4d57-427b-b852-5ba4bb991272",
+  "path": "/lib/google-cloud-sdk/platform/gsutil/LICENSE",
+  "size": 11358,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.931928557Z",
+  "sha256_hash": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.966872609Z"
+}

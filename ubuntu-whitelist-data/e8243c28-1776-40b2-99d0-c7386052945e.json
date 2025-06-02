@@ -1,0 +1,17 @@
+{
+  "uuid": "e8243c28-1776-40b2-99d0-c7386052945e",
+  "path": "/lib/firmware/amdgpu/aldebaran_mec.bin.zst",
+  "size": 31490,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.385543848Z",
+  "sha256_hash": "babe1a76706112aef8128c381828571367aca0fe3357dac9020d31a892f2217e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.118288443Z"
+}

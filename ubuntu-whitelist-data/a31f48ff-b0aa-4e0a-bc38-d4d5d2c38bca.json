@@ -1,0 +1,17 @@
+{
+  "uuid": "a31f48ff-b0aa-4e0a-bc38-d4d5d2c38bca",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/g-spitbo.ali",
+  "size": 19228,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.109344338Z",
+  "sha256_hash": "1989e42cfaf0192fdbfd74e569af6961137e926beb076e2edd5142cecb70b9ce",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.654755168Z"
+}

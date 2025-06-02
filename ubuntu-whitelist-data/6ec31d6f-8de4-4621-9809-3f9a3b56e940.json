@@ -1,0 +1,17 @@
+{
+  "uuid": "6ec31d6f-8de4-4621-9809-3f9a3b56e940",
+  "path": "/lib/firmware/lt9611uxc_fw.bin.zst",
+  "size": 9401,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.671539887Z",
+  "sha256_hash": "6211a359c0f1c08a4cae257b85efb972037a8572585841698ef7b9e9530bae65",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.695606434Z"
+}

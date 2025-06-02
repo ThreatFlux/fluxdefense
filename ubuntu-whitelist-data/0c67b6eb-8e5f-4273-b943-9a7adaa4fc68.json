@@ -1,0 +1,17 @@
+{
+  "uuid": "0c67b6eb-8e5f-4273-b943-9a7adaa4fc68",
+  "path": "/lib/sysctl.d/50-bubblewrap.conf",
+  "size": 403,
+  "modified": "2024-03-26T21:16:50Z",
+  "created": "2025-05-09T05:07:28.222770390Z",
+  "sha256_hash": "7f34e797bf48d7273c1145ef2d0031f481dfe242c34d48b5f99d49fe3dd359b9",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.748498149Z"
+}

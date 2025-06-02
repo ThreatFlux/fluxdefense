@@ -1,0 +1,15 @@
+{
+  "uuid": "0c65b5ce-bbd1-40f5-9fb6-28f72b64b495",
+  "path": "/usr/bin/seahorse",
+  "size": 1129432,
+  "modified": "2024-04-08T14:49:59Z",
+  "created": "2025-05-09T05:07:20.423889398Z",
+  "sha256_hash": "1c873bd8f9e1c4c7f3de7c4113853c322df831c8b86bcadc0bec3443cc78cea3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.076531051Z"
+}

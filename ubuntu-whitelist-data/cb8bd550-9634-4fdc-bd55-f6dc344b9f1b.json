@@ -1,0 +1,15 @@
+{
+  "uuid": "cb8bd550-9634-4fdc-bd55-f6dc344b9f1b",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/dns/entropy.py",
+  "size": 4771,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.114942437Z",
+  "sha256_hash": "2d946d2b17134ddecd8383f99b6ac1246cf7affaaad06f89a9bab26eb6c1c7c2",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.544800421Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "db08e56a-cfd8-4cde-b2ab-172eb7e96eac",
+  "path": "/lib/udev/libinput-device-group",
+  "size": 18744,
+  "modified": "2025-02-13T08:17:20Z",
+  "created": "2025-05-09T05:24:17.831834841Z",
+  "sha256_hash": "decdea09e46142ad211904a988ae349e00ad6f33dac42d883df0e8965d7d3492",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.356438296Z"
+}

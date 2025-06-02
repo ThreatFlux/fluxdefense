@@ -1,0 +1,17 @@
+{
+  "uuid": "055e584a-b180-4b01-bfc8-4083c7c4f060",
+  "path": "/usr/lib/llvm-18/include/clang/Lex/ScratchBuffer.h",
+  "size": 1448,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.544533384Z",
+  "sha256_hash": "19e9f50b4778df7b185cd1bb50cc01f9c07fcfa571185b7e9c322bfcc4a2bcaa",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.611379252Z"
+}

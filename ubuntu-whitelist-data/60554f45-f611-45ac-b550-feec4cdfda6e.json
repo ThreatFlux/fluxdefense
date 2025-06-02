@@ -1,0 +1,17 @@
+{
+  "uuid": "60554f45-f611-45ac-b550-feec4cdfda6e",
+  "path": "/usr/lib/x86_64-linux-gnu/perl5/5.38/Locale/gettext.pm",
+  "size": 6854,
+  "modified": "2015-09-28T16:45:07Z",
+  "created": "2025-05-09T05:07:36.878638304Z",
+  "sha256_hash": "6b97a935ff976a02064381209960df5d9288ec968d472749e22bbf8f18f5f560",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.631252595Z"
+}

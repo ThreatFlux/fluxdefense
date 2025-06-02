@@ -1,0 +1,17 @@
+{
+  "uuid": "801a86ae-84d2-4a92-8841-7ac7f3e1444b",
+  "path": "/lib/systemd/system/syslog.socket",
+  "size": 1415,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "78fc9f6b50902378345ffc4d5e2ffd50a5119932625d0c6f5c7324b0c4005bdf",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.113380822Z"
+}

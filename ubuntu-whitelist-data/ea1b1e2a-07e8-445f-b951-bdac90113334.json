@@ -1,0 +1,17 @@
+{
+  "uuid": "ea1b1e2a-07e8-445f-b951-bdac90113334",
+  "path": "/lib/systemd/user/gpg-agent-browser.socket",
+  "size": 298,
+  "modified": "2024-03-01T08:25:55Z",
+  "created": "2025-05-09T05:11:23.691176553Z",
+  "sha256_hash": "894cfb7aaa5e75092ad738cd6b3cb1b2ac05c6082ae89071ef38d25558ba289e",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.142685551Z"
+}

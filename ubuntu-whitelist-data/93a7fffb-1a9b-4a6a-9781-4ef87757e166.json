@@ -1,0 +1,17 @@
+{
+  "uuid": "93a7fffb-1a9b-4a6a-9781-4ef87757e166",
+  "path": "/lib/systemd/system/initrd-udevadm-cleanup-db.service",
+  "size": 823,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "413c905a055a7d1b05e3227c15e2b157622eef53ef225d2463fe7648f3a976e2",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.114983351Z"
+}

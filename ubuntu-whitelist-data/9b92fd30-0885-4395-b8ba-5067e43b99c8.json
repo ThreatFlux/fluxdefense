@@ -1,0 +1,17 @@
+{
+  "uuid": "9b92fd30-0885-4395-b8ba-5067e43b99c8",
+  "path": "/usr/lib/tmpfiles.d/x11.conf",
+  "size": 617,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.527779534Z",
+  "sha256_hash": "499513ddbf7dfb7fb0492d948e7e9030ea08404396c48ec1b3d3b2ec6edce56d",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.133900148Z"
+}

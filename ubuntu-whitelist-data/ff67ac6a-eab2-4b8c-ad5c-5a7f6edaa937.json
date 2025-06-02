@@ -1,0 +1,15 @@
+{
+  "uuid": "ff67ac6a-eab2-4b8c-ad5c-5a7f6edaa937",
+  "path": "/lib/i386-linux-gnu/gconv/TIS-620.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.284663355Z",
+  "sha256_hash": "2e2da9cc5710a9f05510603460218245084684be182c1544b89bfe5c02404181",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.785343532Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "dd6d8f17-a09e-4472-a4a7-8106c20eb533",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/ObjCRuntime.h",
+  "size": 15835,
+  "modified": "2024-01-24T12:45:36Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "85f804fd4d7db4992321b39547405f68c570410d3a18abfd268643934ef2131f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.610776531Z"
+}

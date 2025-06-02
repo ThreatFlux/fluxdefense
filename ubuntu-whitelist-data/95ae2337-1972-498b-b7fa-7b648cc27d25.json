@@ -1,0 +1,17 @@
+{
+  "uuid": "95ae2337-1972-498b-b7fa-7b648cc27d25",
+  "path": "/usr/lib/systemd/system/initrd-root-device.target",
+  "size": 566,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "34468c5d32d254b32e92d4ca879af529710b855e5008dcfac9c370eb0c0b5596",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.447899820Z"
+}

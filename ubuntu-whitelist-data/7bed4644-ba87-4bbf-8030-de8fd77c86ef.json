@@ -1,0 +1,17 @@
+{
+  "uuid": "7bed4644-ba87-4bbf-8030-de8fd77c86ef",
+  "path": "/lib/git-core/git",
+  "size": 4066232,
+  "modified": "2025-01-13T19:51:26Z",
+  "created": "2025-05-09T05:49:12.556856758Z",
+  "sha256_hash": "07aafd831878ad12d6171745d3bf9a4021468874c8e5c0ac2b094946a1f9fd23",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.602972468Z"
+}

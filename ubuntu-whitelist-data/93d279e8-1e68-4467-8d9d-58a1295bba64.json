@@ -1,0 +1,17 @@
+{
+  "uuid": "93d279e8-1e68-4467-8d9d-58a1295bba64",
+  "path": "/lib/x86_64-linux-gnu/libgnutls.so.30.37.1",
+  "size": 2057632,
+  "modified": "2025-02-12T14:55:11Z",
+  "created": "2025-05-09T05:11:25.062155625Z",
+  "sha256_hash": "a64da3b2abbb0c20ba3fee23f793bae36c086e4084f46001db9e7918e00460eb",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.975828211Z"
+}

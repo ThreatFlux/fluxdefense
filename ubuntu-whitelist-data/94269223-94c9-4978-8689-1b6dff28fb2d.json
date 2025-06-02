@@ -1,0 +1,15 @@
+{
+  "uuid": "94269223-94c9-4978-8689-1b6dff28fb2d",
+  "path": "/usr/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-tplink.so",
+  "size": 14384,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.161664505Z",
+  "sha256_hash": "bf89e5994aaa3e1d5d00c9803f9284afafbffbd89d614202bb4308dffb54551f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.059864512Z"
+}

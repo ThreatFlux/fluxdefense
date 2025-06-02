@@ -1,0 +1,15 @@
+{
+  "uuid": "1a5043c0-4ed9-482a-a02a-70133468dcc8",
+  "path": "/lib/google-cloud-sdk/lib/third_party/dns/tsig.py",
+  "size": 7813,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.114942437Z",
+  "sha256_hash": "18f9eaed504b7cb8d9ac3dc2a7bb9805e1a31e930751fab0b10a8a1d9d05227a",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.872410155Z"
+}

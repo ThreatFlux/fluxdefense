@@ -1,0 +1,17 @@
+{
+  "uuid": "65b7afdc-05ae-43bd-97d0-b2f79af4d7e1",
+  "path": "/lib/grub/x86_64-efi/afs.mod",
+  "size": 8864,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.800708582Z",
+  "sha256_hash": "50b8f3db4549a644c056b156f26e0a8df5c8d94d08f2bbdc9ef8af63c0efd231",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.038629420Z"
+}

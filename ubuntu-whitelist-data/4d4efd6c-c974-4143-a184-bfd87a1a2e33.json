@@ -1,0 +1,15 @@
+{
+  "uuid": "4d4efd6c-c974-4143-a184-bfd87a1a2e33",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/asset/analyze_org_policies.py",
+  "size": 3585,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.715932227Z",
+  "sha256_hash": "fbf26c00aa877647c79c0b867aa0613f0ae804d306a87988b452dda3563bec09",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.770908155Z"
+}

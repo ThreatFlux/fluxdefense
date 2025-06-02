@@ -1,0 +1,15 @@
+{
+  "uuid": "d2ac7349-5c59-41fe-b0a3-75cdb24960e5",
+  "path": "/sbin/fsck",
+  "size": 43440,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.198618161Z",
+  "sha256_hash": "19520bebe587f0a475a040aa6d56f49d04ae0cabef2330118a17e21e28e8782b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.806404277Z"
+}

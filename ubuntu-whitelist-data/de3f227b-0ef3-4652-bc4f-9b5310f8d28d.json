@@ -1,0 +1,17 @@
+{
+  "uuid": "de3f227b-0ef3-4652-bc4f-9b5310f8d28d",
+  "path": "/lib/os-probes/mounted/70hurd",
+  "size": 247,
+  "modified": "2023-03-07T13:24:16Z",
+  "created": "2025-05-09T05:07:25.893805930Z",
+  "sha256_hash": "58cf3d07e998afff79d31d8a0148fe0f1052953028312e12d4cbc537f2ba8197",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.145397160Z"
+}

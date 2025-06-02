@@ -1,0 +1,15 @@
+{
+  "uuid": "567a30db-6297-4c39-bb52-28cc83dffb3f",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_osf.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.335631330Z",
+  "sha256_hash": "f7d84f425320716fc6550d09377048b5db574971f136b0110f4992920ad4cf10",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.665693329Z"
+}

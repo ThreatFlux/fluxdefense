@@ -1,0 +1,17 @@
+{
+  "uuid": "17e04595-15b1-4c59-ac1d-d48c56f47bc1",
+  "path": "/usr/lib/llvm-18/lib/cmake/llvm/HandleLLVMOptions.cmake",
+  "size": 63096,
+  "modified": "2024-04-04T05:53:15Z",
+  "created": "2025-05-12T13:34:36.684465694Z",
+  "sha256_hash": "94b4b4dee52b99c141b1a4a09044f5f413e3259404074d0de68947cc414e13d5",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:31.097303546Z"
+}

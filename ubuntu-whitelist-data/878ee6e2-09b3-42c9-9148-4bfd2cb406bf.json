@@ -1,0 +1,15 @@
+{
+  "uuid": "878ee6e2-09b3-42c9-9148-4bfd2cb406bf",
+  "path": "/usr/lib/x86_64-linux-gnu/libnspr4.so",
+  "size": 246248,
+  "modified": "2024-04-08T16:14:31Z",
+  "created": "2025-05-09T05:07:31.728716891Z",
+  "sha256_hash": "c32583a53640c144757419b977a76976ee3dbda7b905a0af1046ace3c570ae98",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.310786113Z"
+}

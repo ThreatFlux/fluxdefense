@@ -1,0 +1,17 @@
+{
+  "uuid": "983fc910-4997-41f9-ab7b-1969a739f2d5",
+  "path": "/usr/lib/firmware/radeon/kabini_ce.bin.zst",
+  "size": 1414,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.063534457Z",
+  "sha256_hash": "8bc0e8ba3476da4e8bbf6d8e3ab1794473f9f301b38946ff17710bd6b3f49a4f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.408204887Z"
+}

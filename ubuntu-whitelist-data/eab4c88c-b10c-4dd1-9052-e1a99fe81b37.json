@@ -1,0 +1,15 @@
+{
+  "uuid": "eab4c88c-b10c-4dd1-9052-e1a99fe81b37",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/chardet/chardistribution.py",
+  "size": 10032,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.104942608Z",
+  "sha256_hash": "d7707c5d41b8a170ee2dd5ef7db216c0b15e47e654db502a4d2d7371d38df1b5",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.699808354Z"
+}

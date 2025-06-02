@@ -1,0 +1,17 @@
+{
+  "uuid": "c75a3cbe-9cc3-4209-a65a-ec2e2ac23932",
+  "path": "/lib/firmware/i915/bxt_huc_ver01_07_1398.bin.zst",
+  "size": 60505,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.533541798Z",
+  "sha256_hash": "0cacb7f14db599d68da7fb2bd392493b3208f21ba739ba19c1a3b07e16e651ad",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.718498189Z"
+}

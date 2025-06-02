@@ -1,0 +1,17 @@
+{
+  "uuid": "056bb674-679c-4e6c-95c2-21db44eec3dd",
+  "path": "/usr/lib/x86_64-linux-gnu/libsamba-util.so.0.0.1",
+  "size": 465432,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:32.118710940Z",
+  "sha256_hash": "eb93ae4c3fcd69a56e881a22ef838d21652feec311017cd7fb8c6bbcb4c16dbd",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:26.322770025Z"
+}

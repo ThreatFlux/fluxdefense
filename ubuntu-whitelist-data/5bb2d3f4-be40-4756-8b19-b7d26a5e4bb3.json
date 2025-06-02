@@ -1,0 +1,17 @@
+{
+  "uuid": "5bb2d3f4-be40-4756-8b19-b7d26a5e4bb3",
+  "path": "/lib/llvm-18/include/clang-tidy/altera/KernelNameRestrictionCheck.h",
+  "size": 1266,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "9f3fba5b3c4efa8cac088124d3dbbae10d8acc5ea39c27e9242dc45b02dbf2bc",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.893399601Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "59707cdb-305b-4a11-9db2-dea3d5a34e21",
+  "path": "/usr/lib/x86_64-linux-gnu/libnvidia-api.so.1",
+  "size": 661928,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:01.939948006Z",
+  "sha256_hash": "52c7e0ca6e625e4a5af4a490d5404e2d41434f648ffd2dd2b7c04e670820b5f7",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.462306884Z"
+}

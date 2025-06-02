@@ -1,0 +1,17 @@
+{
+  "uuid": "53bdfb8d-33cf-42e6-85fd-c9fb89f7f7ba",
+  "path": "/lib/firmware/brcm/brcmfmac43362-sdio.cubietech,cubietruck.txt.zst",
+  "size": 504,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.484542477Z",
+  "sha256_hash": "027151073da38e32c32f04361bb46d438eff16222b833e5313aaaf73dacf5ec6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.455026052Z"
+}

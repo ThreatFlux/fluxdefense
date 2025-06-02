@@ -1,0 +1,17 @@
+{
+  "uuid": "b614447e-b5e7-4507-937d-5f0e651e7d4a",
+  "path": "/usr/lib/x86_64-linux-gnu/libvirt-gconfig-1.0.so.0.5000.0",
+  "size": 293176,
+  "modified": "2024-03-31T02:20:12Z",
+  "created": "2025-05-09T05:56:59.022536105Z",
+  "sha256_hash": "6e874ae6b082875907222187b20cacd915675380baad16f366e1f8fafd9de780",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.521255791Z"
+}

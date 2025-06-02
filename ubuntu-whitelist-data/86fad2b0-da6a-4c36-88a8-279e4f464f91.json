@@ -1,0 +1,15 @@
+{
+  "uuid": "86fad2b0-da6a-4c36-88a8-279e4f464f91",
+  "path": "/usr/lib/llvm-18/lib/libLLVMAVRInfo.a",
+  "size": 4592,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.783464390Z",
+  "sha256_hash": "48aa639d15707a4fd2101a36e060aea788611cbdb9eaff49929a39ede52fd1d8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:33.300746745Z"
+}

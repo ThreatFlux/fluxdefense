@@ -1,0 +1,17 @@
+{
+  "uuid": "9c97c78a-1959-48da-85f5-a848b6e5adff",
+  "path": "/usr/lib/systemd/system/sssd-nss.socket",
+  "size": 420,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:28.301769185Z",
+  "sha256_hash": "bd432f92436f5c1c142c5824fce66aded6b8be80db4fdfbbed60f222c3a97d9e",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.446552013Z"
+}

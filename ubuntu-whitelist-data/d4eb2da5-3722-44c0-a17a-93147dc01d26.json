@@ -1,0 +1,17 @@
+{
+  "uuid": "d4eb2da5-3722-44c0-a17a-93147dc01d26",
+  "path": "/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3",
+  "size": 1340976,
+  "modified": "2024-04-08T16:03:56Z",
+  "created": "2025-05-09T05:07:29.766746830Z",
+  "sha256_hash": "f207cbaa2f5ad2acb0a0991f79c2329808493af500ca8cf25dfc386e6639bf1b",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.865755507Z"
+}

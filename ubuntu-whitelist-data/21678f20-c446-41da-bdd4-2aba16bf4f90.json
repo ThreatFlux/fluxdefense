@@ -1,0 +1,17 @@
+{
+  "uuid": "21678f20-c446-41da-bdd4-2aba16bf4f90",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/stdc-predef.ph",
+  "size": 1220,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.559590701Z",
+  "sha256_hash": "b6a90259af738a94b53818839ee51ce7ad452d35b97b86b9ec604cffe40892ea",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.588243414Z"
+}

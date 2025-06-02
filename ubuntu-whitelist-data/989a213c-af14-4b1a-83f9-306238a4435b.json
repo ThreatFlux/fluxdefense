@@ -1,0 +1,17 @@
+{
+  "uuid": "989a213c-af14-4b1a-83f9-306238a4435b",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/a-zttest.adb",
+  "size": 2716,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.064344956Z",
+  "sha256_hash": "b825c172978be0651eea614950b982c0a1bd7b60f679d9e0d6722845251ae1c6",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.827068353Z"
+}

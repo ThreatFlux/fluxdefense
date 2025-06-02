@@ -1,0 +1,17 @@
+{
+  "uuid": "0de43cf7-aeff-41de-937c-bf8b67380c2d",
+  "path": "/lib/systemd/system/rescue.service",
+  "size": 804,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "5b5ad5cd389808de959e25ada2f3b90a8aebdcb4c39126acfc045048c7cf73fe",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.121791673Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "3f00650d-c552-4f16-8c82-d6c4ab46c7a8",
+  "path": "/lib/firmware/rtlwifi/rtl8723defw.bin.zst",
+  "size": 17272,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.068534388Z",
+  "sha256_hash": "394c7787ecc2d9603e0d19f4f8b754529b9942e063d65a82890986108079ff49",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.481205778Z"
+}

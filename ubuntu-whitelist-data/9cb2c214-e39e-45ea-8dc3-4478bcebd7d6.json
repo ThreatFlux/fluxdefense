@@ -1,0 +1,17 @@
+{
+  "uuid": "9cb2c214-e39e-45ea-8dc3-4478bcebd7d6",
+  "path": "/lib/ipxe/qemu/pxe-e1000.rom",
+  "size": 92160,
+  "modified": "2024-04-16T21:17:04Z",
+  "created": "2025-05-09T05:56:50.419632725Z",
+  "sha256_hash": "18a2e519231685541fc43330c009d1dbd3d4b6ede67c8d2676c7fdb795a0d7af",
+  "file_type": {
+    "Other": "rom"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.473588161Z"
+}

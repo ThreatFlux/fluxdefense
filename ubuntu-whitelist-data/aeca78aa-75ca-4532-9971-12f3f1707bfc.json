@@ -1,0 +1,17 @@
+{
+  "uuid": "aeca78aa-75ca-4532-9971-12f3f1707bfc",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-witeio.adb",
+  "size": 53193,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.062344984Z",
+  "sha256_hash": "75d401b765f6f09b4af444d5cbc9420feaf0803eee350ec936eea61cd6b1fc04",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.095587234Z"
+}

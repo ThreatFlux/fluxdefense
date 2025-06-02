@@ -1,0 +1,17 @@
+{
+  "uuid": "49835d3d-945f-4039-acc0-d5b81739dd39",
+  "path": "/usr/lib/x86_64-linux-gnu/libnvidia-glcore.so.550.144.03",
+  "size": 32464992,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:01.983949136Z",
+  "sha256_hash": "e23349cf661efa4897cd719facfb9d2085c2f402ad0266a0941ccc4c5536fc3c",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:15.977388213Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a27f31b7-8de8-42f6-9f7e-7b74a40037ff",
+  "path": "/lib/systemd/system/dev-mqueue.mount",
+  "size": 701,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "a8355700fe0fda22ac82dde5cb5eb9aefb5f7f0c2883a8eaad18c5c0c55d8f99",
+  "file_type": {
+    "Other": "mount"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.118765197Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "700acf19-0ea4-49e7-9f10-4cc4953a1ab6",
+  "path": "/usr/lib/x86_64-linux-gnu/libpcprofile.so",
+  "size": 14544,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:31.792715914Z",
+  "sha256_hash": "80287b546746f1faea802e65717750e126d0f23c8081543a17b31c950798c16d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.020391046Z"
+}

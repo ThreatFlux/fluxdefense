@@ -1,0 +1,17 @@
+{
+  "uuid": "225e85c3-7209-47a1-b40f-9d9ed1737c8b",
+  "path": "/lib/grub/x86_64-efi/cryptodisk.mod",
+  "size": 23056,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.802708552Z",
+  "sha256_hash": "c68c5d51d5a31724caa761615929048d97b4da02367dcac8b9abe9021c807366",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.038936803Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "c40ac482-d0ed-4843-9f2d-0afc7fc7226c",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/IBM9066.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.652657012Z",
+  "sha256_hash": "b327a638bb2054f7080396cd448fc8d0da458d1ab4b8c53ff60c15e7e5fcb557",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.517097525Z"
+}

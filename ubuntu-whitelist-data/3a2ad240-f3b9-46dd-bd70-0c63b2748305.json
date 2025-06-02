@@ -1,0 +1,17 @@
+{
+  "uuid": "3a2ad240-f3b9-46dd-bd70-0c63b2748305",
+  "path": "/lib/udev/rules.d/60-persistent-storage-tape.rules",
+  "size": 2606,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "ed249cb6b7567b2e7bbfdff3dd9669b5665e6a576974741fc306f0e6f06fc22c",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.249815882Z"
+}

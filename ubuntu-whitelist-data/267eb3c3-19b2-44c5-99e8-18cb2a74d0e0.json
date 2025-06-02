@@ -1,0 +1,15 @@
+{
+  "uuid": "267eb3c3-19b2-44c5-99e8-18cb2a74d0e0",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstmpg123.so",
+  "size": 35152,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.773655166Z",
+  "sha256_hash": "42359217aa90e14b90c46ba3d7d504da5bc4502f2a02ddf027c0b2a13eb1c89c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.975483508Z"
+}

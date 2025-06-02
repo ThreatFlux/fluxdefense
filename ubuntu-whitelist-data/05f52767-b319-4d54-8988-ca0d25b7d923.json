@@ -1,0 +1,15 @@
+{
+  "uuid": "05f52767-b319-4d54-8988-ca0d25b7d923",
+  "path": "/usr/sbin/update-xmlcatalog",
+  "size": 17284,
+  "modified": "2023-12-12T02:01:07Z",
+  "created": "2025-05-09T05:07:38.450614315Z",
+  "sha256_hash": "66a7ee901314863c9f2f3e6bd891af9bf73a216ad97ce9bf998311284102ea1f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.711663320Z"
+}

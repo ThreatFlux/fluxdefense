@@ -1,0 +1,17 @@
+{
+  "uuid": "e453d225-3b6f-4fdb-a2bb-b5514da18f53",
+  "path": "/usr/lib/llvm-18/include/clang/Serialization/ModuleFile.h",
+  "size": 17441,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.550533305Z",
+  "sha256_hash": "23e976bfe0842865dba679135be2c328205817efd87ac6248e9cb0983adc3b9b",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.428797212Z"
+}

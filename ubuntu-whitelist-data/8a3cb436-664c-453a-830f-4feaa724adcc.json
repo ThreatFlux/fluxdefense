@@ -1,0 +1,17 @@
+{
+  "uuid": "8a3cb436-664c-453a-830f-4feaa724adcc",
+  "path": "/usr/lib/x86_64-linux-gnu/liblttng-ust-cyg-profile-fast.so.1.0.0",
+  "size": 15208,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:31.331722949Z",
+  "sha256_hash": "59a581c1e01cf3c4ce9ba096f0be557f510e5eaec146d868291e3e03b85b7da7",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.678915395Z"
+}

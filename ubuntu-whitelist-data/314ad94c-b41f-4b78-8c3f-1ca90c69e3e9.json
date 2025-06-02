@@ -1,0 +1,17 @@
+{
+  "uuid": "314ad94c-b41f-4b78-8c3f-1ca90c69e3e9",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/bits/time64.ph",
+  "size": 530,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.558590717Z",
+  "sha256_hash": "cfd9207925d00be17ae72fe9b15f20c7a5476d397825d951dcd2334daf88d10a",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.593127775Z"
+}

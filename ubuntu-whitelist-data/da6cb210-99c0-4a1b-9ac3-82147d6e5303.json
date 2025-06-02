@@ -1,0 +1,15 @@
+{
+  "uuid": "da6cb210-99c0-4a1b-9ac3-82147d6e5303",
+  "path": "/usr/lib/snapd/snapctl",
+  "size": 7017656,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.535027835Z",
+  "sha256_hash": "093db1652230eb26f98b3cf37d2eeda322266d5b7d9d572f2d69a884ee4d7b36",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:48.017738582Z"
+}

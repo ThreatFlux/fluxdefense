@@ -1,0 +1,15 @@
+{
+  "uuid": "dc76d3bf-1696-4ca2-b611-7557ee9034d1",
+  "path": "/bin/corelist",
+  "size": 15375,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.071582886Z",
+  "sha256_hash": "667bc0d6d8de3048ec84678355647805a9e1ecfc53169a780edbc49b5a0da7b5",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.261758077Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "2d260bbb-26b5-4b2f-a855-5eee8587c825",
+  "path": "/usr/lib/firmware/cis/MT5634ZLX.cis.zst",
+  "size": 117,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.510542117Z",
+  "sha256_hash": "2c2dc4bf19c9ea74a379ddacad8951bd8eed03501e3b63a4e40db5cbade7f93d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:57.030482872Z"
+}

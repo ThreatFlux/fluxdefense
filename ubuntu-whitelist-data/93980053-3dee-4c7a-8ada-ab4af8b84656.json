@@ -1,0 +1,17 @@
+{
+  "uuid": "93980053-3dee-4c7a-8ada-ab4af8b84656",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-osprim.adb",
+  "size": 3795,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.081344723Z",
+  "sha256_hash": "da6363dcb866c3316342aeb077e5497b4917fefcc695ba8ca63d7a5716c5d75e",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.291029302Z"
+}

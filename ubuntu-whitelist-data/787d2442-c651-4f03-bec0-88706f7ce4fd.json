@@ -1,0 +1,15 @@
+{
+  "uuid": "787d2442-c651-4f03-bec0-88706f7ce4fd",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/boto3/compat.py",
+  "size": 1597,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.118942369Z",
+  "sha256_hash": "17cdd3c1ae7259e18da37003661827e4fc7a1a4611bb69a243db75649dfe5128",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.661305392Z"
+}

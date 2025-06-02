@@ -1,0 +1,17 @@
+{
+  "uuid": "e333ef54-b555-41e5-ba21-98ce6b522d95",
+  "path": "/lib/firmware/nvidia/gp100/gr/sw_bundle_init.bin.zst",
+  "size": 1689,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.938536188Z",
+  "sha256_hash": "c408aad4d2feacd5b27e1e8a5b45efe75bcffd5eff2f2358d800745a2b3854dc",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.417963727Z"
+}

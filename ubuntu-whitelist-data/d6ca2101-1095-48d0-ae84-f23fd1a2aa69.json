@@ -1,0 +1,15 @@
+{
+  "uuid": "d6ca2101-1095-48d0-ae84-f23fd1a2aa69",
+  "path": "/sbin/pythonflow-bpfcc",
+  "size": 56,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "920f8ff8b889252c4b13898df38dc1eb459aa9d9ca203104c43f3e6cfa406bd4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.763733172Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "9a746978-25d3-4d30-8f4b-2e5decd43914",
+  "path": "/lib/python3/dist-packages/cloudinit/config/cc_resizefs.py",
+  "size": 10890,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.235037163Z",
+  "sha256_hash": "dcf776f738b17a3c290bf18c456d4a82750a104d52bbcb0041a3d1cc492cec80",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.914131370Z"
+}

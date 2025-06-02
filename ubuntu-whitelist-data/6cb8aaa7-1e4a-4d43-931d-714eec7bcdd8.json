@@ -1,0 +1,17 @@
+{
+  "uuid": "6cb8aaa7-1e4a-4d43-931d-714eec7bcdd8",
+  "path": "/lib/firmware/nvidia/gm204/gr/gpccs_data.bin.zst",
+  "size": 509,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.937536202Z",
+  "sha256_hash": "a20b51f30d87841e6d372c8ae05e1e1be56ca527d91d7b636939e781d5c74d98",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.439478403Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "d7d6fdba-4b6d-4baf-80fb-737f55867635",
+  "path": "/usr/lib/klibc/bin/dmesg",
+  "size": 9016,
+  "modified": "2024-05-21T08:39:42Z",
+  "created": "2025-05-09T05:07:21.709869775Z",
+  "sha256_hash": "642e05898a07d63c70036f0540c7a1549323d1d08599b903764b33c8d9dacb73",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.560315753Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "ab721c7a-f9e8-40e3-8e4d-bf31d1813155",
+  "path": "/lib/llvm-18/lib/libclangTidyDarwinModule.a",
+  "size": 96136,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.867529130Z",
+  "sha256_hash": "53fbf0b39b9574f6d5a9a91525cc3065b997857a2b1d116419d0e52c7762dc6d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.601644459Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "ca22acca-1279-4dce-a462-25be10e42e1f",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/crypto/lrw.ko.zst",
+  "size": 5589,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.079797878Z",
+  "sha256_hash": "c636c7febc2390dd4e9fe7d227944329078fac3db3a8b4f7e5714c066065022e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.262373146Z"
+}

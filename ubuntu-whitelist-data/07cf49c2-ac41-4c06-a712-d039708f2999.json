@@ -1,0 +1,17 @@
+{
+  "uuid": "07cf49c2-ac41-4c06-a712-d039708f2999",
+  "path": "/lib/firmware/radeon/ARUBA_pfp.bin.zst",
+  "size": 2473,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.058534526Z",
+  "sha256_hash": "f015639943e21177e5b7723677665bef6b398afc2f66c6b7e69a6faa0e23bb1e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.371687431Z"
+}

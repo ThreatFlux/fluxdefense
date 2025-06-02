@@ -1,0 +1,15 @@
+{
+  "uuid": "7ec6efd7-8fb0-4b9f-b782-784fe5f1cb6b",
+  "path": "/usr/lib/google-cloud-sdk/platform/gsutil/gslib/impersonation_credentials.py",
+  "size": 2566,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.849929950Z",
+  "sha256_hash": "1bf28faecff01383c7cb83a96c2f16a1215cf8d193c5d15bdf31899570690074",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.569874808Z"
+}

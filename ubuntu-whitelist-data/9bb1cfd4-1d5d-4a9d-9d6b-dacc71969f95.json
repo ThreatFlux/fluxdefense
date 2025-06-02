@@ -1,0 +1,15 @@
+{
+  "uuid": "9bb1cfd4-1d5d-4a9d-9d6b-dacc71969f95",
+  "path": "/lib/llvm-18/lib/libLLVMBOLTUtils.a",
+  "size": 144374,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.817463943Z",
+  "sha256_hash": "da90e484837cdb37027b1f149029030c31e7d439af707dc60c29f33ba2186a9c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.842067899Z"
+}

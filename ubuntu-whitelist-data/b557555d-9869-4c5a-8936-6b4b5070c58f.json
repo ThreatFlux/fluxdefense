@@ -1,0 +1,17 @@
+{
+  "uuid": "b557555d-9869-4c5a-8936-6b4b5070c58f",
+  "path": "/lib/grub/x86_64-efi/bitmap.mod",
+  "size": 3240,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.801708567Z",
+  "sha256_hash": "c2c87944e53b7acf5bc83868872762d7d3f2a129b2313086af0e24e1d90cdb5e",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.025504214Z"
+}

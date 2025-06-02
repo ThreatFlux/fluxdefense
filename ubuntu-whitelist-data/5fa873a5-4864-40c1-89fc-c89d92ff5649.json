@@ -1,0 +1,15 @@
+{
+  "uuid": "5fa873a5-4864-40c1-89fc-c89d92ff5649",
+  "path": "/usr/lib/x86_64-linux-gnu/libbrotlienc.a",
+  "size": 731550,
+  "modified": "2024-03-31T07:29:06Z",
+  "created": "2025-05-29T11:16:03.933088525Z",
+  "sha256_hash": "a1579f4def5a6698479b0d510ade574d5851266d7e7b3d85c3ab67f7519a8d40",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.715535017Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f54d05b4-35b1-4795-91dd-ce1b6dda2aa6",
+  "path": "/lib/firmware/intel/sof-tplg/sof-icl-rt700-4ch.tplg.zst",
+  "size": 1906,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.059490968Z",
+  "sha256_hash": "e09568c6d7766a735e0cc823b57bc83da5e66a4e3777e4da461389f363a2572a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.216969594Z"
+}

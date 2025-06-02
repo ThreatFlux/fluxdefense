@@ -1,0 +1,17 @@
+{
+  "uuid": "bac5f0b9-8a5c-4018-8ba1-44c3529f3a30",
+  "path": "/lib/x86_64-linux-gnu/libgudev-1.0.so.0.3.0",
+  "size": 51272,
+  "modified": "2024-03-31T18:19:34Z",
+  "created": "2025-05-09T05:07:30.162740787Z",
+  "sha256_hash": "fe24380e9898291c58f4b5533bf9199604c919a6e0567ff21652eaad7e4982eb",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.790211338Z"
+}

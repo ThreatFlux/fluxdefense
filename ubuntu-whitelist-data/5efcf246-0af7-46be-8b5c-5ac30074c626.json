@@ -1,0 +1,17 @@
+{
+  "uuid": "5efcf246-0af7-46be-8b5c-5ac30074c626",
+  "path": "/usr/lib/x86_64-linux-gnu/libmutter-14.so.0.0.0",
+  "size": 2396240,
+  "modified": "2025-04-09T06:13:33Z",
+  "created": "2025-05-09T05:24:17.514830750Z",
+  "sha256_hash": "01f83c5d754127a004be070dedfa8261650132de2ec42bcbd641e7d6225d7c82",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.126142965Z"
+}

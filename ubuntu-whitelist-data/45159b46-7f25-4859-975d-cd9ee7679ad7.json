@@ -1,0 +1,17 @@
+{
+  "uuid": "45159b46-7f25-4859-975d-cd9ee7679ad7",
+  "path": "/lib/firmware/mediatek/BT_RAM_CODE_MT7922_1_1_hdr.bin.zst",
+  "size": 514543,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.672539873Z",
+  "sha256_hash": "9a6a9d7ed89eb29d7c746e638e42f2a3ad9d26e1689092f9d0b1b01228741a89",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.050004205Z"
+}

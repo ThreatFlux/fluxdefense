@@ -1,0 +1,15 @@
+{
+  "uuid": "cfe1825b-c603-42f9-8d43-ff49ac7025e5",
+  "path": "/lib/i386-linux-gnu/gconv/libKSC.so",
+  "size": 50476,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.286663324Z",
+  "sha256_hash": "c8a12c800b268fbd671c8d5d78cd520932c3345592556c4727ff1dadbeb0c25f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.869043178Z"
+}

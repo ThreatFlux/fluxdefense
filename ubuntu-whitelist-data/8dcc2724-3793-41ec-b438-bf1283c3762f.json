@@ -1,0 +1,15 @@
+{
+  "uuid": "8dcc2724-3793-41ec-b438-bf1283c3762f",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/oauth2client/crypt.py",
+  "size": 8262,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.107942556Z",
+  "sha256_hash": "6d24d2d673cb36b82ab7308c88e9603669b72e507bf21225d892504674951039",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.645077319Z"
+}

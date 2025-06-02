@@ -1,0 +1,15 @@
+{
+  "uuid": "c9885d89-295f-490a-8094-c374a833e8d4",
+  "path": "/lib/x86_64-linux-gnu/gawk/revtwoway.so",
+  "size": 14520,
+  "modified": "2024-03-31T05:33:52Z",
+  "created": "2025-05-23T03:43:48.621716868Z",
+  "sha256_hash": "77f495b91b0257c3773d5e03a532e9c315e2e3c2918db2f59d1534c91a38b39a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.387364774Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "bab65a26-15b2-46de-83f2-21ac92cd4607",
+  "path": "/usr/lib/udev/hwdb.d/70-av-production.hwdb",
+  "size": 2935,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.059786335Z",
+  "sha256_hash": "4ab289a044a0692e652fa0f057558b901c816e68165cd4b120967063374c1cbf",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.112830767Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b7d257ac-2631-48ec-9a04-5eb7188b2062",
+  "path": "/usr/lib/x86_64-linux-gnu/samba/libdcerpc-samba4.so.0",
+  "size": 125160,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.054635618Z",
+  "sha256_hash": "68710d3f4f212f6c3ede4481b5ab14524e7aab7b5250e618d1abc87f2b1e6e28",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.389153542Z"
+}

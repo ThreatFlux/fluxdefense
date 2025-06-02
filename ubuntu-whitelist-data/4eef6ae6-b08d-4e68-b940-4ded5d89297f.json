@@ -1,0 +1,17 @@
+{
+  "uuid": "4eef6ae6-b08d-4e68-b940-4ded5d89297f",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-tiocst.adb",
+  "size": 3796,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.061344997Z",
+  "sha256_hash": "afb555e2bd2fe1965b08d5f1b225d20d5ea1bbd16c219b09f0801041cbe516eb",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.983237692Z"
+}

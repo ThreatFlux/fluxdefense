@@ -1,0 +1,17 @@
+{
+  "uuid": "003f7334-3176-49d4-afaa-70d51c6be350",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/a-chacon.adb",
+  "size": 7955,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.047345190Z",
+  "sha256_hash": "66439c15422a8f74fb1acdabb0bfbd8a240972e011a1c647f132ab0a8c5a5698",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.916530072Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "2e1b09b4-4a2f-4bf4-b273-3247b2566c0e",
+  "path": "/lib/llvm-18/include/clang-tidy/misc/StaticAssertCheck.h",
+  "size": 1466,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "a97a164753e22288d7bce793e9ed154de39b919766d03341ac22bf13efe9a1ed",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.919552747Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "4f4334c3-54eb-4248-8d3a-34fc6f7ccacd",
+  "path": "/bin/rustc",
+  "size": 14424,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T17:41:10.789613729Z",
+  "sha256_hash": "adaacb820defaa60b01e353272fb75abfda2046bdf43324d5dfcf6a7d4be3949",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.109860088Z"
+}

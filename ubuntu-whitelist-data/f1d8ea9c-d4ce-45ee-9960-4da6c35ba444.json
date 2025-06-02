@@ -1,0 +1,17 @@
+{
+  "uuid": "f1d8ea9c-d4ce-45ee-9960-4da6c35ba444",
+  "path": "/usr/lib/x86_64-linux-gnu/libisl.so.23.3.0",
+  "size": 1863352,
+  "modified": "2024-10-02T12:40:50Z",
+  "created": "2025-05-09T05:07:30.569734577Z",
+  "sha256_hash": "db4f717fd1678b48e5dddea1cbdd2d239594a70b57e96d0923bfd9533351efa8",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.895694299Z"
+}

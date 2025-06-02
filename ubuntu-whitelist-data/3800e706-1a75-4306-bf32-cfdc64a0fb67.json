@@ -1,0 +1,17 @@
+{
+  "uuid": "3800e706-1a75-4306-bf32-cfdc64a0fb67",
+  "path": "/usr/lib/firmware/mediatek/mt8183/scp.img.zst",
+  "size": 517975,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.690539624Z",
+  "sha256_hash": "c28b7f541ffc717622d151fcfc67429c7065b394910fa4c6d365a2a3c9852642",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.206685965Z"
+}

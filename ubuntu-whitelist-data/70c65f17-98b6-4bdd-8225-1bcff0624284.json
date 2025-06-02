@@ -1,0 +1,17 @@
+{
+  "uuid": "70c65f17-98b6-4bdd-8225-1bcff0624284",
+  "path": "/usr/lib/x86_64-linux-gnu/libpipeline.so.1.5.7",
+  "size": 47104,
+  "modified": "2024-03-29T19:26:54Z",
+  "created": "2025-05-09T05:07:31.848715060Z",
+  "sha256_hash": "2728819000460022be7d9ce5e2dc540c238572bd2b152514e50589475404324a",
+  "file_type": {
+    "Other": "7"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.309050364Z"
+}

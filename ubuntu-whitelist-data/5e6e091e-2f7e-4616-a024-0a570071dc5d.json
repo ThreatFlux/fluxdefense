@@ -1,0 +1,15 @@
+{
+  "uuid": "5e6e091e-2f7e-4616-a024-0a570071dc5d",
+  "path": "/bin/hcitool",
+  "size": 163792,
+  "modified": "2025-02-25T06:11:15Z",
+  "created": "2025-05-09T05:24:15.925810275Z",
+  "sha256_hash": "e63437cd8cc13c4f903e3b864e87f074b1c3b83a9f57025827844b9ffd682524",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.212622215Z"
+}

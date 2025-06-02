@@ -1,0 +1,17 @@
+{
+  "uuid": "33ae151c-5194-47c0-855a-da76089ea881",
+  "path": "/usr/lib/x86_64-linux-gnu/libabsl_scoped_set_env.so.20220623.0.0",
+  "size": 14584,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.939492424Z",
+  "sha256_hash": "730535582b3a1dcdc0e345cc07e2e8da34d1ccb468526b437707e7f636d9a8c5",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.345046286Z"
+}

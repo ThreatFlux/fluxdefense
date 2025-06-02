@@ -1,0 +1,17 @@
+{
+  "uuid": "6eed23f7-3e8e-455a-9455-b395dbd7bbaf",
+  "path": "/lib/x86_64-linux-gnu/ldscripts/elf_x86_64.xdc",
+  "size": 9463,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:52.049575364Z",
+  "sha256_hash": "e46f798fd318f0b867378c70c9cd794fd58f1a650d5b228c55c6b5aa5a955871",
+  "file_type": {
+    "Other": "xdc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:18.241682631Z"
+}

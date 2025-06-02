@@ -1,0 +1,17 @@
+{
+  "uuid": "9cb90833-3aaa-46b2-8a9b-a9b825b4bee2",
+  "path": "/lib/firmware/i915/cml_guc_69.0.3.bin.zst",
+  "size": 95940,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.534541784Z",
+  "sha256_hash": "455cfb1b84c9ffd6cd98ad54559fa79344841393114827aad4fe5cfc210ae14d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.660917031Z"
+}

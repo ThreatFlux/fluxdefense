@@ -1,0 +1,17 @@
+{
+  "uuid": "de5f9a65-7522-43f0-a72b-fcdb38d1f38b",
+  "path": "/usr/lib/x86_64-linux-gnu/libaspell.so.15.3.1",
+  "size": 616880,
+  "modified": "2024-04-08T15:54:10Z",
+  "created": "2025-05-09T05:07:29.177755818Z",
+  "sha256_hash": "ca057e75baf78fe6d9c140d4e44e639347555e2f5619ba77d3b6e43124cbfd42",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:08.602678762Z"
+}

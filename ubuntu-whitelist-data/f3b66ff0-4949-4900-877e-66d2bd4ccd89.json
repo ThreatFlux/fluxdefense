@@ -1,0 +1,17 @@
+{
+  "uuid": "f3b66ff0-4949-4900-877e-66d2bd4ccd89",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/NDBM_File.pm",
+  "size": 3084,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.519591312Z",
+  "sha256_hash": "0e3716e3ad78dc5d6a2c03d4bf7f44e2dc3dc0a89beb8e5cd6f496c659db0a9a",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.673044352Z"
+}

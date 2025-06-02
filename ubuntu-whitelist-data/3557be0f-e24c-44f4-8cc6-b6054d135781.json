@@ -1,0 +1,17 @@
+{
+  "uuid": "3557be0f-e24c-44f4-8cc6-b6054d135781",
+  "path": "/usr/lib/x86_64-linux-gnu/libgmpxx.so.4.7.0",
+  "size": 31184,
+  "modified": "2024-10-02T12:40:51Z",
+  "created": "2025-05-29T11:16:23.997813191Z",
+  "sha256_hash": "ce7e88d711f00edc7b7da3d013d0f76707712e32314706f94340bdb727570ee1",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.448560986Z"
+}

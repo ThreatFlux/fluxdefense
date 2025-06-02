@@ -1,0 +1,15 @@
+{
+  "uuid": "6131c210-a560-49ed-a9cb-734a6818f951",
+  "path": "/usr/lib/x86_64-linux-gnu/libv4l/plugins/libv4l-mplane.so",
+  "size": 14568,
+  "modified": "2024-04-07T07:24:04Z",
+  "created": "2025-05-09T05:07:36.544643400Z",
+  "sha256_hash": "2f5a6e1bf30704b5031fa5f7c1ee028f4af7e02dce02aa9b2192f49b1ee48f95",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.326243384Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "a46acde3-2b0b-4dc0-b32d-443bc5316f30",
+  "path": "/lib/x86_64-linux-gnu/gconv/IBM1364.so",
+  "size": 157904,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.632657317Z",
+  "sha256_hash": "dfa747f48b10f27037f83fd4fa0061f77eada257d5a620700989374464a6728c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.735004805Z"
+}

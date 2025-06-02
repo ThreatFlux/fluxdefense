@@ -1,0 +1,15 @@
+{
+  "uuid": "54ef68d4-691b-4483-b805-daa1693e350b",
+  "path": "/usr/bin/foo2lava",
+  "size": 44024,
+  "modified": "2024-04-10T21:38:27Z",
+  "created": "2025-05-09T05:07:19.222907724Z",
+  "sha256_hash": "26b7e82bbf70402fe33b4eae2fda87342854898c03a93465303ff83388e21412",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.057328405Z"
+}

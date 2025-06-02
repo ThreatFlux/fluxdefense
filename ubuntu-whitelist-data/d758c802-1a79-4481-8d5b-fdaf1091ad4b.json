@@ -1,0 +1,15 @@
+{
+  "uuid": "d758c802-1a79-4481-8d5b-fdaf1091ad4b",
+  "path": "/usr/bin/whoami",
+  "size": 35336,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:20.884882363Z",
+  "sha256_hash": "12d09694c952b0634d34ec16d93dad07bce600bb6a34e4d95ddb979cff3831da",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:13.857694670Z"
+}

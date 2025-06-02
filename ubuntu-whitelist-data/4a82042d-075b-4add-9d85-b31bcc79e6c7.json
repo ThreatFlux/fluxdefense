@@ -1,0 +1,17 @@
+{
+  "uuid": "4a82042d-075b-4add-9d85-b31bcc79e6c7",
+  "path": "/lib/systemd/system/systemd-ask-password-wall.path",
+  "size": 695,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "3103ed5b01a3ce5fd1511ce19ed6e1c128ddf3800b37e0dc7c4cf1c42417a06d",
+  "file_type": {
+    "Other": "path"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.112149184Z"
+}

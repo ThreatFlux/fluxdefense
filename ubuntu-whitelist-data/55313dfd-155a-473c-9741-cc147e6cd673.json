@@ -1,0 +1,17 @@
+{
+  "uuid": "55313dfd-155a-473c-9741-cc147e6cd673",
+  "path": "/lib/firmware/ea/mona_361_dsp.fw.zst",
+  "size": 6909,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.529541854Z",
+  "sha256_hash": "e8b4f1f27c7534417f63048830f3fe3524d987a7ac45a63fc13639c6a78dd941",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.608774208Z"
+}

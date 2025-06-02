@@ -1,0 +1,17 @@
+{
+  "uuid": "21b1bebf-c0b4-4781-a738-1c8b24b94060",
+  "path": "/usr/lib/x86_64-linux-gnu/libsss_certmap.so.0.2.0",
+  "size": 87320,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:32.205709612Z",
+  "sha256_hash": "00c8a17bfbc464ccbe2c3220e8facdfe3362f00810dbf04c635d90a81fd55565",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.566073812Z"
+}

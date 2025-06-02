@@ -1,0 +1,17 @@
+{
+  "uuid": "eb85bdd8-24ea-4ad0-8561-15d80dd1b71f",
+  "path": "/usr/lib/firmware/radeon/REDWOOD_smc.bin.zst",
+  "size": 10363,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "c99db234f5caa94456e1b6cc608f3bd75ed4b1a784b16b52cbd6fb573864b216",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.374262667Z"
+}

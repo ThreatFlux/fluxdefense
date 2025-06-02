@@ -1,0 +1,17 @@
+{
+  "uuid": "73bf6ceb-8cf3-4341-b5b8-22e74c46c336",
+  "path": "/lib/systemd/system/fstrim.timer",
+  "size": 283,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:28.299769216Z",
+  "sha256_hash": "699161252ffaa35a0272aae055e51332df694ff4d28c39f8b666d47ecced3397",
+  "file_type": {
+    "Other": "timer"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.123255183Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "5d27d98f-9cb8-41c8-b798-74a115797581",
+  "path": "/usr/libexec/evinced",
+  "size": 35200,
+  "modified": "2024-10-15T07:35:01Z",
+  "created": "2025-05-09T05:07:37.411630170Z",
+  "sha256_hash": "d637aba22f7880723bd8bf398bd32003eac7960efc832426abac9a2a1cc2ad85",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.081481415Z"
+}

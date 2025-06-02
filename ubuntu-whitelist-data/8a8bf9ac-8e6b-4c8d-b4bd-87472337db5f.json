@@ -1,0 +1,15 @@
+{
+  "uuid": "8a8bf9ac-8e6b-4c8d-b4bd-87472337db5f",
+  "path": "/sbin/get-quirk-options",
+  "size": 1495,
+  "modified": "2023-06-13T15:25:56Z",
+  "created": "2025-05-09T12:56:04.377011961Z",
+  "sha256_hash": "7e76dbed202e933bdd96edf28e82d7ca3c30f081000ba6e691a1731e47864e5a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.781064607Z"
+}

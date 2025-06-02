@@ -1,0 +1,17 @@
+{
+  "uuid": "99a99ffb-a7b2-41e9-b110-1bd0c2d9b2f5",
+  "path": "/lib/x86_64-linux-gnu/libcairo-script-interpreter.so.2.11800.0",
+  "size": 160640,
+  "modified": "2024-04-16T13:33:30Z",
+  "created": "2025-05-09T05:07:29.205755390Z",
+  "sha256_hash": "81bafae4f1784d8a3544f6a713ef6990ab7657d75600477a6b110e99c32c895a",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.694292515Z"
+}

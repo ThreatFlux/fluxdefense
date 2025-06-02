@@ -1,0 +1,17 @@
+{
+  "uuid": "6e6f6e64-8d75-4fb7-b6bb-bb615b3e3d8d",
+  "path": "/lib/grub/x86_64-efi/uhci.mod",
+  "size": 10176,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "3d08dfa5674e3da01427122745197a8d9385cebea239098e3ee72407a004a5a8",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.051936575Z"
+}

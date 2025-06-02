@@ -1,0 +1,15 @@
+{
+  "uuid": "726fb360-427d-4f8d-99ef-c236c663c217",
+  "path": "/lib/x86_64-linux-gnu/grilo-0.3/libgrltracker3.so",
+  "size": 72160,
+  "modified": "2025-03-17T11:05:34Z",
+  "created": "2025-05-12T03:14:18.439811199Z",
+  "sha256_hash": "684e96c360fbeffee6468638c7a8c952b8e14f6e05606fb4c1c8fc5d140c4754",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.451284549Z"
+}

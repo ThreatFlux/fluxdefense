@@ -1,0 +1,17 @@
+{
+  "uuid": "2f3491c2-771f-403e-8f47-bb434cae672e",
+  "path": "/usr/lib/x86_64-linux-gnu/perl-base/Carp.pm",
+  "size": 25399,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.349578643Z",
+  "sha256_hash": "b962eba0f4c605adb2ea941d562d7b303e1ad103b16243647cb658e59b71b48b",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.755086740Z"
+}

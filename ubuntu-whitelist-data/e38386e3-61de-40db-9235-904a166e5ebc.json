@@ -1,0 +1,17 @@
+{
+  "uuid": "e38386e3-61de-40db-9235-904a166e5ebc",
+  "path": "/usr/lib/udev/rules.d/77-mm-dlink-port-types.rules",
+  "size": 866,
+  "modified": "2024-02-19T14:58:32Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "a8fe55997e8e28a26258eb0ad2b062099b31cdf46e6160d5b28b74398b59de83",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.106754535Z"
+}

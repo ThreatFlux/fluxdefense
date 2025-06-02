@@ -1,0 +1,17 @@
+{
+  "uuid": "fa3bd1dc-16ea-4f0b-a9ad-1c3a43b867cf",
+  "path": "/lib/llvm-18/lib/cmake/llvm/LLVMExternalProjectUtils.cmake",
+  "size": 15909,
+  "modified": "2024-04-04T05:53:15Z",
+  "created": "2025-05-12T13:34:36.685465681Z",
+  "sha256_hash": "494ef0c05ccc6f56e0b4f5b997bab8e474da97814d909ab3bc8ae111e31bffb8",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.511418650Z"
+}

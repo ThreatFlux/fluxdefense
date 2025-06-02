@@ -1,0 +1,17 @@
+{
+  "uuid": "e73fbda9-6e54-49ee-9851-cacc5a5f45ce",
+  "path": "/usr/lib/llvm-18/lib/cmake/llvm/FindTerminfo.cmake",
+  "size": 1704,
+  "modified": "2023-12-03T09:16:41Z",
+  "created": "2025-05-12T13:34:36.684465694Z",
+  "sha256_hash": "90ad9c0bf13daf7de7220b0224f709ca8c3ac00e63555bcb66a94e52653238d6",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:31.094658506Z"
+}

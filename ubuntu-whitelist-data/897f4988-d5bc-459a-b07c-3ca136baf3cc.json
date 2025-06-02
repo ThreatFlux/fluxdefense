@@ -1,0 +1,17 @@
+{
+  "uuid": "897f4988-d5bc-459a-b07c-3ca136baf3cc",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-hp.so.1.2.1",
+  "size": 229160,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.143634260Z",
+  "sha256_hash": "1dc9eb49208d54aaccd2b83aaf9fb743df3016c952d489838b74507e9f367d81",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.157398425Z"
+}

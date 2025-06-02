@@ -1,0 +1,15 @@
+{
+  "uuid": "52001f1c-ec69-4a7f-a525-a85860489673",
+  "path": "/bin/pwd",
+  "size": 35336,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:20.332890786Z",
+  "sha256_hash": "7a72ec63d0e2552e6113c67f068368fa65c9cad6fbd03258a36b6835a34cb879",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.382739191Z"
+}

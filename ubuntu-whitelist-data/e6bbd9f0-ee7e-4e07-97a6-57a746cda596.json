@@ -1,0 +1,17 @@
+{
+  "uuid": "e6bbd9f0-ee7e-4e07-97a6-57a746cda596",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-coolscan3.so.1.2.1",
+  "size": 137480,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.132634428Z",
+  "sha256_hash": "6f2daec96385ec809f6c9288928ce74a2b5361db5cc5e30365d51bafad5d1acc",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.270148050Z"
+}

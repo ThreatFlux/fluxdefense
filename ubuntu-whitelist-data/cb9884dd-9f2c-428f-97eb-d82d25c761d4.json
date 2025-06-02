@@ -1,0 +1,17 @@
+{
+  "uuid": "cb9884dd-9f2c-428f-97eb-d82d25c761d4",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/geoclue-2.0.pc",
+  "size": 309,
+  "modified": "2024-04-08T14:39:26Z",
+  "created": "2025-05-09T05:07:36.971636885Z",
+  "sha256_hash": "8ebc7101eb8176fe54d7e0a151c0d14c98e8f256b604293c494f4df1cbe48055",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.108136606Z"
+}

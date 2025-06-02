@@ -1,0 +1,17 @@
+{
+  "uuid": "20be3396-9d9b-44aa-a279-80edbb2d7e59",
+  "path": "/lib/firmware/intel/sof-tplg/sof-apl-es8336-ssp5.tplg.zst",
+  "size": 1108,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.057490999Z",
+  "sha256_hash": "ca5672970d151677613a6118cc3a952a1169acad18a4843fba3a89129f7c0025",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.203492212Z"
+}

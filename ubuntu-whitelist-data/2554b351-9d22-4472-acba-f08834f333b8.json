@@ -1,0 +1,17 @@
+{
+  "uuid": "2554b351-9d22-4472-acba-f08834f333b8",
+  "path": "/usr/lib/firmware/amdgpu/vega10_rlc.bin.zst",
+  "size": 6824,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.423543322Z",
+  "sha256_hash": "aa646ef7902b99572be74c698f78f0bd28e17d8c0a43fc8b26e9394406d6d499",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.949677458Z"
+}

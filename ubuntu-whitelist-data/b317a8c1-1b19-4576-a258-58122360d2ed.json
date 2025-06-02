@@ -1,0 +1,15 @@
+{
+  "uuid": "b317a8c1-1b19-4576-a258-58122360d2ed",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/config/cc_zypper_add_repo.py",
+  "size": 5052,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.236037177Z",
+  "sha256_hash": "e1704ce3fc268781557910cf496485040d6a220bc909df118fe4a3a4ee5ac6e7",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.853720702Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "5a85f4a2-6d10-4f1b-a0ea-5810d64dee07",
+  "path": "/lib/x86_64-linux-gnu/libgphoto2/2.5.31/sonix.so",
+  "size": 31320,
+  "modified": "2024-03-31T02:00:03Z",
+  "created": "2025-05-09T05:07:35.854653930Z",
+  "sha256_hash": "a099307d870baeb3bef044f9f35fdf48d0aecbd9e31d7f78c7e13bb1c177bff0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.932746745Z"
+}

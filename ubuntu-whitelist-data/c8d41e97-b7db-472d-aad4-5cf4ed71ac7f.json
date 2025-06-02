@@ -1,0 +1,17 @@
+{
+  "uuid": "c8d41e97-b7db-472d-aad4-5cf4ed71ac7f",
+  "path": "/lib/x86_64-linux-gnu/libxslt.so.1.1.39",
+  "size": 260536,
+  "modified": "2025-03-19T16:53:59Z",
+  "created": "2025-05-09T05:11:21.612208287Z",
+  "sha256_hash": "c360c773ecdae0c205d458fa83646b393cb124508be13e621ff73d312712dc4d",
+  "file_type": {
+    "Other": "39"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.230406983Z"
+}

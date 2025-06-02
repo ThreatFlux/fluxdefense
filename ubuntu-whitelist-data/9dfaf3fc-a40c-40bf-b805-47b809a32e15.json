@@ -1,0 +1,17 @@
+{
+  "uuid": "9dfaf3fc-a40c-40bf-b805-47b809a32e15",
+  "path": "/lib/x86_64-linux-gnu/libavutil.so.58.29.100",
+  "size": 1087520,
+  "modified": "2024-04-05T17:28:52Z",
+  "created": "2025-05-09T05:09:18.175092385Z",
+  "sha256_hash": "11b0836441b899e1b2183fc10eda5a5f637c03547fdfe5b97774e2cbd5aeb72c",
+  "file_type": {
+    "Other": "100"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.801025900Z"
+}

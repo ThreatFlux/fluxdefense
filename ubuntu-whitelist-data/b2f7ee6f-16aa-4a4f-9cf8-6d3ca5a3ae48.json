@@ -1,0 +1,17 @@
+{
+  "uuid": "b2f7ee6f-16aa-4a4f-9cf8-6d3ca5a3ae48",
+  "path": "/usr/lib/tmpfiles.d/snapd.conf",
+  "size": 42,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.599028688Z",
+  "sha256_hash": "9fbd700577ce7475c79622fd940823eb0bb4e0ca6a3bf5bb881862fb7a677954",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.132395059Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "17bf6e10-6258-40e4-b20a-26fc0e41ed69",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstoss4.so",
+  "size": 59640,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.774655151Z",
+  "sha256_hash": "d6dd98d8d2becfde9d41b36ca61f15dcd0223cbf594a441c6cf944fb19ec6b77",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.123754477Z"
+}

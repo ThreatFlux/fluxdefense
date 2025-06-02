@@ -1,0 +1,17 @@
+{
+  "uuid": "3ff35560-c645-4b88-acdf-73e6e1135ccd",
+  "path": "/lib/firmware/intel/sof-tplg/sof-cml-demux-rt5682-max98357a.tplg.zst",
+  "size": 1667,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.058490984Z",
+  "sha256_hash": "9c3049290dfe50a8c242ee0112944b811ae5c8313c073ed22c8e76f48a9ee2c0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.222145921Z"
+}

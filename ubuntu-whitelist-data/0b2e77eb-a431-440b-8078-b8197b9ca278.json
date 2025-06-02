@@ -1,0 +1,17 @@
+{
+  "uuid": "0b2e77eb-a431-440b-8078-b8197b9ca278",
+  "path": "/usr/lib/x86_64-linux-gnu/libsamba-credentials.so.1.0.0",
+  "size": 96560,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:32.108711092Z",
+  "sha256_hash": "5e75f367118ab0d66c690c4008cddeee0eb13049a68883c7c9729a5eee8d4ad1",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.881882843Z"
+}

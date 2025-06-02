@@ -1,0 +1,17 @@
+{
+  "uuid": "0771f4ed-8921-4d24-a633-4c1923d1ff8a",
+  "path": "/lib/libreoffice/program/libuno_sal.so.3",
+  "size": 426968,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:02.447500827Z",
+  "sha256_hash": "bbf327545f9fa31d2107d07e8fae5bcef7f8f2010010bcde04c16e5bd0937f70",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:49.104396691Z"
+}

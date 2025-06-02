@@ -1,0 +1,17 @@
+{
+  "uuid": "0ca2cbb7-409c-46c9-b10b-a50c08eb05a4",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/SuspiciousStringCompareCheck.h",
+  "size": 1411,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "e754104426d118f6df44f132f875577ab53fadee980178bccdf483316ef92df8",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.899539447Z"
+}

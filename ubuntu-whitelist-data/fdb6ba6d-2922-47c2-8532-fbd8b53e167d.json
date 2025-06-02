@@ -1,0 +1,17 @@
+{
+  "uuid": "fdb6ba6d-2922-47c2-8532-fbd8b53e167d",
+  "path": "/lib/firmware/ql2100_fw.bin.zst",
+  "size": 38468,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.057534540Z",
+  "sha256_hash": "7bcf44d2818b3a884b1fcb6b4e0cdb97a45e2269b37e9928a6e4f8753c8a1702",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.682597736Z"
+}

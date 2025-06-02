@@ -1,0 +1,15 @@
+{
+  "uuid": "062b5079-6f0d-4cf5-b31c-953b6ef47195",
+  "path": "/usr/lib/python3/dist-packages/debian/_deb822_repro/formatter.py",
+  "size": 20612,
+  "modified": "2023-01-31T19:04:35Z",
+  "created": "2025-05-09T05:07:26.826791693Z",
+  "sha256_hash": "cbfc868ca5cac20584ea94d650f5147f9992c1432d8de6430288c4ed4b3b42ec",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.903662600Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b45d44b1-b876-45fe-bc60-40e1f9e77485",
+  "path": "/lib/llvm-18/include/clang/AST/DataCollection.h",
+  "size": 2513,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.516533752Z",
+  "sha256_hash": "1cc3f6db554a593e8d7f91b88953d0f2a6ec31303cf61f9848bac9d6e89e7b9b",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.945224525Z"
+}

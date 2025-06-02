@@ -1,0 +1,17 @@
+{
+  "uuid": "f2cee189-ab96-472e-9535-a5a9223388b2",
+  "path": "/lib/firmware/cis/LA-PCM.cis.zst",
+  "size": 171,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.510542117Z",
+  "sha256_hash": "c97065940124a4601babc0adf7f2623b539fdd4033bf6be686b3818f8bae39b3",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.343742774Z"
+}

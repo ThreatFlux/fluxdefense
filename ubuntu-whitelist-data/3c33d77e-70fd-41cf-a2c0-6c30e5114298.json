@@ -1,0 +1,15 @@
+{
+  "uuid": "3c33d77e-70fd-41cf-a2c0-6c30e5114298",
+  "path": "/usr/libexec/plymouth/plymouth-generate-initrd",
+  "size": 954,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:27.492960998Z",
+  "sha256_hash": "d8dde5d7afc633045fa541190d091cacaf7e0f6c98a8b1f727974606c3005a60",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.245552968Z"
+}

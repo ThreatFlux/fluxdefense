@@ -1,0 +1,17 @@
+{
+  "uuid": "a9fe341e-5425-474b-a79e-6f954948c855",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-conhel.adb",
+  "size": 7001,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.050345148Z",
+  "sha256_hash": "6e964a706eab72ac49cabae389efa41c5b2c4c215432ac51d7cc1b2eb9c1536e",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.117025447Z"
+}

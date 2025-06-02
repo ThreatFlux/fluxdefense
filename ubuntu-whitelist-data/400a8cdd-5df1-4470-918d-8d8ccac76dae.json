@@ -1,0 +1,17 @@
+{
+  "uuid": "400a8cdd-5df1-4470-918d-8d8ccac76dae",
+  "path": "/lib/x86_64-linux-gnu/libGLX_mesa.so.0.0.0",
+  "size": 455544,
+  "modified": "2024-12-16T10:17:11Z",
+  "created": "2025-05-09T05:07:28.452766881Z",
+  "sha256_hash": "5f1f2530ac05747cf06f6e2ce0a538c3d1291db86a4a2e93ccdc68282ab941d4",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.564257644Z"
+}

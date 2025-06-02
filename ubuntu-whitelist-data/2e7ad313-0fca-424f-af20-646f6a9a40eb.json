@@ -1,0 +1,15 @@
+{
+  "uuid": "2e7ad313-0fca-424f-af20-646f6a9a40eb",
+  "path": "/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/printbackends/libprintbackend-file.so",
+  "size": 30952,
+  "modified": "2025-01-27T19:56:56Z",
+  "created": "2025-05-09T05:24:16.537818153Z",
+  "sha256_hash": "33a64c883e927c5a4af45f858770d0075aa8e2fb26294f1240592c15c1f78ed5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.389911082Z"
+}

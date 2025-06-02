@@ -1,0 +1,17 @@
+{
+  "uuid": "755c72ab-be12-439b-b5cb-0fbf1febd72c",
+  "path": "/usr/lib/x86_64-linux-gnu/libmikmod.so.3.3.0",
+  "size": 294240,
+  "modified": "2024-04-18T17:55:31Z",
+  "created": "2025-05-29T11:16:26.262782109Z",
+  "sha256_hash": "a9939aec007f4266379901f05c3bf1197fd5e77a9e5aedbbcb4b17b19dfd170b",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.518001434Z"
+}

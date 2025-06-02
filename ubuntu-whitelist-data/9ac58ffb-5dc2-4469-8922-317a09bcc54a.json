@@ -1,0 +1,15 @@
+{
+  "uuid": "9ac58ffb-5dc2-4469-8922-317a09bcc54a",
+  "path": "/lib/llvm-18/lib/libclangChangeNamespace.a",
+  "size": 678286,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.640532119Z",
+  "sha256_hash": "d3cd6870e9aff0596bc88f54cba1037cda4db1f602e9e6b1fbecd29eccd2a0a8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:37.976610607Z"
+}

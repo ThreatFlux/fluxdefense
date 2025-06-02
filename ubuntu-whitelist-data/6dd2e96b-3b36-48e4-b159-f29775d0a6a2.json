@@ -1,0 +1,15 @@
+{
+  "uuid": "6dd2e96b-3b36-48e4-b159-f29775d0a6a2",
+  "path": "/lib/llvm-18/lib/libclangMove.a",
+  "size": 477012,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.740530803Z",
+  "sha256_hash": "4b08d762d6357c27fb1da74c89cc97a5aee8b81ce7566942467649e0dee0595c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.200287456Z"
+}

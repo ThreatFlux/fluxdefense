@@ -1,0 +1,17 @@
+{
+  "uuid": "17142087-5729-412f-a3c7-67d2cad6dc83",
+  "path": "/usr/lib/firmware/ti_5052.fw.zst",
+  "size": 7381,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.079534235Z",
+  "sha256_hash": "eb356a529407ad13bb2490d0557f67f3635a91931cfb1b7315f7caf6e4b087ab",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:57.013953939Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "b1eedb92-ed5c-4dcd-ac28-10ed2b86d745",
+  "path": "/lib/x86_64-linux-gnu/samba/ldb/skel.so",
+  "size": 14640,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.127634504Z",
+  "sha256_hash": "1f83a45044c4583a91f5b4606a0f50941b890042c834c8190e35e1cd8f43f88c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.482551666Z"
+}

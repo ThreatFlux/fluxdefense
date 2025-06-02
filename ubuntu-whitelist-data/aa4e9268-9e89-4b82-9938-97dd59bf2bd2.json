@@ -1,0 +1,17 @@
+{
+  "uuid": "aa4e9268-9e89-4b82-9938-97dd59bf2bd2",
+  "path": "/lib/systemd/user/evolution-user-prompter.service",
+  "size": 164,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:28.305769124Z",
+  "sha256_hash": "48c488158ec5dd5512f0f51ff8616239dc5072a6b9a38a6c61a108489bb4abca",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.143260244Z"
+}

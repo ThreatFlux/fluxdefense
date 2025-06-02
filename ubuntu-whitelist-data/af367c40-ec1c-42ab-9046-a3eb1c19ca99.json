@@ -1,0 +1,15 @@
+{
+  "uuid": "af367c40-ec1c-42ab-9046-a3eb1c19ca99",
+  "path": "/usr/lib/modules/6.11.0-25-generic/vdso/vdso32.so",
+  "size": 49832,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.154458995Z",
+  "sha256_hash": "1771b77f518a8680767453d3a1e73dcc7d1ddeb609e5f2159827d161e1101434",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.990835622Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "2304c84a-bb04-4ce5-b7a6-5977fe95308c",
+  "path": "/lib/x86_64-linux-gnu/libibverbs/librxe-rdmav34.so",
+  "size": 35056,
+  "modified": "2024-03-31T08:21:10Z",
+  "created": "2025-05-09T05:07:35.866653747Z",
+  "sha256_hash": "d22dab4a8c98d55c134c62161886f3048f8b8dad35e79627937886058a11669e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.812402411Z"
+}

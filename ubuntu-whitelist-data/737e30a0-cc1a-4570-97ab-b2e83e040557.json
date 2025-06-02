@@ -1,0 +1,15 @@
+{
+  "uuid": "737e30a0-cc1a-4570-97ab-b2e83e040557",
+  "path": "/usr/bin/nsenter",
+  "size": 31336,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:20.236892251Z",
+  "sha256_hash": "c4e9fe71f75d9ecaeef7fe095afdaf09afd8392a03a011c82e268f47924c6e49",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:13.935389847Z"
+}

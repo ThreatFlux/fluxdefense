@@ -1,0 +1,15 @@
+{
+  "uuid": "48af8062-924b-47d4-8fb8-58eac6c20c96",
+  "path": "/usr/lib/x86_64-linux-gnu/libltdl.a",
+  "size": 62040,
+  "modified": "2024-04-08T16:07:55Z",
+  "created": "2025-05-28T13:47:44.769502093Z",
+  "sha256_hash": "b4a5953ca75ee39638dc9a191f548730e5687f689eff20da5781f5c536020107",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:26.217437197Z"
+}

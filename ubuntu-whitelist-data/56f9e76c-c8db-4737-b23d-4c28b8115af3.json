@@ -1,0 +1,15 @@
+{
+  "uuid": "56f9e76c-c8db-4737-b23d-4c28b8115af3",
+  "path": "/lib/google-cloud-sdk/lib/surface/tasks/renew_lease.py",
+  "size": 1682,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.764931394Z",
+  "sha256_hash": "e92435bf1e0f8c4201e2721564654a8901f604385374f36a83d593bbe355bd43",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.059464786Z"
+}

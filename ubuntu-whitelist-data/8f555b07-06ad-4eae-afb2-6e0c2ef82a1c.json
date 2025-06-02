@@ -1,0 +1,17 @@
+{
+  "uuid": "8f555b07-06ad-4eae-afb2-6e0c2ef82a1c",
+  "path": "/lib/x86_64-linux-gnu/libwebkitgtk-6.0.so.4.11.6",
+  "size": 86547416,
+  "modified": "2025-04-07T15:14:55Z",
+  "created": "2025-05-09T05:11:31.572056254Z",
+  "sha256_hash": "8d3d1af746b2ff74a2c87a6670920d037e90c33d1c7a544c5604719ec3e657c3",
+  "file_type": {
+    "Other": "6"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.472608587Z"
+}

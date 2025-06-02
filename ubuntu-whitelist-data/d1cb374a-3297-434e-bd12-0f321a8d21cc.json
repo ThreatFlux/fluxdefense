@@ -1,0 +1,17 @@
+{
+  "uuid": "d1cb374a-3297-434e-bd12-0f321a8d21cc",
+  "path": "/usr/lib/pcrlock.d/350-action-efi-application.pcrlock",
+  "size": 494,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.508779291Z",
+  "sha256_hash": "55004b7ef5f4fe64f43cc13a711636501f8ea84c86c446bbea7b042e2e9b0522",
+  "file_type": {
+    "Other": "pcrlock"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.284372352Z"
+}

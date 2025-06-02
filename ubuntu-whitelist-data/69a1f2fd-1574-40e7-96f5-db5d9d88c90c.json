@@ -1,0 +1,17 @@
+{
+  "uuid": "69a1f2fd-1574-40e7-96f5-db5d9d88c90c",
+  "path": "/lib/firmware/ctefx.bin.zst",
+  "size": 103121,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.511542103Z",
+  "sha256_hash": "ea4e1ba7b620a583e96e74244f22280fecc913c9aa5b4b8d8ff0a226358f0887",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.506737467Z"
+}

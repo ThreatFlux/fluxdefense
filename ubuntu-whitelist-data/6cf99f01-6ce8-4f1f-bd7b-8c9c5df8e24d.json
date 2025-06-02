@@ -1,0 +1,17 @@
+{
+  "uuid": "6cf99f01-6ce8-4f1f-bd7b-8c9c5df8e24d",
+  "path": "/usr/lib/udev/rules.d/60-sensor.rules",
+  "size": 1618,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "0e8bbe52adaa173d3deba22f9c3a1c7447884ab5c625d3c3b4fdce60e52bd6d3",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.103303847Z"
+}

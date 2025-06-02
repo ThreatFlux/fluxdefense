@@ -1,0 +1,17 @@
+{
+  "uuid": "27bf730b-53e7-44d2-9bfb-104f9ebba756",
+  "path": "/lib/x86_64-linux-gnu/dpdk/pmds-24.0/librte_bus_vdev.so.24.0",
+  "size": 22912,
+  "modified": "2024-12-18T18:31:38Z",
+  "created": "2025-05-26T20:18:26.598029830Z",
+  "sha256_hash": "fe3b162c6eb5aa9480f38e4c23f81a1b00649987903a3aba1b41a1e6325f934a",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:28.616029672Z"
+}

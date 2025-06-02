@@ -1,0 +1,15 @@
+{
+  "uuid": "0c262302-81e0-4514-8563-a1382780a380",
+  "path": "/bin/ping",
+  "size": 89768,
+  "modified": "2024-04-08T16:00:16Z",
+  "created": "2025-05-09T05:07:20.297891321Z",
+  "sha256_hash": "c8addf60507e54d9b5ca766492fec5386c5bf8775d7c6748c305a4e01f7f7145",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.423234489Z"
+}

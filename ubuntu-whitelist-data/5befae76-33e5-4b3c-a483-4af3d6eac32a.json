@@ -1,0 +1,15 @@
+{
+  "uuid": "5befae76-33e5-4b3c-a483-4af3d6eac32a",
+  "path": "/lib/xorg/modules/libglamoregl.so",
+  "size": 221600,
+  "modified": "2025-03-04T04:58:03Z",
+  "created": "2025-05-09T05:24:13.315776824Z",
+  "sha256_hash": "fb516ffe092fec650c139707f4029b2d2c584345c40b488760fc138e8881f277",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.664241472Z"
+}

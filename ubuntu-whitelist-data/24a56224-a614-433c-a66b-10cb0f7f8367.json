@@ -1,0 +1,17 @@
+{
+  "uuid": "24a56224-a614-433c-a66b-10cb0f7f8367",
+  "path": "/usr/lib/x86_64-linux-gnu/libnvidia-ptxjitcompiler.so.550.144.03",
+  "size": 28674464,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:00.405908808Z",
+  "sha256_hash": "f5cc05a77d557f2f533fc5dec431f2bba8f16314bf5f9f0290e2f4c2e6aae443",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:29.958268052Z"
+}

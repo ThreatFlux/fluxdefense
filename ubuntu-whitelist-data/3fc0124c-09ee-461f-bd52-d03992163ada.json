@@ -1,0 +1,15 @@
+{
+  "uuid": "3fc0124c-09ee-461f-bd52-d03992163ada",
+  "path": "/lib/llvm-18/lib/libLLVMTransformUtils.a",
+  "size": 5868676,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.037461045Z",
+  "sha256_hash": "e44806c29b8efce4d94cda0b58eb6e20f41d035ed70b4d05be67dfb48de67a2a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:40.811378130Z"
+}

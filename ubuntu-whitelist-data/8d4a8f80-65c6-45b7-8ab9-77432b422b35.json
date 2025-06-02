@@ -1,0 +1,17 @@
+{
+  "uuid": "8d4a8f80-65c6-45b7-8ab9-77432b422b35",
+  "path": "/lib/firmware/amdgpu/green_sardine_asd.bin.zst",
+  "size": 51089,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.400543640Z",
+  "sha256_hash": "bdf82cf37863d01db04af393801430745fbfaca470c4a4860e1a378372201b08",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.065522999Z"
+}

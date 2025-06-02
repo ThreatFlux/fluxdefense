@@ -1,0 +1,17 @@
+{
+  "uuid": "b26103ec-7305-4ed1-a5a8-c076854c1e53",
+  "path": "/usr/lib/google-cloud-sdk/.install/gcloud-deps.manifest",
+  "size": 277677,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.309922138Z",
+  "sha256_hash": "d90a67051e3c2b02a949f5325da6d95e5cd3942efdd8ecdcfa1b80dfdd948745",
+  "file_type": {
+    "Other": "manifest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.544067037Z"
+}

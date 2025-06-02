@@ -1,0 +1,17 @@
+{
+  "uuid": "36b15bfd-6806-4fb1-acd6-d82c9f396f5b",
+  "path": "/lib/udev/rules.d/60-fido-id.rules",
+  "size": 491,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "cca02ad85534572cdbd125bdba411417de1158b0709825114882cb8b8b7735e6",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.244037161Z"
+}

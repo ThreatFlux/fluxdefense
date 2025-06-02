@@ -1,0 +1,17 @@
+{
+  "uuid": "d78ebc72-43f2-470a-a20a-c76a186abde6",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-ssicst.adb",
+  "size": 3958,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.055345079Z",
+  "sha256_hash": "f5fcd483a013b109617fc96270f0fb39e51decbf7b010d52a70cfbf33c3ed259",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.304711580Z"
+}

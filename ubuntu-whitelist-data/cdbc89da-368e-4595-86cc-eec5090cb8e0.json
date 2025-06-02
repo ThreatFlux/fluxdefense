@@ -1,0 +1,17 @@
+{
+  "uuid": "cdbc89da-368e-4595-86cc-eec5090cb8e0",
+  "path": "/lib/libreoffice/program/opengl/rippleFragmentShader.glsl",
+  "size": 1971,
+  "modified": "2024-10-29T11:14:30Z",
+  "created": "2025-05-09T05:11:19.580239304Z",
+  "sha256_hash": "4489bc74f145acb08a425ab37cf67ceff224181f1af2dc42c925c2cdda63077e",
+  "file_type": {
+    "Other": "glsl"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:50.103852359Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "f020db4f-fab8-4137-bfbb-792a3bfbb8b7",
+  "path": "/usr/lib/x86_64-linux-gnu/libvirt/storage-file/libvirt_storage_file_fs.so",
+  "size": 14896,
+  "modified": "2025-03-13T16:25:50Z",
+  "created": "2025-05-20T14:31:33.105814749Z",
+  "sha256_hash": "913448cf083bd498196e8f7c83fee021a1d9f25775880e7215778a15f54f1bb8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.127185978Z"
+}

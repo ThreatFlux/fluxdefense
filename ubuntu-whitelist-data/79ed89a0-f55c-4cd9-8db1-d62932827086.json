@@ -1,0 +1,15 @@
+{
+  "uuid": "79ed89a0-f55c-4cd9-8db1-d62932827086",
+  "path": "/usr/lib/linux-boot-probes/mounted/40grub2",
+  "size": 2769,
+  "modified": "2023-03-07T13:24:16Z",
+  "created": "2025-05-09T05:07:25.745808188Z",
+  "sha256_hash": "820c638c1a1dedbfb77522784fa51150199296df4c4f5d2316bb73cce06c0586",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.562600665Z"
+}

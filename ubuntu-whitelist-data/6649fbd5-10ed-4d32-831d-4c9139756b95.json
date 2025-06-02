@@ -1,0 +1,17 @@
+{
+  "uuid": "6649fbd5-10ed-4d32-831d-4c9139756b95",
+  "path": "/lib/x86_64-linux-gnu/liblttng-ust-tracepoint.so.1.0.0",
+  "size": 51568,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:31.331722949Z",
+  "sha256_hash": "c5a75aea47fbfa1380e75fad869a00e225a947bbfa99edc6c62c2241959e1eb8",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.254696567Z"
+}

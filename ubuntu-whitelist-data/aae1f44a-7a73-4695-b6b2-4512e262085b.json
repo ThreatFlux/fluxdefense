@@ -1,0 +1,15 @@
+{
+  "uuid": "aae1f44a-7a73-4695-b6b2-4512e262085b",
+  "path": "/bin/dash",
+  "size": 129784,
+  "modified": "2024-03-31T08:47:26Z",
+  "created": "2025-05-09T05:07:19.139908991Z",
+  "sha256_hash": "86d31f6fb799e91fa21bad341484564510ca287703a16e9e46c53338776f4f42",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.530568342Z"
+}

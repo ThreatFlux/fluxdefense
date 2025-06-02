@@ -1,0 +1,15 @@
+{
+  "uuid": "0bccb14d-b38b-4f6c-a09a-5458892f483b",
+  "path": "/lib/xorg/modules/extensions/libglx.so",
+  "size": 310664,
+  "modified": "2025-03-04T04:58:03Z",
+  "created": "2025-05-09T05:24:13.314776812Z",
+  "sha256_hash": "e67cbf682868c0717d37ce426419317defae062ea86d4e3a657dfbe298b3267e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.668639197Z"
+}

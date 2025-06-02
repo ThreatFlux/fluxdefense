@@ -1,0 +1,17 @@
+{
+  "uuid": "e65d8568-cab6-46a7-8a47-2d32bbb8722e",
+  "path": "/usr/lib/systemd/system/systemd-binfmt.service",
+  "size": 1213,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "e5ec1652385be97feb387d6125d455146d8c38e1f038b083125f530623a98f8b",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.480286156Z"
+}

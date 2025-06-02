@@ -1,0 +1,15 @@
+{
+  "uuid": "eb04f36d-7148-4073-8b03-ddebd2abb72a",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libip6t_DNPT.so",
+  "size": 14784,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.326631467Z",
+  "sha256_hash": "271908f76860e3cb75dae0101954e1f350b3af9a84fffbc62949d9175c05d023",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.259395040Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "12e02109-c0f7-4121-9707-ec6a79167490",
+  "path": "/lib/llvm-18/lib/libclangTidyAlteraModule.a",
+  "size": 441140,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.840529486Z",
+  "sha256_hash": "c5ebee9c6a8c707add7906b86bad95bb9da308527a2c376c8480f3965395efd0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:40.281824301Z"
+}

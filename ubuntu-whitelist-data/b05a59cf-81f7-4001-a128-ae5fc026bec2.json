@@ -1,0 +1,17 @@
+{
+  "uuid": "b05a59cf-81f7-4001-a128-ae5fc026bec2",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-retsta.ali",
+  "size": 939,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.143343871Z",
+  "sha256_hash": "d3ca1e35a01fff9f012a0b53db4adaa26098eeb9c31ebb9eedee64a1169f6b56",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.610329800Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a9694306-b87b-4798-81ff-ea4625179ba4",
+  "path": "/usr/lib/firmware/amdgpu/green_sardine_pfp.bin.zst",
+  "size": 39783,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.400543640Z",
+  "sha256_hash": "8afffdcd2962d3a47ef53713edd99bb8413bfbeb59c2f32e9b7dcaa851032899",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.984371356Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "09bd3329-0824-46e4-afb4-5670b402fc9e",
+  "path": "/sbin/nfnl_osf",
+  "size": 18736,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:38.368615567Z",
+  "sha256_hash": "e6633cb897fbf95fce3172cae2abc1d5a962421852464b9bfbc8cbc9d6e95f4c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.744884314Z"
+}

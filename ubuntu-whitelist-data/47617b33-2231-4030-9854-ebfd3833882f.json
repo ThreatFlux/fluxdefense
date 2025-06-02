@@ -1,0 +1,17 @@
+{
+  "uuid": "47617b33-2231-4030-9854-ebfd3833882f",
+  "path": "/usr/lib/udev/rules.d/96-e2scrub.rules",
+  "size": 171,
+  "modified": "2024-04-28T23:44:46Z",
+  "created": "2025-05-09T05:07:28.439767079Z",
+  "sha256_hash": "e9648d1e428a759e9f31ac1b9f375a2545b4495d9b31f2b47066d106ed502654",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.103366333Z"
+}

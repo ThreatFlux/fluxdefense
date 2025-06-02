@@ -1,0 +1,17 @@
+{
+  "uuid": "3db597d5-ced2-43af-b7bc-6172076de335",
+  "path": "/usr/lib/python3/dist-packages/netaddr/eui/oui.idx",
+  "size": 613310,
+  "modified": "2023-09-21T17:43:02Z",
+  "created": "2025-05-09T05:08:51.408500903Z",
+  "sha256_hash": "100e52b57b09abbc7657ffe43dfe9df38522f531aa502e86fb2dbac2d47e63e7",
+  "file_type": {
+    "Other": "idx"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.440765033Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "e984eb7e-a8b4-4a62-935b-84347058084c",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstaudiofx.so",
+  "size": 150032,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.771655196Z",
+  "sha256_hash": "b3f9975483e703c2dc9154356314b095db4653f5f693e6dc312a1e5fd3b7e5c4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.921405073Z"
+}

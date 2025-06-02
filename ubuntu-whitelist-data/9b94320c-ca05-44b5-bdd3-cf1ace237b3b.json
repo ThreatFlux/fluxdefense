@@ -1,0 +1,15 @@
+{
+  "uuid": "9b94320c-ca05-44b5-bdd3-cf1ace237b3b",
+  "path": "/usr/lib/x86_64-linux-gnu/libtinfo.a",
+  "size": 321390,
+  "modified": "2024-04-08T16:14:03Z",
+  "created": "2025-05-12T13:34:34.214498225Z",
+  "sha256_hash": "4a3a69c5551834627c2141a0db8e89af48b52a4a53696af43364c16c0b5c337a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:13.995957332Z"
+}

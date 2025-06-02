@@ -1,0 +1,17 @@
+{
+  "uuid": "7f876d45-0b18-4ad3-8c53-9d17ada0c3fb",
+  "path": "/lib/firmware/agere_ap_fw.bin.zst",
+  "size": 26636,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.385543848Z",
+  "sha256_hash": "cc07ebbeccfbf5caba3e78fcb1694845b0442b0d149064791e876765bfcda5ec",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.886173318Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "d3c1bfd9-455e-4059-a874-fa4584dc6afe",
+  "path": "/bin/touch",
+  "size": 96776,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:20.719884881Z",
+  "sha256_hash": "8b0047b0de380f0bac3855400263214e33fbc2995b5637e9104a9de3f738ec82",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.781825577Z"
+}

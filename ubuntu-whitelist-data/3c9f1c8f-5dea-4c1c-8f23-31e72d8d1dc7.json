@@ -1,0 +1,15 @@
+{
+  "uuid": "3c9f1c8f-5dea-4c1c-8f23-31e72d8d1dc7",
+  "path": "/usr/lib/x86_64-linux-gnu/gnome-keyring/devel/gkm-xdg-store-standalone.so",
+  "size": 419728,
+  "modified": "2024-03-31T06:07:47Z",
+  "created": "2025-05-09T05:07:35.765655288Z",
+  "sha256_hash": "8f97fc1ee8cf6cd149edfaf093e446d40fce1af1932458bfbd4fb51c96d80687",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:08.624164375Z"
+}

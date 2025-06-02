@@ -1,0 +1,17 @@
+{
+  "uuid": "d1786798-56d4-4538-a870-26914347e6d4",
+  "path": "/usr/lib/blt2.5/init.tcl",
+  "size": 310,
+  "modified": "2024-04-08T15:54:39Z",
+  "created": "2025-05-28T17:29:44.079603140Z",
+  "sha256_hash": "05e9983b972d251e1368e15916c2bfc1f5a0bdc07ef6ff4e3f847fe598195a31",
+  "file_type": {
+    "Other": "tcl"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.371279200Z"
+}

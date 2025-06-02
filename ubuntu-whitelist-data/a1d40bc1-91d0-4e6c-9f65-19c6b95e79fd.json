@@ -1,0 +1,15 @@
+{
+  "uuid": "a1d40bc1-91d0-4e6c-9f65-19c6b95e79fd",
+  "path": "/usr/lib/x86_64-linux-gnu/rhythmbox/plugins/iradio/libiradio.so",
+  "size": 67968,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:36.993636549Z",
+  "sha256_hash": "96edb8c9b62c852ccc0a471ba187ac432344292ab17e85c4b6aae66406bcfb3b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.595272222Z"
+}

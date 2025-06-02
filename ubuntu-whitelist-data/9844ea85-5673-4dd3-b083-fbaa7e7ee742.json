@@ -1,0 +1,17 @@
+{
+  "uuid": "9844ea85-5673-4dd3-b083-fbaa7e7ee742",
+  "path": "/lib/firmware/amdgpu/vangogh_rlc.bin.zst",
+  "size": 14088,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.419543377Z",
+  "sha256_hash": "c375f00191f5abb60e0e665657f058e822f7d09f413ad1d648fdd7c12b0b68e2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.118627766Z"
+}

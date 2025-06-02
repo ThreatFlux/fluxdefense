@@ -1,0 +1,15 @@
+{
+  "uuid": "6cd4dd79-af12-40a1-bb89-e1b2117b8d28",
+  "path": "/usr/bin/rdma",
+  "size": 104976,
+  "modified": "2024-03-31T09:00:13Z",
+  "created": "2025-05-09T05:07:20.376890115Z",
+  "sha256_hash": "d87a20cd09d79cceb76fc47475679ba85bb4f85f2245d6c0b12107a7f04e5e86",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.414920521Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "40f9da9f-d1da-40a9-81b5-c1a9f73e62a1",
+  "path": "/usr/bin/snapshot",
+  "size": 1696936,
+  "modified": "2025-02-15T08:51:38Z",
+  "created": "2025-05-09T05:07:20.544887552Z",
+  "sha256_hash": "ae35c63c12db5f95305548559c09a81450d84e78db0604789368865283e057c6",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.093800429Z"
+}

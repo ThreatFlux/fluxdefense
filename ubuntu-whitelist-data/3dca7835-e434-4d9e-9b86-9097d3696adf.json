@@ -1,0 +1,17 @@
+{
+  "uuid": "3dca7835-e434-4d9e-9b86-9097d3696adf",
+  "path": "/usr/lib/x86_64-linux-gnu/libharfbuzz-cairo.so.0.60830.0",
+  "size": 51192,
+  "modified": "2024-03-31T01:19:37Z",
+  "created": "2025-05-29T11:16:06.694050639Z",
+  "sha256_hash": "53bd1818bb69c67c44a1ef355a73b15874c38ad97e32fb010e3211f589988c2e",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.000070266Z"
+}

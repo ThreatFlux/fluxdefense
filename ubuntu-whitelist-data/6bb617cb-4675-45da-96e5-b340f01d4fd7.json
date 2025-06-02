@@ -1,0 +1,17 @@
+{
+  "uuid": "6bb617cb-4675-45da-96e5-b340f01d4fd7",
+  "path": "/lib/systemd/systemd-makefs",
+  "size": 14712,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.519779432Z",
+  "sha256_hash": "d0359474d232b7bb094a8dc09eea3964b4395af491cd6145bab0b1e757f452ac",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.185231123Z"
+}

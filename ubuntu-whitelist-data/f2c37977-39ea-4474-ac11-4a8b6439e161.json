@@ -1,0 +1,15 @@
+{
+  "uuid": "f2c37977-39ea-4474-ac11-4a8b6439e161",
+  "path": "/bin/dh_installmime",
+  "size": 1330,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.514341255Z",
+  "sha256_hash": "27cd3fa688af7e3f917cdde492505fe49bc59a2fe8965ce5cd00fabc198714ba",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.484498235Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "39cdd5db-6913-4de7-83d0-b4b8745bb28d",
+  "path": "/bin/fgrep",
+  "size": 41,
+  "modified": "2024-04-08T15:58:39Z",
+  "created": "2025-05-09T05:07:19.212907877Z",
+  "sha256_hash": "f1bdb63da98989d55e56cef651139f70448d4c8f6ea40bb02610be439e29bf0c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.165153478Z"
+}

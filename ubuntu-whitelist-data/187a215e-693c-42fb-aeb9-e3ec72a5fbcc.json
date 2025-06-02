@@ -1,0 +1,15 @@
+{
+  "uuid": "187a215e-693c-42fb-aeb9-e3ec72a5fbcc",
+  "path": "/bin/dpkg-name",
+  "size": 6772,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T06:33:31.737357690Z",
+  "sha256_hash": "35019db2113124b0d3db3b44f02615e3ec2be6f365f9986d913c0596930d62f5",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.650470073Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "95aa8c06-937e-439f-957d-3dc3046b08d7",
+  "path": "/usr/lib/grub/x86_64-efi/datehook.mod",
+  "size": 3064,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.803708536Z",
+  "sha256_hash": "2426e18daf10ceb758fc5dfcd970ac5852d3290a37c53644d913d68b467ea173",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.460891513Z"
+}

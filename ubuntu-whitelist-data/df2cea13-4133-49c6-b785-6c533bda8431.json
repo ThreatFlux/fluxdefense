@@ -1,0 +1,17 @@
+{
+  "uuid": "df2cea13-4133-49c6-b785-6c533bda8431",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-explli.adb",
+  "size": 2596,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.076344791Z",
+  "sha256_hash": "b806aa3dd270252acf38760ce58dc320a88d55f249058b95c464d17ee39a316c",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.133088844Z"
+}

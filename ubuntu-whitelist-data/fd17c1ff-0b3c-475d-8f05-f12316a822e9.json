@@ -1,0 +1,17 @@
+{
+  "uuid": "fd17c1ff-0b3c-475d-8f05-f12316a822e9",
+  "path": "/lib/x86_64-linux-gnu/libdrm_intel.so.1.0.0",
+  "size": 143304,
+  "modified": "2024-08-02T12:33:15Z",
+  "created": "2025-05-09T05:07:29.357753071Z",
+  "sha256_hash": "f845b210754dcb052a2b56157d7e49555386c9f0bdb0c478253413e7c2478c38",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.815489751Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "c9ffb60a-7836-462c-b830-4834d5c37189",
+  "path": "/usr/lib/llvm-18/lib/libLLVMBPFDisassembler.a",
+  "size": 23694,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.819463916Z",
+  "sha256_hash": "36b3e28e04864d9a18c74b1979457b330e05d5d7ba95891c91f57d39d2227391",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:35.068679084Z"
+}

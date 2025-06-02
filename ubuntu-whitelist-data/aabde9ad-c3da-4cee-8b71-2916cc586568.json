@@ -1,0 +1,17 @@
+{
+  "uuid": "aabde9ad-c3da-4cee-8b71-2916cc586568",
+  "path": "/lib/x86_64-linux-gnu/libbs2b.so.0.0.0",
+  "size": 22608,
+  "modified": "2024-04-18T17:48:08Z",
+  "created": "2025-05-09T05:09:23.936004459Z",
+  "sha256_hash": "1a6748a955f5573a5e12915aa30cd1f2532d8018e5e57db5add0bdfed8235691",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.127088800Z"
+}

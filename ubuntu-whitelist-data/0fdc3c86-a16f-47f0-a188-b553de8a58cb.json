@@ -1,0 +1,17 @@
+{
+  "uuid": "0fdc3c86-a16f-47f0-a188-b553de8a58cb",
+  "path": "/lib/i386-linux-gnu/libresolv.so.2",
+  "size": 58964,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.294663202Z",
+  "sha256_hash": "f0bc84efdf6e56418fba33357630ea2adeb8c0e09a4cf62ba059722e39134854",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.552704524Z"
+}

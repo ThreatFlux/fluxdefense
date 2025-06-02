@@ -1,0 +1,17 @@
+{
+  "uuid": "426addc6-5b09-423b-b43c-dc61d8758a44",
+  "path": "/usr/lib/systemd/system/update-notifier-motd.timer",
+  "size": 301,
+  "modified": "2024-10-08T13:47:14Z",
+  "created": "2025-05-09T05:24:21.991888836Z",
+  "sha256_hash": "7e5fa1f167ad72cf1bd0421d72ca3017ccb5a62f98d91ec3f9e25efd46c2a9ef",
+  "file_type": {
+    "Other": "timer"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.461492060Z"
+}

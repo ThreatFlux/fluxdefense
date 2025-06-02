@@ -1,0 +1,17 @@
+{
+  "uuid": "d5216a83-40d7-4ab8-8139-f2e6b4828317",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/lv_dict",
+  "size": 65621,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.474659728Z",
+  "sha256_hash": "8a081cb443b949791348d7d547692d886a596993baa3437b57558305572b5f8e",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.380129826Z"
+}

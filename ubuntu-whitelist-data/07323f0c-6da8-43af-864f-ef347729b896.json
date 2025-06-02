@@ -1,0 +1,15 @@
+{
+  "uuid": "07323f0c-6da8-43af-864f-ef347729b896",
+  "path": "/usr/bin/dh_prep",
+  "size": 1910,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.514341255Z",
+  "sha256_hash": "a48e866e0af2901ca180b2ec6925ccf0845aa4141ae08e8c4165c3924fe06b71",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.892600402Z"
+}

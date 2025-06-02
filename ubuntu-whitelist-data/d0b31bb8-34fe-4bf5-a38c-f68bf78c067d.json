@@ -1,0 +1,15 @@
+{
+  "uuid": "d0b31bb8-34fe-4bf5-a38c-f68bf78c067d",
+  "path": "/sbin/javaflow-bpfcc",
+  "size": 54,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "60d524e9fb44e5b5ab7a75f2bd42c9557f6db728d55d3eb262a1276440e6187d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.765915972Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b6611a15-58e9-4fc5-b6b0-e92bffb16bba",
+  "path": "/usr/lib/firmware/ea/indigo_io_dsp.fw.zst",
+  "size": 6195,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.529541854Z",
+  "sha256_hash": "fa08c57da683a7a37362b472cda13b39cf5426909d692f4d5215e61796a2650e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.652347365Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a9114ae7-6d41-47f5-bd11-700612bb08e6",
+  "path": "/lib/udev/rules.d/85-brltty.rules",
+  "size": 20594,
+  "modified": "2024-03-31T00:24:15Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "1605fa379cace21cce9e833a4c1669e619dd4c308a5ebffb3b8e019918529a20",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.248609661Z"
+}

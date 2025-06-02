@@ -1,0 +1,17 @@
+{
+  "uuid": "2f34d347-6c51-467a-88a2-558feeef178d",
+  "path": "/lib/firmware/nvidia/gm20b/pmu/image.bin.zst",
+  "size": 18327,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.938536188Z",
+  "sha256_hash": "93ad1da758c1098ec4c4312b3f9f8c18ee2c1fed2c7d17e2235ba4ce52e76512",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.432776901Z"
+}

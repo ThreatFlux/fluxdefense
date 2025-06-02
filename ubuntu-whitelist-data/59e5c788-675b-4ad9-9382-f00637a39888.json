@@ -1,0 +1,15 @@
+{
+  "uuid": "59e5c788-675b-4ad9-9382-f00637a39888",
+  "path": "/bin/virt-clone",
+  "size": 138,
+  "modified": "2024-08-01T12:18:26Z",
+  "created": "2025-05-09T05:56:59.259533444Z",
+  "sha256_hash": "3ce844a6c0c2663d764a21f7602f70f62ddfbb898d86e719955bbcd27756ceb0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.985595815Z"
+}

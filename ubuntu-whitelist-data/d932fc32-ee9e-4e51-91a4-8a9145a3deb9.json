@@ -1,0 +1,17 @@
+{
+  "uuid": "d932fc32-ee9e-4e51-91a4-8a9145a3deb9",
+  "path": "/lib/systemd/user/update-notifier-release.path",
+  "size": 183,
+  "modified": "2024-10-08T13:47:14Z",
+  "created": "2025-05-09T05:24:21.710885176Z",
+  "sha256_hash": "de077b7cedfa1495f80777182b71b218447281919d6037519b5ab2781d507ec9",
+  "file_type": {
+    "Other": "path"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.149242424Z"
+}

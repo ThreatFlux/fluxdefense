@@ -1,0 +1,15 @@
+{
+  "uuid": "3926dc9c-a08e-409b-b671-a61e292daef0",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM273.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.277663461Z",
+  "sha256_hash": "34cc028b688ed7e4098e1283a3b04d1cb176be8ac8fe4cc485dc4fb8e48e04e2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.920109452Z"
+}

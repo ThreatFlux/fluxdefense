@@ -1,0 +1,15 @@
+{
+  "uuid": "5c159ce8-9c76-4eb1-a773-1f9423dc8a9f",
+  "path": "/usr/libexec/gvfsd-burn",
+  "size": 39224,
+  "modified": "2024-04-18T13:39:03Z",
+  "created": "2025-05-09T05:07:37.508628690Z",
+  "sha256_hash": "1590d121d5994c8274579867656fae0552461f9b74eaa1e2e09dd1b365e74243",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.099365173Z"
+}

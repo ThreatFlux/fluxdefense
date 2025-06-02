@@ -1,0 +1,17 @@
+{
+  "uuid": "705af903-ee95-4453-a360-53ee129cd0c9",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/PerlIO/mmap.pm",
+  "size": 600,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.519591312Z",
+  "sha256_hash": "c39bf3911dcf823b5ff2ab09faba5d29a63bda89d3aa1d1605cf36305f0cf723",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.600899412Z"
+}

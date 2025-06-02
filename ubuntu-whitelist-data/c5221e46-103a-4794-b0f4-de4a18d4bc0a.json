@@ -1,0 +1,17 @@
+{
+  "uuid": "c5221e46-103a-4794-b0f4-de4a18d4bc0a",
+  "path": "/usr/lib/systemd/system/getty.target",
+  "size": 509,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "a56d1fd948be904c1c79bb73f650012c01c829b04b2fea60209e1ee0b79571b1",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.473344214Z"
+}

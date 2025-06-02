@@ -1,0 +1,15 @@
+{
+  "uuid": "552467f3-6c09-4732-b96d-0244eb8e21e0",
+  "path": "/lib/x86_64-linux-gnu/xtables/libipt_CLUSTERIP.so",
+  "size": 14784,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.327631452Z",
+  "sha256_hash": "347ed43323470f4647b673580e9a7c616b5ef4d36a2d8a46070f93c94acf29c4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.667519756Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "6069c8bc-518a-409a-a21a-43e098c2636b",
+  "path": "/usr/lib/google-cloud-sdk/platform/bq/clients/wait_printer.py",
+  "size": 4563,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.816930511Z",
+  "sha256_hash": "db468c187d773b9f07cb7e15d38757117cadfc863cbfe27dc026fe380829c2a0",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.599005368Z"
+}

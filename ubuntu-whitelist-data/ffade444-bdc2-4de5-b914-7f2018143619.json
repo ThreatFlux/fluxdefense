@@ -1,0 +1,17 @@
+{
+  "uuid": "ffade444-bdc2-4de5-b914-7f2018143619",
+  "path": "/lib/google-cloud-sdk/.install/bq-nix.manifest",
+  "size": 7,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.310922121Z",
+  "sha256_hash": "460f68f9c123035ab2a3354e3903997a060815a9c91ee105caa019ddeec2e480",
+  "file_type": {
+    "Other": "manifest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.944148774Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "4a0846d1-5d40-4847-a8e8-d36eb1ba4b38",
+  "path": "/bin/udevadm",
+  "size": 1439536,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:14.041786105Z",
+  "sha256_hash": "afa4827c0482ab5812241a9c7cc6ef56e8a4db6a54268a8a6100c5cfc0b9de99",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:18.950881878Z"
+}

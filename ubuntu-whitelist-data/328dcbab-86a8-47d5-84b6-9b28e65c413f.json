@@ -1,0 +1,15 @@
+{
+  "uuid": "328dcbab-86a8-47d5-84b6-9b28e65c413f",
+  "path": "/usr/lib/x86_64-linux-gnu/engines-3/loader_attic.so",
+  "size": 56192,
+  "modified": "2025-02-05T13:17:43Z",
+  "created": "2025-05-09T05:10:59.224550023Z",
+  "sha256_hash": "db19a9fd4832b00f9882e0aa0987488c9ed331fdac1c60fc34a2f56f18f1838a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.846030295Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "251d14ff-5a02-4f73-b1d8-9e91c15bed7e",
+  "path": "/bin/x86_64-linux-gnu-gfortran-13",
+  "size": 1027128,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:14.303355410Z",
+  "sha256_hash": "7e292e9d5da17a37bb1c17a06afb6463db786c70827fd6893ed31a86715b03c3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.878618574Z"
+}

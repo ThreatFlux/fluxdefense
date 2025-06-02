@@ -1,0 +1,15 @@
+{
+  "uuid": "2190bc23-73c6-4f6b-b5fc-2ee875c43887",
+  "path": "/usr/bin/systemctl",
+  "size": 1501304,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.500779189Z",
+  "sha256_hash": "60a7d2822e164f29a3f922347656029b332fe5059869b1e419e02f205f21a353",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:13.911378578Z"
+}

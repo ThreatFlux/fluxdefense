@@ -1,0 +1,17 @@
+{
+  "uuid": "fc5c0975-92e6-4acf-8a23-e8e99419b085",
+  "path": "/lib/systemd/network/80-auto-link-local.network.example",
+  "size": 719,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.510779317Z",
+  "sha256_hash": "6456579343167ba7d72ace67ff09f99e8f8cf3786545f6529705e5e85d933159",
+  "file_type": {
+    "Other": "example"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.194997342Z"
+}

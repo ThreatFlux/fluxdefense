@@ -1,0 +1,17 @@
+{
+  "uuid": "420bf028-4a01-4f58-8339-fd9488649c21",
+  "path": "/lib/openssh/ssh-session-cleanup",
+  "size": 239,
+  "modified": "2024-07-30T16:12:40Z",
+  "created": "2025-05-09T06:02:55.235551117Z",
+  "sha256_hash": "805e2e75e8c8017838013a1b6f231e04c1d3b0450e862821024fa8a6420dda68",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.741705096Z"
+}

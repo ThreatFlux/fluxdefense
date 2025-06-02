@@ -1,0 +1,15 @@
+{
+  "uuid": "a8fcbb69-0338-4006-8db5-b67b652dcc60",
+  "path": "/usr/sbin/ippeveps",
+  "size": 31032,
+  "modified": "2024-09-26T11:15:36Z",
+  "created": "2025-05-09T05:07:38.352615811Z",
+  "sha256_hash": "881cfcea29e1a20b8a51a23080f1f9e3ec01dcc295394a3916afc969bb76c69e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.550995259Z"
+}

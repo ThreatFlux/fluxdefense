@@ -1,0 +1,15 @@
+{
+  "uuid": "1532d06d-01e9-4208-b258-a2b2353d2dcb",
+  "path": "/lib/x86_64-linux-gnu/gconv/IBM423.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.649657058Z",
+  "sha256_hash": "e41a41e5a01c5ff3ac1750aa1f49031b738c0ff985a87ed765332e9ec1f2134f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.763705090Z"
+}

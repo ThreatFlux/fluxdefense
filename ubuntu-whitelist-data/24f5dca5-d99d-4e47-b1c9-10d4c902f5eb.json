@@ -1,0 +1,17 @@
+{
+  "uuid": "24f5dca5-d99d-4e47-b1c9-10d4c902f5eb",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/bits/signum-arch.ph",
+  "size": 1719,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.557590732Z",
+  "sha256_hash": "6729a7ff3474f0ef709f97957c607e4248544e7f667a721fbd64535f145ddb15",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.594546822Z"
+}

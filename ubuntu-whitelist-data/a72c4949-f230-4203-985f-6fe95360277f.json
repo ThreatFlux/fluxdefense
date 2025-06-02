@@ -1,0 +1,15 @@
+{
+  "uuid": "a72c4949-f230-4203-985f-6fe95360277f",
+  "path": "/usr/bin/systemd-nspawn",
+  "size": 368400,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:56:53.644596502Z",
+  "sha256_hash": "61e4bad254e1d625634bc4f522bfe6e2edea2f92315b27d9352859392a6d228a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:13.200785585Z"
+}

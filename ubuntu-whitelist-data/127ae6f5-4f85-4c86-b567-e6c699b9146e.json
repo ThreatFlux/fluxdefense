@@ -1,0 +1,17 @@
+{
+  "uuid": "127ae6f5-4f85-4c86-b567-e6c699b9146e",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-cardscan.so.1.2.1",
+  "size": 96496,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.130634458Z",
+  "sha256_hash": "d9149f62c60ee627f0b4328d95d9c02c5c4a254fef16ef592e58b11ede5d1b51",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.856190103Z"
+}

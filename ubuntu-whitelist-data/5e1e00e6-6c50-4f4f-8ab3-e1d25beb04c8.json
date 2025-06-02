@@ -1,0 +1,17 @@
+{
+  "uuid": "5e1e00e6-6c50-4f4f-8ab3-e1d25beb04c8",
+  "path": "/usr/lib/x86_64-linux-gnu/libicutest.so.74.2",
+  "size": 77328,
+  "modified": "2024-08-09T02:33:20Z",
+  "created": "2025-05-09T05:07:30.560734714Z",
+  "sha256_hash": "549175dea22826a6d4c1a145d4e5796a6d38ccfd3b07f55be8e6250b5033c6e5",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.711508787Z"
+}

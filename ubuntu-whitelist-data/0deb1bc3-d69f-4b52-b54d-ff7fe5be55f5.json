@@ -1,0 +1,17 @@
+{
+  "uuid": "0deb1bc3-d69f-4b52-b54d-ff7fe5be55f5",
+  "path": "/lib/git-core/git-daemon",
+  "size": 660712,
+  "modified": "2025-01-13T19:51:26Z",
+  "created": "2025-05-09T05:49:12.561856699Z",
+  "sha256_hash": "ae00560f3e6437d8c5b6556ba0e2261f34e5a00829a21d2e2715fd051aa8c35d",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.559586629Z"
+}

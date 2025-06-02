@@ -1,0 +1,15 @@
+{
+  "uuid": "ca570b11-13e3-4e16-b432-d1d2f88c053d",
+  "path": "/usr/lib/libvirt/libvirt_leaseshelper",
+  "size": 18912,
+  "modified": "2025-03-13T16:25:50Z",
+  "created": "2025-05-20T14:31:33.103814784Z",
+  "sha256_hash": "7c45116e0061c40819bee1fb5b1adf67b767697d80915902694d4505911986b8",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.266075488Z"
+}

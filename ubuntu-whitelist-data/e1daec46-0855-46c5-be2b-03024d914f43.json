@@ -1,0 +1,17 @@
+{
+  "uuid": "e1daec46-0855-46c5-be2b-03024d914f43",
+  "path": "/lib/rustlib/x86_64-unknown-linux-gnu/lib/libgetopts-50bab87c174fb52a.rlib",
+  "size": 2954192,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T17:41:10.529617643Z",
+  "sha256_hash": "e0ed12f44ecf2db9125a1cc75f046df67e3097c086ba7ee31669b3d0f64635ba",
+  "file_type": {
+    "Other": "rlib"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:58.456471943Z"
+}

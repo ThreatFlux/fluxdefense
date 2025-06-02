@@ -1,0 +1,15 @@
+{
+  "uuid": "700a2c9f-56e1-4f87-b215-b48ab0ef4068",
+  "path": "/usr/lib/x86_64-linux-gnu/libgettextlib-0.21.so",
+  "size": 248320,
+  "modified": "2024-04-08T15:58:30Z",
+  "created": "2025-05-29T11:15:44.959348870Z",
+  "sha256_hash": "9819d65c7222233135307fd4cabd94d823bf4c011a85d435d36741d417ffd2a3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.424897579Z"
+}

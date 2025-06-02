@@ -1,0 +1,17 @@
+{
+  "uuid": "845cb11a-74b6-4ad2-8bb7-f0e645f58efe",
+  "path": "/usr/lib/modules/6.11.0-26-generic/kernel/crypto/michael_mic.ko.zst",
+  "size": 3654,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.079797878Z",
+  "sha256_hash": "c4427cfda0e82d25d323b0571f4e23c562d029f417f214e1268760ef001b5af2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.633371634Z"
+}

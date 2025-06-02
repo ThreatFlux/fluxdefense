@@ -1,0 +1,17 @@
+{
+  "uuid": "f850b77c-9c47-4c4e-a4a2-1851b94f3c14",
+  "path": "/usr/lib/systemd/system/initrd-parse-etc.service",
+  "size": 1283,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "f2d1d527929e4cb0fa54951afc19d9037ced810530d9e20ff454cfb51f5c2215",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.450844777Z"
+}

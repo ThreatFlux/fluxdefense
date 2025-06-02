@@ -1,0 +1,15 @@
+{
+  "uuid": "d657ab16-ce7d-47f9-8e28-34ef5a3ad215",
+  "path": "/sbin/logsave",
+  "size": 14496,
+  "modified": "2024-04-28T23:44:46Z",
+  "created": "2025-05-09T05:07:38.361615673Z",
+  "sha256_hash": "46cb18ee0cc242fc52e21796a6f98777b8a2c69937ccb9079cdce62441d1f378",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.932590464Z"
+}

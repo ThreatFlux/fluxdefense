@@ -1,0 +1,17 @@
+{
+  "uuid": "a55f236f-7f11-4104-a190-5e0c1191a5e1",
+  "path": "/lib/firmware/radeon/SUMO_uvd.bin.zst",
+  "size": 130369,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.062534471Z",
+  "sha256_hash": "fdc576815f26196713837314c2751566b005cbd3f4a282ae13782dae63fac626",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.381747839Z"
+}

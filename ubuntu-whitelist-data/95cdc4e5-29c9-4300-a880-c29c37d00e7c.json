@@ -1,0 +1,15 @@
+{
+  "uuid": "95cdc4e5-29c9-4300-a880-c29c37d00e7c",
+  "path": "/sbin/deadlock-bpfcc",
+  "size": 20943,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "1777f6bc586fd0f868dc5666b34ddacb3791bd48cf82d88b42867c3231e2078c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.738665738Z"
+}

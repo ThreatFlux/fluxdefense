@@ -1,0 +1,17 @@
+{
+  "uuid": "c1250551-79fd-4e12-b3b7-20d89fe3f4ae",
+  "path": "/lib/firmware/radeon/RV610_me.bin.zst",
+  "size": 4581,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "72170646ff79177bc87a65cbe65682d6abae4c0d5363c90033095620ac170fac",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.384033753Z"
+}

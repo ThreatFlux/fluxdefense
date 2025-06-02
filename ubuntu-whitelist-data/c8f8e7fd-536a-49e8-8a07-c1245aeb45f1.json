@@ -1,0 +1,15 @@
+{
+  "uuid": "c8f8e7fd-536a-49e8-8a07-c1245aeb45f1",
+  "path": "/usr/lib/python3/dist-packages/scanext.cpython-312-x86_64-linux-gnu.so",
+  "size": 23912,
+  "modified": "2024-03-31T07:39:41Z",
+  "created": "2025-05-09T05:07:26.369798666Z",
+  "sha256_hash": "5ad2771dcc90de1979c5eafbaffbeb5e1b1ab822cd43ecc1149c8cf8617b7c02",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.620542636Z"
+}

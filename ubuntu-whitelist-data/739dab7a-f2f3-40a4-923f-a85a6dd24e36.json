@@ -1,0 +1,17 @@
+{
+  "uuid": "739dab7a-f2f3-40a4-923f-a85a6dd24e36",
+  "path": "/lib/firmware/keyspan/usa28x.fw.zst",
+  "size": 3336,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.667539942Z",
+  "sha256_hash": "c5bed20d6be50648cbc0ba43561dfeeff047d6e056e6a6a73b25717cd4b27ec2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.553808900Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "6133807f-cd14-42d9-9ea0-8c70aaa1c783",
+  "path": "/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-protocol-native.so",
+  "size": 313648,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.782860102Z",
+  "sha256_hash": "35f944630708a394cefbb5b3e7d97937fddfd2d4df1cc5b72711f45f05c94955",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.917810754Z"
+}

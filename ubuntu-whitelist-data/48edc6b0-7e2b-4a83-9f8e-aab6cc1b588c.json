@@ -1,0 +1,17 @@
+{
+  "uuid": "48edc6b0-7e2b-4a83-9f8e-aab6cc1b588c",
+  "path": "/usr/lib/llvm-18/lib/cmake/llvm/LLVMCheckLinkerFlag.cmake",
+  "size": 879,
+  "modified": "2023-06-24T20:41:10Z",
+  "created": "2025-05-12T13:34:36.685465681Z",
+  "sha256_hash": "288facba62e0536ba24428c7e928e1dde212709a2d5be4dc6d641cf9f739c42a",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:31.087001034Z"
+}

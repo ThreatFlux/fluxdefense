@@ -1,0 +1,17 @@
+{
+  "uuid": "099499b6-3974-4480-8837-366983e5938c",
+  "path": "/lib/snapd/snap-bootstrap",
+  "size": 14198568,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.422026330Z",
+  "sha256_hash": "c20f781d04b86cfb6c8179db7c97b28155a535c89257b13c0cdb4b7de487fa3e",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.693738342Z"
+}

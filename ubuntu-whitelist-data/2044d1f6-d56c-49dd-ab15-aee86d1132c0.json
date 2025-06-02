@@ -1,0 +1,17 @@
+{
+  "uuid": "2044d1f6-d56c-49dd-ab15-aee86d1132c0",
+  "path": "/lib/systemd/system/libvirt-guests.service",
+  "size": 717,
+  "modified": "2025-03-13T16:25:50Z",
+  "created": "2025-05-20T14:31:33.305811285Z",
+  "sha256_hash": "91a98ac6cef91c3d8cbb9ea094695ff3f5937e5d7a3e46469e279114ab29d0f4",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.113094487Z"
+}

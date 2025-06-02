@@ -1,0 +1,17 @@
+{
+  "uuid": "35b7efe6-eeb1-45a5-a95a-ff5195ca3411",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-elaall.adb",
+  "size": 3719,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.076344791Z",
+  "sha256_hash": "dba61106cd29c375f41f7bfeb06266809bf79fba92be0801dd3d042c8e4dc1f3",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.112358347Z"
+}

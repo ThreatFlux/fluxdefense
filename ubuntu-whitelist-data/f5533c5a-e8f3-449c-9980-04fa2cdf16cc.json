@@ -1,0 +1,15 @@
+{
+  "uuid": "f5533c5a-e8f3-449c-9980-04fa2cdf16cc",
+  "path": "/usr/lib/llvm-18/bin/llvm-tblgen",
+  "size": 3875400,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.071486938Z",
+  "sha256_hash": "f3da46972bfb8e1a2b87a6918732a9ecb8b3fde9c4c517fc0dfcbd10dac07087",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:27.055240213Z"
+}

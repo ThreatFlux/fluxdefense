@@ -1,0 +1,17 @@
+{
+  "uuid": "ece5ebba-2aa8-4cd6-aa82-ac3d4f76571a",
+  "path": "/usr/lib/x86_64-linux-gnu/perl-base/builtin.pm",
+  "size": 210,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.361578460Z",
+  "sha256_hash": "3a9401cd35cda82e1379f0e45712eb0bb3947cd6a5164524e834b91b66aa2f0a",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.711994391Z"
+}

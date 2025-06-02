@@ -1,0 +1,17 @@
+{
+  "uuid": "5d01705b-f8db-474b-9bf3-1faee2e8b04a",
+  "path": "/usr/lib/firmware/nvidia/gm200/gr/sw_method_init.bin.zst",
+  "size": 2363,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.937536202Z",
+  "sha256_hash": "c35227c241cec5c08fda48a41576bb0f86029379100aad3416a47542151aab63",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.253590345Z"
+}

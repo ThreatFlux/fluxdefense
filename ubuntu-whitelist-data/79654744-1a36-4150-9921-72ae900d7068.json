@@ -1,0 +1,15 @@
+{
+  "uuid": "79654744-1a36-4150-9921-72ae900d7068",
+  "path": "/lib/python3/dist-packages/cloudinit/importer.py",
+  "size": 2485,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.239037216Z",
+  "sha256_hash": "82b6051369c67e09e20e2893db8b5f41707da3fb559cd3f9d699f9a0b3bba4f0",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.895497503Z"
+}

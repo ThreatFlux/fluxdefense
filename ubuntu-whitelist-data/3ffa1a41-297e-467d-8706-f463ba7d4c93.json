@@ -1,0 +1,15 @@
+{
+  "uuid": "3ffa1a41-297e-467d-8706-f463ba7d4c93",
+  "path": "/bin/systemd-tmpfiles",
+  "size": 117448,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.507779278Z",
+  "sha256_hash": "1490c9571cf3fb4cfe91421b970e1d42d6c7af4809a6b62930f06716be7cf724",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.422215634Z"
+}

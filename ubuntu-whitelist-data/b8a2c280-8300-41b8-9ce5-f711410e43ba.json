@@ -1,0 +1,17 @@
+{
+  "uuid": "b8a2c280-8300-41b8-9ce5-f711410e43ba",
+  "path": "/lib/firmware/i915/bxt_guc_69.0.3.bin.zst",
+  "size": 95729,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.532541812Z",
+  "sha256_hash": "6380c51acd37fe1b33a197c56917e9d3250dcf7050ef0b1f03908618f97c7519",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.701323319Z"
+}

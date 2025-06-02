@@ -1,0 +1,17 @@
+{
+  "uuid": "d4cb49a4-38ea-4c97-a7f1-1a326d4e5b42",
+  "path": "/lib/llvm-18/include/clang/Sema/Weak.h",
+  "size": 1975,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.549533318Z",
+  "sha256_hash": "8f89c4c6863011ad10c484bbb79ea8896a525cfa1c5064ea67cdefa9cac9d901",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.067198562Z"
+}

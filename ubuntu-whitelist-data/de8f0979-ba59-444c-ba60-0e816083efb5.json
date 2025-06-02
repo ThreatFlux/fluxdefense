@@ -1,0 +1,15 @@
+{
+  "uuid": "de8f0979-ba59-444c-ba60-0e816083efb5",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstrtsp.so",
+  "size": 215840,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.775655135Z",
+  "sha256_hash": "4cceee6ce4ba1f8ffb547d560457cc9c2b0007cbb359686793a90c154361eff0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.157437336Z"
+}

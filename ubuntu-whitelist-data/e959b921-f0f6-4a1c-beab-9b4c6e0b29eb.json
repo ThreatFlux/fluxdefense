@@ -1,0 +1,15 @@
+{
+  "uuid": "e959b921-f0f6-4a1c-beab-9b4c6e0b29eb",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstadaptivedemux2.so",
+  "size": 580368,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.770655212Z",
+  "sha256_hash": "755251346838a953286e87fd9db55db15a6e868916c6e1f3ef50dbf9d4571270",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.111028459Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "568cffed-b0d0-4414-9a46-9db06ee4d197",
+  "path": "/usr/sbin/remove-default-ispell",
+  "size": 2932,
+  "modified": "2023-09-07T08:57:00Z",
+  "created": "2025-05-09T05:07:38.406614987Z",
+  "sha256_hash": "1dece923fbfa6a7b4e6b234b2039f2758c01ac3b2dddb9b3f2806bca32a7047a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.509601620Z"
+}

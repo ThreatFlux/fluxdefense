@@ -1,0 +1,17 @@
+{
+  "uuid": "b244752e-2c30-43bf-b4cb-e311c70313e2",
+  "path": "/lib/firmware/cxgb3/ael2005_twx_edc.bin.zst",
+  "size": 1118,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.511542103Z",
+  "sha256_hash": "bd8c1bbf3e0f9b6e7bc880b4efe4e2c7d38667fb275b96b6f3f02ad9cb6e1955",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.377722252Z"
+}

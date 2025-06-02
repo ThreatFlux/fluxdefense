@@ -1,0 +1,15 @@
+{
+  "uuid": "18b1f6da-8da4-4b02-8a43-70aa6ed0c899",
+  "path": "/usr/bin/prime-supported",
+  "size": 1182,
+  "modified": "2023-06-13T15:25:56Z",
+  "created": "2025-05-09T12:56:04.378011988Z",
+  "sha256_hash": "7f19061e6b99f30e7f5fed98eb6631893210eee0b263786e28b019656706a692",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.216612433Z"
+}

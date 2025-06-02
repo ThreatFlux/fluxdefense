@@ -1,0 +1,17 @@
+{
+  "uuid": "7719743b-a55e-4073-baff-477e674ccd18",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-pieusb.so.1.2.1",
+  "size": 211984,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.149634168Z",
+  "sha256_hash": "34a42fcac2df2fea060647d1279dacf017ce2614ccae0c04156f3b07e8920def",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.283247713Z"
+}

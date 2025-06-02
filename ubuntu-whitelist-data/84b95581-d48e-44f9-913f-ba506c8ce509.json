@@ -1,0 +1,17 @@
+{
+  "uuid": "84b95581-d48e-44f9-913f-ba506c8ce509",
+  "path": "/usr/lib/python3.12/test/certdata/keycert4.pem",
+  "size": 9462,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.987551828Z",
+  "sha256_hash": "1663266778f115c4273bd59940d635b3c5779b39672d57b4e1847cb3a0718dc1",
+  "file_type": {
+    "Other": "pem"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.236268445Z"
+}

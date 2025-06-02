@@ -1,0 +1,15 @@
+{
+  "uuid": "410ec319-d44d-43d1-bf64-b11700dc9d31",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM903.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.279663431Z",
+  "sha256_hash": "a547194643df0cd9572ce3b1b14d79282a7720b6f5b2ea0455d71290b8bf492a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.966226617Z"
+}

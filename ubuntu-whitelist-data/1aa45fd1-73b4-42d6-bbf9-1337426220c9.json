@@ -1,0 +1,17 @@
+{
+  "uuid": "1aa45fd1-73b4-42d6-bbf9-1337426220c9",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/CORE/perl_siphash.h",
+  "size": 5178,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.506591510Z",
+  "sha256_hash": "afde1729aa03c2b270e5cd93072ea039e4ead6c882475325510f0136a5082f3d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.475502706Z"
+}

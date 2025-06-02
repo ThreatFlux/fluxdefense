@@ -1,0 +1,17 @@
+{
+  "uuid": "204fac06-89cc-4ade-bba5-b2f17b9a088c",
+  "path": "/lib/memtest86+/memtest86+ia32.iso",
+  "size": 6193152,
+  "modified": "2024-04-08T16:12:34Z",
+  "created": "2025-05-09T05:07:25.857806479Z",
+  "sha256_hash": "0bdfe274d76f1cb30a4f765a14d00903e552fb1fe05636c4810977dc1b96b89e",
+  "file_type": {
+    "Other": "iso"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.584951060Z"
+}

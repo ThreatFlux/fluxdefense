@@ -1,0 +1,15 @@
+{
+  "uuid": "5a825289-985c-40aa-96db-e7eb73528e01",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/sources/DataSourceBigstep.py",
+  "size": 1946,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.241037243Z",
+  "sha256_hash": "73fa79597dd160ec5d0d21c659fb769ee1ecb1a13200b8133d326ab52b55e982",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.832379388Z"
+}

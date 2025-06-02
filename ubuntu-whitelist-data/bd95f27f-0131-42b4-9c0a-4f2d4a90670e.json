@@ -1,0 +1,17 @@
+{
+  "uuid": "bd95f27f-0131-42b4-9c0a-4f2d4a90670e",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-titest.ali",
+  "size": 3189,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.104344406Z",
+  "sha256_hash": "228e0e37b3b0a29a373865cb7b5c93fa24a24af40eb0190f0e40b73eb223f4fe",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.711392359Z"
+}

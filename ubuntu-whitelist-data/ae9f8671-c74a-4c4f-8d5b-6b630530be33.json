@@ -1,0 +1,17 @@
+{
+  "uuid": "ae9f8671-c74a-4c4f-8d5b-6b630530be33",
+  "path": "/lib/x86_64-linux-gnu/libgstanalytics-1.0.so.0.2402.0",
+  "size": 31024,
+  "modified": "2024-04-15T13:00:06Z",
+  "created": "2025-05-09T05:09:28.089941059Z",
+  "sha256_hash": "adf5ef23d7fea0d7ce7b4ed3a107a1b7cd91f174585a38485e1320122d738dd4",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.515443291Z"
+}

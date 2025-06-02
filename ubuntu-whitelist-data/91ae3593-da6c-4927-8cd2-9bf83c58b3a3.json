@@ -1,0 +1,15 @@
+{
+  "uuid": "91ae3593-da6c-4927-8cd2-9bf83c58b3a3",
+  "path": "/usr/bin/startx",
+  "size": 5519,
+  "modified": "2024-04-08T16:23:16Z",
+  "created": "2025-05-09T05:07:20.618886422Z",
+  "sha256_hash": "d4c0b820b34e0690bca0fe8ee722fc4ca20d1a670a64c8af0dc90cf84f023778",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.327428092Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "a4044515-1c02-4943-a683-950bcd9bafc1",
+  "path": "/bin/bash",
+  "size": 1446024,
+  "modified": "2024-03-31T08:41:03Z",
+  "created": "2025-05-09T05:07:18.945911951Z",
+  "sha256_hash": "bc5945feb8bd26203ebfafea5ce1878bb2e32cb8fb50ab7ae395cfb1e1aaaef1",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.969315395Z"
+}

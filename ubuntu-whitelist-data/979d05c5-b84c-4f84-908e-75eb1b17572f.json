@@ -1,0 +1,17 @@
+{
+  "uuid": "979d05c5-b84c-4f84-908e-75eb1b17572f",
+  "path": "/usr/lib/llvm-18/include/clang/ASTMatchers/ASTMatchersInternal.h",
+  "size": 83073,
+  "modified": "2024-01-17T08:14:10Z",
+  "created": "2025-05-12T13:34:31.522533674Z",
+  "sha256_hash": "c09f3e7ab207c22b223be4e8f16f1a902de51ec642736faf1a6ab71a7510aa3f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.306017821Z"
+}

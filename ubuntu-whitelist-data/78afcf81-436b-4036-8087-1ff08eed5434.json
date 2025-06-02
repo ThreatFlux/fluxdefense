@@ -1,0 +1,17 @@
+{
+  "uuid": "78afcf81-436b-4036-8087-1ff08eed5434",
+  "path": "/usr/lib/x86_64-linux-gnu/libquadmath.so.0.0.0",
+  "size": 293736,
+  "modified": "2024-09-09T13:21:53Z",
+  "created": "2025-05-09T06:33:30.141392050Z",
+  "sha256_hash": "d6dc5c49b374f198354d3d6adde4a8f640ae0948dfc570797331c5163769e6e8",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:19.979602408Z"
+}

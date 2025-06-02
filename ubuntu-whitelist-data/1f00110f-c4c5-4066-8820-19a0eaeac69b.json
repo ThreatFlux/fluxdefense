@@ -1,0 +1,17 @@
+{
+  "uuid": "1f00110f-c4c5-4066-8820-19a0eaeac69b",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-soflin.ali",
+  "size": 9673,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.144343857Z",
+  "sha256_hash": "917eafd5f6f1d0223a63e43fc589f0f126fba16c13a9806508451f7e958fa92b",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.699641173Z"
+}

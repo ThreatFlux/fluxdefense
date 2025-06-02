@@ -1,0 +1,17 @@
+{
+  "uuid": "841ce79b-39b4-4ed3-b415-61566d213fbb",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/libpng16.pc",
+  "size": 279,
+  "modified": "2024-03-31T07:55:48Z",
+  "created": "2025-05-29T11:16:02.100113676Z",
+  "sha256_hash": "9b6b9ba769ecf99c1dc1921029b04ada66e1867c106f7c84ce4212e806cce34c",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.065902430Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "a6972465-35da-4a95-b144-d1db032a4337",
+  "path": "/bin/ldapdelete",
+  "size": 68064,
+  "modified": "2024-12-09T02:50:18Z",
+  "created": "2025-05-09T05:24:29.623989168Z",
+  "sha256_hash": "3ecdffdaa4b5e26799310d4fca703a1180d561741eba118c615ce09f8dcaa6a3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.712632422Z"
+}

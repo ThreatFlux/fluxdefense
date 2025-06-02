@@ -1,0 +1,15 @@
+{
+  "uuid": "d2fa2d01-24aa-4896-8f0c-1bfb90fdc1e9",
+  "path": "/usr/lib/x86_64-linux-gnu/spa-0.2/support/libspa-dbus.so",
+  "size": 22800,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.449855783Z",
+  "sha256_hash": "8db7b0cfc3e14a2f837df7be6fe81dbe196fc9f444c318ef994aa24aeabe45e1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:13.913735486Z"
+}

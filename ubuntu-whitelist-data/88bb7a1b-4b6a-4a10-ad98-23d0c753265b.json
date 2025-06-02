@@ -1,0 +1,17 @@
+{
+  "uuid": "88bb7a1b-4b6a-4a10-ad98-23d0c753265b",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/kok_dict",
+  "size": 6394,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.459659957Z",
+  "sha256_hash": "00adf88d3d8e5afe19559918f77761f8b99172c33e5aafca342682f0c1371ec6",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.258460501Z"
+}

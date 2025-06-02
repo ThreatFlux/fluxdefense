@@ -1,0 +1,17 @@
+{
+  "uuid": "35d4883f-add8-4808-a7fd-f5595ab542b4",
+  "path": "/usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/libproc_macro-b4653c0442afc79d.rlib",
+  "size": 15947916,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T17:41:10.567617071Z",
+  "sha256_hash": "4b2eba10bed8aa71cb4fef054686c5380a09cc5efbae59e213a1f4e9ca84972f",
+  "file_type": {
+    "Other": "rlib"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.934578659Z"
+}

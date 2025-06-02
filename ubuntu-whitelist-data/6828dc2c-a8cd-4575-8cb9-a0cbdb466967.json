@@ -1,0 +1,15 @@
+{
+  "uuid": "6828dc2c-a8cd-4575-8cb9-a0cbdb466967",
+  "path": "/lib/x86_64-linux-gnu/evince/4/backends/libcomicsdocument.so",
+  "size": 30880,
+  "modified": "2024-10-15T07:35:01Z",
+  "created": "2025-05-09T05:07:35.586658019Z",
+  "sha256_hash": "f90c6aaf0d3d1a459a30952f15c41327e1f594bc081b4cf499a2e28c197573f4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.707145637Z"
+}

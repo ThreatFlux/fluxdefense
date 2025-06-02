@@ -1,0 +1,15 @@
+{
+  "uuid": "e7ed468f-9d16-44f4-9149-ad5d6ec5a52e",
+  "path": "/usr/lib/python3.12/lib-dynload/_sqlite3.cpython-312-x86_64-linux-gnu.so",
+  "size": 144792,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:10:59.929539262Z",
+  "sha256_hash": "935a7a3f62d67907cdfe6be2190037ef1e2d903551109e9062c3bfc42fde776c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.964538857Z"
+}

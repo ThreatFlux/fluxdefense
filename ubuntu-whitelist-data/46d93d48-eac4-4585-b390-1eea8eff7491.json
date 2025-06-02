@@ -1,0 +1,17 @@
+{
+  "uuid": "46d93d48-eac4-4585-b390-1eea8eff7491",
+  "path": "/lib/firmware/radeon/BARTS_mc.bin.zst",
+  "size": 8699,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.059534513Z",
+  "sha256_hash": "174c5ec516fb567b1ddd96beffb650a7d9e5ae676802ab98c4e2d1a2d4bd90ed",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.379027133Z"
+}

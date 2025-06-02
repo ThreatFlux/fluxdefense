@@ -1,0 +1,17 @@
+{
+  "uuid": "70728fee-cf36-415b-8d07-4b52bb964a16",
+  "path": "/lib/firmware/radeon/MULLINS_rlc.bin.zst",
+  "size": 5166,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "59c569c848b053bc521550132be9cf0a30f751bd2e7c2de1a4ee665ab5e7f870",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.375150Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "907364aa-eb28-4b79-b234-af5937cb758e",
+  "path": "/lib/linux-hwe-6.11-tools-6.11.0-26/usbipd",
+  "size": 246744,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:32:03.171293953Z",
+  "sha256_hash": "6fd57fb69415193cb18a5b689167fc0b54cfeedec47e0394f59857e3e4b12c29",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.453045484Z"
+}

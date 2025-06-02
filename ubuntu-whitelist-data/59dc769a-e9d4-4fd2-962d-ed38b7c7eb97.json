@@ -1,0 +1,17 @@
+{
+  "uuid": "59dc769a-e9d4-4fd2-962d-ed38b7c7eb97",
+  "path": "/lib/firmware/qcom/apq8016/wcnss.mbn.zst",
+  "size": 1537097,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.976535662Z",
+  "sha256_hash": "013506fb233ea897d630f282fefddb02a9ea0549c7f8b89fa165391ef95b10c9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.850571321Z"
+}

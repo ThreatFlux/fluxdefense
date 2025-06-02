@@ -1,0 +1,17 @@
+{
+  "uuid": "480e4f36-d1fe-49de-bf18-403bcc6af5a8",
+  "path": "/usr/lib/firmware/radeon/CYPRESS_me.bin.zst",
+  "size": 2930,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.060534499Z",
+  "sha256_hash": "c1964a597340697bf42aca119a99366888f00b943257f7fefdf7f01fb2a7803d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.410540771Z"
+}

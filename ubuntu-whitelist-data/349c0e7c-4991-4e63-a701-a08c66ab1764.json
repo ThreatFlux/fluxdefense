@@ -1,0 +1,17 @@
+{
+  "uuid": "349c0e7c-4991-4e63-a701-a08c66ab1764",
+  "path": "/usr/lib/x86_64-linux-gnu/samba/libgssapi-samba4.so.0",
+  "size": 293864,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.058635557Z",
+  "sha256_hash": "a6c05918d3b663a66bf7db7352532cbcf1b10a4afd2c39b76033a3a67799c8b0",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.352569590Z"
+}

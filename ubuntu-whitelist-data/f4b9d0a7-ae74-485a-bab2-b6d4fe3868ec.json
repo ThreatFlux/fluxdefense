@@ -1,0 +1,15 @@
+{
+  "uuid": "f4b9d0a7-ae74-485a-bab2-b6d4fe3868ec",
+  "path": "/lib/x86_64-linux-gnu/xtables/libipt_ECN.so",
+  "size": 14784,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.327631452Z",
+  "sha256_hash": "3063f516cc635ddc91686686941e25539d27a01c5ad73b088b66787a1ef48f0f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.675639963Z"
+}

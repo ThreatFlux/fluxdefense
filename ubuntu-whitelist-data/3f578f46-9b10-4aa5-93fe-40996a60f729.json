@@ -1,0 +1,15 @@
+{
+  "uuid": "3f578f46-9b10-4aa5-93fe-40996a60f729",
+  "path": "/usr/lib/snapd/snapd-apparmor",
+  "size": 2404584,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.594028621Z",
+  "sha256_hash": "75f74c0dada2779e44f8d5b61a26d89794ebd9fd85ab58935f3f9370517baec7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:48.712545294Z"
+}

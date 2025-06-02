@@ -1,0 +1,17 @@
+{
+  "uuid": "aa42e6e8-e1b9-468b-a052-0629b00e9d29",
+  "path": "/usr/lib/firmware/mediatek/BT_RAM_CODE_MT7961_1a_2_hdr.bin.zst",
+  "size": 366565,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.673539859Z",
+  "sha256_hash": "da01082ae3113b6be6eb46647b2ca2165fb19123d0a7e6721e831fdaadc83956",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.137796205Z"
+}

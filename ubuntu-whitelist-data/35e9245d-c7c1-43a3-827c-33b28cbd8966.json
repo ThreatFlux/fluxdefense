@@ -1,0 +1,15 @@
+{
+  "uuid": "35e9245d-c7c1-43a3-827c-33b28cbd8966",
+  "path": "/lib/x86_64-linux-gnu/gconv/IBM918.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.652657012Z",
+  "sha256_hash": "296e285eacc08910b037b05011d5698452119971dd8d5ce18af5d6554317934c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.753761562Z"
+}

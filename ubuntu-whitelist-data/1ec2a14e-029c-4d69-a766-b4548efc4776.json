@@ -1,0 +1,17 @@
+{
+  "uuid": "1ec2a14e-029c-4d69-a766-b4548efc4776",
+  "path": "/usr/lib/aspell/british-variant_0.alias",
+  "size": 85,
+  "modified": "2020-12-08T01:19:37Z",
+  "created": "2025-05-09T05:07:21.010880441Z",
+  "sha256_hash": "2d2753edb6cf2acb9424cab33884e96be7b3e38368fe55821f870ab25e34aacd",
+  "file_type": {
+    "Other": "alias"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.286391274Z"
+}

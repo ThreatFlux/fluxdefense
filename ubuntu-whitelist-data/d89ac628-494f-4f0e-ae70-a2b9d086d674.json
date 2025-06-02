@@ -1,0 +1,15 @@
+{
+  "uuid": "d89ac628-494f-4f0e-ae70-a2b9d086d674",
+  "path": "/lib/x86_64-linux-gnu/gconv/CP773.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.606657714Z",
+  "sha256_hash": "9e1f440ff196a92727d0e062f52794690c52af7e71d69f0345c6e2c3f33109a3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.826118591Z"
+}

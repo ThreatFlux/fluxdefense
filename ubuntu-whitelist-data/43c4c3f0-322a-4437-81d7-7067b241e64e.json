@@ -1,0 +1,17 @@
+{
+  "uuid": "43c4c3f0-322a-4437-81d7-7067b241e64e",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/arm_cde_builtin_aliases.inc",
+  "size": 11782,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.533533528Z",
+  "sha256_hash": "26a00ca3b38f7e5648f1b45a31ecdc368491239b9c0ffd686a7a2b809fc61f34",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.562618691Z"
+}

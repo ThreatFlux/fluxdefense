@@ -1,0 +1,17 @@
+{
+  "uuid": "731c282c-00cd-46d1-8ffe-395f58dda6ac",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-arit32.ali",
+  "size": 8378,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.136343967Z",
+  "sha256_hash": "784ec86e4eaa5a9a9fde468ad6415e2da8982d0b44534b88494c3352ffe7d88e",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.861607659Z"
+}

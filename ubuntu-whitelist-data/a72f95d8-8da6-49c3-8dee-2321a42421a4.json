@@ -1,0 +1,15 @@
+{
+  "uuid": "a72f95d8-8da6-49c3-8dee-2321a42421a4",
+  "path": "/usr/lib/llvm-18/lib/libLLVMRISCVDesc.a",
+  "size": 2965836,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.992461638Z",
+  "sha256_hash": "b77b309ba8e8d8dff58e2a4adb3eabd34f4a5a0799930340c60c56cbda0f6cb4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.062496113Z"
+}

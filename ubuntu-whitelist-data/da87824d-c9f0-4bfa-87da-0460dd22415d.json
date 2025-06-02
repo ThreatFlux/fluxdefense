@@ -1,0 +1,15 @@
+{
+  "uuid": "da87824d-c9f0-4bfa-87da-0460dd22415d",
+  "path": "/bin/dpkg-checkbuilddeps",
+  "size": 7624,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T06:33:31.736357711Z",
+  "sha256_hash": "869d51a380a2f7e438af8f836b20ac0232f1a5b45f156ca51955f130cb2c28fa",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.869951272Z"
+}

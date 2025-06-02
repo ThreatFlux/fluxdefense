@@ -1,0 +1,15 @@
+{
+  "uuid": "fbf6869e-3489-4eb4-921b-fc7e98e97765",
+  "path": "/bin/nvidia-debugdump",
+  "size": 142064,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:04.093004390Z",
+  "sha256_hash": "ebfdf854d54163f578c01eb2b22b0f5bef1d9b6b1a761ed2b1de727ec2230646",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.372669863Z"
+}

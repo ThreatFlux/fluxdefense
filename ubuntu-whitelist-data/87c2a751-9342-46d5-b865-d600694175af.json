@@ -1,0 +1,15 @@
+{
+  "uuid": "87c2a751-9342-46d5-b865-d600694175af",
+  "path": "/lib/llvm-18/lib/libLLVMRISCVCodeGen.a",
+  "size": 7124296,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.983461756Z",
+  "sha256_hash": "6006ab90daa1e3e1e31b2ee10cd9021a6e1887eb01ded6d77bb701b18c935645",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.057702375Z"
+}

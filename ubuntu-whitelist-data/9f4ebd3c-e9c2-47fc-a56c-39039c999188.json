@@ -1,0 +1,17 @@
+{
+  "uuid": "9f4ebd3c-e9c2-47fc-a56c-39039c999188",
+  "path": "/lib/google-cloud-sdk/.install/preview.manifest",
+  "size": 32,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.312922087Z",
+  "sha256_hash": "ac99f4339442b324a1cf44d50fbff05ff39f1b0b3c81d333ae0eaff2f799c39d",
+  "file_type": {
+    "Other": "manifest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.948325777Z"
+}

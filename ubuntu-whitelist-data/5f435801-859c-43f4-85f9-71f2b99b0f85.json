@@ -1,0 +1,17 @@
+{
+  "uuid": "5f435801-859c-43f4-85f9-71f2b99b0f85",
+  "path": "/lib/llvm-18/include/clang-tidy/hicpp/MultiwayPathsCoveredCheck.h",
+  "size": 1932,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "3d59aaab70383a3ef140b102a478579608b2b829cca0bb2a0282aa80d51d83c2",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.916210401Z"
+}

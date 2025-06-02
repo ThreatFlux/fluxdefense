@@ -1,0 +1,17 @@
+{
+  "uuid": "0a9367c9-32f6-469e-b285-d855fa21f9db",
+  "path": "/lib/x86_64-linux-gnu/libexpatw.so.1.9.1",
+  "size": 174328,
+  "modified": "2025-03-28T07:06:29Z",
+  "created": "2025-05-09T05:09:48.150634874Z",
+  "sha256_hash": "d02845cc9da70af50b8074b8e568d03800a2b49a9e4c4b153b217a83f9216131",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.508767174Z"
+}

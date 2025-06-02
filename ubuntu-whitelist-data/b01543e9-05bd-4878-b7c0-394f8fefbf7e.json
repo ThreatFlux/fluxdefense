@@ -1,0 +1,15 @@
+{
+  "uuid": "b01543e9-05bd-4878-b7c0-394f8fefbf7e",
+  "path": "/bin/gnome-system-monitor",
+  "size": 404920,
+  "modified": "2024-03-31T06:12:43Z",
+  "created": "2025-05-09T05:07:19.667900934Z",
+  "sha256_hash": "1a8d2cb02c6883b27977f4afbbeb20e1a3615c6e4faa18ca38a4149ea6382283",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.216845834Z"
+}

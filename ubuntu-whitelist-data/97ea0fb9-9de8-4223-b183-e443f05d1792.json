@@ -1,0 +1,15 @@
+{
+  "uuid": "97ea0fb9-9de8-4223-b183-e443f05d1792",
+  "path": "/usr/lib/llvm-18/lib/libLLVMRISCVDisassembler.a",
+  "size": 131176,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.996461585Z",
+  "sha256_hash": "69991949b804b121313a131b125d75d6756b62cb75d79c8af6f7f49fc8c69cda",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:33.682556935Z"
+}

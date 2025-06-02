@@ -1,0 +1,17 @@
+{
+  "uuid": "12929264-6b0d-4918-aa15-3734b17cbe2b",
+  "path": "/lib/i386-linux-gnu/libm.so.6",
+  "size": 1082824,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.291663248Z",
+  "sha256_hash": "9c86ceb3d8e88ff0c272b4f851c34ae2619e20e334c9596fd3bf7c52909d734e",
+  "file_type": {
+    "Other": "6"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:45.862612605Z"
+}

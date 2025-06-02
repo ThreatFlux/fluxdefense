@@ -1,0 +1,17 @@
+{
+  "uuid": "8713e309-bd8e-45d6-8832-cb75d16985a5",
+  "path": "/usr/lib/grub/x86_64-efi/videoinfo.mod",
+  "size": 5536,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.840707972Z",
+  "sha256_hash": "8e0c920f9091b0fe0caccac22f3824b861d11cc896aec3956e07f6d6ad294767",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.487468644Z"
+}

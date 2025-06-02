@@ -1,0 +1,15 @@
+{
+  "uuid": "95888bdc-e574-4f1b-a606-f815262bc527",
+  "path": "/usr/libexec/gnome-initial-setup-copy-worker",
+  "size": 14656,
+  "modified": "2024-08-12T18:30:31Z",
+  "created": "2025-05-09T05:07:37.466629331Z",
+  "sha256_hash": "d33d35d2d84ed7047e0f6d852e4afd095b17050f6afb61f1023f054d32458a45",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.481914514Z"
+}

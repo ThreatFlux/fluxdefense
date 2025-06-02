@@ -1,0 +1,17 @@
+{
+  "uuid": "d3666f45-8c10-4094-bbaa-b487d29e520e",
+  "path": "/lib/firmware/amdgpu/verde_uvd.bin.zst",
+  "size": 141976,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.427543266Z",
+  "sha256_hash": "90856a29a739856a8feed96cd4e699f704ca6c62cd0dbd4726268bfb3eec8266",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.926722304Z"
+}

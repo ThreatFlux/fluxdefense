@@ -1,0 +1,15 @@
+{
+  "uuid": "073daf23-64ed-4e31-9b10-ac0ec2e3acca",
+  "path": "/usr/lib/python3.12/lib-dynload/_gdbm.cpython-312-x86_64-linux-gnu.so",
+  "size": 28104,
+  "modified": "2024-04-12T13:14:55Z",
+  "created": "2025-05-09T05:07:26.181801535Z",
+  "sha256_hash": "fd4cfafba8307a1dabd0543400d94c875e08e7d2a4b795620ae86c6f041c7d28",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.947936989Z"
+}

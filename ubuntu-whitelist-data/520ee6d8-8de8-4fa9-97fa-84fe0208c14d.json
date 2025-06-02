@@ -1,0 +1,17 @@
+{
+  "uuid": "520ee6d8-8de8-4fa9-97fa-84fe0208c14d",
+  "path": "/lib/x86_64-linux-gnu/libroc.so.0.3",
+  "size": 1214624,
+  "modified": "2024-04-01T04:58:54Z",
+  "created": "2025-05-09T05:07:32.085711443Z",
+  "sha256_hash": "78b2b325d679a686bbed972a55a92535812ac31a54b252638637516ebca5f4e6",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.831902240Z"
+}

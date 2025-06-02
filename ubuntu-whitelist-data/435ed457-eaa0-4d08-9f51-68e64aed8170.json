@@ -1,0 +1,15 @@
+{
+  "uuid": "435ed457-eaa0-4d08-9f51-68e64aed8170",
+  "path": "/usr/sbin/tcptracer-bpfcc",
+  "size": 18130,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.523499148Z",
+  "sha256_hash": "2c3743ebbaccaaf950ae4d8c0183b3cc0c488bd4587e28a3d9b6a08f33380991",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.252366701Z"
+}

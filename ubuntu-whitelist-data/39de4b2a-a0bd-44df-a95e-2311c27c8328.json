@@ -1,0 +1,15 @@
+{
+  "uuid": "39de4b2a-a0bd-44df-a95e-2311c27c8328",
+  "path": "/lib/x86_64-linux-gnu/tracker-miners-3.0/extract-modules/libextract-tiff.so",
+  "size": 39144,
+  "modified": "2024-03-31T17:20:13Z",
+  "created": "2025-05-09T05:07:37.309631727Z",
+  "sha256_hash": "3dcc7c89905b9372cbd8960dd2a965c40fcae18e94780f407c2b20f75f07a6a4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.710711291Z"
+}

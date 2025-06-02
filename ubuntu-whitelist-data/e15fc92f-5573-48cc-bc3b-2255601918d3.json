@@ -1,0 +1,15 @@
+{
+  "uuid": "e15fc92f-5573-48cc-bc3b-2255601918d3",
+  "path": "/lib/xorg/modules/drivers/qxl_drv.so",
+  "size": 168616,
+  "modified": "2024-04-08T16:23:45Z",
+  "created": "2025-05-09T05:07:37.390630491Z",
+  "sha256_hash": "0fddab8d4b7136d5f657685f4b26a7cc98356529535859d8479e12d43267f9e3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.701085181Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "71fe5d88-c8e1-42c0-a74e-705ac7aa92de",
+  "path": "/lib/x86_64-linux-gnu/perl5/5.38/Text/Iconv.pm",
+  "size": 5042,
+  "modified": "2007-10-17T14:14:22Z",
+  "created": "2025-05-09T05:07:36.887638166Z",
+  "sha256_hash": "cd1f5a8bbfad8586e2657d3f4eb96a558c1400919788534f445fc7949af22d7e",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.335245414Z"
+}

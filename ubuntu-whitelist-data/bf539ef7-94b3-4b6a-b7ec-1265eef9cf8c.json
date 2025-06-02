@@ -1,0 +1,15 @@
+{
+  "uuid": "bf539ef7-94b3-4b6a-b7ec-1265eef9cf8c",
+  "path": "/usr/bin/sum",
+  "size": 35240,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:20.648885964Z",
+  "sha256_hash": "cb26f2ac681394db07cb9eaeed4ae42b0c73784f7654bdd3680671948313be49",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.770890671Z"
+}

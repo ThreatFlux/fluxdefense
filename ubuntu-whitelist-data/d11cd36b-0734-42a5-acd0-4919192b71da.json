@@ -1,0 +1,17 @@
+{
+  "uuid": "d11cd36b-0734-42a5-acd0-4919192b71da",
+  "path": "/lib/firmware/atmel_at76c504a_2958.bin.zst",
+  "size": 22880,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.476542588Z",
+  "sha256_hash": "e1971a739a1fcaeac3ccf332d79f8eb256d924c66de2d4fdb58f7bfe6dd0e539",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.682131476Z"
+}

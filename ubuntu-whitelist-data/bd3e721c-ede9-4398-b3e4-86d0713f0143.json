@@ -1,0 +1,15 @@
+{
+  "uuid": "bd3e721c-ede9-4398-b3e4-86d0713f0143",
+  "path": "/lib/llvm-18/lib/libLLVMObjCopy.a",
+  "size": 1428754,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.940462323Z",
+  "sha256_hash": "e7a24dedab37815f7f0313f1bc2a71db89ee43f09c99becb51c8862680e7cf9c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:37.964842461Z"
+}

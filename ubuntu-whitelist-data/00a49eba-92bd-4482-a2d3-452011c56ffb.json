@@ -1,0 +1,15 @@
+{
+  "uuid": "00a49eba-92bd-4482-a2d3-452011c56ffb",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstdebug.so",
+  "size": 73008,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.772655181Z",
+  "sha256_hash": "1ec9c620cb252ced3938c6f9c2126492d49a9bd9dc0708bdade213635e87f9bd",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.888230312Z"
+}

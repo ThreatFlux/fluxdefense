@@ -1,0 +1,17 @@
+{
+  "uuid": "aa5c3e9f-91d0-4198-83c9-fc9f28908c16",
+  "path": "/lib/firmware/rtl_nic/rtl8106e-2.fw.zst",
+  "size": 405,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.067534402Z",
+  "sha256_hash": "e73f39371c7c7fcb27dcbb89d78c55ac7597765dea8c2d9c540720311dbcaf43",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.420376183Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "1fe42394-cb11-4cb8-adbc-dc0dcd69609d",
+  "path": "/usr/lib/snapd/snapd.run-from-snap",
+  "size": 73,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.598028674Z",
+  "sha256_hash": "9ae52f649a006761c91b7c7f0ecb035a8edc72e44d2bc6af3870afa51579fbef",
+  "file_type": {
+    "Other": "run-from-snap"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.913483776Z"
+}

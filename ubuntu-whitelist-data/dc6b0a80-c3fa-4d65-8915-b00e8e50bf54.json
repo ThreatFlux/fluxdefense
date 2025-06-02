@@ -1,0 +1,17 @@
+{
+  "uuid": "dc6b0a80-c3fa-4d65-8915-b00e8e50bf54",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/android/CloexecOpenCheck.h",
+  "size": 1432,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "12e7379fd0acf78d88a07556fe9dc11ba0c88088e59a9230ee41687ff55266bb",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.224434081Z"
+}

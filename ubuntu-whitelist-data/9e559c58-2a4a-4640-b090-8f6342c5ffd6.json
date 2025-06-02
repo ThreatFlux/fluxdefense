@@ -1,0 +1,17 @@
+{
+  "uuid": "9e559c58-2a4a-4640-b090-8f6342c5ffd6",
+  "path": "/lib/x86_64-linux-gnu/libgstisoff-1.0.so.0.2402.0",
+  "size": 22696,
+  "modified": "2024-04-15T13:00:06Z",
+  "created": "2025-05-09T05:09:28.091941028Z",
+  "sha256_hash": "ef1e4bff4875e4a33602dd2a52daa0589bba138772c2e6e023a988b1f2a257d9",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.933452080Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "6531509a-e7f8-4b80-a2c5-13f045f273ce",
+  "path": "/lib/udev/hwdb.d/70-touchpad.hwdb",
+  "size": 2072,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.060786348Z",
+  "sha256_hash": "a3a1896cdedcff005502c136f608fe368ada36e161666b3b36f190f4349764ad",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.256289479Z"
+}

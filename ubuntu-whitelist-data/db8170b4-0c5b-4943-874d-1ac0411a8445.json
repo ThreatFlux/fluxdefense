@@ -1,0 +1,17 @@
+{
+  "uuid": "db8170b4-0c5b-4943-874d-1ac0411a8445",
+  "path": "/usr/lib/udev/rules.d/85-hplj10xx.rules",
+  "size": 1872,
+  "modified": "2024-04-10T21:38:27Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "539079ceae55e7381a0b378919b8c4d0179c16d39c41c5bd5040018438eedf11",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.100498780Z"
+}

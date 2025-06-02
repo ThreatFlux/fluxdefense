@@ -1,0 +1,15 @@
+{
+  "uuid": "fd8bde23-850f-4c7c-84a6-c63142301573",
+  "path": "/usr/lib/libreoffice/program/libpdfiumlo.so",
+  "size": 4435744,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:20.072231794Z",
+  "sha256_hash": "8aaf9a67f04bbea95ce00cd95eb68a5f414c59297865a9bc78c152f64a534452",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:43.800596155Z"
+}

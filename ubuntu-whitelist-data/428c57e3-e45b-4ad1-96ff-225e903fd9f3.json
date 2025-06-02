@@ -1,0 +1,17 @@
+{
+  "uuid": "428c57e3-e45b-4ad1-96ff-225e903fd9f3",
+  "path": "/usr/lib/firmware/amdgpu/mullins_rlc.bin.zst",
+  "size": 5189,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.403543599Z",
+  "sha256_hash": "3d3b175c8ffac8db7ffe2f6cd28990e7bf2e843257b49d410e0c631610cd2510",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.995859784Z"
+}

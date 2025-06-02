@@ -1,0 +1,17 @@
+{
+  "uuid": "e4b64dc6-3f64-4a7b-b37a-b07283634739",
+  "path": "/usr/lib/python3.12/test/imghdrdata/python.pbm",
+  "size": 41,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.999551670Z",
+  "sha256_hash": "7151dc8ebdca81804c959266b14122bf74e62cab773dd8e2f37b379aac105266",
+  "file_type": {
+    "Other": "pbm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.218919888Z"
+}

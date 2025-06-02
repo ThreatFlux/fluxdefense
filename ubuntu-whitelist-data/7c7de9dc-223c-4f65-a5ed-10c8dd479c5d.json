@@ -1,0 +1,15 @@
+{
+  "uuid": "7c7de9dc-223c-4f65-a5ed-10c8dd479c5d",
+  "path": "/usr/bin/xinput",
+  "size": 60240,
+  "modified": "2024-04-08T16:23:20Z",
+  "created": "2025-05-09T05:07:20.931881646Z",
+  "sha256_hash": "073538b9c5285cd5be8bcb97186d4314112087c01bbc42efba1438e79ee65bc0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.163345550Z"
+}

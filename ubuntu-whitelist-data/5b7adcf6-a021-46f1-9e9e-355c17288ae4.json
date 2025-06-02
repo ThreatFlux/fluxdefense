@@ -1,0 +1,15 @@
+{
+  "uuid": "5b7adcf6-a021-46f1-9e9e-355c17288ae4",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_helper.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.334631345Z",
+  "sha256_hash": "a2afc32a8aba93da6aa711d87ff0fe5b29c2ed4505d4e3ea757055ea91c92f3f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.683451434Z"
+}

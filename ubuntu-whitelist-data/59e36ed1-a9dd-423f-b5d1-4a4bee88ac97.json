@@ -1,0 +1,17 @@
+{
+  "uuid": "59e36ed1-a9dd-423f-b5d1-4a4bee88ac97",
+  "path": "/usr/lib/firmware/qcom/qcm6490/a660_zap.mbn.zst",
+  "size": 2453,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.998535357Z",
+  "sha256_hash": "921f6bdf5d220ae8e2565f516cc19811472a06ff053414057e979b21a7e1bbc6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.843157758Z"
+}

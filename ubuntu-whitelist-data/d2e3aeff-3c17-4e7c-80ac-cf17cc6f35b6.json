@@ -1,0 +1,17 @@
+{
+  "uuid": "d2e3aeff-3c17-4e7c-80ac-cf17cc6f35b6",
+  "path": "/lib/x86_64-linux-gnu/liblab_gamut.so.1.0.0",
+  "size": 2492104,
+  "modified": "2024-05-11T18:31:23Z",
+  "created": "2025-05-29T11:16:24.964799921Z",
+  "sha256_hash": "11bbea3eb1ac181775d5d23504725a5bab29f6da3aee02ba883042a1e0f6ed9f",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.544057687Z"
+}

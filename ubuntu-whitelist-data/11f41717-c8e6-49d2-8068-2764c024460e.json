@@ -1,0 +1,17 @@
+{
+  "uuid": "11f41717-c8e6-49d2-8068-2764c024460e",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/Encode/JP.pm",
+  "size": 2682,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.514591388Z",
+  "sha256_hash": "22cf57da42c1909c292f3b882abdddcad99f96bd7d25db570ed3c8c35e542993",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.531691146Z"
+}

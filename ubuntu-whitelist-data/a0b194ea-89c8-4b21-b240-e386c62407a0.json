@@ -1,0 +1,17 @@
+{
+  "uuid": "a0b194ea-89c8-4b21-b240-e386c62407a0",
+  "path": "/lib/firmware/amdgpu/polaris11_mec_2.bin.zst",
+  "size": 25590,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.410543502Z",
+  "sha256_hash": "689dcef5acbc687583f40411d8f7f79ea1418453ef43c5d8dda16278d7e70fa5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.960877692Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "f495b1a1-f0a1-4ca0-94a7-1d2ee804bab4",
+  "path": "/usr/libexec/gnome-calculator-search-provider",
+  "size": 379280,
+  "modified": "2024-06-22T18:00:54Z",
+  "created": "2025-05-09T05:07:37.437629774Z",
+  "sha256_hash": "774151c1ca8b2660c5d5f08c5780aed9cbaa96fd31f99ec575c7ee7947855c3a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.077630993Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "f7ba00c5-e626-4fc1-8ff1-67d766e2a782",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_nfacct.so",
+  "size": 14968,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.335631330Z",
+  "sha256_hash": "a1ff5ad968b5dbef16643bd9c5b42089e802909f76e770023485035f74060826",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.687717311Z"
+}

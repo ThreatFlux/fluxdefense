@@ -1,0 +1,17 @@
+{
+  "uuid": "e42465e6-33bf-4fa3-a328-ece54e597371",
+  "path": "/lib/llvm-18/include/clang/Basic/ParsedAttrInfo.h",
+  "size": 6994,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "d1d248dba1c30cb32f02a7a124ae85933436be0823fadd083130f55da74b17fc",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.149381246Z"
+}

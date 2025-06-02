@@ -1,0 +1,17 @@
+{
+  "uuid": "f7827780-34be-4bef-988e-6973afb87cc6",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/Cwd.pm",
+  "size": 21615,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.511591434Z",
+  "sha256_hash": "52792491edfedf94c5bdf88101bfbc93a21eae322f7d7784d141351b96ae34eb",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.655845399Z"
+}

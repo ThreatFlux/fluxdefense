@@ -1,0 +1,15 @@
+{
+  "uuid": "d71176d1-5cfa-465e-a216-912724f471a9",
+  "path": "/lib/x86_64-linux-gnu/libibverbs/libbnxt_re-rdmav34.so",
+  "size": 43248,
+  "modified": "2024-03-31T08:21:10Z",
+  "created": "2025-05-09T05:07:35.862653808Z",
+  "sha256_hash": "db7c1cf53109b4dbfa0c9f5047a32e4ee4b6e211aff2520ec2801f2678c43545",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.816925478Z"
+}

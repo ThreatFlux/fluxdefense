@@ -1,0 +1,17 @@
+{
+  "uuid": "69c9c5b6-a142-47e2-99e5-ab1c10fec50c",
+  "path": "/lib/udev/rules.d/75-net-description.rules",
+  "size": 452,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "5b8da22a593f2aaffd4697e4cbfb14cb7eb1d52b96f03d9a60c82eeec920e925",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.246604691Z"
+}

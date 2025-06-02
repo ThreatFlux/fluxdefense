@@ -1,0 +1,17 @@
+{
+  "uuid": "3a7df2f7-ae28-4fec-9ef3-a527ed5235f7",
+  "path": "/usr/lib/i386-linux-gnu/libffi.so.8.1.4",
+  "size": 38468,
+  "modified": "2024-04-08T16:03:37Z",
+  "created": "2025-05-09T12:55:58.780868142Z",
+  "sha256_hash": "0bb065fd1b38be8531c8baff21a3c8edf4cdb44859976c16e942b211fdc00df0",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:39.229373022Z"
+}

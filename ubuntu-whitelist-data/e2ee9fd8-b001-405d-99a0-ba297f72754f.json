@@ -1,0 +1,17 @@
+{
+  "uuid": "e2ee9fd8-b001-405d-99a0-ba297f72754f",
+  "path": "/lib/firmware/radeon/ARUBA_me.bin.zst",
+  "size": 3276,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.058534526Z",
+  "sha256_hash": "5d2fa8446ba1ebe081e7ab9e5ce3ef6fd20496d928e26382d1a4f0a36a292bf7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.395917713Z"
+}

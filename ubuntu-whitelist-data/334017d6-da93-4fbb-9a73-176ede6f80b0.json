@@ -1,0 +1,15 @@
+{
+  "uuid": "334017d6-da93-4fbb-9a73-176ede6f80b0",
+  "path": "/usr/lib/python3.12/lib-dynload/_testclinic.cpython-312-x86_64-linux-gnu.so",
+  "size": 68936,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:10:59.931539231Z",
+  "sha256_hash": "6aa37b3fda3f0b0b15e5fe8ce1d0da6766ee51bec0e5c35d62261b6b8db24e86",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.942741115Z"
+}

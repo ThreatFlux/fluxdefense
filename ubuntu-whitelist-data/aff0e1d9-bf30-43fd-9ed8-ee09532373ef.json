@@ -1,0 +1,17 @@
+{
+  "uuid": "aff0e1d9-bf30-43fd-9ed8-ee09532373ef",
+  "path": "/lib/firmware/adaptec/starfire_rx.bin.zst",
+  "size": 387,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.385543848Z",
+  "sha256_hash": "d8a8c671f237d533ca8e59068a7e7382f7b3bde969de5547bb62288afaa6ddff",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.146621288Z"
+}

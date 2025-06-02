@@ -1,0 +1,15 @@
+{
+  "uuid": "29498a9c-2902-43b5-add1-7b5846f9f50c",
+  "path": "/usr/sbin/cracklib-unpacker",
+  "size": 14488,
+  "modified": "2024-03-31T07:30:49Z",
+  "created": "2025-05-09T05:07:38.142619015Z",
+  "sha256_hash": "037c2d5061b7ea9fcb1b108c5aec1eb80317b6f0294272e1d146c5cdacf4676e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.518672080Z"
+}

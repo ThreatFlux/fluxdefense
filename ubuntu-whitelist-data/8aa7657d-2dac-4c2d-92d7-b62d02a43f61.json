@@ -1,0 +1,17 @@
+{
+  "uuid": "8aa7657d-2dac-4c2d-92d7-b62d02a43f61",
+  "path": "/usr/lib/firmware/qcom/sdm845/cdsp.mbn.zst",
+  "size": 971552,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.024534997Z",
+  "sha256_hash": "954b0fa962f401dea49d8b5eeafa49febc09b89c1fba8f6119fe89ffd5dec1de",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.876172553Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "8911b29c-baa5-4b7e-85b2-f7e5ffee5b4f",
+  "path": "/lib/llvm-18/include/clang/Tooling/Tooling.h",
+  "size": 20481,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.554533252Z",
+  "sha256_hash": "82b4da986b29638f56b65b064fdeed211298dd71f4e930ad63a6e99b87144f54",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.019411752Z"
+}

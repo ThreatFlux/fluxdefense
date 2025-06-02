@@ -1,0 +1,17 @@
+{
+  "uuid": "a90a2553-8047-414e-961e-be21fa71f713",
+  "path": "/usr/lib/systemd/system/ldconfig.service",
+  "size": 756,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "f6e8fe16e30c2bb388b39546af5a9e5b03515b34ac9092d6f25e3c2fd27cd8f2",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.446467405Z"
+}

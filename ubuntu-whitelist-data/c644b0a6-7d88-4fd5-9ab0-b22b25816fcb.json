@@ -1,0 +1,15 @@
+{
+  "uuid": "c644b0a6-7d88-4fd5-9ab0-b22b25816fcb",
+  "path": "/usr/lib/python3/dist-packages/nacl/bindings/crypto_scalarmult.py",
+  "size": 8244,
+  "modified": "2025-02-15T08:51:42Z",
+  "created": "2025-05-09T05:07:27.018788763Z",
+  "sha256_hash": "fc35fe9acb76b829f38e8e9f3f91d14e786fd410bde41f609897372ffa2bd7a8",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.388133662Z"
+}

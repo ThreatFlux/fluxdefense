@@ -1,0 +1,17 @@
+{
+  "uuid": "7c931add-3b66-4444-b522-990017bd04a1",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/B/Concise.pm",
+  "size": 60991,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.492591724Z",
+  "sha256_hash": "0780015de748e8de3a1e55820a15a63adede674a4098bcce7982735698b68e27",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.663007293Z"
+}

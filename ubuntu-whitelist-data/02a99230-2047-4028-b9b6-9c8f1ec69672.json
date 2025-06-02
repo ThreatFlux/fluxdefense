@@ -1,0 +1,17 @@
+{
+  "uuid": "02a99230-2047-4028-b9b6-9c8f1ec69672",
+  "path": "/usr/lib/firmware/mediatek/WIFI_MT7922_patch_mcu_1_1_hdr.bin.zst",
+  "size": 137651,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.673539859Z",
+  "sha256_hash": "1e3cac4597ab5c637cf2e0162c4cf06eb65b220b79623881980aef2885677f1a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.235219546Z"
+}

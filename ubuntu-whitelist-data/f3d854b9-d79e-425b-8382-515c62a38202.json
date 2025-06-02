@@ -1,0 +1,17 @@
+{
+  "uuid": "f3d854b9-d79e-425b-8382-515c62a38202",
+  "path": "/lib/firmware/qcom/apq8096/modemr.jsn",
+  "size": 405,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.988535496Z",
+  "sha256_hash": "90b10ce9d42df4eea1a6714139c33d21dd1d5e5445be658ccb9cbc701466264f",
+  "file_type": {
+    "Other": "jsn"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.790361460Z"
+}

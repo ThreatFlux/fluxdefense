@@ -1,0 +1,15 @@
+{
+  "uuid": "0215b5cd-0c4e-4367-b5c7-97b9ed3a91f3",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstalsa.so",
+  "size": 112976,
+  "modified": "2024-12-17T13:24:56Z",
+  "created": "2025-05-09T05:07:35.771655196Z",
+  "sha256_hash": "f7cf868ee7e529acecede45bdc868bc83db1501c1075babec82efe5d0093a1b4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.177932025Z"
+}

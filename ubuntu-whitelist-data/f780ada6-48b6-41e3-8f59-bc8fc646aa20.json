@@ -1,0 +1,17 @@
+{
+  "uuid": "f780ada6-48b6-41e3-8f59-bc8fc646aa20",
+  "path": "/lib/x86_64-linux-gnu/libtss2-tcti-cmd.so.0.0.0",
+  "size": 35384,
+  "modified": "2024-05-24T20:06:42Z",
+  "created": "2025-05-09T05:07:32.326707766Z",
+  "sha256_hash": "3a0b22ceeab18f88d47a96cec3b15364f66700bebd52501fab780753ceeac0cd",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.204350408Z"
+}

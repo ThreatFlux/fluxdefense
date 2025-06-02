@@ -1,0 +1,15 @@
+{
+  "uuid": "66082d2a-bcc5-422d-979a-c01c0cb94972",
+  "path": "/usr/sbin/logrotate",
+  "size": 96504,
+  "modified": "2024-04-08T16:11:30Z",
+  "created": "2025-05-09T05:07:38.360615689Z",
+  "sha256_hash": "9a6914346a8d1c64b8b18150b2a84c54a2730966051ddbed17fcc661c66a1adf",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.731555488Z"
+}

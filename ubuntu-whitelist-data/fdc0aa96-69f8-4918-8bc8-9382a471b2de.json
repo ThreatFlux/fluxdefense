@@ -1,0 +1,15 @@
+{
+  "uuid": "fdc0aa96-69f8-4918-8bc8-9382a471b2de",
+  "path": "/lib/python3/dist-packages/cryptography/x509/certificate_transparency.py",
+  "size": 2261,
+  "modified": "2024-05-27T07:18:06Z",
+  "created": "2025-05-09T05:07:26.783792349Z",
+  "sha256_hash": "e87bf3003d1d952415c72ead9c38468f4fa98aca7531a27d6f140d46bf768a72",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.024027815Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "183716dd-5865-448d-b33c-0e4920c578fe",
+  "path": "/usr/lib/llvm-18/include/clang/AST/ASTStructuralEquivalence.h",
+  "size": 5782,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.511533818Z",
+  "sha256_hash": "c27f9ef8188ba0b9306fd769639861194b429c29b4727dc7373f69b7c7c36b2d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.392561136Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "43556a39-1582-46fd-8156-ceb2f1099861",
+  "path": "/lib/firmware/nvidia/ga106/gr/fecs_bl.bin.zst",
+  "size": 289,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.936536216Z",
+  "sha256_hash": "55cb2266ae936851e37abcc571e6e1abaa90f7e4630170156bcaecf41da26e9e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.420089924Z"
+}

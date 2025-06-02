@@ -1,0 +1,15 @@
+{
+  "uuid": "f90710c6-68a0-4859-8c2e-d4703348b8ce",
+  "path": "/bin/virt-install",
+  "size": 142,
+  "modified": "2024-08-01T12:18:26Z",
+  "created": "2025-05-09T05:56:59.260533433Z",
+  "sha256_hash": "895f851fbe9b81dde2bcebd0ca3c141561eda381adfbe6982c1385e998d9dee0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.517984579Z"
+}

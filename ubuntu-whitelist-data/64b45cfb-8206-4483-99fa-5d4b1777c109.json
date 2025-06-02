@@ -1,0 +1,15 @@
+{
+  "uuid": "64b45cfb-8206-4483-99fa-5d4b1777c109",
+  "path": "/usr/lib/x86_64-linux-gnu/shotwell/plugins/builtin/libshotwell-publishing.so",
+  "size": 588144,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:37.218633115Z",
+  "sha256_hash": "d6f6d01acbbe5f9f2910d938061302d220c12bbdb8755341130ccdb1fd94d643",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.790633881Z"
+}

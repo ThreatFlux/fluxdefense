@@ -1,0 +1,17 @@
+{
+  "uuid": "913592b3-731b-4aa0-9b86-64767f381588",
+  "path": "/lib/x86_64-linux-gnu/libgstwebrtcnice-1.0.so.0.2402.0",
+  "size": 59560,
+  "modified": "2024-04-15T13:00:06Z",
+  "created": "2025-05-09T05:09:28.094940982Z",
+  "sha256_hash": "5a5602be6df22d93cc4ccc319b17f27b4975f54df352b94d8739d64b1da440ec",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.894151119Z"
+}

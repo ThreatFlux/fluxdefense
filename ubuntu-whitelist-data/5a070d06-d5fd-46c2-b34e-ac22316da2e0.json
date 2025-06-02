@@ -1,0 +1,17 @@
+{
+  "uuid": "5a070d06-d5fd-46c2-b34e-ac22316da2e0",
+  "path": "/usr/lib/libreoffice/program/uno.bin",
+  "size": 85048,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:03.185489562Z",
+  "sha256_hash": "59c4759af149b3e3558e8bb66925d301bfbd9bef42776b39f1740597a4bcb2dd",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:42.790063074Z"
+}

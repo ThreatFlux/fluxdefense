@@ -1,0 +1,15 @@
+{
+  "uuid": "2bdb8c34-5bf4-4df3-bd43-c9345256d736",
+  "path": "/usr/sbin/softirqs-bpfcc",
+  "size": 5723,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.523499148Z",
+  "sha256_hash": "ca04347232f06c7344e5129db908dd5a1559e2f19c603de306ddea80b41e9f2e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.709242418Z"
+}

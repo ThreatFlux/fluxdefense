@@ -1,0 +1,17 @@
+{
+  "uuid": "ad4e5e47-6502-49ef-a682-8b485013fdc4",
+  "path": "/lib/llvm-18/include/clang/AST/VTableBuilder.h",
+  "size": 20746,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.521533687Z",
+  "sha256_hash": "c38dea91be9bcf12450c03f3773d7ef179b4f99fe1bf76aee179904a1e3b4ba5",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.996327272Z"
+}

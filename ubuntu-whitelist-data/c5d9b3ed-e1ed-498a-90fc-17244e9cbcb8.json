@@ -1,0 +1,17 @@
+{
+  "uuid": "c5d9b3ed-e1ed-498a-90fc-17244e9cbcb8",
+  "path": "/usr/lib/modules/6.11.0-26-generic/kernel/crypto/essiv.ko.zst",
+  "size": 7615,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.078797895Z",
+  "sha256_hash": "9e5f6ff23d575d22867c8db0fa7ee486e881feb74d010b81a893d886a8e00751",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.632366945Z"
+}

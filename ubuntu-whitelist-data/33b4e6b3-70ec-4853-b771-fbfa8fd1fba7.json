@@ -1,0 +1,17 @@
+{
+  "uuid": "33b4e6b3-70ec-4853-b771-fbfa8fd1fba7",
+  "path": "/lib/systemd/system/fwupd-offline-update.service",
+  "size": 406,
+  "modified": "2025-03-25T17:48:06Z",
+  "created": "2025-05-09T05:24:28.638976132Z",
+  "sha256_hash": "b591ee14edc573625772560321df5dacb911c05a0bf6f959565ca819d5350703",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.107271815Z"
+}

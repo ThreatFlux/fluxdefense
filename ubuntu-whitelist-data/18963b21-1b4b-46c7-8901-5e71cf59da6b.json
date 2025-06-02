@@ -1,0 +1,17 @@
+{
+  "uuid": "18963b21-1b4b-46c7-8901-5e71cf59da6b",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/google/DefaultArgumentsCheck.h",
+  "size": 1278,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "887f0db57d2cb0f365e5bdfa52a7839250b9877692c8e67d30f374601c2b4992",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.273508025Z"
+}

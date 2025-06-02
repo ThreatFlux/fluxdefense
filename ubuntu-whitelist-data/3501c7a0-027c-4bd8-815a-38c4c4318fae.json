@@ -1,0 +1,17 @@
+{
+  "uuid": "3501c7a0-027c-4bd8-815a-38c4c4318fae",
+  "path": "/usr/lib/firmware/radeon/TURKS_smc.bin.zst",
+  "size": 10382,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.063534457Z",
+  "sha256_hash": "3ef2d07a3f34a0a8f1d714de5fd1d01f569eb2cf14a5f93099771deacebb2c32",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.402178628Z"
+}

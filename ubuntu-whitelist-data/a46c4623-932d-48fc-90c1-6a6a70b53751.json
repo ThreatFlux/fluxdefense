@@ -1,0 +1,17 @@
+{
+  "uuid": "a46c4623-932d-48fc-90c1-6a6a70b53751",
+  "path": "/lib/systemd/system/sssd-ssh.socket",
+  "size": 362,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:28.301769185Z",
+  "sha256_hash": "adcce9a55f3dc32651da5ee3577bf72c33d722acdcdde2c2d519df59b06840c3",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.112082109Z"
+}

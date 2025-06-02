@@ -1,0 +1,15 @@
+{
+  "uuid": "b0960057-8279-413d-8e64-8d876d7d951b",
+  "path": "/usr/lib/x86_64-linux-gnu/gawk/inplace.so",
+  "size": 14744,
+  "modified": "2024-03-31T05:33:52Z",
+  "created": "2025-05-23T03:43:48.621716868Z",
+  "sha256_hash": "04c14691d5ed846cfe24dd639243a47f22f8304546060eab5adf7484d72710d0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.316052129Z"
+}

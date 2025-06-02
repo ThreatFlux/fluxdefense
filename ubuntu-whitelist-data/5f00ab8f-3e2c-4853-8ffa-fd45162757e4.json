@@ -1,0 +1,15 @@
+{
+  "uuid": "5f00ab8f-3e2c-4853-8ffa-fd45162757e4",
+  "path": "/usr/lib/x86_64-linux-gnu/m17n/1.0/libm17n-X.so",
+  "size": 55976,
+  "modified": "2024-03-31T08:04:12Z",
+  "created": "2025-05-09T05:07:36.547643355Z",
+  "sha256_hash": "2a655b6d09205a26c92117558f6169160d84bdcc66f102efedab824cc430f123",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:08.113049679Z"
+}

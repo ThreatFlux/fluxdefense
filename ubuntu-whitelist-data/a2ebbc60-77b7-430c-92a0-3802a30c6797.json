@@ -1,0 +1,15 @@
+{
+  "uuid": "a2ebbc60-77b7-430c-92a0-3802a30c6797",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstpulseaudio.so",
+  "size": 129272,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.775655135Z",
+  "sha256_hash": "2c0946c61e074dd18da6fc39f7b4aeb8571b8df14035a65cbb0e221a223bbc3f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.119641545Z"
+}

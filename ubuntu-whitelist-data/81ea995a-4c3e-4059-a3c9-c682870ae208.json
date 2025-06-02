@@ -1,0 +1,17 @@
+{
+  "uuid": "81ea995a-4c3e-4059-a3c9-c682870ae208",
+  "path": "/usr/lib/x86_64-linux-gnu/libtic.so.6.4",
+  "size": 76088,
+  "modified": "2024-04-08T16:14:03Z",
+  "created": "2025-05-09T05:07:32.318707888Z",
+  "sha256_hash": "143e6129157b30f3d1653d6b3aa8aaaf4ef8eb9f656dd217c80377d0573acccf",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:13.999346786Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "75cfc70e-0bd7-44e3-833a-8112b6f4b683",
+  "path": "/lib/systemd/system/serial-getty@.service",
+  "size": 1571,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "b3ecf20475ea1648da95ea1f30eabcf53eaab2d1bd782478d492b850cf6d0dbf",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.108612716Z"
+}

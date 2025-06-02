@@ -1,0 +1,17 @@
+{
+  "uuid": "f11f7601-123d-47a4-bb6a-cfa5f93f6d1a",
+  "path": "/lib/firmware/nvidia/gm200/acr/ucode_load.bin.zst",
+  "size": 4840,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.937536202Z",
+  "sha256_hash": "d31cd22a4b7c577e904caafab382255c9575f86cdd0018898a0d63231625c8e5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.422789490Z"
+}

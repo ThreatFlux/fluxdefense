@@ -1,0 +1,15 @@
+{
+  "uuid": "e6f31156-c224-4d0c-bf29-4ea62d9d22db",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstopengl.so",
+  "size": 339552,
+  "modified": "2024-12-17T13:24:56Z",
+  "created": "2025-05-09T05:07:35.774655151Z",
+  "sha256_hash": "8df9c45723edd7e2953f42821f42d8ed153bdd37f942565b69a27d6f1c4e6d69",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.886591494Z"
+}

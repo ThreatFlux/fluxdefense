@@ -1,0 +1,17 @@
+{
+  "uuid": "7e3145f4-e9bd-4070-b7f9-e2d8d8266418",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/crypto/af_alg.ko.zst",
+  "size": 14196,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.077797913Z",
+  "sha256_hash": "5261c560301b8972def71aae70dfbdb2dde1a8d14c4947df5f6981acaafc1ce4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.260104414Z"
+}

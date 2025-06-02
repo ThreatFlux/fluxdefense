@@ -1,0 +1,15 @@
+{
+  "uuid": "6cf774ae-8317-4c1a-aa86-f3601f7134fd",
+  "path": "/sbin/libvirtd",
+  "size": 538648,
+  "modified": "2025-03-13T16:25:50Z",
+  "created": "2025-05-20T14:31:33.105814749Z",
+  "sha256_hash": "c7544cd9db2c9cd1eb48b9488764723df4c84fa15154835ad5bc5838e54e0aa2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.040116495Z"
+}

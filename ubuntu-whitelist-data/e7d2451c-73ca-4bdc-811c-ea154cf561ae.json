@@ -1,0 +1,17 @@
+{
+  "uuid": "e7d2451c-73ca-4bdc-811c-ea154cf561ae",
+  "path": "/lib/x86_64-linux-gnu/perl5/5.38/File/FcntlLock.pm",
+  "size": 1753,
+  "modified": "2014-07-31T20:10:14Z",
+  "created": "2025-05-09T06:33:34.672294608Z",
+  "sha256_hash": "79f4daf8c2fc2fc25bec5e74d8969fe3cecba1740c1fdf1dbeb39eb1f46b9ce2",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.348552304Z"
+}

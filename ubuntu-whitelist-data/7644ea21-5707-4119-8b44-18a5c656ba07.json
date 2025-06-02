@@ -1,0 +1,17 @@
+{
+  "uuid": "7644ea21-5707-4119-8b44-18a5c656ba07",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/g-signal.adb",
+  "size": 3161,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.070344873Z",
+  "sha256_hash": "aea5cd3bb1ce560d3b82d3e7d46fd4d2f72a5347035dd81bcaa311f85031f560",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.885311506Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "1ecff8d7-b474-49fc-a946-d3b46b3262ed",
+  "path": "/usr/bin/systemd-ask-password",
+  "size": 19024,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.504779240Z",
+  "sha256_hash": "65f5f288345741d101565c7d1efc13d451defc3dcaee56f240da5fe3a03ecbe8",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.057710626Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "3b1fc041-4a08-4994-890b-2c815503e10a",
+  "path": "/usr/lib/firmware/ql2400_fw.bin.zst",
+  "size": 97670,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.058534526Z",
+  "sha256_hash": "21fadb6f67ffa7a529155563f5d610c91fb813462b641b283f6e200f02b9c8aa",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.486302833Z"
+}

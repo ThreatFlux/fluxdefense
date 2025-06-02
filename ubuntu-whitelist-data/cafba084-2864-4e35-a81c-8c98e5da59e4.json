@@ -1,0 +1,17 @@
+{
+  "uuid": "cafba084-2864-4e35-a81c-8c98e5da59e4",
+  "path": "/usr/lib/llvm-18/include/clang/Lex/PreprocessingRecord.h",
+  "size": 21406,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.544533384Z",
+  "sha256_hash": "d9fdcfe25c8abd7dd89f70b073181cf7baaa9351c30b22046880c717bb6338a0",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.612261773Z"
+}

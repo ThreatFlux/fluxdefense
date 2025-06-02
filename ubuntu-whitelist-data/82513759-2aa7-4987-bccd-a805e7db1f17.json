@@ -1,0 +1,17 @@
+{
+  "uuid": "82513759-2aa7-4987-bccd-a805e7db1f17",
+  "path": "/usr/lib/firmware/radeon/RV770_pfp.bin.zst",
+  "size": 1505,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.062534471Z",
+  "sha256_hash": "6d1a38a9ec7a15917c2038e9bf4a001b5bb8c8b7f002ec6937114ffb06c3b1ac",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.406857761Z"
+}

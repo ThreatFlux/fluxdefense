@@ -1,0 +1,17 @@
+{
+  "uuid": "f02c23b1-d9c3-4379-8752-0443f58c0c82",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/s-regexp.adb",
+  "size": 60819,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.087344640Z",
+  "sha256_hash": "1f9562bf61e715e6d2b94ed419a1533736642e1a6b3db5ce0e8a700455d92fa2",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.945881970Z"
+}

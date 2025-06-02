@@ -1,0 +1,15 @@
+{
+  "uuid": "eddf6c50-1d91-4a90-97fa-248b71bca84b",
+  "path": "/lib/x86_64-linux-gnu/xtables/libebt_log.so",
+  "size": 14784,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.324631498Z",
+  "sha256_hash": "2e9409852730b2f35c151e18a7c26493eb9ce4c24e6367f0dcce5f67fb903b60",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.662403542Z"
+}

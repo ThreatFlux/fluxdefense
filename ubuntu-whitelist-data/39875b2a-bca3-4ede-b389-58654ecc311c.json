@@ -1,0 +1,17 @@
+{
+  "uuid": "39875b2a-bca3-4ede-b389-58654ecc311c",
+  "path": "/lib/x86_64-linux-gnu/libwacom.so.9.0.0",
+  "size": 56176,
+  "modified": "2024-03-31T10:29:48Z",
+  "created": "2025-05-09T05:07:33.032696992Z",
+  "sha256_hash": "67fc99dbb4eb53465847d7982d8455bdb10671f1af2cd4b29e42f60915195376",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.050484993Z"
+}

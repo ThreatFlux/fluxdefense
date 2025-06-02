@@ -1,0 +1,17 @@
+{
+  "uuid": "43c6fb05-43f0-4563-936b-69c196cc1628",
+  "path": "/usr/lib/firmware/ath11k/WCN6750/hw1.0/wpss.b01.zst",
+  "size": 1617,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.463542768Z",
+  "sha256_hash": "8c983c50a6944576dbfd96388f543be5d9858380ece0523b3b38ac5112c7f159",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:58.091835733Z"
+}

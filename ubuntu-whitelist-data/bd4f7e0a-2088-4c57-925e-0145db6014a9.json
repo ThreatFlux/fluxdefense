@@ -1,0 +1,15 @@
+{
+  "uuid": "bd4f7e0a-2088-4c57-925e-0145db6014a9",
+  "path": "/usr/lib/x86_64-linux-gnu/liba52.a",
+  "size": 84198,
+  "modified": "2024-04-18T17:49:15Z",
+  "created": "2025-05-29T11:16:19.544874297Z",
+  "sha256_hash": "9133f55fc8f587fbbc1751d1c8c3cd5a9552a47bd54a7a3d9bf7f22ae6991158",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.867463209Z"
+}

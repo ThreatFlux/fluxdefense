@@ -1,0 +1,17 @@
+{
+  "uuid": "a6d3a94e-7b9a-453c-a0d8-591a00222c3f",
+  "path": "/lib/firmware/amdgpu/verde_k_smc.bin.zst",
+  "size": 26477,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.426543280Z",
+  "sha256_hash": "21c4934b665af289458d32055036d956c81a3d4cb3a1eedf517cee54914c268f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.080359607Z"
+}

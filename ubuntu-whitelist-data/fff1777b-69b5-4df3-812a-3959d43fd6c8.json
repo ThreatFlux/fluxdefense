@@ -1,0 +1,17 @@
+{
+  "uuid": "fff1777b-69b5-4df3-812a-3959d43fd6c8",
+  "path": "/usr/lib/firmware/mrvl/prestera/mvsw_prestera_fw-v2.0.img.zst",
+  "size": 13441011,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.795538169Z",
+  "sha256_hash": "ff3772c01a44d5bb8bde7e1f93a841a939b3c8b70720a0a4d6f49312ea1f7319",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.289719103Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "cfc30763-3426-4cce-8216-0ed72a9d98a2",
+  "path": "/usr/lib/firmware/qcom/a663_gmu.bin.zst",
+  "size": 35899,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.970535745Z",
+  "sha256_hash": "f4d2e1ff8a8fdfc2345b3e6b79b36762c43b2309ec83e5563ad1ad825bd0b592",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.216720478Z"
+}

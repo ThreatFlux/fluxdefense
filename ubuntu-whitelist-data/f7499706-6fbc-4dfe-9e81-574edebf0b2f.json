@@ -1,0 +1,17 @@
+{
+  "uuid": "f7499706-6fbc-4dfe-9e81-574edebf0b2f",
+  "path": "/usr/lib/firmware/rtw88/rtw8723d_fw.bin.zst",
+  "size": 17921,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.069534374Z",
+  "sha256_hash": "bfa5289478f20d999b3c186224416860a1bff747d24cf579bdcfa40e7caabaac",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.472439990Z"
+}

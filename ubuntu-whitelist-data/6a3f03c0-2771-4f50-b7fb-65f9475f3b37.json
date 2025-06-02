@@ -1,0 +1,17 @@
+{
+  "uuid": "6a3f03c0-2771-4f50-b7fb-65f9475f3b37",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/wayland-server.pc",
+  "size": 360,
+  "modified": "2024-04-08T16:21:56Z",
+  "created": "2025-05-12T13:47:40.015136722Z",
+  "sha256_hash": "b5eee3ed3a223f64a9697c0196d6d7a5f378a6bb7a478778b1181216586cdf93",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.057842019Z"
+}

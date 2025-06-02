@@ -1,0 +1,17 @@
+{
+  "uuid": "9e9d4767-4269-4ee5-9593-37b8f7cc0ed2",
+  "path": "/usr/lib/systemd/user/launchpadlib-cache-clean.service",
+  "size": 232,
+  "modified": "2024-02-24T23:33:49Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "b4a9993161957a3f588140417080cbaec2f03e3b0d19abf3f15d94e1cb4a9063",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.502375751Z"
+}

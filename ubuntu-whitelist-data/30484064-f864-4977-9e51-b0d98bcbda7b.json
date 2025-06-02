@@ -1,0 +1,17 @@
+{
+  "uuid": "30484064-f864-4977-9e51-b0d98bcbda7b",
+  "path": "/usr/lib/llvm-18/include/clang/AST/DeclLookups.h",
+  "size": 3730,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.516533752Z",
+  "sha256_hash": "99423679f6d9f2ff364834c230ad86b6a1da9152bfdbc3d9777537cc137c5468",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.383950861Z"
+}

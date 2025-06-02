@@ -1,0 +1,15 @@
+{
+  "uuid": "360cb153-6e8a-406f-89ac-c02ff6a359f5",
+  "path": "/usr/lib/llvm-18/lib/libLLVMInstCombine.a",
+  "size": 3599426,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.898462876Z",
+  "sha256_hash": "9a38eb01d862c03dd8f087734cdfc9adcd51714e580297ff6fe1e7226c9a194f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:36.232724557Z"
+}

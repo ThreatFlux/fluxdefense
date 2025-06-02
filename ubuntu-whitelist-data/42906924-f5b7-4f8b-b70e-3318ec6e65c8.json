@@ -1,0 +1,15 @@
+{
+  "uuid": "42906924-f5b7-4f8b-b70e-3318ec6e65c8",
+  "path": "/usr/bin/rst2man",
+  "size": 624,
+  "modified": "2023-11-30T11:16:27Z",
+  "created": "2025-05-13T14:31:45.425318114Z",
+  "sha256_hash": "e4e2704b1fb0d8c61d6bb2dd95f53f935988fbc203a4367c51b419be637cd60c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.692320626Z"
+}

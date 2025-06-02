@@ -1,0 +1,17 @@
+{
+  "uuid": "61828feb-19ba-4d4f-8fb3-d94a7b089b6a",
+  "path": "/lib/llvm-18/include/clang/Basic/riscv_sifive_vector_builtin_cg.inc",
+  "size": 43660,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.537533476Z",
+  "sha256_hash": "61a7c2bcfed96d7833e6fbec48f6f7d45aeec4dc94d274743d7905edead50ef8",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.133960605Z"
+}

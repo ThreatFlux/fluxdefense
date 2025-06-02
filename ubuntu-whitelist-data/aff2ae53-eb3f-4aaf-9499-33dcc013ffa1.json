@@ -1,0 +1,17 @@
+{
+  "uuid": "aff2ae53-eb3f-4aaf-9499-33dcc013ffa1",
+  "path": "/lib/systemd/system-generators/systemd-sysv-generator",
+  "size": 35272,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.516779393Z",
+  "sha256_hash": "10c1c0917b7827594ec848af0ca7f6b3723e01349c815a7316f538d5b64a20ea",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.085627296Z"
+}

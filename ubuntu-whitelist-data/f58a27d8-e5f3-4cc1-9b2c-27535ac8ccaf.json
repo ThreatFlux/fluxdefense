@@ -1,0 +1,17 @@
+{
+  "uuid": "f58a27d8-e5f3-4cc1-9b2c-27535ac8ccaf",
+  "path": "/usr/lib/llvm-18/include/clang/Frontend/MultiplexConsumer.h",
+  "size": 3778,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "24593e8998b4831af2d68438478a8452e7fb0b9c15a2eed6600dcc2a00e4eb78",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.297727902Z"
+}

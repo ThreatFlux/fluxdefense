@@ -1,0 +1,15 @@
+{
+  "uuid": "841a6b5f-c156-4470-b2a4-8892f57ed9e3",
+  "path": "/sbin/iptunnel",
+  "size": 18744,
+  "modified": "2025-05-28T13:23:35Z",
+  "created": "2025-05-29T10:40:06.156574722Z",
+  "sha256_hash": "686556597eae3c66557b018bee41b48fc85641ab22f8d874a1f2974f4e4dab6a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.050432051Z"
+}

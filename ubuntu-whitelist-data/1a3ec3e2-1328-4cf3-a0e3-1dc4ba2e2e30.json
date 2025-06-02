@@ -1,0 +1,15 @@
+{
+  "uuid": "1a3ec3e2-1328-4cf3-a0e3-1dc4ba2e2e30",
+  "path": "/bin/swtpm_cert",
+  "size": 48472,
+  "modified": "2024-07-30T22:16:43Z",
+  "created": "2025-05-09T05:56:58.425542809Z",
+  "sha256_hash": "f8168d244e40c15ded054e2ea6158287050f5ee2e2127a4b7f3231c4eb2e79fb",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.092761673Z"
+}

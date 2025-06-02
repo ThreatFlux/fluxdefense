@@ -1,0 +1,17 @@
+{
+  "uuid": "55bd5ed0-907b-43ac-b5bd-ba7721e4a62f",
+  "path": "/lib/systemd/user/systemd-tmpfiles-setup.service",
+  "size": 728,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.526779521Z",
+  "sha256_hash": "819508db1a24df155df94bfcfef3bb8419d50768e70884da835f0db39c49b410",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.147202999Z"
+}

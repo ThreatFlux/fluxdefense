@@ -1,0 +1,17 @@
+{
+  "uuid": "cfb96edb-66c2-4cb7-bb7a-20cd6f27ba72",
+  "path": "/usr/lib/x86_64-linux-gnu/ldscripts/elf_x86_64.xbn",
+  "size": 9719,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:52.049575364Z",
+  "sha256_hash": "ff42ff59803c5572fad563ce8cf9f117922ca3fe116834fe2df3b96b5577a3dc",
+  "file_type": {
+    "Other": "xbn"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.418607543Z"
+}

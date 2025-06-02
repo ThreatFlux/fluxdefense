@@ -1,0 +1,15 @@
+{
+  "uuid": "1f00a225-c5a9-48eb-a1d7-145dd65540b2",
+  "path": "/sbin/chroot",
+  "size": 39432,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:38.141619031Z",
+  "sha256_hash": "6ad403e6ed64c6e63239d6fe37cf1a331ffd43819d92b003c87a53def32a7bf8",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.797107956Z"
+}

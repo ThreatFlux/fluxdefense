@@ -1,0 +1,17 @@
+{
+  "uuid": "c82d154f-4bba-42f4-8f9e-617764ebda8d",
+  "path": "/lib/x86_64-linux-gnu/ldscripts/elf_iamcu.xw",
+  "size": 8753,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:52.049575364Z",
+  "sha256_hash": "178ac6b8eee3d89d1038129c93248f0eb391c17190a89075b14d05eacd2c8036",
+  "file_type": {
+    "Other": "xw"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:18.242895373Z"
+}

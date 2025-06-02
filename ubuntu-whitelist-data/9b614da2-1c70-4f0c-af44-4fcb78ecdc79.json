@@ -1,0 +1,17 @@
+{
+  "uuid": "9b614da2-1c70-4f0c-af44-4fcb78ecdc79",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/libdrm_amdgpu.pc",
+  "size": 310,
+  "modified": "2024-08-02T12:33:15Z",
+  "created": "2025-05-29T11:16:21.141852382Z",
+  "sha256_hash": "75217cf63c471db7a00a59e71d3cc65c7fefd9004b2cb360a34004ebe64052d1",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.102654910Z"
+}

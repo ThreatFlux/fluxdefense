@@ -1,0 +1,17 @@
+{
+  "uuid": "4b2d7b85-b1af-4c20-977d-24b967a1dc9a",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/sl_dict",
+  "size": 45047,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.548658599Z",
+  "sha256_hash": "9cb2bcbf616a5e7dd7ca769e7d222a48c613299ef1d76e44c08b002f8c22861a",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.310143157Z"
+}

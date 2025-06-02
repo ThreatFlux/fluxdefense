@@ -1,0 +1,17 @@
+{
+  "uuid": "4673c025-a605-406d-b715-2840cd891e45",
+  "path": "/usr/lib/llvm-18/include/clang/AST/APNumericStorage.h",
+  "size": 2343,
+  "modified": "2024-01-17T08:14:10Z",
+  "created": "2025-05-12T13:34:31.510533832Z",
+  "sha256_hash": "891d72b04f556df4ac6e5a5e84bc152013dcd9db7f1fb66697cb76d17059a652",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.320230265Z"
+}

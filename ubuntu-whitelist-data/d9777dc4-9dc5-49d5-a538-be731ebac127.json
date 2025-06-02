@@ -1,0 +1,17 @@
+{
+  "uuid": "d9777dc4-9dc5-49d5-a538-be731ebac127",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-exponr.adb",
+  "size": 5280,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.076344791Z",
+  "sha256_hash": "3ed1defda1a1c91c35289335e3dd6ffbd457a4c92751c5c4e37e2064784420da",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.214353471Z"
+}

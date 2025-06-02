@@ -1,0 +1,15 @@
+{
+  "uuid": "2faa0147-e8ba-484f-9835-260a5b18056f",
+  "path": "/usr/lib/i386-linux-gnu/gconv/BIG5.so",
+  "size": 95628,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.270663568Z",
+  "sha256_hash": "ac16a1c17095075b9138cb1094b0db32f3aa251e4a6e349109c3be05a12c5bb0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.957375304Z"
+}

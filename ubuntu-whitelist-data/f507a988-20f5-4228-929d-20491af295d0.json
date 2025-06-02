@@ -1,0 +1,17 @@
+{
+  "uuid": "f507a988-20f5-4228-929d-20491af295d0",
+  "path": "/lib/x86_64-linux-gnu/samba/libcli-smb-common-samba4.so.0",
+  "size": 215344,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.041635817Z",
+  "sha256_hash": "c869f62a26571856ce7783734cea0be8c1247c30af3fe17b547ad0064aaf3856",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.500442568Z"
+}

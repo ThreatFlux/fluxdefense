@@ -1,0 +1,17 @@
+{
+  "uuid": "cd5525e0-e8bf-4265-a65e-ecebe69f3804",
+  "path": "/usr/lib/x86_64-linux-gnu/ceph/libceph-common.so.2",
+  "size": 12023168,
+  "modified": "2024-12-18T13:32:15Z",
+  "created": "2025-05-09T05:56:51.586619617Z",
+  "sha256_hash": "9b584c7999f61f58ff839cfe6ccec881bb24ee8910368ee34a5765cbf3b9662b",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.803685957Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a24c667b-45b2-42d3-9c67-6ca831299d3a",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/include/limits.h",
+  "size": 6399,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.245389810Z",
+  "sha256_hash": "1c6beac959e966424f81278b354d035bf354c735bb6cffa35ef2c42f6c899ff8",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.918257114Z"
+}

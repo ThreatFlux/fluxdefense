@@ -1,0 +1,15 @@
+{
+  "uuid": "c4b85dc9-c282-44ba-ae87-ff2dd98d42a1",
+  "path": "/sbin/drsnoop-bpfcc",
+  "size": 6889,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "1d5784408b87eb50977fd1022d6d6813c671d6d5a510bc762561e63fa546b3e8",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.667453047Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b7005a0f-82af-459d-ab9c-1a72f6714481",
+  "path": "/lib/systemd/system/systemd-initctl.service",
+  "size": 578,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "7f41a09b8f5c478a4542ff8d7abbe42916e5db993cc4d5d5ab0191a831fdf86d",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.112426812Z"
+}

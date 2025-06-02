@@ -1,0 +1,17 @@
+{
+  "uuid": "c446b5ba-355b-49b1-9000-8cf65e39610e",
+  "path": "/lib/x86_64-linux-gnu/libmd.so.0.1.0",
+  "size": 55536,
+  "modified": "2024-10-02T12:40:50Z",
+  "created": "2025-05-09T05:07:31.344722750Z",
+  "sha256_hash": "423e18586b6ea740f4465afd64f7a9a4cb7264ed979c8e7256f9085af5345fef",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.377843912Z"
+}

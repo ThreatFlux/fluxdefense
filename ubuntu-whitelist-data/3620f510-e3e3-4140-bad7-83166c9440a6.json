@@ -1,0 +1,17 @@
+{
+  "uuid": "3620f510-e3e3-4140-bad7-83166c9440a6",
+  "path": "/lib/systemd/system/fwupd-refresh.service",
+  "size": 485,
+  "modified": "2025-03-25T17:48:06Z",
+  "created": "2025-05-09T05:24:28.639976146Z",
+  "sha256_hash": "835e7c291761c247d3cd5c64652b768c6a7fdc7cc72fea1bf70fc92e4cb3cfd5",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.108017506Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "0c07c03a-4506-48ab-af12-0629439c5680",
+  "path": "/lib/firmware/intel/sof-tplg/sof-rpl-rt711-l0.tplg.zst",
+  "size": 1264,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.060490953Z",
+  "sha256_hash": "eb1c6f15d69be519e9f95498720a1e0d9e6b871f5e9e7cf26c4d560f1d270d89",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.219918796Z"
+}

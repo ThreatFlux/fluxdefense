@@ -1,0 +1,17 @@
+{
+  "uuid": "f48bd2f2-40f7-4b33-badc-955903a41613",
+  "path": "/lib/systemd/network/80-wifi-adhoc.network",
+  "size": 730,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.510779317Z",
+  "sha256_hash": "aa71be2da3f812279540c36b4e6f613c0794b489393452ab86352e9d05d27a94",
+  "file_type": {
+    "Other": "network"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.195540055Z"
+}

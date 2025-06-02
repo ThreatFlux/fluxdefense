@@ -1,0 +1,17 @@
+{
+  "uuid": "20a70c82-7d37-4d55-99cf-63f8fa3c54c1",
+  "path": "/lib/x86_64-linux-gnu/libfftw3.so.3.6.10",
+  "size": 2234448,
+  "modified": "2024-03-31T00:58:26Z",
+  "created": "2025-05-09T05:09:26.199969905Z",
+  "sha256_hash": "b5cc02c4d360b5b20111cb0a251f8368af8c9ce3145357f5ba54c51ac4ca9b35",
+  "file_type": {
+    "Other": "10"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.275577457Z"
+}

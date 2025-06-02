@@ -1,0 +1,17 @@
+{
+  "uuid": "40c28f22-a763-4e0b-b0a2-501fd3e18d31",
+  "path": "/usr/lib/firmware/qcom/a630_sqe.fw.zst",
+  "size": 16156,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.969535759Z",
+  "sha256_hash": "88977815051fd39a183328334db81c7e32470385969efeb78178698af1eebfec",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.029579339Z"
+}

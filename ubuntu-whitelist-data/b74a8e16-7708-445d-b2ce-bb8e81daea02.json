@@ -1,0 +1,17 @@
+{
+  "uuid": "b74a8e16-7708-445d-b2ce-bb8e81daea02",
+  "path": "/usr/lib/firmware/qca/crnv32u.bin.zst",
+  "size": 2346,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.966535801Z",
+  "sha256_hash": "c41bec4ceeb65949188a43e5f9b418e23e9f55a3285b606ef0ba839482ca18f6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.452686789Z"
+}

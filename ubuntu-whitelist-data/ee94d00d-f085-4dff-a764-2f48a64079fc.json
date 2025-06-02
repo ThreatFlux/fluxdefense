@@ -1,0 +1,17 @@
+{
+  "uuid": "ee94d00d-f085-4dff-a764-2f48a64079fc",
+  "path": "/lib/firmware/intel/sof/sof-byt.ldc.zst",
+  "size": 8582,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.046491166Z",
+  "sha256_hash": "afe6214406f1d899bd2377f17bd6e165aeb7d845c9059aeece1f4dca3b43cfdf",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.060122220Z"
+}

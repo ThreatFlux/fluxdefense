@@ -1,0 +1,17 @@
+{
+  "uuid": "dbdf4fb1-c353-4f1a-939a-7dfe24d67d23",
+  "path": "/lib/x86_64-linux-gnu/samba/libmsghdr-samba4.so.0",
+  "size": 14568,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.063635481Z",
+  "sha256_hash": "57de3c85ea2bd1dc0adc2f97d368679d19d3398bfb9f321c4b2576288867bcd4",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.509695267Z"
+}

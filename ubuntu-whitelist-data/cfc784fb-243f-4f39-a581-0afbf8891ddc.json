@@ -1,0 +1,15 @@
+{
+  "uuid": "cfc784fb-243f-4f39-a581-0afbf8891ddc",
+  "path": "/usr/lib/x86_64-linux-gnu/colord-plugins/libcolord_sensor_scanner.so",
+  "size": 14480,
+  "modified": "2024-03-31T07:30:41Z",
+  "created": "2025-05-09T05:07:35.183664169Z",
+  "sha256_hash": "83ec409a98fad0daf3a8bcd6d7fecfa3bfe2ee64db5b8f84da0890c0ce76ebbb",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.125850356Z"
+}

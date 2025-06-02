@@ -1,0 +1,15 @@
+{
+  "uuid": "7a5f0d17-f59a-4642-a6f8-e6cda0b9e378",
+  "path": "/usr/sbin/e2fsck",
+  "size": 373080,
+  "modified": "2024-04-28T23:44:46Z",
+  "created": "2025-05-09T05:07:38.187618329Z",
+  "sha256_hash": "c69c6315f602d389821b3a1dab1308618616259400f2cf5d997243c4a83c284c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.583368912Z"
+}

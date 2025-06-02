@@ -1,0 +1,17 @@
+{
+  "uuid": "7314ee8f-23b3-454c-b526-9520fb04e21c",
+  "path": "/lib/llvm-18/include/clang/Lex/PreprocessorLexer.h",
+  "size": 6282,
+  "modified": "2023-12-09T22:26:51Z",
+  "created": "2025-05-12T13:34:31.544533384Z",
+  "sha256_hash": "f69f04831ba646ef2b87c58906e7a39764f970c4dd60b98514d6304859bd6033",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.176256530Z"
+}

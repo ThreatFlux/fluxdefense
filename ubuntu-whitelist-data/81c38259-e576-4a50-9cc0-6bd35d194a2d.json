@@ -1,0 +1,17 @@
+{
+  "uuid": "81c38259-e576-4a50-9cc0-6bd35d194a2d",
+  "path": "/lib/firmware/rtlwifi/rtl8192eu_nic.bin.zst",
+  "size": 20040,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.068534388Z",
+  "sha256_hash": "b2e6870448009b498d84e7be803e5fe7986ce7f42d67e373c1efd6d41ac20520",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.478296711Z"
+}

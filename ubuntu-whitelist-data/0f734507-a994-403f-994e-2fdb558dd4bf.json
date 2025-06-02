@@ -1,0 +1,17 @@
+{
+  "uuid": "0f734507-a994-403f-994e-2fdb558dd4bf",
+  "path": "/usr/lib/llvm-18/include/clang/AST/ASTContext.h",
+  "size": 140276,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.510533832Z",
+  "sha256_hash": "062980e63fb3d33b1ec1e49eac30f5ab9c4f23876e0631c0ea3c6f22039b2932",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.346898256Z"
+}

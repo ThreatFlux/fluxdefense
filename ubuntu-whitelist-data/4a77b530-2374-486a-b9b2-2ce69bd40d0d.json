@@ -1,0 +1,15 @@
+{
+  "uuid": "4a77b530-2374-486a-b9b2-2ce69bd40d0d",
+  "path": "/bin/gtk-query-settings",
+  "size": 14648,
+  "modified": "2025-01-27T19:56:56Z",
+  "created": "2025-05-09T05:24:30.289997996Z",
+  "sha256_hash": "77a243ca1a1c3b755809fb2ef6f6545ab48a183baf64da1ba92e70f1ce94dec8",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:18.955481493Z"
+}

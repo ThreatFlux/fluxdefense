@@ -1,0 +1,15 @@
+{
+  "uuid": "1a12a337-eb1c-4a17-b5ca-15d2737e59dd",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/libhwasan.a",
+  "size": 1146496,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.260389487Z",
+  "sha256_hash": "1fc7282bd797f3406a51ac622685def61ff6e2b2f83cc0e6203617a38a1b7885",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.589572983Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "dcaa8b2e-283b-47cd-a7a4-d774939916d3",
+  "path": "/usr/lib/tmpfiles.d/debian.conf",
+  "size": 615,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.527779534Z",
+  "sha256_hash": "d22fb3deb9b5683bacd5947d15e73140710caa0af4e530ff59fe5b6d80a82bd0",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.133572489Z"
+}

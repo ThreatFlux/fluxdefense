@@ -1,0 +1,17 @@
+{
+  "uuid": "f21c1246-f4b9-40b5-92ca-c8ef8ced0a67",
+  "path": "/usr/lib/x86_64-linux-gnu/libabsl_synchronization.so.20220623.0.0",
+  "size": 59800,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.941492393Z",
+  "sha256_hash": "91d691623fd231670ca8f0b8d7c784f04e6e14a7a36284b508da9189a495d416",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.290451688Z"
+}

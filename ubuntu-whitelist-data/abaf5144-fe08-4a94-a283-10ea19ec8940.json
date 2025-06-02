@@ -1,0 +1,17 @@
+{
+  "uuid": "abaf5144-fe08-4a94-a283-10ea19ec8940",
+  "path": "/usr/lib/llvm-18/include/clang/Sema/AttrTemplateInstantiate.inc",
+  "size": 81382,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.547533344Z",
+  "sha256_hash": "66fd55d8d151f3f76165c61e0dde1df28cedbf7e791ec1411b87b7cd1dc94cf6",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.473787020Z"
+}

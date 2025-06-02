@@ -1,0 +1,17 @@
+{
+  "uuid": "cd75fc23-cd03-49d3-9e6e-d8b518816696",
+  "path": "/lib/firmware/ath11k/WCN6855/hw2.0/m3.bin.zst",
+  "size": 116906,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.470542671Z",
+  "sha256_hash": "7769d18f26c025008221702e6884c9225f375db46d3e584e20223e33728376ec",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:03.397499509Z"
+}

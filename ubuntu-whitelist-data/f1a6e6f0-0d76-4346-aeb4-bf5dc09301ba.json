@@ -1,0 +1,15 @@
+{
+  "uuid": "f1a6e6f0-0d76-4346-aeb4-bf5dc09301ba",
+  "path": "/usr/lib/x86_64-linux-gnu/libselinux.a",
+  "size": 401632,
+  "modified": "2024-10-02T12:40:52Z",
+  "created": "2025-05-13T14:30:45.616488181Z",
+  "sha256_hash": "186c9b31d1617497845dbf9fc5c22581107d276b0bfd1c78951e18539feade79",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.745695675Z"
+}

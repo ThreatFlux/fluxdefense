@@ -1,0 +1,17 @@
+{
+  "uuid": "83cf450e-ac41-45b1-aed5-9e243bf838cf",
+  "path": "/usr/bin/gst-play-1.0",
+  "size": 51608,
+  "modified": "2024-12-17T13:24:56Z",
+  "created": "2025-05-09T05:07:19.874897775Z",
+  "sha256_hash": "54f5d1ea6b4a38813cc37cbc3e3ff697771b21840061e59bce6c437e7b8ac814",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.863693079Z"
+}

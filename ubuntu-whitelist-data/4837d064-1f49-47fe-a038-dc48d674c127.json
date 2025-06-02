@@ -1,0 +1,17 @@
+{
+  "uuid": "4837d064-1f49-47fe-a038-dc48d674c127",
+  "path": "/usr/lib/x86_64-linux-gnu/librevenge-generators-0.0.so.0.0.5",
+  "size": 396424,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:32.064711764Z",
+  "sha256_hash": "21fd76eb047035ccf3679def8980e681b3ffc3e45b31674e5a6851aa7cef50f9",
+  "file_type": {
+    "Other": "5"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.396517523Z"
+}

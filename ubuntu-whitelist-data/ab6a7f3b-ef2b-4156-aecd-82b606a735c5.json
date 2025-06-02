@@ -1,0 +1,15 @@
+{
+  "uuid": "ab6a7f3b-ef2b-4156-aecd-82b606a735c5",
+  "path": "/usr/lib/x86_64-linux-gnu/colord-sensors/libcolord_sensor_dummy.so",
+  "size": 14328,
+  "modified": "2024-03-31T07:30:41Z",
+  "created": "2025-05-09T05:07:35.183664169Z",
+  "sha256_hash": "2d65125edc53078556e769584c8d45da7d8ae07bd067fdafa97f3ee132e8d6a9",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:26.340248387Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "b2c0e44c-daab-43f6-8af0-fb7829a9a06e",
+  "path": "/usr/bin/brltty-hid",
+  "size": 252672,
+  "modified": "2024-03-31T00:24:15Z",
+  "created": "2025-05-09T05:07:18.995911188Z",
+  "sha256_hash": "647bcff5d43fdb20fb285a47f3df88cf1209408e4bff2ea31de03d60791b01a1",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.699961808Z"
+}

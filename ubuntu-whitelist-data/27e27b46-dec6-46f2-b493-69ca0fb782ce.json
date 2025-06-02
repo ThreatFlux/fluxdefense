@@ -1,0 +1,17 @@
+{
+  "uuid": "27e27b46-dec6-46f2-b493-69ca0fb782ce",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/UnhandledExceptionAtNewCheck.h",
+  "size": 1385,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "518e379da195a55e3c957bbb1c0519e04650207d049b44733337715f65c599c9",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.236611079Z"
+}

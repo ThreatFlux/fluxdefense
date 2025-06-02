@@ -1,0 +1,17 @@
+{
+  "uuid": "24799cd4-a3f1-43de-beb9-064ad485961b",
+  "path": "/lib/systemd/system/systemd-udevd.service.d/syscall-architecture.conf",
+  "size": 251,
+  "modified": "2025-02-20T15:25:51Z",
+  "created": "2025-05-09T05:24:14.044786143Z",
+  "sha256_hash": "12cee2f58288f5b89b28d2f56ef29f6b13c58edad7d3c723ecb6cb0702f236e3",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.128500498Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "1b1a2d30-f098-42e0-9666-2ea12a44a19e",
+  "path": "/lib/i386-linux-gnu/libgcc_s.so.1",
+  "size": 222888,
+  "modified": "2024-09-09T13:21:53Z",
+  "created": "2025-05-09T05:09:45.989667857Z",
+  "sha256_hash": "c94b2fdf0002ae096de2b35f20413b9e18a19ad8a0e00a2d2e2ff6d2ab12d345",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.217265365Z"
+}

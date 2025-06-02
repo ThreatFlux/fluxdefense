@@ -1,0 +1,17 @@
+{
+  "uuid": "167d9b95-3990-4f5f-ba17-09a779a2f0d9",
+  "path": "/usr/lib/systemd/system/sys-kernel-config.mount",
+  "size": 1111,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "77aafcff4ba921b19189f7ee070bc3e6a990e434f9b1b1111525a40dbe2956ce",
+  "file_type": {
+    "Other": "mount"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.479401Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "fa426f26-e044-463c-bb5e-009287713bd2",
+  "path": "/lib/systemd/catalog/systemd.hr.catalog",
+  "size": 9890,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.509779304Z",
+  "sha256_hash": "140b4d0377773d9f16386487069bfd4a79d554d60d79216e65db642d0b44988a",
+  "file_type": {
+    "Other": "catalog"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.186695314Z"
+}

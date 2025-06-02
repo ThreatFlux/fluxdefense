@@ -1,0 +1,17 @@
+{
+  "uuid": "534ae60e-5e42-4f78-8872-34d144aa72e6",
+  "path": "/lib/x86_64-linux-gnu/libsamdb.so.0.0.1",
+  "size": 117752,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:32.118710940Z",
+  "sha256_hash": "188614f86455ea34723dc9759a7a006511dccf4085fb4dc31de9e8361be1de96",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.808729410Z"
+}

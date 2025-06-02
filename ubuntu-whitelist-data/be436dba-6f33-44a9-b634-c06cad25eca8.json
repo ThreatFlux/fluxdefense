@@ -1,0 +1,17 @@
+{
+  "uuid": "be436dba-6f33-44a9-b634-c06cad25eca8",
+  "path": "/usr/lib/x86_64-linux-gnu/libI810XvMC.so.1.0.0",
+  "size": 51880,
+  "modified": "2024-04-08T16:23:40Z",
+  "created": "2025-05-09T05:07:28.453766866Z",
+  "sha256_hash": "e5945f86a972ae002f1d125e38a5794abd709114b677173462d38b4322ac977c",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.603202880Z"
+}

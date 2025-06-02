@@ -1,0 +1,17 @@
+{
+  "uuid": "79cbb6d6-0b43-4cb6-a17a-73d1e25f15f4",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/google/AvoidUnderscoreInGoogletestNameCheck.h",
+  "size": 1359,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "fb260e7e70fdc63f7e02e03ef04328c6e331bca29179201434a66fe4e3521458",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.273685265Z"
+}

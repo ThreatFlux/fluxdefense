@@ -1,0 +1,15 @@
+{
+  "uuid": "5ce64dfe-07f5-44bc-a70a-fba4eef249f0",
+  "path": "/lib/x86_64-linux-gnu/tracker-miners-3.0/extract-modules/libextract-xps.so",
+  "size": 35048,
+  "modified": "2024-03-31T17:20:13Z",
+  "created": "2025-05-09T05:07:37.309631727Z",
+  "sha256_hash": "b32f814c57d6c0158812d8841978721d454024da00b0a0c078d504dc43636777",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.705895538Z"
+}

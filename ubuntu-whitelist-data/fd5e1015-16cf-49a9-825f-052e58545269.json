@@ -1,0 +1,17 @@
+{
+  "uuid": "fd5e1015-16cf-49a9-825f-052e58545269",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/ExceptionSpecificationType.h",
+  "size": 2725,
+  "modified": "2023-07-21T07:23:00Z",
+  "created": "2025-05-12T13:34:31.530533568Z",
+  "sha256_hash": "133a5b5c43872db689763bfcae6eb9bf55060fd22c51a8b2e9348a3df40b15c4",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.600551543Z"
+}

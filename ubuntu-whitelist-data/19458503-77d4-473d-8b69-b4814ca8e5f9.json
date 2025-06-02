@@ -1,0 +1,15 @@
+{
+  "uuid": "19458503-77d4-473d-8b69-b4814ca8e5f9",
+  "path": "/usr/lib/llvm-18/lib/libLLVMFrontendHLSL.a",
+  "size": 7230,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.879463126Z",
+  "sha256_hash": "c670ace66a6c7f4c3853c60524f85867684679b4609af8f83655d03a8d356106",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.029312304Z"
+}

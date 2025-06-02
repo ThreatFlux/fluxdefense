@@ -1,0 +1,17 @@
+{
+  "uuid": "c1891206-f8ba-42a3-b36d-102922966190",
+  "path": "/lib/x86_64-linux-gnu/samba/libauthn-policy-util-samba4.so.0",
+  "size": 26928,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.040635832Z",
+  "sha256_hash": "f4b0f9d14e82fceba8a1eb99be83f63509be44b1dc176e06d449a43078ddab14",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.494755971Z"
+}

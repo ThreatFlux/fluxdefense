@@ -1,0 +1,17 @@
+{
+  "uuid": "73cafa7c-bb23-48fc-ad0e-68935e96f5fb",
+  "path": "/lib/libreoffice/program/pagein-calc",
+  "size": 24,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:05.282457553Z",
+  "sha256_hash": "3f9ff3206b9a754efa447bdabcf07ae5e03ba43739608999a11ca1c8dfafcf8b",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:50.410155291Z"
+}

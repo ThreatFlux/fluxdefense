@@ -1,0 +1,17 @@
+{
+  "uuid": "fd0f9b35-a94e-44af-83bc-82b4667f0fb4",
+  "path": "/usr/lib/aspell/en_AU-variant_0.multi",
+  "size": 83,
+  "modified": "2020-12-08T01:19:37Z",
+  "created": "2025-05-09T05:07:21.014880380Z",
+  "sha256_hash": "2c80c547688ed7903661469be3bea3cd88c051a5e8b337d9a853024af3db8cbd",
+  "file_type": {
+    "Other": "multi"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.287206991Z"
+}

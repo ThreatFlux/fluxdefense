@@ -1,0 +1,15 @@
+{
+  "uuid": "8752e4b3-d9c3-4468-8e6a-6a10f8cb186a",
+  "path": "/bin/grub-mknetdir",
+  "size": 440088,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.595711711Z",
+  "sha256_hash": "9beb9522ebffe2cfcd38fc30a619879ef2e3d82c7f427101ddffee51e95fd416",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.875159569Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "0f73c0a7-9314-4643-b30c-3ee86a2fcf09",
+  "path": "/usr/lib/ubuntu-advantage/postinst-migrations.sh",
+  "size": 3617,
+  "modified": "2025-02-19T15:13:27Z",
+  "created": "2025-05-09T05:24:25.028928571Z",
+  "sha256_hash": "1b777b2e447f7f2a5487e1819a572a8aa183918868cc5576420215114e45d49e",
+  "file_type": "Script",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.348615976Z"
+}

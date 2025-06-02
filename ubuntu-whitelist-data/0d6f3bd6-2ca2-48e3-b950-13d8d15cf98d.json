@@ -1,0 +1,17 @@
+{
+  "uuid": "0d6f3bd6-2ca2-48e3-b950-13d8d15cf98d",
+  "path": "/usr/lib/x86_64-linux-gnu/libraw1394.so.11.1.0",
+  "size": 63808,
+  "modified": "2024-04-08T16:06:42Z",
+  "created": "2025-05-09T05:07:32.053711932Z",
+  "sha256_hash": "a0e47be08f2eaf5775e1f249a8bbd77577304b8bf88350c74f9061f282234393",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.503965153Z"
+}

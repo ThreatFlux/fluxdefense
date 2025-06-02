@@ -1,0 +1,17 @@
+{
+  "uuid": "81e84c48-4f5d-408e-9e00-51a6e3a1b5e7",
+  "path": "/usr/lib/grub/x86_64-efi/net.mod",
+  "size": 137568,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.837708018Z",
+  "sha256_hash": "e3911bcf4d4715f924302a03f9f80853ca4f070e45b9df2dfe0ecce2faf68d32",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.600324017Z"
+}

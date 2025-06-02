@@ -1,0 +1,15 @@
+{
+  "uuid": "cfd74aa7-4ab5-415a-a5de-488375529a01",
+  "path": "/usr/lib/x86_64-linux-gnu/engines-3/afalg.so",
+  "size": 22976,
+  "modified": "2025-02-05T13:17:43Z",
+  "created": "2025-05-09T05:10:59.224550023Z",
+  "sha256_hash": "3fa6578a1a104a4a27abe60d9168ae1eb390562b6d6020d180d5f7320cb3db38",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.846921107Z"
+}

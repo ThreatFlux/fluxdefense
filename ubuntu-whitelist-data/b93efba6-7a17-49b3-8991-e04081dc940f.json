@@ -1,0 +1,17 @@
+{
+  "uuid": "b93efba6-7a17-49b3-8991-e04081dc940f",
+  "path": "/usr/lib/firmware/amdgpu/yellow_carp_sdma.bin.zst",
+  "size": 11148,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.427543266Z",
+  "sha256_hash": "547e03245d634adea4b965d98dd5bf6805cb79f44c9c40b271a6c60093771925",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.839527717Z"
+}

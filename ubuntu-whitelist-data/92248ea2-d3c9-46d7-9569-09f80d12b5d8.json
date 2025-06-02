@@ -1,0 +1,17 @@
+{
+  "uuid": "92248ea2-d3c9-46d7-9569-09f80d12b5d8",
+  "path": "/usr/lib/blt2.5/pkgIndex.tcl",
+  "size": 1822,
+  "modified": "2024-04-08T15:54:39Z",
+  "created": "2025-05-28T17:29:44.079603140Z",
+  "sha256_hash": "6e2288f589bdc0520cceaef8d181aaf99fd744c4494e460b6e3a6c4653dd9a33",
+  "file_type": {
+    "Other": "tcl"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.370373886Z"
+}

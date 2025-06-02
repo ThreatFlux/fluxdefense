@@ -1,0 +1,17 @@
+{
+  "uuid": "30d876aa-a08c-4daa-95e3-295b4b33ab25",
+  "path": "/lib/x86_64-linux-gnu/libiscsi.so.7.0.0",
+  "size": 178832,
+  "modified": "2024-03-31T19:07:34Z",
+  "created": "2025-05-09T05:56:50.943626839Z",
+  "sha256_hash": "951c96ff27de00b2670cf8317730bf2d62172b055dd83dba70f6675a0f83941e",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.978065805Z"
+}

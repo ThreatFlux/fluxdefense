@@ -1,0 +1,15 @@
+{
+  "uuid": "a25c19c9-1f5f-442a-99ef-3652dadc1e7e",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/rsa/asn1.py",
+  "size": 1740,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.096942743Z",
+  "sha256_hash": "7d93e81dd555fbc11165a70633a59ada95b6977177d4782119fa93f6a21fb3d6",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.620641961Z"
+}

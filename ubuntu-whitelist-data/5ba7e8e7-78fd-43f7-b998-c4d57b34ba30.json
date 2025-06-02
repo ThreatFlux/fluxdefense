@@ -1,0 +1,17 @@
+{
+  "uuid": "5ba7e8e7-78fd-43f7-b998-c4d57b34ba30",
+  "path": "/lib/x86_64-linux-gnu/libmpeg2convert.so.0.0.0",
+  "size": 31120,
+  "modified": "2024-04-18T17:49:35Z",
+  "created": "2025-05-09T05:09:27.441950949Z",
+  "sha256_hash": "f32ecd989940f0de4222a225cda279ced75cf82d4506cec4bb49ef803e9389a0",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.576848330Z"
+}

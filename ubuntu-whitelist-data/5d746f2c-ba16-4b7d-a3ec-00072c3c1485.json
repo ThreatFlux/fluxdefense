@@ -1,0 +1,17 @@
+{
+  "uuid": "5d746f2c-ba16-4b7d-a3ec-00072c3c1485",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h",
+  "size": 13735,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.246389788Z",
+  "sha256_hash": "9efc696d6c7eb8bb1831b149c6a92f88a775809cd63e4007312b617915f81188",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.925384609Z"
+}

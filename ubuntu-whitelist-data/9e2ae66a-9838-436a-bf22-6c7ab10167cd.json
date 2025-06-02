@@ -1,0 +1,15 @@
+{
+  "uuid": "9e2ae66a-9838-436a-bf22-6c7ab10167cd",
+  "path": "/lib/google-cloud-sdk/lib/third_party/boto3/__init__.py",
+  "size": 3340,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.118942369Z",
+  "sha256_hash": "f4409f1f221d01b831862c1aef690c1572b071ad2a21ea6da32dab383099f90d",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.959149587Z"
+}

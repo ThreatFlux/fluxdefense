@@ -1,0 +1,15 @@
+{
+  "uuid": "93e0bfa9-4d2f-40c5-b822-8fc243dee24d",
+  "path": "/lib/x86_64-linux-gnu/device-mapper/libdevmapper-event-lvm2mirror.so",
+  "size": 14560,
+  "modified": "2024-11-27T19:06:49Z",
+  "created": "2025-05-09T05:56:47.944660527Z",
+  "sha256_hash": "7cd4db13034af983e30b843e27563ef64d3c1bc16c517447aef148eafdf9d0f5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.864010983Z"
+}

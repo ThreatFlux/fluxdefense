@@ -1,0 +1,15 @@
+{
+  "uuid": "f0c69fc0-4c99-47cd-b295-11b64fbd5875",
+  "path": "/usr/lib/systemd/systemd-executor",
+  "size": 137792,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.517779406Z",
+  "sha256_hash": "c112cf6f19d6711b2d31025597e524950efb23d93ca6d393243a1e310687499a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.424313601Z"
+}

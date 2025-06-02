@@ -1,0 +1,17 @@
+{
+  "uuid": "e1202e0d-bc6e-484f-bbd6-323732e22982",
+  "path": "/lib/firmware/airoha/EthMD32.dm.bin.zst",
+  "size": 636,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.385543848Z",
+  "sha256_hash": "40b2d65bdd3cc90cab81f624ca9b3f44eca13cfca6fa8fa39fe29f04cd8ab667",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:01.753522826Z"
+}

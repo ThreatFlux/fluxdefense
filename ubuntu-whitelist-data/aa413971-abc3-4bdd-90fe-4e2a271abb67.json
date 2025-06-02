@@ -1,0 +1,15 @@
+{
+  "uuid": "aa413971-abc3-4bdd-90fe-4e2a271abb67",
+  "path": "/bin/chrt",
+  "size": 31104,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:19.102909555Z",
+  "sha256_hash": "06c1102020e408539d18f948c9565c0ed11a4b34afdd8ee0f9bf5a65b64f515a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.938617497Z"
+}

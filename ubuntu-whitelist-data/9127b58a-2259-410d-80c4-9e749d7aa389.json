@@ -1,0 +1,15 @@
+{
+  "uuid": "9127b58a-2259-410d-80c4-9e749d7aa389",
+  "path": "/usr/lib/x86_64-linux-gnu/plymouth/label-pango.so",
+  "size": 23240,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:27.323958769Z",
+  "sha256_hash": "168d425411384e5bcbb83bd17eae663ba994a8c8b35af947b32077621bc88724",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.017751450Z"
+}

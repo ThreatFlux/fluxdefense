@@ -1,0 +1,17 @@
+{
+  "uuid": "5aa449c9-1414-4b5d-8d51-eab0d1261d7a",
+  "path": "/usr/lib/systemd/system/ubuntu-advantage.service",
+  "size": 1612,
+  "modified": "2025-02-19T15:13:27Z",
+  "created": "2025-05-09T05:24:25.022928493Z",
+  "sha256_hash": "30708eea0adfbd42d9122218e59318552ba7392077bc1763df0207be595bdd20",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.459432690Z"
+}

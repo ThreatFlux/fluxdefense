@@ -1,0 +1,15 @@
+{
+  "uuid": "44692cdc-e5d0-45b6-8082-f60b2dd33ef1",
+  "path": "/usr/bin/cloud-init",
+  "size": 976,
+  "modified": "2025-04-02T15:09:15Z",
+  "created": "2025-05-09T05:24:33.233037137Z",
+  "sha256_hash": "0768be84d0f918538f984817b0a330d04156b40527c09c325a2ccc14721d871a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:11.848545915Z"
+}

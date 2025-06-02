@@ -1,0 +1,17 @@
+{
+  "uuid": "f5697387-fbb6-41c3-b573-8dcacff92897",
+  "path": "/usr/lib/systemd/system/gpu-manager.service",
+  "size": 332,
+  "modified": "2024-08-22T12:25:17Z",
+  "created": "2025-05-09T05:07:28.299769216Z",
+  "sha256_hash": "b6cc69b7a56ec1d29687d88bf36dde9930579e86dbc5208cf9747a68ac194591",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.478337191Z"
+}

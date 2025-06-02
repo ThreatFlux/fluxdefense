@@ -1,0 +1,17 @@
+{
+  "uuid": "bf048a62-0963-474d-8d45-285db05f05ed",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-osinte.ali",
+  "size": 21730,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.140343912Z",
+  "sha256_hash": "6f7ee6b7938d1d64bb7a36d259d25f59f08e3d8447939f918daad74a6772c899",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.693813533Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "ddc31408-189d-4eab-a47a-150f1b91a45b",
+  "path": "/usr/lib/x86_64-linux-gnu/libasyncns.so.0.3.1",
+  "size": 26616,
+  "modified": "2024-04-08T16:01:40Z",
+  "created": "2025-05-09T05:07:29.180755772Z",
+  "sha256_hash": "47618619d79ea314f12905b3fff430916123df4a12602a5c40dd3679cf675521",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.504450385Z"
+}

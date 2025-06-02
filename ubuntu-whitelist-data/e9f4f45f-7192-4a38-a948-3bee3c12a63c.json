@@ -1,0 +1,15 @@
+{
+  "uuid": "e9f4f45f-7192-4a38-a948-3bee3c12a63c",
+  "path": "/bin/gpgtar",
+  "size": 69456,
+  "modified": "2025-03-28T15:23:49Z",
+  "created": "2025-05-09T05:11:23.297182567Z",
+  "sha256_hash": "e16cfd1cbe93d03ff43fe2386f585b691e3494e13a1ebfeb9ad34ab9461d426f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.818327775Z"
+}

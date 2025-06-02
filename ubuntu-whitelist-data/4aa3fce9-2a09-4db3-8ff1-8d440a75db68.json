@@ -1,0 +1,15 @@
+{
+  "uuid": "4aa3fce9-2a09-4db3-8ff1-8d440a75db68",
+  "path": "/sbin/ntfsclone",
+  "size": 51592,
+  "modified": "2024-04-08T14:46:29Z",
+  "created": "2025-05-09T05:07:38.370615536Z",
+  "sha256_hash": "5b59dc2565fb99b4ac12bd2021c2f95003b9490fec58fc4cfbf39b1458f4d59d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.042277434Z"
+}

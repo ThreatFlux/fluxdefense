@@ -1,0 +1,17 @@
+{
+  "uuid": "0fcd77ce-5f4b-44ad-b206-e82119804dfc",
+  "path": "/usr/lib/firmware/qed/qed_init_values_zipped-8.33.1.0.bin.zst",
+  "size": 575883,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.052534609Z",
+  "sha256_hash": "4cfa6af7124c93a63b5c741331d82b043de125fc239431e332e084c637e5d3b7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.462811383Z"
+}

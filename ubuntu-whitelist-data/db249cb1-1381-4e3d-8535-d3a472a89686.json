@@ -1,0 +1,15 @@
+{
+  "uuid": "db249cb1-1381-4e3d-8535-d3a472a89686",
+  "path": "/usr/lib/llvm-18/bin/llvm-mca",
+  "size": 229152,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.061487070Z",
+  "sha256_hash": "8cefd92358db270eca203de93d56529770292a28344ab03b565821fb0b6addbb",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:27.098318606Z"
+}

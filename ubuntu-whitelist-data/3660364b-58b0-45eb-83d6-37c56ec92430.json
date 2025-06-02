@@ -1,0 +1,15 @@
+{
+  "uuid": "3660364b-58b0-45eb-83d6-37c56ec92430",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_multiport.so",
+  "size": 19448,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.335631330Z",
+  "sha256_hash": "a8231e0c9276b2fd099017d968cbaf4f36b1a135a8e7a7e7c84dd87018c85a39",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.684619352Z"
+}

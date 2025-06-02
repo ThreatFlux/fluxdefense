@@ -1,0 +1,17 @@
+{
+  "uuid": "60e22213-d647-4cd4-9db6-28914d3ed990",
+  "path": "/lib/firmware/amdgpu/verde_pfp.bin.zst",
+  "size": 2839,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.427543266Z",
+  "sha256_hash": "9aec4bb9e8c65c97a4e2ed79200e27577030ef313a575f95054ef23bcc5cde01",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.132935577Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "2233dba6-0869-4133-92d5-984d0ba3e577",
+  "path": "/lib/google-cloud-sdk/.install/alpha.snapshot.json",
+  "size": 891,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.314922053Z",
+  "sha256_hash": "c6e6fc6c08b800a1b8ecc3aea959fdc474fdb703c1bbbc9935dd363d4455a860",
+  "file_type": {
+    "Other": "json"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.943913365Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "5e35fad6-5472-4729-a669-9a8118b33e2e",
+  "path": "/usr/lib/firmware/amdgpu/pitcairn_pfp.bin.zst",
+  "size": 2797,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.408543530Z",
+  "sha256_hash": "d2c781dbf31637050d973979d26072aeaa4d1ce6ba392941b99fd82621ca5b76",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.971318900Z"
+}

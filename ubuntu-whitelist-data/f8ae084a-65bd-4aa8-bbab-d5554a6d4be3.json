@@ -1,0 +1,17 @@
+{
+  "uuid": "f8ae084a-65bd-4aa8-bbab-d5554a6d4be3",
+  "path": "/usr/lib/x86_64-linux-gnu/libnvidia-opencl.so.550.144.03",
+  "size": 23613128,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:00.375908047Z",
+  "sha256_hash": "360d4feba1cff163e895c500406aed18d89656055a420436f3fc952e69fc5187",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.420524569Z"
+}

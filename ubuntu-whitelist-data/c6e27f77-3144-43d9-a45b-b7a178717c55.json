@@ -1,0 +1,15 @@
+{
+  "uuid": "c6e27f77-3144-43d9-a45b-b7a178717c55",
+  "path": "/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-fallback-sink.so",
+  "size": 18704,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.780860075Z",
+  "sha256_hash": "6e0f6141dc49f9e6d6dd1441993c2c4a2b1149011120607c02bd74b164b83630",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.902432939Z"
+}

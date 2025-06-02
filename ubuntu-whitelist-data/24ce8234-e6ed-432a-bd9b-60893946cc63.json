@@ -1,0 +1,17 @@
+{
+  "uuid": "24ce8234-e6ed-432a-bd9b-60893946cc63",
+  "path": "/usr/lib/grub/x86_64-efi/diskfilter.mod",
+  "size": 13424,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.803708536Z",
+  "sha256_hash": "af169af9e155e562ac7d7c83b89d6253bb301ffb62b36a4282a7e909d4cf4655",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.478762612Z"
+}

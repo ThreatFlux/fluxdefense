@@ -1,0 +1,15 @@
+{
+  "uuid": "78956531-d43c-4a21-b78c-4f5ca91fd7d6",
+  "path": "/usr/lib/brltty/libbrlttybvo.so",
+  "size": 30792,
+  "modified": "2024-03-31T00:24:15Z",
+  "created": "2025-05-09T05:07:21.028880166Z",
+  "sha256_hash": "64eef158cadbaa8bd4b28e48f686b8a2422836e246f84c08451a8f2f34b26380",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.260637677Z"
+}

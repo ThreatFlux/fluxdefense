@@ -1,0 +1,17 @@
+{
+  "uuid": "f1ddd806-b126-4a99-a847-997301a303cf",
+  "path": "/usr/lib/systemd/system/virtlogd.service",
+  "size": 3960,
+  "modified": "2025-03-13T16:25:50Z",
+  "created": "2025-05-20T14:31:33.305811285Z",
+  "sha256_hash": "a034383143fb98f1c99492643fe60cd444c8993fcde233c991256f36a8a5ef25",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.476763925Z"
+}

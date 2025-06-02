@@ -1,0 +1,15 @@
+{
+  "uuid": "846424d5-5ebf-4f9e-8adc-b1c9332e8458",
+  "path": "/usr/lib/libreoffice/program/libldapbe2lo.so",
+  "size": 68880,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:19.850235183Z",
+  "sha256_hash": "a6855e978f64587ef020e7895b26b53045d8b36bb4e47c94afcb2cc22bbeaf54",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:43.317040956Z"
+}

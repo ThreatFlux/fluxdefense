@@ -1,0 +1,15 @@
+{
+  "uuid": "754a75d2-5fdc-4b60-afde-391e9a48afc1",
+  "path": "/usr/sbin/sysctl",
+  "size": 31112,
+  "modified": "2024-09-26T08:44:05Z",
+  "created": "2025-05-09T05:07:38.433614575Z",
+  "sha256_hash": "ad5fff963b13b19537181406b8e785544b31083b86fcbc3565405769f02a6deb",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.736284424Z"
+}

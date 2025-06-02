@@ -1,0 +1,15 @@
+{
+  "uuid": "0bdc2cc8-b3ee-479e-9c42-034ca4acca91",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/config/cc_locale.py",
+  "size": 1221,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.235037163Z",
+  "sha256_hash": "8c5e925678cf2c925dcc0f4bf9882e90740cb1a23e0303ba9706eb7ccfafa5a5",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.846781896Z"
+}

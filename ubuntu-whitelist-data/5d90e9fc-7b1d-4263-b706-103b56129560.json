@@ -1,0 +1,17 @@
+{
+  "uuid": "5d90e9fc-7b1d-4263-b706-103b56129560",
+  "path": "/lib/grub/x86_64-efi/archelp.mod",
+  "size": 4792,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.801708567Z",
+  "sha256_hash": "245993bc89f57028c5faf942e2976817ea7d13d27e8703373722066eb66e10bf",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.015221611Z"
+}

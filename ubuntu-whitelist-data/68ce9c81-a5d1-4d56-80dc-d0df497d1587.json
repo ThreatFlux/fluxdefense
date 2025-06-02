@@ -1,0 +1,17 @@
+{
+  "uuid": "68ce9c81-a5d1-4d56-80dc-d0df497d1587",
+  "path": "/usr/lib/grub/x86_64-efi/offsetio.mod",
+  "size": 2320,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.837708018Z",
+  "sha256_hash": "3a2c30bc665fc0c4316bb3ba8c23dcbf01b094552a0cbbbab8cb445b65c3d3e9",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.604547853Z"
+}

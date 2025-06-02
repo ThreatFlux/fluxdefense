@@ -1,0 +1,15 @@
+{
+  "uuid": "3fc3cc5c-a181-4c64-a082-33557b08db1a",
+  "path": "/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-rtp-sap.so",
+  "size": 39184,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.784860128Z",
+  "sha256_hash": "ae294f7100f160eeac239223aefb27bd6ab3bee000ed81a6eec76efec6292708",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.895390482Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "85ce73f2-dcce-472b-bfcc-46d05566b348",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-atopri.adb",
+  "size": 3468,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.074344818Z",
+  "sha256_hash": "187d220d21128fcaaf652045a3cd0dd6f529fc4bb221ab55addc5b42c8cedd75",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.067152086Z"
+}

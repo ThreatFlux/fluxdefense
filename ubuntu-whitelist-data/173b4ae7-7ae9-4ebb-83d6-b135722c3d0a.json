@@ -1,0 +1,17 @@
+{
+  "uuid": "173b4ae7-7ae9-4ebb-83d6-b135722c3d0a",
+  "path": "/usr/lib/firmware/radeon/RS690_cp.bin.zst",
+  "size": 738,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "4437df899f6a820809e1c874e1f2bbc32f5ee5ae37df8e22bbeec3ed460f2f29",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.391856069Z"
+}

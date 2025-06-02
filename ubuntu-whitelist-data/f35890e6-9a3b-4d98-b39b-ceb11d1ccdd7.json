@@ -1,0 +1,17 @@
+{
+  "uuid": "f35890e6-9a3b-4d98-b39b-ceb11d1ccdd7",
+  "path": "/lib/grub/x86_64-efi/efi_uga.mod",
+  "size": 7040,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.803708536Z",
+  "sha256_hash": "2cbc096b1b28671b8f26f37325380a2195bcd89dc0a586fe5f6693defcb8c113",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.143030595Z"
+}

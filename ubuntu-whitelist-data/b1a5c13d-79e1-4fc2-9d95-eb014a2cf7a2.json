@@ -1,0 +1,17 @@
+{
+  "uuid": "b1a5c13d-79e1-4fc2-9d95-eb014a2cf7a2",
+  "path": "/usr/lib/x86_64-linux-gnu/libOpenGL.so.0.0.0",
+  "size": 174392,
+  "modified": "2024-04-08T16:04:01Z",
+  "created": "2025-05-09T05:07:29.048757786Z",
+  "sha256_hash": "9a0a6024499300f918ef1b42d581427cdb20bbc17a7d8239a4b7434833a98d4a",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:22.212378800Z"
+}

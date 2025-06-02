@@ -1,0 +1,15 @@
+{
+  "uuid": "cc0de1c4-f9bf-4b91-9332-159272000332",
+  "path": "/usr/lib/x86_64-linux-gnu/gtk-2.0/2.10.0/engines/libpixmap.so",
+  "size": 43640,
+  "modified": "2024-07-15T16:53:59Z",
+  "created": "2025-05-09T05:07:35.796654815Z",
+  "sha256_hash": "a497f52861482be23f2a1a26997680570e597e22892554de4f02f9da741202f8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.305479156Z"
+}

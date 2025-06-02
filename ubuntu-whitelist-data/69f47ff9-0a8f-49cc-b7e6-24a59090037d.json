@@ -1,0 +1,17 @@
+{
+  "uuid": "69f47ff9-0a8f-49cc-b7e6-24a59090037d",
+  "path": "/lib/firmware/nvidia/gp102/gr/sw_ctx.bin.zst",
+  "size": 1190,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.939536174Z",
+  "sha256_hash": "50f208fc6bf7d6335f9af4363a41e09f7dfcd5f1b50bb571fb0873c27a450ebf",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.437623934Z"
+}

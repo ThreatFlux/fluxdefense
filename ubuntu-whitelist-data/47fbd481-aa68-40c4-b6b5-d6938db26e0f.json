@@ -1,0 +1,15 @@
+{
+  "uuid": "47fbd481-aa68-40c4-b6b5-d6938db26e0f",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/kms/asymmetric_decrypt.py",
+  "size": 5049,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.760931462Z",
+  "sha256_hash": "665ce7ec2e58f37680446e9faed198f48411d7a186dbb441e2b06308ca02afe4",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.838688622Z"
+}

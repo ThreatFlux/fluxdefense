@@ -1,0 +1,17 @@
+{
+  "uuid": "53d8875f-cb15-497d-85c7-7e3c324d1345",
+  "path": "/lib/x86_64-linux-gnu/perl5/5.38/HTML/Filter.pm",
+  "size": 2662,
+  "modified": "2023-01-31T03:12:33Z",
+  "created": "2025-05-09T05:07:36.877638319Z",
+  "sha256_hash": "6ba5fca6f9a7532e59d72715308d7244c0b4471482a6565536db39b71c9ea9cc",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.335757669Z"
+}

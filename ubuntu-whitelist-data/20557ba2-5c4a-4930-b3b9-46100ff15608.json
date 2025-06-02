@@ -1,0 +1,17 @@
+{
+  "uuid": "20557ba2-5c4a-4930-b3b9-46100ff15608",
+  "path": "/usr/lib/llvm-18/include/clang/AST/BaseSubobject.h",
+  "size": 2804,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.515533766Z",
+  "sha256_hash": "625875fc4b10ad9dec430f23426494f1e2492dee676116fe0e6e0b0bd912fa68",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.393348180Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "ca1d2c17-316a-4b34-8a88-5a653a9a892b",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/idna/core.py",
+  "size": 12663,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.111942489Z",
+  "sha256_hash": "972869a1edafba511a07feb9c615e6a0a80efb152a143bdcc31bb986934d3b81",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.570588314Z"
+}

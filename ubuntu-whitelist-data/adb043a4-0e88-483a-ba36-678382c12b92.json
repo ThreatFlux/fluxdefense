@@ -1,0 +1,17 @@
+{
+  "uuid": "adb043a4-0e88-483a-ba36-678382c12b92",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-crc32.ali",
+  "size": 1528,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.137343953Z",
+  "sha256_hash": "d6978572cce5011afb792262db182ea89a045156f7b3e3a46f3593a619e2ae6e",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.696916194Z"
+}

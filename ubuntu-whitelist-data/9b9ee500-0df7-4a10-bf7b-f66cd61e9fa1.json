@@ -1,0 +1,17 @@
+{
+  "uuid": "9b9ee500-0df7-4a10-bf7b-f66cd61e9fa1",
+  "path": "/usr/lib/firmware/mrvl/cpt03/se.out.zst",
+  "size": 31394,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.792538211Z",
+  "sha256_hash": "3cf2c3468a463e3420507170d9fa7e9389dc4ce4bad5d939312ad104b2bc8b02",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.389151220Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "9d576f6a-bcf4-4916-a114-40a71e56a30c",
+  "path": "/usr/lib/systemd/systemd-user-runtime-dir",
+  "size": 22904,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.525779508Z",
+  "sha256_hash": "e061ea080e82810fbbf47007d1eb94b8207bd92c06fb6225feb77464b5db92e9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.484966271Z"
+}

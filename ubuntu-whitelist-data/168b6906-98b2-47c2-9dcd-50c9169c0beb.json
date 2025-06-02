@@ -1,0 +1,15 @@
+{
+  "uuid": "168b6906-98b2-47c2-9dcd-50c9169c0beb",
+  "path": "/usr/bin/rstartd",
+  "size": 1469,
+  "modified": "2024-03-31T17:26:54Z",
+  "created": "2025-05-09T05:07:20.393889856Z",
+  "sha256_hash": "5cea5a131bcf06f53c3c5e0bd73836c29accba1a95e97376d38b6ca624176a71",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:05.802614379Z"
+}

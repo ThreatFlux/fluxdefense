@@ -1,0 +1,17 @@
+{
+  "uuid": "6d3ed5b0-d298-462c-a1b9-6ff36f3ae4da",
+  "path": "/usr/lib/sysctl.d/50-pid-max.conf",
+  "size": 649,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.509779304Z",
+  "sha256_hash": "a8917a1218bf2809643c2f3931f794ac6d4edfd6da28b250526f9bf11f34f1fd",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.666492474Z"
+}

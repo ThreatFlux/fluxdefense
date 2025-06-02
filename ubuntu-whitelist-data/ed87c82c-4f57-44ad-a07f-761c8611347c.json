@@ -1,0 +1,17 @@
+{
+  "uuid": "ed87c82c-4f57-44ad-a07f-761c8611347c",
+  "path": "/lib/systemd/systemd-logind",
+  "size": 285264,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.518779419Z",
+  "sha256_hash": "6cec09c1722aeee58be53a0a8530067854bb877f416a0e89ee1b713eb0e38362",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.084814730Z"
+}

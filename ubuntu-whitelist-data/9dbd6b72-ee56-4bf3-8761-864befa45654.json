@@ -1,0 +1,15 @@
+{
+  "uuid": "9dbd6b72-ee56-4bf3-8761-864befa45654",
+  "path": "/sbin/shmsnoop-bpfcc",
+  "size": 7985,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "10b4ec80e90d845e07aef6b5117a7d303cab09cab2cd1886b748ca8304f7024c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.171456408Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "02306cce-4b14-43b5-a493-f9f3524c2029",
+  "path": "/usr/lib/firmware/ath11k/QCN9074/hw1.0/board-2.bin.zst",
+  "size": 25656,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.463542768Z",
+  "sha256_hash": "a654b8f274b85382e3e2a14b6ed8bdd69febb17e4a6e74d8a2172aafd085f090",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:58.028480667Z"
+}

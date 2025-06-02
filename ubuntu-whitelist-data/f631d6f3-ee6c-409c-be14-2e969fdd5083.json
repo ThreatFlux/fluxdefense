@@ -1,0 +1,17 @@
+{
+  "uuid": "f631d6f3-ee6c-409c-be14-2e969fdd5083",
+  "path": "/lib/llvm-18/include/clang/AST/Mangle.h",
+  "size": 12633,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.518533726Z",
+  "sha256_hash": "17d2a312dbd602e9355a86124bcece48dcc7815913dedb8826c5a7e75d2339cd",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.012798674Z"
+}

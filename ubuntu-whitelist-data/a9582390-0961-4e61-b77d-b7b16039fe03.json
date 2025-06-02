@@ -1,0 +1,15 @@
+{
+  "uuid": "a9582390-0961-4e61-b77d-b7b16039fe03",
+  "path": "/lib/python3/dist-packages/apport_python_hook.py",
+  "size": 8695,
+  "modified": "2024-04-18T12:31:35Z",
+  "created": "2025-05-30T21:04:51.640610632Z",
+  "sha256_hash": "2aac4de740babcc6038483cccc7fa71f7f06405da9b9d102aafe8ac55f509c4b",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.714593762Z"
+}

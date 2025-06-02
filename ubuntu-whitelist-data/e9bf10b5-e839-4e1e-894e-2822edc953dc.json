@@ -1,0 +1,17 @@
+{
+  "uuid": "e9bf10b5-e839-4e1e-894e-2822edc953dc",
+  "path": "/usr/sbin/capable.bt",
+  "size": 1926,
+  "modified": "2024-03-07T22:14:52Z",
+  "created": "2025-05-09T05:08:51.885493624Z",
+  "sha256_hash": "6fcd88d83cfefeed30585714bc07fcc5a335a01d260083894ed71dcc0cc82ac4",
+  "file_type": {
+    "Other": "bt"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.482449449Z"
+}

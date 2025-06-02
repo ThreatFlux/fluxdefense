@@ -1,0 +1,17 @@
+{
+  "uuid": "988fa439-c5ad-4cae-be41-c16287090863",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/g-comlin.ali",
+  "size": 64252,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.107344365Z",
+  "sha256_hash": "a143a5ec6d1bcecb5b97c5106f085a9ca25eee156ccedf6bbca0fc9c7f12eec3",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.703348318Z"
+}

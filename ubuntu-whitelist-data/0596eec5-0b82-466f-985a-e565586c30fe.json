@@ -1,0 +1,17 @@
+{
+  "uuid": "0596eec5-0b82-466f-985a-e565586c30fe",
+  "path": "/usr/lib/x86_64-linux-gnu/ldscripts/elf32_x86_64.xse",
+  "size": 9817,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:52.047575395Z",
+  "sha256_hash": "37bfa97c03bbd166152c0854bbbebcacc3b233b508b9afb6b21f9d24989c5f62",
+  "file_type": {
+    "Other": "xse"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.420917824Z"
+}

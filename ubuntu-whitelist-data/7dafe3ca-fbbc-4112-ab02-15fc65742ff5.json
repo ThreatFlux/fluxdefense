@@ -1,0 +1,17 @@
+{
+  "uuid": "7dafe3ca-fbbc-4112-ab02-15fc65742ff5",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/libva-wayland.pc",
+  "size": 325,
+  "modified": "2024-04-18T17:47:47Z",
+  "created": "2025-05-12T13:47:40.269133370Z",
+  "sha256_hash": "a13b50c60f30e2796c609e7d45aca04598ebe8344ec79ec5378d631863cb6a4a",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.066329707Z"
+}

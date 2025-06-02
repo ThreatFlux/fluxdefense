@@ -1,0 +1,17 @@
+{
+  "uuid": "04e32cef-4aa7-42d4-ae7c-62a1c849dccf",
+  "path": "/lib/command-not-found",
+  "size": 3565,
+  "modified": "2023-01-20T13:39:07Z",
+  "created": "2025-05-09T05:07:20.991880731Z",
+  "sha256_hash": "b2d4d981695818a00bf0b137f12e128a22d20ebf52b7614f933d03fb0475bc34",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.846306193Z"
+}

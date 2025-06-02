@@ -1,0 +1,17 @@
+{
+  "uuid": "a891b59e-2892-439d-b55c-efd7b061d7bb",
+  "path": "/lib/firmware/nvidia/tu116/gr/sw_nonctx.bin.zst",
+  "size": 885,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.960535884Z",
+  "sha256_hash": "e1b0ffae3d1b6d0161d664ed52dff36247f48b9c8ac9cf983b418921bc6d3175",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.429886910Z"
+}

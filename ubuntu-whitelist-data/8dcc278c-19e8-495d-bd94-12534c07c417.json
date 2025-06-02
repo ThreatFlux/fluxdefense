@@ -1,0 +1,15 @@
+{
+  "uuid": "8dcc278c-19e8-495d-bd94-12534c07c417",
+  "path": "/usr/bin/ldapwhoami",
+  "size": 63952,
+  "modified": "2024-12-09T02:50:18Z",
+  "created": "2025-05-09T05:24:29.624989181Z",
+  "sha256_hash": "22384708a59dbe375ffe4dbac324343970b7850effa24faa9d1675162780da54",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.016953243Z"
+}

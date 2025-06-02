@@ -1,0 +1,17 @@
+{
+  "uuid": "04b4c4e2-bbb0-44cc-8f50-7cd4cec4f8c9",
+  "path": "/lib/x86_64-linux-gnu/libpci.so.3.10.0",
+  "size": 81048,
+  "modified": "2024-04-08T16:15:21Z",
+  "created": "2025-05-09T05:07:31.787715991Z",
+  "sha256_hash": "255e8554ca27ab99c2bdec02e746dd653b10e3afd30b12e41106bc89767daf5b",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.284835576Z"
+}

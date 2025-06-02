@@ -1,0 +1,17 @@
+{
+  "uuid": "ddf92b5d-4efc-4708-89f1-75ba98817041",
+  "path": "/lib/linux-hwe-6.11-tools-6.11.0-26/turbostat",
+  "size": 188808,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:32:03.170293970Z",
+  "sha256_hash": "973afa38363777d1493cc46e2cbcae86828effe1aec40bef8e7cdbe523fd8549",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.450313127Z"
+}

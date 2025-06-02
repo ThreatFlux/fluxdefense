@@ -1,0 +1,15 @@
+{
+  "uuid": "3d371f1e-8434-4720-af16-288a71d6a912",
+  "path": "/bin/xauth",
+  "size": 56280,
+  "modified": "2024-04-08T16:22:21Z",
+  "created": "2025-05-09T05:07:20.905882043Z",
+  "sha256_hash": "ffcb5f569bf9fce94cbf37f5d61790d463508c6122511a5f4c6e280d3633086e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.987961996Z"
+}

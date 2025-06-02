@@ -1,0 +1,17 @@
+{
+  "uuid": "c5ef25a6-d4b2-4888-9751-3b1ab06b4201",
+  "path": "/lib/firmware/amdgpu/dimgrey_cavefish_ce.bin.zst",
+  "size": 4413,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.392543751Z",
+  "sha256_hash": "272772ca8732ea068b0339de1ae4138110c02a7eba0ab041d0f72ed83e0a4d89",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.090042280Z"
+}

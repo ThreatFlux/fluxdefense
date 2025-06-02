@@ -1,0 +1,17 @@
+{
+  "uuid": "1d5fd61f-446a-474a-99b2-e1ad85379065",
+  "path": "/usr/lib/systemd/catalog/systemd.da.catalog",
+  "size": 7667,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.509779304Z",
+  "sha256_hash": "13c3bd7fb6f78972c1f0b82406740049eea3278e1e4669149baa2efbc387b15f",
+  "file_type": {
+    "Other": "catalog"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.548665216Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "5ca69a0b-e7b3-4944-b2c7-9e1f61153fd5",
+  "path": "/usr/lib/python3.12/test/xmltestdata/c14n-20/c14nPrefix.xml",
+  "size": 257,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.053550961Z",
+  "sha256_hash": "362fb07ee5bf510fe71e8bf50123f0e4bae212655ada2e5140d65b4b3f206585",
+  "file_type": {
+    "Other": "xml"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.748250777Z"
+}

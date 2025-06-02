@@ -1,0 +1,17 @@
+{
+  "uuid": "8096e87e-344c-4460-bf48-31f4282688d8",
+  "path": "/lib/grub/x86_64-efi/acpi.mod",
+  "size": 16080,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.800708582Z",
+  "sha256_hash": "32c41e0db29ae6b06280c621a71e92a67d67f1e825e63d3ff24197ba02a1da8e",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.143663917Z"
+}

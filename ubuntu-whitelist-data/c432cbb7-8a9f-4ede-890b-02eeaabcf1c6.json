@@ -1,0 +1,17 @@
+{
+  "uuid": "c432cbb7-8a9f-4ede-890b-02eeaabcf1c6",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/modernize/ReturnBracedInitListCheck.h",
+  "size": 1523,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "e901105212c7bfeb6d32558385904d1f46f64781cf1328e3114b0e9c09ab87e8",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.258994321Z"
+}

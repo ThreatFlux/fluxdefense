@@ -1,0 +1,17 @@
+{
+  "uuid": "c9938b46-2318-4675-8e57-f9e9bd777d13",
+  "path": "/usr/lib/firmware/qcom/qrb4210/cdsp.mbn.zst",
+  "size": 952883,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.005535261Z",
+  "sha256_hash": "9c8e88e97148b51736edb7e1cca7fda7b2bcb08d033d63b8a072964f88ac4ab9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.227930869Z"
+}

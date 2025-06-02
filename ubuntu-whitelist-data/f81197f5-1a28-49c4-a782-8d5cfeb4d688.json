@@ -1,0 +1,17 @@
+{
+  "uuid": "f81197f5-1a28-49c4-a782-8d5cfeb4d688",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/xv.pc",
+  "size": 257,
+  "modified": "2024-04-08T16:10:30Z",
+  "created": "2025-05-29T11:16:28.454752029Z",
+  "sha256_hash": "3f9ab3890f0ff8fdd5c924ffad1a35320434b4437ae5e906cee5a093223b66ab",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.054968196Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "60c01138-6be9-4b1a-bfc3-d6a46687c963",
+  "path": "/bin/nvidia-powerd",
+  "size": 229888,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:03.411986421Z",
+  "sha256_hash": "70cedea5152262f79c327162756fbbafb68d08d7868a6011d630aecc993aec35",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.645296481Z"
+}

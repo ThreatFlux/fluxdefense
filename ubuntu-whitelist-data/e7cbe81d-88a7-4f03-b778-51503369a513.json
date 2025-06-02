@@ -1,0 +1,17 @@
+{
+  "uuid": "e7cbe81d-88a7-4f03-b778-51503369a513",
+  "path": "/lib/x86_64-linux-gnu/libsuitesparseconfig.so.7.6.1",
+  "size": 14512,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:32.213709490Z",
+  "sha256_hash": "e1619265d8ad8e3f04902aebc2e415c5c3f1f9d0595fb948f29c60218a334679",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:32.436915781Z"
+}

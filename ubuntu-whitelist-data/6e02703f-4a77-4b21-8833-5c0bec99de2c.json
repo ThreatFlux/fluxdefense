@@ -1,0 +1,17 @@
+{
+  "uuid": "6e02703f-4a77-4b21-8833-5c0bec99de2c",
+  "path": "/lib/update-notifier/list-oem-metapackages",
+  "size": 1327,
+  "modified": "2024-10-08T13:47:14Z",
+  "created": "2025-05-09T05:24:21.991888836Z",
+  "sha256_hash": "8f5acee376c34a5143ca42e4ad454978f90700844e0eebcf6d658eacc8ec87ce",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.765908206Z"
+}

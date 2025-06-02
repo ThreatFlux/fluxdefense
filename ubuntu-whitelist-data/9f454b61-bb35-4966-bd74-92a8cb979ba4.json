@@ -1,0 +1,17 @@
+{
+  "uuid": "9f454b61-bb35-4966-bd74-92a8cb979ba4",
+  "path": "/usr/lib/x86_64-linux-gnu/libgeocode-glib-2.so.0.0.0",
+  "size": 108616,
+  "modified": "2024-03-31T01:05:30Z",
+  "created": "2025-05-09T05:07:29.795746387Z",
+  "sha256_hash": "351d2e9a1c704fbd77aeb072b38a0e7427b5d6d34cfe4bedb7c71cf5add7d2e0",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.205024948Z"
+}

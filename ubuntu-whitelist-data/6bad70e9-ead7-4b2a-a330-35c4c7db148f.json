@@ -1,0 +1,17 @@
+{
+  "uuid": "6bad70e9-ead7-4b2a-a330-35c4c7db148f",
+  "path": "/usr/lib/firmware/ath10k/WCN3990/hw1.0/firmware-5.bin.zst",
+  "size": 66,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.442543059Z",
+  "sha256_hash": "cc26ed34f4d8c062262d49cc084bb652359fe5730313b0aa2953011f1866ed88",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.988384430Z"
+}

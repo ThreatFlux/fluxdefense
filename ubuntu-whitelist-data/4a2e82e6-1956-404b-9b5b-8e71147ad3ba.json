@@ -1,0 +1,15 @@
+{
+  "uuid": "4a2e82e6-1956-404b-9b5b-8e71147ad3ba",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstid3demux.so",
+  "size": 18768,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.773655166Z",
+  "sha256_hash": "bb395e64387a920b7da379ade6b05966e385aec3f9a68c13ed80d9c1a32c185a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.111297170Z"
+}

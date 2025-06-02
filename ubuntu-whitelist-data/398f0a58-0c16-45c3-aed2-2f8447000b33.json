@@ -1,0 +1,17 @@
+{
+  "uuid": "398f0a58-0c16-45c3-aed2-2f8447000b33",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/de_dict",
+  "size": 68276,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.416660613Z",
+  "sha256_hash": "e9ac048df5cde03b74907d591c7b29b45ee9ec5fcd4592b0b894f0083572fcfd",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.340981401Z"
+}

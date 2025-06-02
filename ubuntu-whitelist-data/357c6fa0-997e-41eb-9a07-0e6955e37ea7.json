@@ -1,0 +1,17 @@
+{
+  "uuid": "357c6fa0-997e-41eb-9a07-0e6955e37ea7",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/SmartPtrArrayMismatchCheck.h",
+  "size": 1860,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "9f935b04279ee798f8b4d971f59c708cb7c677dba3c9978d93d15f3536be26da",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.897613363Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "1189b156-f469-4079-af57-09222815a734",
+  "path": "/usr/lib/firmware/ath10k/QCA9888/hw2.0/board-2.bin.zst",
+  "size": 4329,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.439543100Z",
+  "sha256_hash": "b8ab523727a7a381df3249f7770302bdc2bd368ad7be2dcf998c6f98fbe5d315",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.037982439Z"
+}

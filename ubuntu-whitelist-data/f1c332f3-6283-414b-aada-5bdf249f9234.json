@@ -1,0 +1,17 @@
+{
+  "uuid": "f1c332f3-6283-414b-aada-5bdf249f9234",
+  "path": "/usr/lib/firmware/brcm/brcmfmac43430-sdio.AP6212.txt.zst",
+  "size": 523,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.484542477Z",
+  "sha256_hash": "0bbd600ef62b549a8ef6ac9faeb0234836fd13eaec6f1a34dfecf41d879944a6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.696762403Z"
+}

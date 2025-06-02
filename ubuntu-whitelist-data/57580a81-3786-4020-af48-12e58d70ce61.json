@@ -1,0 +1,17 @@
+{
+  "uuid": "57580a81-3786-4020-af48-12e58d70ce61",
+  "path": "/lib/x86_64-linux-gnu/libkmod.so.2.4.1",
+  "size": 112792,
+  "modified": "2024-10-02T12:40:49Z",
+  "created": "2025-05-09T05:07:31.329722979Z",
+  "sha256_hash": "a1869a5b9d78e067f047751eae7bb3f230228fc06cab8bcef5ad76466682247c",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.146618198Z"
+}

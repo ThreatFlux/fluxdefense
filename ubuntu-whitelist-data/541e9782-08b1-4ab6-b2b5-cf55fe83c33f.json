@@ -1,0 +1,15 @@
+{
+  "uuid": "541e9782-08b1-4ab6-b2b5-cf55fe83c33f",
+  "path": "/usr/sbin/tcpaccept-bpfcc",
+  "size": 9220,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.523499148Z",
+  "sha256_hash": "ffcb75caa21756885d51778304b56b6b98934a0e1ab7d7720a23192c04b6bd56",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.492257080Z"
+}

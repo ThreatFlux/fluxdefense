@@ -1,0 +1,15 @@
+{
+  "uuid": "a702b28f-60dc-421b-8ddc-84fa395ae4cd",
+  "path": "/sbin/pwconv",
+  "size": 47272,
+  "modified": "2024-05-30T14:52:35Z",
+  "created": "2025-05-09T05:07:38.405615002Z",
+  "sha256_hash": "a6d70d0b0b8d505470d34bc7d08d07b75156c9f85a4abf171555c9f7bc5c04d2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.142285202Z"
+}

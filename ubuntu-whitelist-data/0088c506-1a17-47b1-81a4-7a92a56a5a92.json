@@ -1,0 +1,15 @@
+{
+  "uuid": "0088c506-1a17-47b1-81a4-7a92a56a5a92",
+  "path": "/sbin/pam_extrausers_update",
+  "size": 35136,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:38.390615231Z",
+  "sha256_hash": "fe6aed8e5f34994874f47538bdbf86925729e75f798a5264787a18dfaf4a1261",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.766718114Z"
+}

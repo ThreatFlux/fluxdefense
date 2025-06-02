@@ -1,0 +1,17 @@
+{
+  "uuid": "7284eee3-53f5-40d3-9d8c-ce8b218ec518",
+  "path": "/bin/gst-stats-1.0",
+  "size": 35208,
+  "modified": "2024-12-17T12:53:48Z",
+  "created": "2025-05-09T05:07:19.874897775Z",
+  "sha256_hash": "2c41f161bcdbdb5b3d92ca1db9e54ca3dc69ab05fae26577d2bbaa77fc9b10fb",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.531565708Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "2cabc3f3-0c87-4fc8-96d2-1ebe035f4840",
+  "path": "/lib/firmware/radeon/kabini_mec.bin.zst",
+  "size": 8597,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.063534457Z",
+  "sha256_hash": "f0b7058e2278d65230b1d63f0e5fdfd2449cda5900ba8550aea699fd8c9a53cc",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.379268283Z"
+}

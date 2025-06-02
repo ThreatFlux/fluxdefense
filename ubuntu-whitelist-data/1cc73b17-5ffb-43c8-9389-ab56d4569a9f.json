@@ -1,0 +1,17 @@
+{
+  "uuid": "1cc73b17-5ffb-43c8-9389-ab56d4569a9f",
+  "path": "/lib/firmware/intel/sof-tplg/sof-imx8mp-eq-iir-wm8960.tplg.zst",
+  "size": 867,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.060490953Z",
+  "sha256_hash": "99745e801f9f492a18906ca02f6b13800717f3ba69ebc6d9267b19472a867599",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.211225719Z"
+}

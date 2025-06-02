@@ -1,0 +1,17 @@
+{
+  "uuid": "9f5028e0-04ac-4ebd-9af9-0211b685c6eb",
+  "path": "/lib/systemd/system-generators/systemd-integritysetup-generator",
+  "size": 23024,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.516779393Z",
+  "sha256_hash": "247730f26ff2fa283723020ba2c80f91cf816c8794de57018730a115df70039c",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.093461Z"
+}

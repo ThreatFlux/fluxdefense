@@ -1,0 +1,17 @@
+{
+  "uuid": "77d62c17-4d8c-4453-8ee6-80ebc709ae49",
+  "path": "/lib/modules/6.11.0-25-generic/kernel/nvidia-550-open/nvidia-uvm.ko",
+  "size": 3856390,
+  "modified": "2025-04-28T11:37:45Z",
+  "created": "2025-05-09T12:56:03.506988923Z",
+  "sha256_hash": "672d88da0cd59f61de7c0c1632a43cbdd106be7fe0afbae7a13da00238078299",
+  "file_type": {
+    "Other": "ko"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.865627043Z"
+}

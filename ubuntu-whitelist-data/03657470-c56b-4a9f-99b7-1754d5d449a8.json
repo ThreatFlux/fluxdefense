@@ -1,0 +1,17 @@
+{
+  "uuid": "03657470-c56b-4a9f-99b7-1754d5d449a8",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/bits/sigstack.ph",
+  "size": 441,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.557590732Z",
+  "sha256_hash": "0b5d5ed4097d58bf288af30f7a5cf78bda2409beb60616e52f1429c857e8778b",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.592914367Z"
+}

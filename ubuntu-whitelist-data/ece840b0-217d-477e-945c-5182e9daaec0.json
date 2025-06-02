@@ -1,0 +1,15 @@
+{
+  "uuid": "ece840b0-217d-477e-945c-5182e9daaec0",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstvaapi.so",
+  "size": 844496,
+  "modified": "2024-04-10T09:01:34Z",
+  "created": "2025-05-09T05:09:28.348937106Z",
+  "sha256_hash": "e0f15e9377da02b0815a58a64b9b86abc45205862ee478017f8e3523c138a1d1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.214702613Z"
+}

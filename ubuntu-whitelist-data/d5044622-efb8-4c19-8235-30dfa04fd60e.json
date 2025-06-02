@@ -1,0 +1,17 @@
+{
+  "uuid": "d5044622-efb8-4c19-8235-30dfa04fd60e",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-hp3900.so.1.2.1",
+  "size": 452840,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.143634260Z",
+  "sha256_hash": "fccc0f984f950ab3faa3bc83e9b702551f2eeab4ddf7defee4a2c0358e8a8775",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.779028168Z"
+}

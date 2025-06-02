@@ -1,0 +1,17 @@
+{
+  "uuid": "4cb5ddd9-e81d-4562-a50c-6db7a2c89b3c",
+  "path": "/usr/lib/python3.12/test/xmltestdata/c14n-20/out_inNsPushdown_c14nPrefix.xml",
+  "size": 208,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.054550948Z",
+  "sha256_hash": "d90cffd7860587eafa537963bfe7417e610756462eef65bd99acdea9a072b28a",
+  "file_type": {
+    "Other": "xml"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.750178793Z"
+}

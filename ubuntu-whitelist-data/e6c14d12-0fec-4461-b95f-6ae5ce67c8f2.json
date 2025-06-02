@@ -1,0 +1,15 @@
+{
+  "uuid": "e6c14d12-0fec-4461-b95f-6ae5ce67c8f2",
+  "path": "/lib/llvm-18/lib/libLLVMMipsDesc.a",
+  "size": 1097130,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.933462415Z",
+  "sha256_hash": "aa51f9c07f674e7598e0d45a48855623b2014e3e2a93de2c94a5550d4cc52481",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:42.214328184Z"
+}

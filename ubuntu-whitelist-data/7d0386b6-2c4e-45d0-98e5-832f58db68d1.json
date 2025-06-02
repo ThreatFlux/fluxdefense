@@ -1,0 +1,17 @@
+{
+  "uuid": "7d0386b6-2c4e-45d0-98e5-832f58db68d1",
+  "path": "/lib/x86_64-linux-gnu/libatopology.so.2.0.0",
+  "size": 118640,
+  "modified": "2024-03-31T00:17:56Z",
+  "created": "2025-05-09T05:07:29.180755772Z",
+  "sha256_hash": "8f84da50f3347dfc4cb47586c58d82add07a06a5c57f3c99b5f54e89bd18ac85",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.129023709Z"
+}

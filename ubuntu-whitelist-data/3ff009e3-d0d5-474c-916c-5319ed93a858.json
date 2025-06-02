@@ -1,0 +1,17 @@
+{
+  "uuid": "3ff009e3-d0d5-474c-916c-5319ed93a858",
+  "path": "/usr/lib/sysusers.d/fwupd.conf",
+  "size": 58,
+  "modified": "2025-03-25T17:48:06Z",
+  "created": "2025-05-09T05:24:28.639976146Z",
+  "sha256_hash": "b289a72c6eb921bfd57fff5f3ae8dd635a2a06c80853c6902ec19ef868b002d9",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.296546996Z"
+}

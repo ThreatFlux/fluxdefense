@@ -1,0 +1,17 @@
+{
+  "uuid": "28bd86a9-fca4-467f-af61-74b2a1c25e98",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/crypto/algif_hash.ko.zst",
+  "size": 6898,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.077797913Z",
+  "sha256_hash": "306c74522cbd578c7eff8651857240e716cc7cc47a23e5b830450a83ca3c0a23",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.260436623Z"
+}

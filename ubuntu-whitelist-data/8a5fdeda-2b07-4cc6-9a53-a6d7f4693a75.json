@@ -1,0 +1,15 @@
+{
+  "uuid": "8a5fdeda-2b07-4cc6-9a53-a6d7f4693a75",
+  "path": "/bin/pstree",
+  "size": 36168,
+  "modified": "2024-03-31T17:02:29Z",
+  "created": "2025-05-09T05:07:20.320890969Z",
+  "sha256_hash": "0bf1111285e956bc6ced399307f20334607b4d69fc34ae41b397e822cc743cc6",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.934017754Z"
+}

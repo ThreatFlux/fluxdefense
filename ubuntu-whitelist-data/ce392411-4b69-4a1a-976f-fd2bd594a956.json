@@ -1,0 +1,17 @@
+{
+  "uuid": "ce392411-4b69-4a1a-976f-fd2bd594a956",
+  "path": "/lib/firmware/amdgpu/navi10_vcn.bin.zst",
+  "size": 275301,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.404543585Z",
+  "sha256_hash": "b8e083a07507efe9ebabc29d62256428c79bb950a5edb26d63b79e8464f681fe",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.106855825Z"
+}

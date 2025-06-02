@@ -1,0 +1,15 @@
+{
+  "uuid": "9df36d85-91f2-4865-ba6e-98b85e09d0ee",
+  "path": "/usr/lib/google-cloud-sdk/platform/gsutil/gslib/boto_translation.py",
+  "size": 87571,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.849929950Z",
+  "sha256_hash": "8710598435fb82e333a23290f786c2614d59a2df0cb2e2f7201b4f0903710931",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.582551215Z"
+}

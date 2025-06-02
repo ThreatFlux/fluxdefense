@@ -1,0 +1,17 @@
+{
+  "uuid": "92a72c4d-ff8c-4636-8d65-759627164f61",
+  "path": "/lib/x86_64-linux-gnu/libnftnl.so.11.6.0",
+  "size": 203608,
+  "modified": "2024-04-08T16:05:58Z",
+  "created": "2025-05-09T05:07:31.722716982Z",
+  "sha256_hash": "31de1bbd42e0976d6fbde5cc8b805036189506d092dd0964dc8547b2e2ad57e5",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.701727153Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "56c28ddc-d468-49d3-9949-6f96c5c707f9",
+  "path": "/lib/x86_64-linux-gnu/perl-base/Socket.pm",
+  "size": 13865,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.353578582Z",
+  "sha256_hash": "a1a14202b94b5959ddc774e3b90487b15417bed2bfed1b17402f5491f3fd07ea",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.894283102Z"
+}

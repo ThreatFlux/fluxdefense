@@ -1,0 +1,17 @@
+{
+  "uuid": "17e778a3-24dc-4314-bd7a-e8d674657ae0",
+  "path": "/lib/firmware/radeon/SUMO_pfp.bin.zst",
+  "size": 2134,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.062534471Z",
+  "sha256_hash": "ed649458c4463f59a7ee473f5a73c753eae9d22544da63be49ce5825d216ee09",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.388696702Z"
+}

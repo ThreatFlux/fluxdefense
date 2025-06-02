@@ -1,0 +1,17 @@
+{
+  "uuid": "ec449238-d3cc-48b2-b301-927eca08b827",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/g-bubsor.ali",
+  "size": 1392,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.107344365Z",
+  "sha256_hash": "129ed5c8bf24aeebf79f208e22ec80211d35db6ca86a7a4ec1ec58a1217a3b26",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.824043683Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a30f860f-e221-4108-bb66-aa2e8f800607",
+  "path": "/lib/x86_64-linux-gnu/libedataserverui4-1.0.so.0.0.0",
+  "size": 235792,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.365752949Z",
+  "sha256_hash": "d675229d9d4b55d5d89a44c3bd6d035729feeef23f490f66b7f765e4a8e5d8d8",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.157353773Z"
+}

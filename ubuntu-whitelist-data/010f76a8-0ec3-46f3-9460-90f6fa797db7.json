@@ -1,0 +1,17 @@
+{
+  "uuid": "010f76a8-0ec3-46f3-9460-90f6fa797db7",
+  "path": "/usr/lib/udev/rules.d/70-power-switch.rules",
+  "size": 576,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "94d8ca323df93e7a40c06eee31aba4c03d0bd7a719c67675a6eb57eaf16d6452",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.109489412Z"
+}

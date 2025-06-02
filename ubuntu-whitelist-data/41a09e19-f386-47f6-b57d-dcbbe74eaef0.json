@@ -1,0 +1,15 @@
+{
+  "uuid": "41a09e19-f386-47f6-b57d-dcbbe74eaef0",
+  "path": "/lib/python3/dist-packages/DistUpgrade/DistUpgradeApport.py",
+  "size": 5058,
+  "modified": "2025-01-22T19:48:06Z",
+  "created": "2025-05-09T05:07:26.385798422Z",
+  "sha256_hash": "af2245dada1d89e8b87d4aaa5781344fbbd0736873b9003b4be1467261a8139c",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.082326769Z"
+}

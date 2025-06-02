@@ -1,0 +1,17 @@
+{
+  "uuid": "81407716-72c3-4eed-ac61-7eb9a0c1c175",
+  "path": "/usr/lib/firmware/intel/vsc/ivsc_skucfg_himx11b1_0_1.bin.zst",
+  "size": 538,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.578541175Z",
+  "sha256_hash": "b2b5edd591c4586ed5de7b83bd226fdb61935088082d035ac7c2e5c689c2d843",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.977165916Z"
+}

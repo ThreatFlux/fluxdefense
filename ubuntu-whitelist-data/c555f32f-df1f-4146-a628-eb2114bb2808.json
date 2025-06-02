@@ -1,0 +1,17 @@
+{
+  "uuid": "c555f32f-df1f-4146-a628-eb2114bb2808",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-wchcon.ali",
+  "size": 1994,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.146343830Z",
+  "sha256_hash": "bd3d19bafd004f70862af64b503fb0e48dd23d1695495ab3bff3394cf7e689c6",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.485940064Z"
+}

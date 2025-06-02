@@ -1,0 +1,15 @@
+{
+  "uuid": "963c56ac-8751-4333-94f4-e5201e6c8b0d",
+  "path": "/usr/libexec/accounts-daemon",
+  "size": 182712,
+  "modified": "2024-04-03T16:37:38Z",
+  "created": "2025-05-09T05:07:37.405630262Z",
+  "sha256_hash": "d0688cb497e1b47ace9e57a739c7c3864dcef01bf47b1f207b1838f62841d4b7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.503794264Z"
+}

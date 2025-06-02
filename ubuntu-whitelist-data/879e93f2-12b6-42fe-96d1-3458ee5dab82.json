@@ -1,0 +1,17 @@
+{
+  "uuid": "879e93f2-12b6-42fe-96d1-3458ee5dab82",
+  "path": "/usr/lib/firmware/ath9k_htc/htc_7010-1.4.0.fw.zst",
+  "size": 32498,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.475542602Z",
+  "sha256_hash": "c14c12b3d3e20aa03d5af022a4cfd19d7435f1da4a9b193bd93d34535d589483",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.534657690Z"
+}

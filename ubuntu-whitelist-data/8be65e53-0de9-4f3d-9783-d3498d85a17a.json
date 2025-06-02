@@ -1,0 +1,17 @@
+{
+  "uuid": "8be65e53-0de9-4f3d-9783-d3498d85a17a",
+  "path": "/usr/lib/firmware/meson/vdec/g12a_hevc_mmu.bin.zst",
+  "size": 7818,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.790538238Z",
+  "sha256_hash": "34b1db6faa45b86e22ffa60e0a77a12fc39576b309299aa81dc8550a2a6e007a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.495187188Z"
+}

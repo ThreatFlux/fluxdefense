@@ -1,0 +1,17 @@
+{
+  "uuid": "5ef0f3fe-42b8-47aa-81b5-601448db1aeb",
+  "path": "/lib/ipxe/qemu/pxe-eepro100.rom",
+  "size": 92160,
+  "modified": "2024-04-16T21:17:04Z",
+  "created": "2025-05-09T05:56:50.419632725Z",
+  "sha256_hash": "8c1ef1648cabb766e055bf2343a3580892acef6ffab503e41473309cc50cca64",
+  "file_type": {
+    "Other": "rom"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.472538543Z"
+}

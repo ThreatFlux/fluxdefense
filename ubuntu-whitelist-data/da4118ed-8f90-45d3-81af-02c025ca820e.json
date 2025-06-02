@@ -1,0 +1,15 @@
+{
+  "uuid": "da4118ed-8f90-45d3-81af-02c025ca820e",
+  "path": "/usr/lib/update-notifier/update-motd-hwe-eol",
+  "size": 1857,
+  "modified": "2024-10-08T13:47:14Z",
+  "created": "2025-05-09T05:24:21.991888836Z",
+  "sha256_hash": "6a7e3999b9e6de9a0e28e2545a7a6a9ac0ab8152438edfefd7f1ad4d26241f4a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.267510778Z"
+}

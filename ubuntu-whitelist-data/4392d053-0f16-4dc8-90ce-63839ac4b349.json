@@ -1,0 +1,15 @@
+{
+  "uuid": "4392d053-0f16-4dc8-90ce-63839ac4b349",
+  "path": "/lib/python3/dist-packages/cloudinit/distros/opensuse.py",
+  "size": 10201,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.238037203Z",
+  "sha256_hash": "19e429b89eb688c9ec07bb2f8b6bb3443a2f607b2c5ad350a782416049dd6ae6",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.909100373Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "30dcf19e-218f-4cd2-b4c7-6305cbe10ec8",
+  "path": "/lib/x86_64-linux-gnu/samba/libmessages-dgm-samba4.so.0",
+  "size": 55528,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.063635481Z",
+  "sha256_hash": "f73b65bd31305a0f47691cf145a4d0643b4a6e3bc1dcf433b00c2a9e1ce03992",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.493672469Z"
+}

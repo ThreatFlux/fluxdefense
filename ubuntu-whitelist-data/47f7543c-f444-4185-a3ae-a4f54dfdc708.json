@@ -1,0 +1,15 @@
+{
+  "uuid": "47f7543c-f444-4185-a3ae-a4f54dfdc708",
+  "path": "/usr/sbin/rubycalls-bpfcc",
+  "size": 55,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "79442eea2027c210d93029691e8ec734589735f042eb0bf377ee39c2818c70d6",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.164476932Z"
+}

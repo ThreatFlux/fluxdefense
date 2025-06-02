@@ -1,0 +1,17 @@
+{
+  "uuid": "5f10d742-310e-422c-b9a2-147c70c17fc2",
+  "path": "/lib/systemd/user/app.slice",
+  "size": 442,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.526779521Z",
+  "sha256_hash": "2f692ece5b1dd36e8a09cb2cca022ce68cca75bda22a1503c2e98ebd6584001e",
+  "file_type": {
+    "Other": "slice"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.143833403Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "8420a73c-9053-43b9-b154-170387b1aeef",
+  "path": "/lib/i386-linux-gnu/ld-linux.so.2",
+  "size": 213348,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.286663324Z",
+  "sha256_hash": "c66836256f2e12e45a8a6301fae45a1be8224149f5500df250639c277f43e4d4",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:45.044893334Z"
+}

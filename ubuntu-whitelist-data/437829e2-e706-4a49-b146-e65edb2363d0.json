@@ -1,0 +1,15 @@
+{
+  "uuid": "437829e2-e706-4a49-b146-e65edb2363d0",
+  "path": "/lib/x86_64-linux-gnu/eog/plugins/libfullscreen.so",
+  "size": 14480,
+  "modified": "2024-03-31T08:51:33Z",
+  "created": "2025-05-09T05:07:35.364661407Z",
+  "sha256_hash": "fab36a31404618b0f0d42437d1de5bc0532c5818f9749239cbf10cb2b20f1f90",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.762323023Z"
+}

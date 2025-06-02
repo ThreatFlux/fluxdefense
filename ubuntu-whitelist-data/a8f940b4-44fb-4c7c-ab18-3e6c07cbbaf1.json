@@ -1,0 +1,15 @@
+{
+  "uuid": "a8f940b4-44fb-4c7c-ab18-3e6c07cbbaf1",
+  "path": "/usr/lib/x86_64-linux-gnu/libnfsidmap/sss.so",
+  "size": 39864,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:35.872653655Z",
+  "sha256_hash": "1b2e55c6d0bcb240047134bc197271cd45ae62dbd3e47d9feae2efa657798c75",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.747207485Z"
+}

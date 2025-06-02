@@ -1,0 +1,15 @@
+{
+  "uuid": "6f93e15b-fee5-4868-95fd-fec76b55be18",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/reporting/__init__.py",
+  "size": 1576,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.240037230Z",
+  "sha256_hash": "5a8a5f80b9d96c6e86931702860416deb6d656253b25874ae8a0a3537358dc28",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.834809167Z"
+}

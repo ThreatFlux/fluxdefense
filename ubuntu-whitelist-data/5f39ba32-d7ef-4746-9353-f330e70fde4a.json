@@ -1,0 +1,17 @@
+{
+  "uuid": "5f39ba32-d7ef-4746-9353-f330e70fde4a",
+  "path": "/usr/lib/systemd/system/multi-user.target",
+  "size": 540,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "e73d44a251ac878da0ca66ec437e3890345fec9684ff1374c57e012b95266b7f",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.470277841Z"
+}

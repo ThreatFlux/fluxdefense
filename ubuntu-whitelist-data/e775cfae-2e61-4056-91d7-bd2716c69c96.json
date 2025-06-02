@@ -1,0 +1,17 @@
+{
+  "uuid": "e775cfae-2e61-4056-91d7-bd2716c69c96",
+  "path": "/lib/llvm-18/include/clang/AST/DeclNodes.inc",
+  "size": 18111,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.516533752Z",
+  "sha256_hash": "2483b01c7830f79c92279094e33d17c89dab57caa0e54d4d59657df610f19408",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.009401155Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "2d4dbdb9-9fa0-4bca-bb25-ed3f30ca5a91",
+  "path": "/usr/lib/libreoffice/program/libbinaryurplo.so",
+  "size": 206432,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:03.176489700Z",
+  "sha256_hash": "32d0dcef66b1ea782c8a476c31fd9e8d0d4ba0864a6890249620f9c9653b48a7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:43.539555006Z"
+}

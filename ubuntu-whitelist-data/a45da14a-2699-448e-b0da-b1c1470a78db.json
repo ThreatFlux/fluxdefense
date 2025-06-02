@@ -1,0 +1,17 @@
+{
+  "uuid": "a45da14a-2699-448e-b0da-b1c1470a78db",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/include/avx512fp16vlintrin.h",
+  "size": 96479,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.242389875Z",
+  "sha256_hash": "3254770eb028c1b0ffa4ca082febd0e2ff09f2821824fa1539b3ef76dc86e9af",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.907313969Z"
+}

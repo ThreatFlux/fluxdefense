@@ -1,0 +1,17 @@
+{
+  "uuid": "34045463-8bec-445d-b42d-c757e4f21422",
+  "path": "/usr/lib/systemd/system/sockets.target",
+  "size": 409,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "de07df26397e3890db1d52274aa5abeae3ac849aa923fe0d7b4f8652eadb6877",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.470788611Z"
+}

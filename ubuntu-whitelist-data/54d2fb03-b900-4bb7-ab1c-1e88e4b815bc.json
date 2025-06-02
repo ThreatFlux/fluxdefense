@@ -1,0 +1,15 @@
+{
+  "uuid": "54d2fb03-b900-4bb7-ab1c-1e88e4b815bc",
+  "path": "/usr/lib/x86_64-linux-gnu/libXss.a",
+  "size": 9072,
+  "modified": "2024-04-08T16:10:24Z",
+  "created": "2025-05-29T11:16:28.047757614Z",
+  "sha256_hash": "5292b9bc1ea3115022d5ff189f8ede060b042968cd7cf2f09074c2fe67e7cf8c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.094173220Z"
+}

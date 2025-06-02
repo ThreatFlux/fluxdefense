@@ -1,0 +1,17 @@
+{
+  "uuid": "ea6ebb1b-b35b-4861-9a71-ae82fc88e1ec",
+  "path": "/usr/lib/systemd/user/gcr-ssh-agent.socket",
+  "size": 150,
+  "modified": "2024-01-06T09:47:26Z",
+  "created": "2025-05-09T05:07:28.305769124Z",
+  "sha256_hash": "175f9c10bb1c85c68b88a133b026d3eea5811f8ff94e7e16fa26deeb1367f7e9",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.500786655Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "05c75ed9-ddf8-4fd6-a418-aaa4be834254",
+  "path": "/lib/x86_64-linux-gnu/libcue.so.2.2.1",
+  "size": 38912,
+  "modified": "2024-04-08T16:02:12Z",
+  "created": "2025-05-09T05:07:29.256754612Z",
+  "sha256_hash": "06d4805f466662427625682ec3a2d31ee9f1ec9e60dce86996b0aecb5c3da44d",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.909427921Z"
+}

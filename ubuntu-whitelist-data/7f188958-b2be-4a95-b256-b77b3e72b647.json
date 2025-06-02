@@ -1,0 +1,15 @@
+{
+  "uuid": "7f188958-b2be-4a95-b256-b77b3e72b647",
+  "path": "/usr/libexec/docker/cli-plugins/docker-buildx",
+  "size": 94393511,
+  "modified": "2025-05-28T13:29:53Z",
+  "created": "2025-05-29T15:05:44.628310018Z",
+  "sha256_hash": "b9b3c208eeb6fbccac0aa9ab7e1fb27d8e1ce016956b79ec036bb1eca644a631",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:39.613659460Z"
+}

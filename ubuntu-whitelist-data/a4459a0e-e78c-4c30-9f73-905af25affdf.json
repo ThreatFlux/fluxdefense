@@ -1,0 +1,15 @@
+{
+  "uuid": "a4459a0e-e78c-4c30-9f73-905af25affdf",
+  "path": "/usr/lib/x86_64-linux-gnu/sssd/libifp_iface_sync.so",
+  "size": 64056,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:37.240632780Z",
+  "sha256_hash": "399b5a803b697d90a07d5119004bb67b8b27ddf3d814902fbe0e96a912849998",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.018108055Z"
+}

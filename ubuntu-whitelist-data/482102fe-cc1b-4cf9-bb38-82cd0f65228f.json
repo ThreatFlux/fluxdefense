@@ -1,0 +1,17 @@
+{
+  "uuid": "482102fe-cc1b-4cf9-bb38-82cd0f65228f",
+  "path": "/lib/grub/x86_64-efi/serial.mod",
+  "size": 17400,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "046c0ebd56153bd7b0715b575c875fcb215acfe40bbe5505aca1991ae855ca7b",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.139593483Z"
+}

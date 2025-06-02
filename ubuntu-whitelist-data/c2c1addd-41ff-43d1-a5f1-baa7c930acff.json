@@ -1,0 +1,17 @@
+{
+  "uuid": "c2c1addd-41ff-43d1-a5f1-baa7c930acff",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/misc/UnusedAliasDeclsCheck.h",
+  "size": 1306,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "38befd926a6c055556e44f008b493c78b4a536c8e204e3f2139698766d3b554d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.277229878Z"
+}

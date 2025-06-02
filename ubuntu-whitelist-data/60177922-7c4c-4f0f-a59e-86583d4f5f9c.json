@@ -1,0 +1,17 @@
+{
+  "uuid": "60177922-7c4c-4f0f-a59e-86583d4f5f9c",
+  "path": "/lib/llvm-18/include/clang-tidy/modernize/UseEqualsDeleteCheck.h",
+  "size": 1676,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "a17a7b7bc2fc9f6f090be0f9c07b2cf4f5b87658ca257131a4d125a8f29d72cb",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.910616734Z"
+}

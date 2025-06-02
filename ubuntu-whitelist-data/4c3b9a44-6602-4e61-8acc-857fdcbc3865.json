@@ -1,0 +1,17 @@
+{
+  "uuid": "4c3b9a44-6602-4e61-8acc-857fdcbc3865",
+  "path": "/lib/x86_64-linux-gnu/libndp.so.0.2.0",
+  "size": 31080,
+  "modified": "2024-06-07T13:51:53Z",
+  "created": "2025-05-09T05:07:31.649718096Z",
+  "sha256_hash": "d130f7c0c75627b2c590054aa8995eeebc6847d1fbc8fdd257e9e22c16789baa",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:32.446245733Z"
+}

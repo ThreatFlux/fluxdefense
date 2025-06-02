@@ -1,0 +1,17 @@
+{
+  "uuid": "8643d0a1-5e08-4e8f-a55e-6073e7c32730",
+  "path": "/usr/lib/x86_64-linux-gnu/libexiv2.so.0.27.6",
+  "size": 2948720,
+  "modified": "2024-04-08T15:57:19Z",
+  "created": "2025-05-09T05:07:29.413752217Z",
+  "sha256_hash": "496a287aa99336d9a30d261baa6cde85d187884bdce207518e2f23e1d4989f21",
+  "file_type": {
+    "Other": "6"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:30.532133049Z"
+}

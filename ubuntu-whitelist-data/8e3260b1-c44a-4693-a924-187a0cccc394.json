@@ -1,0 +1,15 @@
+{
+  "uuid": "8e3260b1-c44a-4693-a924-187a0cccc394",
+  "path": "/usr/lib/x86_64-linux-gnu/libpciaccess.a",
+  "size": 60208,
+  "modified": "2024-04-08T16:06:29Z",
+  "created": "2025-05-29T11:16:21.025853974Z",
+  "sha256_hash": "f70017ce3e7dbc2d6352f816436c982a3ba721717bb7f3d7842f9ecd748b84c2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.996938224Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "bed1a56e-a573-445f-9844-3745182e22f8",
+  "path": "/lib/x86_64-linux-gnu/libgphoto2_port/0.12.2/usbdiskdirect.so",
+  "size": 14496,
+  "modified": "2024-03-31T02:00:03Z",
+  "created": "2025-05-09T05:07:35.856653899Z",
+  "sha256_hash": "cf30facb1ffee1be1de4c2781d56c02fd74350c825e6fbf84b85627d49d9f193",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.833485688Z"
+}

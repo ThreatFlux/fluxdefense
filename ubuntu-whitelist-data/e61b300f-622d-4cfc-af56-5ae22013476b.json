@@ -1,0 +1,15 @@
+{
+  "uuid": "e61b300f-622d-4cfc-af56-5ae22013476b",
+  "path": "/usr/lib/ubuntu-release-upgrader/check-new-release-gtk",
+  "size": 7179,
+  "modified": "2025-01-31T17:11:23Z",
+  "created": "2025-05-09T05:07:28.309769063Z",
+  "sha256_hash": "6e1e9dbe00ee21bc1e1168e5e4224c41c0c4fef711c886889cc15b7dafc2c921",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.396900418Z"
+}

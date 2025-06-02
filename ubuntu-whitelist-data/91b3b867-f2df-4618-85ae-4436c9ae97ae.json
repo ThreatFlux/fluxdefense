@@ -1,0 +1,17 @@
+{
+  "uuid": "91b3b867-f2df-4618-85ae-4436c9ae97ae",
+  "path": "/lib/firmware/amdgpu/raven2_pfp.bin.zst",
+  "size": 9749,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.414543446Z",
+  "sha256_hash": "6fe79b96e890aca531222c9383bf509991eb3af11106d5253a69a998898f8093",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.894760860Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "be58a90f-4073-4a0f-85e1-2d8226f2e1d5",
+  "path": "/usr/lib/dkms/dkms-autopkgtest",
+  "size": 7804,
+  "modified": "2023-04-27T16:12:51Z",
+  "created": "2025-05-09T06:58:49.102109Z",
+  "sha256_hash": "02e691c2046bb32eb3999366a241ff37deee4442eb045b7dcf9c763bcd9f4c8a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.941636792Z"
+}

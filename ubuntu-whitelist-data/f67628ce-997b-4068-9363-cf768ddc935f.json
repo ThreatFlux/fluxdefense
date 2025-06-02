@@ -1,0 +1,15 @@
+{
+  "uuid": "f67628ce-997b-4068-9363-cf768ddc935f",
+  "path": "/lib/llvm-18/bin/llvm-opt-report",
+  "size": 47872,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.064487031Z",
+  "sha256_hash": "73d192f2f69d04542056045d383a41f4a2f216428568f7d5d2552e934b3d6cb5",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.760271925Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c2b3020d-eaac-40fd-af57-4b86cc99d4b1",
+  "path": "/usr/lib/systemd/portable/profile/trusted/service.conf",
+  "size": 223,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:56:53.645596490Z",
+  "sha256_hash": "61c6c11450c554ac607230782f4175c02388b3eb71a91eae2a36e9352d0754d2",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.546868334Z"
+}

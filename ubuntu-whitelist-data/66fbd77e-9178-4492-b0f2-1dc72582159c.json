@@ -1,0 +1,17 @@
+{
+  "uuid": "66fbd77e-9178-4492-b0f2-1dc72582159c",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-fofi128.ali",
+  "size": 2386,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.138343939Z",
+  "sha256_hash": "9408401437cd8caf6d2ef0d2b93ce2e2c2d0febfc1021d6daad2ff3fb509c834",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.854846624Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "abcd906e-447b-4448-8771-724f55c0ca0c",
+  "path": "/lib/x86_64-linux-gnu/sssd/libsss_simple.so",
+  "size": 31336,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:37.288632047Z",
+  "sha256_hash": "701ea4d45d1fbb3f2835ddeeb465c0ad8f52dbbe0233f06b9d6e5a33ace9b8b6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.842721421Z"
+}

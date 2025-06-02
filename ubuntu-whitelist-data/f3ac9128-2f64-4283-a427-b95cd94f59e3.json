@@ -1,0 +1,15 @@
+{
+  "uuid": "f3ac9128-2f64-4283-a427-b95cd94f59e3",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/IBM278.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.648657073Z",
+  "sha256_hash": "46096e93cb081c0ca949fceaff5cd6a77fa966a2b967457dbeb75ecbc3e1b88e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.553883734Z"
+}

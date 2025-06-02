@@ -1,0 +1,17 @@
+{
+  "uuid": "a7f5f32a-ca84-4e72-aa3d-88916d8abc4f",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/liblab_gamut.pc",
+  "size": 253,
+  "modified": "2024-05-11T18:31:23Z",
+  "created": "2025-05-29T11:16:25.239796147Z",
+  "sha256_hash": "a188028c753fe580d2f404ee50320f7975e110c68e1f312c3e7ac10671d79951",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.055123396Z"
+}

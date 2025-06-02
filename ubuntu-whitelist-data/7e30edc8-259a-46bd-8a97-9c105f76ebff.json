@@ -1,0 +1,17 @@
+{
+  "uuid": "7e30edc8-259a-46bd-8a97-9c105f76ebff",
+  "path": "/lib/x86_64-linux-gnu/liblc3.so.1",
+  "size": 125696,
+  "modified": "2024-03-31T07:51:51Z",
+  "created": "2025-05-09T05:07:31.330722964Z",
+  "sha256_hash": "4c0bbd8ce429a894d0d40c7d10e4c6814e438f37b88fd88a2ddabcb5e5019f94",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.804906022Z"
+}

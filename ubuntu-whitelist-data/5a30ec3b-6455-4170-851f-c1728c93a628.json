@@ -1,0 +1,17 @@
+{
+  "uuid": "5a30ec3b-6455-4170-851f-c1728c93a628",
+  "path": "/lib/firmware/radeon/BONAIRE_vce.bin.zst",
+  "size": 57500,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.059534513Z",
+  "sha256_hash": "335af8f6dc45fe490d6374e34bd3037d79562ced8ce3811b50dde527d3975a91",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.375820711Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "198da3f9-ca0b-4ff2-b933-bf2d82c0102b",
+  "path": "/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-spa-node.so",
+  "size": 76048,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.786860153Z",
+  "sha256_hash": "b16c1a41a069a7dbf142e2547ce7f9fd87c8a4245bf5bc383ec66e1933296b5c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.902171591Z"
+}

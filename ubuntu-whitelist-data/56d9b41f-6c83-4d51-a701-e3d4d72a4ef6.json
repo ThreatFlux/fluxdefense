@@ -1,0 +1,15 @@
+{
+  "uuid": "56d9b41f-6c83-4d51-a701-e3d4d72a4ef6",
+  "path": "/bin/virt-xml",
+  "size": 134,
+  "modified": "2024-08-01T12:18:26Z",
+  "created": "2025-05-09T05:56:59.260533433Z",
+  "sha256_hash": "b7f1e51dacf2006931f908a4a35d280e78a78058c1f669254f81e81b6846b729",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.022311324Z"
+}

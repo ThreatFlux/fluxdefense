@@ -1,0 +1,15 @@
+{
+  "uuid": "de6939ce-289b-4b10-9e5a-968ce37f12b9",
+  "path": "/bin/ssh-import-id-gh",
+  "size": 785,
+  "modified": "2020-12-07T19:19:36Z",
+  "created": "2025-05-09T06:02:56.228534898Z",
+  "sha256_hash": "3aef9c6182e19a0cc24c8563f0a0d8e09c2e37255351787babc6fa1a9038e3d7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.074519264Z"
+}

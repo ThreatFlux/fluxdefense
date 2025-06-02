@@ -1,0 +1,17 @@
+{
+  "uuid": "2144b6a3-d211-4733-b315-af43e49334f9",
+  "path": "/usr/lib/firmware/ath3k-1.fw.zst",
+  "size": 161083,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.474542615Z",
+  "sha256_hash": "7ea937f36df49e463d2e66f2e5d3becdefafcea21c2a57488ac226806a918df5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.535215459Z"
+}

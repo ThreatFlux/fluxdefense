@@ -1,0 +1,15 @@
+{
+  "uuid": "e9fbe20e-c0b9-49bc-abea-286bb9f77781",
+  "path": "/sbin/vdpa",
+  "size": 35392,
+  "modified": "2024-03-31T09:00:13Z",
+  "created": "2025-05-09T05:07:38.458614193Z",
+  "sha256_hash": "c02bb46e329bac35b9d5d74c1ae3a623b59c5cbb54c6ad0d9c239db4ac8c6eff",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.958416248Z"
+}

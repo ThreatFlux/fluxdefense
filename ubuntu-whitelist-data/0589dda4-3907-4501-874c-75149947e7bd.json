@@ -1,0 +1,17 @@
+{
+  "uuid": "0589dda4-3907-4501-874c-75149947e7bd",
+  "path": "/lib/systemd/system/rsync.service",
+  "size": 1030,
+  "modified": "2022-04-11T16:08:11Z",
+  "created": "2025-05-09T05:07:28.300769200Z",
+  "sha256_hash": "2e28030011f157a267bd85c101e6803ba14036844275680776fc81a905ebc4b3",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.124259406Z"
+}

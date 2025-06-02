@@ -1,0 +1,17 @@
+{
+  "uuid": "33bed992-7a9d-412e-95da-ca642bfcb66e",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-tgl-nocodec-hdmi-ssp15.tplg.zst",
+  "size": 1282,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.061490937Z",
+  "sha256_hash": "14045078db779fbe147e6faed397a27ffcdc7f4d690f4054007ea84db2f8bd81",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.871231054Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "335cbfbc-eeb0-4080-8e52-e256972d01b9",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/bits/select2.ph",
+  "size": 521,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.557590732Z",
+  "sha256_hash": "09ca93054012b3687dd10507735db541edc15aac825e862bf876a4e62ac2a864",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.684052063Z"
+}

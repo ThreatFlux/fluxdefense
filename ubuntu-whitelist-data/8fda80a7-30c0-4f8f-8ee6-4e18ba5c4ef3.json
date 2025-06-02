@@ -1,0 +1,15 @@
+{
+  "uuid": "8fda80a7-30c0-4f8f-8ee6-4e18ba5c4ef3",
+  "path": "/bin/x86_64-linux-gnu-size",
+  "size": 31184,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:52.046575410Z",
+  "sha256_hash": "34dbe9202f8275b33dc4d4a1a2f7b6ae08424b74a3814f00878998885d45c93f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.980222321Z"
+}

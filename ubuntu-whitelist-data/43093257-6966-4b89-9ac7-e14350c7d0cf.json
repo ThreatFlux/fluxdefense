@@ -1,0 +1,15 @@
+{
+  "uuid": "43093257-6966-4b89-9ac7-e14350c7d0cf",
+  "path": "/usr/bin/containerd-shim",
+  "size": 6641240,
+  "modified": "2025-03-31T12:35:03Z",
+  "created": "2025-05-09T05:49:09.914887748Z",
+  "sha256_hash": "ca24f511b6e5b7d27b4efe0640a77523a9c969ad5618c4bd21d5f10f8fd6db6f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.310091560Z"
+}

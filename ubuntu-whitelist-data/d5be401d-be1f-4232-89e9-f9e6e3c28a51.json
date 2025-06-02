@@ -1,0 +1,17 @@
+{
+  "uuid": "d5be401d-be1f-4232-89e9-f9e6e3c28a51",
+  "path": "/lib/os-probes/mounted/80minix",
+  "size": 431,
+  "modified": "2023-03-07T13:24:16Z",
+  "created": "2025-05-09T05:07:25.893805930Z",
+  "sha256_hash": "fa139d82e04f7fab5a9d8f1049699c37d7cb7d87fe2f47af9b416535b138ad4d",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.145597454Z"
+}

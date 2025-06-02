@@ -1,0 +1,17 @@
+{
+  "uuid": "e5aa9ff0-c837-4e6f-b82d-09a3154b945c",
+  "path": "/usr/lib/aspell/x86_64-linux-gnu/context-filter.info",
+  "size": 479,
+  "modified": "2024-04-08T15:54:10Z",
+  "created": "2025-05-09T05:07:21.018880319Z",
+  "sha256_hash": "534a915dc12909075c45df8e82fa19ab833238da0d788ed7f47140c346cd8aeb",
+  "file_type": {
+    "Other": "info"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.319520833Z"
+}

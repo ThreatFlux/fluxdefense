@@ -1,0 +1,15 @@
+{
+  "uuid": "d88f19bb-7650-496c-adf0-3ffac444f579",
+  "path": "/lib/gnome-shell/libshell-14.so",
+  "size": 2943488,
+  "modified": "2025-04-14T09:35:20Z",
+  "created": "2025-05-21T14:13:56.578918572Z",
+  "sha256_hash": "b5e532bde2257e675e1d2c51f9401fce256a36cc2e9be4774dbb136d280ad18f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.840719160Z"
+}

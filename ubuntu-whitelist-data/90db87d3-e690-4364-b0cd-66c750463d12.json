@@ -1,0 +1,15 @@
+{
+  "uuid": "90db87d3-e690-4364-b0cd-66c750463d12",
+  "path": "/usr/sbin/cupsaccept",
+  "size": 14648,
+  "modified": "2024-09-26T11:15:36Z",
+  "created": "2025-05-09T05:07:38.145618970Z",
+  "sha256_hash": "d95343c8600b5b854784e859493e1bc97ee2e93a82d78cc1dcbc2cd20d60bca7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.600127051Z"
+}

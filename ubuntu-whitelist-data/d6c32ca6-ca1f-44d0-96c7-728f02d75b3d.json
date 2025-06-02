@@ -1,0 +1,17 @@
+{
+  "uuid": "d6c32ca6-ca1f-44d0-96c7-728f02d75b3d",
+  "path": "/usr/lib/systemd/system/openvpn-server@.service",
+  "size": 836,
+  "modified": "2025-04-01T16:06:17Z",
+  "created": "2025-05-09T05:11:35.246000172Z",
+  "sha256_hash": "f43362a0e33c306e3eb3801b8f74df26a7ca9c6aee177c0158b3831e1cecb918",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.463408124Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "07d0bfc2-0ba5-496b-93e4-0ee6137bbb6e",
+  "path": "/usr/lib/firmware/amdgpu/vcn_3_1_2.bin.zst",
+  "size": 393909,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.420543363Z",
+  "sha256_hash": "2947645635b26bf89d6511754850d1d3cb0f09e566f8185143dc2a50f68ebe9a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.995037374Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "77e5a034-0162-4e20-9e86-8ad60fbc35f7",
+  "path": "/lib/x86_64-linux-gnu/libpolkit-agent-1.so.0.0.0",
+  "size": 51272,
+  "modified": "2024-12-02T11:59:52Z",
+  "created": "2025-05-09T05:07:31.855714953Z",
+  "sha256_hash": "ba84538a2f4201b1a17dc86e1e8d7db4473c372053c832b2997205d0cfd2d4ee",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:18.125038304Z"
+}

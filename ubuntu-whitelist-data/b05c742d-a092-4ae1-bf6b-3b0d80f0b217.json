@@ -1,0 +1,17 @@
+{
+  "uuid": "b05c742d-a092-4ae1-bf6b-3b0d80f0b217",
+  "path": "/lib/x86_64-linux-gnu/libopenjp2.so.2.5.0",
+  "size": 391648,
+  "modified": "2025-01-21T15:27:35Z",
+  "created": "2025-05-09T05:07:31.757716448Z",
+  "sha256_hash": "03098abdd53f3143c8bf114f548febdb6628fe0154a44962ee86e77ab1cadf48",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.512966136Z"
+}

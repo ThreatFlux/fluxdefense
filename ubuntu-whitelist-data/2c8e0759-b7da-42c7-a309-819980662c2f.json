@@ -1,0 +1,15 @@
+{
+  "uuid": "2c8e0759-b7da-42c7-a309-819980662c2f",
+  "path": "/lib/x86_64-linux-gnu/speech-dispatcher/spd_alsa.so",
+  "size": 43296,
+  "modified": "2024-04-07T07:23:33Z",
+  "created": "2025-05-09T05:07:37.238632810Z",
+  "sha256_hash": "5dac854904f4332a91a036fd28ebbab8ff7e4e5d32153aa8cc477255d64181f6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:15.661315361Z"
+}

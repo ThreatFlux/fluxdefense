@@ -1,0 +1,17 @@
+{
+  "uuid": "31e51512-b03a-4992-9093-083e91b4e545",
+  "path": "/usr/lib/udev/rules.d/60-inputattach.rules",
+  "size": 329,
+  "modified": "2016-01-08T22:39:39Z",
+  "created": "2025-05-09T05:07:28.436767125Z",
+  "sha256_hash": "adf4afde42bfadc725298326451e751d8f850232c232be22a996f4554b29d79b",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.107594127Z"
+}

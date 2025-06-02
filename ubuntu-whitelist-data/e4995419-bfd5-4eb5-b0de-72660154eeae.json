@@ -1,0 +1,17 @@
+{
+  "uuid": "e4995419-bfd5-4eb5-b0de-72660154eeae",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/LangStandards.def",
+  "size": 9513,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "4509b448c9b1dde0b6ae5cc0340d02367b83efa7d4b61d231c5ad8fdca1bf13e",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.558126876Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a0bd5c4a-1b22-4b31-a15c-6116de79c99a",
+  "path": "/lib/x86_64-linux-gnu/fpc/3.2.2/msg/errorda.msg",
+  "size": 244594,
+  "modified": "2024-01-05T07:40:08Z",
+  "created": "2025-05-29T11:15:46.758324186Z",
+  "sha256_hash": "a4d876cb4fafd72cc7c988af5c451c7c6567d91b76a951891d3073b657fce263",
+  "file_type": {
+    "Other": "msg"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.751499161Z"
+}

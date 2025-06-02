@@ -1,0 +1,15 @@
+{
+  "uuid": "0369a5d4-ee69-4cfd-8d65-4de2e1d66576",
+  "path": "/usr/lib/klibc/bin/insmod",
+  "size": 9224,
+  "modified": "2024-05-21T08:39:42Z",
+  "created": "2025-05-09T05:07:21.711869744Z",
+  "sha256_hash": "45f39ac4e60c3d19fea0269c8db132831d613d6d49759cbb4ef6b6586c14473c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.560816184Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "3e276381-576b-4c40-bbda-4c3ac8fd4170",
+  "path": "/usr/lib/firmware/intel/sof/sof-icl.ldc.zst",
+  "size": 17771,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.046491166Z",
+  "sha256_hash": "101df8faf5c5c6b8435e50d2d1627558aeb1ed02c7c7d6e93a7e1ccdc93dd231",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.681476294Z"
+}

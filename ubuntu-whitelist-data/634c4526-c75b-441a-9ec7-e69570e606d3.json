@@ -1,0 +1,15 @@
+{
+  "uuid": "634c4526-c75b-441a-9ec7-e69570e606d3",
+  "path": "/sbin/saned",
+  "size": 72472,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:38.413614880Z",
+  "sha256_hash": "4f477dafa3c1fbb2993338cad2e689b7e1fdae4874d336dbefce8beb22cffe81",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.129585020Z"
+}

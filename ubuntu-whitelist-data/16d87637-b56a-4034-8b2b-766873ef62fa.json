@@ -1,0 +1,17 @@
+{
+  "uuid": "16d87637-b56a-4034-8b2b-766873ef62fa",
+  "path": "/lib/firmware/intel/vpu/vpu_40xx_v0.0.bin.zst",
+  "size": 621018,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.572541258Z",
+  "sha256_hash": "4cb7e0ce5500da1c504c22531a6ba27455a075e1a5a730a789613f5dacd0fca1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.132449048Z"
+}

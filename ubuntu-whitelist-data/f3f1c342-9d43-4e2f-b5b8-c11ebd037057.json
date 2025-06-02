@@ -1,0 +1,17 @@
+{
+  "uuid": "f3f1c342-9d43-4e2f-b5b8-c11ebd037057",
+  "path": "/lib/x86_64-linux-gnu/libhistory.so.8.2",
+  "size": 51632,
+  "modified": "2024-03-31T08:21:18Z",
+  "created": "2025-05-09T05:07:30.181740497Z",
+  "sha256_hash": "6cb9908169c3056de7cc456a4774eae24982cda92ecc68e6d16ad73a56eddfcb",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.968978239Z"
+}

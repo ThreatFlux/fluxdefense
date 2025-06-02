@@ -1,0 +1,15 @@
+{
+  "uuid": "abfe362b-382d-4a4a-b876-e258498dcc6c",
+  "path": "/bin/xzless",
+  "size": 1813,
+  "modified": "2025-03-31T18:22:22Z",
+  "created": "2025-05-09T05:09:50.924592535Z",
+  "sha256_hash": "a25b3dee9826b993f4fe0043e6d3073c6658925c28afc303917d62b1cf465051",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.862562380Z"
+}

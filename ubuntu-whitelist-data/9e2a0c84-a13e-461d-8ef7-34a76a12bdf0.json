@@ -1,0 +1,15 @@
+{
+  "uuid": "9e2a0c84-a13e-461d-8ef7-34a76a12bdf0",
+  "path": "/lib/x86_64-linux-gnu/totem/plugins/screensaver/libscreensaver.so",
+  "size": 30952,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:37.301631849Z",
+  "sha256_hash": "39b854121c46ae80467b3adc04b835f7aaed9fb96c9b6584462567c44f68af5a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.423588902Z"
+}

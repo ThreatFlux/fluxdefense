@@ -1,0 +1,17 @@
+{
+  "uuid": "b1596056-7403-4609-aef7-6289fe7164c7",
+  "path": "/usr/lib/firmware/amdgpu/tonga_mc.bin.zst",
+  "size": 12556,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.418543391Z",
+  "sha256_hash": "b0e07db967177d3c6398fba83f6e976e03444a549d0db45916dafc05e67ecc4e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.772762960Z"
+}

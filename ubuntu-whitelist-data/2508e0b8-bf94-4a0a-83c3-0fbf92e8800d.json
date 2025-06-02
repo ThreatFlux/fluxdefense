@@ -1,0 +1,17 @@
+{
+  "uuid": "2508e0b8-bf94-4a0a-83c3-0fbf92e8800d",
+  "path": "/lib/llvm-18/include/clang-tidy/abseil/StrCatAppendCheck.h",
+  "size": 1340,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.555533239Z",
+  "sha256_hash": "1bb846cca4f3be124318fbadd5ac8a0a44ca1d2ad5f04b203ee06b164f4f345d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.903592930Z"
+}

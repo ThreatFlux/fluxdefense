@@ -1,0 +1,17 @@
+{
+  "uuid": "d3ecf0ae-e220-4ca6-affe-5dbe3f8b576d",
+  "path": "/usr/lib/python3.12/test/test_importlib/data/example-21.12-py3-none-any.whl",
+  "size": 1455,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.022551368Z",
+  "sha256_hash": "23e918b9f11389dfad0d8c91f1fd4e149dede6efc8a36de4d1c6d0c494d43782",
+  "file_type": {
+    "Other": "whl"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.723523606Z"
+}

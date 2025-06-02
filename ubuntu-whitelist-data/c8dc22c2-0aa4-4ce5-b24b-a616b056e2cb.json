@@ -1,0 +1,15 @@
+{
+  "uuid": "c8dc22c2-0aa4-4ce5-b24b-a616b056e2cb",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/components/install.py",
+  "size": 2862,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.620933841Z",
+  "sha256_hash": "bf67b1abed7b0eb0daea00d4e290fbf9ab5318a66a0e77d254bc2b4983a34f2c",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.843973481Z"
+}

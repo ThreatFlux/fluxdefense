@@ -1,0 +1,15 @@
+{
+  "uuid": "292c3281-898a-47a0-86b3-3f3e66a3e961",
+  "path": "/lib/libreoffice/program/libxmlsecurity.so",
+  "size": 727216,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:20.112231184Z",
+  "sha256_hash": "f42f645c72da17deb50004f5492ef55bb7e2143595a59628d958d2c1b4e45092",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:49.632843901Z"
+}

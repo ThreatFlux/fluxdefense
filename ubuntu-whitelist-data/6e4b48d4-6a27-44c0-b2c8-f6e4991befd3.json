@@ -1,0 +1,17 @@
+{
+  "uuid": "6e4b48d4-6a27-44c0-b2c8-f6e4991befd3",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/StringConstructorCheck.h",
+  "size": 1523,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "d890775cfbf2df18f16e07a4eb3e8f278d86178d50c10469c3b3982483cc81bf",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.239101902Z"
+}

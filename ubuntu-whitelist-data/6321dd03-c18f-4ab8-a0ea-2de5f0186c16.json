@@ -1,0 +1,17 @@
+{
+  "uuid": "6321dd03-c18f-4ab8-a0ea-2de5f0186c16",
+  "path": "/lib/x86_64-linux-gnu/libx265.so.199",
+  "size": 16308864,
+  "modified": "2024-04-18T17:47:47Z",
+  "created": "2025-05-09T05:09:20.204061418Z",
+  "sha256_hash": "d36cd663a24eeca90178f95b91513b96ae1d4e3c6cf28557646af5926ef03934",
+  "file_type": {
+    "Other": "199"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.146446587Z"
+}

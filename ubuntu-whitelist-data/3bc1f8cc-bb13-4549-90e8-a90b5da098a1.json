@@ -1,0 +1,15 @@
+{
+  "uuid": "3bc1f8cc-bb13-4549-90e8-a90b5da098a1",
+  "path": "/usr/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-gosuncn.so",
+  "size": 14416,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.160664520Z",
+  "sha256_hash": "26230f5aa61700e4c44a9f0dec36fb30fea9c83c44f068903b52b45014bf4f63",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.076753435Z"
+}

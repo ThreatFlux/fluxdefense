@@ -1,0 +1,17 @@
+{
+  "uuid": "ce55c40c-a63e-4a83-9c9c-8eb427a67f9d",
+  "path": "/lib/grub/x86_64-efi/extcmd.mod",
+  "size": 7720,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.804708521Z",
+  "sha256_hash": "c3524db8149aa10155a6d0b2d45c7204191068b781e16e7038ca526e7b2e660e",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.142554687Z"
+}

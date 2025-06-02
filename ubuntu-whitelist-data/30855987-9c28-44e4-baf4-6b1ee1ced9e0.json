@@ -1,0 +1,15 @@
+{
+  "uuid": "30855987-9c28-44e4-baf4-6b1ee1ced9e0",
+  "path": "/lib/i386-linux-gnu/gconv/IBM500.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.278663446Z",
+  "sha256_hash": "ba74f2e8a469db89f27230d852ca2898e3bb91bf643309309890355bf61a9890",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.775313659Z"
+}

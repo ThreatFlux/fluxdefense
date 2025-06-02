@@ -1,0 +1,17 @@
+{
+  "uuid": "16070939-0de3-45f1-b643-2abe8790e6e7",
+  "path": "/usr/lib/firmware/ql2500_fw.bin.zst",
+  "size": 126739,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.058534526Z",
+  "sha256_hash": "796c4dd9731b2246c39a60d993fb31f053d026bd97ef44b624cacb6e1336338e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.497820144Z"
+}

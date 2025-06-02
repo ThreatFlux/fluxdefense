@@ -1,0 +1,17 @@
+{
+  "uuid": "3cbe69ca-0179-40ca-8ef9-f429caaa598c",
+  "path": "/usr/lib/firmware/cis/NE2K.cis.zst",
+  "size": 67,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.510542117Z",
+  "sha256_hash": "65d11c0e6715cefef7d04ee7bb0cb981b125ae1b894f8dd3a4acdc34eba2766a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:57.031401771Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a4def1ad-66e5-4d7d-9889-6fa6582234c6",
+  "path": "/lib/firmware/qca/hpnv21g.bin.zst",
+  "size": 3017,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.967535787Z",
+  "sha256_hash": "a3c3d90973f1835447d886fde28905f166941eb8b61f30372853f0a5911368c4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.168810584Z"
+}

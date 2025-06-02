@@ -1,0 +1,15 @@
+{
+  "uuid": "08f7ecfc-27fb-4a29-bd5b-750ae10b3ce1",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/ssh_util.py",
+  "size": 22750,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.243037270Z",
+  "sha256_hash": "49b2ebfe53bb1976edb7607185dafbd5edff9d7757b17925aff228e36256d77a",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.821815731Z"
+}

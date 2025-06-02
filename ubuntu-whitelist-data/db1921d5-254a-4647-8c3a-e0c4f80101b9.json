@@ -1,0 +1,17 @@
+{
+  "uuid": "db1921d5-254a-4647-8c3a-e0c4f80101b9",
+  "path": "/lib/grub/x86_64-efi/at_keyboard.mod",
+  "size": 6896,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.801708567Z",
+  "sha256_hash": "5d4b9e572467c648b414af3dd1dbea91542e6dae4210830ec313bfee90bc3bdf",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.051294807Z"
+}

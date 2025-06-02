@@ -1,0 +1,15 @@
+{
+  "uuid": "7fc962a5-09f7-4d4e-ab28-9c9d7514f4b6",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstvideobox.so",
+  "size": 63888,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.776655120Z",
+  "sha256_hash": "87ce327753840e0424a73651186dce8de6f3e7a534a0e6f68f57157336a048f1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.131405889Z"
+}

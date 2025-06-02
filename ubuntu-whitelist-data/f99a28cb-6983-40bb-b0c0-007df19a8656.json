@@ -1,0 +1,17 @@
+{
+  "uuid": "f99a28cb-6983-40bb-b0c0-007df19a8656",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/OptionalValueConversionCheck.h",
+  "size": 1595,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "dae05eb48859c5041273bfe8f305df76a6ffdb3fea2433406614f954dbe29898",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.895974185Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "2eb31c56-d5ff-4cb0-b5ec-f63ec309f639",
+  "path": "/lib/x86_64-linux-gnu/samba/libsmb-transport-samba4.so.0",
+  "size": 26856,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.087635114Z",
+  "sha256_hash": "ac76fa1e277d6201d4a4e14aacad095a44879411c359dcfb3666c025bb47ea8b",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.408597458Z"
+}

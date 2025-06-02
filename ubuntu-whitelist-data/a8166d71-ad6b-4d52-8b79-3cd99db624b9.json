@@ -1,0 +1,17 @@
+{
+  "uuid": "a8166d71-ad6b-4d52-8b79-3cd99db624b9",
+  "path": "/usr/lib/grub/x86_64-efi/config.h",
+  "size": 5815,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.802708552Z",
+  "sha256_hash": "491a06c9b883a60104d069617a694ff8dab2de9cb04119285460ed0f736d462a",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.472341890Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "aaca6a0f-5833-4dc4-bd8f-794eb0bd5468",
+  "path": "/usr/lib/x86_64-linux-gnu/liblouis.so.20.0.17",
+  "size": 187216,
+  "modified": "2024-03-31T00:09:00Z",
+  "created": "2025-05-09T05:07:31.331722949Z",
+  "sha256_hash": "c2f5c4314aa3f326268ba310fed5d35ced56c8461fc523f01da3a95f6a649f49",
+  "file_type": {
+    "Other": "17"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.509534401Z"
+}

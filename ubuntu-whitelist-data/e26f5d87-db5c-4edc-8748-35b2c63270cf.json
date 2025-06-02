@@ -1,0 +1,17 @@
+{
+  "uuid": "e26f5d87-db5c-4edc-8748-35b2c63270cf",
+  "path": "/usr/lib/llvm-18/include/clang/Driver/XRayArgs.h",
+  "size": 1535,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.542533410Z",
+  "sha256_hash": "21d5e47330afe5e9b25caa6ef4047b218909c2928cf981a86b4f0b07b22764fb",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.431012172Z"
+}

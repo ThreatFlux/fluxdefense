@@ -1,0 +1,17 @@
+{
+  "uuid": "a3da7be2-2b83-4598-975e-1dd54567c474",
+  "path": "/lib/python3.12/test/dtracedata/gc.d.expected",
+  "size": 84,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.998551683Z",
+  "sha256_hash": "45dfffe1e238a1f3b4415239fba22b9dda57b660ced8594c1bce69fb9ae534c9",
+  "file_type": {
+    "Other": "expected"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.322977497Z"
+}

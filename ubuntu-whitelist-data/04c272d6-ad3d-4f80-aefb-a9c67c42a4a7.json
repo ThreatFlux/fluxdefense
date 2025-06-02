@@ -1,0 +1,15 @@
+{
+  "uuid": "04c272d6-ad3d-4f80-aefb-a9c67c42a4a7",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/requests/certs.py",
+  "size": 429,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.326938836Z",
+  "sha256_hash": "67d49be35d009efea35054f2b2cd23145854eb1b2df1cb442ea7f2f04bf6de0c",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.634532085Z"
+}

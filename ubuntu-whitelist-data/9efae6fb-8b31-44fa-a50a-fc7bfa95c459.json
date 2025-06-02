@@ -1,0 +1,15 @@
+{
+  "uuid": "9efae6fb-8b31-44fa-a50a-fc7bfa95c459",
+  "path": "/lib/llvm-18/lib/libLLVMScalarOpts.a",
+  "size": 8060604,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.998461559Z",
+  "sha256_hash": "c02662037fcd97d38a94915b6ff6b409dfd54e00ddae557b55b719cd6690d6fa",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:40.980391374Z"
+}

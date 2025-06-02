@@ -1,0 +1,17 @@
+{
+  "uuid": "10493312-a80f-45fa-8ec1-426a5db14a5c",
+  "path": "/lib/aspell/australian.alias",
+  "size": 75,
+  "modified": "2020-12-08T01:19:37Z",
+  "created": "2025-05-09T05:07:21.010880441Z",
+  "sha256_hash": "e227abf0f34f27815888cf51f902031b8f4fe619a9567a6b0f2d3b1da703602c",
+  "file_type": {
+    "Other": "alias"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.783959201Z"
+}

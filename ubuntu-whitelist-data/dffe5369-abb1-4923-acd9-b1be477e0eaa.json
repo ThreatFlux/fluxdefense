@@ -1,0 +1,15 @@
+{
+  "uuid": "dffe5369-abb1-4923-acd9-b1be477e0eaa",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libip6t_mh.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.326631467Z",
+  "sha256_hash": "6b8f9b320e45fc800f5f3e79020ea7ed4f932014236c941b79cc5831e3063b3e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.257427779Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "9c90302f-29d2-4b1b-a12f-06a9d21218a8",
+  "path": "/bin/unshare",
+  "size": 43624,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:20.828883218Z",
+  "sha256_hash": "98d702984f79318b7a3c2dc347ab1c6474eb1e4046974e7da7559b482f99f9c0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.005787588Z"
+}

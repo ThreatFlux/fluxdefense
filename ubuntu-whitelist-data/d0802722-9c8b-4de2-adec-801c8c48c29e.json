@@ -1,0 +1,17 @@
+{
+  "uuid": "d0802722-9c8b-4de2-adec-801c8c48c29e",
+  "path": "/usr/lib/python3.12/test/crashers/__pycache__/recursive_call.cpython-312.pyc",
+  "size": 435,
+  "modified": "2025-05-28T17:29:53.300482066Z",
+  "created": "2025-05-28T17:29:53.300482066Z",
+  "sha256_hash": "a33c578353f1648d6db84ef3c12c2606cfea15629e6ca56699cac13f65af79fa",
+  "file_type": {
+    "Other": "pyc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.812013060Z"
+}

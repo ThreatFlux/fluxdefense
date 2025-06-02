@@ -1,0 +1,15 @@
+{
+  "uuid": "0ca57e02-a3ca-4f2b-82ea-afb343b31612",
+  "path": "/lib/llvm-18/lib/libLLVMARMUtils.a",
+  "size": 23998,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.781464417Z",
+  "sha256_hash": "fe3a4e0d82999999eac23e6b597bed565961ce269440e6a9ff236c28b701b3a8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:42.647732795Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "40aced71-6192-4ac8-bf93-110d41f8cecb",
+  "path": "/lib/x86_64-linux-gnu/libdc1394.so.25.0.0",
+  "size": 229416,
+  "modified": "2024-04-18T17:48:57Z",
+  "created": "2025-05-12T13:32:31.804109882Z",
+  "sha256_hash": "a7316eaf55eacd8bb413f9cf449df70bb1ded9b0eb82418fba83e6a115f46a13",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.458926717Z"
+}

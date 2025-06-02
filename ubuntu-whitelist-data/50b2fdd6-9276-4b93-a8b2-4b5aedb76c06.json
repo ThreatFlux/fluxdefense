@@ -1,0 +1,17 @@
+{
+  "uuid": "50b2fdd6-9276-4b93-a8b2-4b5aedb76c06",
+  "path": "/bin/gnome-terminal.wrapper",
+  "size": 2718,
+  "modified": "2024-03-18T17:15:11Z",
+  "created": "2025-05-09T05:07:19.674900827Z",
+  "sha256_hash": "e651c79536d499147efd0b113454ec5df566b61a8104257a45131b71e2d1288b",
+  "file_type": {
+    "Other": "wrapper"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.867597274Z"
+}

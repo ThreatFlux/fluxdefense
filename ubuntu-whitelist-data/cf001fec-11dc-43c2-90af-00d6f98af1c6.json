@@ -1,0 +1,17 @@
+{
+  "uuid": "cf001fec-11dc-43c2-90af-00d6f98af1c6",
+  "path": "/usr/lib/x86_64-linux-gnu/gir-1.0/GLib-2.0.gir",
+  "size": 3908646,
+  "modified": "2025-05-15T12:06:49Z",
+  "created": "2025-05-29T11:16:03.649092422Z",
+  "sha256_hash": "d4d9f4204cb9edd4eb317e702e08a004ab418429e087ab03e0136c9d0ec40bd8",
+  "file_type": {
+    "Other": "gir"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.202626322Z"
+}

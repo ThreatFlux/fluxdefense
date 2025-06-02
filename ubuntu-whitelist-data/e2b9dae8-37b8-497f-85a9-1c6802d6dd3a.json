@@ -1,0 +1,15 @@
+{
+  "uuid": "e2b9dae8-37b8-497f-85a9-1c6802d6dd3a",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/dns/__init__.py",
+  "size": 1404,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.113942455Z",
+  "sha256_hash": "613f1d955f78780f72707b5201b2cd8ef047252625de933d9cf92447977b1c2c",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.542718599Z"
+}

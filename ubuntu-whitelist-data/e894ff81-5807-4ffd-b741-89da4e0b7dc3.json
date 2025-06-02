@@ -1,0 +1,15 @@
+{
+  "uuid": "e894ff81-5807-4ffd-b741-89da4e0b7dc3",
+  "path": "/bin/foo2qpdl-wrapper",
+  "size": 19514,
+  "modified": "2024-04-10T21:38:27Z",
+  "created": "2025-05-09T05:07:19.223907709Z",
+  "sha256_hash": "c08a889abcad122b8c7af06889ed049373aa99807ce885988333edf56e4ff1a9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.109622075Z"
+}

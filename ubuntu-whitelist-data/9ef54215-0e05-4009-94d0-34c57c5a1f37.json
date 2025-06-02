@@ -1,0 +1,17 @@
+{
+  "uuid": "9ef54215-0e05-4009-94d0-34c57c5a1f37",
+  "path": "/lib/grub/x86_64-efi/bli.mod",
+  "size": 3640,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.801708567Z",
+  "sha256_hash": "b49a7fd5edc02f168f0de51309313278dc2347c0f83a5cbedcb8974790a5e7e8",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.144047713Z"
+}

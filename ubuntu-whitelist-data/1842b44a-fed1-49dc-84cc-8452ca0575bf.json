@@ -1,0 +1,15 @@
+{
+  "uuid": "1842b44a-fed1-49dc-84cc-8452ca0575bf",
+  "path": "/usr/sbin/ttysnoop-bpfcc",
+  "size": 7694,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.523499148Z",
+  "sha256_hash": "7410a6f740b8e56cfa90a84b55792d89bf74e8806bf76a05d0e370c8935771de",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.165557302Z"
+}

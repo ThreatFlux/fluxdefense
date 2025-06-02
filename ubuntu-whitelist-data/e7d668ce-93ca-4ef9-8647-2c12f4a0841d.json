@@ -1,0 +1,15 @@
+{
+  "uuid": "e7d668ce-93ca-4ef9-8647-2c12f4a0841d",
+  "path": "/usr/lib/python3/dist-packages/bcc/syscall.py",
+  "size": 9656,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.087505802Z",
+  "sha256_hash": "d0412a324abe69ab469890a96667855b2774977e412c44958f3de53841bb0574",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.044920981Z"
+}

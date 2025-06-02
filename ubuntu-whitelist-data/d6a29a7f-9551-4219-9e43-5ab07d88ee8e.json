@@ -1,0 +1,17 @@
+{
+  "uuid": "d6a29a7f-9551-4219-9e43-5ab07d88ee8e",
+  "path": "/lib/firmware/mwl8k/fmimage_8764_ap-1.fw.zst",
+  "size": 78833,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.892536826Z",
+  "sha256_hash": "4f3e2e511e9bd536674bbb082e2f2ddd17dec5c1ac31d7525c5f2200963a0669",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.455362918Z"
+}

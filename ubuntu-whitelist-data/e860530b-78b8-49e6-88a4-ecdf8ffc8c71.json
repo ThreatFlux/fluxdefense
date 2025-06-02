@@ -1,0 +1,17 @@
+{
+  "uuid": "e860530b-78b8-49e6-88a4-ecdf8ffc8c71",
+  "path": "/lib/x86_64-linux-gnu/libgtk-3.so.0.2409.32",
+  "size": 8156632,
+  "modified": "2025-01-27T19:56:56Z",
+  "created": "2025-05-09T05:24:16.540818192Z",
+  "sha256_hash": "0611fd19d1354a39a7cfafceffa3bdf4289d4c497c7f69ff337f86e99cf37d93",
+  "file_type": {
+    "Other": "32"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.468478710Z"
+}

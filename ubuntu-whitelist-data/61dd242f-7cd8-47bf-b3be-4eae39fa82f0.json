@@ -1,0 +1,17 @@
+{
+  "uuid": "61dd242f-7cd8-47bf-b3be-4eae39fa82f0",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-cgcaso.adb",
+  "size": 4341,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.046345203Z",
+  "sha256_hash": "4542fc80d3b23069bd14839a01fd78834359c3fe4165f8e9951f439fa99fd7b5",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.003214086Z"
+}

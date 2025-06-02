@@ -1,0 +1,15 @@
+{
+  "uuid": "090a590f-11c4-49a4-bf8a-41e2300fdf1c",
+  "path": "/usr/lib/klibc/bin/nfsmount",
+  "size": 15264,
+  "modified": "2024-05-21T08:39:42Z",
+  "created": "2025-05-09T05:07:21.712869729Z",
+  "sha256_hash": "e3d52722a2ce51b0e27ef1f51c71f540792674705d45f6419a64c70889a122cf",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.565902454Z"
+}

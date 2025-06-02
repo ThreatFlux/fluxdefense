@@ -1,0 +1,17 @@
+{
+  "uuid": "8ee491b1-c91c-4c33-9155-a19107ffd75c",
+  "path": "/lib/llvm-18/include/clang/AST/AbstractTypeReader.h",
+  "size": 964,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.511533818Z",
+  "sha256_hash": "637230e3e143772c089950efb8fa1c6bda2e8deb8c6c765554eb41cd06d8d444",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.948451486Z"
+}

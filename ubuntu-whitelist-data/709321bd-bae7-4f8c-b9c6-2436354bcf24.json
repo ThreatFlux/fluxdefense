@@ -1,0 +1,15 @@
+{
+  "uuid": "709321bd-bae7-4f8c-b9c6-2436354bcf24",
+  "path": "/usr/sbin/zfsdist-bpfcc",
+  "size": 5427,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.524499133Z",
+  "sha256_hash": "0ccb7faa00e018259b4fde4a621c10d47d9132e93cfacbe8d8d3392f1442553b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.291880133Z"
+}

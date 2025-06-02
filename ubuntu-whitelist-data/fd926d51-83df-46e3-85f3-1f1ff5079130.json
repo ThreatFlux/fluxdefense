@@ -1,0 +1,15 @@
+{
+  "uuid": "fd926d51-83df-46e3-85f3-1f1ff5079130",
+  "path": "/usr/sbin/gensprep",
+  "size": 27304,
+  "modified": "2024-08-09T02:33:20Z",
+  "created": "2025-05-12T13:34:31.057539798Z",
+  "sha256_hash": "a1054b909f8172dce187412b03a8dade74902a7d1359394abd4aefbaedce9a65",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.482032784Z"
+}

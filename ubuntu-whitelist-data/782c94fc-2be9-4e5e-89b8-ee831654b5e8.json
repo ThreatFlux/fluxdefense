@@ -1,0 +1,15 @@
+{
+  "uuid": "782c94fc-2be9-4e5e-89b8-ee831654b5e8",
+  "path": "/usr/bin/cksum",
+  "size": 104984,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:19.107909479Z",
+  "sha256_hash": "6092a405ccaaa27981993f03f47bea755ec07bdbe9625f3db3c4025249084328",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:06.007053110Z"
+}

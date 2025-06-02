@@ -1,0 +1,15 @@
+{
+  "uuid": "7a7d92fa-ebe4-4cfd-86dc-0aa848422a6f",
+  "path": "/lib/x86_64-linux-gnu/libz.a",
+  "size": 147056,
+  "modified": "2024-08-09T02:33:20Z",
+  "created": "2025-05-13T14:30:45.914482351Z",
+  "sha256_hash": "436f7e661f703c8959b1e7a77b0450fd9b89ccafce9736804665c27f1bfb27b2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.585285318Z"
+}

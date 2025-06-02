@@ -1,0 +1,17 @@
+{
+  "uuid": "cfda964f-4340-4256-8672-05314e119c19",
+  "path": "/usr/lib/x86_64-linux-gnu/libunity/libunity-protocol-private.so.0.0.0",
+  "size": 307344,
+  "modified": "2024-03-31T00:09:17Z",
+  "created": "2025-05-09T05:07:36.539643477Z",
+  "sha256_hash": "d1641937f667b530213497fe1023c2badff12a627c5d01fcb7c857a1995d8e35",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.320561632Z"
+}

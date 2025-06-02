@@ -1,0 +1,17 @@
+{
+  "uuid": "468138c6-aab7-4e98-902d-8fdbeeaa5e36",
+  "path": "/usr/lib/udev/rules.d/60-serial.rules",
+  "size": 1427,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "50bb6f79da19b52e82d273b8e142d49905bc69bdf765bf0545f2a20349d7d0aa",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.104859951Z"
+}

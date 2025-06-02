@@ -1,0 +1,17 @@
+{
+  "uuid": "d93c3425-1083-412b-a347-9b0c3ccb5b0a",
+  "path": "/usr/sbin/loads.bt",
+  "size": 1127,
+  "modified": "2024-03-07T22:14:52Z",
+  "created": "2025-05-09T05:08:51.885493624Z",
+  "sha256_hash": "90c67bb33d8a5e3e94180d65103453bdeb5947439754fb015665f24e1d5fe918",
+  "file_type": {
+    "Other": "bt"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.148222080Z"
+}

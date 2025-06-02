@@ -1,0 +1,15 @@
+{
+  "uuid": "d32388cc-fa2c-475c-8617-faebac7ff36e",
+  "path": "/lib/x86_64-linux-gnu/dri/i965_drv_video.so",
+  "size": 1772232,
+  "modified": "2024-04-18T17:47:47Z",
+  "created": "2025-05-09T05:09:29.365921584Z",
+  "sha256_hash": "6d5037dff8933254944e7c98212a3f24890e6d5c87fb289c02c5e572be491e1b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.842887470Z"
+}

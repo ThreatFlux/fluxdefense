@@ -1,0 +1,17 @@
+{
+  "uuid": "564b72f4-4663-4bb9-8822-8afb76131d49",
+  "path": "/lib/firmware/intel/sof-tplg/sof-adl-max98390-rt5682-google-aec.tplg.zst",
+  "size": 2671,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.056491014Z",
+  "sha256_hash": "31fe31e76607c4bf87fc15eaceffec614a9fe5b878d186352f9cbddeb128a957",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.202093482Z"
+}

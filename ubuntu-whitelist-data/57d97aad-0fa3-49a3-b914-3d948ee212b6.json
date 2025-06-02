@@ -1,0 +1,17 @@
+{
+  "uuid": "57d97aad-0fa3-49a3-b914-3d948ee212b6",
+  "path": "/lib/firmware/usbduxfast_firmware.bin.zst",
+  "size": 414,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.081534208Z",
+  "sha256_hash": "904b5b8b2fdb413848262d31e42613d25eccde4672a8b9decc69dfe707d7b1b1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.189911121Z"
+}

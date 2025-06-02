@@ -1,0 +1,17 @@
+{
+  "uuid": "13024ccd-d8d3-4d1e-8dd5-2dc456c9fe39",
+  "path": "/lib/firmware/radeon/PITCAIRN_mc2.bin.zst",
+  "size": 11823,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "8667d404d741f790bfef41b9a1f3ce05a9fd9825fb1291745116f897b41b6a28",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.394039168Z"
+}

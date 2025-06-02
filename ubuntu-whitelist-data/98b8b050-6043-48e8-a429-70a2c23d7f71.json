@@ -1,0 +1,17 @@
+{
+  "uuid": "98b8b050-6043-48e8-a429-70a2c23d7f71",
+  "path": "/lib/x86_64-linux-gnu/libcrypt.so.1.1.0",
+  "size": 198664,
+  "modified": "2024-04-08T16:09:21Z",
+  "created": "2025-05-09T05:07:29.245754780Z",
+  "sha256_hash": "1502636e3be8232c9cf801dfb533694aea985d449904f3e1295db26d7b348946",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.538699456Z"
+}

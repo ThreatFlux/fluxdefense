@@ -1,0 +1,17 @@
+{
+  "uuid": "57c3f8f3-25e3-4429-a1a9-468e36e5a588",
+  "path": "/lib/x86_64-linux-gnu/libtracker-sparql-3.0.so.0.701.0",
+  "size": 933312,
+  "modified": "2024-03-31T08:29:02Z",
+  "created": "2025-05-09T05:07:32.325707781Z",
+  "sha256_hash": "634e4e1b28955f39a261376164715275232d6ca460d4f6cd3d6a9919a615f28f",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.618069843Z"
+}

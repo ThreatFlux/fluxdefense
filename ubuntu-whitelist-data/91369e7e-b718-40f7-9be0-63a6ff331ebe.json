@@ -1,0 +1,17 @@
+{
+  "uuid": "91369e7e-b718-40f7-9be0-63a6ff331ebe",
+  "path": "/usr/lib/udev/hwdb.d/60-autosuspend-fingerprint-reader.hwdb",
+  "size": 6871,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.059786335Z",
+  "sha256_hash": "90a0d8faac471ee303fd367812a14f9f87ffe1430a80ef4128e17074989b69d2",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.225076556Z"
+}

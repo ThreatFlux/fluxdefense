@@ -1,0 +1,15 @@
+{
+  "uuid": "895a1886-2491-486c-8e11-3def1ecfd381",
+  "path": "/sbin/sshd",
+  "size": 921416,
+  "modified": "2025-04-22T11:51:46Z",
+  "created": "2025-05-09T06:02:55.236551101Z",
+  "sha256_hash": "67d8e2d69c923844388a4c7fd151b4341574351c738c9d4a634aacd17c0d090e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.857505221Z"
+}

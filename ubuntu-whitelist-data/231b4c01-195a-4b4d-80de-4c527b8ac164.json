@@ -1,0 +1,17 @@
+{
+  "uuid": "231b4c01-195a-4b4d-80de-4c527b8ac164",
+  "path": "/lib/tmpfiles.d/speech-dispatcher.conf",
+  "size": 418,
+  "modified": "2023-10-04T23:10:17Z",
+  "created": "2025-05-09T05:07:28.308769079Z",
+  "sha256_hash": "03dbbe001c05772a4eb2a1d391c9aeb2835e94224e193ab465abc9bf19c0fa7f",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.759490832Z"
+}

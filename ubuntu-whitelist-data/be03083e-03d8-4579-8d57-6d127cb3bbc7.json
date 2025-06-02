@@ -1,0 +1,17 @@
+{
+  "uuid": "be03083e-03d8-4579-8d57-6d127cb3bbc7",
+  "path": "/lib/x86_64-linux-gnu/libe-book-0.1.so.1.0.3",
+  "size": 445680,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.363752979Z",
+  "sha256_hash": "ec50cf2557b1b9fa2f07f2859ce39b32525a091a70b65be608f738c8d7e55b3f",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.853352166Z"
+}

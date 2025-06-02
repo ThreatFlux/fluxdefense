@@ -1,0 +1,17 @@
+{
+  "uuid": "9f9ae178-a75e-4864-9dc5-16d1a1b12684",
+  "path": "/lib/firmware/intel/dsp_fw_kbl_v2042.bin.zst",
+  "size": 143612,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.549541576Z",
+  "sha256_hash": "779de8426f404eafa40459759bb779fab8b9c8b5195931639d35a8fadc736042",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.016256016Z"
+}

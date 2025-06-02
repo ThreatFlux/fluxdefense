@@ -1,0 +1,17 @@
+{
+  "uuid": "99bb8a3e-f3ad-4093-8d43-2df4920273a8",
+  "path": "/usr/lib/modules/6.11.0-25-generic/kernel/crypto/twofish_common.ko.zst",
+  "size": 25306,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.100459819Z",
+  "sha256_hash": "df6d9263596a5d6acaac813011f9b1f50ec0e68377a5fde9ee8971aec74ee352",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.035310893Z"
+}

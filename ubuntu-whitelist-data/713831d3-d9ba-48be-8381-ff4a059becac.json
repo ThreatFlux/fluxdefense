@@ -1,0 +1,17 @@
+{
+  "uuid": "713831d3-d9ba-48be-8381-ff4a059becac",
+  "path": "/usr/lib/llvm-18/include/clang/Interpreter/Value.h",
+  "size": 7519,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "e1185740a8b3338027c1318411bc390b9d93a6a9749e5837ece9992dbbfb6b24",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.414596941Z"
+}

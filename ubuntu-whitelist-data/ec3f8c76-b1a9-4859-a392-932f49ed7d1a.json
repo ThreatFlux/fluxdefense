@@ -1,0 +1,17 @@
+{
+  "uuid": "ec3f8c76-b1a9-4859-a392-932f49ed7d1a",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-conhel.ali",
+  "size": 5661,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.097344503Z",
+  "sha256_hash": "8c5c5cc2f31a88a05a946e28c97a75c28c36df15ea0b29d1a11a3aa7eb30e4f8",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.871546675Z"
+}

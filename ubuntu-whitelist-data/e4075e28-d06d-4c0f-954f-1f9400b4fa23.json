@@ -1,0 +1,15 @@
+{
+  "uuid": "e4075e28-d06d-4c0f-954f-1f9400b4fa23",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgsty4menc.so",
+  "size": 14736,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.777655105Z",
+  "sha256_hash": "96cd9592e212ab12fc9bf383133b8099afae7f6daaaeb4ed0bcfffa3cd90a54a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.906832271Z"
+}

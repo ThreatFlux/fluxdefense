@@ -1,0 +1,17 @@
+{
+  "uuid": "93e2a8b5-433c-4a34-a095-625d3e11b06c",
+  "path": "/usr/lib/shim/shimx64.efi.signed.previous",
+  "size": 955656,
+  "modified": "2024-04-04T12:39:00Z",
+  "created": "2025-05-09T05:08:38.671695290Z",
+  "sha256_hash": "f037d2f20ce5d739c95fa71435410f1d71876868b7e635adb23cdb66fcf4619a",
+  "file_type": {
+    "Other": "previous"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.410171726Z"
+}

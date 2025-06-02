@@ -1,0 +1,15 @@
+{
+  "uuid": "d7e813f4-0ec7-4e78-995c-db90a3716ba8",
+  "path": "/usr/sbin/killsnoop-bpfcc",
+  "size": 4554,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "b300423fad372d10ce0ca05e07b1dc5b17072f2b00d2539afd784ba2a7ff8497",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.552289687Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b2ff4126-6e97-45fe-8d1e-f1c8fd200b64",
+  "path": "/lib/python3.12/test/decimaltestdata/ddMultiply.decTest",
+  "size": 29304,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.991551775Z",
+  "sha256_hash": "793bb12817267238f230b36b020c1227e76e71a6830baba170878a44f70dce4f",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.428629489Z"
+}

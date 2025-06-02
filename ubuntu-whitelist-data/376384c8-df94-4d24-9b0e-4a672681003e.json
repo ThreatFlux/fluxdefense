@@ -1,0 +1,17 @@
+{
+  "uuid": "376384c8-df94-4d24-9b0e-4a672681003e",
+  "path": "/lib/firmware/yam/1200.bin.zst",
+  "size": 2906,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.086534138Z",
+  "sha256_hash": "58bad56c7494af79587993f0d6dfd3b8ae8355cc3c229ce678c693bd1cf776a5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.505488157Z"
+}

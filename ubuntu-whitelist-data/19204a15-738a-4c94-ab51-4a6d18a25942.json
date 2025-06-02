@@ -1,0 +1,15 @@
+{
+  "uuid": "19204a15-738a-4c94-ab51-4a6d18a25942",
+  "path": "/bin/foo2hbpl2-wrapper",
+  "size": 18343,
+  "modified": "2024-04-10T21:38:27Z",
+  "created": "2025-05-09T05:07:19.220907755Z",
+  "sha256_hash": "d9c689882889324f3b7c3ecdd521652c505b7065669f6973166ad03a4d3777a0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.447536458Z"
+}

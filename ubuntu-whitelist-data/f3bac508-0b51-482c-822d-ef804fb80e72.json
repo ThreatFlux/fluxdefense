@@ -1,0 +1,15 @@
+{
+  "uuid": "f3bac508-0b51-482c-822d-ef804fb80e72",
+  "path": "/usr/bin/oem-getlogs",
+  "size": 8504,
+  "modified": "2025-05-23T12:41:47Z",
+  "created": "2025-05-30T21:04:52.100603338Z",
+  "sha256_hash": "4c1b0e53e114de0fff35cdac86cf0dabe88f3c9bde5f1c96339d65550de83506",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.348347761Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d55c5eac-5b70-4e7c-aff2-bad4ac592bec",
+  "path": "/usr/lib/firmware/mediatek/WIFI_RAM_CODE_MT7961_1.bin.zst",
+  "size": 421649,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.675539831Z",
+  "sha256_hash": "c353f30e9b62574803f72595c27562c740340d17fc38134ed8f07cab2d825922",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.220595676Z"
+}

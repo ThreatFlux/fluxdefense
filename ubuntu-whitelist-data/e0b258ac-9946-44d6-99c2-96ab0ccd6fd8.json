@@ -1,0 +1,15 @@
+{
+  "uuid": "e0b258ac-9946-44d6-99c2-96ab0ccd6fd8",
+  "path": "/lib/x86_64-linux-gnu/security/pam_localuser.so",
+  "size": 14488,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:37.200633390Z",
+  "sha256_hash": "4f18ee9ef62746b93715c65fecfed48be9fb6d5615ada75d2ea851765c90cbf4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.372804851Z"
+}

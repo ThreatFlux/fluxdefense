@@ -1,0 +1,15 @@
+{
+  "uuid": "6562b8cb-3323-40ea-9d4d-98b759b311d5",
+  "path": "/bin/xcalc",
+  "size": 52720,
+  "modified": "2024-03-31T17:26:36Z",
+  "created": "2025-05-09T05:07:20.906882028Z",
+  "sha256_hash": "c68bb551883fc47942acb7360bfcba31c84eb1a1fd2832b6388a0ad6947dcc8c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.898507426Z"
+}

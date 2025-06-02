@@ -1,0 +1,15 @@
+{
+  "uuid": "cdcfecd2-4c9a-42ea-bdaf-d22951122a4e",
+  "path": "/bin/zip",
+  "size": 211952,
+  "modified": "2025-01-22T09:00:33Z",
+  "created": "2025-05-09T05:07:20.956881265Z",
+  "sha256_hash": "7e79c60c3d1e182664a1bce9a70a13462e5da4a087ae5aa75950695ce7431b0a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:18.955000599Z"
+}

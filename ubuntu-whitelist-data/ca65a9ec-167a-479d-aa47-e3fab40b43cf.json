@@ -1,0 +1,17 @@
+{
+  "uuid": "ca65a9ec-167a-479d-aa47-e3fab40b43cf",
+  "path": "/lib/firmware/mediatek/mt7615_n9.bin.zst",
+  "size": 421026,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.676539818Z",
+  "sha256_hash": "0d576a745f27986a94b7d02932a3a8feab648626e4e5bb1c3f1d99e52e1b7de6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.114826050Z"
+}

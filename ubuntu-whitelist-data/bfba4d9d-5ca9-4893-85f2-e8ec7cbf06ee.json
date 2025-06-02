@@ -1,0 +1,17 @@
+{
+  "uuid": "bfba4d9d-5ca9-4893-85f2-e8ec7cbf06ee",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/libavfilter.pc",
+  "size": 1048,
+  "modified": "2024-04-05T17:28:52Z",
+  "created": "2025-05-12T13:32:32.744097510Z",
+  "sha256_hash": "faad868a0480046604a143398b1fd85d5ee2bcccd0d040ac9edc357d6e125897",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.053962650Z"
+}

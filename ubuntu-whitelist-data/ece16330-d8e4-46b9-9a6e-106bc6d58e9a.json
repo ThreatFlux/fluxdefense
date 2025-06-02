@@ -1,0 +1,17 @@
+{
+  "uuid": "ece16330-d8e4-46b9-9a6e-106bc6d58e9a",
+  "path": "/usr/lib/grub/x86_64-efi/udf.mod",
+  "size": 12976,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "a1cacbbc323637f74954ea35d23d5a834f2330c3243d1d516c0d5b932c6c2af8",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.491961581Z"
+}

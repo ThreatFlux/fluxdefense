@@ -1,0 +1,15 @@
+{
+  "uuid": "9045a3cb-49de-49b6-8aee-7bef8d5b8035",
+  "path": "/bin/gsnd",
+  "size": 277,
+  "modified": "2025-04-30T13:26:37Z",
+  "created": "2025-05-09T05:11:28.579101940Z",
+  "sha256_hash": "577bec95c32036730167a13d6a5cd9d1c97ff46709de39ed08d6e46c03a6afdd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:18.101247318Z"
+}

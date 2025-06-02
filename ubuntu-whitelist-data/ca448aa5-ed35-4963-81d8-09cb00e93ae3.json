@@ -1,0 +1,17 @@
+{
+  "uuid": "ca448aa5-ed35-4963-81d8-09cb00e93ae3",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/readability/IsolateDeclarationCheck.h",
+  "size": 1303,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "372ecd3f64a5a208e8bfa18f154cd0a9a2e4482ca466f239ef0beda91eff76c5",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.289722593Z"
+}

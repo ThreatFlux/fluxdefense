@@ -1,0 +1,15 @@
+{
+  "uuid": "923b6a6a-198f-463b-bcf3-1b5ddc02aa83",
+  "path": "/usr/sbin/update-inetd",
+  "size": 5969,
+  "modified": "2023-02-09T21:55:01Z",
+  "created": "2025-05-09T05:07:38.450614315Z",
+  "sha256_hash": "b17f9b5b31a46684e14589f4934da492f4f97dc857aad99215843249e56649fa",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.316877988Z"
+}

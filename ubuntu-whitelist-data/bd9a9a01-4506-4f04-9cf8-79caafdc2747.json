@@ -1,0 +1,17 @@
+{
+  "uuid": "bd9a9a01-4506-4f04-9cf8-79caafdc2747",
+  "path": "/lib/systemd/system/user@.service",
+  "size": 834,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "1855974fab4af1fcba640201e87b1142118c043916df6b8d9e7868773a900cc9",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.102238114Z"
+}

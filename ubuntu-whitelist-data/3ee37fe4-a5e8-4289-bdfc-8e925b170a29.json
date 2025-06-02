@@ -1,0 +1,17 @@
+{
+  "uuid": "3ee37fe4-a5e8-4289-bdfc-8e925b170a29",
+  "path": "/usr/lib/firmware/amdgpu/picasso_me.bin.zst",
+  "size": 6609,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.407543543Z",
+  "sha256_hash": "bdf93331e202fe41da6dccc6c4be79b12b413bf3a93c32ed7bc18ae28d1d2a46",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.831281380Z"
+}

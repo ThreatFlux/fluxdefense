@@ -1,0 +1,17 @@
+{
+  "uuid": "568dbb7e-ee3a-42de-8da7-babc557a6acb",
+  "path": "/lib/grub/x86_64-efi/lzopio.mod",
+  "size": 6904,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.814708369Z",
+  "sha256_hash": "3204c8322faa635f6d86e79f7a66006531034662d2be55acb1350c14d8df4857",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.030281937Z"
+}

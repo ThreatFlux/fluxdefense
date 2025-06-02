@@ -1,0 +1,17 @@
+{
+  "uuid": "cad790d4-1fa7-430d-ac86-00e7cc41d553",
+  "path": "/lib/x86_64-linux-gnu/libgcr-4.so.4.2.0",
+  "size": 611920,
+  "modified": "2024-04-04T14:50:15Z",
+  "created": "2025-05-09T05:07:29.765746845Z",
+  "sha256_hash": "9b1f196c239e207533e2346f0926738e375ce2d63274d76cb5c8912b4d3198fc",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:31.095583095Z"
+}

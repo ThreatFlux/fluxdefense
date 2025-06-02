@@ -1,0 +1,15 @@
+{
+  "uuid": "9d02c133-cf79-46a6-ab47-666d2ddebe87",
+  "path": "/usr/lib/x86_64-linux-gnu/qemu/block-curl.so",
+  "size": 38920,
+  "modified": "2025-03-13T16:15:00Z",
+  "created": "2025-05-22T16:56:50.031984291Z",
+  "sha256_hash": "100be25a04468ca7fcea1626909374a25d90c1d4361de88c21399937c8d6e616",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.924185667Z"
+}

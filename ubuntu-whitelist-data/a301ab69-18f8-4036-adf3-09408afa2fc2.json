@@ -1,0 +1,17 @@
+{
+  "uuid": "a301ab69-18f8-4036-adf3-09408afa2fc2",
+  "path": "/lib/firmware/slicoss/gbrcvucode.sys.zst",
+  "size": 1262,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.073534319Z",
+  "sha256_hash": "826b8d6609154a0f95f6dcdb33fa4fb50a3ac30025a88116dbf6e7a24f194764",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.990124680Z"
+}

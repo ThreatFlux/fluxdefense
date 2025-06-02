@@ -1,0 +1,15 @@
+{
+  "uuid": "0d2eabe4-d637-4b79-9f54-ac351641620e",
+  "path": "/lib/python3/dist-packages/cloudinit/distros/bsd_utils.py",
+  "size": 1440,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.237037190Z",
+  "sha256_hash": "2537f2b712c15ce3f0c7d9411931ffdae2ac4de6fda38f1f6368b739021dd595",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.907393979Z"
+}

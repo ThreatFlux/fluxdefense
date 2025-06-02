@@ -1,0 +1,17 @@
+{
+  "uuid": "9b5dc406-212d-4726-9626-e732bcf4d6ee",
+  "path": "/lib/systemd/system/sys-fs-fuse-connections.mount",
+  "size": 1146,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "66af77af035db797da7b58e7206e12962fc430efdb3bf38685f5f5198b48c8d8",
+  "file_type": {
+    "Other": "mount"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.121717975Z"
+}

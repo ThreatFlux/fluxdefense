@@ -1,0 +1,15 @@
+{
+  "uuid": "f11ca10f-2fa2-48a4-b189-63db08ffe9e0",
+  "path": "/usr/lib/cups/notifier/dbus",
+  "size": 18744,
+  "modified": "2024-09-26T11:15:36Z",
+  "created": "2025-05-09T05:07:21.362875070Z",
+  "sha256_hash": "9c2e880390e6e3706c11739940d953c7cc23924a6824c886fe2a9070f430a15c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.127146086Z"
+}

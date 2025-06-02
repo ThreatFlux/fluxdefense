@@ -1,0 +1,17 @@
+{
+  "uuid": "5713348c-f4a5-4faa-b1e7-1c3ee1bdd8f0",
+  "path": "/lib/grub/x86_64-efi/memdisk.mod",
+  "size": 3392,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.814708369Z",
+  "sha256_hash": "459b348a9ac796dbb2306e2ceefd085d72da3e78d11a7e5114767358442989ef",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.019918413Z"
+}

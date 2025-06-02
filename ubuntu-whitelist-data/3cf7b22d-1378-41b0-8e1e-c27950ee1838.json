@@ -1,0 +1,15 @@
+{
+  "uuid": "3cf7b22d-1378-41b0-8e1e-c27950ee1838",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/config/cc_grub_dpkg.py",
+  "size": 5524,
+  "modified": "2025-04-02T15:09:15Z",
+  "created": "2025-05-09T05:24:33.235037163Z",
+  "sha256_hash": "69cfc4703d13cbd8ccd75c1fd741e873f69ba80341f1855645aa4be9d4075939",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.846597583Z"
+}

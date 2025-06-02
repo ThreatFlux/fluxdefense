@@ -1,0 +1,17 @@
+{
+  "uuid": "77cbb595-41bb-4ce6-a2cf-56d8bf885a57",
+  "path": "/lib/x86_64-linux-gnu/libcolamd.so.3.3.2",
+  "size": 30816,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.237754902Z",
+  "sha256_hash": "2c50410c2e57b719fd797106e291bb98771f02fd737c948ef93b3c27e0127456",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.955906806Z"
+}

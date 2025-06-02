@@ -1,0 +1,17 @@
+{
+  "uuid": "b1f24121-499f-4656-920a-a8f9a5fe793d",
+  "path": "/lib/systemd/system/snapd.service",
+  "size": 750,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.384025824Z",
+  "sha256_hash": "1589346def4e51e524391876c2c6c20a9ebec6604fe183e198fc00af37991ede",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.128924890Z"
+}

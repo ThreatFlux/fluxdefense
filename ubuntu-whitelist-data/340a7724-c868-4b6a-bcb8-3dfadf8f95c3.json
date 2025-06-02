@@ -1,0 +1,15 @@
+{
+  "uuid": "340a7724-c868-4b6a-bcb8-3dfadf8f95c3",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/IEC_P27-1.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.668656768Z",
+  "sha256_hash": "6cdb69324cb71540d536388e16d081806d5b77dc34c48cacdf527bdd42169747",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.562072944Z"
+}

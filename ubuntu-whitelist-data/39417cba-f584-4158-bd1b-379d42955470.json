@@ -1,0 +1,17 @@
+{
+  "uuid": "39417cba-f584-4158-bd1b-379d42955470",
+  "path": "/lib/llvm-18/include/clang/ASTMatchers/ASTMatchersMacros.h",
+  "size": 37141,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.522533674Z",
+  "sha256_hash": "17898ef308021a5ba9688500d7adbde49c1f5cbea05110ffa3a4a24d3077417c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.933950560Z"
+}

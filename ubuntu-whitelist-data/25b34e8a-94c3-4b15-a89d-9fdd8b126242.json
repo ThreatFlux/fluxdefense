@@ -1,0 +1,17 @@
+{
+  "uuid": "25b34e8a-94c3-4b15-a89d-9fdd8b126242",
+  "path": "/usr/lib/firmware/ath10k/QCA9377/hw1.0/firmware-6.bin.zst",
+  "size": 498710,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.437543128Z",
+  "sha256_hash": "0abcf742f4abc64d836c49abec3ecf08744b4a3f4180712eb6cfbd8f1769e212",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.025917679Z"
+}

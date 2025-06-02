@@ -1,0 +1,17 @@
+{
+  "uuid": "8505df63-c87d-4122-8c28-2a98d3103869",
+  "path": "/usr/lib/firmware/hfi1_fabric.fw.zst",
+  "size": 14258,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.531541826Z",
+  "sha256_hash": "3068f5da3846be005493658434695f92af3893aecd37e473b029aac0b9c2274f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.525827727Z"
+}

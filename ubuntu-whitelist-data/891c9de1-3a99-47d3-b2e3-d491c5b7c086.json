@@ -1,0 +1,15 @@
+{
+  "uuid": "891c9de1-3a99-47d3-b2e3-d491c5b7c086",
+  "path": "/usr/lib/update-notifier/update-notifier-crash",
+  "size": 513,
+  "modified": "2024-10-08T13:47:14Z",
+  "created": "2025-05-09T05:24:21.710885176Z",
+  "sha256_hash": "38939cd92ed35f5cbb72dd04cfbfcbbabcdbb824e0db2a400ecb0c113dbfb06a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.266577712Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "5606999c-0e80-4435-9f5f-ebde58a7467a",
+  "path": "/usr/lib/llvm-18/bin/llvm-debuginfod-find",
+  "size": 72784,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:34.910489059Z",
+  "sha256_hash": "3112d4b866ec96e2e646ea0b62b4d3edc4dd4bd8596063ff185d7fae2d873415",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.891204609Z"
+}

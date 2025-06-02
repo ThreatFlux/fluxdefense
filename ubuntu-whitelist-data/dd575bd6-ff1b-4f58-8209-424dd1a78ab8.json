@@ -1,0 +1,17 @@
+{
+  "uuid": "dd575bd6-ff1b-4f58-8209-424dd1a78ab8",
+  "path": "/usr/lib/systemd/user/gnome-session@gnome-initial-setup.target.d/session.conf",
+  "size": 981,
+  "modified": "2024-08-12T18:30:31Z",
+  "created": "2025-05-09T05:07:28.307769094Z",
+  "sha256_hash": "fcf7952d21330a1e4e323787e849e9a640f9928e977931d98eeb048087fb7448",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.505109836Z"
+}

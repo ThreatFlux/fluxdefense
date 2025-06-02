@@ -1,0 +1,15 @@
+{
+  "uuid": "fbf84b98-7298-4411-9191-9cf20c99d725",
+  "path": "/lib/llvm-18/lib/libLLVMAMDGPUCodeGen.a",
+  "size": 17974624,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.719465233Z",
+  "sha256_hash": "f2f2d1ec2d10396580f6eb7c1b46b1b05f2805b78f980424616ddcc5240a1aa2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.840377135Z"
+}

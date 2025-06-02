@@ -1,0 +1,15 @@
+{
+  "uuid": "930ddb02-0d0b-4ee5-9186-1a84192bc0a8",
+  "path": "/usr/libexec/file-roller/rpm2cpio",
+  "size": 14720,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:37.583627546Z",
+  "sha256_hash": "2ca21457e84be1231f1de49114fa90407510b6f8b03dcf64e6232ede00d37882",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.482069121Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f7ba370d-e418-421f-9270-a41000c4905e",
+  "path": "/lib/udev/bridge-network-interface",
+  "size": 1306,
+  "modified": "2023-02-17T13:41:51Z",
+  "created": "2025-05-09T05:56:47.136669604Z",
+  "sha256_hash": "25b79bcde38d7b13e20e6e897e62381867d19a63cc986faead6e550acb11530f",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.100355489Z"
+}

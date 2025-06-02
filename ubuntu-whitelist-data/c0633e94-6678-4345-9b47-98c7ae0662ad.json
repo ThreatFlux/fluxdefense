@@ -1,0 +1,17 @@
+{
+  "uuid": "c0633e94-6678-4345-9b47-98c7ae0662ad",
+  "path": "/lib/google-cloud-sdk/platform/bq/VERSION",
+  "size": 7,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.814930545Z",
+  "sha256_hash": "e67f1458319ef2835dca80d629a8997a74d2e6f02bd4f9b319d6f5125d32b44e",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.984512207Z"
+}

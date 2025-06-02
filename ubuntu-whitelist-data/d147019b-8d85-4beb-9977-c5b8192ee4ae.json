@@ -1,0 +1,17 @@
+{
+  "uuid": "d147019b-8d85-4beb-9977-c5b8192ee4ae",
+  "path": "/lib/llvm-18/include/clang/AST/NestedNameSpecifier.h",
+  "size": 20030,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.518533726Z",
+  "sha256_hash": "54065d6021cf438f8bc136adcda8054eb296e3e8231924ba837ede94a773bad8",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.997395505Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "2029b290-60b3-4dec-b534-c7ddf42df043",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/config/cc_set_hostname.py",
+  "size": 3481,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.236037177Z",
+  "sha256_hash": "09ec21ebebd3d8a5e61685a348909270ba9d4c6ee5dcdf8cf5101da8f7c5f716",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.850587103Z"
+}

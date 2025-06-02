@@ -1,0 +1,17 @@
+{
+  "uuid": "30043219-4a21-4ef9-83e5-5eb4f272e210",
+  "path": "/lib/x86_64-linux-gnu/graphviz/libgvplugin_gd.so.6.0.0",
+  "size": 51424,
+  "modified": "2024-05-11T18:31:23Z",
+  "created": "2025-05-29T11:16:24.549805616Z",
+  "sha256_hash": "2a1c282483316514c6e5d6b117c11f5333477be3e21638282b2b6c785b219fc3",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.151765407Z"
+}

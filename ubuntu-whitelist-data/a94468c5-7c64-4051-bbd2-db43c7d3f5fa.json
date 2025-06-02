@@ -1,0 +1,15 @@
+{
+  "uuid": "a94468c5-7c64-4051-bbd2-db43c7d3f5fa",
+  "path": "/sbin/virtiostat-bpfcc",
+  "size": 8900,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.524499133Z",
+  "sha256_hash": "e1e82dc9f249ce7e783f00ccc0178110462f91ba8b2a9d86e30d248f99bde830",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.801958288Z"
+}

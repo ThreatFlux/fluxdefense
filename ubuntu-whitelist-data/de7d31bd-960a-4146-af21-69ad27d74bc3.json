@@ -1,0 +1,17 @@
+{
+  "uuid": "de7d31bd-960a-4146-af21-69ad27d74bc3",
+  "path": "/lib/firmware/rtw88/README.zst",
+  "size": 585,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.069534374Z",
+  "sha256_hash": "91787e02acd8835bf28d8dcb19f4744c9b2bc50b85a8bc3e7a37ea448dfc1631",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.447346994Z"
+}

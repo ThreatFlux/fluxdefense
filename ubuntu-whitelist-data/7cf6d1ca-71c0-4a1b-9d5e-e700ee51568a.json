@@ -1,0 +1,15 @@
+{
+  "uuid": "7cf6d1ca-71c0-4a1b-9d5e-e700ee51568a",
+  "path": "/usr/bin/hostname",
+  "size": 22760,
+  "modified": "2024-04-08T15:59:01Z",
+  "created": "2025-05-09T05:07:20.046895151Z",
+  "sha256_hash": "071fec20458397874e6121589d5210e7eed22a1b1afe16c2b9970b8a8233cc5b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.525472342Z"
+}

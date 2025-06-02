@@ -1,0 +1,17 @@
+{
+  "uuid": "fd0468fc-dfae-499a-8821-ce145da284b7",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/Time/HiRes.pm",
+  "size": 25689,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.520591297Z",
+  "sha256_hash": "43ccd5b396f0f51094fac95a8eea0aa4947cc28535c33db2d1e8ce41c55670f5",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.467915994Z"
+}

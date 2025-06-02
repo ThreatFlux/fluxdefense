@@ -1,0 +1,17 @@
+{
+  "uuid": "d67890aa-68fd-4e21-b65f-e4b47e06dc19",
+  "path": "/usr/lib/aspell/american-variant_0.alias",
+  "size": 85,
+  "modified": "2020-12-08T01:19:37Z",
+  "created": "2025-05-09T05:07:21.010880441Z",
+  "sha256_hash": "b3ec34b63eb073f36af5218d026ac944b989ec75a547ba55e6c4fa9cb45b60d9",
+  "file_type": {
+    "Other": "alias"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.299255661Z"
+}

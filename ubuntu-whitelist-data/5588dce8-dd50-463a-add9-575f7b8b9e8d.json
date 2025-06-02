@@ -1,0 +1,17 @@
+{
+  "uuid": "5588dce8-dd50-463a-add9-575f7b8b9e8d",
+  "path": "/lib/firmware/ath11k/IPQ8074/hw2.0/m3_fw.mdt.zst",
+  "size": 180,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.453542906Z",
+  "sha256_hash": "6148a508a634af057f7c57b83a19d1031c715b81da13e9d97b1d187daeb0617e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:03.399907461Z"
+}

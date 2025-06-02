@@ -1,0 +1,17 @@
+{
+  "uuid": "6ab7ae29-9327-4f66-8eea-212a644141b4",
+  "path": "/lib/llvm-18/include/clang/Basic/BuiltinsVEVL.gen.def",
+  "size": 82768,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.526533621Z",
+  "sha256_hash": "d758597cbb26ca31033237b8bf44c5fe85b0931572a5b744a8b0a5ec2280ed0e",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.150325548Z"
+}

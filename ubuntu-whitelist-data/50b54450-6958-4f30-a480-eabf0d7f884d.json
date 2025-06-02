@@ -1,0 +1,15 @@
+{
+  "uuid": "50b54450-6958-4f30-a480-eabf0d7f884d",
+  "path": "/usr/lib/update-notifier/apt_check.py",
+  "size": 18716,
+  "modified": "2024-10-08T13:47:14Z",
+  "created": "2025-05-09T05:24:21.991888836Z",
+  "sha256_hash": "a398c9a220df61480269e30b0471ad68cffca86ae7498620ca938af67a77a2e6",
+  "file_type": "Script",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.266845761Z"
+}

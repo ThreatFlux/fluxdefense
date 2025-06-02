@@ -1,0 +1,17 @@
+{
+  "uuid": "50193a73-5801-4cdc-9d53-57c45fb52c41",
+  "path": "/lib/firmware/amdgpu/sienna_cichlid_rlc.bin.zst",
+  "size": 48626,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.415543433Z",
+  "sha256_hash": "61f6291153d1f94dd1e136383ac3eca9cabe2b4d29a8ed794a3f78805bbd024c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.111285960Z"
+}

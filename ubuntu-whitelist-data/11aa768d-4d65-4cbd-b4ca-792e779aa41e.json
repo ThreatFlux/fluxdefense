@@ -1,0 +1,17 @@
+{
+  "uuid": "11aa768d-4d65-4cbd-b4ca-792e779aa41e",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-tifiio.adb",
+  "size": 18323,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.061344997Z",
+  "sha256_hash": "b838e04a877dbd1592a7bee378d202bbb9857403a50cca6cb717c03601175803",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.133785380Z"
+}

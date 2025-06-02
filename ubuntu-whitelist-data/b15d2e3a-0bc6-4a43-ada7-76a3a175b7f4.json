@@ -1,0 +1,17 @@
+{
+  "uuid": "b15d2e3a-0bc6-4a43-ada7-76a3a175b7f4",
+  "path": "/lib/x86_64-linux-gnu/liblzo2.so.2.0.0",
+  "size": 129096,
+  "modified": "2024-04-08T16:11:53Z",
+  "created": "2025-05-09T05:07:31.334722903Z",
+  "sha256_hash": "67a7624b45b4af0dd0d61122cfe16cf26353533a6b9d443179f6ec72093e0d48",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.288362752Z"
+}

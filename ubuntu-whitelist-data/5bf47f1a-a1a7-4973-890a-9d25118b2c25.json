@@ -1,0 +1,15 @@
+{
+  "uuid": "5bf47f1a-a1a7-4973-890a-9d25118b2c25",
+  "path": "/lib/x86_64-linux-gnu/enchant-2/enchant_hunspell.so",
+  "size": 26880,
+  "modified": "2024-03-31T07:33:26Z",
+  "created": "2025-05-09T05:07:35.356661529Z",
+  "sha256_hash": "f6b878252987745346223906dbb5478d826e6761b90f47f9dd8723ac3e6b130e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:12.230921527Z"
+}

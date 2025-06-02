@@ -1,0 +1,17 @@
+{
+  "uuid": "0e71480b-08b7-4f01-acb8-08de92df6c8b",
+  "path": "/usr/lib/firmware/ti/tas2781/TAS2XXX38B8.bin.zst",
+  "size": 4507,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.074534305Z",
+  "sha256_hash": "7ae1583105b1ca9b1864923257c50aba16119f521bb2bdf15fdb90316ff26f9c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.666176636Z"
+}

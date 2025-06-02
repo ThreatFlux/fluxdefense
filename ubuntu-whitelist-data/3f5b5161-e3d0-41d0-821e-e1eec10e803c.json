@@ -1,0 +1,15 @@
+{
+  "uuid": "3f5b5161-e3d0-41d0-821e-e1eec10e803c",
+  "path": "/lib/x86_64-linux-gnu/gprofng/libgp-collector.so",
+  "size": 1341720,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:51.891577775Z",
+  "sha256_hash": "7b23cbcd5e20efe6292028602ada2a1cc57c88ae94b641a6247ee409e507e3db",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.106763918Z"
+}

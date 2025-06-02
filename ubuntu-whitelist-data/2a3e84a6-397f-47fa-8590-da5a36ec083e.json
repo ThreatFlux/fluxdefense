@@ -1,0 +1,17 @@
+{
+  "uuid": "2a3e84a6-397f-47fa-8590-da5a36ec083e",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-avision.so.1.2.1",
+  "size": 234392,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.129634474Z",
+  "sha256_hash": "a7053d344f4da5594edb64489ca575f80fce9d745bf085742d95983f82ba9791",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.231486529Z"
+}

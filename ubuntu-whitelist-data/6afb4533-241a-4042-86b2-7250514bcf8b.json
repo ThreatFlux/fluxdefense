@@ -1,0 +1,15 @@
+{
+  "uuid": "6afb4533-241a-4042-86b2-7250514bcf8b",
+  "path": "/usr/bin/foo2hiperc-wrapper",
+  "size": 18541,
+  "modified": "2024-04-10T21:38:27Z",
+  "created": "2025-05-09T05:07:19.220907755Z",
+  "sha256_hash": "5d48bd4b75956b432d87a24374f89509b5342e1290e14280dc7d70c9bd7fdbc6",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:08.029116596Z"
+}

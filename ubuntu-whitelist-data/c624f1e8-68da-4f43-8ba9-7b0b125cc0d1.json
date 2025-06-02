@@ -1,0 +1,15 @@
+{
+  "uuid": "c624f1e8-68da-4f43-8ba9-7b0b125cc0d1",
+  "path": "/usr/lib/python3/dist-packages/paramiko/kex_gss.py",
+  "size": 24585,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:27.141786886Z",
+  "sha256_hash": "095c7afc37ab5885455d5b6cd4c21c20f19a267f90a8d5fddbe4a7e21e8c38f8",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.602387630Z"
+}

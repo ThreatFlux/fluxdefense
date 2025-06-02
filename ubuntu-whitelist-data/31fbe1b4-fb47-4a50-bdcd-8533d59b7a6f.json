@@ -1,0 +1,17 @@
+{
+  "uuid": "31fbe1b4-fb47-4a50-bdcd-8533d59b7a6f",
+  "path": "/lib/python3.12/test/zipdir_backslash.zip",
+  "size": 192,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.054550948Z",
+  "sha256_hash": "afdfa1f139c91c2b486f3a4a931bef18e08883fc5f5c81975f5bd19cf92e6d1f",
+  "file_type": {
+    "Other": "zip"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.284429276Z"
+}

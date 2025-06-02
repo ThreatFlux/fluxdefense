@@ -1,0 +1,17 @@
+{
+  "uuid": "f04761ce-9d2b-4cba-b392-796951817cc9",
+  "path": "/lib/sysctl.d/30-tracker.conf",
+  "size": 68,
+  "modified": "2024-03-27T22:35:21Z",
+  "created": "2025-05-09T05:07:28.222770390Z",
+  "sha256_hash": "ee8f5ed2461af236339d5f0de7e22f06b058f5d1f4633160dd0824d0156c740a",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.748697591Z"
+}

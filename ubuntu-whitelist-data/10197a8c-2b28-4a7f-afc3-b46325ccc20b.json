@@ -1,0 +1,17 @@
+{
+  "uuid": "10197a8c-2b28-4a7f-afc3-b46325ccc20b",
+  "path": "/usr/lib/firmware/amdgpu/navi14_sos.bin.zst",
+  "size": 100773,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.406543557Z",
+  "sha256_hash": "3370bb6708c275e515e96faa2ab3607924f180797c9c8f7add840508c74763f5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.927638116Z"
+}

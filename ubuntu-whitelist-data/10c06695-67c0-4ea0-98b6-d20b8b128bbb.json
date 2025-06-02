@@ -1,0 +1,17 @@
+{
+  "uuid": "10c06695-67c0-4ea0-98b6-d20b8b128bbb",
+  "path": "/lib/firmware/intel/dsp_fw_bxtn_v2219.bin.zst",
+  "size": 182568,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.547541604Z",
+  "sha256_hash": "0b704007aed1bdfca6567764eaf1686c1313fe597adb910a4211251425d5d690",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.190246100Z"
+}

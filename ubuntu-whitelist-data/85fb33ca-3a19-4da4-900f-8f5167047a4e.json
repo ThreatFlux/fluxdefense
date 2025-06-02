@@ -1,0 +1,15 @@
+{
+  "uuid": "85fb33ca-3a19-4da4-900f-8f5167047a4e",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/CP10007.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.605657729Z",
+  "sha256_hash": "7239fc1acc0d7ba65050a7e5585f9ef26b7329fb71975740dda20af94d334f5e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.489641655Z"
+}

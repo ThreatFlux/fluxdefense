@@ -1,0 +1,15 @@
+{
+  "uuid": "efefa00f-d65e-4f70-805d-185d55e154ae",
+  "path": "/lib/llvm-18/lib/libLLVMIRReader.a",
+  "size": 30188,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.898462876Z",
+  "sha256_hash": "8910f97b218f0860fa0e9d6a3f9f6e68c6f32dcf1c078ca408d18910867b477a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.291864658Z"
+}

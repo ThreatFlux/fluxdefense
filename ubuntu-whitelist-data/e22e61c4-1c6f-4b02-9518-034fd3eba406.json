@@ -1,0 +1,15 @@
+{
+  "uuid": "e22e61c4-1c6f-4b02-9518-034fd3eba406",
+  "path": "/usr/lib/x86_64-linux-gnu/gawk/revoutput.so",
+  "size": 14520,
+  "modified": "2024-03-31T05:33:52Z",
+  "created": "2025-05-23T03:43:48.621716868Z",
+  "sha256_hash": "f69bf03bfaf3130bdfb13f78de171d69e6f07a0627a25f74536c2438c3f0cef1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.318347593Z"
+}

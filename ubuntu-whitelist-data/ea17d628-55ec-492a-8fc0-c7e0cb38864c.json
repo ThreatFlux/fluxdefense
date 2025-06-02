@@ -1,0 +1,17 @@
+{
+  "uuid": "ea17d628-55ec-492a-8fc0-c7e0cb38864c",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/g-os_lib.ali",
+  "size": 1062,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.108344351Z",
+  "sha256_hash": "f5487484109afdd65d5617ee36b3a5324a2211eb580a7b7674403afbc358b5cf",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.668323394Z"
+}

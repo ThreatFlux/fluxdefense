@@ -1,0 +1,17 @@
+{
+  "uuid": "120e9356-cb03-48d0-bd25-bcf0003f37eb",
+  "path": "/lib/firmware/cxgb4/configs/t4-config-default.txt.zst",
+  "size": 6390,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.512542089Z",
+  "sha256_hash": "21347a38a62b01570e100a7ff9d4fe0204e4f7d0bbac4f26a1ed5ffc257818b2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.635425556Z"
+}

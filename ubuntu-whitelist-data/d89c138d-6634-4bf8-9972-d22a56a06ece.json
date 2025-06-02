@@ -1,0 +1,17 @@
+{
+  "uuid": "d89c138d-6634-4bf8-9972-d22a56a06ece",
+  "path": "/usr/lib/firmware/netronome/nic/nic_AMDA0078-0011_1x100.nffw.zst",
+  "size": 126483,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.897536756Z",
+  "sha256_hash": "0124f2a7aa68a87efdaa10893d6fc230b99df435a6f0bac360cabc4af02d5905",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.680639807Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b444f363-c49f-4d92-9b92-b791dd609337",
+  "path": "/usr/lib/udev/rules.d/60-libgphoto2-6t64.rules",
+  "size": 7584,
+  "modified": "2024-03-31T02:00:03Z",
+  "created": "2025-05-09T05:07:28.436767125Z",
+  "sha256_hash": "d5d763fc6bb657c7f3507d2817ab5dea95bc94b37aaf5231b39e0ebeca34a45e",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.104156042Z"
+}

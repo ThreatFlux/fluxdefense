@@ -1,0 +1,17 @@
+{
+  "uuid": "dd2243cb-0b84-46a2-96b2-41a5682429ea",
+  "path": "/lib/firmware/i915/tgl_guc_49.0.1.bin.zst",
+  "size": 114348,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.544541646Z",
+  "sha256_hash": "d89b6a88ad965456a812cb9f34f45f7bb7a33d4b4e7b92d9fac0f913a6985362",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.709716326Z"
+}

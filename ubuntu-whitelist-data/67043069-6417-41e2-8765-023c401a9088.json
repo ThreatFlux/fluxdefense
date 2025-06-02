@@ -1,0 +1,17 @@
+{
+  "uuid": "67043069-6417-41e2-8765-023c401a9088",
+  "path": "/lib/x86_64-linux-gnu/libabsl_low_level_hash.so.20220623.0.0",
+  "size": 14128,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.939492424Z",
+  "sha256_hash": "24e2a51f5ff92730c41658431651d8653f0c19e26069e7ec1bd086fa38d46cab",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.737129419Z"
+}

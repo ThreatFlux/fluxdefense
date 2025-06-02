@@ -1,0 +1,15 @@
+{
+  "uuid": "4031f1ee-fe24-4f92-aab4-8e166cc9ebf0",
+  "path": "/usr/lib/llvm-18/lib/libclangIndex.a",
+  "size": 1295926,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.735530868Z",
+  "sha256_hash": "21ccded0d5fee89778ecbaa7c90842d0280f6f1ef2af49fc7df36eef758619bb",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:34.190405648Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "2a5974a2-5d51-48a0-8ecf-bc736cc11e33",
+  "path": "/lib/llvm-18/include/clang-tidy/readability/RedundantDeclarationCheck.h",
+  "size": 1286,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "7400c036a75e3d3c75e87e9a6e5dda5560372f1e27808cf43997772eb10ec089",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.922269306Z"
+}

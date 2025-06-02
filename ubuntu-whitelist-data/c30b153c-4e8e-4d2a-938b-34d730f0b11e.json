@@ -1,0 +1,17 @@
+{
+  "uuid": "c30b153c-4e8e-4d2a-938b-34d730f0b11e",
+  "path": "/lib/modprobe.d/fbdev-blacklist.conf",
+  "size": 390,
+  "modified": "2025-02-18T17:24:37Z",
+  "created": "2025-05-09T05:24:14.044786143Z",
+  "sha256_hash": "e99b6166cf309aa1cbbd296d9fbf93af567148c7316c8d5d7a057cf3e85113ea",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.186851606Z"
+}

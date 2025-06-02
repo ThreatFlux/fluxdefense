@@ -1,0 +1,17 @@
+{
+  "uuid": "96317e97-e5ba-41d3-84e7-ecf5be938338",
+  "path": "/usr/lib/x86_64-linux-gnu/libvirt-gobject-1.0.so.0.5000.0",
+  "size": 190848,
+  "modified": "2024-03-31T02:20:12Z",
+  "created": "2025-05-09T05:56:59.023536094Z",
+  "sha256_hash": "0f4ad7363c6c1ded0a3adfb66f0b7b998a5a536307eb06cf96663407cf14b4f4",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.449357939Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "22aa14dc-a143-46c4-a5e2-90ec6c72a21c",
+  "path": "/lib/llvm-18/lib/libclangTidyOpenMPModule.a",
+  "size": 113498,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.892528800Z",
+  "sha256_hash": "1e5ad84258a25132315f44574e27f088f04cb05aa5724ea2bc361863f33c84ec",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.123235294Z"
+}

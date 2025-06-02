@@ -1,0 +1,17 @@
+{
+  "uuid": "54881d3d-26af-4ac6-90b9-525b1f58a287",
+  "path": "/lib/firmware/ene-ub6250/sd_rdwr.bin.zst",
+  "size": 681,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.530541840Z",
+  "sha256_hash": "2b27faab1945707fbd29c441e7d15dcc6408c1fec2b60a07837c84e5a557d8c7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.005602594Z"
+}

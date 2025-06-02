@@ -1,0 +1,15 @@
+{
+  "uuid": "e4119c3a-6a93-48a7-9b9a-ff63efeff6a8",
+  "path": "/lib/llvm-18/lib/libLLVMFuzzMutate.a",
+  "size": 392344,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.880463113Z",
+  "sha256_hash": "6c3f40ae9a56f716bc298dc272ec6056cbc857c2208930dfff063b458d7fb2a7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.637294998Z"
+}

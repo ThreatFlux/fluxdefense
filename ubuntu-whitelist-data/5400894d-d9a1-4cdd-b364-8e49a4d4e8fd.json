@@ -1,0 +1,17 @@
+{
+  "uuid": "5400894d-d9a1-4cdd-b364-8e49a4d4e8fd",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/cairo-ps.pc",
+  "size": 186,
+  "modified": "2024-04-16T13:33:30Z",
+  "created": "2025-05-29T11:16:06.229057020Z",
+  "sha256_hash": "4755e1b0d86e6f4f46c12684cce06b894345829acfa0d7d6c18d864cbc4685f2",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.101821976Z"
+}

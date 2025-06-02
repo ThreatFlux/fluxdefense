@@ -1,0 +1,15 @@
+{
+  "uuid": "d0d60ab8-034d-4830-b725-17f49bbbdd12",
+  "path": "/lib/pppd/2.4.9/openl2tp.so",
+  "size": 14480,
+  "modified": "2024-04-03T17:56:59Z",
+  "created": "2025-05-09T05:07:25.897805869Z",
+  "sha256_hash": "2193c9d2dbbc59b46abf8a8324d98d75ad9bb6b9470d47bb30202bdfd7abff2a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.132836530Z"
+}

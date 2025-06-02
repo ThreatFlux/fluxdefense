@@ -1,0 +1,15 @@
+{
+  "uuid": "2e15e324-d9a9-4730-af06-7e9502ed43b8",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstflxdec.so",
+  "size": 39312,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.772655181Z",
+  "sha256_hash": "e0af0258ece15abcbd9205f3cce83ea7fb0f326924cc78ffa60a8303585019d2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.111779009Z"
+}

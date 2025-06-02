@@ -1,0 +1,17 @@
+{
+  "uuid": "a728dc69-6ad6-4047-8422-4bd3b5b82038",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/asm-generic/socket.ph",
+  "size": 7855,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.521591281Z",
+  "sha256_hash": "c119efc667dfb60c273e6995b341220939b0dcd504a303bee053238374a08c61",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.697130016Z"
+}

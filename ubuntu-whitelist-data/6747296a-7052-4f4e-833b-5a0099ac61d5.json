@@ -1,0 +1,17 @@
+{
+  "uuid": "6747296a-7052-4f4e-833b-5a0099ac61d5",
+  "path": "/usr/lib/firmware/v4l-cx2341x-enc.fw.zst",
+  "size": 50017,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.081534208Z",
+  "sha256_hash": "e82fd285194266c2caa077c36f006890bfdb5eab91d28c661fc90d5d245cd889",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.723884860Z"
+}

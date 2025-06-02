@@ -1,0 +1,15 @@
+{
+  "uuid": "fdcd6845-be20-42e3-9e5f-139b93f65cd6",
+  "path": "/bin/inetutils-telnet",
+  "size": 182120,
+  "modified": "2024-03-31T00:08:22Z",
+  "created": "2025-05-09T05:07:20.056894998Z",
+  "sha256_hash": "97f31f934f46957c5d4c4d8a66b5422bfe177723db89b0d1964939c1a99e084b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.501113658Z"
+}

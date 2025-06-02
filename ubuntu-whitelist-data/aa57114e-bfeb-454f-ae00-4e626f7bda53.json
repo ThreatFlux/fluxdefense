@@ -1,0 +1,17 @@
+{
+  "uuid": "aa57114e-bfeb-454f-ae00-4e626f7bda53",
+  "path": "/lib/x86_64-linux-gnu/libsamplerate.so.0.2.2",
+  "size": 1497776,
+  "modified": "2024-04-08T16:06:59Z",
+  "created": "2025-05-09T05:07:32.128710787Z",
+  "sha256_hash": "d18228ce734852b424a7baa27d0edf5bfb5aaff6de7a2b541a97c94985586bd3",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.282573382Z"
+}

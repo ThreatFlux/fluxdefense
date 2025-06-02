@@ -1,0 +1,15 @@
+{
+  "uuid": "ec7e753a-f189-49f4-8a1a-b80eac8cd058",
+  "path": "/bin/zipsplit",
+  "size": 59800,
+  "modified": "2025-01-22T09:00:33Z",
+  "created": "2025-05-09T05:07:20.961881189Z",
+  "sha256_hash": "7226535b6e12dc11036dae679ba5bbb3ff0bcd010973f5fea2ce35e7c557fd7b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.815760544Z"
+}

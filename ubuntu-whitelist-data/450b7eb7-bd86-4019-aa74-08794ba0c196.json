@@ -1,0 +1,17 @@
+{
+  "uuid": "450b7eb7-bd86-4019-aa74-08794ba0c196",
+  "path": "/usr/lib/systemd/system/console-getty.service",
+  "size": 1153,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.510779317Z",
+  "sha256_hash": "97009d9e2236871740c8fe4d28a7020c05d3f0ab943ce1610c3414e53d4b6db6",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.482860374Z"
+}

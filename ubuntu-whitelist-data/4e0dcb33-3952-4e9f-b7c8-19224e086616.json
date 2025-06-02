@@ -1,0 +1,17 @@
+{
+  "uuid": "4e0dcb33-3952-4e9f-b7c8-19224e086616",
+  "path": "/usr/lib/firmware/mrvl/sd8801_uapsta.bin.zst",
+  "size": 179198,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.887536895Z",
+  "sha256_hash": "1e9b7f633cc9f7627503097ee085b766e3d9065ba1d583eb889dad8032ccc7b6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.406669092Z"
+}

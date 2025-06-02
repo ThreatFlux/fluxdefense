@@ -1,0 +1,17 @@
+{
+  "uuid": "f9d72fb1-1c02-486f-ae57-57e58648f0f5",
+  "path": "/usr/lib/llvm-18/include/clang/Sema/TemplateDeduction.h",
+  "size": 13389,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.549533318Z",
+  "sha256_hash": "1728cf7c29da27f814e635225967e4aa7071d11d1fd614250885431b0f15454d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.474508953Z"
+}

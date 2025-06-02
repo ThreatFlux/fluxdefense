@@ -1,0 +1,15 @@
+{
+  "uuid": "4840364f-f509-42d7-8cb6-93c9a30bcafa",
+  "path": "/lib/llvm-18/lib/libclangLex.a",
+  "size": 1956916,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.737530842Z",
+  "sha256_hash": "f9889901701d6fe9334a12ca9df5ad3b4cfa62cba93aba9f9d817d43d74cd5ff",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.099883335Z"
+}

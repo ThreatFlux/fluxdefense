@@ -1,0 +1,15 @@
+{
+  "uuid": "56274392-78b9-413f-b407-d571ad12a4b7",
+  "path": "/usr/libexec/installed-tests/rtkit/rtkit-test",
+  "size": 14640,
+  "modified": "2024-04-08T16:18:41Z",
+  "created": "2025-05-09T05:07:38.040620572Z",
+  "sha256_hash": "096421409850daf2250783a64af1c3f0985a7f20a631da73ac78948a1b854367",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.102908272Z"
+}

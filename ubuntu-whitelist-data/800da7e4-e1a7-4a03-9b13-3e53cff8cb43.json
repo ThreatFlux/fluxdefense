@@ -1,0 +1,17 @@
+{
+  "uuid": "800da7e4-e1a7-4a03-9b13-3e53cff8cb43",
+  "path": "/usr/lib/firmware/rtl_bt/rtl8812ae_fw.bin.zst",
+  "size": 19020,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.066534416Z",
+  "sha256_hash": "e284053dc8e86e72cba636d35c0e0b79e220b6aba9dfee1e28571451650eab48",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.545793774Z"
+}

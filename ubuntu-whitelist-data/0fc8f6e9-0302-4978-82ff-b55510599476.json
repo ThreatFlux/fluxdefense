@@ -1,0 +1,17 @@
+{
+  "uuid": "0fc8f6e9-0302-4978-82ff-b55510599476",
+  "path": "/lib/grub/x86_64-efi/video.mod",
+  "size": 9016,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.840707972Z",
+  "sha256_hash": "b92d07137ecfa8cb099c4c3c7730565189e2d03111e98dcc37c31a8c2e73239f",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.053901160Z"
+}

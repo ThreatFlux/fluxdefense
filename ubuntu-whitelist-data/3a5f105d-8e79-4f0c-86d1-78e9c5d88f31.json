@@ -1,0 +1,15 @@
+{
+  "uuid": "3a5f105d-8e79-4f0c-86d1-78e9c5d88f31",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/distros/ubuntu.py",
+  "size": 2374,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.238037203Z",
+  "sha256_hash": "56d74034ebde89fd6c412bea4de8f53d1430c7f9c1b71e25b9f25f3837355db2",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.840575843Z"
+}

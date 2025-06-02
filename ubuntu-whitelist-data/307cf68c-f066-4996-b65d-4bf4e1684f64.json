@@ -1,0 +1,17 @@
+{
+  "uuid": "307cf68c-f066-4996-b65d-4bf4e1684f64",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/FileManager.h",
+  "size": 13648,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.530533568Z",
+  "sha256_hash": "9e1fa456d27a51b3ec88572ee18c1459c32e16ae21483de3c27de32103fb0fc0",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.563794097Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "ee26a349-e86b-497f-9468-f9ef46562269",
+  "path": "/lib/x86_64-linux-gnu/libc_nonshared.a",
+  "size": 5594,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:08:53.070475538Z",
+  "sha256_hash": "3341391290ddd596521a61152b4e2612f4625cc85f737d875b918f6cfb2b2786",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.826208852Z"
+}

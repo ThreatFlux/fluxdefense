@@ -1,0 +1,15 @@
+{
+  "uuid": "22bcd563-b28c-4396-ab39-317ec7b19952",
+  "path": "/lib/llvm-18/lib/libLLVMOrcShared.a",
+  "size": 96792,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.959462072Z",
+  "sha256_hash": "5b800e660bebe69b8e90c8e68db639e184214f5d37e5e09274935a5519a9b049",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:37.020463440Z"
+}

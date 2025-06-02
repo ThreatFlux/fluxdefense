@@ -1,0 +1,17 @@
+{
+  "uuid": "5768bbd6-f1fd-469c-9df5-e6d523b8d1b7",
+  "path": "/usr/lib/x86_64-linux-gnu/liborcus-parser-0.18.so.0.0.0",
+  "size": 326912,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:31.779716112Z",
+  "sha256_hash": "c5dee99ea3a15343a5f1d83c7ac1684c4bc56396625d42c9d6e0dd19017df0fa",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.794457726Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a1520ff1-c88c-40e2-8035-6990995d8778",
+  "path": "/usr/lib/systemd/system/cryptsetup.target",
+  "size": 420,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "a6acf535dd967c951bab7d1df42004405167603ffbbd4cf7bf84cb6b8c868e00",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.463902213Z"
+}

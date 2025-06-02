@@ -1,0 +1,17 @@
+{
+  "uuid": "968652e8-f2ab-4b0f-8414-b09019fd0106",
+  "path": "/usr/lib/suricata/ebpf/vlan_filter.bpf",
+  "size": 808,
+  "modified": "2024-04-01T09:12:58Z",
+  "created": "2025-05-26T20:18:27.620014393Z",
+  "sha256_hash": "f64814a074ac65cf860e5c8e9f4f108a53bb879a3682979770ea27f518f5951e",
+  "file_type": {
+    "Other": "bpf"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.276184681Z"
+}

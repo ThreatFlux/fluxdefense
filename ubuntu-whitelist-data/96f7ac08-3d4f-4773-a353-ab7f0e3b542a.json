@@ -1,0 +1,17 @@
+{
+  "uuid": "96f7ac08-3d4f-4773-a353-ab7f0e3b542a",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-dell1600n_net.so.1.2.1",
+  "size": 55520,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.137634352Z",
+  "sha256_hash": "a2df5f14fc6cf629f2165e631156201e7191935ed2edf55f4278e06d9f706657",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.758693136Z"
+}

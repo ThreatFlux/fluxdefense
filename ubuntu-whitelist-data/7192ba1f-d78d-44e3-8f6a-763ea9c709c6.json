@@ -1,0 +1,15 @@
+{
+  "uuid": "7192ba1f-d78d-44e3-8f6a-763ea9c709c6",
+  "path": "/lib/x86_64-linux-gnu/sssd/libifp_iface.so",
+  "size": 96968,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:37.239632795Z",
+  "sha256_hash": "1a56506197cb58baf5df2a7b0620f488dea6adec19bb5b17748f0add18ddc68d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.851308189Z"
+}

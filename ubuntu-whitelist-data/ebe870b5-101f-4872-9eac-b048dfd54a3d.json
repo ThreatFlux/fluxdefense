@@ -1,0 +1,17 @@
+{
+  "uuid": "ebe870b5-101f-4872-9eac-b048dfd54a3d",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/performance/NoAutomaticMoveCheck.h",
+  "size": 1437,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "bc03561e8e8020134ff7c1129ff8b52a6aa9f70012f58fea889184ccca841e0e",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.279963652Z"
+}

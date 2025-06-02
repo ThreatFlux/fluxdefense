@@ -1,0 +1,15 @@
+{
+  "uuid": "0434eee9-8a5f-4955-b207-c7a1befe9af1",
+  "path": "/usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-pulse-tunnel.so",
+  "size": 76048,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.784860128Z",
+  "sha256_hash": "547b301e3c34182ee8df927fc5fe89e9f4aefcd2684fce86ed9b536fd96d7414",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.401081419Z"
+}

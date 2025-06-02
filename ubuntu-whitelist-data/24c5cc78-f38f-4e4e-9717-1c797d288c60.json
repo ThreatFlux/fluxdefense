@@ -1,0 +1,15 @@
+{
+  "uuid": "24c5cc78-f38f-4e4e-9717-1c797d288c60",
+  "path": "/usr/bin/asan_symbolize-18",
+  "size": 42995,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:30.860542392Z",
+  "sha256_hash": "ac51817f26ae667e5d49942d9514484639b85ea5f0d7fc79aa016929ff1ef8ed",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:14.432453510Z"
+}

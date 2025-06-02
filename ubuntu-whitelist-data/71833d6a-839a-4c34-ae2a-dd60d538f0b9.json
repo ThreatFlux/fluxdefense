@@ -1,0 +1,17 @@
+{
+  "uuid": "71833d6a-839a-4c34-ae2a-dd60d538f0b9",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/libpcre2-posix.pc",
+  "size": 316,
+  "modified": "2024-10-02T12:40:51Z",
+  "created": "2025-05-13T14:30:45.399492426Z",
+  "sha256_hash": "a60478412dccc4d1cb64fa34f11728710ae5b343c04c85621b42714c073d3b6a",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.057712167Z"
+}

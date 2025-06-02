@@ -1,0 +1,17 @@
+{
+  "uuid": "c3d253c1-13af-41e3-8588-e641d5e30d0a",
+  "path": "/lib/firmware/qca/nvm_00440302_i2s_eu.bin.zst",
+  "size": 1166,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.968535773Z",
+  "sha256_hash": "e47c0476824d2d2ab6de0df949806e79da3b79cfe2dc944aa826ab303483b127",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.173552841Z"
+}

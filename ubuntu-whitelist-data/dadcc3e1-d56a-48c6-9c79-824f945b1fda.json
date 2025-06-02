@@ -1,0 +1,17 @@
+{
+  "uuid": "dadcc3e1-d56a-48c6-9c79-824f945b1fda",
+  "path": "/usr/lib/systemd/user/pipewire.service",
+  "size": 1022,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.623858040Z",
+  "sha256_hash": "e312515933755466d46f47211ab9888cb76dd1af346c8e02a5be66c39dd5f3cf",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.502645783Z"
+}

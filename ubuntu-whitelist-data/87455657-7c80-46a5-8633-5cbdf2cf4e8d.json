@@ -1,0 +1,17 @@
+{
+  "uuid": "87455657-7c80-46a5-8633-5cbdf2cf4e8d",
+  "path": "/usr/lib/llvm-18/include/clang/Edit/Commit.h",
+  "size": 5336,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.542533410Z",
+  "sha256_hash": "e4cd2c7bf0fb77875f250b8f5a6ba4e5fccae88e2c7ff6ef3764368b6352c935",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.418853067Z"
+}

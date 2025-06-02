@@ -1,0 +1,15 @@
+{
+  "uuid": "6590b233-448a-420c-947b-debaf5eacbbb",
+  "path": "/usr/sbin/funclatency-bpfcc",
+  "size": 11549,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "bea0c86b922d13909cc823424be22c7048f4d1dc09ddaf953c41e343409a5bf7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.315136048Z"
+}

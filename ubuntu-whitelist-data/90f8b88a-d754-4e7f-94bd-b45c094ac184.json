@@ -1,0 +1,15 @@
+{
+  "uuid": "90f8b88a-d754-4e7f-94bd-b45c094ac184",
+  "path": "/usr/sbin/update-fonts-dir",
+  "size": 4076,
+  "modified": "2016-08-21T16:54:11Z",
+  "created": "2025-05-09T05:07:38.450614315Z",
+  "sha256_hash": "432db15cec04e217b22bcc165c1ae5b1d794b6a1fde2477d8db33811b2d7717d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.539538671Z"
+}

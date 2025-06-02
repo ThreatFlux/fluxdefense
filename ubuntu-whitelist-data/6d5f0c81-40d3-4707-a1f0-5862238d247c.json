@@ -1,0 +1,17 @@
+{
+  "uuid": "6d5f0c81-40d3-4707-a1f0-5862238d247c",
+  "path": "/lib/systemd/system/systemd-rfkill.socket",
+  "size": 776,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "5cda320376c6bcb9c5b75637d01507ece1100b0d352dd5be2bc0416c2a63e2af",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.127467411Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "ace61e67-da29-420e-a7d1-28ef20fd378a",
+  "path": "/lib/systemd/system/geoclue.service",
+  "size": 507,
+  "modified": "2024-04-08T14:39:26Z",
+  "created": "2025-05-09T05:07:28.299769216Z",
+  "sha256_hash": "8e6c5bcf43707edf3e73f4bdf9c10c54b49ccb7476c7014ebbaa24d99b2b9a62",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.109015919Z"
+}

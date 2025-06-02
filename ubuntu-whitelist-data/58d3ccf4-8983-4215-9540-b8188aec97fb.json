@@ -1,0 +1,17 @@
+{
+  "uuid": "58d3ccf4-8983-4215-9540-b8188aec97fb",
+  "path": "/usr/lib/grub/x86_64-efi/msdospart.mod",
+  "size": 3744,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.837708018Z",
+  "sha256_hash": "9b50c9633ff6ede7643f0563f50506a0b8dd8c2a622372f92360e9464872fba1",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.455491569Z"
+}

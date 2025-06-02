@@ -1,0 +1,15 @@
+{
+  "uuid": "b07058bf-0268-40d5-8b56-a8c0d8027323",
+  "path": "/usr/lib/x86_64-linux-gnu/perl-base/auto/POSIX/POSIX.so",
+  "size": 106336,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.359578490Z",
+  "sha256_hash": "3f7bed67c0b3fb26b4008bb547ad9ac50c621055bf6a614c28e12a1699f4eb9e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.724478791Z"
+}

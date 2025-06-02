@@ -1,0 +1,15 @@
+{
+  "uuid": "54a8bb9e-2b9d-4f75-aee5-8eb68c081cbc",
+  "path": "/lib/x86_64-linux-gnu/sssd/libsss_sbus.so",
+  "size": 250904,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:37.274632261Z",
+  "sha256_hash": "5e8ca04cfa4b51feb33966b054661693c5b8aa83dcae4c877558641bd5444293",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.868359045Z"
+}

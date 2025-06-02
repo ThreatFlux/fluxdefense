@@ -1,0 +1,17 @@
+{
+  "uuid": "a3aee21b-8e3e-42f0-b886-737bbdff6cd1",
+  "path": "/lib/firmware/intel/ibt-1040-2120.sfi.zst",
+  "size": 533308,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.559541438Z",
+  "sha256_hash": "6021e0e9b11fcc18b28c02a1507ea249120f32796d943290d093c85d06e8ae0e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.201306234Z"
+}

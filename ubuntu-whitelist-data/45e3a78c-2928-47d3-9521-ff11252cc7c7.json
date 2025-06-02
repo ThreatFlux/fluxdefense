@@ -1,0 +1,17 @@
+{
+  "uuid": "45e3a78c-2928-47d3-9521-ff11252cc7c7",
+  "path": "/lib/x86_64-linux-gnu/libmlx5.so.1.24.50.0",
+  "size": 545464,
+  "modified": "2024-03-31T08:21:10Z",
+  "created": "2025-05-09T05:07:31.349722674Z",
+  "sha256_hash": "eb26194950649348dc57f528922e31ebb4931f701da9f8bcf3ce7b28ae32e307",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.154769533Z"
+}

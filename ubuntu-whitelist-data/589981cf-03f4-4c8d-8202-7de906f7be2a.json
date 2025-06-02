@@ -1,0 +1,17 @@
+{
+  "uuid": "589981cf-03f4-4c8d-8202-7de906f7be2a",
+  "path": "/lib/llvm-18/lib/cmake/llvm/LLVMProcessSources.cmake",
+  "size": 4345,
+  "modified": "2023-12-03T09:16:41Z",
+  "created": "2025-05-12T13:34:36.685465681Z",
+  "sha256_hash": "4820665700d033b8ce654c386d6021e80bf77f0a3b9958eb11ca5397c919e9ab",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.510682736Z"
+}

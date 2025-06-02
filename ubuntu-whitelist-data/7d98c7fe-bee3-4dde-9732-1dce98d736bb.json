@@ -1,0 +1,17 @@
+{
+  "uuid": "7d98c7fe-bee3-4dde-9732-1dce98d736bb",
+  "path": "/usr/lib/x86_64-linux-gnu/liborc-0.4.so.0.38.0",
+  "size": 729168,
+  "modified": "2024-08-05T20:30:20Z",
+  "created": "2025-05-09T05:07:31.763716357Z",
+  "sha256_hash": "baa74cdf0b9e0ae85045d1b1836a4c4431ed7d34a3274f4a78f1817f7c52cdce",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:13.790151798Z"
+}

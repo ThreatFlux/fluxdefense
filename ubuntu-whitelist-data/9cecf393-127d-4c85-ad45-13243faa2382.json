@@ -1,0 +1,17 @@
+{
+  "uuid": "9cecf393-127d-4c85-ad45-13243faa2382",
+  "path": "/usr/lib/llvm-18/include/clang/AST/CommentDiagnostic.h",
+  "size": 509,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.515533766Z",
+  "sha256_hash": "541dceae17dabeddf78b42f6922a62a50dd804f9b1f0b7132f8f708e98dc991a",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.325898869Z"
+}

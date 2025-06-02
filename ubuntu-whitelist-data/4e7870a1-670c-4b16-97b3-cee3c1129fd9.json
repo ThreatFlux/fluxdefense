@@ -1,0 +1,17 @@
+{
+  "uuid": "4e7870a1-670c-4b16-97b3-cee3c1129fd9",
+  "path": "/usr/lib/x86_64-linux-gnu/libmm-glib.so.0.10.0",
+  "size": 1136712,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:31.349722674Z",
+  "sha256_hash": "ce9c6ae6318db42c9f9b9bef77b107044a58624baa109ba67df3b2bacb9a1d6e",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.490220686Z"
+}

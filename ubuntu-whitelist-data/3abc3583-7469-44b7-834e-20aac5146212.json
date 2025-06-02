@@ -1,0 +1,15 @@
+{
+  "uuid": "3abc3583-7469-44b7-834e-20aac5146212",
+  "path": "/bin/ninja",
+  "size": 248040,
+  "modified": "2023-09-03T14:34:04Z",
+  "created": "2025-05-13T14:30:46.576469400Z",
+  "sha256_hash": "5965527e09fe2b3787772aa4f711d6a36b393e7f2fcaa744a7a96c5a4ddf59cb",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.484151452Z"
+}

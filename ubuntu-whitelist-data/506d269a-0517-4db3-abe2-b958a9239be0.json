@@ -1,0 +1,17 @@
+{
+  "uuid": "506d269a-0517-4db3-abe2-b958a9239be0",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/BuiltinsRISCV.def",
+  "size": 4606,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.526533621Z",
+  "sha256_hash": "d8e6d4703d9355aa62f6e5512d180906db48a3550a49aa63c7a6db7b85e42a87",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.517934622Z"
+}

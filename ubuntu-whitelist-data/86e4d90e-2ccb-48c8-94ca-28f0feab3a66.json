@@ -1,0 +1,17 @@
+{
+  "uuid": "86e4d90e-2ccb-48c8-94ca-28f0feab3a66",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/stdarg.ph",
+  "size": 3302,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.559590701Z",
+  "sha256_hash": "0b479d6fc2edb3442c79ddfb743a482026be56fa330b1beabb8ea575dc20721e",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.538501654Z"
+}

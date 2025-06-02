@@ -1,0 +1,17 @@
+{
+  "uuid": "89d7a4f9-810d-469d-a344-36892ce825b6",
+  "path": "/lib/tmpfiles.d/libselinux1.conf",
+  "size": 112,
+  "modified": "2024-02-15T08:49:08Z",
+  "created": "2025-05-09T05:07:28.308769079Z",
+  "sha256_hash": "bb7c285a572a99cd0691bc27fb7754b0f696563dc0e954f039e6d9a5cef761f6",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.759616757Z"
+}

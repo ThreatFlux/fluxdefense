@@ -1,0 +1,15 @@
+{
+  "uuid": "1aa97719-a69e-46ff-ad7b-dc8219030324",
+  "path": "/lib/x86_64-linux-gnu/gupnp-dlna/libgstreamer.so",
+  "size": 14496,
+  "modified": "2024-03-31T01:18:14Z",
+  "created": "2025-05-09T05:07:35.814654540Z",
+  "sha256_hash": "cb64da0050e7d0e66e2c5804a62fe183ff62b1ebd331e742224b2f2863515ebf",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.693544161Z"
+}

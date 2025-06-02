@@ -1,0 +1,15 @@
+{
+  "uuid": "67007b2d-0056-4488-89d2-f3763917499d",
+  "path": "/bin/pod2text",
+  "size": 13112,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.073582856Z",
+  "sha256_hash": "e0372745722b8d7eeb3ce932606493381c936886e754913d25578cadfce29a13",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.167812855Z"
+}

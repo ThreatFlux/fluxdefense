@@ -1,0 +1,17 @@
+{
+  "uuid": "9b33a83c-83ea-4c78-bace-912daa139f48",
+  "path": "/lib/systemd/system/systemd-modules-load.service",
+  "size": 1019,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "3339bd38a056593c624e6de4df3f9efa077eb44a800ad983256169078dc636e0",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.117240372Z"
+}

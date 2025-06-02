@@ -1,0 +1,15 @@
+{
+  "uuid": "48a53157-b367-480c-aeb8-c457b37dd30a",
+  "path": "/usr/lib/python3/dist-packages/uaclient/entitlements/fips.py",
+  "size": 25213,
+  "modified": "2025-02-28T15:17:00Z",
+  "created": "2025-05-09T05:24:25.026928545Z",
+  "sha256_hash": "a421351290d79e762eeaef11f717cd69cc2687dabd1fac7f996b30636dae2a41",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.763237770Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "829e749f-5a12-46a3-a0f0-542dcbc2d5ac",
+  "path": "/usr/lib/firmware/rtl_bt/rtl8761a_fw.bin.zst",
+  "size": 38320,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.066534416Z",
+  "sha256_hash": "77cb36fc8efb4a24230b0e9f595f39e03f80daff089ea34d202409dfc90a2a8c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.547271242Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "05f0ac04-99c2-4789-b21b-6ed3cff484db",
+  "path": "/usr/lib/llvm-18/lib/libLLVMInterpreter.a",
+  "size": 391772,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.907462757Z",
+  "sha256_hash": "532b2c61c675c1532ae116d52de46b04d2c3e7a5a417017866afa5293800fbca",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.804368448Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "df35c9a2-80e3-4741-b61e-666ffdea3b34",
+  "path": "/usr/libexec/gnome-session-failed",
+  "size": 22848,
+  "modified": "2024-04-15T15:49:55Z",
+  "created": "2025-05-09T05:07:37.467629316Z",
+  "sha256_hash": "3f35f4cd19b159307b129a6fd04074e4d771c2837b5ee58998a5ef78384ef4ea",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.080886005Z"
+}

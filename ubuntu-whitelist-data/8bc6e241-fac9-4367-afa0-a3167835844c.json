@@ -1,0 +1,15 @@
+{
+  "uuid": "8bc6e241-fac9-4367-afa0-a3167835844c",
+  "path": "/bin/speech-dispatcher",
+  "size": 215456,
+  "modified": "2024-04-07T07:23:33Z",
+  "created": "2025-05-09T05:07:20.576887063Z",
+  "sha256_hash": "d80a0708fa99b3e0414e1a65a6d9fb86e26c0944c2a77888a2d6d962084316a9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.883178796Z"
+}

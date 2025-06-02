@@ -1,0 +1,17 @@
+{
+  "uuid": "0f84b008-7a0a-4e95-922f-eb828cbc1f38",
+  "path": "/usr/lib/suricata/ebpf/lb.bpf",
+  "size": 1864,
+  "modified": "2024-04-01T09:12:58Z",
+  "created": "2025-05-26T20:18:27.620014393Z",
+  "sha256_hash": "dc19efa949219ea1dc5138842587545b32b27a320d944e8f131894f1fc5521fa",
+  "file_type": {
+    "Other": "bpf"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.276367390Z"
+}

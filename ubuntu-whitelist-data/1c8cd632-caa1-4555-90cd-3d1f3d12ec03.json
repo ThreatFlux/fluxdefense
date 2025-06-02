@@ -1,0 +1,17 @@
+{
+  "uuid": "1c8cd632-caa1-4555-90cd-3d1f3d12ec03",
+  "path": "/usr/lib/udev/rules.d/77-mm-foxconn-port-types.rules",
+  "size": 1603,
+  "modified": "2024-02-19T14:58:32Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "3d248fea3586dee4637fffe16334348e9ee604070e994e9b1ed81fca071a3beb",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.099410947Z"
+}

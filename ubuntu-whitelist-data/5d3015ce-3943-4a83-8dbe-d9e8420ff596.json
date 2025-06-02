@@ -1,0 +1,17 @@
+{
+  "uuid": "5d3015ce-3943-4a83-8dbe-d9e8420ff596",
+  "path": "/usr/lib/llvm-18/include/clang/Format/Format.h",
+  "size": 170768,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.542533410Z",
+  "sha256_hash": "1d7ad5e375f9f4a035823af037be0d849c1040676fc4ddf233dfc46a530e105f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.315461075Z"
+}

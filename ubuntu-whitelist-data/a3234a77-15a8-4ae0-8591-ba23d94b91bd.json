@@ -1,0 +1,17 @@
+{
+  "uuid": "a3234a77-15a8-4ae0-8591-ba23d94b91bd",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/crypto/nhpoly1305.ko.zst",
+  "size": 6050,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.079797878Z",
+  "sha256_hash": "181fe82e67857bd9e6f07d740c65aa90b8fa4f08e08bea160445fd7dbacfd010",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.264312634Z"
+}

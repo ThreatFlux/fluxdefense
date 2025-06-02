@@ -1,0 +1,15 @@
+{
+  "uuid": "d684c354-f3f1-4424-9274-128a6867f45f",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/ISO_5427-EXT.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.675656661Z",
+  "sha256_hash": "1b835a263f37d60c617e9798cf8f47e8d5af3fa0d9746fa44cbe32fe7775a50e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.551239650Z"
+}

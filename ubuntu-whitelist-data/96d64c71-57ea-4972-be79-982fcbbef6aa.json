@@ -1,0 +1,15 @@
+{
+  "uuid": "96d64c71-57ea-4972-be79-982fcbbef6aa",
+  "path": "/lib/llvm-18/lib/libLLVMXRay.a",
+  "size": 444790,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.086460400Z",
+  "sha256_hash": "8fe38eaf0fb792231d1f6bf303e29e73259f6c046c536831e768b3be4d6adf63",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:43.763894051Z"
+}

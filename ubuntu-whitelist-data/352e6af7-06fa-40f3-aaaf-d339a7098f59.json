@@ -1,0 +1,15 @@
+{
+  "uuid": "352e6af7-06fa-40f3-aaaf-d339a7098f59",
+  "path": "/lib/x86_64-linux-gnu/speech-dispatcher/spd_libao.so",
+  "size": 14624,
+  "modified": "2024-04-07T07:23:33Z",
+  "created": "2025-05-09T05:07:37.239632795Z",
+  "sha256_hash": "efde409a296071bb9fa3218096a881619866a3c34b148b05dea6a5e81579b890",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:15.661761533Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "019ce002-f9d6-45d6-8e06-326dfa4bf0d0",
+  "path": "/lib/firmware/amdgpu/arcturus_vcn.bin.zst",
+  "size": 283740,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.387543820Z",
+  "sha256_hash": "46f9ec9d576900137a3e5458b048aefd753e7cbc2acb2ec165228de86096388e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.853685874Z"
+}

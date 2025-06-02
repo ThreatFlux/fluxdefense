@@ -1,0 +1,15 @@
+{
+  "uuid": "b1746e1b-789e-4ca3-8c83-ab937a684d32",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/TCVN5712-1.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.680656585Z",
+  "sha256_hash": "848dcfee4951f80cecfc9754c46edb789a27178af10774fd28635a59b9237ecd",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.558281660Z"
+}

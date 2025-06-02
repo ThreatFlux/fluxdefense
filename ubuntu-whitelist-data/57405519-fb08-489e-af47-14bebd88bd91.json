@@ -1,0 +1,15 @@
+{
+  "uuid": "57405519-fb08-489e-af47-14bebd88bd91",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstcoreelements.so",
+  "size": 451152,
+  "modified": "2024-12-17T12:53:48Z",
+  "created": "2025-05-09T05:07:35.771655196Z",
+  "sha256_hash": "bf7fa7eab22d238f1bc5e2e76a978f24694460657efba0827961eb154482f436",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.172674999Z"
+}

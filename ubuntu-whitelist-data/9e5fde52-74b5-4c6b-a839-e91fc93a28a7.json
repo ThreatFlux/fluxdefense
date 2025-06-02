@@ -1,0 +1,15 @@
+{
+  "uuid": "9e5fde52-74b5-4c6b-a839-e91fc93a28a7",
+  "path": "/lib/python3/dist-packages/cloudinit/config/cc_snap.py",
+  "size": 3436,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.236037177Z",
+  "sha256_hash": "7440fcaf0df18559fdd9af9f6f06dcf46cf967783b7ea2bb42b29d66c98684f9",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.913669628Z"
+}

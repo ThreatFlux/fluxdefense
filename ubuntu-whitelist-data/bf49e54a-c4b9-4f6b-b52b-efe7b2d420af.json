@@ -1,0 +1,17 @@
+{
+  "uuid": "bf49e54a-c4b9-4f6b-b52b-efe7b2d420af",
+  "path": "/lib/x86_64-linux-gnu/libpcap.so.1.10.4",
+  "size": 313752,
+  "modified": "2024-03-31T07:55:12Z",
+  "created": "2025-05-09T05:07:31.787715991Z",
+  "sha256_hash": "64fe5b320de2502c3eee8b3c6dca3eaf30c8dda92044dbc7f315418eeb906924",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.584866215Z"
+}

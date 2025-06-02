@@ -1,0 +1,15 @@
+{
+  "uuid": "82a9a0b5-1d65-4aaa-9fea-d79ef73688d5",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstshapewipe.so",
+  "size": 35280,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.775655135Z",
+  "sha256_hash": "6648d6ff93aeaace0e0b023b3ce4a6aa163ccf51533de3aeeea22331cacd102d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.115762669Z"
+}

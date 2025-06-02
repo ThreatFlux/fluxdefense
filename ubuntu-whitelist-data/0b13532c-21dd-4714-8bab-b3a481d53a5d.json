@@ -1,0 +1,15 @@
+{
+  "uuid": "0b13532c-21dd-4714-8bab-b3a481d53a5d",
+  "path": "/usr/lib/cups/backend/serial",
+  "size": 18744,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.041879968Z",
+  "sha256_hash": "77574293dc5b4688269af934b3fabfbb936e7c5c98b3ebb44411fbcd9533c077",
+  "file_type": "Executable",
+  "permissions": 33252,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.014365522Z"
+}

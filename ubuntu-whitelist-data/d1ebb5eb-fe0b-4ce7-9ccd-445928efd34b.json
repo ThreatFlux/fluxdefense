@@ -1,0 +1,17 @@
+{
+  "uuid": "d1ebb5eb-fe0b-4ce7-9ccd-445928efd34b",
+  "path": "/usr/lib/systemd/system/sys-kernel-tracing.mount",
+  "size": 756,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "6173023e5f0d8163394977e31d371b8c86d6af37928f3a150ac6bba525fb9d56",
+  "file_type": {
+    "Other": "mount"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.478605861Z"
+}

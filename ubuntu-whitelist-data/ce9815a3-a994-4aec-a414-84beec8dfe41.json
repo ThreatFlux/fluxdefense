@@ -1,0 +1,17 @@
+{
+  "uuid": "ce9815a3-a994-4aec-a414-84beec8dfe41",
+  "path": "/usr/lib/systemd/user/xdg-desktop-portal.service",
+  "size": 188,
+  "modified": "2024-08-26T14:56:42Z",
+  "created": "2025-05-09T05:07:28.307769094Z",
+  "sha256_hash": "c626a5be588e9601a6a1b727a47e47f383b8797df206d36f0c35f81fcec6c2bf",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.494006164Z"
+}

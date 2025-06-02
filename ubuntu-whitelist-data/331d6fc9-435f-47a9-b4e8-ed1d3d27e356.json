@@ -1,0 +1,15 @@
+{
+  "uuid": "331d6fc9-435f-47a9-b4e8-ed1d3d27e356",
+  "path": "/bin/sbkeysync",
+  "size": 35576,
+  "modified": "2024-04-08T14:49:32Z",
+  "created": "2025-05-09T05:07:20.405889673Z",
+  "sha256_hash": "3f5773c5c2390d271d19295a680dfeba37e3f3ff459643484457914d6ed6728a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.788425242Z"
+}

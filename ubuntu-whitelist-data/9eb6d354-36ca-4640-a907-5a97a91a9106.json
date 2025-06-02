@@ -1,0 +1,17 @@
+{
+  "uuid": "9eb6d354-36ca-4640-a907-5a97a91a9106",
+  "path": "/lib/firmware/go7007/wis-startrek.fw.zst",
+  "size": 4156,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.530541840Z",
+  "sha256_hash": "db6edb0c673939c59599f0d6220964d12ecbbf3fa0c75c3f550456923474e4cb",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.727508107Z"
+}

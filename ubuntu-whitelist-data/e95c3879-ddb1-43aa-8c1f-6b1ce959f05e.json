@@ -1,0 +1,17 @@
+{
+  "uuid": "e95c3879-ddb1-43aa-8c1f-6b1ce959f05e",
+  "path": "/usr/lib/firmware/radeon/VERDE_pfp.bin.zst",
+  "size": 2109,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.063534457Z",
+  "sha256_hash": "03581af58d135569eb22432e9087173bdd4eda66a73cd9029b561cc12d7adf73",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.413401202Z"
+}

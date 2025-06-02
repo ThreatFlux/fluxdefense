@@ -1,0 +1,15 @@
+{
+  "uuid": "475f3c7b-d10f-4962-9511-87c6915aad8a",
+  "path": "/usr/sbin/pam_extrausers_chkpwd",
+  "size": 26944,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:38.390615231Z",
+  "sha256_hash": "215efff9016e669ae980959ed2fe5d5a2224cfa1f12556c74e92e68a7798908d",
+  "file_type": "Executable",
+  "permissions": 34285,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.710971414Z"
+}

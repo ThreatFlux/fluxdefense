@@ -1,0 +1,15 @@
+{
+  "uuid": "d8d99d89-a065-43dc-9d93-f9dca97e8882",
+  "path": "/usr/lib/x86_64-linux-gnu/libtest-3c3802afc6d0c570.so",
+  "size": 1493224,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T17:41:10.334620579Z",
+  "sha256_hash": "75831102f917fe458971a6d37caed0890b658766de93bc1081879c4e3a6e1b2d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.807505113Z"
+}

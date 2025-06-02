@@ -1,0 +1,15 @@
+{
+  "uuid": "d237e38c-b81c-46f5-b148-2fdca3d4e061",
+  "path": "/usr/lib/llvm-18/lib/libLLVMSystemZAsmParser.a",
+  "size": 238150,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.028461164Z",
+  "sha256_hash": "24bac1207b75a3443b81b76617c4593fdcfeeebdaacbfec45120f505fbe15b53",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:30.887325682Z"
+}

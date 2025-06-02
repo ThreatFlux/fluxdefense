@@ -1,0 +1,15 @@
+{
+  "uuid": "2a9d6f62-9a19-4f37-b1f2-108ff8b123a8",
+  "path": "/bin/openvt",
+  "size": 23272,
+  "modified": "2024-03-31T09:02:08Z",
+  "created": "2025-05-09T05:07:20.257891931Z",
+  "sha256_hash": "f24cd04579dfc7f77e26d486b135309d4d2f30e23952bfb1e94974cabef79336",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.388365115Z"
+}

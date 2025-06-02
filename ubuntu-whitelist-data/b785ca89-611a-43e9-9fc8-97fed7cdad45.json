@@ -1,0 +1,17 @@
+{
+  "uuid": "b785ca89-611a-43e9-9fc8-97fed7cdad45",
+  "path": "/usr/lib/x86_64-linux-gnu/libgweather-4/Locations.bin",
+  "size": 643256,
+  "modified": "2024-03-31T02:01:55Z",
+  "created": "2025-05-09T05:07:35.857653884Z",
+  "sha256_hash": "078ea7492654f5f5b6c8ecfc72b12d2f13ea694668fef71e69b4c6a73fd9984c",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.564458698Z"
+}

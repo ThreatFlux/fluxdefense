@@ -1,0 +1,17 @@
+{
+  "uuid": "23d72192-9618-49f9-9e08-201346f94d1f",
+  "path": "/lib/grub/x86_64-efi/efi_gop.mod",
+  "size": 12832,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.803708536Z",
+  "sha256_hash": "194baadf192a33bbc55f9e65570503917bc4aa879a08c7570da5ded9f52df528",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.138366174Z"
+}

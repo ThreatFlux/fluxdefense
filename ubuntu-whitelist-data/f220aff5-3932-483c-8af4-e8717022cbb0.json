@@ -1,0 +1,17 @@
+{
+  "uuid": "f220aff5-3932-483c-8af4-e8717022cbb0",
+  "path": "/usr/lib/dpkg/methods/apt/desc.apt",
+  "size": 567,
+  "modified": "2024-10-22T13:02:22Z",
+  "created": "2025-05-30T21:04:50.161634085Z",
+  "sha256_hash": "4035a2ca99d6d473f6e9a0af7b39d395bfe47e48b3a9993488fc2fae139145f8",
+  "file_type": {
+    "Other": "apt"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.653742129Z"
+}

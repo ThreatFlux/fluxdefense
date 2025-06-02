@@ -1,0 +1,17 @@
+{
+  "uuid": "d08577e8-3526-40b5-9755-113ac167973b",
+  "path": "/lib/x86_64-linux-gnu/libimobiledevice-1.0.so.6.0.0",
+  "size": 153712,
+  "modified": "2024-03-31T02:02:56Z",
+  "created": "2025-05-09T05:07:30.561734699Z",
+  "sha256_hash": "3293cfec5e0b0925b24c3b29f8a576024b5e0eea42ddacebf0ae803785f4531d",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.994207535Z"
+}

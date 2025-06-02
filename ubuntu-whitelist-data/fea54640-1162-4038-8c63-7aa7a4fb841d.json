@@ -1,0 +1,15 @@
+{
+  "uuid": "fea54640-1162-4038-8c63-7aa7a4fb841d",
+  "path": "/bin/newgrp",
+  "size": 40664,
+  "modified": "2024-05-30T14:52:35Z",
+  "created": "2025-05-09T05:07:20.201892785Z",
+  "sha256_hash": "572ab15948df3969e929b902641c3a42e76dce7d71a22fbc58011ca89d8d965e",
+  "file_type": "Executable",
+  "permissions": 35309,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.656110100Z"
+}

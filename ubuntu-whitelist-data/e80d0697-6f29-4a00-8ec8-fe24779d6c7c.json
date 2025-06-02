@@ -1,0 +1,17 @@
+{
+  "uuid": "e80d0697-6f29-4a00-8ec8-fe24779d6c7c",
+  "path": "/usr/lib/firmware/intel/sof/sof-bdw.ri.zst",
+  "size": 99116,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.046491166Z",
+  "sha256_hash": "55e5c0e195557c157f7d4fedde99a6e9d5f31fe0612c076706123a16bb7608d1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.679784417Z"
+}

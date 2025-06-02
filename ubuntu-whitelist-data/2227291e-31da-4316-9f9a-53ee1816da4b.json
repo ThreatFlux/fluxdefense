@@ -1,0 +1,17 @@
+{
+  "uuid": "2227291e-31da-4316-9f9a-53ee1816da4b",
+  "path": "/usr/lib/firmware/radeon/CEDAR_pfp.bin.zst",
+  "size": 1961,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.059534513Z",
+  "sha256_hash": "8371bf809e54119710338da4bb98dec85b9a652d989072ae9b4dddbf3d066ed8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.386134437Z"
+}

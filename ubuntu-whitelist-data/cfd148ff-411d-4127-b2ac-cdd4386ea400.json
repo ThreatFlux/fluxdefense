@@ -1,0 +1,17 @@
+{
+  "uuid": "cfd148ff-411d-4127-b2ac-cdd4386ea400",
+  "path": "/lib/llvm-18/include/clang-tidy/ClangTidyModuleRegistry.h",
+  "size": 761,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.555533239Z",
+  "sha256_hash": "5afdc46af74f900feb9c19342cbfe352c79cc4a635550d0a7224723b494f1edd",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.916287425Z"
+}

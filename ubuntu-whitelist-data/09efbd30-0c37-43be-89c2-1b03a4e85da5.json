@@ -1,0 +1,17 @@
+{
+  "uuid": "09efbd30-0c37-43be-89c2-1b03a4e85da5",
+  "path": "/lib/x86_64-linux-gnu/libdecor-0.so.0.200.2",
+  "size": 39424,
+  "modified": "2024-03-31T07:46:50Z",
+  "created": "2025-05-09T05:07:29.299753956Z",
+  "sha256_hash": "dba9cad366c76f275e9a0c0756c45fdb1962251bb9e034411ee96cd97e92ba7e",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.321739074Z"
+}

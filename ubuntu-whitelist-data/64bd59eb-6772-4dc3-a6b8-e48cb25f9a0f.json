@@ -1,0 +1,15 @@
+{
+  "uuid": "64bd59eb-6772-4dc3-a6b8-e48cb25f9a0f",
+  "path": "/usr/lib/x86_64-linux-gnu/spa-0.2/audiotestsrc/libspa-audiotestsrc.so",
+  "size": 63728,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.448855770Z",
+  "sha256_hash": "3ed40592a09b7aef7ce367f59f96b419cad59de9771073c16cc5ab44f0cf685e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:13.914752153Z"
+}

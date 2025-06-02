@@ -1,0 +1,17 @@
+{
+  "uuid": "8c3b5900-5362-44bd-be4a-35fcfa0b7d36",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/utils/IncludeSorter.h",
+  "size": 3026,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "8b856b118c2fad595e98d92dc7636b221ea4c92856ffee00c5b868379cb120d0",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.268297284Z"
+}

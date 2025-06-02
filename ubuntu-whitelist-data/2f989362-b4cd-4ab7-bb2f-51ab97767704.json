@@ -1,0 +1,17 @@
+{
+  "uuid": "2f989362-b4cd-4ab7-bb2f-51ab97767704",
+  "path": "/lib/llvm-18/lib/cmake/llvm/GetLibraryName.cmake",
+  "size": 632,
+  "modified": "2022-01-23T00:26:57Z",
+  "created": "2025-05-12T13:34:36.684465694Z",
+  "sha256_hash": "e83da114460f29a98050810decc3d76784664c84a3e2359bd29c402bae8a874a",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.506078296Z"
+}

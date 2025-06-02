@@ -1,0 +1,17 @@
+{
+  "uuid": "255fb38f-0f61-48b3-9527-8083cdcea626",
+  "path": "/usr/lib/x86_64-linux-gnu/libassuan.so.0.8.6",
+  "size": 80176,
+  "modified": "2024-04-08T16:01:40Z",
+  "created": "2025-05-09T05:07:29.179755788Z",
+  "sha256_hash": "ae80d8e06d17cd95d654da3dd52f3a63ad241ea5fc001fa2f52ada5e640cfdd8",
+  "file_type": {
+    "Other": "6"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.081951134Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "6dea32a2-69e3-4935-a2ea-621a610ef6f5",
+  "path": "/lib/gnupg/keyboxd",
+  "size": 167288,
+  "modified": "2025-03-28T15:23:49Z",
+  "created": "2025-05-09T05:11:24.480164509Z",
+  "sha256_hash": "65f5b905630d68af2ff2b75d084c84e0cf5e7128cdc39a608090621bd7a4bb57",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.363650221Z"
+}

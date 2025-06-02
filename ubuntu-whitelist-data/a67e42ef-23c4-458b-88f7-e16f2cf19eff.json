@@ -1,0 +1,17 @@
+{
+  "uuid": "a67e42ef-23c4-458b-88f7-e16f2cf19eff",
+  "path": "/usr/lib/firmware/qcom/venus-5.2/venus.mbn.zst",
+  "size": 401906,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.040534776Z",
+  "sha256_hash": "d7dd84096fd812d471f63b8f01fd8ca0d5712e2eeea3bce5110a6cbd5f0ee435",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.034334493Z"
+}

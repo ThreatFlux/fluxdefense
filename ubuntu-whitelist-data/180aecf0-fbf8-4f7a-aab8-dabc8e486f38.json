@@ -1,0 +1,17 @@
+{
+  "uuid": "180aecf0-fbf8-4f7a-aab8-dabc8e486f38",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/g-encstr.adb",
+  "size": 9109,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.068344901Z",
+  "sha256_hash": "dce5af2f09b4e1c62fcc31714c47fc2649bfc271bdfc9954c45713649f0a4dce",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.921345887Z"
+}

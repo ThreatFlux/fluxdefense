@@ -1,0 +1,15 @@
+{
+  "uuid": "15181eeb-3cb0-468b-869c-7684f4becf43",
+  "path": "/usr/lib/x86_64-linux-gnu/libuv.a",
+  "size": 392166,
+  "modified": "2024-03-31T08:01:40Z",
+  "created": "2025-05-13T14:32:44.675159023Z",
+  "sha256_hash": "feb7cfb7790906bd41c65394c0d32cadfd498b88c21bcccd21e80c9b8b77d24f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.208551400Z"
+}

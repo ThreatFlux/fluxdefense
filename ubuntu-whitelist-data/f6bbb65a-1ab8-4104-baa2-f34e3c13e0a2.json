@@ -1,0 +1,17 @@
+{
+  "uuid": "f6bbb65a-1ab8-4104-baa2-f34e3c13e0a2",
+  "path": "/lib/firmware/radeon/BONAIRE_uvd.bin.zst",
+  "size": 152775,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.059534513Z",
+  "sha256_hash": "d49b5a754e3bdcffb7e59f066c9701015d72fb928790ae114bf2f3c48aa45e1c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.391864050Z"
+}

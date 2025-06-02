@@ -1,0 +1,15 @@
+{
+  "uuid": "25c05edd-7b55-47d5-99a8-a66f9cd6c71b",
+  "path": "/lib/xorg/modules/libwfb.so",
+  "size": 134200,
+  "modified": "2025-03-04T04:58:03Z",
+  "created": "2025-05-09T05:24:13.316776837Z",
+  "sha256_hash": "493960759015a02cb0c5c5fb2e257024db3ab4f582fc578d6407d854266dbc51",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.674561325Z"
+}

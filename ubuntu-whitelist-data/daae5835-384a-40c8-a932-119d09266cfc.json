@@ -1,0 +1,15 @@
+{
+  "uuid": "daae5835-384a-40c8-a932-119d09266cfc",
+  "path": "/bin/cloud-init-per",
+  "size": 2108,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.233037137Z",
+  "sha256_hash": "bf24328738a784acaa2e8184e0150c2621873ec2478c102099e35bf04335e06f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.935735276Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e61b4359-6dcd-4c4c-be85-e0f37cedbe5b",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-ma1509.so.1.2.1",
+  "size": 104824,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.144634245Z",
+  "sha256_hash": "493b3f578e3f61d60b627d4e9da00a3da8c70163cc36c82c06a0f3eeff242ec5",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.763982803Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "ddd41876-2b6f-4d42-b7bf-ac35b054bbba",
+  "path": "/lib/llvm-18/bin/llvm-libtool-darwin",
+  "size": 93784,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.061487070Z",
+  "sha256_hash": "a150848c4fac22a649f8b899419db1f5c03c59501e76ae7333f3b1c91a25d452",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.849668752Z"
+}

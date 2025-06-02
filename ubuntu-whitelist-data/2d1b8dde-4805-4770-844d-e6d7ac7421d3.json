@@ -1,0 +1,15 @@
+{
+  "uuid": "2d1b8dde-4805-4770-844d-e6d7ac7421d3",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/ISIRI-3342.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.670656737Z",
+  "sha256_hash": "81f86863d8ac1d0643db1e20dc0bcad5eaf5a3cadbe7a26897ad1faf85c546d0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.596267959Z"
+}

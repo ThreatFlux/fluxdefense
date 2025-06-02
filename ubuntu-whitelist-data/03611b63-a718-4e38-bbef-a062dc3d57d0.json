@@ -1,0 +1,17 @@
+{
+  "uuid": "03611b63-a718-4e38-bbef-a062dc3d57d0",
+  "path": "/lib/x86_64-linux-gnu/libva-wayland.so.2.2000.0",
+  "size": 23216,
+  "modified": "2024-04-18T17:47:47Z",
+  "created": "2025-05-09T05:09:28.228938937Z",
+  "sha256_hash": "e7ba135aacaa7649ac971ef5c52220386982fc68ab7c2cc690ff8bf0bfa407c6",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.800897901Z"
+}

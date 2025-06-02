@@ -1,0 +1,17 @@
+{
+  "uuid": "fa058180-1b31-4099-9e18-8323d4eca942",
+  "path": "/usr/lib/llvm-18/include/clang/Support/RISCVVIntrinsicUtils.h",
+  "size": 17426,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.552533279Z",
+  "sha256_hash": "ab2771e2314478fd085f86136aca1acf1baf67c7f6461a2cf8dfcad5b96fea03",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.300420290Z"
+}

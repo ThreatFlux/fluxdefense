@@ -1,0 +1,15 @@
+{
+  "uuid": "09c94635-fdee-4a41-a1c2-c393c974160d",
+  "path": "/lib/x86_64-linux-gnu/packagekit-backend/libpk_backend_test_spawn.so",
+  "size": 14512,
+  "modified": "2025-01-08T16:35:09Z",
+  "created": "2025-05-09T05:24:26.874952849Z",
+  "sha256_hash": "b39d50edee63425bff7febd4db23ce6dd437dc16734925635823da05bae05de0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.747995968Z"
+}

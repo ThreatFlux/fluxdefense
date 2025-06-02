@@ -1,0 +1,15 @@
+{
+  "uuid": "463efcd9-9abe-4737-9717-3e7b008d2d57",
+  "path": "/usr/bin/virt-manager",
+  "size": 145,
+  "modified": "2024-08-01T12:18:26Z",
+  "created": "2025-05-09T05:56:59.558530087Z",
+  "sha256_hash": "ee4fcb8138492c37cc4adcc8ee85721ede664de09dc7c156823212c71002a0e6",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.051915350Z"
+}

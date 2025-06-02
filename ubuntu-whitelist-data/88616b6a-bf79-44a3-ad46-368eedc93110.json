@@ -1,0 +1,17 @@
+{
+  "uuid": "88616b6a-bf79-44a3-ad46-368eedc93110",
+  "path": "/usr/lib/firmware/amdgpu/polaris11_mc.bin.zst",
+  "size": 13603,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.409543516Z",
+  "sha256_hash": "e9130533d3447b15b2cced59ce7dcdc0da4cabe8491b4642b870400e8d49f082",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.779705492Z"
+}

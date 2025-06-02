@@ -1,0 +1,17 @@
+{
+  "uuid": "61005707-3f68-48e6-b709-77f8e0a13efa",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/BuiltinsHexagonMapCustomDep.def",
+  "size": 853,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.525533634Z",
+  "sha256_hash": "64614d5fa57b97e7fef014fea47309e3ff5039e5410bd622eac9fb0b90dce026",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.500622041Z"
+}

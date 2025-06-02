@@ -1,0 +1,15 @@
+{
+  "uuid": "ed0ef7fe-a3af-4c8f-b6d3-b3d4f65561eb",
+  "path": "/bin/zcmp",
+  "size": 1678,
+  "modified": "2024-04-08T15:58:45Z",
+  "created": "2025-05-09T05:07:20.948881387Z",
+  "sha256_hash": "6e6da15f127e06d61cbdabb59d3ec9b28b8605178dbe2acf7d275aa6d22e2d0f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.275918926Z"
+}

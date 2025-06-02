@@ -1,0 +1,17 @@
+{
+  "uuid": "bcc3034e-42fe-4be9-b6cf-f560bbb32656",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/mm/hwpoison-inject.ko.zst",
+  "size": 4035,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:35.040781232Z",
+  "sha256_hash": "68423bd4e21f1a21c4f29bb76240ff67390dd155026ab198be40f5a5e49008eb",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.544629593Z"
+}

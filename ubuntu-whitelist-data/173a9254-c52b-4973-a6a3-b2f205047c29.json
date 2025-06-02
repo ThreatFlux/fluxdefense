@@ -1,0 +1,17 @@
+{
+  "uuid": "173a9254-c52b-4973-a6a3-b2f205047c29",
+  "path": "/lib/systemd/system/plymouth-switch-root-initramfs.service",
+  "size": 983,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:27.491960985Z",
+  "sha256_hash": "faaf489031ec12287380ca9745f9db47327ae21d1a941f50b515011ff40ae533",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.130879076Z"
+}

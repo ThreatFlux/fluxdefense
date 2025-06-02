@@ -1,0 +1,17 @@
+{
+  "uuid": "63ee6f42-47c9-44c9-aca5-988464b8c1df",
+  "path": "/lib/grub/x86_64-efi/random.mod",
+  "size": 3720,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.838708002Z",
+  "sha256_hash": "ad0395a634e5184bd870d180ab9053b1fe7108522a5cb35676a743dcf98009c6",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.029185982Z"
+}

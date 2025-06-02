@@ -1,0 +1,17 @@
+{
+  "uuid": "c17781c2-9e32-422f-8f1e-6198e3809f4a",
+  "path": "/lib/x86_64-linux-gnu/libgxps.so.2.2.4",
+  "size": 146376,
+  "modified": "2024-04-07T07:06:41Z",
+  "created": "2025-05-09T05:07:30.163740772Z",
+  "sha256_hash": "d57e37db16df00cdca759f6432b0e2cc933bf88e8d470dd75bec903b86f41074",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:22.497661647Z"
+}

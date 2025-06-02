@@ -1,0 +1,17 @@
+{
+  "uuid": "38252c76-2e82-4504-b406-6fbe2a4072af",
+  "path": "/opt/google/chrome/v8_context_snapshot.bin",
+  "size": 714429,
+  "modified": "2025-05-26T20:54:34Z",
+  "created": "2025-05-27T21:53:48.063420212Z",
+  "sha256_hash": "5aeed65b040088db34fa0dafbd108d7574316348d33a3d29cc06f20d4ee09dff",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:43.946796431Z"
+}

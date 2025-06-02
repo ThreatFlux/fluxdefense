@@ -1,0 +1,17 @@
+{
+  "uuid": "0c7f6221-4cac-4ede-b0cc-6b1e645e5711",
+  "path": "/lib/x86_64-linux-gnu/libksba.so.8.14.6",
+  "size": 272560,
+  "modified": "2024-03-31T02:05:33Z",
+  "created": "2025-05-09T05:07:31.329722979Z",
+  "sha256_hash": "6089859be139e70bb33e52de5e018bc6ae7810b59b8e8f7f31a6ffa75f72e349",
+  "file_type": {
+    "Other": "6"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.713573297Z"
+}

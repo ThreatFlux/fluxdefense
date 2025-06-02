@@ -1,0 +1,15 @@
+{
+  "uuid": "56d131e6-97ac-4495-8ff7-00f44e71dccd",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/handlers/jinja_template.py",
+  "size": 7568,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.239037216Z",
+  "sha256_hash": "260ff8395101e5580e4bb6314828017d663fffdb3e66675a8ef1507425430297",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.866771435Z"
+}

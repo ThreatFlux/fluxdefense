@@ -1,0 +1,15 @@
+{
+  "uuid": "b4239162-be2d-4f20-8083-36f04d6e81d7",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstdv.so",
+  "size": 64080,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.772655181Z",
+  "sha256_hash": "85d88f2ac99aac80be0e92dd301da32e15d383299545b72a833a06d7c8a3efde",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.024404569Z"
+}

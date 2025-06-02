@@ -1,0 +1,17 @@
+{
+  "uuid": "bc86c852-91ea-4fbb-aa8a-e49c218a524b",
+  "path": "/usr/lib/sysusers.d/systemd-oom.conf",
+  "size": 339,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:12.305763938Z",
+  "sha256_hash": "0e1228463a3a022b08345636ced92fca41bfd724aee6b3c456398679fc56ac9b",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.296819413Z"
+}

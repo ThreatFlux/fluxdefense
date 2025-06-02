@@ -1,0 +1,15 @@
+{
+  "uuid": "c22e0ee3-57a6-42eb-a825-326200fcb58b",
+  "path": "/sbin/ldconfig",
+  "size": 387,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:38.359615704Z",
+  "sha256_hash": "bfd5df90c7f070feab584435f106f254ffffaa268a04de5b5c3bd61d59c092f3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.932744731Z"
+}

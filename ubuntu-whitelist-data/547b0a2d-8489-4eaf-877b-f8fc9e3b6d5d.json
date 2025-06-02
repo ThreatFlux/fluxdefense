@@ -1,0 +1,17 @@
+{
+  "uuid": "547b0a2d-8489-4eaf-877b-f8fc9e3b6d5d",
+  "path": "/usr/lib/x86_64-linux-gnu/libimagequant.so.0",
+  "size": 67576,
+  "modified": "2024-04-08T16:04:36Z",
+  "created": "2025-05-09T05:07:30.561734699Z",
+  "sha256_hash": "ca70152882c0e66972aa964cf56edee5136ae12de19389e83e92c6e61f4c6441",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:08.603653481Z"
+}

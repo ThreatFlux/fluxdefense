@@ -1,0 +1,17 @@
+{
+  "uuid": "ee438403-471d-4fab-9bc9-f20c91a5d19c",
+  "path": "/lib/firmware/ath11k/QCN9074/hw1.0/m3.bin.zst",
+  "size": 129178,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.463542768Z",
+  "sha256_hash": "94ed6f85e52ba4197a982430316649b85512ebc21be77c3f7982eaeeb33ca56a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:03.268607037Z"
+}

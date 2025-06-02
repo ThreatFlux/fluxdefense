@@ -1,0 +1,17 @@
+{
+  "uuid": "23cb6689-45a1-4b4a-8a7b-0a2b296a60d9",
+  "path": "/usr/lib/systemd/user/org.gnome.Shell@wayland.service",
+  "size": 1131,
+  "modified": "2025-04-14T09:35:20Z",
+  "created": "2025-05-21T14:13:56.788915457Z",
+  "sha256_hash": "e063c276d40d5de9c57b5aca86427a49a945377ffcfe27e5bc459ac19ceb9142",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.502447094Z"
+}

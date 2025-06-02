@@ -1,0 +1,17 @@
+{
+  "uuid": "9f50c27d-2c5e-4f67-b1f4-d8f9bda2599c",
+  "path": "/lib/firmware/ea/echo3g_dsp.fw.zst",
+  "size": 9669,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.528541867Z",
+  "sha256_hash": "ec984731ba3ff0bce17836a6d73e436fd44d5896fa591d2f738b6a29f71d54f5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.608029348Z"
+}

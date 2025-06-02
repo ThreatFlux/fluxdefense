@@ -1,0 +1,17 @@
+{
+  "uuid": "e5f51981-7412-48e2-a797-d8170bce40ad",
+  "path": "/lib/firmware/mediatek/sof-tplg/sof-mt8195-mt6359-rt1019-rt5682-dts.tplg.zst",
+  "size": 1021,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.692539596Z",
+  "sha256_hash": "b83f4411ac66d371a1082c11ffcab4c02c6c67c47497fad33a42eef7dbe2507d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.129858393Z"
+}

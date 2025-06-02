@@ -1,0 +1,17 @@
+{
+  "uuid": "ba5645b5-3b95-4e05-8586-1bd720add24a",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/abseil/DurationConversionCastCheck.h",
+  "size": 1300,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.555533239Z",
+  "sha256_hash": "72bc43f7bdfad6a398e7b32f47c4d53d97635679b2f9f770fa66967c3258a1b2",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.243187551Z"
+}

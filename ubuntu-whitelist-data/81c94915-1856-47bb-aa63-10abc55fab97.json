@@ -1,0 +1,17 @@
+{
+  "uuid": "81c94915-1856-47bb-aa63-10abc55fab97",
+  "path": "/usr/lib/x86_64-linux-gnu/libgsttranscoder-1.0.so.0",
+  "size": 55544,
+  "modified": "2024-04-15T13:00:06Z",
+  "created": "2025-05-09T05:09:28.092941013Z",
+  "sha256_hash": "d0e4d76ec7ac2aa068a8502fb8d4decf874776cc74d237af1bfddb12c0d08e8e",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.151172604Z"
+}

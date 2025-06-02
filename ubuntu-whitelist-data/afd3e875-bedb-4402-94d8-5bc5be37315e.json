@@ -1,0 +1,15 @@
+{
+  "uuid": "afd3e875-bedb-4402-94d8-5bc5be37315e",
+  "path": "/lib/llvm-18/lib/libLLVMBPFDesc.a",
+  "size": 142574,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.819463916Z",
+  "sha256_hash": "8b1617487d6516897074152102debb324a7b4b72e357c948b89c0e9d8e3e76a6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.289026464Z"
+}

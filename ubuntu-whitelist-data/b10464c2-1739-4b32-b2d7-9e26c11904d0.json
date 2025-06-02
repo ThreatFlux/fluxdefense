@@ -1,0 +1,17 @@
+{
+  "uuid": "b10464c2-1739-4b32-b2d7-9e26c11904d0",
+  "path": "/lib/grub/x86_64-efi-signed/grubx64.efi.signed",
+  "size": 2660232,
+  "modified": "2025-03-28T10:14:13Z",
+  "created": "2025-05-09T05:08:38.342700311Z",
+  "sha256_hash": "a831af01e4fb5e3c9457120e1d08ea13d98a0a47b62728c284b7f502d535965c",
+  "file_type": {
+    "Other": "signed"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.964998216Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d4914cae-39cf-478b-b1ba-7a6148ea9cb8",
+  "path": "/lib/cups/driver/postscript-hp",
+  "size": 1588683,
+  "modified": "2024-03-31T07:39:41Z",
+  "created": "2025-05-09T05:07:21.313875817Z",
+  "sha256_hash": "f2e8cd55f7f8adda50ba64b26af111b5aaff2fbe5b0e559391749e4ee1e8aad5",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.673780510Z"
+}

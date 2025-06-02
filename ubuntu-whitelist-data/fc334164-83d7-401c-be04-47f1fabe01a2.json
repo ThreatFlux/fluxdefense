@@ -1,0 +1,17 @@
+{
+  "uuid": "fc334164-83d7-401c-be04-47f1fabe01a2",
+  "path": "/lib/X11/x11perfcomp/fillblnk",
+  "size": 424,
+  "modified": "2024-03-31T17:26:36Z",
+  "created": "2025-05-09T05:07:20.993880700Z",
+  "sha256_hash": "512fb7049f745b3478a046ca444e3083a581b892ad76f5be3751c681af11b8a2",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.463656961Z"
+}

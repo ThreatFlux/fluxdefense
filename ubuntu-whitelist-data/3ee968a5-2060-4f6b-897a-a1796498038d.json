@@ -1,0 +1,17 @@
+{
+  "uuid": "3ee968a5-2060-4f6b-897a-a1796498038d",
+  "path": "/lib/libreoffice/program/unopkg",
+  "size": 2898,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:17.295274185Z",
+  "sha256_hash": "979b59a5c3336bcc9d3978c2e8df424e187fa15c4caf6f5046d182ef3d469ca2",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:51.489041504Z"
+}

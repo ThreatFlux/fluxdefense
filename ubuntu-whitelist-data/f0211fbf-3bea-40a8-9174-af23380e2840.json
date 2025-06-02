@@ -1,0 +1,17 @@
+{
+  "uuid": "f0211fbf-3bea-40a8-9174-af23380e2840",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-xerox_mfp.so.1.2.1",
+  "size": 109000,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.173633802Z",
+  "sha256_hash": "8d092947f527999fd4ffb7569ac6ceb10325eb4592b333221014ab521ae2c1ca",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.798334692Z"
+}

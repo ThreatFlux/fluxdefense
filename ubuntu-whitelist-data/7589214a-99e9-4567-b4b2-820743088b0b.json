@@ -1,0 +1,15 @@
+{
+  "uuid": "7589214a-99e9-4567-b4b2-820743088b0b",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstinterleave.so",
+  "size": 59920,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.773655166Z",
+  "sha256_hash": "bfa3ec231a516ecc279ab2a858fdd4f5669a6fc48fef4d0fc9926667d67b9632",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.112781158Z"
+}

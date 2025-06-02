@@ -1,0 +1,15 @@
+{
+  "uuid": "b9e46ec3-53c4-4273-9c7a-c6476308d42f",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/libubsan.a",
+  "size": 1026404,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.269389293Z",
+  "sha256_hash": "0e8d56cc4c1f43e3eab2042277a9a6828908348c68ffc1386e858a5514907227",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.492995747Z"
+}

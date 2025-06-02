@@ -1,0 +1,17 @@
+{
+  "uuid": "ffca537c-cb6f-49e8-b697-e438051e974f",
+  "path": "/lib/x86_64-linux-gnu/libasound.so.2.0.0",
+  "size": 1084144,
+  "modified": "2024-03-31T00:17:56Z",
+  "created": "2025-05-09T05:07:29.170755925Z",
+  "sha256_hash": "dd998a6e4f9b998d9de4501357cd9ac722711bfb0d473e4f98d8765c9ccc602c",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:30.958231736Z"
+}

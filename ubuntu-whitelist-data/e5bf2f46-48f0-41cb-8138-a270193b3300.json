@@ -1,0 +1,15 @@
+{
+  "uuid": "e5bf2f46-48f0-41cb-8138-a270193b3300",
+  "path": "/lib/x86_64-linux-gnu/gconv/IBM1140.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.626657409Z",
+  "sha256_hash": "cb80810f1c241a68de62d1f954b37388eafeb0002533e4f89d23693bfd6fd0d2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.792786857Z"
+}

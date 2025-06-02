@@ -1,0 +1,17 @@
+{
+  "uuid": "fe5812b8-f8ee-4dfb-86e1-392791f190ee",
+  "path": "/lib/x86_64-linux-gnu/libfftw3f_threads.so.3.6.10",
+  "size": 34888,
+  "modified": "2024-03-31T00:58:26Z",
+  "created": "2025-05-09T05:07:29.457751545Z",
+  "sha256_hash": "9c41e783355a7840242686bbd999b206d8e8db8672cdc332b3fdf40ba87a6a42",
+  "file_type": {
+    "Other": "10"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.931894630Z"
+}

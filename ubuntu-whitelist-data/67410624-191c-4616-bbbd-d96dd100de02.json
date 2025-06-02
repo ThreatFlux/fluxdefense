@@ -1,0 +1,17 @@
+{
+  "uuid": "67410624-191c-4616-bbbd-d96dd100de02",
+  "path": "/usr/lib/firmware/amdgpu/bonaire_sdma1.bin.zst",
+  "size": 2108,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.389543793Z",
+  "sha256_hash": "94b0234f09bcf72b854b6f7ff9475037ce3a82dd237b466299b1d2c29a2e4804",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.931068176Z"
+}

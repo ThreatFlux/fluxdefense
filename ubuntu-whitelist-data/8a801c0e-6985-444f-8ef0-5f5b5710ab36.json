@@ -1,0 +1,15 @@
+{
+  "uuid": "8a801c0e-6985-444f-8ef0-5f5b5710ab36",
+  "path": "/bin/dpkg-maintscript-helper",
+  "size": 21205,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T05:07:19.182908334Z",
+  "sha256_hash": "c1ebe2d1281240872a38dd16dcaea57d48a66978f500eeeca58689ae006ca342",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.234060732Z"
+}

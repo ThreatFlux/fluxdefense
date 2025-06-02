@@ -1,0 +1,17 @@
+{
+  "uuid": "9dca065b-0066-4195-9173-38bd9f4e3a46",
+  "path": "/usr/lib/firmware/ti-connectivity/wl127x-fw-5-mr.bin.zst",
+  "size": 179502,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.076534277Z",
+  "sha256_hash": "45cc7f5dbeadc74311ff069aeda97a888d82e6ece69a741288eaccfe8f7c16d1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.549343254Z"
+}

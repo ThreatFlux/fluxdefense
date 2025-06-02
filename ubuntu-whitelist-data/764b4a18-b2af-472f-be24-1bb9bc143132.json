@@ -1,0 +1,15 @@
+{
+  "uuid": "764b4a18-b2af-472f-be24-1bb9bc143132",
+  "path": "/lib/x86_64-linux-gnu/gconv/ISO8859-2.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.674656676Z",
+  "sha256_hash": "1d7196e97613d24b46efaf17f0a9da4d5d00bf75129ac842dd7526c61f863781",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.764225521Z"
+}

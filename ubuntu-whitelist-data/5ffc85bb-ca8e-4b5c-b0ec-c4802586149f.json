@@ -1,0 +1,17 @@
+{
+  "uuid": "5ffc85bb-ca8e-4b5c-b0ec-c4802586149f",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/MultiLevelImplicitPointerConversionCheck.h",
+  "size": 1473,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "85c80e16cfedab8fb4cd37209f1963f064969595baf43f8f48a22dcf967089cb",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.898956549Z"
+}

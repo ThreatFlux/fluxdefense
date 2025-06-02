@@ -1,0 +1,15 @@
+{
+  "uuid": "a63811a1-a21a-49e3-a2ca-eae7c10fa29a",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/IBM891.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.652657012Z",
+  "sha256_hash": "c8a4455608754ea3fd1afe505bf21ef79cff8d21f7dd7cbc636f183828188568",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.522586396Z"
+}

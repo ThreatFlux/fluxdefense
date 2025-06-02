@@ -1,0 +1,15 @@
+{
+  "uuid": "3c4a981e-b11e-47e4-9238-ed1cbda5fe07",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/sources/DataSourceMAAS.py",
+  "size": 15209,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.241037243Z",
+  "sha256_hash": "2a01072a9165aa0a8c6933fb09728ca52634463156bc5d49e6e363610bf408f9",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.832701968Z"
+}

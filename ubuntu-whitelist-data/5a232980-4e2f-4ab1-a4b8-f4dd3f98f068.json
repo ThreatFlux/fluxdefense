@@ -1,0 +1,15 @@
+{
+  "uuid": "5a232980-4e2f-4ab1-a4b8-f4dd3f98f068",
+  "path": "/lib/python3/dist-packages/cloudinit/distros/freebsd.py",
+  "size": 8735,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.237037190Z",
+  "sha256_hash": "05489bf0f2f098f7ea9fe901c06746d45f81e11baf7e6392a772aa76a7903fdd",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.905454220Z"
+}

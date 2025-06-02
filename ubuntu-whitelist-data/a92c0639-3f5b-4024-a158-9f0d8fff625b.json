@@ -1,0 +1,17 @@
+{
+  "uuid": "a92c0639-3f5b-4024-a158-9f0d8fff625b",
+  "path": "/lib/firmware/carl9170-1.fw.zst",
+  "size": 9492,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.490542394Z",
+  "sha256_hash": "3b434cd89ddad9ea05e904e503e21d1b138b9b47abf3768a58003ea930b6fea1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.355194818Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "d327891b-d598-4a31-a0d1-e7b26886ad8c",
+  "path": "/usr/lib/cups/filter/imagetopdf",
+  "size": 14664,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.356875161Z",
+  "sha256_hash": "6f18db65d1bdbc8d696bd5208e5bf422b2f8ce1c29b71a95b86ed843e9080f06",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.995558763Z"
+}

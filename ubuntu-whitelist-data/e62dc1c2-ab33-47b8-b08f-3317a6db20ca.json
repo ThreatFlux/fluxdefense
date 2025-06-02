@@ -1,0 +1,17 @@
+{
+  "uuid": "e62dc1c2-ab33-47b8-b08f-3317a6db20ca",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/g-spitbo.adb",
+  "size": 19671,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.071344860Z",
+  "sha256_hash": "2b061b6674bb07cf28788060777226c442a2741b3379b4932eaea995ac8e18e0",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.174144956Z"
+}

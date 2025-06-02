@@ -1,0 +1,17 @@
+{
+  "uuid": "3a96c27b-3271-473c-8092-914a8d30b251",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/text_io.ali",
+  "size": 2107,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.146343830Z",
+  "sha256_hash": "233276437c0fd199b4ec2a33f0e15bf9adfac0ca518df9052ee602a39a902783",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.867986914Z"
+}

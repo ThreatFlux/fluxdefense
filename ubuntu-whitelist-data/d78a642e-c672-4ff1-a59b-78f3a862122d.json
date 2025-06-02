@@ -1,0 +1,15 @@
+{
+  "uuid": "d78a642e-c672-4ff1-a59b-78f3a862122d",
+  "path": "/lib/x86_64-linux-gnu/enchant-2/enchant_aspell.so",
+  "size": 14488,
+  "modified": "2024-03-31T07:33:26Z",
+  "created": "2025-05-09T05:07:35.356661529Z",
+  "sha256_hash": "803ac56b98e3ece81deac169c436c480d6567f2afaa972664f49a13aad885c12",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:12.231864787Z"
+}

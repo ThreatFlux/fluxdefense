@@ -1,0 +1,17 @@
+{
+  "uuid": "884597a3-b3de-4314-b5be-7822ad7dea90",
+  "path": "/usr/lib/x86_64-linux-gnu/fpc/3.2.2/msg/errorru.msg",
+  "size": 347108,
+  "modified": "2024-01-05T07:40:08Z",
+  "created": "2025-05-29T11:15:46.763324118Z",
+  "sha256_hash": "aded7784b7814d3e455418e43dc336b25e2a8bd783739f27a4eff00ed58a2a1c",
+  "file_type": {
+    "Other": "msg"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.774513971Z"
+}

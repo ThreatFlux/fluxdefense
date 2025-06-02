@@ -1,0 +1,17 @@
+{
+  "uuid": "efd1d207-8989-4fb2-bac2-390910b24e00",
+  "path": "/lib/python3.12/test/certdata/capath/6e88d7b8.0",
+  "size": 814,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.987551828Z",
+  "sha256_hash": "2d0a2fc18aec63afcc8b579b23ade273a2394b9875c35367690b6a293dcd7e6d",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.635073636Z"
+}

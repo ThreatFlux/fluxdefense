@@ -1,0 +1,17 @@
+{
+  "uuid": "0c80f7f3-bc8f-4b29-bcb2-2a437b546ea7",
+  "path": "/usr/lib/grub/x86_64-efi/procfs.mod",
+  "size": 3896,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.838708002Z",
+  "sha256_hash": "cd7f9b1c8203abc794a6a131e277eeb75ea7e0e55518e66c4afa303953b53325",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.481723489Z"
+}

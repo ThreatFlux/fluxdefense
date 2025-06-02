@@ -1,0 +1,17 @@
+{
+  "uuid": "6bdbd825-cc61-4945-a8e2-499860a39919",
+  "path": "/lib/firmware/amdgpu/topaz_k_smc.bin.zst",
+  "size": 31334,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.418543391Z",
+  "sha256_hash": "3670e165a1c822584ca6e25cbe058294c5573443426725be8c304c4f1d747b74",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.914849025Z"
+}

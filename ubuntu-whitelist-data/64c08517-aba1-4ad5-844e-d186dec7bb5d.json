@@ -1,0 +1,15 @@
+{
+  "uuid": "64c08517-aba1-4ad5-844e-d186dec7bb5d",
+  "path": "/usr/bin/lwp-request",
+  "size": 16249,
+  "modified": "2024-01-27T01:34:06Z",
+  "created": "2025-05-09T05:07:20.158893441Z",
+  "sha256_hash": "ba23312eca0200ddf324653dda2a644127a4c80f2dd48cb4b45f630e62ea2ce9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:05.835180139Z"
+}

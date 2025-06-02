@@ -1,0 +1,17 @@
+{
+  "uuid": "b0bfa7a7-bca3-4069-bedd-301e1f5d10b5",
+  "path": "/lib/firmware/v4l-pvrusb2-29xxx-01.fw.zst",
+  "size": 3460,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.082534194Z",
+  "sha256_hash": "034901e6c67315fbc0b5686658eca8637cc9b64e52d7bec749a54a7d8b140f77",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.617372197Z"
+}

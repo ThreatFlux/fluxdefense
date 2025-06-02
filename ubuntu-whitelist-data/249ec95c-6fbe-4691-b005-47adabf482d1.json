@@ -1,0 +1,17 @@
+{
+  "uuid": "249ec95c-6fbe-4691-b005-47adabf482d1",
+  "path": "/lib/udev/rules.d/60-drm.rules",
+  "size": 834,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "52be111d855eacb6a39947bb4d55a4d60003a13b34fce8d8a6decccf118e6ac6",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.240669498Z"
+}

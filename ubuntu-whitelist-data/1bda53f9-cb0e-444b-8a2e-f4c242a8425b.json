@@ -1,0 +1,15 @@
+{
+  "uuid": "1bda53f9-cb0e-444b-8a2e-f4c242a8425b",
+  "path": "/usr/bin/virt-ssh-helper",
+  "size": 31232,
+  "modified": "2025-03-13T16:25:50Z",
+  "created": "2025-05-20T14:31:33.103814784Z",
+  "sha256_hash": "ca07e24d328c54e63741e238f4fa881590fdd410f55f6015f4b83538b06d5c13",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:14.616623053Z"
+}

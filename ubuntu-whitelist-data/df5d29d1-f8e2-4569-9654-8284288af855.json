@@ -1,0 +1,15 @@
+{
+  "uuid": "df5d29d1-f8e2-4569-9654-8284288af855",
+  "path": "/lib/x86_64-linux-gnu/security/pam_namespace.so",
+  "size": 43272,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:37.201633375Z",
+  "sha256_hash": "78c7e0a6fc2a98680e24532829ca224f8dd0dfa2acf55072f320ac838f4e0217",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.389280943Z"
+}

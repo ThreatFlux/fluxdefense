@@ -1,0 +1,15 @@
+{
+  "uuid": "7b176339-6ed3-4e03-a0ee-1bc95fdfbd51",
+  "path": "/usr/lib/x86_64-linux-gnu/gprofng/libgp-sync.so",
+  "size": 26904,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:51.894577730Z",
+  "sha256_hash": "95c3370d2531939cf214723f0b8d905137cfd3fad9f9e8e4a738df69fbcf9e2e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.304901864Z"
+}

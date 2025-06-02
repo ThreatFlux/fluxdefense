@@ -1,0 +1,17 @@
+{
+  "uuid": "fda40709-d216-4330-b8ed-61925c4081dd",
+  "path": "/lib/aspell/en_AU.multi",
+  "size": 86,
+  "modified": "2020-12-08T01:19:37Z",
+  "created": "2025-05-09T05:07:21.014880380Z",
+  "sha256_hash": "378f9ecb1ca44c118f7f24ebc0aa0e03930245de523c54a5850ba30a14a3c15b",
+  "file_type": {
+    "Other": "multi"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.778379262Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f164977a-ecf8-41c7-aeaa-611dd6cc226d",
+  "path": "/lib/x86_64-linux-gnu/perl-base/Text/Wrap.pm",
+  "size": 2691,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.353578582Z",
+  "sha256_hash": "7a607e7741691146b8d3a93ee6fac737e998d54c9de2caa8f3c29a575ecde9a6",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.893351815Z"
+}

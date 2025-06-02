@@ -1,0 +1,15 @@
+{
+  "uuid": "bb2a00a4-14d8-4c07-bf16-4832273cd24a",
+  "path": "/usr/bin/lsipc",
+  "size": 51584,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:20.144893655Z",
+  "sha256_hash": "7cc10bc1b65e1cf59ea3f812c163855a8e01ad57aadcfc0a98cda31d41cc9bb2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.774097438Z"
+}

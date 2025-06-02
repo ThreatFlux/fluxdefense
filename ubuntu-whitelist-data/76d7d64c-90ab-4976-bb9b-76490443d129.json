@@ -1,0 +1,17 @@
+{
+  "uuid": "76d7d64c-90ab-4976-bb9b-76490443d129",
+  "path": "/lib/firmware/ueagle-atm/eagleII.fw.zst",
+  "size": 7873,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.081534208Z",
+  "sha256_hash": "5372f8bc4330d2275d3ae2bafe4e9210279ca964b10da1c35376c85ffd43fb57",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.332840505Z"
+}

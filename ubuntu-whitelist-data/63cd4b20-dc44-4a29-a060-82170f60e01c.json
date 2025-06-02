@@ -1,0 +1,17 @@
+{
+  "uuid": "63cd4b20-dc44-4a29-a060-82170f60e01c",
+  "path": "/usr/lib/udev/rules.d/64-btrfs.rules",
+  "size": 616,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "a4bc67740cd0988415907b0fdb5e9cd955be2626b5095b55c7eed4aa4e99bb53",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.109046688Z"
+}

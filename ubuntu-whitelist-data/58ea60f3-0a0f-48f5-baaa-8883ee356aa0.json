@@ -1,0 +1,17 @@
+{
+  "uuid": "58ea60f3-0a0f-48f5-baaa-8883ee356aa0",
+  "path": "/lib/x86_64-linux-gnu/ldscripts/elf_x86_64.xs",
+  "size": 9404,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:52.049575364Z",
+  "sha256_hash": "10d6ffdd18a3a28455848691eea7509486880a42fd15c95677ac3378377c34fd",
+  "file_type": {
+    "Other": "xs"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:18.245552039Z"
+}

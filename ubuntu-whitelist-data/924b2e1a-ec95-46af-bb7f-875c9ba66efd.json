@@ -1,0 +1,17 @@
+{
+  "uuid": "924b2e1a-ec95-46af-bb7f-875c9ba66efd",
+  "path": "/usr/lib/x86_64-linux-gnu/nodejs/re2/re2.js",
+  "size": 1031,
+  "modified": "2024-03-21T03:52:41Z",
+  "created": "2025-05-13T14:33:00.521888438Z",
+  "sha256_hash": "43cec6ef0e2b5a3a42e750cc3c2702dcb2f5d9ab02bead56770afc4025e83d3f",
+  "file_type": {
+    "Other": "js"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.621460285Z"
+}

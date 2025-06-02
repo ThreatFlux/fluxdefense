@@ -1,0 +1,17 @@
+{
+  "uuid": "7a8a7f76-19a9-4294-837b-cc3a44223e6f",
+  "path": "/lib/llvm-18/include/clang-tidy/readability/SuspiciousCallArgumentCheck.h",
+  "size": 3745,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "585c71c48d4022baee575f887dddfe3058de980f01f432263a0efa88ff9226b6",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.925305150Z"
+}

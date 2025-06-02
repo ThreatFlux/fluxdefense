@@ -1,0 +1,17 @@
+{
+  "uuid": "fed00dc4-3c35-434e-bc9c-518561b2132c",
+  "path": "/usr/lib/x86_64-linux-gnu/bpf/xdpfilt_alw_ip.o",
+  "size": 18880,
+  "modified": "2024-04-01T04:46:20Z",
+  "created": "2025-05-26T20:18:27.419017429Z",
+  "sha256_hash": "869a5ccab573e95a397a5f5f4bfe577a976805905098a117a619e7696f0799bb",
+  "file_type": {
+    "Other": "o"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.118991808Z"
+}

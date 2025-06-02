@@ -1,0 +1,15 @@
+{
+  "uuid": "efcaddf9-5a7c-46bc-81f5-977d0c60dd9d",
+  "path": "/usr/bin/ntfscat",
+  "size": 27008,
+  "modified": "2024-04-08T14:46:29Z",
+  "created": "2025-05-09T05:07:20.242892160Z",
+  "sha256_hash": "281745a95d3baba7ac2e982369c0c021d7cdb05fa4a9eb97bdb1af48eba7b153",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.469460033Z"
+}

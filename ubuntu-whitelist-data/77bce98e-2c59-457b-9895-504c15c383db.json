@@ -1,0 +1,15 @@
+{
+  "uuid": "77bce98e-2c59-457b-9895-504c15c383db",
+  "path": "/lib/x86_64-linux-gnu/libvirt/connection-driver/libvirt_driver_qemu.so",
+  "size": 2070160,
+  "modified": "2025-03-13T16:25:50Z",
+  "created": "2025-05-20T14:31:32.779820396Z",
+  "sha256_hash": "1b8bc2202ccea566a5f924bcb8b6ebe1b98a5bdff382d4e32d6cf1deef3532fe",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.332674127Z"
+}

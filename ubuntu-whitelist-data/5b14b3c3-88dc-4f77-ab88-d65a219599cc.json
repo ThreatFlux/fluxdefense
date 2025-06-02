@@ -1,0 +1,15 @@
+{
+  "uuid": "5b14b3c3-88dc-4f77-ab88-d65a219599cc",
+  "path": "/usr/lib/x86_64-linux-gnu/security/pam_faillock.so",
+  "size": 22680,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:37.197633436Z",
+  "sha256_hash": "56a1c575e77bd870254d29b14a5a63c098846a0e5dbe42d71adf31c851a3c0f5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.656564422Z"
+}

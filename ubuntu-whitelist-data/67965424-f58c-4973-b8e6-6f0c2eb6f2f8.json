@@ -1,0 +1,15 @@
+{
+  "uuid": "67965424-f58c-4973-b8e6-6f0c2eb6f2f8",
+  "path": "/usr/bin/gpasswd",
+  "size": 76248,
+  "modified": "2024-05-30T14:52:35Z",
+  "created": "2025-05-09T05:07:19.678900766Z",
+  "sha256_hash": "b9ef1bde0bde1b6839a0f55d43a606645723436932f072e3bf71e4c1a0ed4c06",
+  "file_type": "Executable",
+  "permissions": 35309,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.416404772Z"
+}

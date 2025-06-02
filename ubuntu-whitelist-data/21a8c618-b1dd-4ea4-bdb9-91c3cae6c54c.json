@@ -1,0 +1,17 @@
+{
+  "uuid": "21a8c618-b1dd-4ea4-bdb9-91c3cae6c54c",
+  "path": "/lib/systemd/system-generators/systemd-veritysetup-generator",
+  "size": 31448,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.516779393Z",
+  "sha256_hash": "d4cfbc5ad11bafa4775c77b8c06680c9dbeaec846688d4da59910e0f198660b7",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.094955378Z"
+}

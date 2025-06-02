@@ -1,0 +1,17 @@
+{
+  "uuid": "489d62d5-a4b7-468d-b58f-b026aa4d7bc0",
+  "path": "/usr/lib/x86_64-linux-gnu/libusb-1.0.so.0.4.0",
+  "size": 117736,
+  "modified": "2024-02-01T18:42:35Z",
+  "created": "2025-05-09T05:07:32.350707399Z",
+  "sha256_hash": "751349e3def1808981dc26bbeb746e2d6ff4ca97fc2c8bc8faaa8f46c879057f",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.075090616Z"
+}

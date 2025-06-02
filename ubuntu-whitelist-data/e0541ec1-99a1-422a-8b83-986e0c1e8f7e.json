@@ -1,0 +1,17 @@
+{
+  "uuid": "e0541ec1-99a1-422a-8b83-986e0c1e8f7e",
+  "path": "/lib/llvm-18/include/clang/ASTMatchers/GtestMatchers.h",
+  "size": 3457,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.522533674Z",
+  "sha256_hash": "577bf6ca0e600190e8712873eacc1d1dca39076deed1ce0fe212cc49da176730",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.933481064Z"
+}

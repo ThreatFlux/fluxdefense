@@ -1,0 +1,17 @@
+{
+  "uuid": "133a936c-1af5-4400-bb5e-cf6cec51d429",
+  "path": "/lib/systemd/system/cloud-init.target",
+  "size": 674,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.233037137Z",
+  "sha256_hash": "d9fdbc55f79e76333ce010f530e70fbc1f6d80370fc17e2021656fc709bc54a5",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.128607798Z"
+}

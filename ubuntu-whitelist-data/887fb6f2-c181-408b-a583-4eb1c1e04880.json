@@ -1,0 +1,15 @@
+{
+  "uuid": "887fb6f2-c181-408b-a583-4eb1c1e04880",
+  "path": "/usr/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-altair-lte.so",
+  "size": 43296,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.160664520Z",
+  "sha256_hash": "53a7161422f28902346b0f181d867a1fd58b9b3326ba580e08a5498c0f812d3f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.072229273Z"
+}

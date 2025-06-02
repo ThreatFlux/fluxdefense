@@ -1,0 +1,17 @@
+{
+  "uuid": "cf596ed2-1aa9-4f54-ad67-33192898ec30",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-strsea.ali",
+  "size": 15621,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.101344448Z",
+  "sha256_hash": "bd54d88cedeee2104cde4401342ff21d2184366092f9b8d2ea4810fb5491cf4a",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.893064446Z"
+}

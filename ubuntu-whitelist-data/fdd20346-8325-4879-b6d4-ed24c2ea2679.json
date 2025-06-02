@@ -1,0 +1,17 @@
+{
+  "uuid": "fdd20346-8325-4879-b6d4-ed24c2ea2679",
+  "path": "/usr/lib/x86_64-linux-gnu/libva-drm.so.2.2000.0",
+  "size": 14656,
+  "modified": "2024-04-18T17:47:47Z",
+  "created": "2025-05-09T05:09:17.387104412Z",
+  "sha256_hash": "e5b013f5bf85fec14640f0bb0762f36af7cc780f2c3b52a74082a11c69ec93d0",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.003255630Z"
+}

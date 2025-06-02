@@ -1,0 +1,15 @@
+{
+  "uuid": "9750e04a-822a-48c4-a0ed-3b7a7cf78a5b",
+  "path": "/usr/libexec/gvfsd-fuse",
+  "size": 47608,
+  "modified": "2024-04-18T13:39:03Z",
+  "created": "2025-05-09T05:07:37.513628614Z",
+  "sha256_hash": "86b8e2a578c462cec870579edf14849585e320425f7fbc6ed88a6293891b149f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.490611656Z"
+}

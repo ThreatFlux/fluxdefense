@@ -1,0 +1,15 @@
+{
+  "uuid": "29b61861-0f48-4c25-9d91-c0f97f830256",
+  "path": "/usr/lib/x86_64-linux-gnu/samba/ldb/ldb.so",
+  "size": 14560,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.125634535Z",
+  "sha256_hash": "e2f244dd47331c581bc3349dfe5bffe328f1557a415c4c768db3875afca7b833",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.316621905Z"
+}

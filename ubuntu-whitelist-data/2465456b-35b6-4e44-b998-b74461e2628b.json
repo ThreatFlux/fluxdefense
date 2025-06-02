@@ -1,0 +1,15 @@
+{
+  "uuid": "2465456b-35b6-4e44-b998-b74461e2628b",
+  "path": "/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-xpm.so",
+  "size": 35096,
+  "modified": "2024-06-03T16:36:10Z",
+  "created": "2025-05-09T05:07:35.707656173Z",
+  "sha256_hash": "6cf40ae46f9fb2ed649b254778027b644012f46a4934440403fabb00d7d1a566",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:30.311869013Z"
+}

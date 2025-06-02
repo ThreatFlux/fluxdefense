@@ -1,0 +1,17 @@
+{
+  "uuid": "626eac16-30dc-4eed-92af-57e87e722402",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/projects/get_ancestors.yaml",
+  "size": 778,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.718932175Z",
+  "sha256_hash": "ca4c3e061d453e7adc0103e0a04d369e1e872e9336caf3ff9259ab22d74b1ee2",
+  "file_type": {
+    "Other": "yaml"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.782649904Z"
+}

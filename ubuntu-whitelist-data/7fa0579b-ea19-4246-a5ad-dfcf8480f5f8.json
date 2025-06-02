@@ -1,0 +1,17 @@
+{
+  "uuid": "7fa0579b-ea19-4246-a5ad-dfcf8480f5f8",
+  "path": "/lib/python3.12/test/empty.vbs",
+  "size": 70,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.998551683Z",
+  "sha256_hash": "0d5216ca5f84c64bd63fae69edc59341ff18d8b4b84e81107efaa29b19877dfa",
+  "file_type": {
+    "Other": "vbs"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.239990877Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f720aba3-4eb3-4d66-aa9f-1d9c8a206147",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/sound/ac97_bus.ko.zst",
+  "size": 7406,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:35.046781128Z",
+  "sha256_hash": "f5d281a0e27706915c268a9ede130f855c54b3a9060154a1208c7ccab50e61fe",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.544925695Z"
+}

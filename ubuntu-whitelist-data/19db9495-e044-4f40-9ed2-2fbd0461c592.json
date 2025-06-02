@@ -1,0 +1,15 @@
+{
+  "uuid": "19db9495-e044-4f40-9ed2-2fbd0461c592",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/sources/DataSourceOpenStack.py",
+  "size": 10343,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.242037257Z",
+  "sha256_hash": "ed29804b863e0c0c1ab375df2b7eeaf23c03904a139948d7dbbde1cfff540180",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.831693032Z"
+}

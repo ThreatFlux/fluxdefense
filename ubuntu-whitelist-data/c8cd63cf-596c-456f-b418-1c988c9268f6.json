@@ -1,0 +1,17 @@
+{
+  "uuid": "c8cd63cf-596c-456f-b418-1c988c9268f6",
+  "path": "/lib/x86_64-linux-gnu/libmpg123.so.0.48.2",
+  "size": 376344,
+  "modified": "2024-11-04T18:26:15Z",
+  "created": "2025-05-09T05:07:31.529719928Z",
+  "sha256_hash": "af6e041af88719710b77d83b7deb8ecbe10bdf67a255fcadcfae7eec1d19eea6",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.171124216Z"
+}

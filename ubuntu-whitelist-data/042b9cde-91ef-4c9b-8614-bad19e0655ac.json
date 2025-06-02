@@ -1,0 +1,17 @@
+{
+  "uuid": "042b9cde-91ef-4c9b-8614-bad19e0655ac",
+  "path": "/usr/lib/x86_64-linux-gnu/samba/libtime-basic-samba4.so.0",
+  "size": 14568,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.119634626Z",
+  "sha256_hash": "a8c6e38fc410e5da16bcb5d2c188b3e5b18143eda63ab273edefdace0348dc80",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.238706534Z"
+}

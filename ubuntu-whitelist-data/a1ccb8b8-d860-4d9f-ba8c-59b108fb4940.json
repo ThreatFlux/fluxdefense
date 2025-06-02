@@ -1,0 +1,17 @@
+{
+  "uuid": "a1ccb8b8-d860-4d9f-ba8c-59b108fb4940",
+  "path": "/lib/grub/x86_64-efi/ehci.mod",
+  "size": 25904,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.804708521Z",
+  "sha256_hash": "f214e0cee5bb31e2d5efd02222580f16fc3d13e51124b23a862fb78f70e059ea",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.138796566Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f3b743e5-6e7d-4f23-afb4-a9fa1e64a7f6",
+  "path": "/usr/lib/firmware/amdgpu/stoney_uvd.bin.zst",
+  "size": 163686,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.417543405Z",
+  "sha256_hash": "7d9676f5aaa7825d65327496e04f987a00e6f8a50a3d4b5817921f4561a399be",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.007962805Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e20f0090-18b9-4e21-bc3d-a87fc70c6207",
+  "path": "/lib/snapd/snap-mgmt",
+  "size": 9810,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.475027036Z",
+  "sha256_hash": "0418ad31df1d3fef489f534a49cb55a901006ae29b12e2cdd7e2abf649254a9f",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.495707193Z"
+}

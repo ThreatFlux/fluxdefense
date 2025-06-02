@@ -1,0 +1,17 @@
+{
+  "uuid": "bd641227-d2e3-4f4d-bb8a-befd528d9157",
+  "path": "/lib/x86_64-linux-gnu/libdcerpc.so.0.0.1",
+  "size": 207152,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:29.298753971Z",
+  "sha256_hash": "f1b2564f856edca502bc4a18819fc8aa61609e34d0280803fd97319eed731951",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.185253422Z"
+}

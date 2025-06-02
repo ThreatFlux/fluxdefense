@@ -1,0 +1,17 @@
+{
+  "uuid": "aadfcdfc-5504-4fdc-b313-71e101f4a31b",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/BuiltinsBPF.def",
+  "size": 1191,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.525533634Z",
+  "sha256_hash": "466ff23da7f29287f5c28cd58ac0dffe2cee29bcc599bfe9fb95d5d030bcb02a",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.482693716Z"
+}

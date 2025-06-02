@@ -1,0 +1,17 @@
+{
+  "uuid": "77ccd12a-aae9-4f72-90dd-feed35b92817",
+  "path": "/usr/lib/systemd/logind.conf.d/unattended-upgrades-logind-maxdelay.conf",
+  "size": 38,
+  "modified": "2024-02-12T17:50:35Z",
+  "created": "2025-05-09T05:07:28.275769582Z",
+  "sha256_hash": "9da206477d49c86cee43cc398df2ccbca762f11c9db6987d2faf83cfa72dc23f",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.545855560Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "21075135-7f3b-44a9-be87-aa04686f88ef",
+  "path": "/lib/llvm-18/include/clang-tidy/cert/CommandProcessorCheck.h",
+  "size": 1374,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "4de8841d982d8ea325fd24d3d3b4e35ed0b52a447a5c100044a82dd7fd1bb34d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.912813032Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a9799692-c979-4a2e-8f92-65b2303d460e",
+  "path": "/lib/firmware/hfi1_pcie.fw.zst",
+  "size": 30124,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.531541826Z",
+  "sha256_hash": "6c0c83ca952b420555330e4d8a59518f76ac23c9e82ca6568f355aed4b730660",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.401248200Z"
+}

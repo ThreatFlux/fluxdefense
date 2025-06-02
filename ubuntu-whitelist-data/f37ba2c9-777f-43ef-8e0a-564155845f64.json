@@ -1,0 +1,17 @@
+{
+  "uuid": "f37ba2c9-777f-43ef-8e0a-564155845f64",
+  "path": "/lib/python3.12/test/decimaltestdata/ddClass.decTest",
+  "size": 3907,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.990551788Z",
+  "sha256_hash": "95fae33b33f1e9a4eb8610540f4184502c51360c296f28bd97553bf1dc44c5bb",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.442381463Z"
+}

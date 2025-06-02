@@ -1,0 +1,17 @@
+{
+  "uuid": "cb678701-0228-45c6-b14f-0a59ab74a45d",
+  "path": "/lib/llvm-18/include/clang/Basic/OperatorKinds.h",
+  "size": 1778,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "9b8cb3095c115096475a721e03624d9de01cf007519bbaa33ade254f949465b7",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.118583855Z"
+}

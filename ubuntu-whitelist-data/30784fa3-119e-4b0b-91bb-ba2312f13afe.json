@@ -1,0 +1,17 @@
+{
+  "uuid": "30784fa3-119e-4b0b-91bb-ba2312f13afe",
+  "path": "/usr/lib/x86_64-linux-gnu/libsndfile.so.1.0.37",
+  "size": 545896,
+  "modified": "2025-02-12T21:46:17Z",
+  "created": "2025-05-09T05:11:33.813022046Z",
+  "sha256_hash": "3b9c4be9dab1c1fa6c0d9b9936946f07f02525f93b43fb1ee2112dd3fe70858d",
+  "file_type": {
+    "Other": "37"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:22.218380629Z"
+}

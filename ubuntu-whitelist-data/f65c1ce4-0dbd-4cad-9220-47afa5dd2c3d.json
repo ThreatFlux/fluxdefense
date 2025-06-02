@@ -1,0 +1,17 @@
+{
+  "uuid": "f65c1ce4-0dbd-4cad-9220-47afa5dd2c3d",
+  "path": "/lib/udev/hwdb.d/70-analyzers.hwdb",
+  "size": 1243,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.059786335Z",
+  "sha256_hash": "77e4fb24168f78a7635acbe870cdb158c3bd4608544c3533ba835d5fbbe987f0",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.254982080Z"
+}

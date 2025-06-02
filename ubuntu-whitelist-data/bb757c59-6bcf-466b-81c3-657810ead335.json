@@ -1,0 +1,17 @@
+{
+  "uuid": "bb757c59-6bcf-466b-81c3-657810ead335",
+  "path": "/usr/lib/tmpfiles.d/sudo.conf",
+  "size": 27,
+  "modified": "2024-01-29T17:09:56Z",
+  "created": "2025-05-09T05:07:28.308769079Z",
+  "sha256_hash": "eed7eb9d7ddaccb3ae13d3225de1302a96754938fea4dc305c43b64cbcb5d0bc",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.133443178Z"
+}

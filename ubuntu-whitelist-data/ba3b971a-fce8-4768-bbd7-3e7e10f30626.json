@@ -1,0 +1,17 @@
+{
+  "uuid": "ba3b971a-fce8-4768-bbd7-3e7e10f30626",
+  "path": "/sbin/mkfs.minix",
+  "size": 43408,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.364615628Z",
+  "sha256_hash": "5356fe6d4fc73797dfbc4b827df25168812f44db2663bc69b1e5792cb3fd399a",
+  "file_type": {
+    "Other": "minix"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.063506329Z"
+}

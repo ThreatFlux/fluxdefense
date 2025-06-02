@@ -1,0 +1,15 @@
+{
+  "uuid": "d52b2f65-5225-4d71-8a88-d1ac545b2e69",
+  "path": "/usr/lib/klibc/bin/sync",
+  "size": 8920,
+  "modified": "2024-05-21T08:39:42Z",
+  "created": "2025-05-09T05:07:21.714869698Z",
+  "sha256_hash": "af800ba20885fc612868a1c9f4412476aff088d4fba7038586db374e14ee31e7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.562005536Z"
+}

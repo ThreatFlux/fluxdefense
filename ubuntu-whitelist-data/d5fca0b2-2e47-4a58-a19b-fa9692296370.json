@@ -1,0 +1,17 @@
+{
+  "uuid": "d5fca0b2-2e47-4a58-a19b-fa9692296370",
+  "path": "/usr/lib/evolution-data-server/camel-providers/libcamellocal.urls",
+  "size": 22,
+  "modified": "2024-06-28T07:29:41Z",
+  "created": "2025-05-09T05:07:21.658870553Z",
+  "sha256_hash": "04473620492282bfe2f2c0603b68b7b9bc8fd6688efc926b3ddb27f1802b350a",
+  "file_type": {
+    "Other": "urls"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.037480453Z"
+}

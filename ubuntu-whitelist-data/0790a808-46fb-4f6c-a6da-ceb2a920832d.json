@@ -1,0 +1,17 @@
+{
+  "uuid": "0790a808-46fb-4f6c-a6da-ceb2a920832d",
+  "path": "/usr/lib/python3.12/test/audiodata/pluck-pcm24.au",
+  "size": 19866,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.986551841Z",
+  "sha256_hash": "0f7ff61582b28115c56fe3127a4a203aefed876bd4f7e8d8c20224afce0ffe97",
+  "file_type": {
+    "Other": "au"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.715411779Z"
+}

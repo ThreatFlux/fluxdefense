@@ -1,0 +1,17 @@
+{
+  "uuid": "f688ded8-0992-43ec-b7b8-9253583e96d3",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/include/avx512vp2intersectvlintrin.h",
+  "size": 2638,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.244389832Z",
+  "sha256_hash": "15346710376c83dbaf1e40c39a6d1bffa4d4f847c80939af3a4ccf6153b79a0d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.928485997Z"
+}

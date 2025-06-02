@@ -1,0 +1,17 @@
+{
+  "uuid": "223b2488-ed29-430a-ae5d-72c9173d5643",
+  "path": "/bin/mka64ins-3.2.2",
+  "size": 198768,
+  "modified": "2024-01-05T07:40:08Z",
+  "created": "2025-05-29T11:16:19.055881007Z",
+  "sha256_hash": "c39008787ce77dfe56b0510dd9676ee80c79e802e752b93243efd6ab5dce079e",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.228875946Z"
+}

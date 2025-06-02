@@ -1,0 +1,17 @@
+{
+  "uuid": "c800b19a-b8cd-46f1-adc3-3032c409f52a",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-valcha.ali",
+  "size": 1488,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.145343843Z",
+  "sha256_hash": "cb7d2b0c1b63659636fea947a17b52a0bfafc369d2ae763002debda9c2b8446e",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.481550349Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "21bf2114-7d3b-49c6-b041-0ffea2d50a2e",
+  "path": "/lib/x86_64-linux-gnu/libXaw7.so.7.0.0",
+  "size": 479544,
+  "modified": "2024-03-31T02:21:08Z",
+  "created": "2025-05-09T05:07:29.060757603Z",
+  "sha256_hash": "18e0e839eb69d2abe4f025c288582f88e6cc8264efd3d66a9cd51e8350833ac9",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:32.531115078Z"
+}

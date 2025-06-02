@@ -1,0 +1,15 @@
+{
+  "uuid": "7f01f487-198d-4667-880a-b447f5d907b2",
+  "path": "/usr/sbin/runuser",
+  "size": 55680,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.413614880Z",
+  "sha256_hash": "f0f20a5643008aceda1b4e24647b8a516d47425cf778d4e8b281aee04734874e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.181626610Z"
+}

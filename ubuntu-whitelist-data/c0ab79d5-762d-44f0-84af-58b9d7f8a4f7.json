@@ -1,0 +1,17 @@
+{
+  "uuid": "c0ab79d5-762d-44f0-84af-58b9d7f8a4f7",
+  "path": "/lib/x86_64-linux-gnu/libdevmapper.so.1.02.1",
+  "size": 438728,
+  "modified": "2024-11-27T19:06:49Z",
+  "created": "2025-05-09T05:24:14.632793678Z",
+  "sha256_hash": "0b33f9e9780b2e22bd40170f4cfe358b0cf525974d01896b3bb2b02d6e4e2582",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.282757240Z"
+}

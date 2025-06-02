@@ -1,0 +1,17 @@
+{
+  "uuid": "bf358d3a-3988-4e23-afd8-4a258be93a56",
+  "path": "/usr/lib/x86_64-linux-gnu/libodfgen-0.1.so.1.0.8",
+  "size": 708184,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:31.754716494Z",
+  "sha256_hash": "8bd88f2411e45dc0bc7cdd249770aafe1e05f9b3387359207f11cdfe56869184",
+  "file_type": {
+    "Other": "8"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:29.552108182Z"
+}

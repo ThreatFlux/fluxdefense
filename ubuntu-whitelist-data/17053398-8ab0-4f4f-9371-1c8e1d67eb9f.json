@@ -1,0 +1,15 @@
+{
+  "uuid": "17053398-8ab0-4f4f-9371-1c8e1d67eb9f",
+  "path": "/bin/aseqdump",
+  "size": 27008,
+  "modified": "2024-04-07T07:09:55Z",
+  "created": "2025-05-09T05:07:18.929912195Z",
+  "sha256_hash": "5b8685ed94de28a9a6adb1091b3660770b0a2470cd95685f88784ddc8af2282e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.277164733Z"
+}

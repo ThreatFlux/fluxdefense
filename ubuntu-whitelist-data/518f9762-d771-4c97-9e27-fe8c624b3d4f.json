@@ -1,0 +1,17 @@
+{
+  "uuid": "518f9762-d771-4c97-9e27-fe8c624b3d4f",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/performance/AvoidEndlCheck.h",
+  "size": 1496,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "774d225721358e8f3af019065b9d20b148c4eba74c2507eb1c0ac0bad9802e27",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.280462681Z"
+}

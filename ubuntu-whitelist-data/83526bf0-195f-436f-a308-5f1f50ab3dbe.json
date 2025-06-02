@@ -1,0 +1,15 @@
+{
+  "uuid": "83526bf0-195f-436f-a308-5f1f50ab3dbe",
+  "path": "/usr/lib/x86_64-linux-gnu/security/pam_setquota.so",
+  "size": 18584,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:37.203633344Z",
+  "sha256_hash": "96c6526ac160bbc08208bd226cdc51b19bddd23ebf85e0ab9cdf62560a61c977",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.664439967Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "bf00f4ce-fd1e-461a-9cda-fcf3dac12f35",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/B/Terse.pm",
+  "size": 2905,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.495591678Z",
+  "sha256_hash": "25dd65d3630d6094acae1715e769e191cb73f8af773a1a046f698a1aa9497765",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.576779429Z"
+}

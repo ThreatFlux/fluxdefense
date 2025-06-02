@@ -1,0 +1,17 @@
+{
+  "uuid": "077846bf-dd20-4f12-b5c3-6b6c33c83ba5",
+  "path": "/lib/llvm-18/include/clang/Serialization/ASTReader.h",
+  "size": 95244,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.549533318Z",
+  "sha256_hash": "5136878954f3d3a6ddf35830699201b7e2ecee5c54eb1c00f59e52dca1cb47d4",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.022058721Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "9068af7c-91c2-42e3-a941-1884ab47caeb",
+  "path": "/lib/x86_64-linux-gnu/libxml2.so.2.9.14",
+  "size": 1967424,
+  "modified": "2025-04-24T18:42:32Z",
+  "created": "2025-05-09T05:09:49.351616543Z",
+  "sha256_hash": "18f0223115469e5539e75793c21a8d7facb4f27a686ab7d8b73df0e5555df6da",
+  "file_type": {
+    "Other": "14"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.362383917Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "cb99618c-6071-4d4c-8ba4-ac269693d9cf",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/cppcoreguidelines/ProTypeUnionAccessCheck.h",
+  "size": 1461,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "d634ac31f50b8fc4821bdd73e87deb4a086dd809736cdbe459adc714593d066f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.252050185Z"
+}

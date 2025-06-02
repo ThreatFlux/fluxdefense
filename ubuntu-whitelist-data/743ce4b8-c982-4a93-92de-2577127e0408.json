@@ -1,0 +1,17 @@
+{
+  "uuid": "743ce4b8-c982-4a93-92de-2577127e0408",
+  "path": "/usr/lib/x86_64-linux-gnu/perl-base/integer.pm",
+  "size": 172,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.362578444Z",
+  "sha256_hash": "1c387bfbc4bcb4046e7372c534372c7150315499bc5641328d5c3c1c1ad50373",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.724893232Z"
+}

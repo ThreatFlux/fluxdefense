@@ -1,0 +1,17 @@
+{
+  "uuid": "db8985de-f1ba-4231-b100-b0580e171aeb",
+  "path": "/lib/x86_64-linux-gnu/liblttng-ust-fork.so.1.0.0",
+  "size": 14488,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:31.331722949Z",
+  "sha256_hash": "96e4f9d9d370f683e77d73caa661021d3e9fe271aed30cb663642c4f31e9f5e2",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.326105256Z"
+}

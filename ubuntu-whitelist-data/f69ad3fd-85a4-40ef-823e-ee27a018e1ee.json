@@ -1,0 +1,15 @@
+{
+  "uuid": "f69ad3fd-85a4-40ef-823e-ee27a018e1ee",
+  "path": "/lib/x86_64-linux-gnu/xtables/libip6t_eui64.so",
+  "size": 14544,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.326631467Z",
+  "sha256_hash": "8fc72f0568b345c3eaebda42ee54e4ec1cfc31500540c93876eda27758956ae5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.681329315Z"
+}

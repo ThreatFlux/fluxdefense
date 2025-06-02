@@ -1,0 +1,15 @@
+{
+  "uuid": "b9b1220f-eefd-4b81-b55b-ea75591e2ee0",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_DSCP.so",
+  "size": 14984,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.331631391Z",
+  "sha256_hash": "9d58e5715418bfce1ce64bb734e51aa190e978eae5ef0a72d6a33ea3b484d765",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.661954454Z"
+}

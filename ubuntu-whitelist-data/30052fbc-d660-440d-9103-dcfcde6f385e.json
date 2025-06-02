@@ -1,0 +1,17 @@
+{
+  "uuid": "30052fbc-d660-440d-9103-dcfcde6f385e",
+  "path": "/usr/lib/firmware/cxgb4/t4fw-1.14.4.0.bin.zst",
+  "size": 332466,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.512542089Z",
+  "sha256_hash": "d674fe8b19782054e5c7de05fd5c1976103b334271d29f22547d6fa7ab886038",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.684249821Z"
+}

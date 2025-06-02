@@ -1,0 +1,17 @@
+{
+  "uuid": "0c7e882f-9fdf-4271-9973-05429da9836f",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/ne_dict",
+  "size": 95377,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.479659652Z",
+  "sha256_hash": "43831c3f53ea6e939cac37b5ae5bd7a2ea8237aa46f0e7f2441ab772a3c51dba",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.342065132Z"
+}

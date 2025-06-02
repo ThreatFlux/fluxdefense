@@ -1,0 +1,17 @@
+{
+  "uuid": "e7172ca2-179d-43b8-adb3-488158b16521",
+  "path": "/usr/lib/firmware/nvidia/tegra194/vic.bin.zst",
+  "size": 10112,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.942536133Z",
+  "sha256_hash": "11e7507e2c695aa238f21d8b1a8813df7ea2d63c7ac0da5431348104dda720da",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.458442866Z"
+}

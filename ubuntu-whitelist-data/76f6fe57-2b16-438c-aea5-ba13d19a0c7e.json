@@ -1,0 +1,17 @@
+{
+  "uuid": "76f6fe57-2b16-438c-aea5-ba13d19a0c7e",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/crypto/polyval-generic.ko.zst",
+  "size": 3763,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.079797878Z",
+  "sha256_hash": "23878ee2694f4058948dfdf16b03badd3ffd6d5cbeba93f116da164a25ac1acb",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.263205258Z"
+}

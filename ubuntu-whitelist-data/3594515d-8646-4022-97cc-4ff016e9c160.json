@@ -1,0 +1,17 @@
+{
+  "uuid": "3594515d-8646-4022-97cc-4ff016e9c160",
+  "path": "/usr/lib/firmware/mrvl/pcieusb8997_combo_v4.bin.zst",
+  "size": 425710,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.794538183Z",
+  "sha256_hash": "dde21c13493f01f87e614e85114b30ddbaadac464d3f173874164c34999fc060",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.435794233Z"
+}

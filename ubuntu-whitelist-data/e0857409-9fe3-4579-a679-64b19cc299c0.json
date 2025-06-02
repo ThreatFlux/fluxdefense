@@ -1,0 +1,17 @@
+{
+  "uuid": "e0857409-9fe3-4579-a679-64b19cc299c0",
+  "path": "/usr/lib/firmware/amdgpu/kaveri_pfp.bin.zst",
+  "size": 3620,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.403543599Z",
+  "sha256_hash": "fac48a7713f2d6d5555af68a431585681748e511c9bbed9ad2805ffb97407f5b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.828404118Z"
+}

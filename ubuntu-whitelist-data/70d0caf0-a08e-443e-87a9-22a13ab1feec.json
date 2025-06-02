@@ -1,0 +1,17 @@
+{
+  "uuid": "70d0caf0-a08e-443e-87a9-22a13ab1feec",
+  "path": "/lib/x86_64-linux-gnu/perl-base/Symbol.pm",
+  "size": 2205,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.353578582Z",
+  "sha256_hash": "4bd270e8d78b12b63366e5d66b1ff3b0800aba9fbccd89a57d90597dc52e6a10",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.924775324Z"
+}

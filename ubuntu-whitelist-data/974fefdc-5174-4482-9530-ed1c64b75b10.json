@@ -1,0 +1,15 @@
+{
+  "uuid": "974fefdc-5174-4482-9530-ed1c64b75b10",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_sctp.so",
+  "size": 27064,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.336631315Z",
+  "sha256_hash": "d343f685a4f66cc19cb58f8c81ce26e0b40007e9927e6e6cc9624424a8f56ba9",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.675992460Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "095b227d-24df-4b40-adfe-3798f46e7f4d",
+  "path": "/usr/lib/firmware/rtlwifi/rtl8723bs_bt.bin.zst",
+  "size": 6443,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.068534388Z",
+  "sha256_hash": "020e1894576a3f8465edee6bdecc9570a44c6c3a453415b9e149330bec6e711a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.510527530Z"
+}

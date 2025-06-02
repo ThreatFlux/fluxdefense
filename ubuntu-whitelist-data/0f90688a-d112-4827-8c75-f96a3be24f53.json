@@ -1,0 +1,17 @@
+{
+  "uuid": "0f90688a-d112-4827-8c75-f96a3be24f53",
+  "path": "/usr/lib/tmpfiles.d/systemd-nologin.conf",
+  "size": 538,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.527779534Z",
+  "sha256_hash": "b97c3f92a569dd84957eb263f3438cc7d98ea2a4ffe5f5e9d090c04d14b725b9",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.132880041Z"
+}

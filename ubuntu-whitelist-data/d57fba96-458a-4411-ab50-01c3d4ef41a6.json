@@ -1,0 +1,17 @@
+{
+  "uuid": "d57fba96-458a-4411-ab50-01c3d4ef41a6",
+  "path": "/usr/lib/firmware/iwlwifi-3160-17.ucode.zst",
+  "size": 237838,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.581541133Z",
+  "sha256_hash": "f84abdb284320f4e96ad33f7ee3783f72fedb36d964b55e35632f23d7b4d12b5",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.299566256Z"
+}

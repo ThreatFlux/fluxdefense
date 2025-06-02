@@ -1,0 +1,15 @@
+{
+  "uuid": "6f80ad14-1a40-41f7-a387-5b7c70ae0405",
+  "path": "/usr/lib/update-notifier/apt-cdrom-check",
+  "size": 2444,
+  "modified": "2024-10-08T13:47:14Z",
+  "created": "2025-05-09T05:24:21.991888836Z",
+  "sha256_hash": "dce7d8c5eb2e8a5c03904c88bec72765e4e22feb65141b2c19c507f0f8f272e9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.267033240Z"
+}

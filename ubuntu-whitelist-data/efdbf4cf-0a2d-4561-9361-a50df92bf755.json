@@ -1,0 +1,17 @@
+{
+  "uuid": "efdbf4cf-0a2d-4561-9361-a50df92bf755",
+  "path": "/usr/lib/libreoffice/program/opengl/glitterVertexShader.glsl",
+  "size": 4599,
+  "modified": "2024-10-29T11:14:30Z",
+  "created": "2025-05-09T05:11:19.580239304Z",
+  "sha256_hash": "70718ce357b1a879b4ff648085cd8871e1f9b63071a3372382940f0a105d345b",
+  "file_type": {
+    "Other": "glsl"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:43.498810314Z"
+}

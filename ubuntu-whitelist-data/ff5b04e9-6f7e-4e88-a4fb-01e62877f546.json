@@ -1,0 +1,17 @@
+{
+  "uuid": "ff5b04e9-6f7e-4e88-a4fb-01e62877f546",
+  "path": "/usr/lib/firmware/amdgpu/umsch_mm_4_0_0.bin.zst",
+  "size": 29802,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.419543377Z",
+  "sha256_hash": "4211d26f792fbc920792fa77f1b1e6e05b765d5a8adb72a9d15db014b3e87e41",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.800406665Z"
+}

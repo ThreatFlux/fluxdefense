@@ -1,0 +1,17 @@
+{
+  "uuid": "303d6b4f-7d6f-410d-b488-fdba37b3d0f9",
+  "path": "/usr/lib/udev/hwdb.d/60-sensor.hwdb",
+  "size": 46317,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.059786335Z",
+  "sha256_hash": "98cf7744ca185e92d39562ee7bbbcecd9b6266b0687b4fb636b63328142be034",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.115809347Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "cad1004e-2001-4aeb-b1ca-4c0e59de8a1d",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/include/avx512vldqintrin.h",
+  "size": 61317,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.243389853Z",
+  "sha256_hash": "94450284632a07aab9f9009a27e24665515ef708c9df5cf27ecfdc64e5fa3f4e",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.923068712Z"
+}

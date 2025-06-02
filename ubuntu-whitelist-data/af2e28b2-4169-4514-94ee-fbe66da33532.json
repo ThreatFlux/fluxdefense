@@ -1,0 +1,17 @@
+{
+  "uuid": "af2e28b2-4169-4514-94ee-fbe66da33532",
+  "path": "/lib/llvm-18/include/clang/Basic/JsonSupport.h",
+  "size": 3636,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "18e05ee490aea9055c2b891a86cc052753e9cde0d051e8775ca39fb295b3ca75",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.163449164Z"
+}

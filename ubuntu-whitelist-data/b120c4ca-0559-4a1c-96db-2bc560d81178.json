@@ -1,0 +1,17 @@
+{
+  "uuid": "b120c4ca-0559-4a1c-96db-2bc560d81178",
+  "path": "/lib/x86_64-linux-gnu/libpinyin/data/people.bin",
+  "size": 67447,
+  "modified": "2024-04-06T01:15:02Z",
+  "created": "2025-05-09T05:07:36.284647368Z",
+  "sha256_hash": "fda0a68265e37f14e74d2b8b9499430b0f3428963394741207ad75f34f89bd3c",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.982640620Z"
+}

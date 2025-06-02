@@ -1,0 +1,17 @@
+{
+  "uuid": "3051abf1-4d77-4156-8bf6-65574650ecdb",
+  "path": "/usr/lib/x86_64-linux-gnu/perl-base/IPC/Open3.pm",
+  "size": 9013,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.353578582Z",
+  "sha256_hash": "253a07c5018bd032e92c8188a2f1679dc7e91a608dffaae8ff222d1a37083d86",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.748746237Z"
+}

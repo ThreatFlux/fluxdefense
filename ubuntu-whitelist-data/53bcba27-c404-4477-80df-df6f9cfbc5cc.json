@@ -1,0 +1,17 @@
+{
+  "uuid": "53bcba27-c404-4477-80df-df6f9cfbc5cc",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/SuspiciousSemicolonCheck.h",
+  "size": 1260,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "893e6a07a5d6355012c67f62cb66b858d539bd02488d8f34e637a7dcc8e0eacf",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.899965481Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "e4ced4f5-e150-4244-8bc1-b22b39355cfc",
+  "path": "/usr/lib/libreoffice/program/libmozbootstraplo.so",
+  "size": 52176,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:20.053232084Z",
+  "sha256_hash": "351a576ec9933ddcce7593502f23ae01e5725799bacb98ae90fd0e369162dc3e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:42.833245991Z"
+}

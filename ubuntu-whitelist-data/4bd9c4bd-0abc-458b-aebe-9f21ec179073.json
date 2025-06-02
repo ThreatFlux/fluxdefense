@@ -1,0 +1,15 @@
+{
+  "uuid": "4bd9c4bd-0abc-458b-aebe-9f21ec179073",
+  "path": "/usr/lib/llvm-18/lib/libclangHandleLLVM.a",
+  "size": 69192,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.733530895Z",
+  "sha256_hash": "c18b5f4f53cc17e56b9d08fcbf4457635f9931e36b827d44826a9efea32420e8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:35.095212735Z"
+}

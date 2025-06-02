@@ -1,0 +1,15 @@
+{
+  "uuid": "1bb90f9c-9a29-4172-bf41-fb547f6c6c0f",
+  "path": "/lib/llvm-18/bin/clang",
+  "size": 140592,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:30.860542392Z",
+  "sha256_hash": "8ef402d453d1ba4902e4ee0f0f847f6cfa01400c95aa43c24e97818b9c0e3f45",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.843599778Z"
+}

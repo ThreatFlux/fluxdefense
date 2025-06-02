@@ -1,0 +1,17 @@
+{
+  "uuid": "66fff27c-946d-47a8-917e-f101fdd052ce",
+  "path": "/lib/x86_64-linux-gnu/totem/plugins/opensubtitles/opensubtitles.ui",
+  "size": 6954,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:37.299631879Z",
+  "sha256_hash": "99fb686c42f754864ccd5d8faabf24b397d5cb572965c828fab00f072e1bd696",
+  "file_type": {
+    "Other": "ui"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.424811532Z"
+}

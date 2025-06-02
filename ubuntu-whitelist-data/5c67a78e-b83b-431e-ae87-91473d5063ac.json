@@ -1,0 +1,17 @@
+{
+  "uuid": "5c67a78e-b83b-431e-ae87-91473d5063ac",
+  "path": "/usr/lib/x86_64-linux-gnu/libpinyin/data/society.bin",
+  "size": 271189,
+  "modified": "2024-04-06T01:15:02Z",
+  "created": "2025-05-09T05:07:36.537643507Z",
+  "sha256_hash": "799db6a52e9f89522214de0c8a76aaab87378917983d40f52f8fb3f68d4c0611",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.276640860Z"
+}

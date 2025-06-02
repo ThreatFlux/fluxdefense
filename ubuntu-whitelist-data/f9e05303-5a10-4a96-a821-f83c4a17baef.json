@@ -1,0 +1,17 @@
+{
+  "uuid": "f9e05303-5a10-4a96-a821-f83c4a17baef",
+  "path": "/lib/grub/x86_64-efi/read.mod",
+  "size": 2960,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.838708002Z",
+  "sha256_hash": "c5976c90f64c39a322a80c9b1466843e40ec61cc6fc667539540601fd711e2b9",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.026084066Z"
+}

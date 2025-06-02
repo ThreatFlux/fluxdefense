@@ -1,0 +1,17 @@
+{
+  "uuid": "39b31cea-7fb7-44df-a5b9-15cf26a3e5f5",
+  "path": "/lib/firmware/mediatek/mt7610e.bin.zst",
+  "size": 43816,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.676539818Z",
+  "sha256_hash": "3ac1061b52241480db2a33af4c189550b116473672572699aa0d05de911046a4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.127870504Z"
+}

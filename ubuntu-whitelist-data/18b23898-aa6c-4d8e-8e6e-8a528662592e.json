@@ -1,0 +1,17 @@
+{
+  "uuid": "18b23898-aa6c-4d8e-8e6e-8a528662592e",
+  "path": "/usr/lib/llvm-18/include/clang/AST/TextNodeDumper.h",
+  "size": 17270,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.521533687Z",
+  "sha256_hash": "4ac60bb6398d7d21cd3df0161c2b2cbdec2a7f6a2b21f7614f245d991e4965cf",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.349583771Z"
+}

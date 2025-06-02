@@ -1,0 +1,17 @@
+{
+  "uuid": "f0b4dade-d9dc-4655-9dcd-6eaeadb0b889",
+  "path": "/lib/x86_64-linux-gnu/libsrt-gnutls.so.1.5.3",
+  "size": 797656,
+  "modified": "2024-03-31T08:24:57Z",
+  "created": "2025-05-09T05:09:22.998018775Z",
+  "sha256_hash": "4990b1b022feefba42cb022af42ac6fefd76e4efbf306e52d27a5dcb02a2810d",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:12.795313248Z"
+}

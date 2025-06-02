@@ -1,0 +1,15 @@
+{
+  "uuid": "dcdfa30d-9fd2-4d22-9a10-2a7917189d24",
+  "path": "/usr/sbin/prime-offload",
+  "size": 2930,
+  "modified": "2023-06-13T15:25:56Z",
+  "created": "2025-05-09T12:56:04.377011961Z",
+  "sha256_hash": "0bb0a36632bc0bf8f082d9ad42c7b6f84d15a9d60b288b291b8d591032422669",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.238487096Z"
+}

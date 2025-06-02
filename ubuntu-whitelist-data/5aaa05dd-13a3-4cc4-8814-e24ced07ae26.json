@@ -1,0 +1,17 @@
+{
+  "uuid": "5aaa05dd-13a3-4cc4-8814-e24ced07ae26",
+  "path": "/lib/os-probes/mounted/30utility",
+  "size": 863,
+  "modified": "2023-03-07T13:24:16Z",
+  "created": "2025-05-09T05:07:25.893805930Z",
+  "sha256_hash": "1da73e14a6419d4d4f73aed5a36bc207aefe3f352ab9df2fa1d940d50d1e8509",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.145531260Z"
+}

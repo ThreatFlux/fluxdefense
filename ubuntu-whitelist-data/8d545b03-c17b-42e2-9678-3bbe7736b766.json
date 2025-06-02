@@ -1,0 +1,17 @@
+{
+  "uuid": "8d545b03-c17b-42e2-9678-3bbe7736b766",
+  "path": "/lib/sysusers.d/polkit.conf",
+  "size": 31,
+  "modified": "2024-12-02T11:59:52Z",
+  "created": "2025-05-09T05:07:28.308769079Z",
+  "sha256_hash": "98957a871d9eb781cd17faafbc4c78d0d2df0511f05d00fea4e82b92b19b6d89",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.406247841Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "81af133f-bb10-475a-92fc-849751f9c084",
+  "path": "/lib/systemd/system/update-notifier-motd.service",
+  "size": 251,
+  "modified": "2024-10-08T13:47:14Z",
+  "created": "2025-05-09T05:24:21.991888836Z",
+  "sha256_hash": "bf11e51d49360c2df12678ee8a2df445a20c12cc4402eb4e291b8edd8ed6924b",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.104437898Z"
+}

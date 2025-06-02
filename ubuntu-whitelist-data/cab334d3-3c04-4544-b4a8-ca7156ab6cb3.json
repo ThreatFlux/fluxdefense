@@ -1,0 +1,15 @@
+{
+  "uuid": "cab334d3-3c04-4544-b4a8-ca7156ab6cb3",
+  "path": "/lib/llvm-18/bin/llvm-dis",
+  "size": 43912,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:34.910489059Z",
+  "sha256_hash": "d06db012b9ad15ecce7dafaf5a7d78e8ef6e3fad8402b4eed3745259f1b3df7b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.869682490Z"
+}

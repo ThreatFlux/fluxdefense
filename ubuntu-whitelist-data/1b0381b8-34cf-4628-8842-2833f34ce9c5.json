@@ -1,0 +1,15 @@
+{
+  "uuid": "1b0381b8-34cf-4628-8842-2833f34ce9c5",
+  "path": "/usr/lib/x86_64-linux-gnu/gprofng/libgp-heap.so",
+  "size": 18744,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:51.894577730Z",
+  "sha256_hash": "326a0ad33f08e4431d7ad84af16ee55b123d3d1fb7534d30b25414c79885c979",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.305273708Z"
+}

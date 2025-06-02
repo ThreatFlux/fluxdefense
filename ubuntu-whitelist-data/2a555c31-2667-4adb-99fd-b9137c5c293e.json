@@ -1,0 +1,17 @@
+{
+  "uuid": "2a555c31-2667-4adb-99fd-b9137c5c293e",
+  "path": "/usr/lib/systemd/system/remote-cryptsetup.target",
+  "size": 557,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "805fdd3c24505f494fcf893941ff32f502ebee0f2d4938144a6bcc5bdddd4951",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.456383458Z"
+}

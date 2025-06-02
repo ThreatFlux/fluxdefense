@@ -1,0 +1,15 @@
+{
+  "uuid": "8e2e24a6-6427-4fc8-a21b-ddb297d06bb5",
+  "path": "/usr/bin/kvm-spice",
+  "size": 401,
+  "modified": "2025-02-13T08:05:49Z",
+  "created": "2025-05-22T16:56:50.339981208Z",
+  "sha256_hash": "9444842f36099f03d91f05f4bf6f2a08857a5c3364f32b204daaa6b048bdb7bb",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.142481927Z"
+}

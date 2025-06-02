@@ -1,0 +1,15 @@
+{
+  "uuid": "9f80a135-deab-469c-bac5-b382c381752f",
+  "path": "/lib/python3.12/lib-dynload/_crypt.cpython-312-x86_64-linux-gnu.so",
+  "size": 14744,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:10:59.927539292Z",
+  "sha256_hash": "5bc03f6bf18c66430f693ff083daa317e50b32c456a11885bb806270cec88e54",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.222959614Z"
+}

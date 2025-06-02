@@ -1,0 +1,15 @@
+{
+  "uuid": "373e4099-d362-434f-ae6c-fc6fa61244d3",
+  "path": "/lib/x86_64-linux-gnu/qemu/hw-display-virtio-gpu.so",
+  "size": 70920,
+  "modified": "2025-03-13T16:15:00Z",
+  "created": "2025-05-22T16:56:50.592978675Z",
+  "sha256_hash": "9efdeaa7d32a953c87c5dd62d93ec8ab03b6f1411562198a89cc0b93315d6eb4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.280386768Z"
+}

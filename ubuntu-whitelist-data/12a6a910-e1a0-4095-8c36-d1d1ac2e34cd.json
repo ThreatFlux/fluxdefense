@@ -1,0 +1,17 @@
+{
+  "uuid": "12a6a910-e1a0-4095-8c36-d1d1ac2e34cd",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-leo.so.1.2.1",
+  "size": 76152,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.144634245Z",
+  "sha256_hash": "35fa936eb8b7c8727592867acd7833df80f490bd1748ff45daaa2608fa4287f3",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.779918288Z"
+}

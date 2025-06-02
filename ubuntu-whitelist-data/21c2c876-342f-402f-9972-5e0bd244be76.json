@@ -1,0 +1,15 @@
+{
+  "uuid": "21c2c876-342f-402f-9972-5e0bd244be76",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/EBCDIC-FI-SE.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.610657653Z",
+  "sha256_hash": "fdd059a7e6049a29d1b832552bd9567b9f291b25bad2378a10684a7a0201c23b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.535881323Z"
+}

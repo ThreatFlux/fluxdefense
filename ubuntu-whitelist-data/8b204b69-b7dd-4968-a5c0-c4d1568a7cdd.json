@@ -1,0 +1,17 @@
+{
+  "uuid": "8b204b69-b7dd-4968-a5c0-c4d1568a7cdd",
+  "path": "/lib/firmware/intel/vsc/ivsc_fw.bin.zst",
+  "size": 264810,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.573541244Z",
+  "sha256_hash": "2a6548ef1c492ea7502ae224811680aee93c25da3822d666bc030c9da3969870",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.311424904Z"
+}

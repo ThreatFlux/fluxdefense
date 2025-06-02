@@ -1,0 +1,15 @@
+{
+  "uuid": "1a4fbe0c-753c-4fa2-a09c-75703bc4a2b6",
+  "path": "/usr/bin/logger",
+  "size": 39904,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:20.113894128Z",
+  "sha256_hash": "2938533a566e46b4c69d7efffa136f8604bbf796df3154dfa363edce8268128f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:08.259362156Z"
+}

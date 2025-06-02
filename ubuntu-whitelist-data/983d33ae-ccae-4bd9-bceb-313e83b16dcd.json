@@ -1,0 +1,15 @@
+{
+  "uuid": "983d33ae-ccae-4bd9-bceb-313e83b16dcd",
+  "path": "/usr/sbin/bitesize-bpfcc",
+  "size": 1166,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.520499194Z",
+  "sha256_hash": "e1e1c75fee8d0253109276c6054c9a46ab65450b9e4db1c06e3ec269f71375cf",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.480602794Z"
+}

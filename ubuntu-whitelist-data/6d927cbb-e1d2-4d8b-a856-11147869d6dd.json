@@ -1,0 +1,15 @@
+{
+  "uuid": "6d927cbb-e1d2-4d8b-a856-11147869d6dd",
+  "path": "/usr/lib/linux-hwe-6.11-tools-6.11.0-26/usbip",
+  "size": 250528,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:32:03.171293953Z",
+  "sha256_hash": "d813415973eac25bc83f974bfaab0704146d78fab2ad527065dc14287469781b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.656280773Z"
+}

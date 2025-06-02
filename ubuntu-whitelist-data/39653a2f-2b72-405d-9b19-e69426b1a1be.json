@@ -1,0 +1,17 @@
+{
+  "uuid": "39653a2f-2b72-405d-9b19-e69426b1a1be",
+  "path": "/lib/google-cloud-sdk/.install/gcloud-deps-linux-x86_64.snapshot.json",
+  "size": 1087,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.310922121Z",
+  "sha256_hash": "f20c96777b05e7faee6b72a16888bea35abf9431929bf107fe50f12a30378969",
+  "file_type": {
+    "Other": "json"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.948605359Z"
+}

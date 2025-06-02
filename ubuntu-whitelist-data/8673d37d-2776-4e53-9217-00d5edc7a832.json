@@ -1,0 +1,15 @@
+{
+  "uuid": "8673d37d-2776-4e53-9217-00d5edc7a832",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/botocore/waiter.py",
+  "size": 14290,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.171941469Z",
+  "sha256_hash": "ee742531066c10f8deeca8069c41240e9ebcf64292cd8c19bba2c5a44a13fc03",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.593008635Z"
+}

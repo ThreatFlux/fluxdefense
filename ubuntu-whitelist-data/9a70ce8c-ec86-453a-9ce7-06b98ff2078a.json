@@ -1,0 +1,15 @@
+{
+  "uuid": "9a70ce8c-ec86-453a-9ce7-06b98ff2078a",
+  "path": "/bin/xz",
+  "size": 89008,
+  "modified": "2025-03-31T18:22:22Z",
+  "created": "2025-05-09T05:09:50.923592550Z",
+  "sha256_hash": "3f8a1d624a18a194af196db18e3964577a52c372155ea5d229ecc87de13c8d65",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.351066793Z"
+}

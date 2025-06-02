@@ -1,0 +1,15 @@
+{
+  "uuid": "6790d87a-b9fb-4d37-8aa7-c171b97bac99",
+  "path": "/lib/evolution-data-server/registry-modules/module-trust-prompt.so",
+  "size": 133360,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:21.658870553Z",
+  "sha256_hash": "0d27b741d7622ae79daf815aa7e13ffadea194d95d37c04cdf24c20c239389e6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.297191071Z"
+}

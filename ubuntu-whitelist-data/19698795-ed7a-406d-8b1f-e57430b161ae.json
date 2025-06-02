@@ -1,0 +1,17 @@
+{
+  "uuid": "19698795-ed7a-406d-8b1f-e57430b161ae",
+  "path": "/lib/x86_64-linux-gnu/libicudata.so.74.2",
+  "size": 30795392,
+  "modified": "2024-08-09T02:33:20Z",
+  "created": "2025-05-09T05:07:30.188740391Z",
+  "sha256_hash": "ddbb3718b8bd9cbd780e5ab08b4503c30a6c4fa0706ebe5d074ed6b596c1714e",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.436571564Z"
+}

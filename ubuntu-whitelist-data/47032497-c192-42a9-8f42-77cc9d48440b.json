@@ -1,0 +1,17 @@
+{
+  "uuid": "47032497-c192-42a9-8f42-77cc9d48440b",
+  "path": "/lib/firmware/mediatek/mt7925/BT_RAM_CODE_MT7925_1_1_hdr.bin.zst",
+  "size": 454984,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.681539748Z",
+  "sha256_hash": "d383d69a5ef442e7caa59fc8f620f6c4aecd40326797f04636524812bf96261a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.067145742Z"
+}

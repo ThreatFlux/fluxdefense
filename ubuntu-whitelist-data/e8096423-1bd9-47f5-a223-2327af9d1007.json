@@ -1,0 +1,17 @@
+{
+  "uuid": "e8096423-1bd9-47f5-a223-2327af9d1007",
+  "path": "/usr/lib/modules/6.11.0-25-generic/kernel/crypto/keywrap.ko.zst",
+  "size": 3477,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.099459834Z",
+  "sha256_hash": "fcd1d2ba6c56fdfd6cf12f650c03995401df88c5eb0c11e5161481723a11a24c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.033271249Z"
+}

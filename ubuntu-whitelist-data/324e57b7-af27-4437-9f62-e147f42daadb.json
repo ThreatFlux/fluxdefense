@@ -1,0 +1,17 @@
+{
+  "uuid": "324e57b7-af27-4437-9f62-e147f42daadb",
+  "path": "/lib/x86_64-linux-gnu/libevent-2.1.so.7.0.1",
+  "size": 330288,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.405752339Z",
+  "sha256_hash": "56287221e41fbad82158f3b1a506198f4dc45536a38c100cee25b707c10d0aec",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.633861552Z"
+}

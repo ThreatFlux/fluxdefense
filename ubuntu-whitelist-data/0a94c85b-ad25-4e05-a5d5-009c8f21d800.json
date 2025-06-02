@@ -1,0 +1,15 @@
+{
+  "uuid": "0a94c85b-ad25-4e05-a5d5-009c8f21d800",
+  "path": "/usr/bin/wifi-status",
+  "size": 2107,
+  "modified": "2024-02-10T17:03:36Z",
+  "created": "2025-05-23T03:43:49.241694174Z",
+  "sha256_hash": "df066a91618f70496a8d9c16e1a358d101ea7bc176c66975e9f76396ed1c1aee",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:13.232758442Z"
+}

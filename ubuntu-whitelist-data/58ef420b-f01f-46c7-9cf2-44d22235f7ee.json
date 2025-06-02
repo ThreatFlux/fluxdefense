@@ -1,0 +1,15 @@
+{
+  "uuid": "58ef420b-f01f-46c7-9cf2-44d22235f7ee",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/CP775.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.606657714Z",
+  "sha256_hash": "bf2e6abc3d3e53418314eee3d5a179e7633330c87ef84ff926722fa7dffc4153",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.553515026Z"
+}

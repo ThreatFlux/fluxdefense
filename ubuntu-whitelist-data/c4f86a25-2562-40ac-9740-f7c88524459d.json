@@ -1,0 +1,17 @@
+{
+  "uuid": "c4f86a25-2562-40ac-9740-f7c88524459d",
+  "path": "/usr/lib/firmware/rtlwifi/rtl8192cufw_B.bin.zst",
+  "size": 8473,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.068534388Z",
+  "sha256_hash": "ec20cd2ec90b42f99c41a8c52fcab09bca11e3e757aeb41ccee72b7304a560ea",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.503934457Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "277ff72f-d326-4871-97ef-c0fa8d0ec92e",
+  "path": "/lib/i386-linux-gnu/libnvidia-glvkspirv.so.550.144.03",
+  "size": 12890388,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:02.726968464Z",
+  "sha256_hash": "1a397a106f44639be931dddef6b83a0bda4d60d03e28070b17e6e24588b86643",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:45.183103341Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "5d1644f6-e4e7-4243-a602-1e58ced75b0c",
+  "path": "/lib/llvm-18/bin/llvm-jitlink-executor",
+  "size": 1446408,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.058487109Z",
+  "sha256_hash": "d5d98d67e3924a8dc9c3003adc99d7ebc35c9a52c547f717652b9ee42aef9cd9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.777096958Z"
+}

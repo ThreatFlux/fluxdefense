@@ -1,0 +1,17 @@
+{
+  "uuid": "364ac594-cd5a-429f-baae-b27fbb577a7e",
+  "path": "/lib/firmware/mediatek/mt7996/mt7996_dsp.bin.zst",
+  "size": 63906,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.686539679Z",
+  "sha256_hash": "eb896a145aa7f689376aae2c94046add8326bf6a8741360ffbcf3cbab826c3f9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.177407916Z"
+}

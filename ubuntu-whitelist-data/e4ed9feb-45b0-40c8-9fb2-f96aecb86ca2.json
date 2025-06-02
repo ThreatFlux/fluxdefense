@@ -1,0 +1,17 @@
+{
+  "uuid": "e4ed9feb-45b0-40c8-9fb2-f96aecb86ca2",
+  "path": "/lib/snapd/snap-recovery-chooser",
+  "size": 7661448,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.493027276Z",
+  "sha256_hash": "7d29205edd07b0e4744c35cc54e5b3f80f2efbe08499db90e7bb4ef2379848f2",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.857547195Z"
+}

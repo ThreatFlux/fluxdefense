@@ -1,0 +1,17 @@
+{
+  "uuid": "b7ebfe00-883f-41b8-86ee-d32cc5da5ad0",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/g-timsta.ali",
+  "size": 1810,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.110344324Z",
+  "sha256_hash": "345237be05fd9c2715fad31541e25aa9dc6b7246169ebd466b447fee65de8c06",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.896788964Z"
+}

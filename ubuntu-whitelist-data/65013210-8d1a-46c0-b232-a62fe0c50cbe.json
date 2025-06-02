@@ -1,0 +1,15 @@
+{
+  "uuid": "65013210-8d1a-46c0-b232-a62fe0c50cbe",
+  "path": "/lib/llvm-18/lib/libLLVMFrontendOpenMP.a",
+  "size": 1103700,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.879463126Z",
+  "sha256_hash": "b10b0f5954ece613907bd5a283aed993df05a43b510bf2a8855b18c98195bd83",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.004140975Z"
+}

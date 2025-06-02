@@ -1,0 +1,15 @@
+{
+  "uuid": "b19b5e8c-316a-4e92-b2ca-8db484c047b0",
+  "path": "/lib/x86_64-linux-gnu/evince/4/backends/libdjvudocument.so",
+  "size": 43168,
+  "modified": "2024-10-15T07:35:01Z",
+  "created": "2025-05-09T05:07:35.586658019Z",
+  "sha256_hash": "f533c4b199de3db663eed0905fbd61594f832156e5db92606de407978491cb04",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.709007900Z"
+}

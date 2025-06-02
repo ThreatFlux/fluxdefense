@@ -1,0 +1,17 @@
+{
+  "uuid": "85f7ec1b-b84e-4dfe-ba15-780597b60ead",
+  "path": "/usr/lib/udev/rules.d/77-mm-mtk-legacy-port-types.rules",
+  "size": 3620,
+  "modified": "2024-02-19T14:58:32Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "045c76cc752af0f61a7400f759f973e80e072ea9d7e7c22aa8ab06625c803ffe",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.098757982Z"
+}

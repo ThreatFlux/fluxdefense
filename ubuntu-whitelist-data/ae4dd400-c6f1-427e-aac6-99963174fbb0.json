@@ -1,0 +1,17 @@
+{
+  "uuid": "ae4dd400-c6f1-427e-aac6-99963174fbb0",
+  "path": "/usr/lib/udev/rules.d/78-sound-card.rules",
+  "size": 4816,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "ec291608292fe2de555e8a1e5ce574acf315fe65268c469872614073d5e36cae",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.101797686Z"
+}

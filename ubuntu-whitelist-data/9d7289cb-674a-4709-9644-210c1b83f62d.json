@@ -1,0 +1,15 @@
+{
+  "uuid": "9d7289cb-674a-4709-9644-210c1b83f62d",
+  "path": "/usr/lib/python3.12/test/crashers/bogus_code_obj.py",
+  "size": 628,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.989551801Z",
+  "sha256_hash": "6789d612d6481efada00c05f1ad7dc5a2872ddfe5d7d523d72449cbf7cf93fc4",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.812476893Z"
+}

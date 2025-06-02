@@ -1,0 +1,17 @@
+{
+  "uuid": "5e5b4c2a-84b2-4cc5-84c0-b6a9f6329e92",
+  "path": "/lib/firmware/amdgpu/sdma_6_1_0.bin.zst",
+  "size": 11790,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.415543433Z",
+  "sha256_hash": "ac4fcca735da0bb79bdd26e2f3d3164b9e94d1d8230a933af1b34760dd608c10",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.120588354Z"
+}

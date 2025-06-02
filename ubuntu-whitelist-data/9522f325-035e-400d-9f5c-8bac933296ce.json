@@ -1,0 +1,15 @@
+{
+  "uuid": "9522f325-035e-400d-9f5c-8bac933296ce",
+  "path": "/lib/x86_64-linux-gnu/libxcb.a",
+  "size": 243200,
+  "modified": "2024-04-18T14:21:22Z",
+  "created": "2025-05-29T11:16:05.615065445Z",
+  "sha256_hash": "ed339a85d5fdcbb84e62b937a5d096d6ee7542a5b024b8233e04b0c377610b8f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:28.906170523Z"
+}

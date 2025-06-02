@@ -1,0 +1,15 @@
+{
+  "uuid": "111fc118-4a9a-4f4c-876a-afe5dd52c47f",
+  "path": "/usr/lib/xorg/modules/input/wacom_drv.so",
+  "size": 122624,
+  "modified": "2024-04-08T16:22:51Z",
+  "created": "2025-05-09T05:07:37.401630323Z",
+  "sha256_hash": "322fa22128ccd3e23816bd6156c2258f082d7331a7e6cd5581134754120448a8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.585577598Z"
+}

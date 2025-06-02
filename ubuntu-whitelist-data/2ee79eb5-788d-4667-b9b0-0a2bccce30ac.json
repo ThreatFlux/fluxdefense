@@ -1,0 +1,17 @@
+{
+  "uuid": "2ee79eb5-788d-4667-b9b0-0a2bccce30ac",
+  "path": "/lib/firmware/i915/icl_guc_69.0.3.bin.zst",
+  "size": 131017,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.539541715Z",
+  "sha256_hash": "0ec19804b1223dbfb463cf7d90b48ff07d5846ac70549ecf757eaf8f9882107a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.737257484Z"
+}

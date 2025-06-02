@@ -1,0 +1,17 @@
+{
+  "uuid": "bdfa5763-466c-4540-8feb-1af9f79b4804",
+  "path": "/usr/lib/x86_64-linux-gnu/libnvidia-pkcs11.so.550.144.03",
+  "size": 10168,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:00.405908808Z",
+  "sha256_hash": "6c7083cffeb78b973788dbc3ddff28dc9aadbb4417cd4c1ab811d14e10c83b69",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.895959674Z"
+}

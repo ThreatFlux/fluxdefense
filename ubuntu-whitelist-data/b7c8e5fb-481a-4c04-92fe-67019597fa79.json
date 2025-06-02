@@ -1,0 +1,17 @@
+{
+  "uuid": "b7c8e5fb-481a-4c04-92fe-67019597fa79",
+  "path": "/usr/lib/firmware/amdgpu/tahiti_smc.bin.zst",
+  "size": 25278,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.417543405Z",
+  "sha256_hash": "55829dfbe2545107a80ab5d095fa05c06f4ffb8d9a05fd0bf2d06d9e6ecf7a81",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.086099503Z"
+}

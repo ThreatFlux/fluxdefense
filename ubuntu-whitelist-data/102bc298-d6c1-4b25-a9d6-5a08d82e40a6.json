@@ -1,0 +1,17 @@
+{
+  "uuid": "102bc298-d6c1-4b25-a9d6-5a08d82e40a6",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h",
+  "size": 4303,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.246389788Z",
+  "sha256_hash": "5a443943e67d7bab17203591b4ccb508757587d9b955ee883a053d755ed09321",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.931712008Z"
+}

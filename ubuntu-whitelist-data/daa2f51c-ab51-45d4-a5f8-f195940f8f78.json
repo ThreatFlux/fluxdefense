@@ -1,0 +1,15 @@
+{
+  "uuid": "daa2f51c-ab51-45d4-a5f8-f195940f8f78",
+  "path": "/usr/lib/llvm-18/lib/libclangTidyFuchsiaModule.a",
+  "size": 281656,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.867529130Z",
+  "sha256_hash": "0b2a4896ceb7023eb87e702c0e21ffef0505b566669abcc92fd5b9b7e4ddcb4e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:30.822183402Z"
+}

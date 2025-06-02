@@ -1,0 +1,17 @@
+{
+  "uuid": "41cc2d07-98d8-42b4-a02a-f40330d55b6a",
+  "path": "/usr/lib/firmware/radeon/TAHITI_mc2.bin.zst",
+  "size": 11870,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.062534471Z",
+  "sha256_hash": "cfae078f9ec55c5cece673aa9331e746f91d030dc3cdb5427f5ec0515e67b7dd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.408483264Z"
+}

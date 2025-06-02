@@ -1,0 +1,17 @@
+{
+  "uuid": "d4597b01-bdf2-4510-9d50-2705da9408bd",
+  "path": "/usr/lib/firmware/qcom/a300_pfp.fw.zst",
+  "size": 593,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.969535759Z",
+  "sha256_hash": "15642c029d53c106737c0273b20e9bc975acfeebf1527dc7fa869aa83c3d3299",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.749193441Z"
+}

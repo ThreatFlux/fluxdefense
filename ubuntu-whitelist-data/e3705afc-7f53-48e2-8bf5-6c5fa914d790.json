@@ -1,0 +1,15 @@
+{
+  "uuid": "e3705afc-7f53-48e2-8bf5-6c5fa914d790",
+  "path": "/bin/genisoimage",
+  "size": 694424,
+  "modified": "2024-03-14T16:53:13Z",
+  "created": "2025-05-09T15:50:18.768385366Z",
+  "sha256_hash": "9bacc5951ca0767701cfd8e6b47537f199977e51a6e943f4edfdcf9d639d99d2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.637542436Z"
+}

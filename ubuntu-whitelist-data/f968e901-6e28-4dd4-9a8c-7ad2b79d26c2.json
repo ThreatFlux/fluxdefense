@@ -1,0 +1,17 @@
+{
+  "uuid": "f968e901-6e28-4dd4-9a8c-7ad2b79d26c2",
+  "path": "/lib/llvm-18/include/clang/ARCMigrate/ARCMT.h",
+  "size": 4789,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.510533832Z",
+  "sha256_hash": "4776e2741fba5733e433d0009f9fe3905a454b516d51bbb8e4755ed7aadb2422",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.020336017Z"
+}

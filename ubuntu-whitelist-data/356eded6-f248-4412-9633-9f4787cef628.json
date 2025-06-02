@@ -1,0 +1,17 @@
+{
+  "uuid": "356eded6-f248-4412-9633-9f4787cef628",
+  "path": "/usr/lib/x86_64-linux-gnu/libpinyin.so.15.0.0",
+  "size": 669944,
+  "modified": "2024-04-06T01:15:02Z",
+  "created": "2025-05-09T05:07:31.847715075Z",
+  "sha256_hash": "b05410e1deb8b8eb2c6214b2aeac22e7701ae4d38ec097c2d6c6665d978d0a2e",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.056064180Z"
+}

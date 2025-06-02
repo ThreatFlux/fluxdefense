@@ -1,0 +1,15 @@
+{
+  "uuid": "f89aaced-8d22-47cd-8c38-c069632f30ed",
+  "path": "/usr/lib/python3/dist-packages/debian/_deb822_repro/parsing.py",
+  "size": 134267,
+  "modified": "2023-01-31T19:04:35Z",
+  "created": "2025-05-09T05:07:26.826791693Z",
+  "sha256_hash": "1e965fb685c0f36a0451093ebbef7d82ed607b39018b4032154dced61e70bf4f",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.906388220Z"
+}

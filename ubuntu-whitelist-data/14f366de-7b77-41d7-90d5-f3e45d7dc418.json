@@ -1,0 +1,17 @@
+{
+  "uuid": "14f366de-7b77-41d7-90d5-f3e45d7dc418",
+  "path": "/usr/lib/llvm-18/include/clang/Tooling/CommonOptionsParser.h",
+  "size": 5318,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.552533279Z",
+  "sha256_hash": "f3457115232655e9da5c7edaa4a914b6ce28563c54f5eff25d76ab05cfa87c42",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.417318262Z"
+}

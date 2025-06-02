@@ -1,0 +1,15 @@
+{
+  "uuid": "4ffd0c53-2488-4e8d-8fc9-d1958ef42f6d",
+  "path": "/usr/bin/pw-mon",
+  "size": 96688,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:18.615844979Z",
+  "sha256_hash": "f3f2fef0bc6ec2fa520ca7994d56a85a3946065e7d532456a66376597a6eecee",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.205718190Z"
+}

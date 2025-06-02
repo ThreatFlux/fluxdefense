@@ -1,0 +1,15 @@
+{
+  "uuid": "fb165563-943e-4906-a3b7-d5d318bd99b7",
+  "path": "/usr/libexec/udisks2/udisks2-inhibit",
+  "size": 791,
+  "modified": "2024-03-11T22:19:45Z",
+  "created": "2025-05-09T05:07:38.097619702Z",
+  "sha256_hash": "6abee99411774608ee185072753e8d7f09da3dccbd1b3fca82fca3d97d97ce0b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.245305356Z"
+}

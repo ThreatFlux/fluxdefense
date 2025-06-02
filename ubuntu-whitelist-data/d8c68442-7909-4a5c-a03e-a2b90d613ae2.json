@@ -1,0 +1,17 @@
+{
+  "uuid": "d8c68442-7909-4a5c-a03e-a2b90d613ae2",
+  "path": "/lib/udev/hwdb.d/20-sdio-vendor-model.hwdb",
+  "size": 4181,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.056786297Z",
+  "sha256_hash": "9eb89fc7a64772697cf84fb588197c057c3a8bb4ed2be7552b5a9dc48de2774a",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.311654898Z"
+}

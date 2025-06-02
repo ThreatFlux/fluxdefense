@@ -1,0 +1,15 @@
+{
+  "uuid": "98d9fd7f-7ac2-4972-bcdc-e023fa6de8b0",
+  "path": "/usr/lib/ubiquity/target-config/31brltty",
+  "size": 301,
+  "modified": "2023-10-01T23:25:04Z",
+  "created": "2025-05-09T05:07:28.308769079Z",
+  "sha256_hash": "d68a7c0c6c94ad575acc5f2e5974e049ddb0b9fcef9ee8c9f23ae3f41aaa2022",
+  "file_type": "Executable",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.397731007Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "904bf982-9207-4565-b226-e152de66ce48",
+  "path": "/lib/x86_64-linux-gnu/libuv.so.1.0.0",
+  "size": 211032,
+  "modified": "2024-03-31T08:01:40Z",
+  "created": "2025-05-09T05:07:32.350707399Z",
+  "sha256_hash": "11933a4a53d7cc817afb01610242b59a0e2e1b2bd64589a2203c1f84bbf7083f",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.609785341Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "4d684826-e1d8-4730-908d-f2705327420d",
+  "path": "/usr/bin/zcat",
+  "size": 1984,
+  "modified": "2024-04-08T15:58:45Z",
+  "created": "2025-05-09T05:07:20.948881387Z",
+  "sha256_hash": "f0b4d86b6a10064b7f2f41a452ab5437f61d4f17d8b1ab3488f3f345519f4f8d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.435689631Z"
+}

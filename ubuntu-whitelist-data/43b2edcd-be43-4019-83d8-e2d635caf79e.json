@@ -1,0 +1,17 @@
+{
+  "uuid": "43b2edcd-be43-4019-83d8-e2d635caf79e",
+  "path": "/usr/lib/systemd/system/sssd.service",
+  "size": 750,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:28.301769185Z",
+  "sha256_hash": "5c2164b66d61bdd2a1d7e7d3b78c5e4a939cd57a62e44d2c2a3cddd480db43d5",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.449468137Z"
+}

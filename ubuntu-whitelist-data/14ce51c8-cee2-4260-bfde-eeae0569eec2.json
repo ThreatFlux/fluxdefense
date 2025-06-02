@@ -1,0 +1,17 @@
+{
+  "uuid": "14ce51c8-cee2-4260-bfde-eeae0569eec2",
+  "path": "/usr/lib/llvm-18/include/clang/ARCMigrate/ARCMTActions.h",
+  "size": 2265,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.510533832Z",
+  "sha256_hash": "381b4163d1dfa10e6c603cea699038016b4a2e9c3d6b2f5e27b3bd180bca669b",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.419612980Z"
+}

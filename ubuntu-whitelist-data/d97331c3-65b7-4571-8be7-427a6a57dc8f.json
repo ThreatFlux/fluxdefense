@@ -1,0 +1,17 @@
+{
+  "uuid": "d97331c3-65b7-4571-8be7-427a6a57dc8f",
+  "path": "/usr/lib/firmware/av7110/bootcode.bin.zst",
+  "size": 191,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.476542588Z",
+  "sha256_hash": "0f2bc048d3d4f259ec2657da1f95803795e8d0c66faa1eef877c31c87e1ddc7f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:58.004717730Z"
+}

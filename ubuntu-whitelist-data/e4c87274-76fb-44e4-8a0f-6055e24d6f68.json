@@ -1,0 +1,17 @@
+{
+  "uuid": "e4c87274-76fb-44e4-8a0f-6055e24d6f68",
+  "path": "/lib/firmware/microchip/mscc_vsc8574_revb_int8051_29e8.bin.zst",
+  "size": 1271,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.791538225Z",
+  "sha256_hash": "35f629b2da191a63aefb16e888cc39af6d854e776d2510aeb86dd8d9edcce5d6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:01.931785022Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e46a998e-a8bc-4175-940c-110850da1880",
+  "path": "/usr/lib/llvm-18/include/clang/ExtractAPI/DeclarationFragments.h",
+  "size": 16079,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.542533410Z",
+  "sha256_hash": "798d4a7e831a79ab97388bfbbfd478ced6377a05bd0e1b65d6d6df05ec758e1c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.626588580Z"
+}

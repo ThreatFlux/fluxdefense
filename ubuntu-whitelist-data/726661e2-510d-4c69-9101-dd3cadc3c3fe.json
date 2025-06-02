@@ -1,0 +1,17 @@
+{
+  "uuid": "726661e2-510d-4c69-9101-dd3cadc3c3fe",
+  "path": "/lib/firmware/amdgpu/gc_12_0_0_imu.bin.zst",
+  "size": 21193,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.398543668Z",
+  "sha256_hash": "11b1de7c481c07dfd95fd8551c07e51bcd91b9311cb888502f5fcbd4a88d5821",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.139314868Z"
+}

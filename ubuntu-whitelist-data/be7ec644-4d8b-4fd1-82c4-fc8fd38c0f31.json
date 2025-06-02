@@ -1,0 +1,17 @@
+{
+  "uuid": "be7ec644-4d8b-4fd1-82c4-fc8fd38c0f31",
+  "path": "/lib/x86_64-linux-gnu/libformw.so.6.4",
+  "size": 77328,
+  "modified": "2024-04-08T16:14:03Z",
+  "created": "2025-05-09T05:07:29.463751454Z",
+  "sha256_hash": "22274fb351f3cb038fb32b3ee262082579de240c3eb55a851a8a7edf21a69005",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.253858935Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d2a4dfbb-685c-4106-9101-13d6cadb7d88",
+  "path": "/usr/lib/systemd/user/tracker-xdg-portal-3.service",
+  "size": 146,
+  "modified": "2024-03-31T08:29:02Z",
+  "created": "2025-05-09T05:07:28.307769094Z",
+  "sha256_hash": "0eafb014085875b1fca3d3a45b1969303da9048a526c9a1d7ec84724570f17c9",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.496639863Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "dc1b52db-b72d-49de-b291-4c3cdd3b1bf4",
+  "path": "/lib/os-release",
+  "size": 400,
+  "modified": "2025-02-05T16:08:58Z",
+  "created": "2025-05-09T05:07:20.992880715Z",
+  "sha256_hash": "176275809152613bf71e86becb8e2d5f1ab006340b51bdbfef3625eff6c2f5f8",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.131445294Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "22ccbe91-be2c-43eb-b828-6ddd17373252",
+  "path": "/usr/lib/x86_64-linux-gnu/libldb.so.2.8.0",
+  "size": 207216,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:31.331722949Z",
+  "sha256_hash": "b32184c1661cf0a4d50fde508971a30a6d4011eb9b1722851f5e9a4c04271d0c",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.858115411Z"
+}

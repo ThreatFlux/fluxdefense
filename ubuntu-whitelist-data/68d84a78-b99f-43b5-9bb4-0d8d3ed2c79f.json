@@ -1,0 +1,17 @@
+{
+  "uuid": "68d84a78-b99f-43b5-9bb4-0d8d3ed2c79f",
+  "path": "/bin/fpc-depends-3.2.2",
+  "size": 1606,
+  "modified": "2024-01-05T07:40:08Z",
+  "created": "2025-05-29T11:15:46.754324241Z",
+  "sha256_hash": "1ca7f5ef89c4852812fc8d55dd9a46dc48c5c4e6821aafc4eef2e09fc65a2dce",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.786585200Z"
+}

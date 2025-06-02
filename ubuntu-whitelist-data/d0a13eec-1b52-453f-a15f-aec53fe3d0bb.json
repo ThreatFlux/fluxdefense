@@ -1,0 +1,17 @@
+{
+  "uuid": "d0a13eec-1b52-453f-a15f-aec53fe3d0bb",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/utils/ExceptionAnalyzer.h",
+  "size": 6298,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "31ae3d72eefce70210b617150a2895aeab57e22d46c97cc4836300de652048ba",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.268690004Z"
+}

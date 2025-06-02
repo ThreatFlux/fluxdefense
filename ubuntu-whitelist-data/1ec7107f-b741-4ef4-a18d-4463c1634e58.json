@@ -1,0 +1,15 @@
+{
+  "uuid": "1ec7107f-b741-4ef4-a18d-4463c1634e58",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstaudiotestsrc.so",
+  "size": 55696,
+  "modified": "2024-12-17T13:24:56Z",
+  "created": "2025-05-09T05:07:35.771655196Z",
+  "sha256_hash": "986baba1039a709cf04b0021e511bcfb764cb1432d14672141726dff3af63139",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.114323986Z"
+}

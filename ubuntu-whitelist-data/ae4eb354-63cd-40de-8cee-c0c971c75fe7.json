@@ -1,0 +1,15 @@
+{
+  "uuid": "ae4eb354-63cd-40de-8cee-c0c971c75fe7",
+  "path": "/usr/lib/x86_64-linux-gnu/krb5/plugins/preauth/spake.so",
+  "size": 85768,
+  "modified": "2025-05-15T08:09:20Z",
+  "created": "2025-05-29T10:40:04.229601414Z",
+  "sha256_hash": "c17dc051aeeaa66cab8f9821f4bc2626b7ecf3294f031fc58681199efb8d1852",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.607150154Z"
+}

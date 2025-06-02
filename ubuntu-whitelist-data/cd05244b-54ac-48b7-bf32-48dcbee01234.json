@@ -1,0 +1,17 @@
+{
+  "uuid": "cd05244b-54ac-48b7-bf32-48dcbee01234",
+  "path": "/usr/lib/llvm-18/include/clang/Sema/Ownership.h",
+  "size": 9255,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.548533331Z",
+  "sha256_hash": "5eaae88771889d2518fb55c39bac787bea4de94ead33eed3e59839c5af485c93",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.474758627Z"
+}

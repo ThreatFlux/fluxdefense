@@ -1,0 +1,15 @@
+{
+  "uuid": "0ab9a871-2f34-4148-a08c-2b7f4f94781b",
+  "path": "/lib/x86_64-linux-gnu/speech-dispatcher/spd_pulse.so",
+  "size": 14624,
+  "modified": "2024-04-07T07:23:33Z",
+  "created": "2025-05-09T05:07:37.239632795Z",
+  "sha256_hash": "b133cdd154c6f8eb7dbf6c6f3728a800202828c5ad00df9e3141fc0dbc15fd6d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:15.661532667Z"
+}

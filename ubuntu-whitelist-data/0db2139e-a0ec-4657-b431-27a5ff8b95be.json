@@ -1,0 +1,15 @@
+{
+  "uuid": "0db2139e-a0ec-4657-b431-27a5ff8b95be",
+  "path": "/usr/sbin/dmsetup",
+  "size": 175160,
+  "modified": "2024-11-27T19:06:49Z",
+  "created": "2025-05-09T05:24:22.549896121Z",
+  "sha256_hash": "684ad515cc43fee7f6c6875197b017caa98ebb34d7fd2ae9081e68b870e52410",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.677416093Z"
+}

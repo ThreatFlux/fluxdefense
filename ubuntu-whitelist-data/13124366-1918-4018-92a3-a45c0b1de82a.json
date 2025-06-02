@@ -1,0 +1,17 @@
+{
+  "uuid": "13124366-1918-4018-92a3-a45c0b1de82a",
+  "path": "/usr/lib/tcltk/x86_64-linux-gnu/tk8.6/pkgIndex.tcl",
+  "size": 168,
+  "modified": "2024-03-31T08:28:19Z",
+  "created": "2025-05-28T17:29:43.835606344Z",
+  "sha256_hash": "62a76be4063614f69459efcc719bc128acb6af6ca03f1ce171a1ce263a97796b",
+  "file_type": {
+    "Other": "tcl"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.286589969Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "a4c953dc-3ee7-44db-9ee0-060de9a9b6eb",
+  "path": "/bin/grops",
+  "size": 166456,
+  "modified": "2024-03-31T08:54:31Z",
+  "created": "2025-05-09T05:07:19.739899835Z",
+  "sha256_hash": "368924e0cad86a581d063b9d665e83ea8445e10067bb779b3ed9b1fd06133c1d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.790330977Z"
+}

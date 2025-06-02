@@ -1,0 +1,17 @@
+{
+  "uuid": "1d479039-7fe8-4d56-869f-82511ebcdd2b",
+  "path": "/usr/lib/x86_64-linux-gnu/libpinyin/data/economy.bin",
+  "size": 36315,
+  "modified": "2024-04-06T01:15:02Z",
+  "created": "2025-05-09T05:07:36.230648192Z",
+  "sha256_hash": "286be69c1224047b13a460cb16f6b5f63944ee6395e76f919db81c50b2628ea1",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.462457638Z"
+}

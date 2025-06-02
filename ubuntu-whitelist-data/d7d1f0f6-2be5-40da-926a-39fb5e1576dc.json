@@ -1,0 +1,17 @@
+{
+  "uuid": "d7d1f0f6-2be5-40da-926a-39fb5e1576dc",
+  "path": "/lib/llvm-18/include/clang-tidy/modernize/UseTrailingReturnTypeCheck.h",
+  "size": 2769,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "30d642a1b923cc8b5fc9d17f0049bd2752b3a591ada1822c76172a2a01238d07",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.908690170Z"
+}

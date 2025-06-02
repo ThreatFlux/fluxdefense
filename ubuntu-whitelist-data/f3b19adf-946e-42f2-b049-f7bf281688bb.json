@@ -1,0 +1,17 @@
+{
+  "uuid": "f3b19adf-946e-42f2-b049-f7bf281688bb",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/libssl.pc",
+  "size": 281,
+  "modified": "2025-02-05T13:17:43Z",
+  "created": "2025-05-12T13:31:13.682137834Z",
+  "sha256_hash": "e286c543afe194f0be8ae8bae4c04d02f3228178741a6a6f8c06cd34868e2d1d",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.107559469Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "cad01d45-dd4b-4a27-a1e2-b93f1f86d044",
+  "path": "/lib/llvm-18/lib/libLLVMARMAsmParser.a",
+  "size": 962070,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.764464641Z",
+  "sha256_hash": "796bda76e4a5bd4f149e7f2c059270f4d7ae4ac898c81c8155802214c4f94b0a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:43.793721550Z"
+}

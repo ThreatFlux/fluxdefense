@@ -1,0 +1,17 @@
+{
+  "uuid": "dfbd11a5-f782-4cbb-8d59-6e51b26dce44",
+  "path": "/lib/python3.12/test/decimaltestdata/dqCompareSig.decTest",
+  "size": 29695,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.993551749Z",
+  "sha256_hash": "c1e4b25ee809a4147cef51637234d4d360bd5e989f46f2cc8be591e04a0fadb4",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.440161191Z"
+}

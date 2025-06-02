@@ -1,0 +1,17 @@
+{
+  "uuid": "d7731c56-c2ff-49d3-97a0-2d91e9da69a8",
+  "path": "/lib/speech-dispatcher-modules/sd_dummy",
+  "size": 59832,
+  "modified": "2024-04-07T07:23:33Z",
+  "created": "2025-05-09T05:07:28.219770436Z",
+  "sha256_hash": "673c7cab9b5ce0cda07734064e530d2132d22c58864d782a527636136827d0b4",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.767227517Z"
+}

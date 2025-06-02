@@ -1,0 +1,15 @@
+{
+  "uuid": "10dec77d-8afc-47c9-9116-b944bf330267",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/ECMA-CYRILLIC.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.611657638Z",
+  "sha256_hash": "3a8cdf3cb24ae97e5f28a63f88e7a0d24b5b06638f94e705632496936a0d2e90",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.496419401Z"
+}

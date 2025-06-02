@@ -1,0 +1,17 @@
+{
+  "uuid": "a83f5277-659e-4b58-aa0c-bbef805d64d1",
+  "path": "/lib/llvm-18/include/clang/Tooling/CompilationDatabasePluginRegistry.h",
+  "size": 1601,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.553533265Z",
+  "sha256_hash": "d83204498610b8e235ca36c8751210618084444237800fedfe773352d1cd8cf4",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.018710123Z"
+}

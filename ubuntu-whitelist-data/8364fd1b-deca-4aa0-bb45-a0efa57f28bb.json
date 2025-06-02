@@ -1,0 +1,17 @@
+{
+  "uuid": "8364fd1b-deca-4aa0-bb45-a0efa57f28bb",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/pangoot.pc",
+  "size": 184,
+  "modified": "2024-03-31T06:43:55Z",
+  "created": "2025-05-29T11:16:07.373041322Z",
+  "sha256_hash": "c23bf378e87e41c3c16ff469adc9cb1f37cf962b7634f398619fa1fc7bc40636",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.066269695Z"
+}

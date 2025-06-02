@@ -1,0 +1,15 @@
+{
+  "uuid": "11f44d6d-7b48-4cd1-b850-b6f2d7960fa6",
+  "path": "/bin/rstart",
+  "size": 2610,
+  "modified": "2024-03-31T17:26:54Z",
+  "created": "2025-05-09T05:07:20.393889856Z",
+  "sha256_hash": "003f7ca7a20a714e6f44eb51048136cc60e8aa297d2acb2aefc4c2cd1b500d13",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.326216732Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c5e6e336-9122-40ba-bd6d-ff9a71982620",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/ClangTidyCheck.h",
+  "size": 22038,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.555533239Z",
+  "sha256_hash": "2d8a0a61efc0a7a879c09d5ca55a33bcd8243c340617f9c242050e9799cf7349",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.275246489Z"
+}

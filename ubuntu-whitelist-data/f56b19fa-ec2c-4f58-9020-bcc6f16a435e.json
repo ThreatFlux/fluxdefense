@@ -1,0 +1,17 @@
+{
+  "uuid": "f56b19fa-ec2c-4f58-9020-bcc6f16a435e",
+  "path": "/usr/lib/udev/rules.d/77-mm-x22x-port-types.rules",
+  "size": 4602,
+  "modified": "2024-02-19T14:58:32Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "999e94b8763690f86eb5530ab11b0906a26eea1446f7487162d2e759dfe65963",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.101266117Z"
+}

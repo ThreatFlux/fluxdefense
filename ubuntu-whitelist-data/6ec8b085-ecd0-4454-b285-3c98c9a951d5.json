@@ -1,0 +1,15 @@
+{
+  "uuid": "6ec8b085-ecd0-4454-b285-3c98c9a951d5",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/botocore/discovery.py",
+  "size": 11075,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.170941486Z",
+  "sha256_hash": "fa9f560d6069c7d0730d9811659e957690ab8ae1ea80a1d792d941eb963e6f21",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.577708718Z"
+}

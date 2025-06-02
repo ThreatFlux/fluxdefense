@@ -1,0 +1,15 @@
+{
+  "uuid": "a7184d3f-bbd3-4fc3-9b71-dbe574106b14",
+  "path": "/bin/derb",
+  "size": 27368,
+  "modified": "2024-08-09T02:33:20Z",
+  "created": "2025-05-12T13:34:31.056539811Z",
+  "sha256_hash": "da10e6f18ce74cc67a14b3d2b13792221a8f6cfcc13d06bfb2b7cc400bf1e1b3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.711319550Z"
+}

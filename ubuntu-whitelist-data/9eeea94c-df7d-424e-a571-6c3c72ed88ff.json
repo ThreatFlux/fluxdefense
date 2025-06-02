@@ -1,0 +1,17 @@
+{
+  "uuid": "9eeea94c-df7d-424e-a571-6c3c72ed88ff",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/misc/MisplacedConstCheck.h",
+  "size": 1226,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "e19e019b86beb2bfa589cd3bcf4a4c769a8e4742b4b28b7ad946516810609539",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.278690885Z"
+}

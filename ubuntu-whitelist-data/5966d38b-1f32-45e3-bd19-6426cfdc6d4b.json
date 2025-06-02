@@ -1,0 +1,15 @@
+{
+  "uuid": "5966d38b-1f32-45e3-bd19-6426cfdc6d4b",
+  "path": "/usr/sbin/openvpn",
+  "size": 932664,
+  "modified": "2025-04-01T16:06:17Z",
+  "created": "2025-05-09T05:11:35.246000172Z",
+  "sha256_hash": "1c7a69de05914df61bf630eb3121b6d40ae1f2a27e57134c35d41b01c12b2781",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.550310245Z"
+}

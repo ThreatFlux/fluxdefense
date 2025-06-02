@@ -1,0 +1,17 @@
+{
+  "uuid": "5f13d5c4-4729-4405-9ff7-3f425f7d11ed",
+  "path": "/usr/lib/firmware/ti/tas2563/INT8866RCA2.bin.zst",
+  "size": 292,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.074534305Z",
+  "sha256_hash": "6e93484bffffb626dc751fd474b38d189c8f7246aa2843944ab83f994d69e69e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.657675965Z"
+}

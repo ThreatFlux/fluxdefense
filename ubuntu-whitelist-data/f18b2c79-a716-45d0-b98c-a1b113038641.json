@@ -1,0 +1,17 @@
+{
+  "uuid": "f18b2c79-a716-45d0-b98c-a1b113038641",
+  "path": "/lib/NetworkManager/VPN/nm-pptp-service.name",
+  "size": 302,
+  "modified": "2024-03-31T09:21:08Z",
+  "created": "2025-05-09T05:07:20.992880715Z",
+  "sha256_hash": "88dbb0fc326be3b8d8f6e54f6f5004ba07be099c823760f324d5dbe1c43ccb4e",
+  "file_type": {
+    "Other": "name"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.406919444Z"
+}

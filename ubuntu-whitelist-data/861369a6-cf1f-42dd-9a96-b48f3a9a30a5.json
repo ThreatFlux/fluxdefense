@@ -1,0 +1,17 @@
+{
+  "uuid": "861369a6-cf1f-42dd-9a96-b48f3a9a30a5",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/libdrm_intel.pc",
+  "size": 332,
+  "modified": "2024-08-02T12:33:15Z",
+  "created": "2025-05-29T11:16:21.141852382Z",
+  "sha256_hash": "37753e78641e99b0d9225819fa226d8a111b3d266f4ba4a7f731676d9d35a739",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.054772361Z"
+}

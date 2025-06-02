@@ -1,0 +1,15 @@
+{
+  "uuid": "256a950b-6472-4cbc-99d8-0b202d18f600",
+  "path": "/lib/x86_64-linux-gnu/tracker-miners-3.0/extract-modules/libextract-text.so",
+  "size": 35048,
+  "modified": "2024-03-31T17:20:13Z",
+  "created": "2025-05-09T05:07:37.309631727Z",
+  "sha256_hash": "0ad498d1a5b1ce4b906ce1d9b161ab9d4a48c38dc782047d6b6a431918d92ed1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.712416662Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "69eb480f-cb73-40b8-8369-8ad5c34be2ec",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/pyu2f/u2f.py",
+  "size": 7034,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.096942743Z",
+  "sha256_hash": "455d57d8fe051c0d7eb3db7eae75aa6cdb76565f6c5668fb7dbdbb79596386d4",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.740663111Z"
+}

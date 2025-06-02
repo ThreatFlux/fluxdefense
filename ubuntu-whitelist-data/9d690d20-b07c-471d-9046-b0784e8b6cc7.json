@@ -1,0 +1,17 @@
+{
+  "uuid": "9d690d20-b07c-471d-9046-b0784e8b6cc7",
+  "path": "/lib/x86_64-linux-gnu/libtss2-tcti-device.so.0.0.0",
+  "size": 31144,
+  "modified": "2024-05-24T20:06:42Z",
+  "created": "2025-05-09T05:07:32.326707766Z",
+  "sha256_hash": "aedc7dfc40c90ee2c380f1f3555de85733965a745c52b0ca106bb554b51ec440",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.674910605Z"
+}

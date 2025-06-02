@@ -1,0 +1,15 @@
+{
+  "uuid": "22f6298e-b04a-4e5b-b8fb-c5d85128f6ad",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/pyu2f/apdu.py",
+  "size": 3945,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.096942743Z",
+  "sha256_hash": "4774f63a6393c41798ca6c3d9951d3ddeb0f95d53d716f5279f3c76697101a9f",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.740238131Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "3b9c3a3c-9df2-444d-8c5d-f0c7fc3541cc",
+  "path": "/usr/lib/x86_64-linux-gnu/gtk-2.0/2.10.0/engines/libmurrine.so",
+  "size": 256072,
+  "modified": "2024-04-03T19:53:31Z",
+  "created": "2025-05-09T05:07:35.796654815Z",
+  "sha256_hash": "0c418d953a322c4bf446c941d6d2ff92a035eb5b16104c1aed950f5f92206668",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.308543213Z"
+}

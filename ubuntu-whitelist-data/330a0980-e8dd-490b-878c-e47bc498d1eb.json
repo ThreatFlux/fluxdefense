@@ -1,0 +1,17 @@
+{
+  "uuid": "330a0980-e8dd-490b-878c-e47bc498d1eb",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/g-soccon.ali",
+  "size": 3026,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.109344338Z",
+  "sha256_hash": "155247880e6eb7193f2ce3c5f829bf8afa36c6dd37592ddac596ac129d678d19",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.708866331Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "0896d798-c38c-4d2d-87c7-04bdb51dbde5",
+  "path": "/lib/aspell/koi8-r.cset",
+  "size": 13399,
+  "modified": "2024-04-08T15:54:10Z",
+  "created": "2025-05-09T05:07:21.018880319Z",
+  "sha256_hash": "652f986bf7b1e09062e25be71d403329f192632d3dd0414bcf4d224492f82e1e",
+  "file_type": {
+    "Other": "cset"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.792617213Z"
+}

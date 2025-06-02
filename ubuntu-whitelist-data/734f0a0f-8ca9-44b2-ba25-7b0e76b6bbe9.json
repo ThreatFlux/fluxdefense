@@ -1,0 +1,17 @@
+{
+  "uuid": "734f0a0f-8ca9-44b2-ba25-7b0e76b6bbe9",
+  "path": "/usr/lib/aspell/iso-8859-15.cset",
+  "size": 13939,
+  "modified": "2024-04-08T15:54:10Z",
+  "created": "2025-05-09T05:07:21.015880365Z",
+  "sha256_hash": "a321073b28dfc258d60f7e5a7b00ab31c70f6fd4ab39ddef6464b3d4bf6a133d",
+  "file_type": {
+    "Other": "cset"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.290567121Z"
+}

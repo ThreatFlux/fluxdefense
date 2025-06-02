@@ -1,0 +1,17 @@
+{
+  "uuid": "3fe220c7-f144-4a61-b95b-eaf30885d3f5",
+  "path": "/usr/lib/firmware/i915/tgl_dmc_ver2_08.bin.zst",
+  "size": 4936,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.544541646Z",
+  "sha256_hash": "8de817f9c25e8b432971c11fc360779a5010fcaf8fc75f67a679b12848d6b197",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.743757321Z"
+}

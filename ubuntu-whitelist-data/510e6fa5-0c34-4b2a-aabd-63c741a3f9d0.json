@@ -1,0 +1,17 @@
+{
+  "uuid": "510e6fa5-0c34-4b2a-aabd-63c741a3f9d0",
+  "path": "/usr/lib/llvm-18/include/clang/Parse/ParseDiagnostic.h",
+  "size": 506,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.545533371Z",
+  "sha256_hash": "dfc38f416dda83c1e443085ce3c443eb365de0e920617f2a358d6f8d66f4d818",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.623582118Z"
+}

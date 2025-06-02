@@ -1,0 +1,17 @@
+{
+  "uuid": "825b6bc0-303c-4ab8-bf21-9b8dee0b4ff1",
+  "path": "/lib/grub/x86_64-efi/gcry_arcfour.mod",
+  "size": 2464,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.805708506Z",
+  "sha256_hash": "0d7b47fca8d2f4bbe737ccbf63b75ac2111363a201408ece32195ebe65b54a3c",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.029993819Z"
+}

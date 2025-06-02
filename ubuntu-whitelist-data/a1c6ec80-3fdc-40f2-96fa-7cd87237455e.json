@@ -1,0 +1,15 @@
+{
+  "uuid": "a1c6ec80-3fdc-40f2-96fa-7cd87237455e",
+  "path": "/usr/lib/i386-linux-gnu/gconv/libISOIR165.so",
+  "size": 62764,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.285663339Z",
+  "sha256_hash": "c8baabe75776e38f2944d2f5947cd7b12bd8cc52571965278e03bb44a2d6158e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:41.019402821Z"
+}

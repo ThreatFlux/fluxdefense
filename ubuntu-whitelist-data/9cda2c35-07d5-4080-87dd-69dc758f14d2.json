@@ -1,0 +1,17 @@
+{
+  "uuid": "9cda2c35-07d5-4080-87dd-69dc758f14d2",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/BuiltinsPPC.def",
+  "size": 57214,
+  "modified": "2024-01-17T08:14:10Z",
+  "created": "2025-05-12T13:34:31.526533621Z",
+  "sha256_hash": "8dca2f6c42f1a1f223de32c07bca749375dcfc0ed2161ac0f4d856b18a9b71c4",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.520822182Z"
+}

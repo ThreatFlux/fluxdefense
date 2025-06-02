@@ -1,0 +1,17 @@
+{
+  "uuid": "c4e5ca83-97ca-4f9f-8733-05ff1dd6f395",
+  "path": "/lib/cups/driver/ptouch",
+  "size": 14951,
+  "modified": "2024-03-31T17:02:37Z",
+  "created": "2025-05-09T05:07:21.343875359Z",
+  "sha256_hash": "64aee15060c222221f8c70944eb8563d28f1a19ea2143f49e9d5bf7ad96f2d4b",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.674397261Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "3500e037-e831-4e15-b6ca-e32dd231cb88",
+  "path": "/lib/firmware/intel/sof-tplg/sof-smart-amplifier-nocodec.tplg.zst",
+  "size": 922,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.060490953Z",
+  "sha256_hash": "bd11b84a3f154bb7760993b74ed709a95123a8873760a91a9f4888625dd2c3a4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.202000078Z"
+}

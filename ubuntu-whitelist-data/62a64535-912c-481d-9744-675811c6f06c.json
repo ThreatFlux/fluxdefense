@@ -1,0 +1,17 @@
+{
+  "uuid": "62a64535-912c-481d-9744-675811c6f06c",
+  "path": "/lib/systemd/systemd-volatile-root",
+  "size": 22904,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.526779521Z",
+  "sha256_hash": "1f6495931749a06c7e90ac03664f04c23dea0304964029f78bfaa4f031800d08",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.100611750Z"
+}

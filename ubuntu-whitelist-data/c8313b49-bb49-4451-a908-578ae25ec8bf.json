@@ -1,0 +1,17 @@
+{
+  "uuid": "c8313b49-bb49-4451-a908-578ae25ec8bf",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-imgint.adb",
+  "size": 2596,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.079344750Z",
+  "sha256_hash": "4763100637bda5279393c785a0f63573b8c2b4d3cc51c62bbdaf8dd3d7e8ae46",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.304113999Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c55e95ef-7dfe-4670-8942-853178014a32",
+  "path": "/lib/x86_64-linux-gnu/libfreebl3.chk",
+  "size": 84,
+  "modified": "2024-04-08T16:14:43Z",
+  "created": "2025-05-09T05:07:29.482751164Z",
+  "sha256_hash": "36defc85bde9fd68610fa0bf11c828a21523ddcf40debc29430385c1aacc53f4",
+  "file_type": {
+    "Other": "chk"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.693323469Z"
+}

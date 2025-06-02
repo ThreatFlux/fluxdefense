@@ -1,0 +1,17 @@
+{
+  "uuid": "619dd606-0da2-4473-9e39-bbcf774388a2",
+  "path": "/lib/firmware/intel/sof-ipc4-tplg/sof-mtl-rt712-l0-4ch.tplg.zst",
+  "size": 3388,
+  "modified": "2025-01-06T07:09:53Z",
+  "created": "2025-05-09T05:08:52.056491014Z",
+  "sha256_hash": "cbbe6f5b050d9a998ca2a1e0d883818514ac2c5133499e1f82fff7e6733bc9f0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.064581018Z"
+}

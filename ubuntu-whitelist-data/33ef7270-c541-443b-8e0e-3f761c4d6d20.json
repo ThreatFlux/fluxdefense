@@ -1,0 +1,15 @@
+{
+  "uuid": "33ef7270-c541-443b-8e0e-3f761c4d6d20",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/firestore/export.py",
+  "size": 3172,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.709932328Z",
+  "sha256_hash": "f0aa0b6d9b829a708b46828e39b3f075a3cd7a7cc5ef86c9ddac769a915c6e3b",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.839244466Z"
+}

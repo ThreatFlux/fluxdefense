@@ -1,0 +1,17 @@
+{
+  "uuid": "744df4fa-9291-4d35-b70e-6c39c9bec001",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-sbecin.adb",
+  "size": 2551,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.055345079Z",
+  "sha256_hash": "71dcf2e36ff0d11523f9a45a0a87c5615b1b8a09f6751631a13567029cd5dd47",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.094597714Z"
+}

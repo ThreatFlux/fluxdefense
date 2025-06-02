@@ -1,0 +1,15 @@
+{
+  "uuid": "fb248ab6-f65f-45f3-bca2-b61176029ded",
+  "path": "/bin/xzgrep",
+  "size": 10333,
+  "modified": "2025-03-31T18:22:22Z",
+  "created": "2025-05-09T05:09:50.924592535Z",
+  "sha256_hash": "e83ca59b0c0e5eb2170abc6d89a34980fd04891399a65ceea18d810301a275e3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.426023747Z"
+}

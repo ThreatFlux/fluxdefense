@@ -1,0 +1,17 @@
+{
+  "uuid": "c4d39fdc-daea-44f0-b979-409e3733e3e7",
+  "path": "/usr/lib/firmware/radeon/TAHITI_smc.bin.zst",
+  "size": 24829,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.062534471Z",
+  "sha256_hash": "749b5504abaa48fa7c3c86ee7c2de2794d53b32a53e355aee0dd6372648e9646",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.373493326Z"
+}

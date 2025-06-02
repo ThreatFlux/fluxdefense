@@ -1,0 +1,17 @@
+{
+  "uuid": "bf0eda77-63c5-4430-bf6b-5879d9edd3ba",
+  "path": "/lib/firmware/ti/tas2781/TIAS2781RCA2.bin.zst",
+  "size": 223,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.075534291Z",
+  "sha256_hash": "e97a7e394850b305972a5041872587b5919c3797d945a619496cdf2880dcaad9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.613777051Z"
+}

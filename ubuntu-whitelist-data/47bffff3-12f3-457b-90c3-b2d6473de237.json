@@ -1,0 +1,17 @@
+{
+  "uuid": "47bffff3-12f3-457b-90c3-b2d6473de237",
+  "path": "/lib/llvm-18/include/clang/ExtractAPI/ExtractAPIVisitor.h",
+  "size": 56502,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.542533410Z",
+  "sha256_hash": "7bf661526293cb236b1f493a5bd85a9a0510374f96fbf69407f3e171a371fb34",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.184224947Z"
+}

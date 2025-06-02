@@ -1,0 +1,15 @@
+{
+  "uuid": "d7936706-eab0-4b31-b999-73db65f6f816",
+  "path": "/lib/llvm-18/lib/libLLVMDlltoolDriver.a",
+  "size": 31576,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.876463166Z",
+  "sha256_hash": "995ccb816b94367e307bb6b3bc96470e5b0dd88a393dd3f07a8fb12321bcdc83",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.633066970Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "ea7b26d8-caef-410a-9788-a576cf531f37",
+  "path": "/usr/lib/firmware/amdgpu/renoir_pfp.bin.zst",
+  "size": 9908,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.414543446Z",
+  "sha256_hash": "8b3c74b5ecbf9671b4bf51197747717ce8bf557ca1245b2653aba2a9ecd3716e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.102863894Z"
+}

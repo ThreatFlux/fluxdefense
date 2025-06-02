@@ -1,0 +1,17 @@
+{
+  "uuid": "39f0daa4-2124-4a1f-8269-30c5f621f5b8",
+  "path": "/lib/firmware/ea/gina24_301_dsp.fw.zst",
+  "size": 6499,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.528541867Z",
+  "sha256_hash": "5c0f2e94be25aac742e970e535f5d7ae77c93d4a57d4f2794b5af1ab5a3d1282",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.607349831Z"
+}

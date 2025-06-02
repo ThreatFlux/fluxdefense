@@ -1,0 +1,15 @@
+{
+  "uuid": "5de81531-7105-4a45-b9f5-4c36c61fef86",
+  "path": "/bin/lsusb",
+  "size": 252432,
+  "modified": "2024-04-08T16:21:28Z",
+  "created": "2025-05-09T05:07:20.157893457Z",
+  "sha256_hash": "f7c9baf52ef07ef4fe92eebfe1ffd6db816fb6e547f00a758b2bb20c764cd03c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.446314626Z"
+}

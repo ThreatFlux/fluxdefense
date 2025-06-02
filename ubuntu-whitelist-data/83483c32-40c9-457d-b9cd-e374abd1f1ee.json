@@ -1,0 +1,17 @@
+{
+  "uuid": "83483c32-40c9-457d-b9cd-e374abd1f1ee",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/a-strunb.adb",
+  "size": 57306,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.057345052Z",
+  "sha256_hash": "05fa5ae84565e9af6036ca120d9461e1f8d2291d2794bf28052bc97a715ae5de",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.008250485Z"
+}

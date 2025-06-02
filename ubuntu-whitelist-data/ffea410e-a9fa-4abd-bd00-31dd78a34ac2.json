@@ -1,0 +1,15 @@
+{
+  "uuid": "ffea410e-a9fa-4abd-bd00-31dd78a34ac2",
+  "path": "/lib/python3/dist-packages/cloudinit/config/cc_ubuntu_drivers.py",
+  "size": 4174,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.236037177Z",
+  "sha256_hash": "41b03fea1ffd932966a3827955aaf6d4972cd2b1a6466a21753bc7837375583e",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.918479994Z"
+}

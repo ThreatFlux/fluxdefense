@@ -1,0 +1,15 @@
+{
+  "uuid": "70ceec6a-6248-46e2-81de-da91d01628f1",
+  "path": "/lib/python3/dist-packages/cloudinit/distros/openeuler.py",
+  "size": 275,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.238037203Z",
+  "sha256_hash": "9caf64b66c085d84aca90e230a53a632562b300c7b8ad8bb0e978bfcea30014e",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.908319967Z"
+}

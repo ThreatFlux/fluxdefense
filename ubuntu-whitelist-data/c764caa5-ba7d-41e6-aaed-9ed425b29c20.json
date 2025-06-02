@@ -1,0 +1,15 @@
+{
+  "uuid": "c764caa5-ba7d-41e6-aaed-9ed425b29c20",
+  "path": "/usr/bin/ssh-keygen",
+  "size": 453056,
+  "modified": "2025-04-22T11:51:46Z",
+  "created": "2025-05-09T05:11:28.348105466Z",
+  "sha256_hash": "0a8c3c6b0c257b01626f00520cbb144cb7fe85e767ea8ffe4fe98b99b10b5729",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.055062832Z"
+}

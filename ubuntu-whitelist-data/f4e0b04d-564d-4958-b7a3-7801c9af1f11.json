@@ -1,0 +1,17 @@
+{
+  "uuid": "f4e0b04d-564d-4958-b7a3-7801c9af1f11",
+  "path": "/lib/x86_64-linux-gnu/libndctl.so.6.1.21",
+  "size": 168136,
+  "modified": "2024-04-08T16:14:06Z",
+  "created": "2025-05-09T05:56:51.197623986Z",
+  "sha256_hash": "97859d906e55e67786f6c3d2f568553f8638d9c717880cf1295cc53e6b0d433c",
+  "file_type": {
+    "Other": "21"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:18.252779611Z"
+}

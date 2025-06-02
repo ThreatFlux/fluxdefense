@@ -1,0 +1,17 @@
+{
+  "uuid": "485a8473-63b3-4bef-a350-a80000223a68",
+  "path": "/usr/lib/systemd/system/systemd-localed.service.d/x11-keyboard.conf",
+  "size": 203,
+  "modified": "2025-02-20T15:25:51Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "978a7d763d3e9f7bd3027a3ca856138a07e4336cb0bb1b0a9055d501a6b24d97",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.464460561Z"
+}

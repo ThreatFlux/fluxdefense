@@ -1,0 +1,15 @@
+{
+  "uuid": "0a533fd6-3074-4b7e-b1b9-3611b2a1705a",
+  "path": "/bin/pipewire",
+  "size": 14720,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:18.614844966Z",
+  "sha256_hash": "523ad1a9cc5c9e5fe6d9b0617725083417823f97eff31c934f4674bd85415524",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.504130540Z"
+}

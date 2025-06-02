@@ -1,0 +1,17 @@
+{
+  "uuid": "773bcac1-5303-4644-9bd9-439b11bc44da",
+  "path": "/lib/systemd/system/networkd-dispatcher.service",
+  "size": 370,
+  "modified": "2023-04-24T15:32:27Z",
+  "created": "2025-05-09T05:07:28.300769200Z",
+  "sha256_hash": "c5b2f43bfbb0f22bc6010dec59c2b450bc10483513ea972fb7d4ef666a2e9859",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.127667514Z"
+}

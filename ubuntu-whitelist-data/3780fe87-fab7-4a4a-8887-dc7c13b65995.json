@@ -1,0 +1,17 @@
+{
+  "uuid": "3780fe87-fab7-4a4a-8887-dc7c13b65995",
+  "path": "/lib/firmware/usbduxsigma_firmware.bin.zst",
+  "size": 1281,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.081534208Z",
+  "sha256_hash": "41cb5395eee2cff428a63e8017b9ebbd592e64a4e926688c5b049f23ea5dcc0e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.771477332Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "67a33a38-4569-48d3-897d-18fd2a9cad8a",
+  "path": "/lib/llvm-18/lib/cmake/llvm/LLVMDistributionSupport.cmake",
+  "size": 13425,
+  "modified": "2023-03-14T08:58:24Z",
+  "created": "2025-05-12T13:34:36.685465681Z",
+  "sha256_hash": "1b368a630e22a4fd5b13a4c9468cc4bab8ab4012fb0de9dd3cacde5a1bc26d64",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.506434751Z"
+}

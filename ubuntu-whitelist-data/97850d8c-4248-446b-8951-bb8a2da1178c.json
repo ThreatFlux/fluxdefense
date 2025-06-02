@@ -1,0 +1,15 @@
+{
+  "uuid": "97850d8c-4248-446b-8951-bb8a2da1178c",
+  "path": "/usr/lib/x86_64-linux-gnu/gnome-keyring/devel/gkm-gnome2-store-standalone.so",
+  "size": 473168,
+  "modified": "2024-03-31T06:07:47Z",
+  "created": "2025-05-09T05:07:35.749655532Z",
+  "sha256_hash": "4c17dd8c16216e30928e0158816afb4a687ceca97037d4dd497c66719cbf1cd2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:08.619299728Z"
+}

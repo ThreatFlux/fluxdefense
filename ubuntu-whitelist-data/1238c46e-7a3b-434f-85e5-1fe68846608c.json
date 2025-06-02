@@ -1,0 +1,15 @@
+{
+  "uuid": "1238c46e-7a3b-434f-85e5-1fe68846608c",
+  "path": "/usr/lib/speech-dispatcher-modules/sd_generic",
+  "size": 72072,
+  "modified": "2024-04-07T07:23:33Z",
+  "created": "2025-05-09T05:07:28.220770421Z",
+  "sha256_hash": "fcfdfb450123bdfafeaffb95dbe02d7f2743b845ee6505972bb06a7d0e4d0d56",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.271958119Z"
+}

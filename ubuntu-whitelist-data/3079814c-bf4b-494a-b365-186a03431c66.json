@@ -1,0 +1,15 @@
+{
+  "uuid": "3079814c-bf4b-494a-b365-186a03431c66",
+  "path": "/lib/x86_64-linux-gnu/xtables/libebt_dnat.so",
+  "size": 14784,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.324631498Z",
+  "sha256_hash": "aecca9c18adf0673ad3f28d0d6c3ae6ab52da6f9e9d514299b427e46824bb284",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.666565035Z"
+}

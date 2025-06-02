@@ -1,0 +1,17 @@
+{
+  "uuid": "9e81fab3-e905-446e-8ce6-daa31a8f1c2b",
+  "path": "/usr/lib/llvm-18/include/clang/AST/GlobalDecl.h",
+  "size": 7592,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.518533726Z",
+  "sha256_hash": "a15484b417b3fd17cdece1cd624aded132c453986682e47d66e05e1d049b85b6",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.384173195Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "966cd160-088f-4eae-981b-c12b65a1305a",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_tcpmss.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.337631300Z",
+  "sha256_hash": "912dd2b154dbf8d28189c8b90a888ba4d0c19719a9669d96a27ca3a4e4069465",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.666787239Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "2f34b147-3e12-432c-baf4-47617f19f7a6",
+  "path": "/usr/lib/llvm-18/lib/libLLVMOrcDebugging.a",
+  "size": 245316,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.952462165Z",
+  "sha256_hash": "079092b20e3d17621e8a9515131f6b68f2d69a11ceb0e23e0c8b9769cef7c012",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:30.519183784Z"
+}

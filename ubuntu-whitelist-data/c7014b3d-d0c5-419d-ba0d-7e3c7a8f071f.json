@@ -1,0 +1,15 @@
+{
+  "uuid": "c7014b3d-d0c5-419d-ba0d-7e3c7a8f071f",
+  "path": "/usr/lib/llvm-18/lib/libclangEdit.a",
+  "size": 244612,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.718531092Z",
+  "sha256_hash": "ee4beb68203fc5b91eb6798254e7db6fdcdebae016d3ec9459006c08accce255",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:36.814642082Z"
+}

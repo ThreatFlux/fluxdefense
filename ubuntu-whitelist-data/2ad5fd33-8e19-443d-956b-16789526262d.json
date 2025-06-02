@@ -1,0 +1,17 @@
+{
+  "uuid": "2ad5fd33-8e19-443d-956b-16789526262d",
+  "path": "/lib/firmware/ath12k/WCN7850/hw2.0/amss.bin.zst",
+  "size": 2821564,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.470542671Z",
+  "sha256_hash": "3be42bc675e470b0e03de35090a2812ce625b16ac3f2a2e409919dcd29a612e2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.349258573Z"
+}

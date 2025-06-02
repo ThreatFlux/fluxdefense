@@ -1,0 +1,17 @@
+{
+  "uuid": "49ad35d6-5576-48f9-8065-77f788c48707",
+  "path": "/lib/grub/x86_64-efi/gcry_camellia.mod",
+  "size": 27880,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.806708491Z",
+  "sha256_hash": "0fd1b4ef7f90e2f7977333b14d72b7e956da9a0b49076e07ef95ba5dcce14ac2",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.017277536Z"
+}

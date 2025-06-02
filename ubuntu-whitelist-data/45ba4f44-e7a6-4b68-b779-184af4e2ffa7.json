@@ -1,0 +1,17 @@
+{
+  "uuid": "45ba4f44-e7a6-4b68-b779-184af4e2ffa7",
+  "path": "/lib/libreoffice/presets/database/biblio/biblio.dbt",
+  "size": 46601,
+  "modified": "2024-10-29T11:14:30Z",
+  "created": "2025-05-09T05:11:17.293274215Z",
+  "sha256_hash": "3ab142231d8075fdd02c95a691ddce590e0f81450744cb87ca610fd06d75cac1",
+  "file_type": {
+    "Other": "dbt"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:48.862678518Z"
+}

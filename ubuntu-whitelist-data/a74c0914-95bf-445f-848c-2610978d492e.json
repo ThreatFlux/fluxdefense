@@ -1,0 +1,17 @@
+{
+  "uuid": "a74c0914-95bf-445f-848c-2610978d492e",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/Data/Dumper.pm",
+  "size": 46263,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.511591434Z",
+  "sha256_hash": "b542a02e28f24052718dd3ea8fff6038a788e7297e7d630a15b3224be62a32c8",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.598394009Z"
+}

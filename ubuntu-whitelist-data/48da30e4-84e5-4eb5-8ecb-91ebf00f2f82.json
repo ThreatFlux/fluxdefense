@@ -1,0 +1,15 @@
+{
+  "uuid": "48da30e4-84e5-4eb5-8ecb-91ebf00f2f82",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/compute/copy_files.py",
+  "size": 3198,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.773931241Z",
+  "sha256_hash": "ef5d5d476a83eaf5c4cff4c64f8996e4d36104aadc16fefe5e09a73f0296b3c4",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.764307518Z"
+}

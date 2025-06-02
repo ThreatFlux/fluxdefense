@@ -1,0 +1,15 @@
+{
+  "uuid": "19e65950-05ea-4df5-bfcb-dbd0fa32948c",
+  "path": "/usr/sbin/mkswap",
+  "size": 51592,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.366615597Z",
+  "sha256_hash": "8dc1a05925bccf43aa8206cf3d32966c30789bf5856d3e8a277d325eafe9d464",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.184284122Z"
+}

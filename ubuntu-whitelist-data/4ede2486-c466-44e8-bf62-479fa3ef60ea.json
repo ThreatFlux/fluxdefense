@@ -1,0 +1,15 @@
+{
+  "uuid": "4ede2486-c466-44e8-bf62-479fa3ef60ea",
+  "path": "/usr/lib/sysstat/sadc",
+  "size": 83200,
+  "modified": "2024-01-09T20:31:44Z",
+  "created": "2025-05-09T05:07:28.222770390Z",
+  "sha256_hash": "d0dcaadc057b3791f3d3aa19e2f9b1243ad37714f4336a8be0b69b197bdf0397",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.368533553Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "53280b4c-515c-48c0-8515-791b7d0ff45f",
+  "path": "/lib/python3.12/test/certdata/keycert.passwd.pem",
+  "size": 4225,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.987551828Z",
+  "sha256_hash": "aa64d5312536a9db635df3b591992eee4d6e535169943d30ec5da07efc607401",
+  "file_type": {
+    "Other": "pem"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.632510946Z"
+}

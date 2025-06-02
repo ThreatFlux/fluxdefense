@@ -1,0 +1,17 @@
+{
+  "uuid": "1d5da4ca-feb9-4fd9-993d-2e7e78e005c8",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/zfs/zfs.ko.zst",
+  "size": 1839779,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.132796960Z",
+  "sha256_hash": "abc794ffda0f863c2488d1805856635834afb0f532b354fd493ee4ba14a738ea",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.544451571Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "7eb2b1a2-c863-40a5-8ddd-e6945b21f960",
+  "path": "/lib/llvm-18/include/clang/Basic/AttrHasAttributeImpl.inc",
+  "size": 54613,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.524533647Z",
+  "sha256_hash": "af217bb4e52299803a011b2da7e232b05e1df30bb8d8d8d517541d7e5798cee5",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.123186092Z"
+}

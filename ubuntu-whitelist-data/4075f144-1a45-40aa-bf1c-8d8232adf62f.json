@@ -1,0 +1,15 @@
+{
+  "uuid": "4075f144-1a45-40aa-bf1c-8d8232adf62f",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/dns/update.py",
+  "size": 10343,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.114942437Z",
+  "sha256_hash": "30eaaf3b698d9f748e9d3a3d69c0de4c6abe6064478f0eb4fc52111b7d3d6c62",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.543351055Z"
+}

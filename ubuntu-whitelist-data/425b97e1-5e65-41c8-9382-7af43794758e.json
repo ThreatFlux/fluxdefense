@@ -1,0 +1,17 @@
+{
+  "uuid": "425b97e1-5e65-41c8-9382-7af43794758e",
+  "path": "/usr/lib/x86_64-linux-gnu/libXinerama.so.1.0.0",
+  "size": 14616,
+  "modified": "2024-04-08T16:09:56Z",
+  "created": "2025-05-09T05:07:29.061757588Z",
+  "sha256_hash": "dceff724f4f74c420116fa6a11ece62894af4fc0e74a2254c923ccc215e1a041",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.701143119Z"
+}

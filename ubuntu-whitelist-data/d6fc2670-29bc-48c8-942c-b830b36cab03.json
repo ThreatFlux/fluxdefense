@@ -1,0 +1,17 @@
+{
+  "uuid": "d6fc2670-29bc-48c8-942c-b830b36cab03",
+  "path": "/usr/lib/systemd/user/gpg-agent-extra.socket",
+  "size": 281,
+  "modified": "2024-03-01T08:25:55Z",
+  "created": "2025-05-09T05:11:23.691176553Z",
+  "sha256_hash": "cea4b6b204d6b6701407c67ae1a1a8452e11593ea7f1e9805272f6c31c725213",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.502313405Z"
+}

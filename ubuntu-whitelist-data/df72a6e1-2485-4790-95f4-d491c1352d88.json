@@ -1,0 +1,17 @@
+{
+  "uuid": "df72a6e1-2485-4790-95f4-d491c1352d88",
+  "path": "/usr/lib/python3.12/test/zipdir.zip",
+  "size": 374,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.054550948Z",
+  "sha256_hash": "19cb87050b0fb410da3b88df752c2e1bdaeec77ac052b04febef31a68823cfcb",
+  "file_type": {
+    "Other": "zip"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.105006618Z"
+}

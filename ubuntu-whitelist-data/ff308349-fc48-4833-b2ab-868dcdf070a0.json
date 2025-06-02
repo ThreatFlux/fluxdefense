@@ -1,0 +1,15 @@
+{
+  "uuid": "ff308349-fc48-4833-b2ab-868dcdf070a0",
+  "path": "/usr/libexec/gnome-shell-calendar-server",
+  "size": 43504,
+  "modified": "2025-04-14T09:35:20Z",
+  "created": "2025-05-21T14:13:56.583918497Z",
+  "sha256_hash": "fc45767015448ce4fe894019b6c9bfb0150dd23877f73103ec9a109644afd227",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.251370930Z"
+}

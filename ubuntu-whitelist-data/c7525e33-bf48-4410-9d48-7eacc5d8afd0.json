@@ -1,0 +1,17 @@
+{
+  "uuid": "c7525e33-bf48-4410-9d48-7eacc5d8afd0",
+  "path": "/lib/google-cloud-sdk/lib/surface/organizations/get_iam_policy.yaml",
+  "size": 1059,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.635933586Z",
+  "sha256_hash": "ee3f7b7dae2000e66c9bc5122c4f8e2cbdf24cf5b08a690278bc4ed812fdf593",
+  "file_type": {
+    "Other": "yaml"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.063988726Z"
+}

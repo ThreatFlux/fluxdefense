@@ -1,0 +1,15 @@
+{
+  "uuid": "df0ef793-f1de-4fad-85d8-e71192a5e8f5",
+  "path": "/lib/x86_64-linux-gnu/security/pam_selinux.so",
+  "size": 26776,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:37.202633360Z",
+  "sha256_hash": "2764d8a009f00d4eb7321883dd4b5c110ac67f6c0ee234a826809a0bac314843",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.368663507Z"
+}

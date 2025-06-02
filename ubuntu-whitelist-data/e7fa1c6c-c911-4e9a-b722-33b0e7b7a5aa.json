@@ -1,0 +1,17 @@
+{
+  "uuid": "e7fa1c6c-c911-4e9a-b722-33b0e7b7a5aa",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/SpuriouslyWakeUpFunctionsCheck.h",
+  "size": 1459,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "87def689c04b7c8a83ed71910beb61522ca0824ef66cce3504aa3ad412dace95",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.233732816Z"
+}

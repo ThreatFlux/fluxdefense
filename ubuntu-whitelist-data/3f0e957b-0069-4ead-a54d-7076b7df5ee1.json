@@ -1,0 +1,17 @@
+{
+  "uuid": "3f0e957b-0069-4ead-a54d-7076b7df5ee1",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/utils/Matchers.h",
+  "size": 6587,
+  "modified": "2023-12-18T16:32:15Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "b2adbb8617462bc2d879ed36558255a4a3b7de6d1790a1e042d8f39b8006a6dc",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.267494130Z"
+}

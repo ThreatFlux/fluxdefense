@@ -1,0 +1,17 @@
+{
+  "uuid": "febe6ad0-1393-4f76-80ec-5a1de9b8e200",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-aomoar.ali",
+  "size": 4028,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.136343967Z",
+  "sha256_hash": "4b04ce7eae83a63570705104e3ed855290bf81d4655bfd763cd5f0066d0c39ae",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.846777606Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "4b4338e0-c3f5-4d6c-a822-13078c35a6fb",
+  "path": "/bin/qemu-system-x86_64-spice",
+  "size": 187,
+  "modified": "2025-02-13T08:05:49Z",
+  "created": "2025-05-22T16:56:50.434980257Z",
+  "sha256_hash": "c4d5d5c2ed2b814b30c79705766d239623ee18df5d9197ddd4624c4132b54bf6",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.818051331Z"
+}

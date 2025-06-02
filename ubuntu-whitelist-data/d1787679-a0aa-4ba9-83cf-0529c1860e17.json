@@ -1,0 +1,17 @@
+{
+  "uuid": "d1787679-a0aa-4ba9-83cf-0529c1860e17",
+  "path": "/lib/x86_64-linux-gnu/libavcodec.so.60.31.102",
+  "size": 16550936,
+  "modified": "2024-04-05T17:28:52Z",
+  "created": "2025-05-09T05:09:20.904050734Z",
+  "sha256_hash": "8231c9aecba7d02c132de0e16195ccb3e8002a235a5f364b3635df09e7f513e0",
+  "file_type": {
+    "Other": "102"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:18.124279688Z"
+}

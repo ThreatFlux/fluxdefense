@@ -1,0 +1,17 @@
+{
+  "uuid": "848cc562-6f3f-4bd9-a0bb-3552e0a2cbe7",
+  "path": "/usr/lib/llvm-18/include/clang/AST/ASTImportError.h",
+  "size": 1547,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.510533832Z",
+  "sha256_hash": "b41b7e764538a43cecbc906c0170ddc98479bdb5cf0f9566e4d106db02817002",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.352685039Z"
+}

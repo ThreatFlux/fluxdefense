@@ -1,0 +1,17 @@
+{
+  "uuid": "74410edc-cc81-49fb-ab2f-54520be70b44",
+  "path": "/usr/lib/llvm-18/include/clang/Frontend/CompilerInvocation.h",
+  "size": 15800,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "64e9a3697c1dd7b13a2c51df7a6816a49681e9832aa87229f7906a84bfa65e5d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.294755394Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "4726a082-d1b9-484d-b7c2-fc263379ab59",
+  "path": "/usr/bin/dh_installmanpages",
+  "size": 5012,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.513341269Z",
+  "sha256_hash": "e513e16b99ac00f87fc0f2ee563f6a9e928a488e0589e8da33e8d326cb26d791",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.317897426Z"
+}

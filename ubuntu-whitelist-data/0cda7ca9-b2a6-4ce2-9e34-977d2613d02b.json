@@ -1,0 +1,15 @@
+{
+  "uuid": "0cda7ca9-b2a6-4ce2-9e34-977d2613d02b",
+  "path": "/usr/lib/cups/filter/gstopdf",
+  "size": 14648,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.347875298Z",
+  "sha256_hash": "48f729593143ce48901f1f619d11a11a0063eaeadab2b925dd06ec83c22fff87",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.997278661Z"
+}

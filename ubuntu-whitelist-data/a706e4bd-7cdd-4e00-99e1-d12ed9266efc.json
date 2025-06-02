@@ -1,0 +1,17 @@
+{
+  "uuid": "a706e4bd-7cdd-4e00-99e1-d12ed9266efc",
+  "path": "/usr/lib/systemd/system/sigpwr.target",
+  "size": 410,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "b6eaf0487ebc606ec451a8a4554dac818f2417b47f6c1d406250fe1f638b7e2a",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.467534168Z"
+}

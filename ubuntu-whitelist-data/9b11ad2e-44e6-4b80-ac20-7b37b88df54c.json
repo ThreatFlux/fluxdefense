@@ -1,0 +1,15 @@
+{
+  "uuid": "9b11ad2e-44e6-4b80-ac20-7b37b88df54c",
+  "path": "/lib/x86_64-linux-gnu/gconv/GB18030.so",
+  "size": 182480,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.619657516Z",
+  "sha256_hash": "df6d0bb0ca2c1a7fa107ee727879f7b762e83ccc8a561a97c30f02c9c8f72004",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.751945685Z"
+}

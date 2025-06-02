@@ -1,0 +1,17 @@
+{
+  "uuid": "9234add4-c853-4b56-9db9-f3f17c8651d1",
+  "path": "/lib/firmware/amdgpu/aldebaran_rlc.bin.zst",
+  "size": 12409,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.385543848Z",
+  "sha256_hash": "2efe2c32f9257efa99129251b8cdedfd886a7749d43b280d7e8cf20c8cb7ccfc",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.959214499Z"
+}

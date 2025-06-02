@@ -1,0 +1,17 @@
+{
+  "uuid": "a4c49926-733e-42a4-87c3-d76055b0cda5",
+  "path": "/lib/systemd/system/snapd.recovery-chooser-trigger.service",
+  "size": 550,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.384025824Z",
+  "sha256_hash": "6bc6bdaf055d2931ad83d578c8e261854ee1f1484f577b47ce9706ec22250123",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.124166443Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a46c937c-eef8-4e2f-a999-bfa2b805b38a",
+  "path": "/usr/lib/systemd/system/dmesg.service",
+  "size": 409,
+  "modified": "2025-02-28T12:24:44Z",
+  "created": "2025-05-09T05:24:24.545922238Z",
+  "sha256_hash": "9a9364d95eef682c52aa385851924ef5695625d7e93c7ee97f377e62e8133673",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.463093278Z"
+}

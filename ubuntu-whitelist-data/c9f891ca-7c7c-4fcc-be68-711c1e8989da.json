@@ -1,0 +1,17 @@
+{
+  "uuid": "c9f891ca-7c7c-4fcc-be68-711c1e8989da",
+  "path": "/lib/x86_64-linux-gnu/librom1394.so.0.3.0",
+  "size": 18616,
+  "modified": "2024-04-08T16:01:51Z",
+  "created": "2025-05-09T05:07:32.090711367Z",
+  "sha256_hash": "f33c9e656cf6aded8af5998142fcdc10b3b1919907adea675d57442f2a810e6c",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.751843507Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "9831f0c2-a8c9-430b-8fda-8a0c854433f1",
+  "path": "/lib/systemd/user/xdg-permission-store.service",
+  "size": 219,
+  "modified": "2024-08-26T14:56:42Z",
+  "created": "2025-05-09T05:07:28.307769094Z",
+  "sha256_hash": "c3a437d23ae76b30fc58a2ca92ac6f6e5bdd4647b73158aec804f95d4993a14d",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.143570993Z"
+}

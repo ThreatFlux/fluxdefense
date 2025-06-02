@@ -1,0 +1,17 @@
+{
+  "uuid": "93bd9fd3-f91a-4fe9-9be9-29ad491d5fe4",
+  "path": "/lib/firmware/intel/ibt-12-16.ddc.zst",
+  "size": 27,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.560541424Z",
+  "sha256_hash": "6fa412b2976441d010cf959b17d6b515626806865c3ee44e93ce26930279a231",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.195510982Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "bfee0537-5048-4d03-881e-bd75153784b6",
+  "path": "/lib/systemd/system/bluetooth.target",
+  "size": 435,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.510779317Z",
+  "sha256_hash": "f78ff493febf43aac45f4c47a6a7c0686eeb390d29148ffe3f0ccb1dce713e71",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.106669782Z"
+}

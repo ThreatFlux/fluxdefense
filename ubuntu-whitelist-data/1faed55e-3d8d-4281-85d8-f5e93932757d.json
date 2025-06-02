@@ -1,0 +1,15 @@
+{
+  "uuid": "1faed55e-3d8d-4281-85d8-f5e93932757d",
+  "path": "/usr/lib/llvm-18/bin/llvm-xray",
+  "size": 368048,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.078486846Z",
+  "sha256_hash": "9aba79a45b9e40f6e2d6092d4506984e23516fe2f06df9844e629f9295d3fbbf",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.895454082Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "69d6c5de-0127-4cfb-b0af-dd236e56a183",
+  "path": "/lib/firmware/amdgpu/psp_14_0_2_sos.bin.zst",
+  "size": 184633,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.413543460Z",
+  "sha256_hash": "90cda8631de4090daad4fe4e4d08a46067f98eb4d874c13a54be5d3a143ef5f8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.896912704Z"
+}

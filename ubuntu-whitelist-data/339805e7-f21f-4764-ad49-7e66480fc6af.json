@@ -1,0 +1,15 @@
+{
+  "uuid": "339805e7-f21f-4764-ad49-7e66480fc6af",
+  "path": "/usr/lib/pppd/2.4.9/minconn.so",
+  "size": 14488,
+  "modified": "2024-04-03T17:56:59Z",
+  "created": "2025-05-09T05:07:25.896805884Z",
+  "sha256_hash": "a14cef344046812aa2ef5c015f2468f7ffac4df4a2d9f09d6ad7534b8fc17f35",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.351303338Z"
+}

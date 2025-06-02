@@ -1,0 +1,15 @@
+{
+  "uuid": "bff9fa95-1efd-4b97-8f8e-3d370d725543",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/INIS-CYRILLIC.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.669656753Z",
+  "sha256_hash": "424e41aa302a436c7557b5a673637c0d0cd8357753049959fbacc61e2d2ae1b7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.475096565Z"
+}

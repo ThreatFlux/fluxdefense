@@ -1,0 +1,15 @@
+{
+  "uuid": "66f63129-686f-475d-a948-5ebecaee2cb1",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstcdio.so",
+  "size": 22776,
+  "modified": "2024-03-31T08:55:07Z",
+  "created": "2025-05-09T05:09:27.687947194Z",
+  "sha256_hash": "6022fe9145efb7f9c375608cf62960182872c12a74a511886ec4ae105a632eb7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.903921320Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "c3b83a77-550f-47a2-8886-19e02da0744b",
+  "path": "/lib/google-cloud-sdk/lib/surface/org_policies/describe_custom_constraint.py",
+  "size": 2172,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.701932464Z",
+  "sha256_hash": "f1f5a35be3c40150203bee92e6ca065f97b72706afd86c42a8890f603156d422",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.051886989Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "0c63fc30-3bd6-4a78-b491-50439f3a5cfc",
+  "path": "/lib/x86_64-linux-gnu/samba/libserver-id-db-samba4.so.0",
+  "size": 14568,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.086635130Z",
+  "sha256_hash": "6ee11153d1833b671635b7827bc049822a7fc37a131d7933f84ed262b5fa72e6",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.434022223Z"
+}

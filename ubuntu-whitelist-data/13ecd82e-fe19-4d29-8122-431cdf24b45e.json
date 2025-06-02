@@ -1,0 +1,17 @@
+{
+  "uuid": "13ecd82e-fe19-4d29-8122-431cdf24b45e",
+  "path": "/lib/x86_64-linux-gnu/perl5/5.38/Net/SSLeay.pod",
+  "size": 415141,
+  "modified": "2024-01-04T22:41:01Z",
+  "created": "2025-05-09T05:07:36.881638258Z",
+  "sha256_hash": "78edbf130843b78b0a721bdf69e32cd2900822c97e6df1fe368b11cdc2b17d66",
+  "file_type": {
+    "Other": "pod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.342881226Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "0f6ac58d-a38e-411a-9322-88006f9ce64d",
+  "path": "/usr/lib/firmware/iwlwifi-gl-c0-fm-c0.pnvm.zst",
+  "size": 47906,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.626540510Z",
+  "sha256_hash": "e885cd5b491c953ac9588815991bf8b4d2d01e63e4b851858c1a6832fac7967c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.691756794Z"
+}

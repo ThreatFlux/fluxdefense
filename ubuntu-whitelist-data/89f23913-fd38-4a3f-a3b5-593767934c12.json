@@ -1,0 +1,17 @@
+{
+  "uuid": "89f23913-fd38-4a3f-a3b5-593767934c12",
+  "path": "/usr/lib/python3.12/test/decimaltestdata/remainderNear.decTest",
+  "size": 25018,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.997551697Z",
+  "sha256_hash": "7b20f99cb0c19b75b6c84c78f9e75c381dea9b8a2b5264019b2fd0f6d737872f",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.931517630Z"
+}

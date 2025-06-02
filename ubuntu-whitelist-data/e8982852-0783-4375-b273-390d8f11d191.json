@@ -1,0 +1,17 @@
+{
+  "uuid": "e8982852-0783-4375-b273-390d8f11d191",
+  "path": "/lib/firmware/mediatek/WIFI_RAM_CODE_MT7922_1.bin.zst",
+  "size": 923972,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.673539859Z",
+  "sha256_hash": "2f819b9f3588ad63c35a984465b3a8fec597d106c3cbf485ece4bc1a086ae2bd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.029841582Z"
+}

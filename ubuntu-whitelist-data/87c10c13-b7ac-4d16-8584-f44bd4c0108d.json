@@ -1,0 +1,15 @@
+{
+  "uuid": "87c10c13-b7ac-4d16-8584-f44bd4c0108d",
+  "path": "/usr/lib/python3/dist-packages/duplicity/backends/_cf_cloudfiles.py",
+  "size": 3920,
+  "modified": "2025-02-15T08:51:42Z",
+  "created": "2025-05-09T05:07:26.868791052Z",
+  "sha256_hash": "f463b9f371321fb568808e753d3a6342796388c3948a8671ca0bf12a18aab578",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.654497109Z"
+}

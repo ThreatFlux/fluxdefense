@@ -1,0 +1,17 @@
+{
+  "uuid": "2159bee2-153b-4d1d-8049-e18c2904a4cb",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/ThrowKeywordMissingCheck.h",
+  "size": 1558,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "84a69939c52a4797c21ac17361e6704d0decad694bc3eca1e4ae74d57b4f92fb",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.897351033Z"
+}

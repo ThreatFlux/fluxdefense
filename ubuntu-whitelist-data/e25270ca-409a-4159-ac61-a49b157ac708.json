@@ -1,0 +1,17 @@
+{
+  "uuid": "e25270ca-409a-4159-ac61-a49b157ac708",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/performance/InefficientStringConcatenationCheck.h",
+  "size": 1601,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "23b1234db88c83a2025b2c7620f29ccf13929714b028ce64b70c8da18c8ec4a6",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.280296992Z"
+}

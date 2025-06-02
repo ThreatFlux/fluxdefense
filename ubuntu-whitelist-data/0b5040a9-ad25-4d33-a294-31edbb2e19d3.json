@@ -1,0 +1,17 @@
+{
+  "uuid": "0b5040a9-ad25-4d33-a294-31edbb2e19d3",
+  "path": "/lib/x86_64-linux-gnu/libxcb-shape.so.0.0.0",
+  "size": 14536,
+  "modified": "2024-04-18T14:21:22Z",
+  "created": "2025-05-09T05:07:35.149664688Z",
+  "sha256_hash": "370c60dd84cfe5f8517866b573ccbaf2b3fd97bd980f427f3bbb3dbc9288369e",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.333519484Z"
+}

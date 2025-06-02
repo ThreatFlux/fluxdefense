@@ -1,0 +1,17 @@
+{
+  "uuid": "5ed9783e-cc83-416b-a20b-f770a03857a3",
+  "path": "/lib/llvm-18/include/clang/Basic/AttrKinds.h",
+  "size": 929,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.524533647Z",
+  "sha256_hash": "75359af41be814a972ad768b74e3386f9529aaeb05f68d3476dc15bf5b6b10a5",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.087156168Z"
+}

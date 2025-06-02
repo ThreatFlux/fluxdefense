@@ -1,0 +1,17 @@
+{
+  "uuid": "ea0e66df-a9a9-4e58-97a6-5dde42370b85",
+  "path": "/lib/google-cloud-sdk/lib/third_party/packaging/py.typed",
+  "size": 0,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.111942489Z",
+  "sha256_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "file_type": {
+    "Other": "typed"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.982990735Z"
+}

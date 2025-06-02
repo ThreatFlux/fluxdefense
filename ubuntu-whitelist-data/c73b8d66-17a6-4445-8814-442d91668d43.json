@@ -1,0 +1,17 @@
+{
+  "uuid": "c73b8d66-17a6-4445-8814-442d91668d43",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-imgrea.ali",
+  "size": 2281,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.139343925Z",
+  "sha256_hash": "e91a0c334fdeb5fe236c78164f4400eb874610935e698fc8c9e6e79007aaef1d",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.846097271Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "5d10d654-3be8-4fb9-b8b7-d56de04e7c71",
+  "path": "/usr/sbin/klockstat-bpfcc",
+  "size": 13356,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "b5837fde55eb0c1189f3a797c14a0fd5e6e6d340f4be7244e723393bf428f7a6",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.179138221Z"
+}

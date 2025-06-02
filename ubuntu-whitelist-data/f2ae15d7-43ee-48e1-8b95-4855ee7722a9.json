@@ -1,0 +1,17 @@
+{
+  "uuid": "f2ae15d7-43ee-48e1-8b95-4855ee7722a9",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-hp5400.so.1.2.1",
+  "size": 108888,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.143634260Z",
+  "sha256_hash": "846b6bf457d7cc2a8bc386f6a43b203fd0d51a117d0b9931372e9ed8222b9746",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.774154096Z"
+}

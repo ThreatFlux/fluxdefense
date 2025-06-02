@@ -1,0 +1,17 @@
+{
+  "uuid": "93922f54-5140-474b-a97c-a63f2697601f",
+  "path": "/usr/lib/google-cloud-sdk/.install/core-nix.snapshot.json",
+  "size": 1145,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.312922087Z",
+  "sha256_hash": "6ae03d8a315b00b1fee5c3790c10461c917d2c80d79bef017c335c11a2282ca3",
+  "file_type": {
+    "Other": "json"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.544363528Z"
+}

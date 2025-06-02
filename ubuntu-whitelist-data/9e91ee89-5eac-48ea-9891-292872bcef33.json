@@ -1,0 +1,15 @@
+{
+  "uuid": "9e91ee89-5eac-48ea-9891-292872bcef33",
+  "path": "/lib/llvm-18/lib/libLLVMDiff.a",
+  "size": 102878,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.876463166Z",
+  "sha256_hash": "9941e6a8b2bba7c0d891bdaf05d92b1d02dc8791ceaa989e77aa83fce3bdadf5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:40.491169915Z"
+}

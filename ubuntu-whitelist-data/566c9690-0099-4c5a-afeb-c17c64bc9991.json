@@ -1,0 +1,17 @@
+{
+  "uuid": "566c9690-0099-4c5a-afeb-c17c64bc9991",
+  "path": "/lib/firmware/emi62/spdif.fw.zst",
+  "size": 10955,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.530541840Z",
+  "sha256_hash": "aac1660a127a02662bbbd47bd9cf129af1b457ca190e44622ee42e7b9aabd24b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.869489514Z"
+}

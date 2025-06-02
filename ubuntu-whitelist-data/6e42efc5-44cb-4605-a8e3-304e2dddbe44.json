@@ -1,0 +1,17 @@
+{
+  "uuid": "6e42efc5-44cb-4605-a8e3-304e2dddbe44",
+  "path": "/opt/google/chrome/chrome",
+  "size": 262053080,
+  "modified": "2025-05-26T20:54:34Z",
+  "created": "2025-05-27T21:53:44.582471771Z",
+  "sha256_hash": "d9d98860805d0d23f33e1feed143786dbc6ecbec5613c68af3342a845aa5250a",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:43.524413622Z"
+}

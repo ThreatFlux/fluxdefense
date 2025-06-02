@@ -1,0 +1,17 @@
+{
+  "uuid": "8c36395c-1410-4cef-867d-94a46a058f2c",
+  "path": "/lib/firmware/nvidia/gp107/gr/gpccs_sig.bin.zst",
+  "size": 111,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.940536161Z",
+  "sha256_hash": "8fecc86b37017c1290e2de0aa1e52fee07ff5621610a47beb8884ed343d068fb",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.443162596Z"
+}

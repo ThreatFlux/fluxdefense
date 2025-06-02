@@ -1,0 +1,17 @@
+{
+  "uuid": "c18ed203-90e1-499e-a0f9-70ef7148eb2d",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-canon_pp.so.1.2.1",
+  "size": 72048,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.130634458Z",
+  "sha256_hash": "e7f24586a9c571f1c7e53df9b85047cb58778139931164142947ec7214cee9e6",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.757220128Z"
+}

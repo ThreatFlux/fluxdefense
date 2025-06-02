@@ -1,0 +1,17 @@
+{
+  "uuid": "0938f6d8-b8e3-49f3-a57b-2e0bc9b34697",
+  "path": "/usr/lib/x86_64-linux-gnu/libtheoradec.so.1.1.4",
+  "size": 117040,
+  "modified": "2024-03-31T02:18:19Z",
+  "created": "2025-05-09T05:07:32.318707888Z",
+  "sha256_hash": "b4abb3213bb79f24fb29831d1d44878b113b53ac163c9ba065b393d726b994d7",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.289641496Z"
+}

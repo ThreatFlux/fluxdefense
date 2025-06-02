@@ -1,0 +1,17 @@
+{
+  "uuid": "1fadb784-a94c-43b7-86d9-f568f58ee830",
+  "path": "/usr/lib/x86_64-linux-gnu/libabsl_bad_optional_access.so.20220623.0.0",
+  "size": 14576,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.938492440Z",
+  "sha256_hash": "5e287863dcdf5703b04fc8ecd4198ce64281dc6bf42571676c702dd53d1cbbdc",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.979454398Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "7218a0cc-88fe-491c-a872-df40087b05c2",
+  "path": "/sbin/lvm",
+  "size": 3156712,
+  "modified": "2024-11-27T19:06:49Z",
+  "created": "2025-05-09T05:56:54.626585473Z",
+  "sha256_hash": "7e2299bed497407342a72d00099598e3118e9c9adcece207f0516200cdeadef3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.110888927Z"
+}

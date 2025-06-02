@@ -1,0 +1,17 @@
+{
+  "uuid": "bbccb242-baac-4897-9dab-94b499debd04",
+  "path": "/lib/x86_64-linux-gnu/samba/libldb-tdb-int-samba4.so.0",
+  "size": 22832,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.062635496Z",
+  "sha256_hash": "4a7af4ea50af907a449af4898652ef6bf3b09fa3764f9dc38a031ec96664cd16",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.408908057Z"
+}

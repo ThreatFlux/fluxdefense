@@ -1,0 +1,15 @@
+{
+  "uuid": "0f4664e3-1376-4b1e-af31-893c404147cc",
+  "path": "/usr/bin/sbattach",
+  "size": 23080,
+  "modified": "2024-04-08T14:49:32Z",
+  "created": "2025-05-09T05:07:20.404889688Z",
+  "sha256_hash": "00fdee4c2b464062751f0807d20fcf8d2f30733df018137d833a396eaf859a7c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.018852516Z"
+}

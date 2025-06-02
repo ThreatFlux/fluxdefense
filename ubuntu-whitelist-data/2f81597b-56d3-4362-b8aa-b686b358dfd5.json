@@ -1,0 +1,17 @@
+{
+  "uuid": "2f81597b-56d3-4362-b8aa-b686b358dfd5",
+  "path": "/usr/lib/x86_64-linux-gnu/sasl2/liblogin.so.2.0.25",
+  "size": 22904,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T05:07:37.177633741Z",
+  "sha256_hash": "ec151451cec1e289245d7b4b72873b7602f71afee68914a48317d09cb786fd82",
+  "file_type": {
+    "Other": "25"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.984396088Z"
+}

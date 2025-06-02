@@ -1,0 +1,15 @@
+{
+  "uuid": "ffbcae1a-3c41-4014-bc01-f6c24c97a080",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_comment.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.333631361Z",
+  "sha256_hash": "dbf57af7a39edda761ced320a1089e4d144d3134ec85ee5b03a591e131dde3c1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.664140121Z"
+}

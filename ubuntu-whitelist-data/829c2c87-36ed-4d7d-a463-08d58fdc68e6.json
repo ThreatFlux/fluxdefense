@@ -1,0 +1,15 @@
+{
+  "uuid": "829c2c87-36ed-4d7d-a463-08d58fdc68e6",
+  "path": "/usr/lib/python3.12/lib-dynload/_ssl.cpython-312-x86_64-linux-gnu.so",
+  "size": 225488,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:11:00.745526806Z",
+  "sha256_hash": "1b1d1fe60f98cfd7404255d73e43b5a5e9b7ad7b8c5edbbcda6c5328df843992",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.950948821Z"
+}

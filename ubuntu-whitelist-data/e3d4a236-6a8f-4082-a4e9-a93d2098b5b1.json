@@ -1,0 +1,17 @@
+{
+  "uuid": "e3d4a236-6a8f-4082-a4e9-a93d2098b5b1",
+  "path": "/usr/lib/firmware/ath11k/QCA6390/hw2.0/amss.bin.zst",
+  "size": 1455085,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.459542823Z",
+  "sha256_hash": "31715ae888dc9c48589af3b7d3aecef0b5da3a8fabbd77da3904374a7b63c189",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:58.217460907Z"
+}

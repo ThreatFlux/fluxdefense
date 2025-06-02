@@ -1,0 +1,17 @@
+{
+  "uuid": "480d3457-6c1d-46a4-b0db-c5465bc66c28",
+  "path": "/lib/systemd/system/cloud-init-hotplugd.service",
+  "size": 1069,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.233037137Z",
+  "sha256_hash": "3e69d19601ba4279d17fa41c269d3bc9f13e468774a0ab651ab337adf5fc0711",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.102453456Z"
+}

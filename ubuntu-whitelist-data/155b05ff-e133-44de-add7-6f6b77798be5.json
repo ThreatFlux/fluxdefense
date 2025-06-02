@@ -1,0 +1,15 @@
+{
+  "uuid": "155b05ff-e133-44de-add7-6f6b77798be5",
+  "path": "/bin/lsblk",
+  "size": 149896,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:20.125893945Z",
+  "sha256_hash": "81f5619264c5e6a949a3ef40f22bfe146e3936b3262596fd1b97abc755ca8f5e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.514159924Z"
+}

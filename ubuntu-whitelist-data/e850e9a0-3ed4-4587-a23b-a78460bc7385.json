@@ -1,0 +1,17 @@
+{
+  "uuid": "e850e9a0-3ed4-4587-a23b-a78460bc7385",
+  "path": "/usr/lib/x86_64-linux-gnu/libavahi-client.so.3.2.9",
+  "size": 72016,
+  "modified": "2024-04-05T10:57:26Z",
+  "created": "2025-05-09T05:07:29.182755741Z",
+  "sha256_hash": "ca2a3de74138896fae7aa14d7daa4a051886417a638a6619c6f16a2e620ad8fa",
+  "file_type": {
+    "Other": "9"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.746522497Z"
+}

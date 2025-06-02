@@ -1,0 +1,15 @@
+{
+  "uuid": "467a2dda-b3b1-4128-99e2-52554b84e023",
+  "path": "/sbin/install-sgmlcatalog",
+  "size": 4551,
+  "modified": "2022-10-06T18:03:38Z",
+  "created": "2025-05-09T05:07:38.271617047Z",
+  "sha256_hash": "d6c48b4e38a4b715c803c866ad129cae1f57031aead230070b9c13f650d2ae3f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.957973946Z"
+}

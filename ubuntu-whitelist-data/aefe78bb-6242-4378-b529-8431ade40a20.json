@@ -1,0 +1,17 @@
+{
+  "uuid": "aefe78bb-6242-4378-b529-8431ade40a20",
+  "path": "/lib/x86_64-linux-gnu/libflite_cmu_grapheme_lex.so.2.2",
+  "size": 2234600,
+  "modified": "2024-04-07T07:12:09Z",
+  "created": "2025-05-09T05:09:24.092002078Z",
+  "sha256_hash": "50b0f5bf2d09823e1285105a3015d45de322e42e73f00feb2387e0c9d6a45699",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.359864745Z"
+}

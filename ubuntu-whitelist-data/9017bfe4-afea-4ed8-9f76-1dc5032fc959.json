@@ -1,0 +1,17 @@
+{
+  "uuid": "9017bfe4-afea-4ed8-9f76-1dc5032fc959",
+  "path": "/usr/lib/firmware/cis/SW_555_SER.cis.zst",
+  "size": 132,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.510542117Z",
+  "sha256_hash": "812cafba856cb3587279ee52c02b91300d3c71b5bfc0875760f55e6b290b1bf9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:57.029396050Z"
+}

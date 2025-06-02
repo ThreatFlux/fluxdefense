@@ -1,0 +1,17 @@
+{
+  "uuid": "015760ea-8518-4e17-9bda-041af321da26",
+  "path": "/usr/lib/systemd/system/initrd-root-fs.target",
+  "size": 571,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "46f23915c1eb438e404c61fff69440b36d0eb9fc637d476190983e08c4899fee",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.455685601Z"
+}

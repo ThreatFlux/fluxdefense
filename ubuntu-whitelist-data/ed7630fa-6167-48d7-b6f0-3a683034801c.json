@@ -1,0 +1,17 @@
+{
+  "uuid": "ed7630fa-6167-48d7-b6f0-3a683034801c",
+  "path": "/lib/llvm-18/include/clang/Sema/ParsedAttr.h",
+  "size": 42846,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.548533331Z",
+  "sha256_hash": "ce382aa6206963f614fcf77cfc454c127fb6e15e14da54a4edf63a809f1015f9",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.053888548Z"
+}

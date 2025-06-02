@@ -1,0 +1,15 @@
+{
+  "uuid": "a4c510d6-fd8e-4f43-a87b-3484aea86bc7",
+  "path": "/lib/x86_64-linux-gnu/rhythmbox/plugins/rblirc/librblirc.so",
+  "size": 22688,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:37.001636427Z",
+  "sha256_hash": "6a422df9b85c86408ec748b4ce4dc3b7add3925652dad96bf8cde8b9a16d87a5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.318450597Z"
+}

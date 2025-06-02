@@ -1,0 +1,15 @@
+{
+  "uuid": "46452422-18bb-40a3-a306-d49c181e2241",
+  "path": "/usr/sbin/iwevent",
+  "size": 22760,
+  "modified": "2024-03-31T08:33:19Z",
+  "created": "2025-05-09T05:07:38.353615796Z",
+  "sha256_hash": "2b83bac91dbf5a7b00c3251ac172d9b83e8956eebf1970045939053593cc8122",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.244056755Z"
+}

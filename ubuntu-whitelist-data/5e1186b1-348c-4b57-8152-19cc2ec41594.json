@@ -1,0 +1,17 @@
+{
+  "uuid": "5e1186b1-348c-4b57-8152-19cc2ec41594",
+  "path": "/usr/lib/x86_64-linux-gnu/libxcb-sync.so.1.0.0",
+  "size": 35032,
+  "modified": "2024-04-18T14:21:22Z",
+  "created": "2025-05-09T05:07:35.149664688Z",
+  "sha256_hash": "27c2d6dddde34146904c3c64cfcc885a14a351636d6611877368a48e29355c39",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.830195606Z"
+}

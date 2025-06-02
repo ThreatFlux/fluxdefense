@@ -1,0 +1,17 @@
+{
+  "uuid": "effacaab-9961-4072-aa42-e720751d102f",
+  "path": "/lib/firmware/nvidia/tegra210/xusb.bin.zst",
+  "size": 73797,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.942536133Z",
+  "sha256_hash": "206d8ea2f9fd946325dbd8a744f7a401c4137d5785bb97a1b3342880381edf7b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.442289848Z"
+}

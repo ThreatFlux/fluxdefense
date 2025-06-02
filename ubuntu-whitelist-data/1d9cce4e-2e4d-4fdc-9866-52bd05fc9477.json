@@ -1,0 +1,15 @@
+{
+  "uuid": "1d9cce4e-2e4d-4fdc-9866-52bd05fc9477",
+  "path": "/bin/chfn",
+  "size": 72792,
+  "modified": "2024-05-30T14:52:35Z",
+  "created": "2025-05-09T05:07:19.096909647Z",
+  "sha256_hash": "9d8e1c2f1c89f808206c65982fa058369de1af7be19ee325a2f3e95c48ab8052",
+  "file_type": "Executable",
+  "permissions": 35309,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.864579410Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "09b70aa9-3f53-472e-a1a4-219fd5d77e7f",
+  "path": "/lib/x86_64-linux-gnu/libelf-0.190.so",
+  "size": 121560,
+  "modified": "2025-03-17T16:03:58Z",
+  "created": "2025-05-09T05:09:47.790640369Z",
+  "sha256_hash": "248c989360783cdc52f3659921de852c2efcc2097253ce58e34443f856412814",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.373699642Z"
+}

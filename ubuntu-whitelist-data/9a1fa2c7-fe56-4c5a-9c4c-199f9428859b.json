@@ -1,0 +1,17 @@
+{
+  "uuid": "9a1fa2c7-fe56-4c5a-9c4c-199f9428859b",
+  "path": "/usr/lib/firmware/intel/vsc/ivsc_pkg_hi556_0.bin.zst",
+  "size": 358305,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.573541244Z",
+  "sha256_hash": "aa82e9454bc48bcef58584886fd400df37d77efa0cbecfe65f9943675dd11d4a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.996377087Z"
+}

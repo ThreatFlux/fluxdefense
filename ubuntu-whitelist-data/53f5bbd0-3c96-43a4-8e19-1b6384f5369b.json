@@ -1,0 +1,15 @@
+{
+  "uuid": "53f5bbd0-3c96-43a4-8e19-1b6384f5369b",
+  "path": "/lib/x86_64-linux-gnu/security/pam_stress.so",
+  "size": 18584,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:37.206633299Z",
+  "sha256_hash": "afe15a2f2aeb7e7452b723312f257909ea7c146ea643a96f3ef6ad587a251a17",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.373061780Z"
+}

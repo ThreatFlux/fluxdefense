@@ -1,0 +1,15 @@
+{
+  "uuid": "22d2b3a7-18b7-4970-840d-d4f1e88d8414",
+  "path": "/usr/lib/x86_64-linux-gnu/spa-0.2/support/libspa-journal.so",
+  "size": 18672,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.449855783Z",
+  "sha256_hash": "cbf520532419d812f198a2c897d39f81006190f25fabd1b73d9a2b406ab34510",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:13.913423303Z"
+}

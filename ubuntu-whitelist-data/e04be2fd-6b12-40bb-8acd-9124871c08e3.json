@@ -1,0 +1,17 @@
+{
+  "uuid": "e04be2fd-6b12-40bb-8acd-9124871c08e3",
+  "path": "/usr/lib/grub/x86_64-efi/mmap.mod",
+  "size": 9344,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.815708353Z",
+  "sha256_hash": "5c9992ff6cd9074221553fee56d29ed148ad713d57789d453726edcf94f9f5c9",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.477998551Z"
+}

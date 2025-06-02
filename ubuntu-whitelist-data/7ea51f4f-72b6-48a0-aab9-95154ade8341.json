@@ -1,0 +1,15 @@
+{
+  "uuid": "7ea51f4f-72b6-48a0-aab9-95154ade8341",
+  "path": "/usr/bin/yara",
+  "size": 41224,
+  "modified": "2024-04-01T04:52:41Z",
+  "created": "2025-05-26T17:20:33.824244084Z",
+  "sha256_hash": "556283bf37712ed645552d5e84330a6c0c31d9000bd799dd375528bdc51245c3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.630873228Z"
+}

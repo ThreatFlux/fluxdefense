@@ -1,0 +1,17 @@
+{
+  "uuid": "1d1c158c-6b47-42e9-895c-3c7e55fe604c",
+  "path": "/usr/lib/x86_64-linux-gnu/libxcb-xfixes.so.0.0.0",
+  "size": 35016,
+  "modified": "2024-04-18T14:21:22Z",
+  "created": "2025-05-09T05:07:35.150664672Z",
+  "sha256_hash": "e59ef497333a6ede2096a0bd9eeb6ec4023374c16d3a8d7511d1251fb7f9b9df",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.451579799Z"
+}

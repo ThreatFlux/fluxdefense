@@ -1,0 +1,15 @@
+{
+  "uuid": "002d0f15-7ae8-404d-be8c-dcc0e98e15ae",
+  "path": "/sbin/tipc",
+  "size": 92688,
+  "modified": "2024-03-31T09:00:13Z",
+  "created": "2025-05-09T05:07:38.446614376Z",
+  "sha256_hash": "396e543fc53afbbe434f542ccf3e783e58f690350f82f79c22e3810788f84e9d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.970694706Z"
+}

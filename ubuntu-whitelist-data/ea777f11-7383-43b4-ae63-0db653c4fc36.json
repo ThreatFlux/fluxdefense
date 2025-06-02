@@ -1,0 +1,15 @@
+{
+  "uuid": "ea777f11-7383-43b4-ae63-0db653c4fc36",
+  "path": "/bin/ntfsinfo",
+  "size": 55688,
+  "modified": "2024-04-08T14:46:29Z",
+  "created": "2025-05-09T05:07:20.245892114Z",
+  "sha256_hash": "009a6d6fc2c9dbf74839327ffdb5f35038c52dd82a85e59071e1c05a0643fad7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.518865445Z"
+}

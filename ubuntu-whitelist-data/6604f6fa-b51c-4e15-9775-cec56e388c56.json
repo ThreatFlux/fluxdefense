@@ -1,0 +1,15 @@
+{
+  "uuid": "6604f6fa-b51c-4e15-9775-cec56e388c56",
+  "path": "/lib/x86_64-linux-gnu/rygel-2.8/plugins/librygel-external.so",
+  "size": 190936,
+  "modified": "2024-03-31T08:21:52Z",
+  "created": "2025-05-09T05:07:37.020636137Z",
+  "sha256_hash": "7d11037a2d5a67183ec3da1764fd32b11744ca59a19140c975137bac20e6ee7c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.377153235Z"
+}

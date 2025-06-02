@@ -1,0 +1,15 @@
+{
+  "uuid": "1215904e-d335-4587-8a04-b7449e3c9dd0",
+  "path": "/usr/lib/systemd/systemd-machined",
+  "size": 133640,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:56:53.646596479Z",
+  "sha256_hash": "e7f5a2e9b65d6b2f9cb00f122c7f866162e1a58efba7497d2ceb48cb760e6c67",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.554581079Z"
+}

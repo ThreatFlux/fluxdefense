@@ -1,0 +1,17 @@
+{
+  "uuid": "d05d9bc3-9c55-4ba3-8054-e13bcd7f7998",
+  "path": "/lib/x86_64-linux-gnu/libpython3.12.so.1.0",
+  "size": 9055112,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:10:58.979553762Z",
+  "sha256_hash": "cc413b1ef77a8b92e4944a69e756ff6623bbf006beb47206bad8d391f479e1cb",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.170546212Z"
+}

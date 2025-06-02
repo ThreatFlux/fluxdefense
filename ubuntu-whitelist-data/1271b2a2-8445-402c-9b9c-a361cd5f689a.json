@@ -1,0 +1,15 @@
+{
+  "uuid": "1271b2a2-8445-402c-9b9c-a361cd5f689a",
+  "path": "/bin/debugedit",
+  "size": 65912,
+  "modified": "2024-04-04T15:34:35Z",
+  "created": "2025-05-29T11:15:44.676352753Z",
+  "sha256_hash": "e8d231f79b150817bbf5fed8256b1ec64ea0d81f0346981980a6be07b7e9e320",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.057659125Z"
+}

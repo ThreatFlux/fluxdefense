@@ -1,0 +1,17 @@
+{
+  "uuid": "cff5263f-cf36-4453-8553-1bcc40e40438",
+  "path": "/usr/lib/grub/x86_64-efi/syslinuxcfg.mod",
+  "size": 29976,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "ce8bfe7b2d663aec0137e49ba31fdef86696f0846a2813b4a6c45e8129d7a17e",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.462687513Z"
+}

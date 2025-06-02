@@ -1,0 +1,17 @@
+{
+  "uuid": "1ee2db5e-9a0f-49cf-8eee-d49e59142e4c",
+  "path": "/lib/firmware/amdgpu/carrizo_pfp.bin.zst",
+  "size": 6920,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.389543793Z",
+  "sha256_hash": "e7648d19cb0fab9f567f2b0efda9567f6d7c29a21949aa0b775d2fc57ccc4423",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.890142544Z"
+}

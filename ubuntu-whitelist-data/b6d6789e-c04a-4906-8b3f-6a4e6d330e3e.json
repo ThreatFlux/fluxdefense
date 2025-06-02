@@ -1,0 +1,17 @@
+{
+  "uuid": "b6d6789e-c04a-4906-8b3f-6a4e6d330e3e",
+  "path": "/lib/grub/x86_64-efi/hfspluscomp.mod",
+  "size": 4352,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.811708415Z",
+  "sha256_hash": "efe6a6b16899ef6240eec51d84c9088912314aadcba66211c97c7101c65fa86b",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.054671928Z"
+}

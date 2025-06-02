@@ -1,0 +1,17 @@
+{
+  "uuid": "dd0c30c8-25a9-470c-bf4d-20563ccd2e47",
+  "path": "/lib/libflimage.so.2.1.3",
+  "size": 247528,
+  "modified": "2024-03-31T01:56:29Z",
+  "created": "2025-05-29T11:16:22.706830907Z",
+  "sha256_hash": "d2ba6797433ecbc515237afdfdfb03afcac8cf328a8f5a8283aaeabc2b0e3f07",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.271157822Z"
+}

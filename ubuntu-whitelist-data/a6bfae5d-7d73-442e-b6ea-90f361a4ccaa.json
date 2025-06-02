@@ -1,0 +1,17 @@
+{
+  "uuid": "a6bfae5d-7d73-442e-b6ea-90f361a4ccaa",
+  "path": "/lib/firmware/ueagle-atm/DSP9p.bin.zst",
+  "size": 142737,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.080534222Z",
+  "sha256_hash": "adaca4b6d868877f3f6c29bd04d750907c5a5542e7bbcd21c989c694a75c7b4e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.332687851Z"
+}

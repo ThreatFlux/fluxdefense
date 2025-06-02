@@ -1,0 +1,15 @@
+{
+  "uuid": "49f5964b-435e-4e2e-966d-ac3c5d15fe9e",
+  "path": "/bin/gpg-connect-agent",
+  "size": 89400,
+  "modified": "2025-03-28T15:23:49Z",
+  "created": "2025-05-09T05:11:24.065170844Z",
+  "sha256_hash": "b26b8235bf0a7a0b7cfc89dd178af9113fdd084f04eac238aee5dba7a25b2128",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.390548145Z"
+}

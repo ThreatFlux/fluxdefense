@@ -1,0 +1,17 @@
+{
+  "uuid": "775c207d-310a-4fef-9bcc-a1d67362e76d",
+  "path": "/usr/lib/modules/6.11.0-25-generic/kernel/crypto/cast_common.ko.zst",
+  "size": 5953,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.098459849Z",
+  "sha256_hash": "f0af8dfb408321de65b677a414b0f1a5bfced0e7e76277342b4f16aa441b2134",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.032475609Z"
+}

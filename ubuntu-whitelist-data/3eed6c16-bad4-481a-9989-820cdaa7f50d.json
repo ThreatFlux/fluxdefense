@@ -1,0 +1,15 @@
+{
+  "uuid": "3eed6c16-bad4-481a-9989-820cdaa7f50d",
+  "path": "/bin/grdctl",
+  "size": 72072,
+  "modified": "2024-07-11T15:32:56Z",
+  "created": "2025-05-09T05:07:19.732899942Z",
+  "sha256_hash": "07bff9487f46c6becd2230917b362b1bb2066424abd458f513a4eb7ef6f80159",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.824476661Z"
+}

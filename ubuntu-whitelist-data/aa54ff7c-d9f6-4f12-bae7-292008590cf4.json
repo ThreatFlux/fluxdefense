@@ -1,0 +1,17 @@
+{
+  "uuid": "aa54ff7c-d9f6-4f12-bae7-292008590cf4",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/sys/ucontext.ph",
+  "size": 3578,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.560590686Z",
+  "sha256_hash": "558e9a16a9984ddec73e43b9f481aabda6f89d9a3e221cc9ebe59b339eaec6c3",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.572489035Z"
+}

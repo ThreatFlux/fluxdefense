@@ -1,0 +1,17 @@
+{
+  "uuid": "56c39084-d29a-4d17-8a4f-0d9bff78fedb",
+  "path": "/usr/lib/firmware/intel/fw_sst_0f28.bin.zst",
+  "size": 142150,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.551541549Z",
+  "sha256_hash": "13aee44e38d4b6d2565a0331cc01bc35859e2b314a366d19a74795b5c388d510",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.606284623Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "146490c7-c639-42e8-9615-6d34146fd026",
+  "path": "/lib/x86_64-linux-gnu/gconv/IBM1162.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.627657394Z",
+  "sha256_hash": "3ff4c277d05e8adcd9d9a9479acd6edbdba941e99b286ba89f8c761965b317c1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.737275801Z"
+}

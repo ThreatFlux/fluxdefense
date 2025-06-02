@@ -1,0 +1,15 @@
+{
+  "uuid": "011bbd35-bf5f-4e7f-aa04-89f4402083c8",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/tasks/cancel_lease.py",
+  "size": 1571,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.765931377Z",
+  "sha256_hash": "1482e54b656aa2a43c34aa5bd91d131b0ee4e0f74283538961d7c1598b96fcdd",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.827058150Z"
+}

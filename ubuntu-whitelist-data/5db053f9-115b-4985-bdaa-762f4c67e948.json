@@ -1,0 +1,17 @@
+{
+  "uuid": "5db053f9-115b-4985-bdaa-762f4c67e948",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-pixma.so.1.2.1",
+  "size": 260440,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.150634153Z",
+  "sha256_hash": "70cb50ff4145877f3edcc2cd03cd0c3eede62a8106fef29b95acd7c828858789",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.258269625Z"
+}

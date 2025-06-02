@@ -1,0 +1,17 @@
+{
+  "uuid": "bc197beb-58f9-49e0-988e-2bd59b7fe1cf",
+  "path": "/lib/llvm-18/include/clang/Basic/PPCTypes.def",
+  "size": 1377,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "d7f6236ba5d217bdba175212d2685dfa36c40463f6bbc6eeec145d85d39f29d8",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.094731432Z"
+}

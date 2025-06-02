@@ -1,0 +1,15 @@
+{
+  "uuid": "b40cf30e-641f-45aa-a75d-0d467634155c",
+  "path": "/usr/sbin/readprofile",
+  "size": 22944,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.406614987Z",
+  "sha256_hash": "f362f6a9fe64ee5f452775a6e4fd910db8d92cc64f98ea0390bc57c169eb31e1",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.307753316Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "bb58254f-52ee-489a-a375-70f753c1a962",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/ChainedComparisonCheck.h",
+  "size": 1384,
+  "modified": "2024-01-24T12:45:36Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "5c7b52afc39bc829582f156101fb726fc3318ff76634503ca78a0e2761f3e9a8",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.894244287Z"
+}

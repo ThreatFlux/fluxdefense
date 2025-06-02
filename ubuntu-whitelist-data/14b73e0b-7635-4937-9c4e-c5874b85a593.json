@@ -1,0 +1,17 @@
+{
+  "uuid": "14b73e0b-7635-4937-9c4e-c5874b85a593",
+  "path": "/lib/x86_64-linux-gnu/librdf.so.0.0.0",
+  "size": 237432,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:32.063711779Z",
+  "sha256_hash": "64f65e946929b19d7516b9af09913041de1658c8a17a972eb979d6dd64cc9f8e",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.475347867Z"
+}

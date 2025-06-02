@@ -1,0 +1,17 @@
+{
+  "uuid": "2510e71a-be8a-451d-b48f-5e2fb7b6cf79",
+  "path": "/usr/lib/x86_64-linux-gnu/libdvdread.so.8.0.0",
+  "size": 129016,
+  "modified": "2024-03-31T07:47:46Z",
+  "created": "2025-05-09T05:09:27.311952933Z",
+  "sha256_hash": "5cf07e99931cbf488409e634fcffd21bb913826b0293ad03a99bf26472d3480f",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.034994985Z"
+}

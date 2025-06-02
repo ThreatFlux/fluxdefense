@@ -1,0 +1,15 @@
+{
+  "uuid": "c65d244b-8bb7-49f1-9902-c6ae224d7752",
+  "path": "/usr/lib/x86_64-linux-gnu/gio/modules/libgiolibproxy.so",
+  "size": 18584,
+  "modified": "2024-03-31T05:56:57Z",
+  "created": "2025-05-09T05:07:35.708656158Z",
+  "sha256_hash": "a9968d971b0b7c7b454fa54937b762d4ba2b7201e80b15bc0f464118b3a4ecf3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.064100706Z"
+}

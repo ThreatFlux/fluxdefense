@@ -1,0 +1,17 @@
+{
+  "uuid": "23cb92f5-1609-4dfb-8ef4-f9e8438c1fd7",
+  "path": "/usr/lib/x86_64-linux-gnu/libabsl_debugging_internal.so.20220623.0.0",
+  "size": 22792,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.938492440Z",
+  "sha256_hash": "c87455d57d7b9c8b434fd3c251899acf98073f411bf6a3caf0dd73e836cf0706",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.663997191Z"
+}

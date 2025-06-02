@@ -1,0 +1,17 @@
+{
+  "uuid": "5c65b5f7-c494-4b68-82c3-a52f9c25803a",
+  "path": "/lib/grub/x86_64-efi/loadbios.mod",
+  "size": 4632,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.813708384Z",
+  "sha256_hash": "5a5cd91c3e110646c7642b621f29bd635c2d26bc644ba2e2d59fcc5493c5c0bf",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.054340269Z"
+}

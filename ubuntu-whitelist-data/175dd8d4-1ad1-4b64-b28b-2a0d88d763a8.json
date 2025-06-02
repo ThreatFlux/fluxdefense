@@ -1,0 +1,15 @@
+{
+  "uuid": "175dd8d4-1ad1-4b64-b28b-2a0d88d763a8",
+  "path": "/lib/llvm-18/lib/libLLVMInstrumentation.a",
+  "size": 3172994,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.902462823Z",
+  "sha256_hash": "517d1e6731edba0f3cb0a642e9b905e673bd44cb7ae213307fc5e9673492f527",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.248980123Z"
+}

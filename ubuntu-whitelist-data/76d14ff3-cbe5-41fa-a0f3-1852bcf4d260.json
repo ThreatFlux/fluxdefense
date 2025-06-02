@@ -1,0 +1,17 @@
+{
+  "uuid": "76d14ff3-cbe5-41fa-a0f3-1852bcf4d260",
+  "path": "/usr/lib/systemd/system/integritysetup-pre.target",
+  "size": 487,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "da0190855ba523564df3df6dcd5bd404c3158c86979aebf5cb3aa65f2aea339d",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.461427290Z"
+}

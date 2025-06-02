@@ -1,0 +1,17 @@
+{
+  "uuid": "6df16274-5fad-4f5a-b2e3-f817b2495248",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/phonindex",
+  "size": 39068,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.497659378Z",
+  "sha256_hash": "642d5daa128c0d08828d4352b850b8c2f06d6274b8c46c157b3a635da988aa69",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.380608559Z"
+}

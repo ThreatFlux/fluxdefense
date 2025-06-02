@@ -1,0 +1,17 @@
+{
+  "uuid": "2c716b1f-8ad8-4736-b309-98939be206de",
+  "path": "/usr/lib/llvm-18/include/clang/AST/Availability.h",
+  "size": 2013,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.515533766Z",
+  "sha256_hash": "abd9e7870f1411536b8576be49bca286ad83b0561fd4a379b33a8de3614a7d70",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.349058935Z"
+}

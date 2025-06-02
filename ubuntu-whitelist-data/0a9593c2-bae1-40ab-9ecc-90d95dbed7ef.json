@@ -1,0 +1,15 @@
+{
+  "uuid": "0a9593c2-bae1-40ab-9ecc-90d95dbed7ef",
+  "path": "/bin/ldapmodify",
+  "size": 68048,
+  "modified": "2024-12-09T02:50:18Z",
+  "created": "2025-05-09T05:24:29.623989168Z",
+  "sha256_hash": "2a258db8612a2b2a3952ee00d155631278807f1e1216e6bf420c6147dbfd729b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.229090207Z"
+}

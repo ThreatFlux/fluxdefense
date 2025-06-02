@@ -1,0 +1,17 @@
+{
+  "uuid": "925bcaac-5a4f-4bf9-bf59-f173613990ce",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-rts8891.so.1.2.1",
+  "size": 182840,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.158634031Z",
+  "sha256_hash": "d96c0defc62805631059583bc8ae6832ed6d1777edf9b89709b41a4ed9a92035",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.768092369Z"
+}

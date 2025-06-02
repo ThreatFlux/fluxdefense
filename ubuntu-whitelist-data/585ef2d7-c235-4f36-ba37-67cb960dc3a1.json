@@ -1,0 +1,15 @@
+{
+  "uuid": "585ef2d7-c235-4f36-ba37-67cb960dc3a1",
+  "path": "/usr/libexec/gvfsd-google",
+  "size": 80184,
+  "modified": "2024-04-18T13:39:03Z",
+  "created": "2025-05-09T05:07:37.513628614Z",
+  "sha256_hash": "ad00f215c6c098fc9c7342a138276ab7f540e5a477f0c1a2d730e5afa1ee24b7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.113863456Z"
+}

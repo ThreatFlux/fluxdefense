@@ -1,0 +1,15 @@
+{
+  "uuid": "41971bc7-56c6-46c6-999a-6fb4f437c00d",
+  "path": "/usr/sbin/xtables-legacy-multi",
+  "size": 95176,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:38.493613659Z",
+  "sha256_hash": "38ac0252c751be1c89ebc2e2eb6a05bf1720b05eea552a1dee8380af94d72a52",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.531799206Z"
+}

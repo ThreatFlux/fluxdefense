@@ -1,0 +1,17 @@
+{
+  "uuid": "431b4740-e338-48a8-b396-26f6ffe7dc12",
+  "path": "/lib/firmware/cxgb4/t6fw-1.27.5.0.bin.zst",
+  "size": 431253,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.515542048Z",
+  "sha256_hash": "41e76e142752d871b2e5c36a44815cb6bad787d7b0b81c06b7bbbbc979609f1c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.654834073Z"
+}

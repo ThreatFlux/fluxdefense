@@ -1,0 +1,15 @@
+{
+  "uuid": "51c7d12c-8194-4ae9-b6c4-2efa4e88044d",
+  "path": "/usr/lib/llvm-18/lib/libclangToolingSyntax.a",
+  "size": 687906,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.917528472Z",
+  "sha256_hash": "71f160237a776e3344b93b0177a418c6b2cc5b743e6f0ac190643ba07c319b88",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:34.282520855Z"
+}

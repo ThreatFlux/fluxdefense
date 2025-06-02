@@ -1,0 +1,17 @@
+{
+  "uuid": "ad5d2391-3207-4500-89c7-e6cebced3b19",
+  "path": "/lib/x86_64-linux-gnu/libndr-standard.so.0.0.1",
+  "size": 3520816,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:31.649718096Z",
+  "sha256_hash": "fa7dba55ba889c1da6434526306fafea69d71cf5e54604f83480d50a1a51caa7",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.998486438Z"
+}

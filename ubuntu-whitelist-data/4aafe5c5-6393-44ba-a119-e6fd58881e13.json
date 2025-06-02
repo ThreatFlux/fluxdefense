@@ -1,0 +1,15 @@
+{
+  "uuid": "4aafe5c5-6393-44ba-a119-e6fd58881e13",
+  "path": "/lib/x86_64-linux-gnu/xtables/libebt_nflog.so",
+  "size": 14784,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.325631483Z",
+  "sha256_hash": "d1520ed78eb64a06432f36da2e5b1dc7a251c0f0b07f22c4b134d5ee4b9fb6a2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.687934045Z"
+}

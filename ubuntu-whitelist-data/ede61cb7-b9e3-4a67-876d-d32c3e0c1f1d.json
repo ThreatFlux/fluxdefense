@@ -1,0 +1,17 @@
+{
+  "uuid": "ede61cb7-b9e3-4a67-876d-d32c3e0c1f1d",
+  "path": "/usr/lib/llvm-18/lib/cmake/llvm/LLVMExports-relwithdebinfo.cmake",
+  "size": 156348,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.685465681Z",
+  "sha256_hash": "76479d2c0d89612a6589bfb8c6e060830701a0350596dabfa2736bf82aac530f",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:31.091702588Z"
+}

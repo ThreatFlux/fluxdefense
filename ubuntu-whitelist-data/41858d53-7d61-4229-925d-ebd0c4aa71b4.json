@@ -1,0 +1,17 @@
+{
+  "uuid": "41858d53-7d61-4229-925d-ebd0c4aa71b4",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/readability/AvoidUnconditionalPreprocessorIfCheck.h",
+  "size": 1459,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "3501b4d89568688e556b957d7394e1ea4150fb196085e435b316f525f6fa9f91",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.291452571Z"
+}

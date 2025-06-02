@@ -1,0 +1,17 @@
+{
+  "uuid": "4bae3ab5-fe69-45d5-ba7e-4a9d261ba50f",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/performance/NoIntToPtrCheck.h",
+  "size": 1181,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "57c62f5fd7348307ec708526dfb72682ed92b94b5f4a8eea9941fb6b2e854799",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.282749303Z"
+}

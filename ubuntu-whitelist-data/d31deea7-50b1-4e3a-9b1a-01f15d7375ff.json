@@ -1,0 +1,17 @@
+{
+  "uuid": "d31deea7-50b1-4e3a-9b1a-01f15d7375ff",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/g-shsh64.adb",
+  "size": 3311,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.070344873Z",
+  "sha256_hash": "17426874852438dc7c114376c04e560dd34b64b257364a18a4f3e2ee212eedb4",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.183681503Z"
+}

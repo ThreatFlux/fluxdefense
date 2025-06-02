@@ -1,0 +1,17 @@
+{
+  "uuid": "c05e6276-c438-4009-acc3-d94f13552853",
+  "path": "/usr/lib/firmware/radeon/RV770_smc.bin.zst",
+  "size": 6419,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.062534471Z",
+  "sha256_hash": "b790edc114eb7313e3d505eb2b38b5037f40336ab823106d1dd4c486abc43005",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.399628886Z"
+}

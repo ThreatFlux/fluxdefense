@@ -1,0 +1,17 @@
+{
+  "uuid": "dc7d1e84-7269-4ad7-86be-eb85f03a1881",
+  "path": "/lib/udev/rules.d/60-infiniband.rules",
+  "size": 379,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "ca03e7bd22edb998ae25cb16d1c86dc517e1232e879b598d6b47b02231204375",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.243812361Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "a9cdd344-d9eb-449d-86d8-f0500a8e5b6d",
+  "path": "/usr/libexec/gvfsd-afp",
+  "size": 121960,
+  "modified": "2024-04-18T13:39:03Z",
+  "created": "2025-05-09T05:07:37.506628721Z",
+  "sha256_hash": "f6a6c9a2c54c9cf3e33f4a4cfb4ac885567d85f621b18c874e1d276c7f6fcbc7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.256012086Z"
+}

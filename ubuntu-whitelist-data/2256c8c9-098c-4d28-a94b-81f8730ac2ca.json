@@ -1,0 +1,17 @@
+{
+  "uuid": "2256c8c9-098c-4d28-a94b-81f8730ac2ca",
+  "path": "/usr/lib/grub/x86_64-efi/smbios.mod",
+  "size": 8344,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "71efa21cf0a1c086524b112ebc1abe8e91232bd9816c030c741cf59b47345796",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.480719682Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d7468749-3e42-4c16-adee-d5f07f1b7840",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-string.ali",
+  "size": 1901,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.101344448Z",
+  "sha256_hash": "f5b6275b00020787e928dc389d63bbe49615995287bfa4683545301a8c313fdd",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.684793226Z"
+}

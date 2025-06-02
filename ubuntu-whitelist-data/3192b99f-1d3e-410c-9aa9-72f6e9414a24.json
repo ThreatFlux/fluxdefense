@@ -1,0 +1,15 @@
+{
+  "uuid": "3192b99f-1d3e-410c-9aa9-72f6e9414a24",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstmultipart.so",
+  "size": 39440,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.774655151Z",
+  "sha256_hash": "d0be9416dbfaaafdfebafd191485561213403bd745f0a6577512d9a2c5fb9dfc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.123055904Z"
+}

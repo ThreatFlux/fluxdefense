@@ -1,0 +1,17 @@
+{
+  "uuid": "df100c52-7177-4997-95c5-7d21f55c5b0f",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/python-3.12-embed.pc",
+  "size": 288,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-26T18:06:52.267887347Z",
+  "sha256_hash": "bd4b213f9841598b5703b5e4f313ba3f3feb853658b0bad352a911cce0da5dbf",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.061428652Z"
+}

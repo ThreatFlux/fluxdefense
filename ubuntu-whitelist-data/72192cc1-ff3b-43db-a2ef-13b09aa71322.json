@@ -1,0 +1,17 @@
+{
+  "uuid": "72192cc1-ff3b-43db-a2ef-13b09aa71322",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/g-table.adb",
+  "size": 5600,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.071344860Z",
+  "sha256_hash": "7a4f1cbcff43e2f639668b9d3e486b9bc497abd11470e3ab30841692ca9e2ae7",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.881320115Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e4d040f5-c1c5-435d-a21d-687cde738901",
+  "path": "/sbin/biosnoop.bt",
+  "size": 1148,
+  "modified": "2024-03-07T22:14:52Z",
+  "created": "2025-05-09T05:08:51.885493624Z",
+  "sha256_hash": "afdeb6f39cbc76c60f19d25e83974e974d322151f69d09e2cf80bde723265312",
+  "file_type": {
+    "Other": "bt"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.802600973Z"
+}

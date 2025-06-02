@@ -1,0 +1,17 @@
+{
+  "uuid": "380be9f7-8a30-42a7-bec0-30cd33283eab",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/llvmlibc/RestrictSystemLibcHeadersCheck.h",
+  "size": 1414,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "adeb2087b8653e98c46ae258cf6e17127986f1d51c71b647c35234acf39018cc",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.261322281Z"
+}

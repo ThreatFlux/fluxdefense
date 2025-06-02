@@ -1,0 +1,17 @@
+{
+  "uuid": "732b9791-874f-4116-a68c-0ef6375b08b4",
+  "path": "/usr/lib/x86_64-linux-gnu/librte_pci.so.24.0",
+  "size": 14408,
+  "modified": "2024-12-18T18:31:38Z",
+  "created": "2025-05-26T20:18:26.336033788Z",
+  "sha256_hash": "8c4cfcf3366afaa8c6e435947c48114a84961997dbaa065fc000eed6a43ad2c4",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:29.531789079Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "33c486e2-99a2-4f2c-9994-7d8d073e01fe",
+  "path": "/lib/x86_64-linux-gnu/libvirt/storage-backend/libvirt_storage_backend_iscsi.so",
+  "size": 22960,
+  "modified": "2025-03-13T16:25:50Z",
+  "created": "2025-05-20T14:31:33.105814749Z",
+  "sha256_hash": "56729dc757a31ec1e6542cd8a6a8141c6cc2e06522424693b79af8ac9606e950",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.334960161Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a2b52205-9801-4a67-95fc-25058301ee60",
+  "path": "/usr/lib/python3.12/test/audiodata/pluck-pcm24.wav",
+  "size": 19984,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.986551841Z",
+  "sha256_hash": "802304af89c305a0d5feb8bf6ba9c7b3abfb6d5e620ba6d4f4d69277ef315e22",
+  "file_type": {
+    "Other": "wav"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.712520711Z"
+}

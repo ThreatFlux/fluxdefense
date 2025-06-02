@@ -1,0 +1,17 @@
+{
+  "uuid": "b60903d3-789d-4391-89f2-03561dfd5e4f",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/modernize/RedundantVoidArgCheck.h",
+  "size": 2859,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "7fcba2cb933538e0084379b60f3ad3f2eec45d954089c5c6eb4675ad278e6166",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.257197860Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "0ff8df33-35ec-4ee9-9b67-ef9506ce0aff",
+  "path": "/usr/lib/x86_64-linux-gnu/libgtkmm-4.0.so.0.0.0",
+  "size": 5015736,
+  "modified": "2024-03-31T01:17:00Z",
+  "created": "2025-05-09T05:07:30.115741504Z",
+  "sha256_hash": "581e3868f6955c8d554dd5ea6cd8ae26cf01144496e743e4d7c13ddfc0ce3daf",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.279868096Z"
+}

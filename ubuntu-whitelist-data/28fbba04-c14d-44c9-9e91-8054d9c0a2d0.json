@@ -1,0 +1,17 @@
+{
+  "uuid": "28fbba04-c14d-44c9-9e91-8054d9c0a2d0",
+  "path": "/usr/lib/systemd/system/apport-autoreport.timer",
+  "size": 216,
+  "modified": "2022-04-22T13:57:18Z",
+  "created": "2025-05-30T21:04:52.101603322Z",
+  "sha256_hash": "72e4700854d2c3babee612f6dda7c1c61caf37878b7adf9663ddbcbbc3e4c9c5",
+  "file_type": {
+    "Other": "timer"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.467258886Z"
+}

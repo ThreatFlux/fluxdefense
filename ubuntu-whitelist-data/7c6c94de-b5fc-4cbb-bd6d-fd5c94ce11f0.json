@@ -1,0 +1,17 @@
+{
+  "uuid": "7c6c94de-b5fc-4cbb-bd6d-fd5c94ce11f0",
+  "path": "/lib/x86_64-linux-gnu/dpdk/pmds-24.0/librte_bus_pci.so.24.0",
+  "size": 59904,
+  "modified": "2024-12-18T18:31:38Z",
+  "created": "2025-05-26T20:18:26.467031810Z",
+  "sha256_hash": "15028f1865aa892632707d09a5cd614ad2b333cbf2b63367190db714d77aa234",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:28.614370517Z"
+}

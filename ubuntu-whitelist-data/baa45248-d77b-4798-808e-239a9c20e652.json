@@ -1,0 +1,15 @@
+{
+  "uuid": "baa45248-d77b-4798-808e-239a9c20e652",
+  "path": "/usr/lib/x86_64-linux-gnu/dhcpcd/dev/udev.so",
+  "size": 14488,
+  "modified": "2024-05-07T10:12:01Z",
+  "created": "2025-05-09T05:07:35.185664138Z",
+  "sha256_hash": "051a441fb3241219498618f6f12e1f8333d207d01b46aedbf50ea92264367652",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:30.660705925Z"
+}

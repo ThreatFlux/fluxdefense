@@ -1,0 +1,17 @@
+{
+  "uuid": "6871aaba-ddf6-4a21-ae5c-abb4fd935985",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-secsta.adb",
+  "size": 35365,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.088344626Z",
+  "sha256_hash": "acdace31c3a2b751b99e6f906eaac5b0ddbd4c60251994487ad240917103fa8d",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.123890275Z"
+}

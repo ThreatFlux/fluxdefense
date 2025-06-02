@@ -1,0 +1,15 @@
+{
+  "uuid": "6ee0822d-699e-4fc2-a745-975cbea8ae80",
+  "path": "/usr/lib/llvm-18/lib/libLLVMXtensaCodeGen.a",
+  "size": 23138,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.087460387Z",
+  "sha256_hash": "5a4ee5fa7913b9b1f6b3bae38c8dfa72516b2656675df90e9a8bd4231f682fb7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:35.069105427Z"
+}

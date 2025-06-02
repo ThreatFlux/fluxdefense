@@ -1,0 +1,17 @@
+{
+  "uuid": "f4995d31-7600-4174-b0e9-fe0c34b9bdc2",
+  "path": "/lib/llvm-18/include/clang-tidy/performance/NoexceptDestructorCheck.h",
+  "size": 1529,
+  "modified": "2023-06-24T20:41:17Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "304eff6ca6ac2ec2cbab9b96a0656226e5dfb01c4e5a9b97330005eac3451c7c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.920668890Z"
+}

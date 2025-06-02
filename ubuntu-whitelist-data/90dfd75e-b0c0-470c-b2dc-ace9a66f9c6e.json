@@ -1,0 +1,17 @@
+{
+  "uuid": "90dfd75e-b0c0-470c-b2dc-ace9a66f9c6e",
+  "path": "/usr/lib/firmware/amdgpu/tonga_sdma.bin.zst",
+  "size": 3801,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.418543391Z",
+  "sha256_hash": "118b88e0058542d849feebb1e6ad210e8babf7d969be7dce429bf9a979564201",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.810424517Z"
+}

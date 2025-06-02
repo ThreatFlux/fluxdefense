@@ -1,0 +1,15 @@
+{
+  "uuid": "e4a4299d-66c7-4742-8e9c-4812db222b5f",
+  "path": "/lib/llvm-18/lib/libLLVMAVRAsmParser.a",
+  "size": 71870,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.781464417Z",
+  "sha256_hash": "d5971c514064ee31121080139da851bbc62861317a44782369ddeb6bac9efa3b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.451023257Z"
+}

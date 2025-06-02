@@ -1,0 +1,15 @@
+{
+  "uuid": "1109e645-eee3-405f-9494-36c1ca237ce6",
+  "path": "/bin/usbipd",
+  "size": 1622,
+  "modified": "2025-04-15T17:24:36Z",
+  "created": "2025-05-16T01:21:37.095297880Z",
+  "sha256_hash": "2d0953085bf720a25efbe24f853e97d27b1f12f18a398255ff82cbafde254dad",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.439752Z"
+}

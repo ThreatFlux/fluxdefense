@@ -1,0 +1,17 @@
+{
+  "uuid": "f49bac5d-72b4-4ff8-8a4d-244046c1d996",
+  "path": "/usr/sbin/opensnoop.bt",
+  "size": 953,
+  "modified": "2024-03-07T22:14:52Z",
+  "created": "2025-05-09T05:08:51.886493608Z",
+  "sha256_hash": "9309f9b485a2071e325add267c6cd1e80603688688028ef9440a17880887ff1b",
+  "file_type": {
+    "Other": "bt"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.694349498Z"
+}

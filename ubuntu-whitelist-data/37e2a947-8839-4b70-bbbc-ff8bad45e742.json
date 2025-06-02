@@ -1,0 +1,17 @@
+{
+  "uuid": "37e2a947-8839-4b70-bbbc-ff8bad45e742",
+  "path": "/usr/lib/x86_64-linux-gnu/liblcms2.so.2.0.14",
+  "size": 394352,
+  "modified": "2024-04-08T16:01:07Z",
+  "created": "2025-05-09T05:07:31.330722964Z",
+  "sha256_hash": "dd7b063d304d19b1593f90161874da72fd5cb2b8d2061987855f0e590e60e49f",
+  "file_type": {
+    "Other": "14"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.939463203Z"
+}

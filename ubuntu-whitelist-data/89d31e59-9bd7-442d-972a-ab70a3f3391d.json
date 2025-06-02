@@ -1,0 +1,15 @@
+{
+  "uuid": "89d31e59-9bd7-442d-972a-ab70a3f3391d",
+  "path": "/lib/evolution-data-server/camel-providers/libcamelsmtp.so",
+  "size": 59952,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:21.658870553Z",
+  "sha256_hash": "9ce5bf8fcabec5c23cf3f6929e5a1c36f6cf21959aca23664c87e6f6a7a8c16e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.276888116Z"
+}

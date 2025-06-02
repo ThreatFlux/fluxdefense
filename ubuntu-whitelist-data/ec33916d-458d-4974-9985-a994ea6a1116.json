@@ -1,0 +1,15 @@
+{
+  "uuid": "ec33916d-458d-4974-9985-a994ea6a1116",
+  "path": "/usr/libexec/gnome-system-monitor/gsm-renice",
+  "size": 14656,
+  "modified": "2024-03-31T06:12:43Z",
+  "created": "2025-05-09T05:07:38.039620587Z",
+  "sha256_hash": "8b7624eceea690f9e3b97253e5328ae7eef95276ba6f53f5cbd3f72fc5ee0ed4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.110170928Z"
+}

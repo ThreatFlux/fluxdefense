@@ -1,0 +1,15 @@
+{
+  "uuid": "db8a7870-49b9-400b-a026-1374a575a84c",
+  "path": "/lib/x86_64-linux-gnu/xtables/libip6t_icmp6.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.326631467Z",
+  "sha256_hash": "5e6e7f497f1bbdd6e866f351e3f834a346f6638b47de595aed45e11b9cc0ca0f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.671837149Z"
+}

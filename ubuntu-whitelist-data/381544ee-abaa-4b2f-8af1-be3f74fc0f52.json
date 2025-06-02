@@ -1,0 +1,15 @@
+{
+  "uuid": "381544ee-abaa-4b2f-8af1-be3f74fc0f52",
+  "path": "/bin/ckbcomp",
+  "size": 150674,
+  "modified": "2024-02-26T12:58:31Z",
+  "created": "2025-05-09T05:07:19.103909540Z",
+  "sha256_hash": "7af03ec71aa5617b6b892e8fc9fe86ee3882f48572799da813e436aa461a7d06",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.512204367Z"
+}

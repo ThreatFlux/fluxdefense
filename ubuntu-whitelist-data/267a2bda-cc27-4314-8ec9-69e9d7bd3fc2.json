@@ -1,0 +1,17 @@
+{
+  "uuid": "267a2bda-cc27-4314-8ec9-69e9d7bd3fc2",
+  "path": "/usr/lib/x86_64-linux-gnu/libpopt.so.0.0.2",
+  "size": 55936,
+  "modified": "2024-04-08T16:15:55Z",
+  "created": "2025-05-09T05:07:31.877714617Z",
+  "sha256_hash": "4081d1d73ba5bc1d033cfea56023f609fcc976001769ff34af41a3889605a311",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.192267355Z"
+}

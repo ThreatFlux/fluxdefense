@@ -1,0 +1,17 @@
+{
+  "uuid": "34abf4a0-b930-4369-b465-8a3fa5b8af3e",
+  "path": "/lib/systemd/system/-.slice.d/10-oomd-root-slice-defaults.conf",
+  "size": 28,
+  "modified": "2025-02-18T17:24:37Z",
+  "created": "2025-05-09T05:24:12.305763938Z",
+  "sha256_hash": "6c85dd212f0db0d4416663116b8303b2edda1eda782903efb0e9f4b121ff23df",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.119441478Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "de326d86-b2e6-4492-ad51-2ba0dde435ed",
+  "path": "/lib/x86_64-linux-gnu/libnl-3.so.200.26.0",
+  "size": 133944,
+  "modified": "2024-10-02T12:40:51Z",
+  "created": "2025-05-09T05:07:31.722716982Z",
+  "sha256_hash": "afcb69e2ef0b46c2ce7b7483848332fa9462776d33163f64209acf01f86eddd7",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.408220349Z"
+}

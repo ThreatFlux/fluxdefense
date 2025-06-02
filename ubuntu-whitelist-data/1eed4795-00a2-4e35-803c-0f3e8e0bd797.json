@@ -1,0 +1,15 @@
+{
+  "uuid": "1eed4795-00a2-4e35-803c-0f3e8e0bd797",
+  "path": "/sbin/aa-load",
+  "size": 39680,
+  "modified": "2025-03-19T18:09:43Z",
+  "created": "2025-05-09T05:24:25.755938123Z",
+  "sha256_hash": "fdc75b33ac84a52297713778d61fb7181ed8a97f528647767ca52f46db3366b2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.018352255Z"
+}

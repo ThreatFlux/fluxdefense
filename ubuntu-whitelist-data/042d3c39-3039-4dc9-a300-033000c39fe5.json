@@ -1,0 +1,17 @@
+{
+  "uuid": "042d3c39-3039-4dc9-a300-033000c39fe5",
+  "path": "/usr/lib/firmware/i915/cnl_dmc_ver1_07.bin.zst",
+  "size": 3194,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.534541784Z",
+  "sha256_hash": "ecb5ff1d8ce07d127e88680c40b7cebf4270e07d065ff4f0286bc77ee2d3ba6e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.764267628Z"
+}

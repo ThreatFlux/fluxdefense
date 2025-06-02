@@ -1,0 +1,17 @@
+{
+  "uuid": "7dcd1d57-3971-47b0-bbd5-e5837aef8cc5",
+  "path": "/usr/lib/x86_64-linux-gnu/libclang-18.so.18",
+  "size": 34551120,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-09T05:08:51.677496798Z",
+  "sha256_hash": "d7c54213dbeb95deb5bfee76cf3e32e425cbaf8ccbd2900345414fb57476458b",
+  "file_type": {
+    "Other": "18"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:08.560217788Z"
+}

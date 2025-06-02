@@ -1,0 +1,17 @@
+{
+  "uuid": "27b8e068-72ca-492a-8534-60b55dc37a58",
+  "path": "/usr/lib/firmware/keyspan_pda/keyspan_pda.fw.zst",
+  "size": 1184,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.668539928Z",
+  "sha256_hash": "16d91eaf701ad0da7a7aa28ec52a8c66b89defda858031f1b50f243a7445b5a7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.103999145Z"
+}

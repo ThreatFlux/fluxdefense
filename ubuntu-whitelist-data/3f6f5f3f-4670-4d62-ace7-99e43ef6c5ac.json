@@ -1,0 +1,17 @@
+{
+  "uuid": "3f6f5f3f-4670-4d62-ace7-99e43ef6c5ac",
+  "path": "/usr/lib/grub/x86_64-efi/cpio.mod",
+  "size": 4768,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.802708552Z",
+  "sha256_hash": "11f56216c5a6987c730758000ccbad8a094d3cef9cb408240858262f6ff0030b",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.492163376Z"
+}

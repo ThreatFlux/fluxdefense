@@ -1,0 +1,17 @@
+{
+  "uuid": "9434549e-96d0-407f-b8f4-be17d82da0c4",
+  "path": "/lib/firmware/radeon/VERDE_me.bin.zst",
+  "size": 3183,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.063534457Z",
+  "sha256_hash": "344afe24e281ad109eb2a6719e479f9349d40568729ab32608477a71cf89f444",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.397992353Z"
+}

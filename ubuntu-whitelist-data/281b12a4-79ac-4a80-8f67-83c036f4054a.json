@@ -1,0 +1,17 @@
+{
+  "uuid": "281b12a4-79ac-4a80-8f67-83c036f4054a",
+  "path": "/lib/mime/packages/libreoffice-math",
+  "size": 674,
+  "modified": "2024-09-20T14:45:50Z",
+  "created": "2025-05-09T05:11:07.053430520Z",
+  "sha256_hash": "3f30c0bf34156eb4b03c0ffcce265fc600b2942a32b021039eb01acbec55dd05",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.404960169Z"
+}

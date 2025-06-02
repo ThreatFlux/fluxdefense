@@ -1,0 +1,17 @@
+{
+  "uuid": "03f956b2-f02b-4350-a67e-cf6b4747d2d2",
+  "path": "/lib/udev/hdparm",
+  "size": 1399,
+  "modified": "2022-10-06T12:47:47Z",
+  "created": "2025-05-09T05:07:28.322768865Z",
+  "sha256_hash": "c1a5dfc22aa49d060b3398bb8b7d2d61377367ffdf8b688cbc97428f314979ed",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.356776146Z"
+}

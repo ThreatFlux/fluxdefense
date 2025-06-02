@@ -1,0 +1,15 @@
+{
+  "uuid": "2ade6eb9-432d-4b86-ade4-ba9c00004a67",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/config/cc_ubuntu_autoinstall.py",
+  "size": 3058,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.236037177Z",
+  "sha256_hash": "368ce14b59d2ac7987720276bb4883abac7b8de614b381a51b28d5c0944dcb61",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.856714770Z"
+}

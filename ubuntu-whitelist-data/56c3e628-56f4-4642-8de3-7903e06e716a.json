@@ -1,0 +1,17 @@
+{
+  "uuid": "56c3e628-56f4-4642-8de3-7903e06e716a",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/xft.pc",
+  "size": 273,
+  "modified": "2024-04-08T16:23:07Z",
+  "created": "2025-05-29T11:16:07.173044066Z",
+  "sha256_hash": "b9e9cb58f208ed8700a0175cbff843bb293557f2d43cf25ae1f721defd11018c",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.104444158Z"
+}

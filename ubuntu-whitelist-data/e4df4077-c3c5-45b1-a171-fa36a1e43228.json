@@ -1,0 +1,15 @@
+{
+  "uuid": "e4df4077-c3c5-45b1-a171-fa36a1e43228",
+  "path": "/usr/sbin/filetop-bpfcc",
+  "size": 6499,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "37c2732defc56030f34f623a7fb72b9f3702fce076f7dd30a96654d9d0b8056b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.244446059Z"
+}

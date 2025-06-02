@@ -1,0 +1,17 @@
+{
+  "uuid": "92c4eba7-3445-4d41-9c57-cfab49f73a26",
+  "path": "/usr/lib/udev/rules.d/70-printers.rules",
+  "size": 845,
+  "modified": "2024-04-08T14:50:48Z",
+  "created": "2025-05-09T05:07:28.436767125Z",
+  "sha256_hash": "a6826a1c37458913a964a4be14fa3972898831f934a45f952a1dda0db58f4750",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.106967712Z"
+}

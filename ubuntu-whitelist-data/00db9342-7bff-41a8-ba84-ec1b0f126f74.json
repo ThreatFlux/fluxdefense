@@ -1,0 +1,15 @@
+{
+  "uuid": "00db9342-7bff-41a8-ba84-ec1b0f126f74",
+  "path": "/usr/lib/x86_64-linux-gnu/gawk/intdiv.so",
+  "size": 14568,
+  "modified": "2024-03-31T05:33:52Z",
+  "created": "2025-05-23T03:43:48.621716868Z",
+  "sha256_hash": "f0af7bc4b3f838d1f8df65c90bd5357231cfdc648cbbe0896913ab70ac985dc2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.317085027Z"
+}

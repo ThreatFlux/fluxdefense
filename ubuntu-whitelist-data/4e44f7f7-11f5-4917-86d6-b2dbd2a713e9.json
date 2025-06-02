@@ -1,0 +1,15 @@
+{
+  "uuid": "4e44f7f7-11f5-4917-86d6-b2dbd2a713e9",
+  "path": "/usr/lib/google-cloud-sdk/platform/gsutil/gslib/metrics.py",
+  "size": 39917,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.848929967Z",
+  "sha256_hash": "0ce15370ac7779c8f0e66c7745f634be0f3b60f135e1a09cfa748917f1f71b90",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.584193459Z"
+}

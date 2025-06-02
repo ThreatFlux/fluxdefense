@@ -1,0 +1,17 @@
+{
+  "uuid": "592bd465-d2cd-4cbe-a4dd-a2cc684ed3ae",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/performance/TypePromotionInMathFnCheck.h",
+  "size": 1715,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "1640034cb1393a1e3de44d8a7cb3bc2ef7d0e22c01da09661b9d6bb5fb46df8c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.279796822Z"
+}

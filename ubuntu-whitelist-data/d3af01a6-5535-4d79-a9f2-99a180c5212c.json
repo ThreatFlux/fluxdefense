@@ -1,0 +1,17 @@
+{
+  "uuid": "d3af01a6-5535-4d79-a9f2-99a180c5212c",
+  "path": "/lib/llvm-18/include/clang/Edit/EditedSource.h",
+  "size": 3576,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.542533410Z",
+  "sha256_hash": "640189f316c6b03c00c19cc84c9698b8954607b28072168877c93200f26f802c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.019715980Z"
+}

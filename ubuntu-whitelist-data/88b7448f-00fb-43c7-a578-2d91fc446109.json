@@ -1,0 +1,17 @@
+{
+  "uuid": "88b7448f-00fb-43c7-a578-2d91fc446109",
+  "path": "/usr/lib/firmware/ea/layla20_asic.fw.zst",
+  "size": 11337,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.529541854Z",
+  "sha256_hash": "88435cf1bb07cb53d9168dd228d5786a3a3d3464b120dcb70653bf6dc4827cbc",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.655898680Z"
+}

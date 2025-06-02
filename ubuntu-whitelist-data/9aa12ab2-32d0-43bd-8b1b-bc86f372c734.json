@@ -1,0 +1,17 @@
+{
+  "uuid": "9aa12ab2-32d0-43bd-8b1b-bc86f372c734",
+  "path": "/lib/x86_64-linux-gnu/libudisks2.so.0.0.0",
+  "size": 825416,
+  "modified": "2024-11-18T16:06:30Z",
+  "created": "2025-05-09T05:07:32.327707750Z",
+  "sha256_hash": "d1776ed9b606bd217af09a13069373b2010e54cb2a9ec9a1cac0b6c90e0caf15",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.018788805Z"
+}

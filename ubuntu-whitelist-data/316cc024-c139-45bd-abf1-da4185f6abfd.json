@@ -1,0 +1,15 @@
+{
+  "uuid": "316cc024-c139-45bd-abf1-da4185f6abfd",
+  "path": "/lib/x86_64-linux-gnu/alsa-topology/libalsatplg_module_nhlt.so",
+  "size": 60200,
+  "modified": "2024-04-07T07:09:55Z",
+  "created": "2025-05-09T05:07:35.180664215Z",
+  "sha256_hash": "f046bb6bf1ab9bbab2488a0e3ecdce45944ac1d6216ab41e011bd6c9eea2310a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.855162886Z"
+}

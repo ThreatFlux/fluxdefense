@@ -1,0 +1,15 @@
+{
+  "uuid": "ebcd2ecf-fb78-4c5e-bfce-51078bfb6c9c",
+  "path": "/usr/lib/llvm-18/lib/libLLVMMCJIT.a",
+  "size": 90568,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.924462533Z",
+  "sha256_hash": "aa1cdc51935e2f55562e83ac1de5478854c99f0b6c202adba6b057730526339c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:34.338751350Z"
+}

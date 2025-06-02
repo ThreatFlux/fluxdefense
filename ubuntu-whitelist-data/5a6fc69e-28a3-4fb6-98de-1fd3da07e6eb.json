@@ -1,0 +1,17 @@
+{
+  "uuid": "5a6fc69e-28a3-4fb6-98de-1fd3da07e6eb",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-ststun.adb",
+  "size": 5836,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.057345052Z",
+  "sha256_hash": "8a9dfc7342d12e247ad94d42796abdcc2908094c38b92387d9f70dd222370a22",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.118081111Z"
+}

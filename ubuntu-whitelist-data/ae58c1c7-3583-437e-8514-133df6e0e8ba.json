@@ -1,0 +1,17 @@
+{
+  "uuid": "ae58c1c7-3583-437e-8514-133df6e0e8ba",
+  "path": "/usr/lib/x86_64-linux-gnu/libflashrom.so.1.0.0",
+  "size": 1018544,
+  "modified": "2024-04-08T15:57:41Z",
+  "created": "2025-05-09T05:07:29.457751545Z",
+  "sha256_hash": "85800d41850077b490439310c2c264be44fb570c8e9bfbda271401812315f44a",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.383714916Z"
+}

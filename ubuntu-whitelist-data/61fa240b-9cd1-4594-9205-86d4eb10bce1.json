@@ -1,0 +1,17 @@
+{
+  "uuid": "61fa240b-9cd1-4594-9205-86d4eb10bce1",
+  "path": "/usr/share/applications/qemu.desktop",
+  "size": 134,
+  "modified": "2024-03-04T17:48:16Z",
+  "created": "2025-05-22T16:56:50.816976433Z",
+  "sha256_hash": "c62f640b8bc8d48369cd3e3e7cd8f550020adca70d99377cfee64b5ebd668e64",
+  "file_type": {
+    "Other": "desktop"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.550626356Z"
+}

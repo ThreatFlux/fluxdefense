@@ -1,0 +1,15 @@
+{
+  "uuid": "fb82e761-2b5a-4d7d-9358-c6b08751c233",
+  "path": "/bin/x86_64-linux-gnu-gnat-13",
+  "size": 453872,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.027345464Z",
+  "sha256_hash": "b99412171f2caf7f758b562b70fcafea1cba51f89233023bfd156a9df24c196e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.274686424Z"
+}

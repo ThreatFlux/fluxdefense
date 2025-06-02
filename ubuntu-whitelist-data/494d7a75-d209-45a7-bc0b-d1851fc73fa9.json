@@ -1,0 +1,15 @@
+{
+  "uuid": "494d7a75-d209-45a7-bc0b-d1851fc73fa9",
+  "path": "/bin/whoopsie",
+  "size": 48032,
+  "modified": "2024-03-31T08:32:58Z",
+  "created": "2025-05-09T05:07:20.885882348Z",
+  "sha256_hash": "846aacba3c46c4ef9e4664f35a535d0a99498cc71b7601d7b220c323ccdb04e4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.948092779Z"
+}

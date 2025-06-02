@@ -1,0 +1,17 @@
+{
+  "uuid": "83363129-3419-4422-91e0-f01ec192dfba",
+  "path": "/lib/modules/6.11.0-25-generic/kernel/nvidia-550-open/nvidia-peermem.ko",
+  "size": 8046,
+  "modified": "2025-04-28T11:37:45Z",
+  "created": "2025-05-09T12:56:03.506988923Z",
+  "sha256_hash": "ca5137c4150c1224f9936c35bee93dd49272a66bcfdaabe577333b29c44b940b",
+  "file_type": {
+    "Other": "ko"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.865871640Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "ad890eb0-a9a2-418d-a52d-9676464b62cc",
+  "path": "/lib/systemd/system/nvidia-resume.service",
+  "size": 321,
+  "modified": "2024-12-30T17:02:36Z",
+  "created": "2025-05-09T12:56:03.410986394Z",
+  "sha256_hash": "24ee0952d269205000d4f23ff7adced9d6f846668d0795c22b81e547b1a4bc87",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.109684296Z"
+}

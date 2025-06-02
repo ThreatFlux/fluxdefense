@@ -1,0 +1,17 @@
+{
+  "uuid": "39c5f74d-e2a1-4029-8010-f1217cae460f",
+  "path": "/lib/llvm-18/include/clang-tidy/modernize/LoopConvertCheck.h",
+  "size": 3565,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "a12b5784fb2a5cf33c4722fbb3570f26ce9e65294e44ac089c865d6a50eb7e19",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.908867230Z"
+}

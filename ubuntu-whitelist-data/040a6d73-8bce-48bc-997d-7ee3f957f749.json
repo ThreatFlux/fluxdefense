@@ -1,0 +1,17 @@
+{
+  "uuid": "040a6d73-8bce-48bc-997d-7ee3f957f749",
+  "path": "/lib/grub/x86_64-efi/hashsum.mod",
+  "size": 8464,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.810708430Z",
+  "sha256_hash": "122e407c5bc612f255f990ac575eff7b2a82c090167717ac19337fac39b9e142",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.043382186Z"
+}

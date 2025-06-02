@@ -1,0 +1,17 @@
+{
+  "uuid": "595c3308-11fe-4f21-aed1-ec954a5ce062",
+  "path": "/usr/lib/x86_64-linux-gnu/libacl.so.1.1.2302",
+  "size": 38984,
+  "modified": "2024-10-02T12:40:51Z",
+  "created": "2025-05-09T05:07:29.064757542Z",
+  "sha256_hash": "1f5247285409ec89990e9fe384d78dfb2ae6ec8e210a2657073babc8d6b7e54f",
+  "file_type": {
+    "Other": "2302"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:30.660186937Z"
+}

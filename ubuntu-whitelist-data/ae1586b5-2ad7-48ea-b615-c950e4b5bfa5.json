@@ -1,0 +1,17 @@
+{
+  "uuid": "ae1586b5-2ad7-48ea-b615-c950e4b5bfa5",
+  "path": "/lib/x86_64-linux-gnu/perl-base/warnings/register.pm",
+  "size": 462,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.387578063Z",
+  "sha256_hash": "f7e263b93330d0188a5354ef4258533cd5e0f7e991c7771fe553cd733a4d4a91",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.926440280Z"
+}

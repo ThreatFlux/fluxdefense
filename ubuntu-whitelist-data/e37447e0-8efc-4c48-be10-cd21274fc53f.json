@@ -1,0 +1,15 @@
+{
+  "uuid": "e37447e0-8efc-4c48-be10-cd21274fc53f",
+  "path": "/usr/sbin/exitsnoop-bpfcc",
+  "size": 9646,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "68e7511722754e027b48522988828a6832047824b87cba9a8715e2e41a89c81f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.520342838Z"
+}

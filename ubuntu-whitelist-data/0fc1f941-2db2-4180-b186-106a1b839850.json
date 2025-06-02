@@ -1,0 +1,17 @@
+{
+  "uuid": "0fc1f941-2db2-4180-b186-106a1b839850",
+  "path": "/usr/lib/llvm-18/include/clang/AST/OperationKinds.h",
+  "size": 1541,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.519533713Z",
+  "sha256_hash": "da9cf9504921abc0c5ae66262a90539375acf0d5bb4ece881b01ea48c0ce4451",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.376665351Z"
+}

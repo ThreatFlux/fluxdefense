@@ -1,0 +1,15 @@
+{
+  "uuid": "3e571437-7917-4e3c-8147-ac6962cde2df",
+  "path": "/lib/x86_64-linux-gnu/gtk-2.0/2.10.0/immodules/im-multipress.so",
+  "size": 19008,
+  "modified": "2024-07-15T16:53:59Z",
+  "created": "2025-05-09T05:07:35.797654799Z",
+  "sha256_hash": "1f2685108336d13dfd6a112110cd947f5881f8b2ac61e87d29a34304ee158065",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.902039098Z"
+}

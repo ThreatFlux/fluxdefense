@@ -1,0 +1,17 @@
+{
+  "uuid": "adc722be-e1a4-459e-8f94-1202ae335bc4",
+  "path": "/lib/firmware/intel/ibt-0180-0041.sfi.zst",
+  "size": 600440,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.555541493Z",
+  "sha256_hash": "8937d60dd6f6a7cf99a41b3fde1f1f500568745bdb696f14a147960d1fcec155",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.087516164Z"
+}

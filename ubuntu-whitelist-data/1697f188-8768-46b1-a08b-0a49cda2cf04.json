@@ -1,0 +1,17 @@
+{
+  "uuid": "1697f188-8768-46b1-a08b-0a49cda2cf04",
+  "path": "/usr/lib/firmware/nvidia/gv100/nvdec/scrubber.bin.zst",
+  "size": 2387,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.941536147Z",
+  "sha256_hash": "56c25fc810c8313d1edb1434289cba59d8230017be2a27ce16537b680935f2b4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.263980029Z"
+}

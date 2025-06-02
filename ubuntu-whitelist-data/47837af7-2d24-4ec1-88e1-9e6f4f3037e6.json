@@ -1,0 +1,15 @@
+{
+  "uuid": "47837af7-2d24-4ec1-88e1-9e6f4f3037e6",
+  "path": "/usr/bin/networkd-dispatcher",
+  "size": 20362,
+  "modified": "2023-04-24T15:32:27Z",
+  "created": "2025-05-09T05:07:20.201892785Z",
+  "sha256_hash": "aad2823762b60d03df6762ef18eb747a30d20ff7882116f96f4adf745800d697",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.592446527Z"
+}

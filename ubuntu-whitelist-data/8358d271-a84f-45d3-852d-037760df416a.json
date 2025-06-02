@@ -1,0 +1,17 @@
+{
+  "uuid": "8358d271-a84f-45d3-852d-037760df416a",
+  "path": "/usr/lib/x86_64-linux-gnu/libctf.so.0.0.0",
+  "size": 220384,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:51.739580096Z",
+  "sha256_hash": "1203c2ed3f4bd8cc18a7fd7fcc3dabb0c1bb40b400bb8500034a4373e99ed026",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.811910043Z"
+}

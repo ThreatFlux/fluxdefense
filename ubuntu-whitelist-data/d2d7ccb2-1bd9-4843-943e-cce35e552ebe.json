@@ -1,0 +1,15 @@
+{
+  "uuid": "d2d7ccb2-1bd9-4843-943e-cce35e552ebe",
+  "path": "/sbin/threadsnoop-bpfcc",
+  "size": 1858,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.523499148Z",
+  "sha256_hash": "fe3d4d93105d0489f6969454777aafcc6024c372df547125205040b891703e4b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.737489651Z"
+}

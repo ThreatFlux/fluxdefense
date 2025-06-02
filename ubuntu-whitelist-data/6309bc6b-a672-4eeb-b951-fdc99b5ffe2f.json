@@ -1,0 +1,17 @@
+{
+  "uuid": "6309bc6b-a672-4eeb-b951-fdc99b5ffe2f",
+  "path": "/lib/llvm-18/include/clang-tidy/cert/VariadicFunctionDefCheck.h",
+  "size": 1316,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "7c5a4d93b6178082840c08d91842ca55c80d6f04c448abf50fc0492bc97daa3a",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.912430268Z"
+}

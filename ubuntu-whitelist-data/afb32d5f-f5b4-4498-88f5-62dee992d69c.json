@@ -1,0 +1,17 @@
+{
+  "uuid": "afb32d5f-f5b4-4498-88f5-62dee992d69c",
+  "path": "/usr/lib/llvm-18/include/clang/AST/TypeLoc.h",
+  "size": 80140,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.521533687Z",
+  "sha256_hash": "ff02e69a9102329c71f7ebd1fe22ab0836a010f3f4696cfda47513578c90935d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.319488436Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "fbdd76d0-a301-45b2-bfec-112d9be4a5de",
+  "path": "/lib/x86_64-linux-gnu/libvirt/storage-backend/libvirt_storage_backend_disk.so",
+  "size": 31152,
+  "modified": "2025-03-13T16:25:50Z",
+  "created": "2025-05-20T14:31:33.105814749Z",
+  "sha256_hash": "ad9b33e2fdc30d2677a1924f070a72b48e8eece2ff85ccb5bb973c6895b082f8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.335353074Z"
+}

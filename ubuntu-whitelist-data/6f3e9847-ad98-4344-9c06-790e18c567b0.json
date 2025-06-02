@@ -1,0 +1,17 @@
+{
+  "uuid": "6f3e9847-ad98-4344-9c06-790e18c567b0",
+  "path": "/lib/llvm-18/include/clang/AST/ODRDiagsEmitter.h",
+  "size": 8493,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.518533726Z",
+  "sha256_hash": "1a1123ed7ef823e19298f195dd806d508aeff463f6a2e659c5c7325dbb95f381",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.001838074Z"
+}

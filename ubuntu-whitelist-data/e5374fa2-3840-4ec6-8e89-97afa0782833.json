@@ -1,0 +1,17 @@
+{
+  "uuid": "e5374fa2-3840-4ec6-8e89-97afa0782833",
+  "path": "/usr/lib/systemd/system/halt.target",
+  "size": 542,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "2bafaf5a4f903496e9cff31e137b75fbb09d3b6c4b28f8ef82628c9f91fc9c38",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.447284715Z"
+}

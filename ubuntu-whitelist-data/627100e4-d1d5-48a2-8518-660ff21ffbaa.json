@@ -1,0 +1,17 @@
+{
+  "uuid": "627100e4-d1d5-48a2-8518-660ff21ffbaa",
+  "path": "/lib/x86_64-linux-gnu/libcdio_cdda.so.2.0.0",
+  "size": 34968,
+  "modified": "2024-03-31T07:45:38Z",
+  "created": "2025-05-09T05:07:29.208755345Z",
+  "sha256_hash": "3dfd1e5221c1c950c0923d3283c781336b28b7a0a9d31caa00ac2f0ee04a514f",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.756482228Z"
+}

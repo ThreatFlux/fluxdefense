@@ -1,0 +1,17 @@
+{
+  "uuid": "94f5be49-d306-41eb-b89d-149bfe9e9891",
+  "path": "/lib/x86_64-linux-gnu/perl-base/IPC/Open2.pm",
+  "size": 776,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.353578582Z",
+  "sha256_hash": "8a8bd307c818cb74e4ad35876a957d56ed0e37053936fac349edd70d7bb63547",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.921823427Z"
+}

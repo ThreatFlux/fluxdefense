@@ -1,0 +1,17 @@
+{
+  "uuid": "1e764a5b-56f6-4fa1-b5d3-a226bba54df7",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/fontconfig.pc",
+  "size": 448,
+  "modified": "2024-03-31T00:59:34Z",
+  "created": "2025-05-29T11:16:04.384082336Z",
+  "sha256_hash": "0229d455671a4da395eb817e4e701c5625b32742f1f22b60b102a5dcc1044f5b",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.099249858Z"
+}

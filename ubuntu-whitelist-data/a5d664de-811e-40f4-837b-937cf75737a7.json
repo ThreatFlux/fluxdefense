@@ -1,0 +1,17 @@
+{
+  "uuid": "a5d664de-811e-40f4-837b-937cf75737a7",
+  "path": "/lib/google-cloud-sdk/platform/ext-runtime/python/runtime.yaml",
+  "size": 191,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.306922189Z",
+  "sha256_hash": "1fbc03e54c0d6d6faec82e82665bb7fe0b9bc301cd001a3487158fbb5c1440fe",
+  "file_type": {
+    "Other": "yaml"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.982445141Z"
+}

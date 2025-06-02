@@ -1,0 +1,15 @@
+{
+  "uuid": "19418066-cf78-4163-b4d6-ed0723c0551d",
+  "path": "/lib/x86_64-linux-gnu/libibverbs/libocrdma-rdmav34.so",
+  "size": 39152,
+  "modified": "2024-03-31T08:21:10Z",
+  "created": "2025-05-09T05:07:35.865653762Z",
+  "sha256_hash": "5315c35b12dcf81971ba5fc4e5f3adc9f994f3fc2aa4807071fe9b1b6b026a6d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.816405809Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b49e3faf-641f-4ffa-b4b6-6ed97747449f",
+  "path": "/lib/llvm-18/include/clang-tidy/abseil/DurationAdditionCheck.h",
+  "size": 1218,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.555533239Z",
+  "sha256_hash": "5ff833352b5025b040bd5a508cd3fee1205339145394eccea9fcda85db947352",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.902320095Z"
+}

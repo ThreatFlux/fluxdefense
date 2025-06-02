@@ -1,0 +1,17 @@
+{
+  "uuid": "6291aa88-d971-482d-becc-398f460452b5",
+  "path": "/lib/udev/rules.d/77-mm-haier-port-types.rules",
+  "size": 525,
+  "modified": "2024-02-19T14:58:32Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "d30f36393fccc1a52d2e1aa2a9affa15c6dd123c594aed0b4c8113e146c4fba5",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.242359942Z"
+}

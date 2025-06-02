@@ -1,0 +1,17 @@
+{
+  "uuid": "75e5bcd5-07b8-4ad3-820b-065bc63f8849",
+  "path": "/usr/lib/firmware/rtlwifi/rtl8821aefw_29.bin.zst",
+  "size": 18085,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.069534374Z",
+  "sha256_hash": "925b8823805bb56d1c1f0f69bc362e3564a1b68efbf5205f7becbfb87fb49ecb",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.511672078Z"
+}

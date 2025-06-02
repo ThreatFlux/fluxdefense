@@ -1,0 +1,17 @@
+{
+  "uuid": "fd96bacc-c523-478d-85b7-fdbedbc687b0",
+  "path": "/lib/modules/6.11.0-25-generic/modules.builtin.bin",
+  "size": 12016,
+  "modified": "2025-05-09T12:56:07.412094131Z",
+  "created": "2025-05-09T12:56:07.411094104Z",
+  "sha256_hash": "234182255eeaafc7a9a9acc5a66eca19e8d52214fffdbfcf9b5ed3d78ba4939a",
+  "file_type": {
+    "Other": "bin"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.598763593Z"
+}

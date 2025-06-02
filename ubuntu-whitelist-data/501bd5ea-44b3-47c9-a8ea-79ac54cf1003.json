@@ -1,0 +1,17 @@
+{
+  "uuid": "501bd5ea-44b3-47c9-a8ea-79ac54cf1003",
+  "path": "/lib/x86_64-linux-gnu/libcollection.so.4.1.1",
+  "size": 55368,
+  "modified": "2024-03-31T07:32:33Z",
+  "created": "2025-05-09T05:07:29.237754902Z",
+  "sha256_hash": "569565091de33e1ca7b15910151925695ad9e193eee246b0aa81e1d0366a0ec0",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.490259743Z"
+}

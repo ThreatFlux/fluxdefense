@@ -1,0 +1,17 @@
+{
+  "uuid": "0b40168a-37a9-4c90-806b-dca82892671a",
+  "path": "/lib/i386-linux-gnu/libnvidia-eglcore.so.550.144.03",
+  "size": 28606572,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:02.642966278Z",
+  "sha256_hash": "a2e0a141e07b936b9a66cc5d9e24ada245b52eeb4fe188e2e335bcc1d3d4e126",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.549527937Z"
+}

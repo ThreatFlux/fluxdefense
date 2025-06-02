@@ -1,0 +1,17 @@
+{
+  "uuid": "01d620c1-5e09-421a-9c5c-f00600c85567",
+  "path": "/opt/google/chrome/chrome_crashpad_handler",
+  "size": 1971792,
+  "modified": "2025-05-26T20:54:34Z",
+  "created": "2025-05-27T21:53:47.380430073Z",
+  "sha256_hash": "9f0482db33aed2bb9eb08c7bc6a09d143bda18e867e37b1db9c7524769cd12c7",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:43.803096395Z"
+}

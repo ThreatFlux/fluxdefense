@@ -1,0 +1,15 @@
+{
+  "uuid": "ef1d7564-21b0-434c-8de4-62bb77e7fdb5",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstapetag.so",
+  "size": 22864,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.771655196Z",
+  "sha256_hash": "d058f197d24302e7d7997048567da261d3797e174ea0d0ff3b3bd7a05599ca4a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.126683761Z"
+}

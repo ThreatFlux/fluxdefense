@@ -1,0 +1,15 @@
+{
+  "uuid": "e5ad1566-2b08-4aa5-af0d-83df97a4d4e9",
+  "path": "/lib/man-db/libman-2.12.0.so",
+  "size": 267008,
+  "modified": "2024-04-08T14:45:49Z",
+  "created": "2025-05-09T05:07:25.853806540Z",
+  "sha256_hash": "f16c8ef21be4f7c534af09b6a94d58f7ec16c2cfa13df3675dc1c19ece418c87",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.609830552Z"
+}

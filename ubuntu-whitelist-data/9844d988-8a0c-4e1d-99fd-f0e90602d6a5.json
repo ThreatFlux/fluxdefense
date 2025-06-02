@@ -1,0 +1,17 @@
+{
+  "uuid": "9844d988-8a0c-4e1d-99fd-f0e90602d6a5",
+  "path": "/usr/lib/systemd/system/cups-browsed.service",
+  "size": 337,
+  "modified": "2025-01-12T13:39:33Z",
+  "created": "2025-05-09T05:07:28.298769231Z",
+  "sha256_hash": "97a887b78e25c6e91d6e3331bd5aefbac4d9db4ffa1488177b6a4b6763672769",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.446108748Z"
+}

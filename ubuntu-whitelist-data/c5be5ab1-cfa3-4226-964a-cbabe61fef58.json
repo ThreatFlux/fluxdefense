@@ -1,0 +1,15 @@
+{
+  "uuid": "c5be5ab1-cfa3-4226-964a-cbabe61fef58",
+  "path": "/lib/llvm-18/lib/libLLVMMipsCodeGen.a",
+  "size": 4189984,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.928462481Z",
+  "sha256_hash": "a6530a052a8f6a399c07039f24834622668dbcefa4e60383f92ae8c854c672d5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.038852333Z"
+}

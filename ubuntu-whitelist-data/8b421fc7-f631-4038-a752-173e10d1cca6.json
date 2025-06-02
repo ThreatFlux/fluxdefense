@@ -1,0 +1,17 @@
+{
+  "uuid": "8b421fc7-f631-4038-a752-173e10d1cca6",
+  "path": "/lib/firmware/amdgpu/pitcairn_rlc.bin.zst",
+  "size": 2219,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.408543530Z",
+  "sha256_hash": "b919b4a4b6fb0347326adc47656f904bc498bfbb8a6adc872b9f59fe2735e292",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.965111119Z"
+}

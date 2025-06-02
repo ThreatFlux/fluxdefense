@@ -1,0 +1,15 @@
+{
+  "uuid": "23f15a51-8610-4e93-8e3e-d8fa1bb26b53",
+  "path": "/usr/bin/split",
+  "size": 56256,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:20.580887002Z",
+  "sha256_hash": "0689b44064c892b5cb11f710c8fd86c79308965511afe630feec883bcb7b3e88",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.162521748Z"
+}

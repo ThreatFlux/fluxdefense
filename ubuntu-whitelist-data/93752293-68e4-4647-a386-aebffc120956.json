@@ -1,0 +1,15 @@
+{
+  "uuid": "93752293-68e4-4647-a386-aebffc120956",
+  "path": "/lib/llvm-18/lib/libLLVMDWP.a",
+  "size": 316012,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.861463363Z",
+  "sha256_hash": "7631203daa8ac030a2b8603d04ca794af2f392d412708336b1ad6e321140533f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:43.400860105Z"
+}

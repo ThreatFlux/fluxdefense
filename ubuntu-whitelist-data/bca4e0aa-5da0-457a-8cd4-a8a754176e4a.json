@@ -1,0 +1,17 @@
+{
+  "uuid": "bca4e0aa-5da0-457a-8cd4-a8a754176e4a",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-parint.adb",
+  "size": 9546,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.087344640Z",
+  "sha256_hash": "243c005288d8e1358d94af9b4fc42f155c6f6614921bb93a7c07b1db7dc4b7de",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.124940148Z"
+}

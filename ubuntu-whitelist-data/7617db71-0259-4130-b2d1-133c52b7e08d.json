@@ -1,0 +1,17 @@
+{
+  "uuid": "7617db71-0259-4130-b2d1-133c52b7e08d",
+  "path": "/usr/lib/x86_64-linux-gnu/samba/libregistry-samba4.so.0",
+  "size": 142032,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.084635161Z",
+  "sha256_hash": "ba5e0121751e8314fb3b42089492c775024312fa4fe641bcdc4609945d73b282",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.428477506Z"
+}

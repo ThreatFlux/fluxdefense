@@ -1,0 +1,17 @@
+{
+  "uuid": "65b21937-8c29-412c-9f47-242cce2e85ab",
+  "path": "/usr/lib/x86_64-linux-gnu/libnvidia-allocator.so.550.144.03",
+  "size": 168808,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:01.537937680Z",
+  "sha256_hash": "fcaca5fda0b44941627f01951f2a9f6830b3a648d34ea2b8b30a9e2503cbaf33",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.469994666Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "a504c427-7612-4633-8119-ffc55d7ebb7f",
+  "path": "/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-zeroconf-discover.so",
+  "size": 43280,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.786860153Z",
+  "sha256_hash": "e5d58a326de50d1f162e9a231465024c57fec27925e768b37f81ae1fcb6d3a3d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.888799157Z"
+}

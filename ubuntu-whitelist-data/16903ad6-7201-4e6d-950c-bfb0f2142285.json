@@ -1,0 +1,17 @@
+{
+  "uuid": "16903ad6-7201-4e6d-950c-bfb0f2142285",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/finclude/omp_lib.f90",
+  "size": 36200,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:14.305355382Z",
+  "sha256_hash": "cb9a2efaf9a83eb740b03b9a39796afa3b161c327b6637f50b0f8f24933bcabf",
+  "file_type": {
+    "Other": "f90"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.583683046Z"
+}

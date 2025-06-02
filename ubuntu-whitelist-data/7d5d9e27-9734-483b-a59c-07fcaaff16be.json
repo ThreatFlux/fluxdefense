@@ -1,0 +1,17 @@
+{
+  "uuid": "7d5d9e27-9734-483b-a59c-07fcaaff16be",
+  "path": "/usr/lib/grub/x86_64-efi/iso9660.mod",
+  "size": 13672,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.811708415Z",
+  "sha256_hash": "ed40edc78f0651f7b7b66ad8b3aecaf3404496e13d47d9ff7974b17a565365f7",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.452110320Z"
+}

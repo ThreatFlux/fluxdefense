@@ -1,0 +1,17 @@
+{
+  "uuid": "c9adf279-e5f3-4a19-83f6-82d5919228ac",
+  "path": "/lib/llvm-18/include/clang/Basic/Version.inc",
+  "size": 203,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.532533542Z",
+  "sha256_hash": "ba5b62e896b6bc484c303e328db24aba12d87714997e50e50581accace3d0070",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.138015310Z"
+}

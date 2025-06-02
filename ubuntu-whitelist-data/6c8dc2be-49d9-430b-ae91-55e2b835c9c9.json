@@ -1,0 +1,17 @@
+{
+  "uuid": "6c8dc2be-49d9-430b-ae91-55e2b835c9c9",
+  "path": "/lib/systemd/system/emergency.service",
+  "size": 813,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "752cd679a1586701f92b0377c2089b9067cda8d0fb253a649ab54d6a9f8e375c",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.118027260Z"
+}

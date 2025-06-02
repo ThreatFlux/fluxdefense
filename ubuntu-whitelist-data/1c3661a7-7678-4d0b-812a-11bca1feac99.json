@@ -1,0 +1,17 @@
+{
+  "uuid": "1c3661a7-7678-4d0b-812a-11bca1feac99",
+  "path": "/usr/lib/systemd/system/systemd-resolved.service",
+  "size": 1898,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:12.158762064Z",
+  "sha256_hash": "db42a5af326aa171d320a3f18f5137c74025f84bf9fa2e58c5c9db335926c432",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.450709115Z"
+}

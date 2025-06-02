@@ -1,0 +1,17 @@
+{
+  "uuid": "614da672-fa44-41d5-a79e-1cd72a9b5dda",
+  "path": "/lib/firmware/mediatek/WIFI_MT7961_patch_mcu_1a_2_hdr.bin.zst",
+  "size": 51690,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.673539859Z",
+  "sha256_hash": "19614a8571266cb3925b673b2627b70603f03caddfa812213b6e06c5396842c9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.101775204Z"
+}

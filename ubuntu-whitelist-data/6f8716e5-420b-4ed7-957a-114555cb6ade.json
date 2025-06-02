@@ -1,0 +1,15 @@
+{
+  "uuid": "6f8716e5-420b-4ed7-957a-114555cb6ade",
+  "path": "/lib/i386-linux-gnu/gconv/UHC.so",
+  "size": 75148,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.284663355Z",
+  "sha256_hash": "4c4c39081128561be0ff668d3fdb161c1428818807178ced6697f10517885d12",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.820165809Z"
+}

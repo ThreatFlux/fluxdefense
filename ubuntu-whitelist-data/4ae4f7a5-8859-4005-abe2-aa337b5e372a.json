@@ -1,0 +1,17 @@
+{
+  "uuid": "4ae4f7a5-8859-4005-abe2-aa337b5e372a",
+  "path": "/usr/lib/python3.12/test/decimaltestdata/dqAdd.decTest",
+  "size": 89197,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.992551762Z",
+  "sha256_hash": "c177a8be4d5c325db9c8357907b046bcf3160fe998192c81da2b3b756cc31ed7",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.976508771Z"
+}

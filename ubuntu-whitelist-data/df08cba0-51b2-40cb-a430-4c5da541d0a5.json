@@ -1,0 +1,17 @@
+{
+  "uuid": "df08cba0-51b2-40cb-a430-4c5da541d0a5",
+  "path": "/usr/lib/x86_64-linux-gnu/libraqm.so.0.10.1",
+  "size": 30792,
+  "modified": "2024-04-08T16:18:07Z",
+  "created": "2025-05-09T05:07:32.037712176Z",
+  "sha256_hash": "9d72974146a848fef39f8341247509d1649ca33ac761a6e9f8feedac13b98bb5",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.964713700Z"
+}

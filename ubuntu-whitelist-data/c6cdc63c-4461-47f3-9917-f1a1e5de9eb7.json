@@ -1,0 +1,15 @@
+{
+  "uuid": "c6cdc63c-4461-47f3-9917-f1a1e5de9eb7",
+  "path": "/lib/llvm-18/bin/llvm-gsymutil",
+  "size": 60776,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.057487123Z",
+  "sha256_hash": "43be12539ea9961375a28988760126c7337766972a60261480925db9b6a4b47e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.777893985Z"
+}

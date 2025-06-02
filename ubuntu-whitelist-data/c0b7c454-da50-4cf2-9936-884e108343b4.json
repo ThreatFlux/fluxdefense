@@ -1,0 +1,15 @@
+{
+  "uuid": "c0b7c454-da50-4cf2-9936-884e108343b4",
+  "path": "/usr/lib/x86_64-linux-gnu/NetworkManager/libnm-gtk4-vpn-plugin-openvpn-editor.so",
+  "size": 190896,
+  "modified": "2024-03-31T09:21:00Z",
+  "created": "2025-05-09T05:07:35.168664398Z",
+  "sha256_hash": "a544d149f1578e6b9c52dbe54c0f291cdebd41a91149f7588f4bd4773dffd1c5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.125821273Z"
+}

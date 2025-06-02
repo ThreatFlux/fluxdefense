@@ -1,0 +1,15 @@
+{
+  "uuid": "e9b66c19-7c0c-4f37-83aa-cc18d523ee87",
+  "path": "/usr/lib/x86_64-linux-gnu/tracker-miners-3.0/extract-modules/libextract-html.so",
+  "size": 35048,
+  "modified": "2024-03-31T17:20:13Z",
+  "created": "2025-05-09T05:07:37.309631727Z",
+  "sha256_hash": "6908b35f28c81da9931913bad42bc52b70e8f66ea7f8f537d93f77734382548f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.205684982Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "5229bf3c-f5fc-4c4b-9780-64b4cd7bd257",
+  "path": "/lib/x86_64-linux-gnu/libjavascriptcoregtk-4.1.so.0.8.4",
+  "size": 31434576,
+  "modified": "2025-04-07T15:14:55Z",
+  "created": "2025-05-09T05:11:30.343075014Z",
+  "sha256_hash": "b3485697213c82cffa4068ddb749a7b38daaeeb909a56dfe5fe953f70c701da1",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.093897276Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "0d027d84-8c3d-40d1-a5ec-1fafb77c275b",
+  "path": "/usr/lib/x86_64-linux-gnu/libdebconfclient.so.0.0.0",
+  "size": 14528,
+  "modified": "2024-03-31T07:29:25Z",
+  "created": "2025-05-09T05:07:29.299753956Z",
+  "sha256_hash": "b0cba25f2e4b7a93a2eaa5cbc5607579dcfc91a1f4f6db262ccb4c6066a2f998",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.504801380Z"
+}

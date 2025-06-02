@@ -1,0 +1,17 @@
+{
+  "uuid": "14944ec5-c178-4e60-9d02-e059a71aa90f",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-tgl-max98357a-rt5682-pdm1-drceq.tplg.zst",
+  "size": 2843,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.061490937Z",
+  "sha256_hash": "5546982682deb0b4aadff02c1ec316930b9a8e8b1ea5c2d028e83d0adab850a2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.895070915Z"
+}

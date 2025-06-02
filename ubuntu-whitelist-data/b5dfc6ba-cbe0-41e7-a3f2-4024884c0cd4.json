@@ -1,0 +1,17 @@
+{
+  "uuid": "b5dfc6ba-cbe0-41e7-a3f2-4024884c0cd4",
+  "path": "/usr/bin/x86_64-linux-gnu-python3.12-config",
+  "size": 3027,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-26T18:06:52.213888164Z",
+  "sha256_hash": "4844058a2173a63790b7847f3eabd742ccda26d80e45be860cce048fed84d90e",
+  "file_type": {
+    "Other": "12-config"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.375119727Z"
+}

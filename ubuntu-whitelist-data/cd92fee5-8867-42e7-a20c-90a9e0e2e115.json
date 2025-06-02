@@ -1,0 +1,17 @@
+{
+  "uuid": "cd92fee5-8867-42e7-a20c-90a9e0e2e115",
+  "path": "/lib/llvm-18/include/clang/Basic/LangOptions.h",
+  "size": 35205,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "5eda746225d7e186ff49c0e53d91519c0f0befbd17bbf847bc82d34a041d39e6",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.090541214Z"
+}

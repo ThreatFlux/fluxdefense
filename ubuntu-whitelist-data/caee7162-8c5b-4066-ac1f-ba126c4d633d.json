@@ -1,0 +1,17 @@
+{
+  "uuid": "caee7162-8c5b-4066-ac1f-ba126c4d633d",
+  "path": "/usr/lib/firmware/go7007/s2250-1.fw.zst",
+  "size": 709,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.530541840Z",
+  "sha256_hash": "7f45892f1f13c19d790d80847b04fd25afe7ee1b9d4aa3157674b6f4afd296d6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.611757551Z"
+}

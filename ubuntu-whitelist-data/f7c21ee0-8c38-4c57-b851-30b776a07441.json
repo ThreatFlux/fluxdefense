@@ -1,0 +1,15 @@
+{
+  "uuid": "f7c21ee0-8c38-4c57-b851-30b776a07441",
+  "path": "/lib/llvm-18/bin/opt",
+  "size": 251368,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.089486701Z",
+  "sha256_hash": "67ebe8635087b5ebe22d8f085d5e5857e431f86be9ed76576e59b86b9743c0fb",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.877972297Z"
+}

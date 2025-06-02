@@ -1,0 +1,17 @@
+{
+  "uuid": "3e0e707d-e90f-4854-8975-70256e2bcd32",
+  "path": "/usr/lib/llvm-18/include/clang/Tooling/FileMatchTrie.h",
+  "size": 3419,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.553533265Z",
+  "sha256_hash": "712739dbf2073909f3284828911bc1740448dd3cf171ab1a31294b628cf16f35",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.416443265Z"
+}

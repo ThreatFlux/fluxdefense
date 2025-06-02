@@ -1,0 +1,17 @@
+{
+  "uuid": "2f6cf13c-fd7f-4887-9a43-ab5a5fe70460",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/tn_dict",
+  "size": 3072,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.556658477Z",
+  "sha256_hash": "67f68dc336e7c65b946c95414cc8ae96cd10d241783bf857b3f990ac73221b2b",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.275362760Z"
+}

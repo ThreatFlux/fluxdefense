@@ -1,0 +1,17 @@
+{
+  "uuid": "53e54822-2faf-41e1-be10-00d2365ec0fb",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/bits/syslog-ldbl.ph",
+  "size": 355,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.558590717Z",
+  "sha256_hash": "a5d88d77d2a25f41279a8597b84c62b0ed134a8b5c141643e9bef8711812d8da",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.590761050Z"
+}

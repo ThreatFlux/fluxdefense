@@ -1,0 +1,17 @@
+{
+  "uuid": "caa86e7a-81bf-4652-9e01-0aac87a1cbc7",
+  "path": "/lib/firmware/intel/sof-tplg/sof-rpl-cs42l43-l0.tplg.zst",
+  "size": 1660,
+  "modified": "2025-01-06T07:09:53Z",
+  "created": "2025-05-09T05:08:52.060490953Z",
+  "sha256_hash": "adaefaacdf019c3f45f6bb2aedb811062d204f52fed214e65cb9cae9f71598a7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.217120796Z"
+}

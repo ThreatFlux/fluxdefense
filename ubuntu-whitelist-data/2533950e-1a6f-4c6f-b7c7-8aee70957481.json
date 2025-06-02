@@ -1,0 +1,17 @@
+{
+  "uuid": "2533950e-1a6f-4c6f-b7c7-8aee70957481",
+  "path": "/usr/lib/systemd/system/proc-sys-fs-binfmt_misc.automount",
+  "size": 789,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "47343a113d95808039b11680c300debd6cdea9d30d911a4f4f2e40906a57d63c",
+  "file_type": {
+    "Other": "automount"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.469673567Z"
+}

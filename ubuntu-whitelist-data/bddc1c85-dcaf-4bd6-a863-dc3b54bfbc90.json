@@ -1,0 +1,17 @@
+{
+  "uuid": "bddc1c85-dcaf-4bd6-a863-dc3b54bfbc90",
+  "path": "/lib/firmware/yam/9600.bin.zst",
+  "size": 2496,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.086534138Z",
+  "sha256_hash": "3682863e88e98dc98ebfae2cba8fab3f738a06c712e18a1a3bc8134ba0dcc311",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.505574849Z"
+}

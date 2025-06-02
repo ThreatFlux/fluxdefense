@@ -1,0 +1,17 @@
+{
+  "uuid": "64f5aa41-5ee2-4c69-b803-599d4adcd16e",
+  "path": "/usr/lib/firmware/mediatek/mt7650.bin.zst",
+  "size": 215671,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.677539804Z",
+  "sha256_hash": "c0e824e3d27e3fb2d8456c9cc9cc9de191b4272e57d1decc8f56db73ce275e97",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.248575667Z"
+}

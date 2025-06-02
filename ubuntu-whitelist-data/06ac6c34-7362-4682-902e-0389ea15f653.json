@@ -1,0 +1,15 @@
+{
+  "uuid": "06ac6c34-7362-4682-902e-0389ea15f653",
+  "path": "/lib/x86_64-linux-gnu/wireplumber-0.4/libwireplumber-module-portal-permissionstore.so",
+  "size": 14496,
+  "modified": "2024-03-31T08:33:26Z",
+  "created": "2025-05-09T05:07:37.320631559Z",
+  "sha256_hash": "cc4f07cfa85bae620c739e8094faf95d91f46f5ca66ff31bac1907e8585d5a39",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.131319542Z"
+}

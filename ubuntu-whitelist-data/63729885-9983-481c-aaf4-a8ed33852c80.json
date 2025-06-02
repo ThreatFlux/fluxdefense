@@ -1,0 +1,17 @@
+{
+  "uuid": "63729885-9983-481c-aaf4-a8ed33852c80",
+  "path": "/lib/llvm-18/include/clang/Sema/IdentifierResolver.h",
+  "size": 6832,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.547533344Z",
+  "sha256_hash": "3f0884fdf8a8a30deb36196adb18ab5799f28145fbf3d579b917ce80c6ecba40",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.070114052Z"
+}

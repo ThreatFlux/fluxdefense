@@ -1,0 +1,17 @@
+{
+  "uuid": "d4902d14-e43e-42f3-af44-5b4817ef0a18",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/libavformat.pc",
+  "size": 505,
+  "modified": "2024-04-05T17:28:52Z",
+  "created": "2025-05-12T13:32:32.413101866Z",
+  "sha256_hash": "6d884b333a7ef8f1575c96e0ec8ca2c66a47bdc2148cb3c5c705661364497203",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.062447202Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "08082fea-12f9-4d4a-a62c-c19747638d51",
+  "path": "/usr/lib/firmware/asihpi/dsp8700.bin.zst",
+  "size": 165070,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.432543197Z",
+  "sha256_hash": "c48f349db0dbf56375ad8e00508d380de0eddaacd7e5e90e76384edbffbd6858",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.526700851Z"
+}

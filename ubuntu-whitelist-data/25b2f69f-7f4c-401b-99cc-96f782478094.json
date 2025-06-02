@@ -1,0 +1,17 @@
+{
+  "uuid": "25b2f69f-7f4c-401b-99cc-96f782478094",
+  "path": "/lib/firmware/iwlwifi-bz-b0-fm-c0-94.ucode.zst",
+  "size": 630666,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.616540648Z",
+  "sha256_hash": "c3f579a56ab584f1ca197ada6456aa8e888a26223d6453220a4f0bbcd8de982a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.197550739Z"
+}

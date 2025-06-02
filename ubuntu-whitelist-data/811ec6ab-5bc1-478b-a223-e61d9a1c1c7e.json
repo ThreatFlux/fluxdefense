@@ -1,0 +1,17 @@
+{
+  "uuid": "811ec6ab-5bc1-478b-a223-e61d9a1c1c7e",
+  "path": "/usr/lib/x86_64-linux-gnu/libdbus-glib-1.so.2.3.5",
+  "size": 174160,
+  "modified": "2024-03-31T00:50:49Z",
+  "created": "2025-05-09T05:07:29.291754078Z",
+  "sha256_hash": "5833ca1171113d2e83a0ebf3cced225212ed680f663517467a552f6da2ff7040",
+  "file_type": {
+    "Other": "5"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:26.243315532Z"
+}

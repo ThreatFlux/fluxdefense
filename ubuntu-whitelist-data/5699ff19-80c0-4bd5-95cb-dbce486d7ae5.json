@@ -1,0 +1,15 @@
+{
+  "uuid": "5699ff19-80c0-4bd5-95cb-dbce486d7ae5",
+  "path": "/usr/bin/systemd-analyze",
+  "size": 203624,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.504779240Z",
+  "sha256_hash": "c836c5e4d1f27a9b05daa0f3cee1d0451a719ad8c04936ba8768ec5a0da2616b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.518066557Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "ff43dd1c-420e-4733-9051-9ec94920ffe9",
+  "path": "/bin/apt-key",
+  "size": 28664,
+  "modified": "2024-10-22T13:02:22Z",
+  "created": "2025-05-30T21:04:50.159634116Z",
+  "sha256_hash": "45ec8c948cb0f17b38f27b4d8235596b17ece3b7eea5afcbb3be8b1ee5a98c77",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.453707125Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "55851c73-c3c9-46a3-b01f-90b7478fe0fd",
+  "path": "/lib/llvm-18/include/clang-tidy/readability/RedundantStringInitCheck.h",
+  "size": 1314,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "ec351268cb509e0ba63a78ed8410662599ce4abffc2d867e1288fce422af95cc",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.924954776Z"
+}

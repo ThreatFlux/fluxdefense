@@ -1,0 +1,15 @@
+{
+  "uuid": "d5fceb1c-abc1-4d7f-963f-07a92a97428b",
+  "path": "/usr/lib/brltty/libbrlttybpg.so",
+  "size": 22600,
+  "modified": "2024-03-31T00:24:15Z",
+  "created": "2025-05-09T05:07:21.027880181Z",
+  "sha256_hash": "2ca0505f7f1c52b8f5076577439e1060b9b403511c800a9ba3e782ffd7e545aa",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.254741601Z"
+}

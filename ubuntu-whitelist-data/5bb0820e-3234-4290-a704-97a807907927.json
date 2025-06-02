@@ -1,0 +1,17 @@
+{
+  "uuid": "5bb0820e-3234-4290-a704-97a807907927",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/g-hesorg.adb",
+  "size": 6168,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.068344901Z",
+  "sha256_hash": "9791d9ad332ace5498c3f68f06f5d5d22d623ae42bba80d8176a0486668b95be",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.176720646Z"
+}

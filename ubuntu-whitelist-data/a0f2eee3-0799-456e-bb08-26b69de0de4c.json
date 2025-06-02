@@ -1,0 +1,17 @@
+{
+  "uuid": "a0f2eee3-0799-456e-bb08-26b69de0de4c",
+  "path": "/usr/lib/firmware/i915/glk_huc_ver03_01_2893.bin.zst",
+  "size": 70310,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.538541729Z",
+  "sha256_hash": "82ca3266afa82dff7094b0cf1f952d785c62453a95c8b1a51e7c037f8d48fb32",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.808012551Z"
+}

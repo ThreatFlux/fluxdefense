@@ -1,0 +1,17 @@
+{
+  "uuid": "1791b1dc-8330-49fd-885c-127b38080178",
+  "path": "/lib/llvm-18/include/clang/Basic/TemplateKinds.h",
+  "size": 2272,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.532533542Z",
+  "sha256_hash": "150fa49d57c717c46b29ea21e9bc56d3331aabf542bb35cb8ae0f0001499805c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.173255260Z"
+}

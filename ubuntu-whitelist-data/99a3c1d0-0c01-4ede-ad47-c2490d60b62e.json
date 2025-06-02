@@ -1,0 +1,17 @@
+{
+  "uuid": "99a3c1d0-0c01-4ede-ad47-c2490d60b62e",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-excdeb.ali",
+  "size": 1831,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.137343953Z",
+  "sha256_hash": "d438bbefdce9efa3c946f79176669f375c88107284e4fa38cf23422e49f73faa",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.851766395Z"
+}

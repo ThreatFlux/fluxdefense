@@ -1,0 +1,17 @@
+{
+  "uuid": "af0f800f-aa2a-4e97-a4a4-d4edd07f152c",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/include/avx512vpopcntdqintrin.h",
+  "size": 3110,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.244389832Z",
+  "sha256_hash": "f08f27908c65c37b7a0350eb2d5fffee44c5ed13b4ff9a80fc4386a7c45960c5",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.927770002Z"
+}

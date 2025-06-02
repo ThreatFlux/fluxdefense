@@ -1,0 +1,17 @@
+{
+  "uuid": "d8f98bf0-1cbb-4a30-9199-6f1d0d601818",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/lib/crc7.ko.zst",
+  "size": 2330,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.114797272Z",
+  "sha256_hash": "deaed449e2583aa3c5bc21e8e1dd891e23c4693ab09920b53fcbfeee2bb91380",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.269313243Z"
+}

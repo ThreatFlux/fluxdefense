@@ -1,0 +1,17 @@
+{
+  "uuid": "fc5e10df-8155-4b4b-9b6b-924f000e6ef4",
+  "path": "/lib/x86_64-linux-gnu/libmenu.so.6.4",
+  "size": 43576,
+  "modified": "2024-04-08T16:14:03Z",
+  "created": "2025-05-09T05:07:31.344722750Z",
+  "sha256_hash": "4af1c4c5518ab5f6597e1244e8fadcd8fa183c29ee859cf03b51acfae4d425b6",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.216401661Z"
+}

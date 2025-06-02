@@ -1,0 +1,17 @@
+{
+  "uuid": "ea98f59e-5a50-479d-957d-a17a7b40ba12",
+  "path": "/lib/x86_64-linux-gnu/libflite_cmu_us_slt.so.2.2",
+  "size": 4155528,
+  "modified": "2024-04-07T07:12:09Z",
+  "created": "2025-05-09T05:09:24.131001483Z",
+  "sha256_hash": "03ccfdbdd4df4135e0a825f9810fce1fe051cc739c36ccc75a9947a114cdd55f",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.529605524Z"
+}

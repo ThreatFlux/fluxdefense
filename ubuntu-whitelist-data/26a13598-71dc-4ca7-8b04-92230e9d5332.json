@@ -1,0 +1,17 @@
+{
+  "uuid": "26a13598-71dc-4ca7-8b04-92230e9d5332",
+  "path": "/usr/lib/firmware/i915/icl_dmc_ver1_07.bin.zst",
+  "size": 4175,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.538541729Z",
+  "sha256_hash": "a39b93aba5d63748b476547cd9528799ddbafb4e609a624331c5ec1112b279f2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.771827379Z"
+}

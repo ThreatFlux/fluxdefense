@@ -1,0 +1,15 @@
+{
+  "uuid": "1621e432-6670-41d6-97ab-d67d77a87fb4",
+  "path": "/lib/google-cloud-sdk/lib/third_party/overrides/enforce.py",
+  "size": 1623,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.117942387Z",
+  "sha256_hash": "6e8fb41df37f5e72136525688b6c387c32b7576bade2f0252c4ef16e4c2aa481",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.977449428Z"
+}

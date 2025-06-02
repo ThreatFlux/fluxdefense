@@ -1,0 +1,17 @@
+{
+  "uuid": "fd8868e3-c41f-491b-b92d-66763f73e006",
+  "path": "/lib/udev/rules.d/70-touchpad.rules",
+  "size": 473,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "8d81de6a6d5b5703098518f977c3b984bdf179238402a8ca0205f85cde798a27",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.239382748Z"
+}

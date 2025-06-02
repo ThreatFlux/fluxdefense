@@ -1,0 +1,15 @@
+{
+  "uuid": "8a198673-ef50-48ae-8dae-0b6d63b0cb77",
+  "path": "/usr/lib/llvm-18/lib/LLVMgold.so",
+  "size": 85744,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:30.769543591Z",
+  "sha256_hash": "a51cb73e181428f99b99a892dbf6395ae4b99dba3768b8ef008ff9e6430b2287",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:31.172776510Z"
+}

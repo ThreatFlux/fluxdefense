@@ -1,0 +1,15 @@
+{
+  "uuid": "5ea07e1d-49eb-4e68-a07b-22523e4085a4",
+  "path": "/lib/x86_64-linux-gnu/NetworkManager/1.46.0/libnm-device-plugin-wifi.so",
+  "size": 310624,
+  "modified": "2024-10-23T11:04:42Z",
+  "created": "2025-05-09T05:07:35.174664306Z",
+  "sha256_hash": "6d7f61f52fd89476b137acb82c11a8175adfdcf93677b178b88563f04660be46",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.720116246Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "efa1a305-c403-4d2c-8eb2-297874fece92",
+  "path": "/usr/lib/x86_64-linux-gnu/libss.so.2.0",
+  "size": 30800,
+  "modified": "2024-04-28T23:44:46Z",
+  "created": "2025-05-09T05:07:32.205709612Z",
+  "sha256_hash": "74ec695f8d344c0a6a48f85d38b8ecf98f675de5ce30ed6e458c75c97f4f387d",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.484369827Z"
+}

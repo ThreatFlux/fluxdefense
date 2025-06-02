@@ -1,0 +1,17 @@
+{
+  "uuid": "ac2a6346-0c53-4157-861c-f55389580524",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-bignum.adb",
+  "size": 6125,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.074344818Z",
+  "sha256_hash": "4531beb1b7bad6a62f3df63c85b56b1f9c4e953200897b721e55b849569dd0ec",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.295456206Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "3b52f618-306a-4d78-8d4e-c25840381a06",
+  "path": "/usr/lib/x86_64-linux-gnu/libcap-ng.so.0.0.0",
+  "size": 26848,
+  "modified": "2024-03-31T07:45:22Z",
+  "created": "2025-05-09T05:07:29.208755345Z",
+  "sha256_hash": "25349c22956c7af94f46e728d7e4c1eba57d0e4a0517f72781fb495d541eeef3",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.046053802Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "60eb582d-b7ab-4b4c-9075-9a5945565cd6",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-locale.adb",
+  "size": 3114,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.053345107Z",
+  "sha256_hash": "bc1529cf8901297c489dddf3b6447660bb9cdc6e3671ac3242fbe13bc01da6a5",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.093943226Z"
+}

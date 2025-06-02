@@ -1,0 +1,17 @@
+{
+  "uuid": "eca4afec-6c51-4819-92f2-fe16e96c9385",
+  "path": "/lib/x86_64-linux-gnu/samba/libdbwrap-samba4.so.0",
+  "size": 47336,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.045635755Z",
+  "sha256_hash": "ba17e96b79e20f12eb2da0e2ab72c656365cac178021e6f65982514adff7a8ba",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.533746841Z"
+}

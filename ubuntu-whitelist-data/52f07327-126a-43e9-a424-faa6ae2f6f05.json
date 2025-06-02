@@ -1,0 +1,17 @@
+{
+  "uuid": "52f07327-126a-43e9-a424-faa6ae2f6f05",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/MultipleNewInOneExpressionCheck.h",
+  "size": 1326,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "2a9fac96202dcff72e5a14892b739f653d1fa6d0bb5c03442b4d4574232644a2",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.227586434Z"
+}

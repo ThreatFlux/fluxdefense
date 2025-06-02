@@ -1,0 +1,15 @@
+{
+  "uuid": "d4a375bc-66cd-4f93-9805-a999f7882500",
+  "path": "/sbin/pptp",
+  "size": 68664,
+  "modified": "2024-04-08T16:16:11Z",
+  "created": "2025-05-09T05:07:38.404615017Z",
+  "sha256_hash": "b1968fe937d1d9f109941bd8f9a8e22582b293adde9c298c3a7b0ddab83523be",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.968887454Z"
+}

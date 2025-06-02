@@ -1,0 +1,17 @@
+{
+  "uuid": "73b9e770-a7fc-4204-8ede-fac0e1a9449b",
+  "path": "/usr/lib/firmware/intel/sof-ipc4-tplg/sof-mtl-max98357a-rt5682-ssp2-ssp0.tplg.zst",
+  "size": 3923,
+  "modified": "2025-01-06T07:09:53Z",
+  "created": "2025-05-09T05:08:52.055491029Z",
+  "sha256_hash": "18c58b1ee857c1c4333c807e6104bd9e42c4e07d02837df19115f9db9a18e2d7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.689116945Z"
+}

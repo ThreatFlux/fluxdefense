@@ -1,0 +1,17 @@
+{
+  "uuid": "e9a078db-f61f-4d13-b555-983acff26327",
+  "path": "/usr/lib/systemd/system/sysstat-collect.timer",
+  "size": 325,
+  "modified": "2024-01-09T20:31:44Z",
+  "created": "2025-05-09T05:07:28.301769185Z",
+  "sha256_hash": "241a0094bc117bdbd71e79a3ca1f88920cebac98084aaef89fdb7ac3c72d810b",
+  "file_type": {
+    "Other": "timer"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.447558675Z"
+}

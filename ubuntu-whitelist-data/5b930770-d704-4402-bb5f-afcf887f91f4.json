@@ -1,0 +1,15 @@
+{
+  "uuid": "5b930770-d704-4402-bb5f-afcf887f91f4",
+  "path": "/bin/fprintd-verify",
+  "size": 88448,
+  "modified": "2024-04-04T01:58:13Z",
+  "created": "2025-05-09T05:07:19.228907633Z",
+  "sha256_hash": "46f82ab6dd2b890b8fcba851b251eb338d5a8be60cd3b76bf56eef5bddb1a90a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.407893255Z"
+}

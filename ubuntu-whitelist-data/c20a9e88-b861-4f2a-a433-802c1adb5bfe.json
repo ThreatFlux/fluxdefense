@@ -1,0 +1,15 @@
+{
+  "uuid": "c20a9e88-b861-4f2a-a433-802c1adb5bfe",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM5347.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.278663446Z",
+  "sha256_hash": "4bf7fb549dc41b89d1b5e9905553c6593f4406850276552e9cd7ce24d62df34b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.941393279Z"
+}

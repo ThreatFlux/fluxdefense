@@ -1,0 +1,17 @@
+{
+  "uuid": "63115503-498b-47f2-b29b-40324ef2f845",
+  "path": "/lib/x86_64-linux-gnu/libGLX.so.0.0.0",
+  "size": 137792,
+  "modified": "2024-04-08T16:04:01Z",
+  "created": "2025-05-09T05:07:28.452766881Z",
+  "sha256_hash": "16fc8a37eea9210dc83c57eeff5aedc10ab4c6673f2f97e8bb6ee103df657b40",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.251791278Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "43b80711-dacc-4184-b204-8fc465c986db",
+  "path": "/bin/foo2slx",
+  "size": 31736,
+  "modified": "2024-04-10T21:38:27Z",
+  "created": "2025-05-09T05:07:19.223907709Z",
+  "sha256_hash": "099135111eae1035814992ec2d14427b610cc377678e82ede42b0c48c2d51138",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.679924887Z"
+}

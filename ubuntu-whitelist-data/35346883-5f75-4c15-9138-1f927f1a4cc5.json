@@ -1,0 +1,17 @@
+{
+  "uuid": "35346883-5f75-4c15-9138-1f927f1a4cc5",
+  "path": "/lib/modprobe.d/nvidia-graphics-drivers.conf",
+  "size": 81,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:03.410986394Z",
+  "sha256_hash": "df00dcba885df973181cfd63f55d645728908162f0d794a44810ff48f10772d0",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.186484361Z"
+}

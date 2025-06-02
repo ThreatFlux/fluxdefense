@@ -1,0 +1,17 @@
+{
+  "uuid": "92ac7a54-1f3c-4336-b689-e2789b8df77f",
+  "path": "/usr/lib/x86_64-linux-gnu/libusbmuxd-2.0.so.6.0.0",
+  "size": 43016,
+  "modified": "2024-04-05T08:05:58Z",
+  "created": "2025-05-09T05:07:32.350707399Z",
+  "sha256_hash": "3b1caaf8f08dcf2f8c2a0067e8fb8e0e7cc3ac8e3bb00e7074ee983082ae30d6",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.322821461Z"
+}

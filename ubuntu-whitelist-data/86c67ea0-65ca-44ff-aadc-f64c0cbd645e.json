@@ -1,0 +1,15 @@
+{
+  "uuid": "86c67ea0-65ca-44ff-aadc-f64c0cbd645e",
+  "path": "/usr/lib/python3/dist-packages/suricata/update/loghandler.py",
+  "size": 3857,
+  "modified": "2023-07-07T17:38:45Z",
+  "created": "2025-05-26T20:18:27.985008880Z",
+  "sha256_hash": "399ed599759042595f0e9434171e0d5b0fbc8d8f0350514424574e331fde97d6",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.494759789Z"
+}

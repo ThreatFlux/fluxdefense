@@ -1,0 +1,15 @@
+{
+  "uuid": "0903219d-ac32-4b18-bd1e-9e10379ac426",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/libobjc.a",
+  "size": 670094,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-12T13:34:30.465547594Z",
+  "sha256_hash": "77b4af50dce0d089f79d827bdf5d5e90e34ccb00f254f80028e4d6af243dd7ee",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.675934600Z"
+}

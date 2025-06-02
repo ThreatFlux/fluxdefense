@@ -1,0 +1,17 @@
+{
+  "uuid": "0b737b02-1ab4-4fa7-8be6-7d0191fcafe6",
+  "path": "/lib/x86_64-linux-gnu/libip6tc.so.2.0.0",
+  "size": 35440,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:30.562734683Z",
+  "sha256_hash": "4fce842ed1d615f13efa50c3068fd26964f051836b2bf8d69a06de17834b5765",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.798477996Z"
+}

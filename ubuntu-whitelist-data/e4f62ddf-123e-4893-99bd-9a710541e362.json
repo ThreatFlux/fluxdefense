@@ -1,0 +1,17 @@
+{
+  "uuid": "e4f62ddf-123e-4893-99bd-9a710541e362",
+  "path": "/lib/python3.12/test/crashers/__pycache__/trace_at_recursion_limit.cpython-312.pyc",
+  "size": 931,
+  "modified": "2025-05-28T17:29:53.300482066Z",
+  "created": "2025-05-28T17:29:53.300482066Z",
+  "sha256_hash": "d6698371fbac8265ba2d6343a3b10a1eb895917a60f09719f03641b375f7877f",
+  "file_type": {
+    "Other": "pyc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.323857479Z"
+}

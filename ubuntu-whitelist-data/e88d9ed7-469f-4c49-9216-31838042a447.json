@@ -1,0 +1,17 @@
+{
+  "uuid": "e88d9ed7-469f-4c49-9216-31838042a447",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/a-coboho.adb",
+  "size": 4841,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.048345176Z",
+  "sha256_hash": "d671efc27fffd35c132dda6ccac88a01fc5a29e6395bfaf0e5ce5d31ec55fb5a",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.011551723Z"
+}

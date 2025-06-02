@@ -1,0 +1,17 @@
+{
+  "uuid": "e2a988c4-8de1-4049-a625-6a7df43501d7",
+  "path": "/lib/x86_64-linux-gnu/libntfs-3g.so.89.0.0",
+  "size": 334464,
+  "modified": "2024-04-08T14:46:29Z",
+  "created": "2025-05-09T05:07:31.750716555Z",
+  "sha256_hash": "209cec903b2d0b488ab52364f521e2f974f41b8d04271747f1a91f76867c674c",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.846452259Z"
+}

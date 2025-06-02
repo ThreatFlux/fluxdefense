@@ -1,0 +1,15 @@
+{
+  "uuid": "dda610ad-a44d-4650-b7ec-6160d9f6596a",
+  "path": "/lib/llvm-18/lib/libLLVMLoongArchDisassembler.a",
+  "size": 71386,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.917462626Z",
+  "sha256_hash": "28fa82b94de3cc79b74d251b215d831d204997bb92b76dc2cffdffe3b2b83c68",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.511221990Z"
+}

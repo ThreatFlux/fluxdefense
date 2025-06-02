@@ -1,0 +1,17 @@
+{
+  "uuid": "7a8d8d2b-cd1b-4cde-b948-d903835977ee",
+  "path": "/usr/lib/systemd/system-shutdown/fwupd.shutdown",
+  "size": 252,
+  "modified": "2025-03-25T17:48:06Z",
+  "created": "2025-05-09T05:24:28.639976146Z",
+  "sha256_hash": "94a98b9c481205cbc533bbc70f805777b29f5712ec9a468f18c3f3ba0fe20826",
+  "file_type": {
+    "Other": "shutdown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.556558607Z"
+}

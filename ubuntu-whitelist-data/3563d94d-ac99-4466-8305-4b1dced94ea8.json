@@ -1,0 +1,15 @@
+{
+  "uuid": "3563d94d-ac99-4466-8305-4b1dced94ea8",
+  "path": "/usr/lib/python3/dist-packages/uaclient/upgrade_lts_contract.py",
+  "size": 3627,
+  "modified": "2025-02-19T15:13:27Z",
+  "created": "2025-05-09T05:24:25.027928558Z",
+  "sha256_hash": "a2e9db7aa1aa946ae583f844345a6ce08847be5c110d6976b42949270adb689c",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.772565699Z"
+}

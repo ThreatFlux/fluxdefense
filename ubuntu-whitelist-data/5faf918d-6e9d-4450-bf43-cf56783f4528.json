@@ -1,0 +1,15 @@
+{
+  "uuid": "5faf918d-6e9d-4450-bf43-cf56783f4528",
+  "path": "/usr/lib/python3/dist-packages/uaclient/livepatch.py",
+  "size": 13160,
+  "modified": "2025-02-19T13:15:01Z",
+  "created": "2025-05-09T05:24:25.026928545Z",
+  "sha256_hash": "c43170a4b4ce2bed18282d2aeb517d3c816e00022d80996eef8a43e5e919623c",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.786447879Z"
+}

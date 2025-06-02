@@ -1,0 +1,17 @@
+{
+  "uuid": "caf23cde-78b0-45a0-98ba-153f31f9d64b",
+  "path": "/lib/x86_64-linux-gnu/perl-base/Tie/Hash.pm",
+  "size": 2044,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.354578566Z",
+  "sha256_hash": "a131e43412178c8558a71c2ddbb230d685c2a750056c52eee0a8f4e20fa96781",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.906493900Z"
+}

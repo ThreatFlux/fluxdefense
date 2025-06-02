@@ -1,0 +1,15 @@
+{
+  "uuid": "72bdbb44-47cf-482c-a010-a802bdf2b1e1",
+  "path": "/usr/lib/x86_64-linux-gnu/libv4l/v4l2convert.so",
+  "size": 14488,
+  "modified": "2024-04-07T07:24:04Z",
+  "created": "2025-05-09T05:07:36.543643416Z",
+  "sha256_hash": "806070ba3f60aca65bba66194d8afdd07d5d552019beafab7ff8e7a4a0f49bf6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.325509194Z"
+}

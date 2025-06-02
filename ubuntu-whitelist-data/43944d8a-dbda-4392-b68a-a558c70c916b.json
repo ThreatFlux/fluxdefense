@@ -1,0 +1,17 @@
+{
+  "uuid": "43944d8a-dbda-4392-b68a-a558c70c916b",
+  "path": "/usr/lib/x86_64-linux-gnu/graphviz/libgvplugin_gtk.so.6.0.0",
+  "size": 31840,
+  "modified": "2024-05-11T18:31:23Z",
+  "created": "2025-05-29T11:16:25.121797767Z",
+  "sha256_hash": "b65be59e88b626d0494bb55056f372b3d5cd64558a73df8448ab353ac3f7c2b3",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:30.296568205Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "376a5a27-d15e-414e-83c2-32cd07a22b9e",
+  "path": "/lib/systemd/user/org.gnome.SettingsDaemon.Power.target",
+  "size": 352,
+  "modified": "2024-04-18T10:59:35Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "c8981be69419c1d2a6237d692c52673d239fadceb10f0efcfc270ad5a000372d",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.143636375Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "8385cb20-2807-4668-9e1e-7748c9324091",
+  "path": "/lib/udev/hwdb.d/70-pointingstick.hwdb",
+  "size": 6243,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.060786348Z",
+  "sha256_hash": "2f896f73c4eeacd0380e674b2edc924245a9aa7cced17b67a8be85003343c674",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.255108866Z"
+}

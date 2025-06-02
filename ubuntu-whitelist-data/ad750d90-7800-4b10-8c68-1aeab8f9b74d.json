@@ -1,0 +1,17 @@
+{
+  "uuid": "ad750d90-7800-4b10-8c68-1aeab8f9b74d",
+  "path": "/usr/lib/x86_64-linux-gnu/libshout.so.3.2.0",
+  "size": 118080,
+  "modified": "2024-03-31T07:58:36Z",
+  "created": "2025-05-09T05:07:32.160710299Z",
+  "sha256_hash": "c9f8c7b6abe579fcee4d7fe785d06c0f385855ca67330f60b1323e34e5e8e8f6",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.449040802Z"
+}

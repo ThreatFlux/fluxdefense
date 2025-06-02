@@ -1,0 +1,17 @@
+{
+  "uuid": "f58e98cb-b3ed-4893-b0d8-ed618df6d9e3",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/finclude/openacc.f90",
+  "size": 52221,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:14.305355382Z",
+  "sha256_hash": "ae4ed673da1c40c896b37b4fa33ac284daa582fbe0556b5bf27144f9485e8653",
+  "file_type": {
+    "Other": "f90"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.631637660Z"
+}

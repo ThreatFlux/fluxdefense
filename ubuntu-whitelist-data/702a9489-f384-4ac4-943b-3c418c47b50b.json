@@ -1,0 +1,15 @@
+{
+  "uuid": "702a9489-f384-4ac4-943b-3c418c47b50b",
+  "path": "/lib/libreoffice/program/libsmdlo.so",
+  "size": 35664,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:07.049430581Z",
+  "sha256_hash": "a2957d968aeaded6997b361e58426663930ecdb0f4ad9c044935004138bcf9e4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:49.705522384Z"
+}

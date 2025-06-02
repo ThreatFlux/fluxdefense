@@ -1,0 +1,17 @@
+{
+  "uuid": "0aa1bdfa-e6d5-47d7-9718-6f6faedb7d71",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/g-wispch.adb",
+  "size": 2804,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.072344846Z",
+  "sha256_hash": "f5ab6f122f9d3b87e05a6141297a2a3e2f927a02c408a89a50b191af6c94713c",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.028229173Z"
+}

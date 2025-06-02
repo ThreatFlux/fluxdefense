@@ -1,0 +1,17 @@
+{
+  "uuid": "0eb1bd21-6089-4fa0-befb-4cccd458cccb",
+  "path": "/usr/lib/firmware/amdgpu/polaris10_sdma1.bin.zst",
+  "size": 4721,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.409543516Z",
+  "sha256_hash": "79c822c48c065b23fc2f141dd044a415df1d0e0e0f487bebdc9a45ee5eac0714",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.830008242Z"
+}

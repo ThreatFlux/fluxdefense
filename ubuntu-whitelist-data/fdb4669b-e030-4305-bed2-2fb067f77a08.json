@@ -1,0 +1,17 @@
+{
+  "uuid": "fdb4669b-e030-4305-bed2-2fb067f77a08",
+  "path": "/lib/firmware/intel-ucode/06-4e-03.initramfs",
+  "size": 106496,
+  "modified": "2025-05-22T12:00:47Z",
+  "created": "2025-05-27T21:53:48.437414901Z",
+  "sha256_hash": "2bbc1de08a66818f3f30f91e398d4ce0653a0a135954d4b12a9fe24d4da90819",
+  "file_type": {
+    "Other": "initramfs"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.154978258Z"
+}

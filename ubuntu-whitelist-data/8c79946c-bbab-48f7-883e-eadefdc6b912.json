@@ -1,0 +1,17 @@
+{
+  "uuid": "8c79946c-bbab-48f7-883e-eadefdc6b912",
+  "path": "/lib/firmware/nvidia/gm200/gr/sw_bundle_init.bin.zst",
+  "size": 1683,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.937536202Z",
+  "sha256_hash": "0eb393e92792a111e8613af28fa2613b27c51621549274412575d90dc56dd3ae",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.422292052Z"
+}

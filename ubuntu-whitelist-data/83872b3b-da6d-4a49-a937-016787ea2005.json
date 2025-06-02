@@ -1,0 +1,17 @@
+{
+  "uuid": "83872b3b-da6d-4a49-a937-016787ea2005",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/readability/DuplicateIncludeCheck.h",
+  "size": 1213,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "52ca778213033883f1db90518dd21737363cafd99054312014f05f0e3b916794",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.289912456Z"
+}

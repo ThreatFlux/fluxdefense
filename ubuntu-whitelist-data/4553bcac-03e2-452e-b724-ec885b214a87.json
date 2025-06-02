@@ -1,0 +1,15 @@
+{
+  "uuid": "4553bcac-03e2-452e-b724-ec885b214a87",
+  "path": "/usr/lib/x86_64-linux-gnu/gtk-2.0/2.10.0/printbackends/libprintbackend-test.so",
+  "size": 23208,
+  "modified": "2024-07-15T16:53:59Z",
+  "created": "2025-05-09T05:07:35.799654769Z",
+  "sha256_hash": "fb826abdfffb8816103e5ca0cb1db5f1ab52979320f90d94c83d6286820837eb",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.316322088Z"
+}

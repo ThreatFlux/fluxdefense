@@ -1,0 +1,17 @@
+{
+  "uuid": "b2041ec2-08e4-47a1-864d-79b34fd887f1",
+  "path": "/lib/llvm-18/include/clang/Basic/arm_sve_typeflags.inc",
+  "size": 3113,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.537533476Z",
+  "sha256_hash": "bb542a952d5c1d519e658e8ec00f31ac963f24b75cd8868676568b1840d01097",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.082357906Z"
+}

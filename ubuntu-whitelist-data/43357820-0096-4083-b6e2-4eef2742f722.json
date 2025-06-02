@@ -1,0 +1,15 @@
+{
+  "uuid": "43357820-0096-4083-b6e2-4eef2742f722",
+  "path": "/sbin/nodestat-bpfcc",
+  "size": 54,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "cb8d2d445f81d9f8857d6f468630ca9d2552515d7a868b2fcd5b201f397626ba",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.989100519Z"
+}

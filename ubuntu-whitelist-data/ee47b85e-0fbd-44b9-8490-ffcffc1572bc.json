@@ -1,0 +1,17 @@
+{
+  "uuid": "ee47b85e-0fbd-44b9-8490-ffcffc1572bc",
+  "path": "/usr/lib/firmware/qat_895xcc.bin.zst",
+  "size": 34372,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.965535814Z",
+  "sha256_hash": "51deb1be1233751426e5ce0efe8741be451d0e96acae0cd45e9fa32092cb69d7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.519956909Z"
+}

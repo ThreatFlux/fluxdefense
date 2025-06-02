@@ -1,0 +1,17 @@
+{
+  "uuid": "f68fd1eb-175b-4027-8909-c56f4607a9b0",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/a-exstat.adb",
+  "size": 8310,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.052345121Z",
+  "sha256_hash": "751a2980509212ad131166487c480886cec8d3131258fc715df1f0daec369eb4",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.859571230Z"
+}

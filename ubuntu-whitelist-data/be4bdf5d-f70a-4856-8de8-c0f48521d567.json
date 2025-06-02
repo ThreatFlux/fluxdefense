@@ -1,0 +1,17 @@
+{
+  "uuid": "be4bdf5d-f70a-4856-8de8-c0f48521d567",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/finclude/omp_lib_kinds.mod",
+  "size": 2656,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:14.305355382Z",
+  "sha256_hash": "aa3e113c4eb803c95410a12a830a7f327295c8aecbc1fc654fc5687671e4ad45",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.582797604Z"
+}

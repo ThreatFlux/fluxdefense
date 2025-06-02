@@ -1,0 +1,17 @@
+{
+  "uuid": "39fad359-a7e4-4933-aec5-941791808a6d",
+  "path": "/usr/lib/firmware/amdgpu/navy_flounder_mec.bin.zst",
+  "size": 38367,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.406543557Z",
+  "sha256_hash": "537b1f168ee8a93c193ed2ab6fd5764f145ccad798375a316c5d51ff2fc81e1f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.761786234Z"
+}

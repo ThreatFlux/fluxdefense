@@ -1,0 +1,17 @@
+{
+  "uuid": "622e14c7-0e26-4014-91ae-41a20f585b36",
+  "path": "/lib/google-cloud-sdk/platform/bq/discovery_next/iam-policy.json",
+  "size": 522453,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.815930528Z",
+  "sha256_hash": "0e7669ed3db375a0db25e4a2dcf3d766c806360337117dd743e31983c9dd5822",
+  "file_type": {
+    "Other": "json"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.003876284Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f7de4d11-8009-4b55-8e4a-7048fdbe34e2",
+  "path": "/lib/ipxe/qemu/pxe-pcnet.rom",
+  "size": 91648,
+  "modified": "2024-04-16T21:17:04Z",
+  "created": "2025-05-09T05:56:50.419632725Z",
+  "sha256_hash": "819be0ec287c2e8830d34b0ceae74958ff4b6ffbcdd32e9e92c53c39360f3e23",
+  "file_type": {
+    "Other": "rom"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.451594590Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e0f0c55a-a23a-452d-9576-62c92d86065c",
+  "path": "/sbin/runqlat.bt",
+  "size": 788,
+  "modified": "2024-03-07T22:14:52Z",
+  "created": "2025-05-09T05:08:51.886493608Z",
+  "sha256_hash": "64c96ce501a0c801bca84ee4d030f75488e2da55d24e83bb751f4b91114f5d14",
+  "file_type": {
+    "Other": "bt"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.742778167Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a7d61c29-9959-4c36-9199-376fd280f97e",
+  "path": "/lib/x86_64-linux-gnu/libsemanage.so.2",
+  "size": 262288,
+  "modified": "2024-03-31T02:16:21Z",
+  "created": "2025-05-09T05:07:32.153710405Z",
+  "sha256_hash": "463e60d71e72bc97240fb17bdca7d80eb9d9b42be209cb65944c1e74aa0fac87",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.333361013Z"
+}

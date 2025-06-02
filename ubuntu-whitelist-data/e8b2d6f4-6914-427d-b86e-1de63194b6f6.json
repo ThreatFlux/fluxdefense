@@ -1,0 +1,17 @@
+{
+  "uuid": "e8b2d6f4-6914-427d-b86e-1de63194b6f6",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/readability/NonConstParameterCheck.h",
+  "size": 2187,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "86e6c57ca72989420b4fc4703e1e67d8fcd1d0cd0396a1d8ebc86babb66d9ebe",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.283669705Z"
+}

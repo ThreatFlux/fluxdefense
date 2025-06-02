@@ -1,0 +1,17 @@
+{
+  "uuid": "b93feee0-e137-4875-a83d-f53c8f6c6182",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/g-socket.adb",
+  "size": 91753,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.070344873Z",
+  "sha256_hash": "9828dd563a9fcd8509c8d2c9eaa70f0c6dbc292986794ad36640fd9bce2f1c29",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.924479816Z"
+}

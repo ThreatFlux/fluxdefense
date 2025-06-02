@@ -1,0 +1,17 @@
+{
+  "uuid": "8632c19e-b073-40ef-b62d-7c6c38b237ef",
+  "path": "/usr/lib/x86_64-linux-gnu/samba/libroken-samba4.so.0",
+  "size": 72368,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.084635161Z",
+  "sha256_hash": "e33799bdbce4ff2b3e90d7ca8e7b50984e627846056b237e9889f651f91b9721",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.346013407Z"
+}

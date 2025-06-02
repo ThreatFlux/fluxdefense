@@ -1,0 +1,15 @@
+{
+  "uuid": "953a3621-8d45-4a4a-bb90-3e6bfef374e7",
+  "path": "/usr/lib/evolution-data-server/registry-modules/module-secret-monitor.so",
+  "size": 15112,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:21.658870553Z",
+  "sha256_hash": "8ed437d07f21dcbade8fdb32f8965d8edde01a060a862faaa4c94ce31e8da8d7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.047107549Z"
+}

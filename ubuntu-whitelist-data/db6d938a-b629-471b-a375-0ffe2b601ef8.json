@@ -1,0 +1,15 @@
+{
+  "uuid": "db6d938a-b629-471b-a375-0ffe2b601ef8",
+  "path": "/bin/gnome-terminal",
+  "size": 3400,
+  "modified": "2024-03-31T06:13:09Z",
+  "created": "2025-05-09T05:07:19.668900918Z",
+  "sha256_hash": "3a216a90f1285c1f59bb00f88728856b18d196ead203881d94e9739f588428ec",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.814340753Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "2fcb9a8d-3e14-44fe-b591-6140edfcf7b8",
+  "path": "/bin/dh_testdir",
+  "size": 1337,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.514341255Z",
+  "sha256_hash": "b987387d2ee55315b27a4de8a52dc3c07be05112bc78ac6a0ed63e53b6738740",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.979380642Z"
+}

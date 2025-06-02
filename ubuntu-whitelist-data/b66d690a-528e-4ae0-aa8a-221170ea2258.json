@@ -1,0 +1,15 @@
+{
+  "uuid": "b66d690a-528e-4ae0-aa8a-221170ea2258",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/gpg.py",
+  "size": 8186,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.239037216Z",
+  "sha256_hash": "bdd4ec15b932e23271daf8bac55252f9a8b7b5618d3dd97982d553f45e5380ef",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.834359251Z"
+}

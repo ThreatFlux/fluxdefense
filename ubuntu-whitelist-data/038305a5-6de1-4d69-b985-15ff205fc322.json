@@ -1,0 +1,17 @@
+{
+  "uuid": "038305a5-6de1-4d69-b985-15ff205fc322",
+  "path": "/lib/cups/driver/driverless",
+  "size": 31120,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.051879815Z",
+  "sha256_hash": "0c997880329c9a311c47206987144ac68172646a4bce4bdb515221cce3cc6ddd",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.674176379Z"
+}

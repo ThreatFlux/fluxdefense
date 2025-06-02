@@ -1,0 +1,17 @@
+{
+  "uuid": "ec51b362-a2d3-485f-a650-0ee41eea8d53",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-sm3840.so.1.2.1",
+  "size": 116968,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.159634016Z",
+  "sha256_hash": "69787a2b1c005baa6bb23416ce3c924041b0e18a8e0b20d20c18f2cc18051293",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.762794927Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b65d8a4b-0ae3-49dd-a03d-c2201dbfdfd8",
+  "path": "/lib/firmware/intel/sof-ipc4-tplg/sof-mtl-max98357a-rt5682-ssp2-ssp0-2ch-pdm1-google-aec.tplg.zst",
+  "size": 4376,
+  "modified": "2025-01-06T07:09:53Z",
+  "created": "2025-05-09T05:08:52.055491029Z",
+  "sha256_hash": "1f36273f257cee39fa62242876b22f79b7151238d28bfc3231356ff8c4ab0739",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.065421115Z"
+}

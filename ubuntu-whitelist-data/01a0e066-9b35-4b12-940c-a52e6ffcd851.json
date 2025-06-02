@@ -1,0 +1,17 @@
+{
+  "uuid": "01a0e066-9b35-4b12-940c-a52e6ffcd851",
+  "path": "/usr/lib/firmware/qcom/qrb4210/cdspr.jsn",
+  "size": 403,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.006535247Z",
+  "sha256_hash": "15e148599165b38f68e62302d63c87caa5f0b164deb81aa419bbb4ecf920bc4b",
+  "file_type": {
+    "Other": "jsn"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.217136222Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "0a09db3e-47d2-4f79-9333-e9215897e799",
+  "path": "/usr/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-thuraya.so",
+  "size": 22704,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.161664505Z",
+  "sha256_hash": "afae00b728176ebcbd58021f1551c1daa276b78a108f290f5fb6c1da66a6b8b3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.069223565Z"
+}

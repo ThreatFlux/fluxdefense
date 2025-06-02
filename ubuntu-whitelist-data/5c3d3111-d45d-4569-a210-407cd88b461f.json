@@ -1,0 +1,17 @@
+{
+  "uuid": "5c3d3111-d45d-4569-a210-407cd88b461f",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/bits/waitstatus.ph",
+  "size": 1573,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.559590701Z",
+  "sha256_hash": "6d132c7c074b8f4f122a39e3f11715780d14901705179c5ff858c96b8466afb8",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.591555502Z"
+}

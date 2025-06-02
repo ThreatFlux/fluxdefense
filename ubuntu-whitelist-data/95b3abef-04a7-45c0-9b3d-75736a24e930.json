@@ -1,0 +1,17 @@
+{
+  "uuid": "95b3abef-04a7-45c0-9b3d-75736a24e930",
+  "path": "/usr/lib/firmware/ath11k/IPQ8074/hw2.0/q6_fw.b01.zst",
+  "size": 268,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.453542906Z",
+  "sha256_hash": "310a9a12e1093f972faf894c3465c19e44caccc326e3ce778323d628a9e2042c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:58.200496945Z"
+}

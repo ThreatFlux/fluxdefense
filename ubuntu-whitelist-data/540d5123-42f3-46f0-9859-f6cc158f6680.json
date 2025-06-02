@@ -1,0 +1,17 @@
+{
+  "uuid": "540d5123-42f3-46f0-9859-f6cc158f6680",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/gmodule-no-export-2.0.pc",
+  "size": 271,
+  "modified": "2025-05-15T12:06:49Z",
+  "created": "2025-05-27T10:16:56.762744220Z",
+  "sha256_hash": "6d357cc4752604e5fa6879157e1f8cd6c54e0280d370d9a5335d98ad6160f450",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.057396127Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b1cebe4c-6413-43ef-b996-0f6e5b256641",
+  "path": "/usr/lib/firmware/whiteheat_loader.fw.zst",
+  "size": 3187,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.084534166Z",
+  "sha256_hash": "f8115508e579438d2ab902652aa1db55f31dccb74b01cf2be09114063e2088ce",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.490267747Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "580490e8-fe47-4083-b34a-861ec4ec43c2",
+  "path": "/usr/lib/firmware/nvidia/ga104/gr/fecs_bl.bin.zst",
+  "size": 289,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.935536230Z",
+  "sha256_hash": "17ae9f41c980762e3690ef6e96dc88a79f6fb654d8e63a8f57abc625ecc6b607",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.266296127Z"
+}

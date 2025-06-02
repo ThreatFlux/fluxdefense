@@ -1,0 +1,17 @@
+{
+  "uuid": "cb628195-a989-450f-bc27-1bc6d1eae4f7",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/boost/UseToStringCheck.h",
+  "size": 1390,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "ee28c3c90c751ce8ece1e281c3b69783af9b2c77807e879eed14cfeeb20efbf5",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.241799129Z"
+}

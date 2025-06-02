@@ -1,0 +1,17 @@
+{
+  "uuid": "40a71ed7-8843-4a44-9f3e-6822bdb2f73f",
+  "path": "/lib/systemd/system/systemd-confext.service",
+  "size": 1045,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "1d01ee29468b767d3dae23a3dd35bf45b5f796e787330ba257bfeee5eaf0139a",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.116747232Z"
+}

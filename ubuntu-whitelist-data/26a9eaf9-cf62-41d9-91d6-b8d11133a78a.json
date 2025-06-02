@@ -1,0 +1,17 @@
+{
+  "uuid": "26a9eaf9-cf62-41d9-91d6-b8d11133a78a",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/arm_mve_builtin_aliases.inc",
+  "size": 202676,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.533533528Z",
+  "sha256_hash": "7e0e55a14efc84d55a34d6f1c06f3483ee04254261f3582c5516b80a0a5c6828",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.486314039Z"
+}

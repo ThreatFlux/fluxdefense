@@ -1,0 +1,15 @@
+{
+  "uuid": "46d610e0-e5c4-4412-8cb3-b9e7dba8e491",
+  "path": "/lib/x86_64-linux-gnu/rsyslog/immark.so",
+  "size": 15464,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.546922251Z",
+  "sha256_hash": "44e5f1120c0e452b8729f6b579c45b880af034ae3de9355995e8fb5aedbe926d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.854063787Z"
+}

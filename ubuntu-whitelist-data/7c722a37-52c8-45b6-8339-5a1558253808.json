@@ -1,0 +1,15 @@
+{
+  "uuid": "7c722a37-52c8-45b6-8339-5a1558253808",
+  "path": "/lib/x86_64-linux-gnu/libvulkan_lvp.so",
+  "size": 9473440,
+  "modified": "2024-12-16T10:17:11Z",
+  "created": "2025-05-09T05:07:32.701702043Z",
+  "sha256_hash": "c5a76c07c264176aec984f9091f93df0e0e3af1a78046243c2d6c6be4b0d43ee",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.048427322Z"
+}

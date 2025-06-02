@@ -1,0 +1,17 @@
+{
+  "uuid": "854f2e89-e8f7-45e2-baaa-cd535086f5f5",
+  "path": "/usr/lib/x86_64-linux-gnu/libpolkit-gobject-1.so.0.0.0",
+  "size": 125000,
+  "modified": "2024-12-02T11:59:52Z",
+  "created": "2025-05-09T05:07:31.855714953Z",
+  "sha256_hash": "0e21e82d2692a9dd5ea7bf84c00ccb2cde108183a75eeba6a8fba39cbe947067",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.507235652Z"
+}

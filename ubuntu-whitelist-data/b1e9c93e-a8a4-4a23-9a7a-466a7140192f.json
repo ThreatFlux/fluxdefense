@@ -1,0 +1,15 @@
+{
+  "uuid": "b1e9c93e-a8a4-4a23-9a7a-466a7140192f",
+  "path": "/usr/sbin/vipw",
+  "size": 62144,
+  "modified": "2024-05-30T14:52:35Z",
+  "created": "2025-05-09T05:07:38.459614178Z",
+  "sha256_hash": "1afb74484622a89688678d4bf3e174212e5207835a775a3392e4abb1c5e78276",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.321244880Z"
+}

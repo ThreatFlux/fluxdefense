@@ -1,0 +1,17 @@
+{
+  "uuid": "61cff826-a1ec-4b3d-b38f-4d8e7a257681",
+  "path": "/lib/x86_64-linux-gnu/libgstplay-1.0.so.0.2402.0",
+  "size": 137464,
+  "modified": "2024-04-15T13:00:06Z",
+  "created": "2025-05-09T05:09:28.092941013Z",
+  "sha256_hash": "1eeb5e1b2c7eeb062896b34a833a20c8d92dfa46999922ab026b51a15c3d8bc4",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.333266603Z"
+}

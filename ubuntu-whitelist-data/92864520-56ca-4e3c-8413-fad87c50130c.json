@@ -1,0 +1,17 @@
+{
+  "uuid": "92864520-56ca-4e3c-8413-fad87c50130c",
+  "path": "/lib/firmware/nvidia/tu116/sec2/sig.bin.zst",
+  "size": 134,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.961535870Z",
+  "sha256_hash": "397db526909c5c5bfa618dc7012b88c6499b599681733aea5c6c2e6d5bb20148",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.429096636Z"
+}

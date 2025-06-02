@@ -1,0 +1,17 @@
+{
+  "uuid": "075e91c9-0e8d-44bc-8e50-0a9d0ca88d4a",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-imgllf.ali",
+  "size": 6708,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.139343925Z",
+  "sha256_hash": "1790d1f30ce4462910e106bf4b9412a00bd0d9861bf205ff13b9289c3bf25937",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.637631469Z"
+}

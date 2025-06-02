@@ -1,0 +1,17 @@
+{
+  "uuid": "bd8da758-c4ea-42bf-9979-5ef7a75a69e0",
+  "path": "/usr/sbin/vfsstat.bt",
+  "size": 721,
+  "modified": "2024-03-07T22:14:52Z",
+  "created": "2025-05-09T05:08:51.886493608Z",
+  "sha256_hash": "e917fa34d1b1311b8735eba4342738c09aade33b0ef29066485c8b9e7afb7aed",
+  "file_type": {
+    "Other": "bt"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.148399359Z"
+}

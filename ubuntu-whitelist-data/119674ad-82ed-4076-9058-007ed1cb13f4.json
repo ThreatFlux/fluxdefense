@@ -1,0 +1,17 @@
+{
+  "uuid": "119674ad-82ed-4076-9058-007ed1cb13f4",
+  "path": "/usr/lib/systemd/system/ssl-cert.service",
+  "size": 270,
+  "modified": "2023-10-01T04:19:41Z",
+  "created": "2025-05-09T05:07:28.301769185Z",
+  "sha256_hash": "319b9036c393910bba27cbc5b20bf48d20ed7324e6ab5345f842fe9c0f5ee079",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.450622964Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "74e317f6-0e87-4202-ae01-57f5111e7a69",
+  "path": "/lib/firmware/amdgpu/verde_mc.bin.zst",
+  "size": 12181,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.426543280Z",
+  "sha256_hash": "cdfd8a212664a4b343f03e0adcd2ffd5e4c99e5750b86d8105e1a16a317e16d4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.916918105Z"
+}

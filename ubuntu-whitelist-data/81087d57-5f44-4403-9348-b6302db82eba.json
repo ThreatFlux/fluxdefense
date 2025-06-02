@@ -1,0 +1,15 @@
+{
+  "uuid": "81087d57-5f44-4403-9348-b6302db82eba",
+  "path": "/usr/bin/dd",
+  "size": 72232,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:19.147908869Z",
+  "sha256_hash": "51f8ce55882af86c5c9ffd9f1b1ecafec4549e94c6deef6c28e74229dcdc7fb2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.080212570Z"
+}

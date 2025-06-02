@@ -1,0 +1,17 @@
+{
+  "uuid": "a67d58a9-75aa-4218-bbb4-66a1a75852c3",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/libavutil.pc",
+  "size": 440,
+  "modified": "2024-04-05T17:28:52Z",
+  "created": "2025-05-12T13:32:31.277116818Z",
+  "sha256_hash": "e8b69822033e36a058b297d42d48d4f654b76335b48b69d6d1489ae5eed59877",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.064961764Z"
+}

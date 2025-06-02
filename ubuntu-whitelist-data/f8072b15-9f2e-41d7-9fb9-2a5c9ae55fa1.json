@@ -1,0 +1,15 @@
+{
+  "uuid": "f8072b15-9f2e-41d7-9fb9-2a5c9ae55fa1",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstreplaygain.so",
+  "size": 47760,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.775655135Z",
+  "sha256_hash": "dfd4d82ed7c775ee7d0adcd00388c5685f80f1ed3b2d7234705cdcedf70a0dac",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.875522571Z"
+}

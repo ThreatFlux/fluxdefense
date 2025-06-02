@@ -1,0 +1,17 @@
+{
+  "uuid": "b58f3dee-696c-4401-8d01-c48999dfe5fd",
+  "path": "/usr/libexec/x86_64-linux-gnu/isa-support/qemu-static-bad-SSE4.1",
+  "size": 297,
+  "modified": "2024-04-18T17:54:37Z",
+  "created": "2025-05-26T20:18:23.196081220Z",
+  "sha256_hash": "f51a7b9b8819501a9b1095e256dbee3136b0dafe12097264074ef7ac70d6a48e",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.527936845Z"
+}

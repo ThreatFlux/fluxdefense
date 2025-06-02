@@ -1,0 +1,17 @@
+{
+  "uuid": "aedc0f3f-fdaf-4795-a2fe-269390707697",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-utf_32.ali",
+  "size": 20876,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.145343843Z",
+  "sha256_hash": "3e5d265f1b43af24c16d5df5104e0deecd6b23c16833586f008285755aa14a32",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.605998133Z"
+}

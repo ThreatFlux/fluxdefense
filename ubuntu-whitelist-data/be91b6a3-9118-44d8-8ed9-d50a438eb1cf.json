@@ -1,0 +1,15 @@
+{
+  "uuid": "be91b6a3-9118-44d8-8ed9-d50a438eb1cf",
+  "path": "/lib/evolution-data-server/credential-modules/module-credentials-goa.so",
+  "size": 30880,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:21.658870553Z",
+  "sha256_hash": "73ef210e6f8b2e8291cdc8840723026a565d2b390e88eb78023b7fde3b17155f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.275745575Z"
+}

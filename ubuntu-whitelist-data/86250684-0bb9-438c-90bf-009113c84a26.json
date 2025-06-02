@@ -1,0 +1,17 @@
+{
+  "uuid": "86250684-0bb9-438c-90bf-009113c84a26",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-abaton.so.1.2.1",
+  "size": 67840,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.128634489Z",
+  "sha256_hash": "79cbe7fff1c1d04deb1356e575f2b782b25285adaec06ba2df128d712b0e43d4",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.246490797Z"
+}

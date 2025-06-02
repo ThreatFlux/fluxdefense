@@ -1,0 +1,17 @@
+{
+  "uuid": "0fbd5bf9-9a85-458a-8cd1-3c347f9eea9b",
+  "path": "/lib/systemd/system/ufw.service",
+  "size": 341,
+  "modified": "2024-02-11T13:20:32Z",
+  "created": "2025-05-09T05:07:28.304769139Z",
+  "sha256_hash": "efece4d41e747407ed7a02d217420cef9aa60ee84326a145de528400dc63419d",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.131801406Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "3deb681b-286c-4581-ad2c-b79c6b02aa1c",
+  "path": "/usr/lib/x86_64-linux-gnu/ceph/librbd/libceph_librbd_parent_cache.so.1.0.0",
+  "size": 1728056,
+  "modified": "2024-12-18T13:32:15Z",
+  "created": "2025-05-09T05:56:51.749617786Z",
+  "sha256_hash": "cb717db01715123c190a82b493186f8bca0137cb8a8a317611240b61fa64a4a8",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.825116313Z"
+}

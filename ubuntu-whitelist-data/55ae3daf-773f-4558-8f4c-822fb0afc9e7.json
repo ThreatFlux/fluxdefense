@@ -1,0 +1,17 @@
+{
+  "uuid": "55ae3daf-773f-4558-8f4c-822fb0afc9e7",
+  "path": "/lib/cups/backend/ipp",
+  "size": 84368,
+  "modified": "2024-09-26T11:15:36Z",
+  "created": "2025-05-09T05:07:21.038880013Z",
+  "sha256_hash": "cdca75ac78b2b56d32e829c72249321e827ff9be6ce32a10b3a1f875caece0e8",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.645450411Z"
+}

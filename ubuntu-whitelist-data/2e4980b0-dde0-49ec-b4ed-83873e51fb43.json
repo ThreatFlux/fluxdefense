@@ -1,0 +1,15 @@
+{
+  "uuid": "2e4980b0-dde0-49ec-b4ed-83873e51fb43",
+  "path": "/lib/x86_64-linux-gnu/gconv/IBM871.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.651657027Z",
+  "sha256_hash": "068a81a4bf37baa2c93d0d9c7e0d40a920210c4b30ac3971b123ed5b0250b716",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.748777465Z"
+}

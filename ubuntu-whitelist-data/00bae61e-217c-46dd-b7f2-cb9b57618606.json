@@ -1,0 +1,17 @@
+{
+  "uuid": "00bae61e-217c-46dd-b7f2-cb9b57618606",
+  "path": "/usr/lib/x86_64-linux-gnu/libnss_mdns_minimal.so.2",
+  "size": 18664,
+  "modified": "2024-04-08T16:14:43Z",
+  "created": "2025-05-09T05:07:31.742716677Z",
+  "sha256_hash": "37628ac02dd505d973d19324097d9a2e986c2f97ccf8ac8cc682edd8ec0d61b7",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.361176855Z"
+}

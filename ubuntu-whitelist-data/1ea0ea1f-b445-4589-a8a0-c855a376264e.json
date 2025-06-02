@@ -1,0 +1,15 @@
+{
+  "uuid": "1ea0ea1f-b445-4589-a8a0-c855a376264e",
+  "path": "/lib/x86_64-linux-gnu/security/pam_systemd_loadkey.so",
+  "size": 31752,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:12.940772033Z",
+  "sha256_hash": "6d17d69f4a0ea11e1f3c18dcc875dee0551cbaeab102ec32df1a56fd7c3753a9",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.375431360Z"
+}

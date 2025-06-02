@@ -1,0 +1,15 @@
+{
+  "uuid": "499134ce-9a55-4cc0-8002-ab12f445e310",
+  "path": "/lib/x86_64-linux-gnu/sssd/libsss_proxy.so",
+  "size": 105688,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:37.270632322Z",
+  "sha256_hash": "f0f4e5ec45ea74ca65e43edccde3373c346a40d693641fe3efcd72154570a96f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.869555177Z"
+}

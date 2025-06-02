@@ -1,0 +1,17 @@
+{
+  "uuid": "31531573-7f3d-4917-bb64-8d5f2ec26cf8",
+  "path": "/lib/firmware/ti/tas2781/TXNW2781RCA1.bin.zst",
+  "size": 246,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.075534291Z",
+  "sha256_hash": "18253e006ecb6511565747a4a8eaddea448815f9d582492c63510907c6ee740c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.614117756Z"
+}

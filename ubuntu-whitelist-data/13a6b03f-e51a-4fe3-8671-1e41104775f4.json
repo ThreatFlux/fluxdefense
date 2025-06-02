@@ -1,0 +1,15 @@
+{
+  "uuid": "13a6b03f-e51a-4fe3-8671-1e41104775f4",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/frozendict/__init__.py",
+  "size": 1858,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.117942387Z",
+  "sha256_hash": "13eae1e9c3f25ec220e50d5732e5fc3cf5c6641a1fd5b7d7a9c7615a53f39e4c",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.611242127Z"
+}

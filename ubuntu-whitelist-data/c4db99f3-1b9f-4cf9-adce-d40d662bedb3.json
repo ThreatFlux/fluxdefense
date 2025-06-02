@@ -1,0 +1,17 @@
+{
+  "uuid": "c4db99f3-1b9f-4cf9-adce-d40d662bedb3",
+  "path": "/lib/llvm-18/include/clang/AST/ASTVector.h",
+  "size": 12036,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.511533818Z",
+  "sha256_hash": "ae3d2ca42c7b0a80cdab59e1e257dd0b745676ca5315dcdf79e799d00455d283",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.965419214Z"
+}

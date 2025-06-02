@@ -1,0 +1,17 @@
+{
+  "uuid": "ac6ffbb0-06e7-4973-9579-1796c4763483",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/lib/crc4.ko.zst",
+  "size": 2423,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.114797272Z",
+  "sha256_hash": "bb51a5307b5aa6a45f732422d0fc5311225ec9edd9c8f42bae1ad2c5bb6b1c83",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.268337383Z"
+}

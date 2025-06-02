@@ -1,0 +1,17 @@
+{
+  "uuid": "c5e2bc14-a1e1-491a-a565-a965468edc76",
+  "path": "/lib/llvm-18/include/clang-tidy/android/CloexecAccept4Check.h",
+  "size": 1185,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "7f3b6faf3653c089a849a1b13a337a9e57947d9b55050d8afeb0cca89ab79105",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.891861471Z"
+}

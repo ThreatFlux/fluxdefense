@@ -1,0 +1,17 @@
+{
+  "uuid": "b477cf9d-0a06-4e92-bd20-3782a5f5fc1f",
+  "path": "/usr/lib/x86_64-linux-gnu/libnvme-mi.so.1.8.0",
+  "size": 35392,
+  "modified": "2025-02-03T13:14:35Z",
+  "created": "2025-05-09T05:24:30.804004816Z",
+  "sha256_hash": "46b438e5f6b2513777a674a8166a0791cf201ad59f2474cbf2b75ad93f295e2c",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.197411154Z"
+}

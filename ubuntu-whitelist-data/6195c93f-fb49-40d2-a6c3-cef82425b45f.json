@@ -1,0 +1,17 @@
+{
+  "uuid": "6195c93f-fb49-40d2-a6c3-cef82425b45f",
+  "path": "/lib/x86_64-linux-gnu/bpf/xdpfilt_dny_tcp.o",
+  "size": 18512,
+  "modified": "2024-04-01T04:46:20Z",
+  "created": "2025-05-26T20:18:27.419017429Z",
+  "sha256_hash": "7cbd832e82cb70580d329c21037701041432e5a23472ad752d38bfda5d3bd16b",
+  "file_type": {
+    "Other": "o"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.401059740Z"
+}

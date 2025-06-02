@@ -1,0 +1,17 @@
+{
+  "uuid": "65113d10-74f2-4f6c-aa3b-7ce35f0ab0ba",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-imgllb.adb",
+  "size": 2596,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.079344750Z",
+  "sha256_hash": "b15b911c4074cfa3e9df8a5239a75854809c1224325126b1e60089f75773e731",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.967375239Z"
+}

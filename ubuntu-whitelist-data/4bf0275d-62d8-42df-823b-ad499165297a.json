@@ -1,0 +1,17 @@
+{
+  "uuid": "4bf0275d-62d8-42df-823b-ad499165297a",
+  "path": "/usr/lib/systemd/user/gpg-agent.service",
+  "size": 223,
+  "modified": "2024-03-01T08:25:55Z",
+  "created": "2025-05-09T05:11:23.691176553Z",
+  "sha256_hash": "8ea489a57edb0db9394bf2d6c0ec62205f881bb54efb919e4870209c7db01aa7",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.493872505Z"
+}

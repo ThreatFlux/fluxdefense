@@ -1,0 +1,17 @@
+{
+  "uuid": "ed59bcf3-b8ea-4999-b9db-1ee74e5e4504",
+  "path": "/lib/x86_64-linux-gnu/samba/libnpa-tstream-samba4.so.0",
+  "size": 39216,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.081635206Z",
+  "sha256_hash": "01147d230b72ea0eb0906109f8551ebefe80f9a3df02e2e724bb0350e2d18f63",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.435948406Z"
+}

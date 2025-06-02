@@ -1,0 +1,17 @@
+{
+  "uuid": "e7a48f4c-2b2a-4ff0-a944-82bf8964b45c",
+  "path": "/lib/firmware/qcom/qcm2290/adspua.jsn",
+  "size": 555,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.994535413Z",
+  "sha256_hash": "d6c6376f53e5449eb4f7b9e5a30679ebc2a9afaad28c13ff171f979e7b1af1f6",
+  "file_type": {
+    "Other": "jsn"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.905487307Z"
+}

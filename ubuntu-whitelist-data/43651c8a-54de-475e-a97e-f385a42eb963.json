@@ -1,0 +1,17 @@
+{
+  "uuid": "43651c8a-54de-475e-a97e-f385a42eb963",
+  "path": "/lib/x86_64-linux-gnu/X11/rstart/config",
+  "size": 1733,
+  "modified": "2024-03-31T17:26:54Z",
+  "created": "2025-05-09T05:07:35.176664276Z",
+  "sha256_hash": "46dcf2a1dc4ce9bb083ce92e3b217e84c70a6363cf28cebdcdf1134bbef63af2",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.298356505Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "456c2018-43fe-402f-90a6-18c6f651dd72",
+  "path": "/lib/firmware/amdgpu/vegam_smc.bin.zst",
+  "size": 50351,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.426543280Z",
+  "sha256_hash": "50f3b6fe4afb7f016299d5b09372fec3cabde3bbb13d31e2c10831a0d385a754",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.952022222Z"
+}

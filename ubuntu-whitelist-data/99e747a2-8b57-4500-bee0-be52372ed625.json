@@ -1,0 +1,17 @@
+{
+  "uuid": "99e747a2-8b57-4500-bee0-be52372ed625",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-ehl-rt5660-nohdmi.tplg.zst",
+  "size": 1100,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.058490984Z",
+  "sha256_hash": "144da551299eedecd74857f9ccdc6469d976c14d63824038a4774f26c3e3dbab",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.862849976Z"
+}

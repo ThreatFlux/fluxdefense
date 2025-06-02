@@ -1,0 +1,15 @@
+{
+  "uuid": "08073580-d8cd-44a5-950e-20d719c859c8",
+  "path": "/usr/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-simtech.so",
+  "size": 59952,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.161664505Z",
+  "sha256_hash": "a5acfc5ee557539c645e91049c6ad3f935a0fbe7d9ab97178687f00ff6086324",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.065282531Z"
+}

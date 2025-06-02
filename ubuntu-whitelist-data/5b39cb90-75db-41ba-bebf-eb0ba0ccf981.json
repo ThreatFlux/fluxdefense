@@ -1,0 +1,15 @@
+{
+  "uuid": "5b39cb90-75db-41ba-bebf-eb0ba0ccf981",
+  "path": "/lib/google-cloud-sdk/lib/surface/asset/analyze_org_policy_governed_containers.py",
+  "size": 3867,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.715932227Z",
+  "sha256_hash": "b4b2a51fb7661c0effede7c87c19d0b2e6c8dc9fb8c6d799cbabaaf2e2dfb3c3",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.030163381Z"
+}

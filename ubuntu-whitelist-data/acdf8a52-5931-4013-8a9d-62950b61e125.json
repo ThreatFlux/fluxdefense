@@ -1,0 +1,17 @@
+{
+  "uuid": "acdf8a52-5931-4013-8a9d-62950b61e125",
+  "path": "/lib/x86_64-linux-gnu/libdjvulibre.so.21.7.0",
+  "size": 1746008,
+  "modified": "2024-04-08T15:56:12Z",
+  "created": "2025-05-09T05:07:29.308753819Z",
+  "sha256_hash": "b1634dd2be9cc3303570e46df2ce4bba33b970f2936776580d5b1d3dba768daf",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.581453980Z"
+}

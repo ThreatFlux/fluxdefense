@@ -1,0 +1,15 @@
+{
+  "uuid": "b7d52403-2719-4295-a8d2-686f5a603bff",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/__init__.py",
+  "size": 0,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.233037137Z",
+  "sha256_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.814398725Z"
+}

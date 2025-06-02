@@ -1,0 +1,17 @@
+{
+  "uuid": "b4c98127-82af-4948-8db2-a46bbf7b1b88",
+  "path": "/lib/systemd/system/systemd-udevd.service",
+  "size": 1324,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:14.044786143Z",
+  "sha256_hash": "49c9c1189ff6f112a9907dc1bf01f6fa7e0a7ca74b3a2420874561bbd8a8727d",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.130071660Z"
+}

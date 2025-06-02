@@ -1,0 +1,17 @@
+{
+  "uuid": "a586d8af-212f-410a-8b16-b4d4fe1a9040",
+  "path": "/usr/lib/firmware/cadence/mhdp8546.bin.zst",
+  "size": 22965,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.490542394Z",
+  "sha256_hash": "1fd2b2cf35fff19662f75f7843053a6e623bdeeb0e7a19837e2f2b141afb5f83",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.692278875Z"
+}

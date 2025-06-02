@@ -1,0 +1,17 @@
+{
+  "uuid": "378d0ef3-40a1-4129-945f-f35c02b33103",
+  "path": "/lib/x86_64-linux-gnu/liblttng-ust.so.1.0.0",
+  "size": 500568,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:31.331722949Z",
+  "sha256_hash": "3dda3aff8ce04c7a1d5f1c5f20bd725d63e686a2042ee4834d8c25cde288f27b",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:22.520414339Z"
+}

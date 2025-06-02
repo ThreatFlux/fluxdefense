@@ -1,0 +1,17 @@
+{
+  "uuid": "00835e76-542a-416c-baa8-2129990d8dce",
+  "path": "/lib/google-cloud-sdk/.install/gsutil-nix.manifest",
+  "size": 11,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.312922087Z",
+  "sha256_hash": "1e22837a5833e577ec1d3a2da5a8c526f19cd46e013bbb5a3f468df011145681",
+  "file_type": {
+    "Other": "manifest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.944628559Z"
+}

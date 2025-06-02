@@ -1,0 +1,17 @@
+{
+  "uuid": "5eb905f7-019d-4646-b91d-fa3493641f62",
+  "path": "/usr/lib/x86_64-linux-gnu/libfl.so.2.0.0",
+  "size": 14256,
+  "modified": "2024-04-08T15:57:47Z",
+  "created": "2025-05-28T13:47:39.362580650Z",
+  "sha256_hash": "812df699874145b9c7db71f33e870bb70183c01433018970031b57593ef731d5",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:30.283707549Z"
+}

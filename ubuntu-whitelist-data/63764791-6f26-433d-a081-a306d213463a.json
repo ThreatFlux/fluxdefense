@@ -1,0 +1,17 @@
+{
+  "uuid": "63764791-6f26-433d-a081-a306d213463a",
+  "path": "/usr/lib/firmware/advansys/mcode.bin.zst",
+  "size": 1632,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.385543848Z",
+  "sha256_hash": "a13496b8b4f0147a5eb5f1d310b8ab8546f1798ed1d979c4eeb5af835e4cb0dd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.118807808Z"
+}

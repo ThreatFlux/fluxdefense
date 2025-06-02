@@ -1,0 +1,15 @@
+{
+  "uuid": "a0910f0a-14eb-4257-8f7d-a1ec2f38af84",
+  "path": "/lib/python3.12/lib-dynload/_curses_panel.cpython-312-x86_64-linux-gnu.so",
+  "size": 24168,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:10:59.928539277Z",
+  "sha256_hash": "95425cf2bc61120c2ca585a4cc6ae965cd539d421a8f56829baa66ccdbb75eee",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.217410061Z"
+}

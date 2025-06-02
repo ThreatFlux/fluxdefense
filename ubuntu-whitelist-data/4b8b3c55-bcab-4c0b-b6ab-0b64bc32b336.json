@@ -1,0 +1,17 @@
+{
+  "uuid": "4b8b3c55-bcab-4c0b-b6ab-0b64bc32b336",
+  "path": "/lib/firmware/amdgpu/navy_flounder_pfp.bin.zst",
+  "size": 14853,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.406543557Z",
+  "sha256_hash": "c772cfa88aaa9d42ace1db0446acb8d48f3d4a16ed0ea6c39b30505f66e57b8e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.949670505Z"
+}

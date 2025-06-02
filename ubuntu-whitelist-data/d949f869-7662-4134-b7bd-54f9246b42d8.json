@@ -1,0 +1,17 @@
+{
+  "uuid": "d949f869-7662-4134-b7bd-54f9246b42d8",
+  "path": "/usr/lib/systemd/system/system-update-pre.target",
+  "size": 551,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "4151cc8d9e6e16d47c63d25d70a52d65e1e88f4f9471cb17a25a55566844c16b",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.449335059Z"
+}

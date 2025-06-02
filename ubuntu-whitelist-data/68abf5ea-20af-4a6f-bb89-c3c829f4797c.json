@@ -1,0 +1,17 @@
+{
+  "uuid": "68abf5ea-20af-4a6f-bb89-c3c829f4797c",
+  "path": "/usr/lib/x86_64-linux-gnu/libcudadebugger.so.550.144.03",
+  "size": 10524024,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:00.226904271Z",
+  "sha256_hash": "4519556d4ea2bc771767d1c3c84e383afca00214d99e9cd44ccbc37dce1e9517",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.661020989Z"
+}

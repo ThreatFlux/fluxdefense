@@ -1,0 +1,17 @@
+{
+  "uuid": "75885555-8221-4a1b-9f2c-fcda220f25ec",
+  "path": "/usr/lib/llvm-18/include/clang/Lex/ModuleLoader.h",
+  "size": 7487,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.544533384Z",
+  "sha256_hash": "20f909612e4df96a3efdadae34bb2b9669a83c78a40ebb01e6df9676f5161875",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.618849747Z"
+}

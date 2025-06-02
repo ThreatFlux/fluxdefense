@@ -1,0 +1,17 @@
+{
+  "uuid": "ce559b59-bf03-4404-88e3-1864b3996d57",
+  "path": "/lib/python3.12/test/decimaltestdata/dqCompareTotalMag.decTest",
+  "size": 32626,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.993551749Z",
+  "sha256_hash": "e51a488ceb485870c49565aaed29eaa58c803824c2b11b6f7b1ee1ea5d13d71a",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.413197982Z"
+}

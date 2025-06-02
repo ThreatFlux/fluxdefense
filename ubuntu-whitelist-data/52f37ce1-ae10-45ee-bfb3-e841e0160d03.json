@@ -1,0 +1,15 @@
+{
+  "uuid": "52f37ce1-ae10-45ee-bfb3-e841e0160d03",
+  "path": "/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-webp.so",
+  "size": 26752,
+  "modified": "2024-03-31T17:25:27Z",
+  "created": "2025-05-09T05:07:35.706656188Z",
+  "sha256_hash": "19f31da91088c667873c2136dd8099d5799b89109f8c2a2ac7043cd8bb9534c5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.169778987Z"
+}

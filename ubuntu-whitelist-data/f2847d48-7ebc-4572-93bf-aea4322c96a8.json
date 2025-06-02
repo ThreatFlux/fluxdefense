@@ -1,0 +1,17 @@
+{
+  "uuid": "f2847d48-7ebc-4572-93bf-aea4322c96a8",
+  "path": "/usr/lib/x86_64-linux-gnu/libopencc.so.1.1.7",
+  "size": 231608,
+  "modified": "2024-04-08T16:14:49Z",
+  "created": "2025-05-09T05:07:31.757716448Z",
+  "sha256_hash": "4957f5b4de7e519d3b91ad1bcb3c094fdd2e8962550852d458d0a94f76f03b03",
+  "file_type": {
+    "Other": "7"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.201181475Z"
+}

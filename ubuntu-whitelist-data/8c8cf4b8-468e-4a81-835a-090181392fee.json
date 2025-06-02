@@ -1,0 +1,17 @@
+{
+  "uuid": "8c8cf4b8-468e-4a81-835a-090181392fee",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/lib/parman.ko.zst",
+  "size": 4210,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.114797272Z",
+  "sha256_hash": "d8128737742276fbd789b0254bac5002affc6de7663cba426be790f19c541b97",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.267940352Z"
+}

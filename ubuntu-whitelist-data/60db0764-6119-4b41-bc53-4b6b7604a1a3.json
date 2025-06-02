@@ -1,0 +1,15 @@
+{
+  "uuid": "60db0764-6119-4b41-bc53-4b6b7604a1a3",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_length.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.335631330Z",
+  "sha256_hash": "2eabf533330438f70a237322f70b9d9898bfdeda5de35f07898128eafb76cfcf",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.673161079Z"
+}

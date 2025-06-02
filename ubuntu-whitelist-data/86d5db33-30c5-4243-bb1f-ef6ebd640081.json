@@ -1,0 +1,17 @@
+{
+  "uuid": "86d5db33-30c5-4243-bb1f-ef6ebd640081",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/libtiff-4.pc",
+  "size": 391,
+  "modified": "2024-09-05T13:59:36Z",
+  "created": "2025-05-29T11:16:03.461095002Z",
+  "sha256_hash": "fc3cae1a787338eeaf5a2dbe91c87c81329d3c66ce4d79bffac7ef9429d2219d",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.099957749Z"
+}

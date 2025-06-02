@@ -1,0 +1,17 @@
+{
+  "uuid": "5c7ec221-c2d7-452e-bb0f-866040d87d03",
+  "path": "/lib/x86_64-linux-gnu/samba/libhx509-samba4.so.0",
+  "size": 281888,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.059635542Z",
+  "sha256_hash": "38a481b4aae6cfadc685d0e920b21da52d6651f40030cac935ed0448bace7a8c",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.451285505Z"
+}

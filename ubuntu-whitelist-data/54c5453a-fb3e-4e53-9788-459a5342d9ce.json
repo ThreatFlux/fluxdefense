@@ -1,0 +1,17 @@
+{
+  "uuid": "54c5453a-fb3e-4e53-9788-459a5342d9ce",
+  "path": "/lib/x86_64-linux-gnu/tc/paretonormal.dist",
+  "size": 23447,
+  "modified": "2024-03-31T09:00:13Z",
+  "created": "2025-05-09T05:07:37.296631925Z",
+  "sha256_hash": "9078a04d7c8b08ca0afcb18065eec75213414d3d55811ce0b118688fcff1c4f4",
+  "file_type": {
+    "Other": "dist"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.643293912Z"
+}

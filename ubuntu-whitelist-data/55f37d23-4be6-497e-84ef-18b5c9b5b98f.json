@@ -1,0 +1,17 @@
+{
+  "uuid": "55f37d23-4be6-497e-84ef-18b5c9b5b98f",
+  "path": "/lib/firmware/qcom/a330_pm4.fw.zst",
+  "size": 2091,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.969535759Z",
+  "sha256_hash": "3c402074f7f239c57c3c180c5cd31acf4190897410fbed2812138801b7d54268",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.571759709Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "2ecfc761-23df-4498-884a-fb770c0693ce",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/IBM1155.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.627657394Z",
+  "sha256_hash": "2c4e72f021d91c26ff60f4820f5e9d3da9553a9dae00a8b02bcf37904b47a12e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.537295322Z"
+}

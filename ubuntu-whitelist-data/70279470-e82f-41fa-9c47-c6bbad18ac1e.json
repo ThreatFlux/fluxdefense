@@ -1,0 +1,17 @@
+{
+  "uuid": "70279470-e82f-41fa-9c47-c6bbad18ac1e",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/google/FunctionNamingCheck.h",
+  "size": 1734,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "e5fd1c1d2b316cb0b73d28144557b3f34663816715b4613c3376e0727880cc69",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.273338270Z"
+}

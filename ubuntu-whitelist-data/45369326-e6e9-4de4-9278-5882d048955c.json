@@ -1,0 +1,17 @@
+{
+  "uuid": "45369326-e6e9-4de4-9278-5882d048955c",
+  "path": "/lib/firmware/amdgpu/fiji_rlc.bin.zst",
+  "size": 5386,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.393543737Z",
+  "sha256_hash": "15b91c51366d9da16c907c5d91efb173a99d1b7cba76fafa74f4b74cf81a7818",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.949253487Z"
+}

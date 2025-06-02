@@ -1,0 +1,17 @@
+{
+  "uuid": "31efc113-71b0-4424-bc27-582dbb96323e",
+  "path": "/usr/lib/google-cloud-sdk/.install/bundled-python3-unix-linux-x86_64.manifest",
+  "size": 322077,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:07.311922104Z",
+  "sha256_hash": "3636e3acfa90828c361b2ed1a561ac8908ef6f2ce216ee5fe9008d9d95c97287",
+  "file_type": {
+    "Other": "manifest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.536887203Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "8f4f4f2d-44ca-4f67-aa90-74b13eabea2e",
+  "path": "/lib/firmware/qcom/a530v3_gpmu.fw2.zst",
+  "size": 5452,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.969535759Z",
+  "sha256_hash": "af48405f250958ff6e2f517f9e773fe2dfd5f0f6f98fa0f54f40966360b77f0d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.572897812Z"
+}

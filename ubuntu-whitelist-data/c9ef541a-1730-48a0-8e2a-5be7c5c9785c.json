@@ -1,0 +1,17 @@
+{
+  "uuid": "c9ef541a-1730-48a0-8e2a-5be7c5c9785c",
+  "path": "/lib/grub/x86_64-efi/exfctest.mod",
+  "size": 2184,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.804708521Z",
+  "sha256_hash": "50ff4d6784cfed84fae960e25f90f94fdec69f9b707350f6926c1fe0ed557657",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.031557126Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "94ef9f23-ce4e-4abc-b94b-b8631ed51823",
+  "path": "/lib/x86_64-linux-gnu/webkit2gtk-4.1/WebKitNetworkProcess",
+  "size": 14408,
+  "modified": "2025-04-07T15:14:55Z",
+  "created": "2025-05-09T05:11:30.137078158Z",
+  "sha256_hash": "6c5750720d2a12e7e089aa9e357508f1377a3fe71cd18a086a4e5fbbcdabecfa",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.149880743Z"
+}

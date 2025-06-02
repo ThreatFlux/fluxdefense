@@ -1,0 +1,17 @@
+{
+  "uuid": "a1f55180-1620-4180-b5e6-0dc95994d87f",
+  "path": "/usr/lib/x86_64-linux-gnu/libgprofng.so.0.0.0",
+  "size": 2334672,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:51.894577730Z",
+  "sha256_hash": "28ca2504d594bf2eb9119ed2bf4cf0e6cf40467abd3ef09f40c1d6fef59603a1",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:26.406861589Z"
+}

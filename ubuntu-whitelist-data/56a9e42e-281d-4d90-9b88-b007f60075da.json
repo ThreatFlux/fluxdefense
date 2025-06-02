@@ -1,0 +1,15 @@
+{
+  "uuid": "56a9e42e-281d-4d90-9b88-b007f60075da",
+  "path": "/usr/lib/python3.12/test/crashers/recursive_call.py",
+  "size": 358,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.989551801Z",
+  "sha256_hash": "e77e6472a95ef686c47c4dfd881cc1f4f0db45faa4fb550299b41dc3fc1eb982",
+  "file_type": "Script",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.813177416Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "a01c301a-b2b0-4ddf-b948-b74ad94d44cf",
+  "path": "/bin/openssl",
+  "size": 1005368,
+  "modified": "2025-02-05T13:17:43Z",
+  "created": "2025-05-09T05:11:27.343120807Z",
+  "sha256_hash": "cd6839c9f7a496b104d80ce9c8ea4f7bf828d2539910c94fe7941ebbf4e10506",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.692096906Z"
+}

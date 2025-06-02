@@ -1,0 +1,15 @@
+{
+  "uuid": "68dab096-fd57-42e2-aa86-4f82bbc6e015",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/libtsan.a",
+  "size": 2468022,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.265389379Z",
+  "sha256_hash": "f7d05722a43e1e1a1dbf1fa7b0e2c1efc22a49276a90f08b039d9dfbe138ec3e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.625671524Z"
+}

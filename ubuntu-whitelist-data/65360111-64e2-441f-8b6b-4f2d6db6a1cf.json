@@ -1,0 +1,15 @@
+{
+  "uuid": "65360111-64e2-441f-8b6b-4f2d6db6a1cf",
+  "path": "/usr/libexec/deja-dup/restic-dump-to",
+  "size": 1237,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:37.582627561Z",
+  "sha256_hash": "2765e7eb986a20917a66486c57c5b84073d0999b4883c55e342f5db483ee50a7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.120415637Z"
+}

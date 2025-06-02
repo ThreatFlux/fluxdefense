@@ -1,0 +1,17 @@
+{
+  "uuid": "0149b4be-a751-4085-8833-34d589dbddce",
+  "path": "/usr/lib/systemd/system/systemd-tpm2-setup.service",
+  "size": 796,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.515779381Z",
+  "sha256_hash": "4f8c96a31b22fccbe16f66ecb7346e7a34fc1ad6d344d8a2ee0b3ecc03019a3a",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.474779945Z"
+}

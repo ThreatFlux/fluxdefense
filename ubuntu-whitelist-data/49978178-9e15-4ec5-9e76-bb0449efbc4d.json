@@ -1,0 +1,17 @@
+{
+  "uuid": "49978178-9e15-4ec5-9e76-bb0449efbc4d",
+  "path": "/usr/lib/grub/x86_64-efi/mdraid09.mod",
+  "size": 2800,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.814708369Z",
+  "sha256_hash": "c1586627caa4ed331dab567366835f90f3de89b7bccb2b7e176877543e3563b1",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.500614585Z"
+}

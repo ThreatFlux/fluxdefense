@@ -1,0 +1,17 @@
+{
+  "uuid": "baaa8137-186f-4369-ad56-f7da973c5afb",
+  "path": "/usr/lib/llvm-18/include/clang/Testing/CommandLineArgs.h",
+  "size": 1339,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.552533279Z",
+  "sha256_hash": "85bcf6ebe77c34c04b95edc07a7d8563e54b4a92c2a5e2d2d20fc473dfcf2502",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.309632344Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "7a9590e6-6d65-4531-94e0-03bf5c6c88b4",
+  "path": "/bin/scanimage",
+  "size": 68720,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:20.407889642Z",
+  "sha256_hash": "ee10706a09ab99d9539447960cb68617042651849c72b0f44ee424a9dfabcada",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:20.243320122Z"
+}

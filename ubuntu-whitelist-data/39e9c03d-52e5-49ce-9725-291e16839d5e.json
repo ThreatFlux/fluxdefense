@@ -1,0 +1,17 @@
+{
+  "uuid": "39e9c03d-52e5-49ce-9725-291e16839d5e",
+  "path": "/usr/lib/x86_64-linux-gnu/bpf/xdp-dispatcher.o",
+  "size": 16512,
+  "modified": "2024-04-01T04:46:20Z",
+  "created": "2025-05-26T20:18:27.419017429Z",
+  "sha256_hash": "dfa47e08ef52b5fc2f6739c8c3680b86f0f8b8442fcfffaf6124cb035f6985b9",
+  "file_type": {
+    "Other": "o"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.115531342Z"
+}

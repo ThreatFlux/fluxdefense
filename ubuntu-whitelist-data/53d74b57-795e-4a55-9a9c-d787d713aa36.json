@@ -1,0 +1,15 @@
+{
+  "uuid": "53d74b57-795e-4a55-9a9c-d787d713aa36",
+  "path": "/usr/libexec/udisks2/udisksd",
+  "size": 547840,
+  "modified": "2024-11-18T16:06:30Z",
+  "created": "2025-05-09T05:07:38.097619702Z",
+  "sha256_hash": "0dc27567d76e4031c4a94b6d2d9dc18345583374bcfab6d2ace31dea123202f7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.245127143Z"
+}

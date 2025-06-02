@@ -1,0 +1,17 @@
+{
+  "uuid": "476853b2-54b6-45b8-b8c9-fa6f26b89183",
+  "path": "/usr/lib/firmware/rsi_91x.fw.zst",
+  "size": 52969,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.065534429Z",
+  "sha256_hash": "e90f4e68c0c526434fb6a37ce0491d9be3388c441097a61f4ee0d24b4d60bdab",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.076486203Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "8b28b820-f1b5-4093-8043-37a4fc1b9591",
+  "path": "/lib/x86_64-linux-gnu/libnfs.so.14.0.0",
+  "size": 334368,
+  "modified": "2024-04-08T16:05:49Z",
+  "created": "2025-05-09T05:07:31.711717150Z",
+  "sha256_hash": "86d3709962fe05f33122dee7b5eb9f8ff62427337f52c149d0e8aca3bcdb5b0b",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.847362518Z"
+}

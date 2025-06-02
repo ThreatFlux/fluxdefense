@@ -1,0 +1,17 @@
+{
+  "uuid": "1644c2ad-ff3f-4c1c-956b-9875a60c956c",
+  "path": "/usr/lib/firmware/amdgpu/sdma_4_4_2.bin.zst",
+  "size": 10971,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.414543446Z",
+  "sha256_hash": "a04fb31b2c07615ee85618d8d84316afb3cdc299a9bf316381b36538d223d89e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.079686666Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "71acd4e2-a5cf-44d8-8437-5d3b886753ac",
+  "path": "/usr/lib/x86_64-linux-gnu/libm17n-flt.so.0.4.2",
+  "size": 47256,
+  "modified": "2024-03-31T08:04:12Z",
+  "created": "2025-05-09T05:07:31.337722858Z",
+  "sha256_hash": "1f4d4a1a82effae24175a009b64f8201260aaa07e92ac1bc56ffee7088e3a2b3",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.979122471Z"
+}

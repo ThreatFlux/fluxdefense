@@ -1,0 +1,17 @@
+{
+  "uuid": "6cb91fa1-4dfe-447c-8e0a-48522d41b9c6",
+  "path": "/usr/lib/python3.12/test/decimaltestdata/ddEncode.decTest",
+  "size": 24688,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.991551775Z",
+  "sha256_hash": "d3c3e0a8a3360c02c07a0fbfb6c1cd0613ff0782018900ff2000b805c68d2ff6",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.983697531Z"
+}

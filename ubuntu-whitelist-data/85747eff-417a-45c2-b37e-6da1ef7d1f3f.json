@@ -1,0 +1,15 @@
+{
+  "uuid": "85747eff-417a-45c2-b37e-6da1ef7d1f3f",
+  "path": "/usr/sbin/update-ieee-data",
+  "size": 3492,
+  "modified": "2022-08-27T20:16:50Z",
+  "created": "2025-05-09T05:08:51.244503406Z",
+  "sha256_hash": "2ec82e908e6582f09d392b49bf0e77ff17983816496a01311a9ac38642054871",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.165007309Z"
+}

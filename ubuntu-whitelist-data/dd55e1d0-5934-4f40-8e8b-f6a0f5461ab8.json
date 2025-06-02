@@ -1,0 +1,17 @@
+{
+  "uuid": "dd55e1d0-5934-4f40-8e8b-f6a0f5461ab8",
+  "path": "/lib/firmware/amdgpu/cyan_skillfish2_me.bin.zst",
+  "size": 8097,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.390543779Z",
+  "sha256_hash": "a60c42cda32988abb20a31f8aa0281320b3ca92b99ac771589ed1fa648cbb96a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.128169376Z"
+}

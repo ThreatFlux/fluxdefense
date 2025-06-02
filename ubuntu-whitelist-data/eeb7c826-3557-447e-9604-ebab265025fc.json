@@ -1,0 +1,15 @@
+{
+  "uuid": "eeb7c826-3557-447e-9604-ebab265025fc",
+  "path": "/lib/llvm-18/lib/libLLVMTableGenCommon.a",
+  "size": 432260,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.034461085Z",
+  "sha256_hash": "29013a465266a5252a15b8163fdf749f8ef535f0268f7b0e8db36ad5b22b29fa",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:43.778805732Z"
+}

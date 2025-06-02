@@ -1,0 +1,17 @@
+{
+  "uuid": "467432bf-bc74-4a77-8664-faf853e9cf98",
+  "path": "/usr/lib/x86_64-linux-gnu/libicalss.so.3.0.17",
+  "size": 104776,
+  "modified": "2024-04-06T01:14:50Z",
+  "created": "2025-05-09T05:07:30.188740391Z",
+  "sha256_hash": "a0a9cf771e375aa6fd6c70f3aa44366bfde15ef9b96ac86b964115a966c47357",
+  "file_type": {
+    "Other": "17"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:30.304258243Z"
+}

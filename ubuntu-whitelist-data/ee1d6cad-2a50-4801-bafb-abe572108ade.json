@@ -1,0 +1,17 @@
+{
+  "uuid": "ee1d6cad-2a50-4801-bafb-abe572108ade",
+  "path": "/lib/x86_64-linux-gnu/libgnomekbd.so.8.0.0",
+  "size": 35000,
+  "modified": "2024-03-31T01:59:33Z",
+  "created": "2025-05-09T05:07:29.820746006Z",
+  "sha256_hash": "a30bedfd001238f022b274ad5edf96125ef1f77e41602dbc1a7650bae4822fea",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.475279755Z"
+}

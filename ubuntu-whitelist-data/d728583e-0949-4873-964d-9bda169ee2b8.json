@@ -1,0 +1,17 @@
+{
+  "uuid": "d728583e-0949-4873-964d-9bda169ee2b8",
+  "path": "/lib/udev/rules.d/80-udisks2.rules",
+  "size": 10563,
+  "modified": "2024-11-18T16:06:30Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "a43a6b6d712f70049a135fd447eaaa0ea30c3e026ff98226b12417688dd19a97",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.243465785Z"
+}

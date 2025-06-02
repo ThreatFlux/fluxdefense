@@ -1,0 +1,17 @@
+{
+  "uuid": "dcd63a12-ee58-45c8-a6fe-1e3ce33a9513",
+  "path": "/usr/lib/x86_64-linux-gnu/libgstcodecparsers-1.0.so.0.2402.0",
+  "size": 597280,
+  "modified": "2024-04-15T13:00:06Z",
+  "created": "2025-05-09T05:09:28.089941059Z",
+  "sha256_hash": "f1d6e9fe6e0a648dae98ff11560bca9b1c414855ad2f212a2cc10821f264036f",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.514018108Z"
+}

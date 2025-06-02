@@ -1,0 +1,15 @@
+{
+  "uuid": "c6b5281f-da80-4fe9-8bf3-ae7c120836c3",
+  "path": "/usr/bin/getfacl",
+  "size": 31112,
+  "modified": "2024-10-02T12:40:51Z",
+  "created": "2025-05-09T05:07:19.398905038Z",
+  "sha256_hash": "91e889370c104d40a4f812c1a4527cfae01a6ab6b6ffa1f8f8a52cdeff7ef96f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.070703134Z"
+}

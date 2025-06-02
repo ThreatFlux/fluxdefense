@@ -1,0 +1,17 @@
+{
+  "uuid": "e72d4168-4ba4-4e61-be07-50a084a451dc",
+  "path": "/lib/llvm-18/include/clang/Driver/SanitizerArgs.h",
+  "size": 5045,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.541533423Z",
+  "sha256_hash": "0a912d301ef780e80c9cb9fcb29607db04e70a51827f48b6b94997991d088140",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.041234098Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "2c6ffc4d-9b0d-4127-86e7-ba1af1938a4a",
+  "path": "/usr/lib/systemd/system-generators/cloud-init-generator",
+  "size": 3094,
+  "modified": "2025-04-02T15:09:15Z",
+  "created": "2025-05-09T05:24:33.233037137Z",
+  "sha256_hash": "cfc54cf84dbd88c112c297edd656261e344af96f1a3edc39353c70be72a339e9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.435278996Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c3a37716-9439-44c7-bd37-3f5c97b576f1",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/android/CloexecSocketCheck.h",
+  "size": 1178,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "b34ab60916b0fa316981c0e7324a04bc0e1252f8bf5dc005eacf9bbbc44eb78d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.223421738Z"
+}

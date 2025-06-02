@@ -1,0 +1,17 @@
+{
+  "uuid": "1f55ccd9-3f1d-4269-bdbd-c32690e79b0b",
+  "path": "/lib/systemd/system/NetworkManager-wait-online.service",
+  "size": 1173,
+  "modified": "2024-10-23T11:04:42Z",
+  "created": "2025-05-09T05:07:28.297769246Z",
+  "sha256_hash": "8a816455b4711821c740bfa676e14b5275dde2d8897bfc96b0c93557df1cb7f6",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.129870284Z"
+}

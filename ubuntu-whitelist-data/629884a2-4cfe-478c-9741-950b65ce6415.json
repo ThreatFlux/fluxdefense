@@ -1,0 +1,17 @@
+{
+  "uuid": "629884a2-4cfe-478c-9741-950b65ce6415",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/a-wtinio.adb",
+  "size": 7175,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.063344970Z",
+  "sha256_hash": "7d551aa2edee983a19e8439b2e713078c9dcb8ec53358bd8248cc1e6f51c3d40",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:56.875210366Z"
+}

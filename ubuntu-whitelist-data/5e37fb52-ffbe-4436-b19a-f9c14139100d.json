@@ -1,0 +1,15 @@
+{
+  "uuid": "5e37fb52-ffbe-4436-b19a-f9c14139100d",
+  "path": "/usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-profiler.so",
+  "size": 43280,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.782860102Z",
+  "sha256_hash": "cfb0c1bcbb39e7d386a237cba259db324ba8d9b7f96f06d41eb148dafed92343",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.433301068Z"
+}

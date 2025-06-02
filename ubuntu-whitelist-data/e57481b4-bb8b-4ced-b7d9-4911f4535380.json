@@ -1,0 +1,17 @@
+{
+  "uuid": "e57481b4-bb8b-4ced-b7d9-4911f4535380",
+  "path": "/usr/lib/systemd/system/dm-event.service",
+  "size": 345,
+  "modified": "2024-11-27T19:06:49Z",
+  "created": "2025-05-09T05:56:47.944660527Z",
+  "sha256_hash": "32ce62e46739be7cb1070b0ccd524a9694804ccedb36fa441c011b3c0b71cc4b",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.472174869Z"
+}

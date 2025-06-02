@@ -1,0 +1,15 @@
+{
+  "uuid": "a6943ebc-dcdf-49de-8e17-1604f658232a",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/compute/scp.py",
+  "size": 7096,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.784931054Z",
+  "sha256_hash": "cc36937d77b9cdd368ebb52041dce2e3b625b82d7695ea92fe5685209ec922dd",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.766242728Z"
+}

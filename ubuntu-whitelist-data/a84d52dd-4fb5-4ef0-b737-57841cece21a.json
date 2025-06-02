@@ -1,0 +1,17 @@
+{
+  "uuid": "a84d52dd-4fb5-4ef0-b737-57841cece21a",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/python-3.12.pc",
+  "size": 273,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-26T18:06:52.267887347Z",
+  "sha256_hash": "69d1049f255330e3e19cf612be4c4841231fb19227a1bc92b3544ebcd1fb5cf9",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.064757884Z"
+}

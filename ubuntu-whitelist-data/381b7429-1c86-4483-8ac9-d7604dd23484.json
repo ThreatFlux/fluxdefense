@@ -1,0 +1,17 @@
+{
+  "uuid": "381b7429-1c86-4483-8ac9-d7604dd23484",
+  "path": "/lib/x86_64-linux-gnu/perl-base/bytes.pm",
+  "size": 489,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.361578460Z",
+  "sha256_hash": "6596846e8e83a530ffa409267a7ea948dda9c4eeee39e9aacb6b80f2a739c286",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:10.925114396Z"
+}

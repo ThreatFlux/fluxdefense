@@ -1,0 +1,15 @@
+{
+  "uuid": "92b485dd-0df2-479e-a378-72d281ff9679",
+  "path": "/usr/lib/python3/dist-packages/cups.cpython-312-x86_64-linux-gnu.so",
+  "size": 200960,
+  "modified": "2024-03-31T17:04:27Z",
+  "created": "2025-05-09T05:07:26.335799185Z",
+  "sha256_hash": "09dcffb98c394897f5d256e48647e46924e09498ffec350f586ca4fe8bfe1987",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.472718464Z"
+}

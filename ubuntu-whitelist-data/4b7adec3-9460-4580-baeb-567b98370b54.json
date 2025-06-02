@@ -1,0 +1,15 @@
+{
+  "uuid": "4b7adec3-9460-4580-baeb-567b98370b54",
+  "path": "/usr/bin/efibootdump",
+  "size": 22840,
+  "modified": "2024-03-31T08:50:55Z",
+  "created": "2025-05-09T05:08:37.337715648Z",
+  "sha256_hash": "a45a6c5be415a61b7418bb4f0b35807d0aedb80512e82d17929dd27b33535d82",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:08.029522531Z"
+}

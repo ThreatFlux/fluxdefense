@@ -1,0 +1,17 @@
+{
+  "uuid": "5da6be8f-c5d0-4eac-abcf-96141a946279",
+  "path": "/lib/firmware/i915/skl_guc_49.0.1.bin.zst",
+  "size": 81062,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.542541673Z",
+  "sha256_hash": "78ba196a7d1e6b5f2ae699553bd8b75219950a4a5ac3b55dfe51a4fb1c39b2bf",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.682365042Z"
+}

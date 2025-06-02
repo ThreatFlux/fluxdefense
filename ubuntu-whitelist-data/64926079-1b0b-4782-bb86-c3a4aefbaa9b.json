@@ -1,0 +1,17 @@
+{
+  "uuid": "64926079-1b0b-4782-bb86-c3a4aefbaa9b",
+  "path": "/lib/systemd/system/ua-reboot-cmds.service",
+  "size": 903,
+  "modified": "2025-02-19T15:13:27Z",
+  "created": "2025-05-09T05:24:25.021928480Z",
+  "sha256_hash": "2a45a02c40999e98f57e84ebf001b355c083e2d5e41faa3a2efbce512aad6af4",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.124773065Z"
+}

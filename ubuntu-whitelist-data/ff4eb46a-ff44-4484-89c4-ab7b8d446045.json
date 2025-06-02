@@ -1,0 +1,17 @@
+{
+  "uuid": "ff4eb46a-ff44-4484-89c4-ab7b8d446045",
+  "path": "/usr/lib/grub/x86_64-efi/gfxterm_background.mod",
+  "size": 4456,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.810708430Z",
+  "sha256_hash": "9d49444cff6af0f69e8e18240e40293dbcf96558ee873f613f426ba3f5f2a965",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.604005234Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "74411734-39c9-47b9-b92c-a8b8b8f31116",
+  "path": "/usr/libexec/rtkit-daemon",
+  "size": 64176,
+  "modified": "2024-04-08T16:18:41Z",
+  "created": "2025-05-09T05:07:37.558627927Z",
+  "sha256_hash": "6c12e21730fd83232f48b212a86d343bedf505afc39b5013040734b51ce2c51d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.150552690Z"
+}

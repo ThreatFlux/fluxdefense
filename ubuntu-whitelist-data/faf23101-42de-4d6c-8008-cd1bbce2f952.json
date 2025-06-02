@@ -1,0 +1,17 @@
+{
+  "uuid": "faf23101-42de-4d6c-8008-cd1bbce2f952",
+  "path": "/usr/lib/llvm-18/include/clang/ExtractAPI/FrontendActions.h",
+  "size": 3674,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.542533410Z",
+  "sha256_hash": "9f39e0e643d05078fbf899af7444ec01f74c5b83f4b89497b1428446fb9c0125",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.625322185Z"
+}

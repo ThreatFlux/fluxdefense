@@ -1,0 +1,15 @@
+{
+  "uuid": "85392ef0-2b83-4f55-8269-7f6584d10f60",
+  "path": "/lib/google-cloud-sdk/lib/third_party/dns/reversename.py",
+  "size": 3291,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.114942437Z",
+  "sha256_hash": "234acb163145d185e8d52ea8666dbfd55fcf549c88fc97cb770bff60b20aa40e",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.873304363Z"
+}

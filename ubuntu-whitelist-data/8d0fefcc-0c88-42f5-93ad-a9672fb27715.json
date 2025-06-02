@@ -1,0 +1,17 @@
+{
+  "uuid": "8d0fefcc-0c88-42f5-93ad-a9672fb27715",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/OperatorPrecedence.h",
+  "size": 1871,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "29e9f4426065338b12eec9c8a2ce22d668940c29f213eb9166eec298a7efac2a",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.515049465Z"
+}

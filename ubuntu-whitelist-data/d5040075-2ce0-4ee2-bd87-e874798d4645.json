@@ -1,0 +1,17 @@
+{
+  "uuid": "d5040075-2ce0-4ee2-bd87-e874798d4645",
+  "path": "/lib/x86_64-linux-gnu/sasl2/libgssapiv2.so.2.0.25",
+  "size": 43616,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T05:07:37.177633741Z",
+  "sha256_hash": "8a87da8c5b495c67d30e97c4be76c252c7ccbf431bf87095d7d3282eddfeb884",
+  "file_type": {
+    "Other": "25"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.869004788Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "53f0d547-c92f-4f73-a635-a3f3398c69fa",
+  "path": "/lib/python3/dist-packages/cloudinit/net/network_state.py",
+  "size": 36450,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.240037230Z",
+  "sha256_hash": "f24d4d9c783c52a4105bea2da5ff48ee9f8d5775f7b0ac7762de672c6d287cdb",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.893261871Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "8e92788f-6a3e-45e9-85e2-7cd8038a4119",
+  "path": "/lib/x86_64-linux-gnu/libharfbuzz-subset.so.0.60830.0",
+  "size": 1063208,
+  "modified": "2024-03-31T01:19:37Z",
+  "created": "2025-05-29T11:16:06.578052231Z",
+  "sha256_hash": "b61f629896a000adeff99e602d2d26732f3f95043e5880b2d3cb67cf0b1cad94",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.533837618Z"
+}

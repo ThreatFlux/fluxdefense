@@ -1,0 +1,17 @@
+{
+  "uuid": "491f7fed-5f27-49c0-9045-a6db35769081",
+  "path": "/lib/systemd/system/getty-static.service",
+  "size": 366,
+  "modified": "2025-02-18T17:24:37Z",
+  "created": "2025-05-09T05:24:13.511779329Z",
+  "sha256_hash": "c22a21a19c11278ccaa7e804594a4488e3d4a43751defeb00ec89dfb32b96359",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.117434524Z"
+}

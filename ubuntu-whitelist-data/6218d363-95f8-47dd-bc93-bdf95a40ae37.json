@@ -1,0 +1,17 @@
+{
+  "uuid": "6218d363-95f8-47dd-bc93-bdf95a40ae37",
+  "path": "/lib/grub/x86_64-efi/efitextmode.mod",
+  "size": 3792,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.804708521Z",
+  "sha256_hash": "f9bc2effe01efa8562acb3d4c8dadb06bc7509b1e0b1e39f6ca8029635e9e59f",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.033738325Z"
+}

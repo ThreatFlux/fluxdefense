@@ -1,0 +1,15 @@
+{
+  "uuid": "912d7f22-847e-4e49-8390-c8472c0692cf",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM285.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.278663446Z",
+  "sha256_hash": "8506279ae52ad4d6e3f193171dddd809592de15583b3f8eb689ef6d4b14cf277",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.932446508Z"
+}

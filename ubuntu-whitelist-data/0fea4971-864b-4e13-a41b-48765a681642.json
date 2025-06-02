@@ -1,0 +1,17 @@
+{
+  "uuid": "0fea4971-864b-4e13-a41b-48765a681642",
+  "path": "/lib/udev/rules.d/90-libinput-fuzz-override.rules",
+  "size": 1098,
+  "modified": "2025-02-13T08:17:20Z",
+  "created": "2025-05-09T05:24:17.831834841Z",
+  "sha256_hash": "5ccc9410710a42f42fb662e3fe68e9443a22abccb4249ac3df9c1127a7872fbc",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.240455038Z"
+}

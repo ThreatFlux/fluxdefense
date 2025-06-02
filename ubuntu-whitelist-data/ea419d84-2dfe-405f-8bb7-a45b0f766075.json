@@ -1,0 +1,17 @@
+{
+  "uuid": "ea419d84-2dfe-405f-8bb7-a45b0f766075",
+  "path": "/lib/x86_64-linux-gnu/libgssapi_krb5.so.2.2",
+  "size": 338696,
+  "modified": "2025-05-15T08:09:20Z",
+  "created": "2025-05-29T10:40:03.920605694Z",
+  "sha256_hash": "b9a20df712d206654477c079f03b568276933e91cbe237e62af791f0f3ab8d8b",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:28.932301114Z"
+}

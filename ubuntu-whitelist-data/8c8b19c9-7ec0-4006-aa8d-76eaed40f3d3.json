@@ -1,0 +1,17 @@
+{
+  "uuid": "8c8b19c9-7ec0-4006-aa8d-76eaed40f3d3",
+  "path": "/usr/lib/modules/6.11.0-25-generic/kernel/crypto/xxhash_generic.ko.zst",
+  "size": 2826,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.100459819Z",
+  "sha256_hash": "edb244a0421a3131d4aef069b0576ea6664ee0d5b72f2ee439357973d1bdeffe",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.032277811Z"
+}

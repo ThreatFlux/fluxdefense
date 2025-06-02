@@ -1,0 +1,17 @@
+{
+  "uuid": "04ecb898-fecd-4e10-9323-e407ec2496a6",
+  "path": "/usr/lib/x86_64-linux-gnu/libsonic.so.0.2.0",
+  "size": 18424,
+  "modified": "2024-04-08T16:19:45Z",
+  "created": "2025-05-09T05:07:32.188709871Z",
+  "sha256_hash": "71dc7f2521b32f71bd2ca21e10ea2df4dd54674b2a4cf49956372a682a895ba9",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.905251932Z"
+}

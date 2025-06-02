@@ -1,0 +1,15 @@
+{
+  "uuid": "986db397-4679-4a8a-800e-47d9fade412c",
+  "path": "/usr/lib/x86_64-linux-gnu/libdb-5.3.so",
+  "size": 1769040,
+  "modified": "2024-04-13T13:12:36Z",
+  "created": "2025-05-09T05:07:29.270754399Z",
+  "sha256_hash": "1812047c39ea3c26ee5b2b585abbafc18cd158dfcd84e5368c998cc6178e815b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.744053521Z"
+}

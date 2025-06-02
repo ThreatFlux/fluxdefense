@@ -1,0 +1,17 @@
+{
+  "uuid": "8a05ee19-d4b7-4aaa-8fee-cb24af8882e3",
+  "path": "/usr/lib/x86_64-linux-gnu/libLLVM-17.so.1",
+  "size": 123671544,
+  "modified": "2024-04-14T10:03:27Z",
+  "created": "2025-05-09T17:41:09.918626843Z",
+  "sha256_hash": "2d26695f474b25bf49c9140c64b2d249806a0868096b40838989a50e2486ea50",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:29.519441090Z"
+}

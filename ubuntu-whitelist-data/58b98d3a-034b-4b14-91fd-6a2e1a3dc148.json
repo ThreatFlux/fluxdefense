@@ -1,0 +1,17 @@
+{
+  "uuid": "58b98d3a-034b-4b14-91fd-6a2e1a3dc148",
+  "path": "/usr/lib/x86_64-linux-gnu/libzimg.so.2.0.0",
+  "size": 830320,
+  "modified": "2024-04-18T17:48:41Z",
+  "created": "2025-05-09T05:09:26.750961495Z",
+  "sha256_hash": "03bb2f18c31b2e0cef185a67672a5014cc43d01be7706ae1706320d235a7617c",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:29.543588034Z"
+}

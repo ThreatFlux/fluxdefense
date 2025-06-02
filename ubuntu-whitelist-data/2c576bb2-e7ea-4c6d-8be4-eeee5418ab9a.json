@@ -1,0 +1,17 @@
+{
+  "uuid": "2c576bb2-e7ea-4c6d-8be4-eeee5418ab9a",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/AssignmentInIfConditionCheck.h",
+  "size": 1311,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "3d652936ce65f7c335dfadf165bce32f0a012175477ca3112cfec77aa951543c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.232555617Z"
+}

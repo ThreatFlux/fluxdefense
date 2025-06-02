@@ -1,0 +1,17 @@
+{
+  "uuid": "d58ee434-3941-442b-a776-597ba62bae43",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-tasuti.adb",
+  "size": 15628,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.091344585Z",
+  "sha256_hash": "ff406d078c83c070beff7d793c9e5d3e6a4474864d402fa9b06ff5b6957429cb",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.084471960Z"
+}

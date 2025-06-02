@@ -1,0 +1,15 @@
+{
+  "uuid": "60bbbd3e-470d-4730-83fb-eaeec045dc42",
+  "path": "/sbin/hardirqs-bpfcc",
+  "size": 7019,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "67636f093ce1065c8814500ba8f108627414304ba647e92eefd23e62ee2d9b8d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.050174813Z"
+}

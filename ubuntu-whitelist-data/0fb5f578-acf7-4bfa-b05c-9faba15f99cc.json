@@ -1,0 +1,17 @@
+{
+  "uuid": "0fb5f578-acf7-4bfa-b05c-9faba15f99cc",
+  "path": "/lib/udev/hwdb.d/20-sdio-classes.hwdb",
+  "size": 783,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.056786297Z",
+  "sha256_hash": "acd02dcf5b5abfb44a46deabe5b0c038da1e7e4172a85f4f60d2d3b887adfbce",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.262015040Z"
+}

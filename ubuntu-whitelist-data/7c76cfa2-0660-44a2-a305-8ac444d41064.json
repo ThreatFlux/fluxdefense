@@ -1,0 +1,15 @@
+{
+  "uuid": "7c76cfa2-0660-44a2-a305-8ac444d41064",
+  "path": "/usr/lib/x86_64-linux-gnu/librt.a",
+  "size": 8,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:08:53.076475447Z",
+  "sha256_hash": "f0a17a43c74d2fe5474fa2fd29c8f14799e777d7d75a2cc4d11c20a6e7b161c5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.566140116Z"
+}

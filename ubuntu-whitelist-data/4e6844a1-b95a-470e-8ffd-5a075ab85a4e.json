@@ -1,0 +1,15 @@
+{
+  "uuid": "4e6844a1-b95a-470e-8ffd-5a075ab85a4e",
+  "path": "/usr/lib/x86_64-linux-gnu/tracker-miners-3.0/writeback-modules/libwriteback-xmp.so",
+  "size": 22800,
+  "modified": "2024-03-31T17:20:13Z",
+  "created": "2025-05-09T05:07:37.316631620Z",
+  "sha256_hash": "89e87a997b73b6405c8437e342cde716d3debf51b1a21101bca2ed8f6b1ec618",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.212943857Z"
+}

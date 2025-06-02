@@ -1,0 +1,17 @@
+{
+  "uuid": "5400eaa4-b9b1-428a-8a3d-1683ada19957",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-exnlfl.ali",
+  "size": 1219,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.137343953Z",
+  "sha256_hash": "a7d12d1ec5a04b8bf04791c886d17210668c19ce474440a47b08a0cdced8a86e",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.597439274Z"
+}

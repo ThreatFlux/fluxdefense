@@ -1,0 +1,17 @@
+{
+  "uuid": "04e0034e-5ea2-451f-afa9-d7f137fa77cc",
+  "path": "/usr/lib/firmware/ar3k/1020201coex/ramps_0x01020201_26_HighPriority.dfu.zst",
+  "size": 253,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.430543225Z",
+  "sha256_hash": "ae3c020960a279d63225007ddca96b235cd95522d9c32720155f3ac74b73f1f8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.641615213Z"
+}

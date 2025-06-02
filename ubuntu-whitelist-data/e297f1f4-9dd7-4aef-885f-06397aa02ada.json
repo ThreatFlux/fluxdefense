@@ -1,0 +1,15 @@
+{
+  "uuid": "e297f1f4-9dd7-4aef-885f-06397aa02ada",
+  "path": "/lib/llvm-18/lib/libLLVMFrontendDriver.a",
+  "size": 2558,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.879463126Z",
+  "sha256_hash": "c360bf8a0c025d2428c0daca5c20bf3427866e55a9d4be57840052a4845a5271",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:43.783465636Z"
+}

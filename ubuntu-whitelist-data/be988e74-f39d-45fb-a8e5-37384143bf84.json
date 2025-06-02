@@ -1,0 +1,17 @@
+{
+  "uuid": "be988e74-f39d-45fb-a8e5-37384143bf84",
+  "path": "/usr/libexec/x86_64-linux-gnu/isa-support/qemu-good-SSE4.1",
+  "size": 282,
+  "modified": "2024-04-18T17:54:37Z",
+  "created": "2025-05-26T20:18:23.196081220Z",
+  "sha256_hash": "e45e51e022fafc4aa6cde4fed3a66fcc20644dbc08cc1c71acf6ccd488745f7d",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.527772138Z"
+}

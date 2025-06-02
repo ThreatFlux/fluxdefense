@@ -1,0 +1,17 @@
+{
+  "uuid": "74506a56-6a7d-448e-b836-b63ce7b6cd86",
+  "path": "/lib/x86_64-linux-gnu/libgstadaptivedemux-1.0.so.0.2402.0",
+  "size": 104696,
+  "modified": "2024-04-15T13:00:06Z",
+  "created": "2025-05-09T05:09:28.089941059Z",
+  "sha256_hash": "c39d9bc4f161217e878ba2abb923f3c6d3141aa0da779fc72b35f82f3a6f178b",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.945595752Z"
+}

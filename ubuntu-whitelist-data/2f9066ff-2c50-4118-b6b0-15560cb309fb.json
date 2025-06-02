@@ -1,0 +1,15 @@
+{
+  "uuid": "2f9066ff-2c50-4118-b6b0-15560cb309fb",
+  "path": "/usr/libexec/gsd-usb-protection",
+  "size": 43616,
+  "modified": "2024-04-18T10:59:35Z",
+  "created": "2025-05-09T05:07:37.501628797Z",
+  "sha256_hash": "f4ed472e149b85baba9119b9d7ff81973727781dd0ac0f23dda77e37a3399015",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.485632508Z"
+}

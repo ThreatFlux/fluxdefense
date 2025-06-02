@@ -1,0 +1,15 @@
+{
+  "uuid": "305e89fb-d75b-468d-8160-a5cb3b07f783",
+  "path": "/usr/lib/x86_64-linux-gnu/totem/plugins/open-directory/libopen-directory.so",
+  "size": 30952,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:37.298631895Z",
+  "sha256_hash": "1dab43454988573a562ab9cf1463db5b5027d2513f755ee97f3a69531ff2cd42",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:26.373187828Z"
+}

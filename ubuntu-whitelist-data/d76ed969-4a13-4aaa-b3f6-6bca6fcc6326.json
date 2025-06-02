@@ -1,0 +1,17 @@
+{
+  "uuid": "d76ed969-4a13-4aaa-b3f6-6bca6fcc6326",
+  "path": "/usr/lib/x86_64-linux-gnu/libhogweed.so.6.8",
+  "size": 288920,
+  "modified": "2024-08-09T02:33:22Z",
+  "created": "2025-05-09T05:07:30.181740497Z",
+  "sha256_hash": "c3c606139d4f7776efa4dbd4a6b62e30c916b07a0cafd8c3ef173d6f093607e3",
+  "file_type": {
+    "Other": "8"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.304034003Z"
+}

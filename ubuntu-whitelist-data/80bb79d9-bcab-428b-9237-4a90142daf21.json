@@ -1,0 +1,17 @@
+{
+  "uuid": "80bb79d9-bcab-428b-9237-4a90142daf21",
+  "path": "/lib/llvm-18/include/clang/Sema/SemaInternal.h",
+  "size": 13026,
+  "modified": "2023-03-11T09:29:12Z",
+  "created": "2025-05-12T13:34:31.549533318Z",
+  "sha256_hash": "bb279326db3bc6272692f6bf56c99d81b3fb20412ae8f6970060c8412c903a80",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.053370943Z"
+}

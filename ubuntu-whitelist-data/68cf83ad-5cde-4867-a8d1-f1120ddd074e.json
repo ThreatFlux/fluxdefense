@@ -1,0 +1,17 @@
+{
+  "uuid": "68cf83ad-5cde-4867-a8d1-f1120ddd074e",
+  "path": "/lib/firmware/moxa/moxa-1451.fw.zst",
+  "size": 15572,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.791538225Z",
+  "sha256_hash": "6e430b268f17f6be8b342c98d5d9b073260ea6bc3f8d56db717acd406d819bcd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.250379380Z"
+}

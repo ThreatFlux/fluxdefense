@@ -1,0 +1,17 @@
+{
+  "uuid": "9675e615-6fff-40f9-8c97-85f8fb232620",
+  "path": "/lib/firmware/ueagle-atm/CMV4p.bin.v2.zst",
+  "size": 82,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.080534222Z",
+  "sha256_hash": "cf44d2c6566e3a67ba18b1de4e3c06800402062b404f0ad61afee0cfc20800af",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.331096662Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "45205c55-3823-493d-9f20-2a82ce1157d0",
+  "path": "/lib/x86_64-linux-gnu/gconv/VISCII.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.683656539Z",
+  "sha256_hash": "2e281f00715ed2814f3e3668081623f6f8a9f0a1771e270f2a340ffc984d4c31",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.828851479Z"
+}

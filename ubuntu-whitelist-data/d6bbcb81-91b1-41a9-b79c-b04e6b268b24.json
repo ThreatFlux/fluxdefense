@@ -1,0 +1,15 @@
+{
+  "uuid": "d6bbcb81-91b1-41a9-b79c-b04e6b268b24",
+  "path": "/lib/libreoffice/program/libbiblo.so",
+  "size": 570544,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:19.812235763Z",
+  "sha256_hash": "7d7d37ae0099d6325c2a335403591bd920e3a296d2b9044efe7acc1bdf84e9e5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:50.138107386Z"
+}

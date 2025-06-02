@@ -1,0 +1,17 @@
+{
+  "uuid": "d87cf146-732a-4ac0-850e-73a072f1f782",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/libva-glx.pc",
+  "size": 293,
+  "modified": "2024-04-18T17:47:47Z",
+  "created": "2025-05-12T13:47:40.269133370Z",
+  "sha256_hash": "59e6fe0e4666b65e82c25aa61184c06e9deaf864a5c3bf26882d134ef108c50b",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.098781986Z"
+}

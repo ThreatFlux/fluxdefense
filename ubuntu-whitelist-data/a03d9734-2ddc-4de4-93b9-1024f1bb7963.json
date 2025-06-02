@@ -1,0 +1,15 @@
+{
+  "uuid": "a03d9734-2ddc-4de4-93b9-1024f1bb7963",
+  "path": "/usr/lib/x86_64-linux-gnu/libisccfg-9.18.30-0ubuntu0.24.04.2-Ubuntu.so",
+  "size": 221040,
+  "modified": "2025-01-28T14:26:30Z",
+  "created": "2025-05-09T05:07:30.568734592Z",
+  "sha256_hash": "54f7a9e7094c9bdc6749b524b02d6bb034faaf45b9adbccb7c1ef3404b540916",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:08.584349058Z"
+}

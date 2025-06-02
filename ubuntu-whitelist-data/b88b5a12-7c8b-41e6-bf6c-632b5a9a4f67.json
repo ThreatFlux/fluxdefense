@@ -1,0 +1,17 @@
+{
+  "uuid": "b88b5a12-7c8b-41e6-bf6c-632b5a9a4f67",
+  "path": "/lib/udev/rules.d/77-mm-linktop-port-types.rules",
+  "size": 697,
+  "modified": "2024-02-19T14:58:32Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "dbd91b00395638764d698005e119a0cf9ea54826ba3e413afbe5ae6ee82cf45f",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.239997985Z"
+}

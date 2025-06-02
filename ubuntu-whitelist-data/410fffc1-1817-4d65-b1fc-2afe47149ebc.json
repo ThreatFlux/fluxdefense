@@ -1,0 +1,15 @@
+{
+  "uuid": "410fffc1-1817-4d65-b1fc-2afe47149ebc",
+  "path": "/lib/llvm-18/bin/llvm-readobj",
+  "size": 1938720,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.067486991Z",
+  "sha256_hash": "8ed942a8c33f191480253ff7f236b7e49966c7441d12063d49dce9743aba9a6d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.596218646Z"
+}

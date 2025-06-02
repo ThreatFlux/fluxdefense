@@ -1,0 +1,15 @@
+{
+  "uuid": "5e3e5624-a2ab-4c5f-a9e0-1ba8594a55c3",
+  "path": "/usr/bin/qemu-img",
+  "size": 2480840,
+  "modified": "2025-03-13T16:15:00Z",
+  "created": "2025-05-22T16:56:50.149983110Z",
+  "sha256_hash": "de8f7988b398c1d2f8e1a498adf79b97548d63a8dcb6477acd269dbf66bd52c3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:08.085886303Z"
+}

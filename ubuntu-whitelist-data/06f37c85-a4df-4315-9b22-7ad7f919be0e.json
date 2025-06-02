@@ -1,0 +1,17 @@
+{
+  "uuid": "06f37c85-a4df-4315-9b22-7ad7f919be0e",
+  "path": "/lib/firmware/qcom/yamato_pfp.fw.zst",
+  "size": 604,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.044534720Z",
+  "sha256_hash": "c58ce589d72d01112fcd32d283490aa9765a2f8f3c7bb9d2b8243aef6ca80b60",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.994427795Z"
+}

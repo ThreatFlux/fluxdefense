@@ -1,0 +1,17 @@
+{
+  "uuid": "9a2744b5-31bb-4fe8-ab36-28a1c0b9f50d",
+  "path": "/usr/lib/x86_64-linux-gnu/libvncclient.so.0.9.14",
+  "size": 170280,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:32.356707308Z",
+  "sha256_hash": "7b155577a613f1550dcd0f4dce20086f50c82894973f5aa4d6963872cf5c4e4a",
+  "file_type": {
+    "Other": "14"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:06.773711481Z"
+}

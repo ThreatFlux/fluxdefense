@@ -1,0 +1,15 @@
+{
+  "uuid": "8ea215f9-6cf1-440f-83a0-b188ab30a872",
+  "path": "/lib/llvm-18/lib/libLLVMExecutionEngine.a",
+  "size": 283034,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.876463166Z",
+  "sha256_hash": "1d9cc54e6b681d7f5ed48e3f1e297b7b324620a3168030f7b8990a0098d5aa23",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.145107011Z"
+}

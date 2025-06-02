@@ -1,0 +1,15 @@
+{
+  "uuid": "70b5dd92-690d-4b3f-ad0e-60ac1b7d5d65",
+  "path": "/usr/lib/xorg/modules/drivers/modesetting_drv.so",
+  "size": 123752,
+  "modified": "2025-03-04T04:58:03Z",
+  "created": "2025-05-09T05:24:13.314776812Z",
+  "sha256_hash": "c3ba3ce1e3a101bc146bde9359087192f99b5d623a73b594c052e2a205afa35e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.617244246Z"
+}

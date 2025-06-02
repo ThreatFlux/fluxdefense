@@ -1,0 +1,15 @@
+{
+  "uuid": "4cf4cb7c-6d3e-4d3a-b041-528c794f99ef",
+  "path": "/bin/ssh-keyscan",
+  "size": 338368,
+  "modified": "2025-04-22T11:51:46Z",
+  "created": "2025-05-09T05:11:28.349105451Z",
+  "sha256_hash": "6807ad2a01a877f79030f2e32ecc914de89e0d17098210c0da22d58a717bb361",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:20.031861865Z"
+}

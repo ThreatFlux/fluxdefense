@@ -1,0 +1,17 @@
+{
+  "uuid": "6dfc8b1a-83c7-4a90-8499-b514b0e92801",
+  "path": "/lib/python3.12/test/Sine-1000Hz-300ms.aif",
+  "size": 61696,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.984551867Z",
+  "sha256_hash": "1933965d3f03aa674c8ada3b5d73a2287d71e35bd8e4fa6d732724ba951dd27a",
+  "file_type": {
+    "Other": "aif"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.602151140Z"
+}

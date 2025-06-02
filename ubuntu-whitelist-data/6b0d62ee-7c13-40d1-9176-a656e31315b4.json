@@ -1,0 +1,17 @@
+{
+  "uuid": "6b0d62ee-7c13-40d1-9176-a656e31315b4",
+  "path": "/lib/udev/hwdb.d/69-libmtp.hwdb",
+  "size": 110947,
+  "modified": "2024-03-31T02:08:07Z",
+  "created": "2025-05-09T05:07:28.434767156Z",
+  "sha256_hash": "ee8ffeec798eaafa83beb36de26ed03d1074ee58fb38382b469029b5c70b3ffc",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.311547177Z"
+}

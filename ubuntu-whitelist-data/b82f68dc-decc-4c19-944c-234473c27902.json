@@ -1,0 +1,15 @@
+{
+  "uuid": "b82f68dc-decc-4c19-944c-234473c27902",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/fasteners/process_lock.py",
+  "size": 8631,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.106942574Z",
+  "sha256_hash": "d2fc5a08824fe33e009cfd2f0ea83ddc7907132b66c4e3e007d403a0504fd43c",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.655876625Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "24ecdc5e-4c09-4c41-9425-20201d9adce4",
+  "path": "/usr/lib/systemd/system/systemd-pcrfs@.service",
+  "size": 762,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "1ee11af97de1f38357fba161be05b54cb2116da2f25c5325e8325e5d4d119d51",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.474330238Z"
+}

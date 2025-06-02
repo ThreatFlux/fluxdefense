@@ -1,0 +1,17 @@
+{
+  "uuid": "c3922f7b-53b7-44b9-8d9e-d043cb976ddd",
+  "path": "/lib/x86_64-linux-gnu/bpf/xdpfilt_alw_eth.o",
+  "size": 12840,
+  "modified": "2024-04-01T04:46:20Z",
+  "created": "2025-05-26T20:18:27.419017429Z",
+  "sha256_hash": "a4c7091260d4c393262f46b68691efa38fedaf31394d3fbfcb57611453e40c0e",
+  "file_type": {
+    "Other": "o"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.402124035Z"
+}

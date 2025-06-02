@@ -1,0 +1,17 @@
+{
+  "uuid": "074f629a-7e90-49d8-b195-24adddcfb9fa",
+  "path": "/lib/google-cloud-sdk/platform/bq/discovery_next/bigqueryreservation_google_rest_v1.json",
+  "size": 147051,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.814930545Z",
+  "sha256_hash": "10c162fa2854430af93061e3b311ad77f88c8a783f7fc13d02bb29e4934f1dcf",
+  "file_type": {
+    "Other": "json"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.998091952Z"
+}

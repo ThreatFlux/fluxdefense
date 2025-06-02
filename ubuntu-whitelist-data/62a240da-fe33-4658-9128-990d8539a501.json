@@ -1,0 +1,15 @@
+{
+  "uuid": "62a240da-fe33-4658-9128-990d8539a501",
+  "path": "/lib/llvm-18/bin/dsymutil",
+  "size": 324576,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:34.906489112Z",
+  "sha256_hash": "22c3bdbc6466811deeb91adeb578285bd7db1224b4fda9a26217860c4529f707",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.601513715Z"
+}

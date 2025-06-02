@@ -1,0 +1,17 @@
+{
+  "uuid": "1f181e85-f300-4073-b95c-7b2ff582ccc3",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-canon630u.so.1.2.1",
+  "size": 109576,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.129634474Z",
+  "sha256_hash": "fedc843a21e172ba7439b78aa89ef96bd6a69cf09811214fd901b7ea9f68f541",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.854049570Z"
+}

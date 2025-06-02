@@ -1,0 +1,17 @@
+{
+  "uuid": "e3f66b67-f86f-4403-8c02-c023b90794de",
+  "path": "/lib/x86_64-linux-gnu/libIntelXvMC.so.1.0.0",
+  "size": 414648,
+  "modified": "2024-04-08T16:23:40Z",
+  "created": "2025-05-09T05:07:28.455766835Z",
+  "sha256_hash": "3533e84936d6f6be40d0d04779eac3f85ffc4d895259e793f0b3a3fa6572fe3a",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.240752280Z"
+}

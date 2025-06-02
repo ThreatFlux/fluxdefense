@@ -1,0 +1,17 @@
+{
+  "uuid": "c5bbc72b-e76b-43ab-8f99-4cf5ada1c257",
+  "path": "/lib/x86_64-linux-gnu/libavahi-ui-gtk3.so.0.1.4",
+  "size": 55288,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.182755741Z",
+  "sha256_hash": "bcb886bdcd1735373eb855ec2bd73620380fe730a6fb6383598ac1cf8bc92957",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.899819742Z"
+}

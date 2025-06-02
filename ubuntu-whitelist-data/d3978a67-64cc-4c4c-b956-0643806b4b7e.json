@@ -1,0 +1,17 @@
+{
+  "uuid": "d3978a67-64cc-4c4c-b956-0643806b4b7e",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/File/Spec.pm",
+  "size": 10570,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.517591342Z",
+  "sha256_hash": "97a45eebc893a72fc65c9ab5500c0edf466e3a489ce44446f48981b51a27ccf3",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.577698483Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "5c88dd10-bfe6-40f9-be63-2c6bae5a71be",
+  "path": "/usr/lib/systemd/system/avahi-daemon.service",
+  "size": 1044,
+  "modified": "2024-04-05T10:57:26Z",
+  "created": "2025-05-09T05:07:28.297769246Z",
+  "sha256_hash": "2e8784f74603b0e7b03147eada1f1f8ec190fdef0c3fa1041201ac71ac2c0a7d",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.476160502Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "449be475-0836-4860-8d85-ec7de000e4a2",
+  "path": "/usr/lib/x86_64-linux-gnu/security/pam_userdb.so",
+  "size": 18584,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:37.207633283Z",
+  "sha256_hash": "ecb3dd36bec4c462eace9eb9048631c28999a29738130c012b7a0a51e11f7ac6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.649325726Z"
+}

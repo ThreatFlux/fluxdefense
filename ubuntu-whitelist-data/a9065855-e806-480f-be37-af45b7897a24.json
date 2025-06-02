@@ -1,0 +1,15 @@
+{
+  "uuid": "a9065855-e806-480f-be37-af45b7897a24",
+  "path": "/bin/htop",
+  "size": 379216,
+  "modified": "2024-04-08T15:59:05Z",
+  "created": "2025-05-25T19:26:17.999076751Z",
+  "sha256_hash": "be66e46b876d21c47fcb3a72535e936ad086dd8e3b35033af66cf35a0a33f96e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.740595753Z"
+}

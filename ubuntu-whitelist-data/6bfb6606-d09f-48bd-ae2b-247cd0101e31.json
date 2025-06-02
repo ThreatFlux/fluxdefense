@@ -1,0 +1,17 @@
+{
+  "uuid": "6bfb6606-d09f-48bd-ae2b-247cd0101e31",
+  "path": "/lib/llvm-18/lib/cmake/llvm/TensorFlowCompile.cmake",
+  "size": 5272,
+  "modified": "2023-03-14T08:58:24Z",
+  "created": "2025-05-12T13:34:36.685465681Z",
+  "sha256_hash": "61e6a599d421351065c1bd5aef6a1a57c7d38b1f7ccc603c388605f0fa7a4991",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.508514611Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "39763144-8dd7-4e21-9b04-46d15a693ca8",
+  "path": "/usr/lib/firmware/radeon/BONAIRE_ce.bin.zst",
+  "size": 1190,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.059534513Z",
+  "sha256_hash": "db0b9f3156e1975e8999faf893df6add7385faca30821a82dcf59627ab588926",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.374652131Z"
+}

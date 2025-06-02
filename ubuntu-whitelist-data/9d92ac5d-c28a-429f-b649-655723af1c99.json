@@ -1,0 +1,17 @@
+{
+  "uuid": "9d92ac5d-c28a-429f-b649-655723af1c99",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/FileExtensionsSet.h",
+  "size": 743,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.555533239Z",
+  "sha256_hash": "2bc8f29c18e22d4312730c927e0313455545fac2de8e97813a8cd3073d122d80",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.222098407Z"
+}

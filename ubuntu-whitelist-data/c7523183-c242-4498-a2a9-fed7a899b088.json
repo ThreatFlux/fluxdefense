@@ -1,0 +1,15 @@
+{
+  "uuid": "c7523183-c242-4498-a2a9-fed7a899b088",
+  "path": "/lib/x86_64-linux-gnu/xtables/libipt_realm.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.330631406Z",
+  "sha256_hash": "ee2e59c2ec9896750d520a787f7c316372b57f2272276ee0e5ec282684dcc826",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.681769957Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "abfbf53b-8f8d-40bb-ad9e-6537f98a6459",
+  "path": "/lib/x86_64-linux-gnu/samba/libcliauth-samba4.so.0",
+  "size": 88296,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.043635786Z",
+  "sha256_hash": "ae5dbb727a7dbfc3aa6330a7f2bc6e5190aa0a11354e4b7b099e3fdb5f83adc8",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.480270501Z"
+}

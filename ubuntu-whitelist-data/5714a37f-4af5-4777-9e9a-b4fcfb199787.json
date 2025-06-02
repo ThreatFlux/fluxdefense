@@ -1,0 +1,17 @@
+{
+  "uuid": "5714a37f-4af5-4777-9e9a-b4fcfb199787",
+  "path": "/lib/systemd/system/speech-dispatcherd.service",
+  "size": 1133,
+  "modified": "2024-04-07T07:23:33Z",
+  "created": "2025-05-09T05:07:28.301769185Z",
+  "sha256_hash": "f5e57ed8403b835e050427a28a8577d5b334f4de7ed5a8b0259b6d0ee89602d6",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.112957322Z"
+}

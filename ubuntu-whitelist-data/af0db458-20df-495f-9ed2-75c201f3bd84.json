@@ -1,0 +1,17 @@
+{
+  "uuid": "af0db458-20df-495f-9ed2-75c201f3bd84",
+  "path": "/usr/lib/llvm-18/include/clang/AST/ODRHash.h",
+  "size": 4099,
+  "modified": "2024-01-24T12:45:36Z",
+  "created": "2025-05-12T13:34:31.518533726Z",
+  "sha256_hash": "d5cf575ea368ceb1345571a32e625d881fe2262575a5f75505419d0734e7ddf9",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.352882727Z"
+}

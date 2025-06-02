@@ -1,0 +1,17 @@
+{
+  "uuid": "96466275-61de-4e7b-9386-a798d5e8fb30",
+  "path": "/usr/lib/x86_64-linux-gnu/libzmq.so.5.2.5",
+  "size": 663584,
+  "modified": "2024-03-31T08:35:18Z",
+  "created": "2025-05-09T05:09:23.638009007Z",
+  "sha256_hash": "c56acd8baaec3d869f7e23a194870302acef6d86384f1f0fe946fb81c7015a42",
+  "file_type": {
+    "Other": "5"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.137985429Z"
+}

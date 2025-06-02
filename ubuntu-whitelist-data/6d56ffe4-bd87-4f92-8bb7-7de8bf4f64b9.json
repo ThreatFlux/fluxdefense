@@ -1,0 +1,17 @@
+{
+  "uuid": "6d56ffe4-bd87-4f92-8bb7-7de8bf4f64b9",
+  "path": "/lib/modules/6.11.0-25-generic/kernel/nvidia-550-open/nvidia.ko",
+  "size": 12662590,
+  "modified": "2025-04-28T11:37:45Z",
+  "created": "2025-05-09T12:56:03.512989082Z",
+  "sha256_hash": "6699d89ea41c18e3ece193242761e171a95db9a9e6431ccea4b101c21380f369",
+  "file_type": {
+    "Other": "ko"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.824440337Z"
+}

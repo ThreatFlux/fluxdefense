@@ -1,0 +1,17 @@
+{
+  "uuid": "5df269e8-5a44-4553-9134-eec2f397bcb0",
+  "path": "/lib/firmware/rsi/rs9113_wlan_qspi.rps.zst",
+  "size": 79361,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.064534443Z",
+  "sha256_hash": "78ecae6faba358ba55dfa155d4fa5c536d9136d5473c6710d6ed779440dd7896",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.363995976Z"
+}

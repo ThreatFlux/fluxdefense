@@ -1,0 +1,15 @@
+{
+  "uuid": "26e1b381-5f91-47ee-8036-d484f47f22dc",
+  "path": "/usr/lib/python3/dist-packages/DistUpgrade/telemetry.py",
+  "size": 3478,
+  "modified": "2024-06-21T20:19:38Z",
+  "created": "2025-05-09T05:07:26.393798300Z",
+  "sha256_hash": "e34285e885326ed820d488afaf5a5d64f4fd1926245329649566353dce72af9a",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.097704394Z"
+}

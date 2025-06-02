@@ -1,0 +1,17 @@
+{
+  "uuid": "d867ad9b-9263-4576-ad8b-ea3c44f610a3",
+  "path": "/usr/lib/firmware/radeon/TAHITI_uvd.bin.zst",
+  "size": 141091,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.062534471Z",
+  "sha256_hash": "a46437e777d3b51b4c1eccf3023d18a94b3042a5e6a844e9149c4d5547b74154",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.391698847Z"
+}

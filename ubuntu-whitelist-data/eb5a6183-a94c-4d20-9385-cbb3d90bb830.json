@@ -1,0 +1,17 @@
+{
+  "uuid": "eb5a6183-a94c-4d20-9385-cbb3d90bb830",
+  "path": "/lib/firmware/intel/sof-tplg/sof-glk-es8336.tplg.zst",
+  "size": 1107,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.059490968Z",
+  "sha256_hash": "83751f151d3df8485a4e376ec300fe949f6f9c51b78ac9f2bc28743661832cbe",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.206078997Z"
+}

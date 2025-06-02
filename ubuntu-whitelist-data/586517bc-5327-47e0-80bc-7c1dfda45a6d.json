@@ -1,0 +1,15 @@
+{
+  "uuid": "586517bc-5327-47e0-80bc-7c1dfda45a6d",
+  "path": "/usr/lib/openssh/ssh-pkcs11-helper",
+  "size": 256432,
+  "modified": "2025-04-22T11:51:46Z",
+  "created": "2025-05-09T05:11:28.352105405Z",
+  "sha256_hash": "9b02b5a8d3a9d0ec3081a0d056dd992afcb167af33150fbe9521654712f1f432",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.658755013Z"
+}

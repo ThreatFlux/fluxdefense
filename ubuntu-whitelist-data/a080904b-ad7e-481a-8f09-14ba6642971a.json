@@ -1,0 +1,17 @@
+{
+  "uuid": "a080904b-ad7e-481a-8f09-14ba6642971a",
+  "path": "/lib/firmware/amdgpu/bonaire_uvd.bin.zst",
+  "size": 152830,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.389543793Z",
+  "sha256_hash": "71e3f15a3e7d0ac6485babe42a3e3d198254137e2f46dca50f4b12bb1b55a560",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.847449840Z"
+}

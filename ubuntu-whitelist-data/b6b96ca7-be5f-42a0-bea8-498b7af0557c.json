@@ -1,0 +1,17 @@
+{
+  "uuid": "b6b96ca7-be5f-42a0-bea8-498b7af0557c",
+  "path": "/usr/lib/x86_64-linux-gnu/libabsl_random_distributions.so.20220623.0.0",
+  "size": 14584,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.939492424Z",
+  "sha256_hash": "1123d494a035af2513d247b07ca15328b24326bca4cac0eae4e31a736750f8b4",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.063942701Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "dcb42d65-623e-480a-9998-00547f3b3451",
+  "path": "/usr/lib/pppd/2.4.9/radius.so",
+  "size": 61536,
+  "modified": "2024-04-03T17:56:59Z",
+  "created": "2025-05-09T05:07:25.899805838Z",
+  "sha256_hash": "856feff15b8dc85edd70f95c5077cb296cf7b000deb5ad2b1d7f8ef9719c64b6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.352146516Z"
+}

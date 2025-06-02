@@ -1,0 +1,15 @@
+{
+  "uuid": "2def422c-4a99-4b50-a1ba-b0bc0c5b41bf",
+  "path": "/bin/netaddr",
+  "size": 959,
+  "modified": "2023-09-21T17:43:02Z",
+  "created": "2025-05-09T05:08:51.407500919Z",
+  "sha256_hash": "eebfe89781a2ef79f5e295df00a8fbaea0487101db5a9f405efdfb561de1d3d8",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.790402540Z"
+}

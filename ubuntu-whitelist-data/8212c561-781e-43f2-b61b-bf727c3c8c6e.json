@@ -1,0 +1,17 @@
+{
+  "uuid": "8212c561-781e-43f2-b61b-bf727c3c8c6e",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-traceb.ali",
+  "size": 2567,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.145343843Z",
+  "sha256_hash": "c569c602d26778c2b80d1afd1fbace6e475437b94d86d9221af44be415e29c1a",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.644249318Z"
+}

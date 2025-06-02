@@ -1,0 +1,15 @@
+{
+  "uuid": "3515bccc-2083-4945-9611-bc52597bbb5c",
+  "path": "/sbin/pptpsetup",
+  "size": 6616,
+  "modified": "2024-04-08T16:16:11Z",
+  "created": "2025-05-09T05:07:38.404615017Z",
+  "sha256_hash": "115bbd77c40d36d24d1bc3e64c2a925e19722d23e253ff317c450ff013bd2f55",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.737906786Z"
+}

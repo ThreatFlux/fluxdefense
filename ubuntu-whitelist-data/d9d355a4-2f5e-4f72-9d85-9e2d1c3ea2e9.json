@@ -1,0 +1,15 @@
+{
+  "uuid": "d9d355a4-2f5e-4f72-9d85-9e2d1c3ea2e9",
+  "path": "/usr/libexec/cpugovctl",
+  "size": 14648,
+  "modified": "2024-04-08T15:58:08Z",
+  "created": "2025-05-09T05:07:37.410630186Z",
+  "sha256_hash": "8679d2d5942307311a6aa66d7a410edeb83bef65df1f8c0cb3da625c3c2ab0d9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.239248208Z"
+}

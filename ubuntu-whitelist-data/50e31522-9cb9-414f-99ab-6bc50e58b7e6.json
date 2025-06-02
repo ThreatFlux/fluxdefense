@@ -1,0 +1,15 @@
+{
+  "uuid": "50e31522-9cb9-414f-99ab-6bc50e58b7e6",
+  "path": "/usr/sbin/shadowconfig",
+  "size": 2273,
+  "modified": "2024-05-07T13:44:18Z",
+  "created": "2025-05-09T05:07:38.420614773Z",
+  "sha256_hash": "d8d3130436613e44fbce44c4ebdc84cf73ea535f9d0882973bee600dcf549caf",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.232184123Z"
+}

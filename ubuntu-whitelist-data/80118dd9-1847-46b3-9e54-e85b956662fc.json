@@ -1,0 +1,15 @@
+{
+  "uuid": "80118dd9-1847-46b3-9e54-e85b956662fc",
+  "path": "/lib/libreoffice/program/libucpchelp1.so",
+  "size": 448672,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:20.105231290Z",
+  "sha256_hash": "159c448269d46f134c655142170b7ecfe87b9aef82f2e81232307a4955cd396f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:51.415227724Z"
+}

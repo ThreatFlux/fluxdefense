@@ -1,0 +1,17 @@
+{
+  "uuid": "b554ddff-d2f5-4497-ba2b-9f070f375650",
+  "path": "/lib/python3.12/test/imghdrdata/python-raw.jpg",
+  "size": 525,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.999551670Z",
+  "sha256_hash": "85cbcf775cb6719596f5a3c2fdae484b9e753c3bd37c1f4a12c80c3204d7d59d",
+  "file_type": {
+    "Other": "jpg"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.622606008Z"
+}

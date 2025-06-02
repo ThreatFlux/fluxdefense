@@ -1,0 +1,17 @@
+{
+  "uuid": "8984f032-d0c2-4d90-8117-0c4d20be5047",
+  "path": "/usr/lib/llvm-18/include/clang/CodeGen/ModuleBuilder.h",
+  "size": 4143,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.539533450Z",
+  "sha256_hash": "34bfce285087651d4ad809c7f8c3a7cddf9b230c02d0767be8ae856de230df1d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.311368684Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "8174b1dc-686e-4a49-8636-f1467383fded",
+  "path": "/usr/lib/firmware/nvidia/gm20b/acr/bl.bin.zst",
+  "size": 272,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.938536188Z",
+  "sha256_hash": "b36154c8470b5ae10955b8714426cedce5d20979b21a2c8b15a9b39485a2bfe8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.277633413Z"
+}

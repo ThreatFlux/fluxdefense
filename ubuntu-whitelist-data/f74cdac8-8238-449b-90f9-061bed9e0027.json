@@ -1,0 +1,17 @@
+{
+  "uuid": "f74cdac8-8238-449b-90f9-061bed9e0027",
+  "path": "/lib/x86_64-linux-gnu/ldscripts/elf_i386.xdw",
+  "size": 8960,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:52.048575379Z",
+  "sha256_hash": "b007772703706c1ae73ecf725018bf25e3472a5924b092664a5ecdc46b78c1d8",
+  "file_type": {
+    "Other": "xdw"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:18.233095543Z"
+}

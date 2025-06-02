@@ -1,0 +1,17 @@
+{
+  "uuid": "bc72c043-504c-49a7-8361-60b6c4e3d533",
+  "path": "/usr/lib/modprobe.d/aliases.conf",
+  "size": 624,
+  "modified": "2024-10-02T12:40:49Z",
+  "created": "2025-05-09T05:07:25.882806097Z",
+  "sha256_hash": "1fdec4985b23cc8560990da89c4e66f497aaa97d54c1fb3f5c094bef40299af7",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.651445810Z"
+}

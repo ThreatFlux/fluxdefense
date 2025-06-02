@@ -1,0 +1,17 @@
+{
+  "uuid": "1b8aa229-9885-41fd-9e2f-2bfe542d6638",
+  "path": "/usr/lib/udev/hwdb.d/70-cameras.hwdb",
+  "size": 679,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.059786335Z",
+  "sha256_hash": "965023ad2987fd8d1798d988d8733864329aee570bb5a0f82c1b666547e2fba9",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.224666122Z"
+}

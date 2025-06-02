@@ -1,0 +1,15 @@
+{
+  "uuid": "1d69badd-e2c5-4ec1-81d3-ee894c613a42",
+  "path": "/lib/x86_64-linux-gnu/ModemManager/libmm-plugin-huawei.so",
+  "size": 117120,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.160664520Z",
+  "sha256_hash": "bb6f5185fb08b653f12b3f0dd27ec0318102ad85484eafc91ba3c4c0e0b7356e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.565415634Z"
+}

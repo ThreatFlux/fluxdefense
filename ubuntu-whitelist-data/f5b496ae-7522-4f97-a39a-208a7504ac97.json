@@ -1,0 +1,17 @@
+{
+  "uuid": "f5b496ae-7522-4f97-a39a-208a7504ac97",
+  "path": "/usr/lib/sysusers.d/debian-udev.conf",
+  "size": 132,
+  "modified": "2025-02-20T15:25:51Z",
+  "created": "2025-05-09T05:24:14.044786143Z",
+  "sha256_hash": "0e781e0d92273ece2ebe71def1a49f727fbec3e07546720e8ff1686bf1ce2232",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.295560551Z"
+}

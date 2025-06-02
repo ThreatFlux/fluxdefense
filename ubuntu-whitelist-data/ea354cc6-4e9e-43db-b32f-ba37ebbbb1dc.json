@@ -1,0 +1,15 @@
+{
+  "uuid": "ea354cc6-4e9e-43db-b32f-ba37ebbbb1dc",
+  "path": "/sbin/dkms",
+  "size": 94853,
+  "modified": "2024-04-08T15:56:18Z",
+  "created": "2025-05-09T06:58:49.102109Z",
+  "sha256_hash": "3631986f06506124c7e2390abeabd8b30d5eb75025b0c373a89ee622180cc00e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.150387942Z"
+}

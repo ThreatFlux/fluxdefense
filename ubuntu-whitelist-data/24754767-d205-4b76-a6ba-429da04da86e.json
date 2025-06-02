@@ -1,0 +1,17 @@
+{
+  "uuid": "24754767-d205-4b76-a6ba-429da04da86e",
+  "path": "/usr/lib/firmware/amdgpu/dimgrey_cavefish_smc.bin.zst",
+  "size": 107049,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.393543737Z",
+  "sha256_hash": "e7c0298bf43d6d130ab404683ab91819432460cd55828c42baa84fc0daf2b434",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.973818248Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "72bb9add-1101-4d4d-834d-f01beb78daf2",
+  "path": "/lib/firmware/amdgpu/sienna_cichlid_sdma.bin.zst",
+  "size": 11687,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.415543433Z",
+  "sha256_hash": "fa4f8b47e1e632ff7a9c5af0e26edea3ffe1e15f94a034a00cceb2c93e0538ab",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.918667238Z"
+}

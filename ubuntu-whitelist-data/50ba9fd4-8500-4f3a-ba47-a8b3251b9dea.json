@@ -1,0 +1,15 @@
+{
+  "uuid": "50ba9fd4-8500-4f3a-ba47-a8b3251b9dea",
+  "path": "/sbin/bashreadline-bpfcc",
+  "size": 2380,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.520499194Z",
+  "sha256_hash": "bf5ec1ffad14c284fd92018d92c62f52447bf8143d9b2587af2751d9368bdb6f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.991669447Z"
+}

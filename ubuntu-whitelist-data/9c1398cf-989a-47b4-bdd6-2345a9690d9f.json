@@ -1,0 +1,15 @@
+{
+  "uuid": "9c1398cf-989a-47b4-bdd6-2345a9690d9f",
+  "path": "/lib/llvm-18/lib/libclangQuery.a",
+  "size": 376760,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.745530737Z",
+  "sha256_hash": "ad3103636b2bd880d3ab966a0d253801a9f559b4d89b54a5325e506f1cb40bca",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:40.889591846Z"
+}

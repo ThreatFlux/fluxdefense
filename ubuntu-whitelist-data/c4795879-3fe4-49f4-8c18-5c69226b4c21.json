@@ -1,0 +1,17 @@
+{
+  "uuid": "c4795879-3fe4-49f4-8c18-5c69226b4c21",
+  "path": "/lib/llvm-18/include/clang/Basic/riscv_vector_builtin_sema.inc",
+  "size": 217749,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.538533463Z",
+  "sha256_hash": "5001eaf84f48710d4cc94b59cabca026d806967d151a7a5490f46fd4b01ba68e",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.172887975Z"
+}

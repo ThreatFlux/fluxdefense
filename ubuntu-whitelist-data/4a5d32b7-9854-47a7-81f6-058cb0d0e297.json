@@ -1,0 +1,17 @@
+{
+  "uuid": "4a5d32b7-9854-47a7-81f6-058cb0d0e297",
+  "path": "/lib/firmware/amdnpu/17f0_10/npu.sbin.1.0.0.63.zst",
+  "size": 72815,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.428543253Z",
+  "sha256_hash": "a68c983c929b06145d6546b7828efbf90ec887e8dda0a5fa887ff01dc26b09f0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.437539161Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "fb26e6c6-546c-47aa-b840-2da28e8f57fe",
+  "path": "/usr/lib/grub/x86_64-efi/usbserial_common.mod",
+  "size": 2912,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.840707972Z",
+  "sha256_hash": "b4a3fb95b5929faf99bc273bce7ea04dff3a03802a274f5987cb92ec09c7eb64",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.472517346Z"
+}

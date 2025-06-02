@@ -1,0 +1,17 @@
+{
+  "uuid": "a8378265-a8d4-4242-b20f-e479af58e0ec",
+  "path": "/lib/x86_64-linux-gnu/ldscripts/i386pep.xa",
+  "size": 10964,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:52.050575349Z",
+  "sha256_hash": "23705f34943df25d04b5840751560fc0fd64bb64c1c45bd359d8e43b0d3cb0f4",
+  "file_type": {
+    "Other": "xa"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:18.240073419Z"
+}

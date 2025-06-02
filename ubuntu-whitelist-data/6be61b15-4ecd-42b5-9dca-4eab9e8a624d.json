@@ -1,0 +1,17 @@
+{
+  "uuid": "6be61b15-4ecd-42b5-9dca-4eab9e8a624d",
+  "path": "/lib/firmware/iwlwifi-ma-b0-gf4-a0.pnvm.zst",
+  "size": 4372,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.630540455Z",
+  "sha256_hash": "35978ccecf262ad45a0c50cb17afe7feafe720fd972f92b43a48daec4e31a0f1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.004452488Z"
+}

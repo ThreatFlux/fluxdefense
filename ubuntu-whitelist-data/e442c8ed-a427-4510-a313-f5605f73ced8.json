@@ -1,0 +1,17 @@
+{
+  "uuid": "e442c8ed-a427-4510-a313-f5605f73ced8",
+  "path": "/lib/grub/x86_64-efi/cmp.mod",
+  "size": 3448,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.802708552Z",
+  "sha256_hash": "0c34e5a0fb6e9ab0d650bddfdf031e319df30b96b76ad236125a2e725279106d",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.046957025Z"
+}

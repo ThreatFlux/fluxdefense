@@ -1,0 +1,17 @@
+{
+  "uuid": "c4c9d093-b6a8-44f4-98b1-e22517b4e8d3",
+  "path": "/lib/systemd/system/virtlockd.socket",
+  "size": 222,
+  "modified": "2025-03-13T16:25:50Z",
+  "created": "2025-05-20T14:31:33.305811285Z",
+  "sha256_hash": "536c9be38602e8dd87b7a0d019333aff9ad24317c7054b25fb39589526f5cfda",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.102515352Z"
+}

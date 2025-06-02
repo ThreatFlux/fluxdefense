@@ -1,0 +1,17 @@
+{
+  "uuid": "bf4513a3-e2d7-477c-b13a-bc58ba5aaa1b",
+  "path": "/usr/lib/x86_64-linux-gnu/libvdpau.so.1.0.0",
+  "size": 18592,
+  "modified": "2024-04-08T16:08:28Z",
+  "created": "2025-05-09T05:09:17.703099589Z",
+  "sha256_hash": "d2fbdebe81f1531713be10a1213cc9280e15dda389afd9cf51970c264d532974",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.903227993Z"
+}

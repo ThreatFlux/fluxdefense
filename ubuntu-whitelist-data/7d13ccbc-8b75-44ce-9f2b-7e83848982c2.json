@@ -1,0 +1,17 @@
+{
+  "uuid": "7d13ccbc-8b75-44ce-9f2b-7e83848982c2",
+  "path": "/usr/lib/aspell/american-w_accents.alias",
+  "size": 85,
+  "modified": "2020-12-08T01:19:37Z",
+  "created": "2025-05-09T05:07:21.010880441Z",
+  "sha256_hash": "dded1f5fe51f2b62453195b67810183e86c14e693beb6323e2b1ab90ecd8d055",
+  "file_type": {
+    "Other": "alias"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.296750451Z"
+}

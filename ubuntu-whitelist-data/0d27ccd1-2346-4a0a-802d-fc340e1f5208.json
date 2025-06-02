@@ -1,0 +1,15 @@
+{
+  "uuid": "0d27ccd1-2346-4a0a-802d-fc340e1f5208",
+  "path": "/usr/sbin/getpcaps",
+  "size": 14648,
+  "modified": "2025-02-20T15:49:57Z",
+  "created": "2025-05-09T05:11:26.265137262Z",
+  "sha256_hash": "6b0edc19690b4c192de2fdd41d74b5deaa7ad368ad8506df2242c71b3d3f5777",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.735892164Z"
+}

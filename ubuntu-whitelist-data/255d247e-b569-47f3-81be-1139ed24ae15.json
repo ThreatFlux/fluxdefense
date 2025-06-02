@@ -1,0 +1,15 @@
+{
+  "uuid": "255d247e-b569-47f3-81be-1139ed24ae15",
+  "path": "/usr/lib/x86_64-linux-gnu/libvirt/storage-backend/libvirt_storage_backend_scsi.so",
+  "size": 22960,
+  "modified": "2025-03-13T16:25:50Z",
+  "created": "2025-05-20T14:31:33.105814749Z",
+  "sha256_hash": "d334a1034b92f84d6c0b1b95e671e7fa839de3970674dc42e2548b2ffa3b007d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.156258254Z"
+}

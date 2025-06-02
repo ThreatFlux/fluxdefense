@@ -1,0 +1,15 @@
+{
+  "uuid": "11489fd4-622b-4c84-a08e-f3685737ab30",
+  "path": "/lib/llvm-18/lib/libLLVMDWARFLinker.a",
+  "size": 5504,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.859463389Z",
+  "sha256_hash": "c84c892d1ae7a026780f63ff92c355c15d078b8b64be614c19c2716d08ddf4d0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:42.376675468Z"
+}

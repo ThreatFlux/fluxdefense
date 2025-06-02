@@ -1,0 +1,17 @@
+{
+  "uuid": "740841db-e8c8-4ecf-9a59-c6066aec75ff",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/modernize/DeprecatedHeadersCheck.h",
+  "size": 1954,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "4008cb9c9931a832de8c7f9169c419e2d555cbfcda8c8ae62ca4ce8eadba3fab",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.258318674Z"
+}

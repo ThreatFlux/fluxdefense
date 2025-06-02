@@ -1,0 +1,17 @@
+{
+  "uuid": "55030fcd-8868-4070-ad7e-c136f383ce00",
+  "path": "/lib/tmpfiles.d/tpm-udev.conf",
+  "size": 107,
+  "modified": "2022-11-21T19:29:26Z",
+  "created": "2025-05-09T05:07:28.308769079Z",
+  "sha256_hash": "bbda63b1eb752b85ec98183df168c72bfa86d5befaa8690844d259543be856be",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.760000763Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "8fcc2e1b-97ab-4dd3-9e62-518156d623dc",
+  "path": "/usr/lib/x86_64-linux-gnu/libfakeroot/libfakeroot-tcp.so",
+  "size": 65712,
+  "modified": "2024-01-21T16:56:06Z",
+  "created": "2025-05-09T06:33:34.148305859Z",
+  "sha256_hash": "3a4b4a716d499717bed1618d0aa66b7238e7d6535d5c707db2c813f60b6a7f20",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:31.366260749Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "531b9b01-fefe-451b-9f90-c131ddc84d06",
+  "path": "/lib/firmware/amdgpu/tonga_rlc.bin.zst",
+  "size": 5115,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.418543391Z",
+  "sha256_hash": "ce099abb005fe2e6b73f72a82aeb4bdc6f62952284d621bcd18b222601b11d43",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.060794337Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "edb1b423-7b3c-473a-8888-31132bba3cd5",
+  "path": "/lib/llvm-18/lib/libLLVMRuntimeDyld.a",
+  "size": 1234838,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.997461572Z",
+  "sha256_hash": "189dbb4e123edd8b4b231dd3d3b6f35503802b8b8e53fd25eb02447e80e79448",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.614798381Z"
+}

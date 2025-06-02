@@ -1,0 +1,17 @@
+{
+  "uuid": "cdc5c8fe-1bb8-4925-b699-64bba08debc5",
+  "path": "/lib/firmware/ctfw-3.2.5.1.bin.zst",
+  "size": 309811,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.511542103Z",
+  "sha256_hash": "94bb73be31de3945b87e42c207de78ad4ded0286e35a970dfabfcea6e7476428",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.792837900Z"
+}

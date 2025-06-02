@@ -1,0 +1,15 @@
+{
+  "uuid": "defc418e-ebaf-4f07-b2d7-3e96bdc3effc",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/s3transfer/compat.py",
+  "size": 3200,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.117942387Z",
+  "sha256_hash": "ba3c7e3fcaebb972b604f73871c2f9352bf1c492f7d58dbc4fb11db0444d21e8",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.562293486Z"
+}

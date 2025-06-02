@@ -1,0 +1,17 @@
+{
+  "uuid": "f2ab92db-26d8-4d3d-a388-05c5d249d727",
+  "path": "/usr/lib/firmware/nvidia/ga102/gr/fecs_sig.bin.zst",
+  "size": 1620,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.902536687Z",
+  "sha256_hash": "6b0821e13a10986d146e878c29183c429a5b9509457898326db07696740d170e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:58.942354218Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "84cf5a59-e3ae-48b5-aea6-3aa094f57401",
+  "path": "/usr/sbin/aptd",
+  "size": 1394,
+  "modified": "2023-05-22T20:24:55Z",
+  "created": "2025-05-09T05:07:38.126619260Z",
+  "sha256_hash": "2c159f916cdb0a497927d3407ca0567b0f5bccafb77fd7c8f3d8b5bde1af6542",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.492008518Z"
+}

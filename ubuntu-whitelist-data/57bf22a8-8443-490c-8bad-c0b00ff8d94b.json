@@ -1,0 +1,17 @@
+{
+  "uuid": "57bf22a8-8443-490c-8bad-c0b00ff8d94b",
+  "path": "/lib/x86_64-linux-gnu/libsamba-passdb.so.0.28.0",
+  "size": 477488,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:32.118710940Z",
+  "sha256_hash": "5f85002a4513ce9d42a40d5a8a6fddf3fdcc4ca6838dc625ea23cb2ba4d16c5d",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.824032677Z"
+}

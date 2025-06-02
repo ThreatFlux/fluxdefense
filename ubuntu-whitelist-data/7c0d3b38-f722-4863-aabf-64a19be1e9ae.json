@@ -1,0 +1,15 @@
+{
+  "uuid": "7c0d3b38-f722-4863-aabf-64a19be1e9ae",
+  "path": "/usr/sbin/cracklib-packer",
+  "size": 14488,
+  "modified": "2024-03-31T07:30:49Z",
+  "created": "2025-05-09T05:07:38.142619015Z",
+  "sha256_hash": "79bfbe9ca30f068cc3d727b40171a3122ba796e8c4baf49b62b71e560d48fb87",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.250081771Z"
+}

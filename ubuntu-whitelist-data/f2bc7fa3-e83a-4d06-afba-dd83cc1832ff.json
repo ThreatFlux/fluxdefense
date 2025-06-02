@@ -1,0 +1,17 @@
+{
+  "uuid": "f2bc7fa3-e83a-4d06-afba-dd83cc1832ff",
+  "path": "/usr/lib/firmware/atmel/wilc1000_wifi_firmware.bin.zst",
+  "size": 81100,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.476542588Z",
+  "sha256_hash": "85763484eda6754db893289b548411c74927279c95d7000415ae0ddfa9b835c8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.536076819Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c6891d11-6df5-4bbe-9663-61d972e86e01",
+  "path": "/lib/systemd/system-generators/systemd-gpt-auto-generator",
+  "size": 35400,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.516779393Z",
+  "sha256_hash": "69e7621e4a4b1491f1e6e8340f8ab5570f3b6db50e4eef054b86a629cfc5fac8",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.086737437Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "973a5dfe-68ec-4d14-bb1f-e60cecb1aa98",
+  "path": "/lib/systemd/system/systemd-ask-password-console.service",
+  "size": 834,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "339e74aeb29cc207061218b294213557feafc9c6e3962e32fda84d5dbd850804",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.113303608Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "97a615b5-0a1a-4fea-ad6f-ef90956c1f8e",
+  "path": "/lib/llvm-18/lib/libLLVMBitstreamReader.a",
+  "size": 54122,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.822463877Z",
+  "sha256_hash": "372e9f5cae32e7500002845e03429e58b3aaaf272dba1321a8c83ae01667cff4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.549971426Z"
+}

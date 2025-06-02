@@ -1,0 +1,17 @@
+{
+  "uuid": "223d1c6a-85d3-44b8-ab34-952e1f387060",
+  "path": "/usr/lib/x86_64-linux-gnu/libabsl_spinlock_wait.so.20220623.0.0",
+  "size": 14424,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.939492424Z",
+  "sha256_hash": "40710162278d96975c7fe4829d56c6b5bddc2c4dee7636a348ecdf62e0353f5c",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:26.410822639Z"
+}

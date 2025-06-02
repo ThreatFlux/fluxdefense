@@ -1,0 +1,17 @@
+{
+  "uuid": "8bd5a64b-59cf-47d0-86dd-3e571fb5c4f6",
+  "path": "/lib/llvm-18/lib/cmake/llvm/CheckAtomic.cmake",
+  "size": 4321,
+  "modified": "2023-01-02T13:01:25Z",
+  "created": "2025-05-12T13:34:36.684465694Z",
+  "sha256_hash": "69f60d47fe7238f6828529adc7be610c2c77454f9f0626c405876922e98f7afd",
+  "file_type": {
+    "Other": "cmake"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:38.505462196Z"
+}

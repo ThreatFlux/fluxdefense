@@ -1,0 +1,17 @@
+{
+  "uuid": "48037e84-cb93-4cc7-a5df-522e7db433b7",
+  "path": "/usr/sbin/umount.udisks2",
+  "size": 14640,
+  "modified": "2024-11-18T16:06:30Z",
+  "created": "2025-05-09T05:07:38.448614346Z",
+  "sha256_hash": "3825eda144128dbd53342b0f1c58553e2cc5c176f80084bbe37f2c11f44b3c89",
+  "file_type": {
+    "Other": "udisks2"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.576403256Z"
+}

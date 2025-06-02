@@ -1,0 +1,17 @@
+{
+  "uuid": "8c1ed647-ef4e-4d6d-ae70-d7aefb67bea0",
+  "path": "/lib/firmware/tehuti/bdx.bin.zst",
+  "size": 6347,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.073534319Z",
+  "sha256_hash": "179cf7548dd5496030126aa9e07a4157f9fe3a3390e46f231f56bca0870cc29b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.445972770Z"
+}

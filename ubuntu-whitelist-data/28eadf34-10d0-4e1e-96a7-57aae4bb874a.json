@@ -1,0 +1,15 @@
+{
+  "uuid": "28eadf34-10d0-4e1e-96a7-57aae4bb874a",
+  "path": "/usr/lib/i386-linux-gnu/gconv/ISO_10367-BOX.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.282663385Z",
+  "sha256_hash": "b7d7a638c303975da947ab4fb49dbfd7b88b9fc625ffe96a69dffbb5dd614425",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:41.045361873Z"
+}

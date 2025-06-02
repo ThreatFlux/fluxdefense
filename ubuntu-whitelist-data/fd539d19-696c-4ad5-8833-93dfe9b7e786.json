@@ -1,0 +1,17 @@
+{
+  "uuid": "fd539d19-696c-4ad5-8833-93dfe9b7e786",
+  "path": "/lib/systemd/system/basic.target",
+  "size": 927,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.510779317Z",
+  "sha256_hash": "7d97dda25769ba30dff93d7aa2818151d968c843281767b720b3eabf09563f0b",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.121931353Z"
+}

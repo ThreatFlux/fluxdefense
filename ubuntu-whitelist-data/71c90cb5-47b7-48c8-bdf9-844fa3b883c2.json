@@ -1,0 +1,15 @@
+{
+  "uuid": "71c90cb5-47b7-48c8-bdf9-844fa3b883c2",
+  "path": "/bin/sbverify",
+  "size": 31344,
+  "modified": "2024-04-08T14:49:32Z",
+  "created": "2025-05-09T05:07:20.407889642Z",
+  "sha256_hash": "54d2941c21cc7414ec2d4a3c80690ff0e7c205939b85b1736cc70f0d60b4ff6f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.986906663Z"
+}

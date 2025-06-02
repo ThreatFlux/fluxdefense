@@ -1,0 +1,17 @@
+{
+  "uuid": "59d1aa20-e86c-4549-8ed9-60eb3c7573b4",
+  "path": "/bin/which.debianutils",
+  "size": 1080,
+  "modified": "2024-03-31T08:47:33Z",
+  "created": "2025-05-09T05:07:20.884882363Z",
+  "sha256_hash": "59e7cf8b9bd8711ae1aa6f7bbbd4132b61492409c3afe8e1505225efda1cb8f6",
+  "file_type": {
+    "Other": "debianutils"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.469161883Z"
+}

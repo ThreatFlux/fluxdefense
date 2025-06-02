@@ -1,0 +1,17 @@
+{
+  "uuid": "69b7a677-0b5e-4dd1-8aa9-176ca0a8a119",
+  "path": "/usr/sbin/dcsnoop.bt",
+  "size": 1261,
+  "modified": "2024-03-07T22:14:52Z",
+  "created": "2025-05-09T05:08:51.885493624Z",
+  "sha256_hash": "bbc3d4f584829a1f01e5d6f06b6026d1ead9d6aee2668332a65a49a71bee83e1",
+  "file_type": {
+    "Other": "bt"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.569027839Z"
+}

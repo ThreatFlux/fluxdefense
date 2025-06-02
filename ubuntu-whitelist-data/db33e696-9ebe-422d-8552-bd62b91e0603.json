@@ -1,0 +1,17 @@
+{
+  "uuid": "db33e696-9ebe-422d-8552-bd62b91e0603",
+  "path": "/lib/firmware/iwlwifi-7265D-29.ucode.zst",
+  "size": 293082,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.584541092Z",
+  "sha256_hash": "1c9a5b887556177557b134da7849467e36af22dfa0736ae12f612417aa938c28",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.812652285Z"
+}

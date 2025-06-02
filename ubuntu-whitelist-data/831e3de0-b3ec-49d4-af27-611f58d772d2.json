@@ -1,0 +1,17 @@
+{
+  "uuid": "831e3de0-b3ec-49d4-af27-611f58d772d2",
+  "path": "/usr/lib/firmware/phanfw.bin.zst",
+  "size": 1226693,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.963535842Z",
+  "sha256_hash": "08130b1ba10a182801f67b3b28deeb0c4d9a9cecc8cbe4d2c7a88e4b4133636b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.456022274Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "641373b6-3b94-4992-8958-b8287a2100a1",
+  "path": "/lib/x86_64-linux-gnu/e2fsprogs/e2scrub_all_cron",
+  "size": 1978,
+  "modified": "2024-04-28T23:44:46Z",
+  "created": "2025-05-09T05:07:35.355661544Z",
+  "sha256_hash": "dfb408bccc465af66ea1a3fe6d4b6b2bdc042bc38c96f377cf9724ad573231d9",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.454235428Z"
+}

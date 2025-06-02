@@ -1,0 +1,17 @@
+{
+  "uuid": "d95f9b65-f9ae-4394-aefd-86a82faa14bd",
+  "path": "/lib/llvm-18/include/clang/Frontend/CommandLineSourceLoc.h",
+  "size": 4625,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "c4259d37e99af239b02c0ac4caa8e39f349a26b7c595c7a379e9ab52c1e2d945",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.928756179Z"
+}

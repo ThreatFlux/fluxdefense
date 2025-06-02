@@ -1,0 +1,15 @@
+{
+  "uuid": "d6663325-445c-4ee4-8d8f-229883a5cf90",
+  "path": "/bin/xinit",
+  "size": 22840,
+  "modified": "2024-04-08T16:23:16Z",
+  "created": "2025-05-09T05:07:20.930881661Z",
+  "sha256_hash": "34c5d5ec2ab252483a6b0cbee5eb19364b7a9b16d7345d05d514a0d67d95a257",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.990080366Z"
+}

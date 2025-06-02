@@ -1,0 +1,17 @@
+{
+  "uuid": "22aff7c1-31f3-4380-89d4-90b32a6c5268",
+  "path": "/lib/x86_64-linux-gnu/graphviz/libgvplugin_visio.so.6.0.0",
+  "size": 52240,
+  "modified": "2024-05-11T18:31:23Z",
+  "created": "2025-05-29T11:16:24.551805588Z",
+  "sha256_hash": "7284ac08acce93fe3cd5d5e92c21128d42fd6735be244c34723bbae12fd48ddc",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.143720841Z"
+}

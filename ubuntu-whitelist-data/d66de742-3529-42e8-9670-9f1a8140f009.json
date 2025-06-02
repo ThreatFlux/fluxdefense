@@ -1,0 +1,17 @@
+{
+  "uuid": "d66de742-3529-42e8-9670-9f1a8140f009",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-dirval.ali",
+  "size": 3445,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.098344489Z",
+  "sha256_hash": "9485a54207eaa10d8a0dacada33cd28d7c4c3c1e91d8d0845a3f54125988d6ac",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.586930970Z"
+}

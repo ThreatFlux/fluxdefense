@@ -1,0 +1,17 @@
+{
+  "uuid": "eb673509-50b7-4cc2-a4a7-6669e05d2693",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/include/gfniintrin.h",
+  "size": 15050,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.245389810Z",
+  "sha256_hash": "625aa75b0b6b6763ff1699ddfc40fd978d5f445ebd4874eae13817ec70dcba0f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.915485514Z"
+}

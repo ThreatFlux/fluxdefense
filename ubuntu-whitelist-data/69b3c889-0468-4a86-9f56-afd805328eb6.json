@@ -1,0 +1,17 @@
+{
+  "uuid": "69b3c889-0468-4a86-9f56-afd805328eb6",
+  "path": "/usr/lib/x86_64-linux-gnu/libGLESv1_CM.so.1.2.0",
+  "size": 43320,
+  "modified": "2024-04-08T16:04:01Z",
+  "created": "2025-05-29T11:16:23.586818831Z",
+  "sha256_hash": "167cd39c0084f353824484ab136082292984586b743ae5e86b9f00472f8049c8",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.780429632Z"
+}

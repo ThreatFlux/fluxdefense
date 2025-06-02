@@ -1,0 +1,17 @@
+{
+  "uuid": "8cc5e905-7712-43b9-88d6-95d79250f764",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-nucoty.ali",
+  "size": 7373,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.100344461Z",
+  "sha256_hash": "dc5e9f473be7dc339c51903be8306c70f54431dd6dddaa6f951c44ee18ed9538",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.474528589Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b2f5ff0a-80b4-45d1-bffe-4604b8cb0bbf",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/libpcre2-16.pc",
+  "size": 350,
+  "modified": "2024-10-02T12:40:51Z",
+  "created": "2025-05-13T14:30:45.399492426Z",
+  "sha256_hash": "536d0f000258e69e9d6d47dd84a90906a86a3419fae253bcfb1879032a877e40",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.055440788Z"
+}

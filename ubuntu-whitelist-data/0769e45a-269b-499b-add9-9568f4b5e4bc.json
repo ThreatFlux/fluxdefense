@@ -1,0 +1,17 @@
+{
+  "uuid": "0769e45a-269b-499b-add9-9568f4b5e4bc",
+  "path": "/usr/lib/modules/6.11.0-25-generic/modules.softdep",
+  "size": 2833,
+  "modified": "2025-05-09T12:56:07.397093718Z",
+  "created": "2025-05-09T12:56:07.391093553Z",
+  "sha256_hash": "23d9a204beca8081fa4bed350ccc1949c34ed0c22dfa74c99617746208519931",
+  "file_type": {
+    "Other": "softdep"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.957305919Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "eea329e7-14a2-4122-8221-0323d309eef8",
+  "path": "/lib/firmware/amdgpu/dimgrey_cavefish_pfp.bin.zst",
+  "size": 14946,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.392543751Z",
+  "sha256_hash": "bf0b4647bbd9c9002559df43ccc1549d3b72e68dd5aeff909d0db439bc941bff",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.058519854Z"
+}

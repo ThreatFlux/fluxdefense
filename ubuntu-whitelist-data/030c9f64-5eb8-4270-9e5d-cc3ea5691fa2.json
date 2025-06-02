@@ -1,0 +1,17 @@
+{
+  "uuid": "030c9f64-5eb8-4270-9e5d-cc3ea5691fa2",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adalib/s-except.ali",
+  "size": 1403,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.137343953Z",
+  "sha256_hash": "c6436a4f11d85f22c7564e804c7ea1fa260b9d8ae703ad733c82be4734bb7dcd",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.736267335Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a7117374-00b8-4e4d-a637-e5cab0913639",
+  "path": "/usr/lib/x86_64-linux-gnu/ldscripts/elf_x86_64.xsc",
+  "size": 9085,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:52.049575364Z",
+  "sha256_hash": "3dafb45cf72f6297eb492aa31ef522b0b8cc7a9e83ce6425f9058d0445a75ebf",
+  "file_type": {
+    "Other": "xsc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.419862224Z"
+}

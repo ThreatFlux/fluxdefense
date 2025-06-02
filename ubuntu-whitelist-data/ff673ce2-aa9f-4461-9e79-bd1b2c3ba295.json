@@ -1,0 +1,17 @@
+{
+  "uuid": "ff673ce2-aa9f-4461-9e79-bd1b2c3ba295",
+  "path": "/lib/x86_64-linux-gnu/libpulse-mainloop-glib.so.0.0.6",
+  "size": 18576,
+  "modified": "2024-12-10T08:35:27Z",
+  "created": "2025-05-09T05:07:31.892714388Z",
+  "sha256_hash": "3740e5add513a27a70afb657e261847df1eeba9e62111b2ce480c1641e72692c",
+  "file_type": {
+    "Other": "6"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.229110516Z"
+}

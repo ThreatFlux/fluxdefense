@@ -1,0 +1,15 @@
+{
+  "uuid": "4ca0a623-2e9e-4385-b4ad-085d82d34c39",
+  "path": "/usr/lib/qemu/vhost-user-gpu",
+  "size": 789968,
+  "modified": "2025-03-13T16:15:00Z",
+  "created": "2025-05-22T16:56:49.874985863Z",
+  "sha256_hash": "2e233f535d0bd1d45403198744ecc800610abb3f70ea505481ca2ec0f09bf5a2",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.626460730Z"
+}

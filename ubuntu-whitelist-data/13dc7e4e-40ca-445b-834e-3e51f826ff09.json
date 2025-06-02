@@ -1,0 +1,17 @@
+{
+  "uuid": "13dc7e4e-40ca-445b-834e-3e51f826ff09",
+  "path": "/lib/firmware/ar3k/AthrBT_0x01020001.dfu.zst",
+  "size": 38536,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.430543225Z",
+  "sha256_hash": "421eaf1a37dc1b05a7614ae67a01adc130219f3d3cecd8fa31d301592f1680fd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.598930995Z"
+}

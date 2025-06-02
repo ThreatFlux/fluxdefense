@@ -1,0 +1,15 @@
+{
+  "uuid": "bd0b214c-7ec9-49e5-aa84-d643538b2d5f",
+  "path": "/bin/kmod",
+  "size": 174328,
+  "modified": "2024-10-02T12:40:49Z",
+  "created": "2025-05-09T05:07:20.086894540Z",
+  "sha256_hash": "0f1f5e63a070f3519fa1cabc18646d001531e5c250443bd30739347c9be1069f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.041833744Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b2b0acd7-cb60-476d-bdd0-f85cf7cb6331",
+  "path": "/lib/firmware/i915/tgl_guc_70.bin.zst",
+  "size": 122749,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.544541646Z",
+  "sha256_hash": "f30234ac0238f1bb026367dcc613399e669bd34892be7b9a24ca6d8733f391b4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.681441469Z"
+}

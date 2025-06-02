@@ -1,0 +1,17 @@
+{
+  "uuid": "1c4d5590-e084-485a-8428-fe4345150552",
+  "path": "/usr/lib/firmware/amdgpu/vegam_sdma1.bin.zst",
+  "size": 4418,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.426543280Z",
+  "sha256_hash": "8629af18cc5fed1e1ecb45ae0161eff9bf3a15c487adf30c82e838d6d75860d2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.818490920Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a895bb55-c4c1-4a44-a2ed-c18f98fb3a66",
+  "path": "/lib/grub/x86_64-efi/adler32.mod",
+  "size": 1952,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.800708582Z",
+  "sha256_hash": "9140e4b4e51170812ad0d1d9cb2e760657c374b785998bac0d98849c560bc059",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.052002117Z"
+}

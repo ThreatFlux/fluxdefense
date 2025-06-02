@@ -1,0 +1,17 @@
+{
+  "uuid": "0a431331-3a16-4153-a0af-1dbe18f833a0",
+  "path": "/lib/python3.12/test/decimaltestdata/dqInvert.decTest",
+  "size": 16124,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.993551749Z",
+  "sha256_hash": "afed476687acaa1bc254095b3df4d8e6542980c32f07e65d343bd49a1a76c09f",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.456978974Z"
+}

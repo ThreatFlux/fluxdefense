@@ -1,0 +1,15 @@
+{
+  "uuid": "5aafa8d8-150e-4c70-ba6a-3f4a4435ae61",
+  "path": "/usr/lib/llvm-18/lib/libclangTidyBoostModule.a",
+  "size": 125332,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.841529472Z",
+  "sha256_hash": "d4f10f564a518a9b0e61ca11737253b44ac76b84580426aa28e5354af164e793",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:34.390948663Z"
+}

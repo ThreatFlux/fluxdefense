@@ -1,0 +1,17 @@
+{
+  "uuid": "8a72cee9-5ee2-4150-aa42-5599ddecd490",
+  "path": "/usr/lib/libreoffice/share/skia/skia_denylist_vulkan.xml",
+  "size": 2929,
+  "modified": "2024-10-29T11:14:30Z",
+  "created": "2025-05-09T05:11:17.346273406Z",
+  "sha256_hash": "99e35feae7346f26e16a03b841f0f3d7677d77f21d02206a0cb7a580e0c9e33c",
+  "file_type": {
+    "Other": "xml"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:42.117551340Z"
+}

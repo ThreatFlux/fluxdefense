@@ -1,0 +1,15 @@
+{
+  "uuid": "b638e4fe-6f2e-4f5f-842f-571e48342097",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/dateutil/tzwin.py",
+  "size": 59,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.308939142Z",
+  "sha256_hash": "ec0af8bdd4029e733498a4773148db20ab19ac155f1e0770b0965cfe619845ec",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.539999121Z"
+}

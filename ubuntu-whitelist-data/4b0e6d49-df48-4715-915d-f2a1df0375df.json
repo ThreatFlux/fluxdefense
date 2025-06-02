@@ -1,0 +1,17 @@
+{
+  "uuid": "4b0e6d49-df48-4715-915d-f2a1df0375df",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/modernize/UseStdPrintCheck.h",
+  "size": 2040,
+  "modified": "2023-06-29T07:31:24Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "6c45b252441902f21bffa3af4325db070d8e8ae4b0110ed5b56d75b8a89168d5",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.258493169Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "3295bcf9-c05c-4be0-bc8b-ac6b68392577",
+  "path": "/lib/llvm-18/include/clang/AST/StmtNodes.inc",
+  "size": 46799,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.520533700Z",
+  "sha256_hash": "0e3592b0b2a3f6f5512ed073fbb06c0bc9562664ff871038a0af3d4e7951cd2f",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.013358048Z"
+}

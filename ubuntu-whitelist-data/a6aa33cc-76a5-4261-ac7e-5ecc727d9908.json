@@ -1,0 +1,17 @@
+{
+  "uuid": "a6aa33cc-76a5-4261-ac7e-5ecc727d9908",
+  "path": "/lib/firmware/nvidia/gm20b/gr/sw_nonctx.bin.zst",
+  "size": 542,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.938536188Z",
+  "sha256_hash": "93d281fc95bb622392d8852c9406a01c3184ee81d007c174fdb02c2639c2fcc7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.431952213Z"
+}

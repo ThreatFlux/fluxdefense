@@ -1,0 +1,17 @@
+{
+  "uuid": "74d69844-5772-461a-a61e-f09f06650e0c",
+  "path": "/lib/x86_64-linux-gnu/libgd.so.3.0.11",
+  "size": 409896,
+  "modified": "2024-04-16T08:23:30Z",
+  "created": "2025-05-09T05:07:29.769746784Z",
+  "sha256_hash": "8f5ab348f13c15ba5f0c25b01f7663fdeb7cafd84357ab74b488d8f33f361911",
+  "file_type": {
+    "Other": "11"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.203909025Z"
+}

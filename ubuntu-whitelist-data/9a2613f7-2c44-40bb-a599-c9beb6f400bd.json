@@ -1,0 +1,17 @@
+{
+  "uuid": "9a2613f7-2c44-40bb-a599-c9beb6f400bd",
+  "path": "/lib/firmware/amdgpu/gc_10_3_7_pfp.bin.zst",
+  "size": 14835,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.394543723Z",
+  "sha256_hash": "46b62258b5d7100da0ebbe70a06e71c80f22653839f6888acf60982974da8305",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.919335735Z"
+}

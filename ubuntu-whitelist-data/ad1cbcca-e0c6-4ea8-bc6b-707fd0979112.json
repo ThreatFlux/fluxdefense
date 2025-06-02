@@ -1,0 +1,17 @@
+{
+  "uuid": "ad1cbcca-e0c6-4ea8-bc6b-707fd0979112",
+  "path": "/usr/lib/x86_64-linux-gnu/libusbredirparser.so.1.2.1",
+  "size": 34888,
+  "modified": "2024-04-01T05:20:12Z",
+  "created": "2025-05-09T05:56:49.707640723Z",
+  "sha256_hash": "4b67043d58357c705c2cdba565440bc25f235d4ffaa084c27f196ef288162bad",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:28.092618404Z"
+}

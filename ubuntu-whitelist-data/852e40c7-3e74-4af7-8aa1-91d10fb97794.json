@@ -1,0 +1,17 @@
+{
+  "uuid": "852e40c7-3e74-4af7-8aa1-91d10fb97794",
+  "path": "/lib/x86_64-linux-gnu/libabsl_strerror.so.20220623.0.0",
+  "size": 14584,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.941492393Z",
+  "sha256_hash": "7e80dd6d2ade7163f3b4e7ee1900bf4be516d99eb41384afb443ad7e627c1722",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:28.951179648Z"
+}

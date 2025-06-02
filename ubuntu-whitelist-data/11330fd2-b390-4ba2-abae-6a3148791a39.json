@@ -1,0 +1,17 @@
+{
+  "uuid": "11330fd2-b390-4ba2-abae-6a3148791a39",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-wttest.ali",
+  "size": 3236,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.105344393Z",
+  "sha256_hash": "e59d77d9f5b9dc0643b635e5ebb64ff3be716d60af67d7154f904f932786d7be",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.592628867Z"
+}

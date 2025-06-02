@@ -1,0 +1,17 @@
+{
+  "uuid": "9430da0c-311b-4155-961f-e1e668799f47",
+  "path": "/lib/llvm-18/include/clang/AST/LexicallyOrderedRecursiveASTVisitor.h",
+  "size": 6060,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.518533726Z",
+  "sha256_hash": "26c957ca205849f6687f5939a61b9500841718bb354706300a50ba748c5e9a9b",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.007146528Z"
+}

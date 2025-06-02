@@ -1,0 +1,15 @@
+{
+  "uuid": "97b81be6-4781-4107-9c4e-cfcd9c65ddea",
+  "path": "/lib/llvm-18/lib/libLLVMX86AsmParser.a",
+  "size": 986500,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.058460769Z",
+  "sha256_hash": "c388a30da2752cdeefdd55fe029c53912807e9ae5951843957d506f4d984a6ed",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.501133979Z"
+}

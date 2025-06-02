@@ -1,0 +1,15 @@
+{
+  "uuid": "aaa1611d-8e78-4848-b75b-754a50b9063e",
+  "path": "/usr/lib/python3.12/lib-dynload/_testimportmultiple.cpython-312-x86_64-linux-gnu.so",
+  "size": 14664,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:10:59.931539231Z",
+  "sha256_hash": "91628c07588509f010724116f6e73947366b491d3cccd9b0023dd04f007721a9",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.959821052Z"
+}

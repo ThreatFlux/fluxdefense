@@ -1,0 +1,17 @@
+{
+  "uuid": "07f0ad0a-86d0-4ba3-b385-f8164b14bb0c",
+  "path": "/lib/firmware/intel/sof/intel-signed/sof-icl.ri.zst",
+  "size": 216166,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.044491197Z",
+  "sha256_hash": "0bbb2bfaaed83a3c16329d4b7875307a8300115861ebef0be7de172cae7191be",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.051241933Z"
+}

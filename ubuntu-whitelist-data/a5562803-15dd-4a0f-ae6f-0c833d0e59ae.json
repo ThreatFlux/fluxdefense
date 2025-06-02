@@ -1,0 +1,17 @@
+{
+  "uuid": "a5562803-15dd-4a0f-ae6f-0c833d0e59ae",
+  "path": "/lib/udev/rules.d/95-upower-hid.rules",
+  "size": 207,
+  "modified": "2024-04-08T05:27:51Z",
+  "created": "2025-05-09T05:07:28.439767079Z",
+  "sha256_hash": "9e08f5b9c999665b943c14d932649e3918bb4a67f1fad766bef4cd72dddb51a1",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.249880943Z"
+}

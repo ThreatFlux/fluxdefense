@@ -1,0 +1,15 @@
+{
+  "uuid": "019aa5f8-3485-4a12-a10e-6ca53fbf0359",
+  "path": "/lib/brltty/libbrlttysal.so",
+  "size": 18504,
+  "modified": "2024-03-31T00:24:15Z",
+  "created": "2025-05-09T05:07:21.029880151Z",
+  "sha256_hash": "f035ff2664c9ba4f648b3062dd6c5ce1800929a143de48b3c05f659249174d25",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.368868035Z"
+}

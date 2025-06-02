@@ -1,0 +1,17 @@
+{
+  "uuid": "3d05d68b-551a-41ea-b5f0-0573988d0d90",
+  "path": "/lib/x86_64-linux-gnu/libnghttp2.so.14.26.0",
+  "size": 170352,
+  "modified": "2024-10-02T12:40:49Z",
+  "created": "2025-05-09T05:07:31.722716982Z",
+  "sha256_hash": "398c6d2025210279f4c7413ebdb7f4c63bc5afda5ec3b1ccc58885a65acc2b78",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:28.918057676Z"
+}

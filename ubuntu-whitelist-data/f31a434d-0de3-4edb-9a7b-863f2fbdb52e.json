@@ -1,0 +1,15 @@
+{
+  "uuid": "f31a434d-0de3-4edb-9a7b-863f2fbdb52e",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/cmd/query.py",
+  "size": 11371,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.234037150Z",
+  "sha256_hash": "aef33e2e748b852003b62b5ce357fe6ebefe5fe86500097325a98ab437558ff3",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.861589136Z"
+}

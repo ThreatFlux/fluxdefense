@@ -1,0 +1,15 @@
+{
+  "uuid": "915405af-c475-437e-8138-177ea32c5123",
+  "path": "/bin/foo2xqx",
+  "size": 35832,
+  "modified": "2024-04-10T21:38:27Z",
+  "created": "2025-05-09T05:07:19.224907694Z",
+  "sha256_hash": "9ccf889f5f654ab7d7d0227e46e9afcf99c19ac17a0bc2d9e7d02d933b68984e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.538501757Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "41885925-8cad-48a8-a9a1-370042bf8149",
+  "path": "/usr/sbin/fsck.minix",
+  "size": 55712,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.203618085Z",
+  "sha256_hash": "d005f1869a3b684d9178039761af181197cf2324b26359407081169511ef674c",
+  "file_type": {
+    "Other": "minix"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.234134370Z"
+}

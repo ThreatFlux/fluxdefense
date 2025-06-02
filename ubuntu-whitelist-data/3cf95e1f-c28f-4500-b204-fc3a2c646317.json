@@ -1,0 +1,15 @@
+{
+  "uuid": "3cf95e1f-c28f-4500-b204-fc3a2c646317",
+  "path": "/bin/byobu-janitor",
+  "size": 7209,
+  "modified": "2024-02-10T17:03:36Z",
+  "created": "2025-05-23T03:43:49.240694211Z",
+  "sha256_hash": "5ea8ddeadcb30f0f6734e0599e376da25321b0cf0e689adf30c459aa4a346ddc",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.646567455Z"
+}

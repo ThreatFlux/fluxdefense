@@ -1,0 +1,17 @@
+{
+  "uuid": "3920a033-f283-46c1-b665-fa9c9b6f176c",
+  "path": "/lib/udev/rules.d/69-cd-sensors.rules",
+  "size": 5074,
+  "modified": "2024-03-31T07:30:41Z",
+  "created": "2025-05-09T05:07:28.436767125Z",
+  "sha256_hash": "d744c17e1e95081643152f40ced61ae35385a3be51e3981340c126781743f566",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.241070657Z"
+}

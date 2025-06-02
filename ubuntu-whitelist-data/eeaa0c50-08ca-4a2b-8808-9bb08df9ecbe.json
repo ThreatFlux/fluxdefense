@@ -1,0 +1,15 @@
+{
+  "uuid": "eeaa0c50-08ca-4a2b-8808-9bb08df9ecbe",
+  "path": "/usr/lib/i386-linux-gnu/gconv/IBM857.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.279663431Z",
+  "sha256_hash": "af8cb3683bb4d1a985232f6122002b5a73dff60c8a8c04396e958e9e33098339",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.987960510Z"
+}

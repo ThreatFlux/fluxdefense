@@ -1,0 +1,17 @@
+{
+  "uuid": "107852cb-eeb6-4e72-a613-16c0e755b70a",
+  "path": "/usr/lib/firmware/nvidia/gm20b/gr/sw_ctx.bin.zst",
+  "size": 1062,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.938536188Z",
+  "sha256_hash": "22d69e77a3a3cd7add7def1eff1ccd9a72002ee43c1053e95f9a1b5a629b272e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.276098398Z"
+}

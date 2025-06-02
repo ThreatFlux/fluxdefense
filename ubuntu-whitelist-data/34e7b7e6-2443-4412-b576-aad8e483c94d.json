@@ -1,0 +1,17 @@
+{
+  "uuid": "34e7b7e6-2443-4412-b576-aad8e483c94d",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/threads.pm",
+  "size": 37954,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.560590686Z",
+  "sha256_hash": "9baf87ad2abb86b9165c5a16dbb2fd86916ae2be5918bb4a7a2f4e99b72d9c71",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.574166154Z"
+}

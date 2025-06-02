@@ -1,0 +1,15 @@
+{
+  "uuid": "38d1b712-ef4c-40d4-b031-918a30f13667",
+  "path": "/usr/lib/x86_64-linux-gnu/libmagic.a",
+  "size": 315360,
+  "modified": "2024-03-31T07:35:22Z",
+  "created": "2025-05-28T13:49:50.600515079Z",
+  "sha256_hash": "9d8896addb0c89d4ab469f813981ca0983ccd22f12ac3f5748a1de8ffabdf24c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.166009551Z"
+}

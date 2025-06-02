@@ -1,0 +1,15 @@
+{
+  "uuid": "0e049df4-73d4-434b-b00d-f8f38cf85e3e",
+  "path": "/usr/lib/llvm-18/bin/llvm-dwp",
+  "size": 56872,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:34.911489046Z",
+  "sha256_hash": "692b9555f37a65c67a2f5be3585eab85b5847ee80ece117e9dfc7680fb202f65",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:27.092474576Z"
+}

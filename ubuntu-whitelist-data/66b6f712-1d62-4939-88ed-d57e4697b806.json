@@ -1,0 +1,15 @@
+{
+  "uuid": "66b6f712-1d62-4939-88ed-d57e4697b806",
+  "path": "/usr/bin/dconf",
+  "size": 63720,
+  "modified": "2024-03-31T00:51:04Z",
+  "created": "2025-05-09T05:07:19.144908914Z",
+  "sha256_hash": "fc9115a4399fe93d55f0c63cdd613c544e9d4d988b5a28bc8e2a4f0dc7d40605",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:13.233800711Z"
+}

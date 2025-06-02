@@ -1,0 +1,17 @@
+{
+  "uuid": "9f90b87d-e37e-4f52-bf50-73bab80c6700",
+  "path": "/usr/lib/udev/rules.d/40-usb-media-players.rules",
+  "size": 998,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:28.435767140Z",
+  "sha256_hash": "0487706f671ab50a438b38800cc0d07eaa30794d3928cef182ec15aae5a92337",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.105444108Z"
+}

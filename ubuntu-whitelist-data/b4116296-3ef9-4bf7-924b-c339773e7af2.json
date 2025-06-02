@@ -1,0 +1,17 @@
+{
+  "uuid": "b4116296-3ef9-4bf7-924b-c339773e7af2",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/crtprec64.o",
+  "size": 3744,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.240389918Z",
+  "sha256_hash": "94c702baf22835bd5a850e122dc4668c4454067c398785d9fd0938f5d2fd5be3",
+  "file_type": {
+    "Other": "o"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.397270585Z"
+}

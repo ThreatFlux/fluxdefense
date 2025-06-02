@@ -1,0 +1,17 @@
+{
+  "uuid": "793bb6e7-eaa4-421f-90e6-ae13ba5e2811",
+  "path": "/lib/grub/x86_64-efi/spkmodem.mod",
+  "size": 3120,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "34c1e5ecaf0b26696b2d6e81a1bc27a4ae45be20e56a8053eacb95bc40d4ea0c",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.037713361Z"
+}

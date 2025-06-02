@@ -1,0 +1,17 @@
+{
+  "uuid": "4df94a4a-0270-4341-8f7b-de5fa73dbeaf",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/sysexits.ph",
+  "size": 1286,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.560590686Z",
+  "sha256_hash": "b3435807f6020bf022df6d0d5bc333ccf0483f4c478b786e16324c6209133ae5",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.466426906Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c8d06ee0-4fcb-48bb-bab5-2f635cdc4dc1",
+  "path": "/usr/lib/x86_64-linux-gnu/libsysmetrics.so.1",
+  "size": 6065192,
+  "modified": "2024-10-24T00:39:02Z",
+  "created": "2025-05-09T05:07:32.216709444Z",
+  "sha256_hash": "8ec105fc82626536682cda68ec2ddc3947bfd80a11a30b0a6be187c0e3586d3e",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.058486100Z"
+}

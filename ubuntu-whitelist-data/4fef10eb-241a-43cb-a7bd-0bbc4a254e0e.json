@@ -1,0 +1,17 @@
+{
+  "uuid": "4fef10eb-241a-43cb-a7bd-0bbc4a254e0e",
+  "path": "/usr/lib/firmware/amdgpu/vega10_sdma1.bin.zst",
+  "size": 8067,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.423543322Z",
+  "sha256_hash": "5fff603030bf4396f6b8b15a2817ec3fb47b86c6da6531bb75aa9d40912f8e85",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.879766198Z"
+}

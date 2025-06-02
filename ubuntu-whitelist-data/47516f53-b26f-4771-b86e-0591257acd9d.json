@@ -1,0 +1,15 @@
+{
+  "uuid": "47516f53-b26f-4771-b86e-0591257acd9d",
+  "path": "/lib/python3.12/lib-dynload/mmap.cpython-312-x86_64-linux-gnu.so",
+  "size": 32600,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:10:59.932539216Z",
+  "sha256_hash": "7d8beeae7d3fe213714573d33979468222a2202ff910c064bda4df1e3ec4cc7b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.216187801Z"
+}

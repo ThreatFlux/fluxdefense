@@ -1,0 +1,17 @@
+{
+  "uuid": "4ca08695-9f80-4725-bb78-c23591f02964",
+  "path": "/lib/x86_64-linux-gnu/libgupnp-1.6.so.0.106.6",
+  "size": 239688,
+  "modified": "2024-03-31T01:18:00Z",
+  "created": "2025-05-09T05:07:30.162740787Z",
+  "sha256_hash": "2b78a6b33ae039582589cb72fdbe26bec1815921c891d30c6d84d27acd52e67b",
+  "file_type": {
+    "Other": "6"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.180142087Z"
+}

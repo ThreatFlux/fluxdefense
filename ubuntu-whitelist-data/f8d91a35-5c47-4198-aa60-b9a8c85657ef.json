@@ -1,0 +1,17 @@
+{
+  "uuid": "f8d91a35-5c47-4198-aa60-b9a8c85657ef",
+  "path": "/lib/x86_64-linux-gnu/libpsl.so.5.3.4",
+  "size": 75768,
+  "modified": "2024-03-31T07:56:25Z",
+  "created": "2025-05-09T05:07:31.891714404Z",
+  "sha256_hash": "ae6c5a9aecc249fc66e03c16ec6c4385d09d7e12e0ea7694bb831ab4fee8133c",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.169516636Z"
+}

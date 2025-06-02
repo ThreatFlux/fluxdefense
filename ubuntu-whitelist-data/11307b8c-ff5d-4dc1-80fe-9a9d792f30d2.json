@@ -1,0 +1,17 @@
+{
+  "uuid": "11307b8c-ff5d-4dc1-80fe-9a9d792f30d2",
+  "path": "/lib/kernel/install.d/90-uki-copy.install",
+  "size": 3163,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.508779291Z",
+  "sha256_hash": "2eb336659be3a93dbdbbb6f7430825b7fa7922b2d296e91b5ebe839505052973",
+  "file_type": {
+    "Other": "install"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.762096235Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d92d16f3-8de9-487a-a909-33edce7cc2e4",
+  "path": "/lib/x86_64-linux-gnu/libwayland-egl.so.1.22.0",
+  "size": 14344,
+  "modified": "2024-04-08T16:21:56Z",
+  "created": "2025-05-09T05:07:33.033696977Z",
+  "sha256_hash": "f62e5dae4e63cb43e0210f08ef74dd379f0cd87eafbe569998fe6e1c4a820a10",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.382734015Z"
+}

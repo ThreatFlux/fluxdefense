@@ -1,0 +1,17 @@
+{
+  "uuid": "a814bda0-0a9f-4366-9764-bc82150f130f",
+  "path": "/usr/lib/google-cloud-sdk/platform/bq/discovery_next/bigquery.json",
+  "size": 516586,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.814930545Z",
+  "sha256_hash": "256773936316eb65b8c7ab6bccbd17874e5f6e5d56aa9424877a4c8b8d4fa32c",
+  "file_type": {
+    "Other": "json"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.608602538Z"
+}

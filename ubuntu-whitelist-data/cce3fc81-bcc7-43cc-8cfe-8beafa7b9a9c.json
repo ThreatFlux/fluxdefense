@@ -1,0 +1,15 @@
+{
+  "uuid": "cce3fc81-bcc7-43cc-8cfe-8beafa7b9a9c",
+  "path": "/usr/lib/x86_64-linux-gnu/security/pam_usertype.so",
+  "size": 14488,
+  "modified": "2024-05-02T22:20:13Z",
+  "created": "2025-05-09T05:07:37.209633253Z",
+  "sha256_hash": "74ff072db3e3eab69720b00274786a4566172eae336c946050815488dce79732",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.665328484Z"
+}

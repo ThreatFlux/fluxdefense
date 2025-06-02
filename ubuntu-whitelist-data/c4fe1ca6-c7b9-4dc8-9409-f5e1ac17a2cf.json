@@ -1,0 +1,17 @@
+{
+  "uuid": "c4fe1ca6-c7b9-4dc8-9409-f5e1ac17a2cf",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/liblsan_preinit.o",
+  "size": 6024,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.264389401Z",
+  "sha256_hash": "5813606bbb393f84cf79d8e2fba9a575fd0dd4da698bc1a0052a849b3f989b41",
+  "file_type": {
+    "Other": "o"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.941601365Z"
+}

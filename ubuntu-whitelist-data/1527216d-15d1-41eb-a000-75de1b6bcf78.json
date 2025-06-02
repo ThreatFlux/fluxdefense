@@ -1,0 +1,15 @@
+{
+  "uuid": "1527216d-15d1-41eb-a000-75de1b6bcf78",
+  "path": "/usr/lib/x86_64-linux-gnu/rsyslog/fmhash.so",
+  "size": 14832,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.545922238Z",
+  "sha256_hash": "5d7b83a4cb04aa091c9ac6f87176acb94902ac7fe6b9519902ccd92345742537",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.168427622Z"
+}

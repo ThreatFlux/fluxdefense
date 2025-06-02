@@ -1,0 +1,17 @@
+{
+  "uuid": "27579a98-6316-4c65-9f6e-465e5cc10ad7",
+  "path": "/lib/llvm-18/include/clang/Sema/Lookup.h",
+  "size": 28719,
+  "modified": "2024-02-22T09:12:13Z",
+  "created": "2025-05-12T13:34:31.547533344Z",
+  "sha256_hash": "89cc3292a14291a638013ff8ed0912547ebfbd7ef7e75d5fbfdabd1f27e4fda4",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.064964924Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "1f3c10c7-8e8b-47fe-81ee-6b9c53320af6",
+  "path": "/usr/lib/systemd/system/systemd-backlight@.service",
+  "size": 777,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "65c177c5a576308ec64754251405d2ca68cb08dac14a72d1e5fc564ac3050941",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.456251753Z"
+}

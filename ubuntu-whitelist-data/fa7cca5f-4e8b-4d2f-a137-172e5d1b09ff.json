@@ -1,0 +1,17 @@
+{
+  "uuid": "fa7cca5f-4e8b-4d2f-a137-172e5d1b09ff",
+  "path": "/lib/firmware/mediatek/mt7986_wm_mt7975.bin.zst",
+  "size": 453774,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.685539693Z",
+  "sha256_hash": "7d5d275be5fb23ac5f5cadaa628012bb95868c65ba4d9c65e1e9ca8b7cb822d2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.137087208Z"
+}

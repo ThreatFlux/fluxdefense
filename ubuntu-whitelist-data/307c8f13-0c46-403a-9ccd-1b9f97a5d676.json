@@ -1,0 +1,17 @@
+{
+  "uuid": "307c8f13-0c46-403a-9ccd-1b9f97a5d676",
+  "path": "/usr/lib/udev/rules.d/61-gnome-settings-daemon-rfkill.rules",
+  "size": 292,
+  "modified": "2024-03-16T22:14:58Z",
+  "created": "2025-05-09T05:07:28.436767125Z",
+  "sha256_hash": "7346db4e303a924f1435d00df7bfbe67a5d6d7fdfb2b28abb8e06b655fe114b0",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.105244647Z"
+}

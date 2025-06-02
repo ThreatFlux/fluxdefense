@@ -1,0 +1,17 @@
+{
+  "uuid": "6f13d728-cded-4b67-9f9c-9fdad07c7886",
+  "path": "/lib/llvm-18/include/clang-tidy/modernize/UseStartsEndsWithCheck.h",
+  "size": 1589,
+  "modified": "2023-12-06T09:23:46Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "4fac2e85f793cd96d4fff8a72b48c46d5be6e9386224691e98a2ead559d6880c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.910696343Z"
+}

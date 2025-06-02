@@ -1,0 +1,17 @@
+{
+  "uuid": "fba0cafa-3a6e-4f96-9a46-18ab9169fbf1",
+  "path": "/usr/lib/firmware/amdgpu/vega12_sdma.bin.zst",
+  "size": 8098,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.424543308Z",
+  "sha256_hash": "aeb0d1a247155a92eee42e2dbc8c60a2234edaa597b318c86587126a977b5c6c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.026539155Z"
+}

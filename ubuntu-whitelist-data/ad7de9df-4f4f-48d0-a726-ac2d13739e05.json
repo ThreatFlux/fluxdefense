@@ -1,0 +1,17 @@
+{
+  "uuid": "ad7de9df-4f4f-48d0-a726-ac2d13739e05",
+  "path": "/usr/lib/x86_64-linux-gnu/libgpod.so.4.3.2",
+  "size": 492264,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.832745823Z",
+  "sha256_hash": "5148331d6a379aa0569a3f3e41b7568c4b20472f0d705f7a63e4cb42fdb90aeb",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.525928656Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a09027c5-7558-4ab7-872a-fdb9be87f872",
+  "path": "/lib/firmware/cirrus/cs35l41-dsp1-spk-prot-17aa22f2-l0.bin.zst",
+  "size": 2637,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.506542172Z",
+  "sha256_hash": "bfd4f4db07369a7133e59b22c6a409da276ecc8494b2ead64f852414be73ed35",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.147913912Z"
+}

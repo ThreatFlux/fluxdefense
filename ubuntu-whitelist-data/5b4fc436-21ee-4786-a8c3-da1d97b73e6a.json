@@ -1,0 +1,17 @@
+{
+  "uuid": "5b4fc436-21ee-4786-a8c3-da1d97b73e6a",
+  "path": "/usr/lib/grub/x86_64-efi/gcry_cast5.mod",
+  "size": 14832,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.806708491Z",
+  "sha256_hash": "19e710f37a467953e5df69f21e4532e21f9ddfc3028b2a8b0723d23dbd62a34d",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.506056096Z"
+}

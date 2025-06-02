@@ -1,0 +1,17 @@
+{
+  "uuid": "7f49c22d-af1d-4741-8efc-42a6e256f679",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/modernize/IntegralLiteralExpressionMatcher.h",
+  "size": 2406,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "3215d3f22bf32481d0843a38d34e5e03515f978a381bff84d8fc968dc8c533e7",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.255970817Z"
+}

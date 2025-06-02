@@ -1,0 +1,17 @@
+{
+  "uuid": "02d4d4c2-dc62-436e-bf1b-573cd2206d64",
+  "path": "/usr/lib/x86_64-linux-gnu/samba/libinterfaces-samba4.so.0",
+  "size": 18664,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.060635527Z",
+  "sha256_hash": "514779ce6d0fda31a5b68ce51c03ebb0d808ab2c7bf276d3fa5740f5b0d890f4",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.433846684Z"
+}

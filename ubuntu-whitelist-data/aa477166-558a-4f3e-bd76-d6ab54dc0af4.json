@@ -1,0 +1,15 @@
+{
+  "uuid": "aa477166-558a-4f3e-bd76-d6ab54dc0af4",
+  "path": "/lib/x86_64-linux-gnu/gconv/IBM037.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.624657440Z",
+  "sha256_hash": "69165d78e9bbc390ac4fd8330386d9ea62f4c16b0625187cd63d34cb551faf36",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.772494735Z"
+}

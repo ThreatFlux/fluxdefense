@@ -1,0 +1,17 @@
+{
+  "uuid": "47c92bb4-09ac-4ba1-9a8a-c0e989200836",
+  "path": "/usr/lib/x86_64-linux-gnu/libwoff2enc.so.1.0.2",
+  "size": 59640,
+  "modified": "2024-04-08T16:22:16Z",
+  "created": "2025-05-09T05:07:35.013666763Z",
+  "sha256_hash": "58dfd4cb91429be3dbd324d4e28f744f7ca47fbd3a782af90d67e790fc3894c2",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.114787975Z"
+}

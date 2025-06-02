@@ -1,0 +1,17 @@
+{
+  "uuid": "a4f0f57f-df5c-49f7-a011-fbc2df9bf583",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/ta_dict",
+  "size": 209553,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.553658523Z",
+  "sha256_hash": "8f3d855c8d7a35ad0e2b22bc7c15a8830e5fc235492894e5db40458655076ecd",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.377810079Z"
+}

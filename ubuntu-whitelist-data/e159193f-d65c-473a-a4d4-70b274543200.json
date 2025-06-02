@@ -1,0 +1,17 @@
+{
+  "uuid": "e159193f-d65c-473a-a4d4-70b274543200",
+  "path": "/lib/firmware/mediatek/mt7986_rom_patch_mt7975.bin.zst",
+  "size": 7511,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.684539707Z",
+  "sha256_hash": "497eefe844936489b974e8c42498f8ccf25258afb1168741fac8b797d68ecc10",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.089658871Z"
+}

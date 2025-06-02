@@ -1,0 +1,17 @@
+{
+  "uuid": "e745aacc-69fd-454f-9b06-1900e1337bbc",
+  "path": "/usr/lib/firmware/powervr/rogue_33.15.11.3_v1.fw.zst",
+  "size": 55531,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.964535828Z",
+  "sha256_hash": "a7805a32bbdc385266414aa5eb0cccc117b43a9467b05db3be5344b01841ef78",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.526713734Z"
+}

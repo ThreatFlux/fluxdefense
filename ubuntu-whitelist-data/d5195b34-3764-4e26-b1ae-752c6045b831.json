@@ -1,0 +1,15 @@
+{
+  "uuid": "d5195b34-3764-4e26-b1ae-752c6045b831",
+  "path": "/lib/llvm-18/bin/llvm-cov",
+  "size": 430216,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:34.909489072Z",
+  "sha256_hash": "41fff80e3e23312576129307f19a2fc7f46ac58bd0ead0b5c7a548a38388c279",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.842043454Z"
+}

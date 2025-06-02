@@ -1,0 +1,15 @@
+{
+  "uuid": "8f88d87c-530c-4fe8-921a-530ecb76aade",
+  "path": "/sbin/oomkill-bpfcc",
+  "size": 2084,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "b7bd7f551b4188f0a224bbd1eae1562fc9603dc30e233d76bec66c5c9c88e2dd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.689909645Z"
+}

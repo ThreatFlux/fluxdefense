@@ -1,0 +1,17 @@
+{
+  "uuid": "3c8fcc10-8cc8-454e-b868-074eb5195548",
+  "path": "/usr/lib/grub/x86_64-efi/legacy_password_test.mod",
+  "size": 15968,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.812708399Z",
+  "sha256_hash": "275800ecdc388ea8799c086d8788a9d713b8041823b02447ed5372d6d0f4c893",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.486467713Z"
+}

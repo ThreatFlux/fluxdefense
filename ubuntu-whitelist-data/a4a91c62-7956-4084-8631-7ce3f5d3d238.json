@@ -1,0 +1,17 @@
+{
+  "uuid": "a4a91c62-7956-4084-8631-7ce3f5d3d238",
+  "path": "/usr/lib/grub/x86_64-efi/xnu_uuid_test.mod",
+  "size": 3160,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.840707972Z",
+  "sha256_hash": "56616abdea9a2715f47002a7523369d208a3e4e1e923ea3ed274a61db48599c7",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.471544897Z"
+}

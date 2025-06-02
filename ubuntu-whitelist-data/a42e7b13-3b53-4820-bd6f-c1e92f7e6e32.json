@@ -1,0 +1,17 @@
+{
+  "uuid": "a42e7b13-3b53-4820-bd6f-c1e92f7e6e32",
+  "path": "/usr/lib/udev/hwdb.d/70-sound-card.hwdb",
+  "size": 890,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.060786348Z",
+  "sha256_hash": "a79dae6d81fe5eb08e2bbe126a352dea63c650b06ae6aa12c29b73101a62dfff",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.115147355Z"
+}

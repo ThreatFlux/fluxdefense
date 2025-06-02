@@ -1,0 +1,15 @@
+{
+  "uuid": "4256394d-ac4a-4ed3-a809-0fcb88caad85",
+  "path": "/lib/i386-linux-gnu/gconv/KOI8-U.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.283663370Z",
+  "sha256_hash": "d01ab7ffbd2d5d68533c8eca699cac83c26363d77c057e95fcbaba0f432355bc",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.795257328Z"
+}

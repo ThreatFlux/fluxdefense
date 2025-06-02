@@ -1,0 +1,17 @@
+{
+  "uuid": "44eb88f6-35a1-483c-a6ea-cd70b4ed2de0",
+  "path": "/lib/firmware/qca/hpnv21.309.zst",
+  "size": 2924,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.966535801Z",
+  "sha256_hash": "23aa0f12644b110a9d55a4781587486147487960f2304792b76c5aa692bbd2f6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.172742499Z"
+}

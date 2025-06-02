@@ -1,0 +1,17 @@
+{
+  "uuid": "28097e87-567c-4a6f-93fa-3fab6d838e4b",
+  "path": "/usr/lib/firmware/libertas/sd8686_v8_helper.bin.zst",
+  "size": 1701,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.669539914Z",
+  "sha256_hash": "23e02489d7264d5328fb1a525cc380aa8e1f38eee8c0b4e36001035f4a20c32d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.561784175Z"
+}

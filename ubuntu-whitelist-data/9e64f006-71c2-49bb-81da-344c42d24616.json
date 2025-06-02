@@ -1,0 +1,17 @@
+{
+  "uuid": "9e64f006-71c2-49bb-81da-344c42d24616",
+  "path": "/usr/lib/x86_64-linux-gnu/dpdk/pmds-24.0/librte_net_bond.so.24.0",
+  "size": 117208,
+  "modified": "2024-12-18T18:31:38Z",
+  "created": "2025-05-26T20:18:27.283019484Z",
+  "sha256_hash": "9028f6d9e012b9802a6d81f475fe81d63afe251552e52b1dfa044a0bb5dc381e",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.514227753Z"
+}

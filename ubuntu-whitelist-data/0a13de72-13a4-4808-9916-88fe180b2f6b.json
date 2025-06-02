@@ -1,0 +1,17 @@
+{
+  "uuid": "0a13de72-13a4-4808-9916-88fe180b2f6b",
+  "path": "/lib/firmware/f2255usb.bin.zst",
+  "size": 67183,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.530541840Z",
+  "sha256_hash": "7ad3ad4c3e1a2c2fb8510a18e4c8b0bdb3297cc73ac838ad17c8528264ca09ee",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.885829316Z"
+}

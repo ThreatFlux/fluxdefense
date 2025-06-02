@@ -1,0 +1,17 @@
+{
+  "uuid": "d2e9b48d-542c-4a94-97fc-3175cf7d0185",
+  "path": "/usr/lib/llvm-18/include/clang/Lex/MacroArgs.h",
+  "size": 5539,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.544533384Z",
+  "sha256_hash": "087cbf36717da69dcc4c4cd4260aef9cc6cf32d2120babeaaf2b86a3177d9997",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.619061851Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "fabcb1e7-c7bf-47f2-a868-52047e660c48",
+  "path": "/lib/systemd/catalog/systemd.hu.catalog",
+  "size": 8066,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.509779304Z",
+  "sha256_hash": "5d97cff57cbb497784e3f2e64616b096db232b3f1e9eab7e52b8af494cb86603",
+  "file_type": {
+    "Other": "catalog"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.186526940Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "44555b3b-2cb1-40e3-8356-e634320da723",
+  "path": "/usr/lib/x86_64-linux-gnu/libjbig2dec.so.0.0.0",
+  "size": 121184,
+  "modified": "2024-03-31T07:40:24Z",
+  "created": "2025-05-09T05:07:31.328722995Z",
+  "sha256_hash": "5cd1a77148a48c3e6a7ba1e6c66148af870101ac17316d6374d4cfb342b104e2",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:30.028074760Z"
+}

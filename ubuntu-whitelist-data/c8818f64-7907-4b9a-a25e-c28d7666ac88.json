@@ -1,0 +1,17 @@
+{
+  "uuid": "c8818f64-7907-4b9a-a25e-c28d7666ac88",
+  "path": "/usr/lib/llvm-18/include/clang/Frontend/DiagnosticRenderer.h",
+  "size": 6854,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "6cb7ddc058ff3f317c67fdb292fc0837471309bfbd17451942c9bb3fb81a2cde",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.298184872Z"
+}

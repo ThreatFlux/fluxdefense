@@ -1,0 +1,15 @@
+{
+  "uuid": "fbc07908-b184-4795-b223-a1d1562d3613",
+  "path": "/usr/lib/klibc/bin/ln",
+  "size": 9104,
+  "modified": "2024-05-21T08:39:42Z",
+  "created": "2025-05-09T05:07:21.711869744Z",
+  "sha256_hash": "9e94ffcdac6ca39d536519e17800c8df94d583045b2334ece768adeb24392dd3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.573001588Z"
+}

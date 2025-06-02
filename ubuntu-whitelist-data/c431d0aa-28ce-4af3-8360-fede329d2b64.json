@@ -1,0 +1,15 @@
+{
+  "uuid": "c431d0aa-28ce-4af3-8360-fede329d2b64",
+  "path": "/lib/x86_64-linux-gnu/libm-2.39.a",
+  "size": 2607988,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:08:53.070475538Z",
+  "sha256_hash": "07f819a1dde208fd783513a9cc5d4df87ecfd7cd93b748079db73a5967333a4e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.565525659Z"
+}

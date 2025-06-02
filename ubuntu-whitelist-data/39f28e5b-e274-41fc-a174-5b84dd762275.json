@@ -1,0 +1,17 @@
+{
+  "uuid": "39f28e5b-e274-41fc-a174-5b84dd762275",
+  "path": "/lib/x86_64-linux-gnu/perl5/5.38/common/sense.pod",
+  "size": 15946,
+  "modified": "2024-03-31T07:46:13Z",
+  "created": "2025-05-13T14:31:44.545335329Z",
+  "sha256_hash": "58849e816d7598350b44215441e33f4ada902c31ea995fc724478cb6bf5561c0",
+  "file_type": {
+    "Other": "pod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.335586420Z"
+}

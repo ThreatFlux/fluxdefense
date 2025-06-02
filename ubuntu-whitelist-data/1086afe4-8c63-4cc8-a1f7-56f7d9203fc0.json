@@ -1,0 +1,17 @@
+{
+  "uuid": "1086afe4-8c63-4cc8-a1f7-56f7d9203fc0",
+  "path": "/lib/systemd/user/org.freedesktop.IBus.session.GNOME.service",
+  "size": 808,
+  "modified": "2024-03-31T12:04:22Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "5e8ee05c2774f39b53fd4b926c4703f045ab696d139b02629b21812a23f5fe8b",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.148244953Z"
+}

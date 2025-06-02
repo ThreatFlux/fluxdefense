@@ -1,0 +1,15 @@
+{
+  "uuid": "72075f29-995a-4130-84dc-05d5fc8be3e2",
+  "path": "/lib/x86_64-linux-gnu/krb5/plugins/libkrb5/sssd_krb5_locator_plugin.so",
+  "size": 18944,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:35.818654479Z",
+  "sha256_hash": "fe7fe42f4671057e2fa007ad7bcb417ce5f5b406c76b939f695e8c98d08c2424",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.838924969Z"
+}

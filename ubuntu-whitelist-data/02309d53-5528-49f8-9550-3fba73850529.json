@@ -1,0 +1,15 @@
+{
+  "uuid": "02309d53-5528-49f8-9550-3fba73850529",
+  "path": "/sbin/icupkg",
+  "size": 23504,
+  "modified": "2024-08-09T02:33:20Z",
+  "created": "2025-05-12T13:34:31.057539798Z",
+  "sha256_hash": "1204388812340eb080325d1e382969b185a24103843a8c4bc333de1056161283",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.168070140Z"
+}

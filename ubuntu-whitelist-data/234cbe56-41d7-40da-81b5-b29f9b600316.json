@@ -1,0 +1,17 @@
+{
+  "uuid": "234cbe56-41d7-40da-81b5-b29f9b600316",
+  "path": "/lib/grub/x86_64-efi/bsd.mod",
+  "size": 50360,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.801708567Z",
+  "sha256_hash": "f27b6508a1b9fbca9eeedac94009679867f53fe055691e7762e9e8ff2193273f",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.140191419Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "eef99eb3-8e3c-4fd4-b545-2303b5fbdf94",
+  "path": "/lib/firmware/netronome/flower/nic_AMDA0058.nffw.zst",
+  "size": 325102,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.896536770Z",
+  "sha256_hash": "5dc2f27bd56a27431324ce4cb84359e9005e90dd3160028368175629f643927d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.737310674Z"
+}

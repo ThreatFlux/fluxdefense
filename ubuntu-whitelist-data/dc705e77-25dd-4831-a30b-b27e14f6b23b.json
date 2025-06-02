@@ -1,0 +1,15 @@
+{
+  "uuid": "dc705e77-25dd-4831-a30b-b27e14f6b23b",
+  "path": "/bin/x86_64-linux-gnu-addr2line",
+  "size": 31440,
+  "modified": "2025-03-10T13:52:52Z",
+  "created": "2025-05-09T05:09:52.028575685Z",
+  "sha256_hash": "0206af8dbca597580cfef63f19eaea381a1c332716f5524b749f1da1253fad4e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.180247071Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "d71c370f-3533-415e-9d28-f9c88db00308",
+  "path": "/lib/llvm-18/bin/llvm-ml",
+  "size": 69328,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.062487057Z",
+  "sha256_hash": "12df37be50f9a7d61344fd52a57aa496b6e95ff979510f7ab7a8699fddf061c1",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.635014701Z"
+}

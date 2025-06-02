@@ -1,0 +1,15 @@
+{
+  "uuid": "8f1c1e8e-9521-4522-ac42-e9d60798debf",
+  "path": "/usr/bin/pkttyagent",
+  "size": 22832,
+  "modified": "2024-12-02T11:59:52Z",
+  "created": "2025-05-09T05:07:20.299891290Z",
+  "sha256_hash": "86611e063718fb989d53152450bac8a47f13cc4c8fa14dfe11ad2cce972aa506",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:11.652603506Z"
+}

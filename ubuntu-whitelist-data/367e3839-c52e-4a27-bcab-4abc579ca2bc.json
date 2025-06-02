@@ -1,0 +1,15 @@
+{
+  "uuid": "367e3839-c52e-4a27-bcab-4abc579ca2bc",
+  "path": "/usr/lib/google-cloud-sdk/platform/gsutil/gslib/boto_resumable_upload.py",
+  "size": 25283,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.850929933Z",
+  "sha256_hash": "f50947130d0bd90d1ba99b71523167d5246abe90df3a912498baf51abde3136c",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:46.584861642Z"
+}

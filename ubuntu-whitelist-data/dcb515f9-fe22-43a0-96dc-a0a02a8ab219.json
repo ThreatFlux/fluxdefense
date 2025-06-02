@@ -1,0 +1,15 @@
+{
+  "uuid": "dcb515f9-fe22-43a0-96dc-a0a02a8ab219",
+  "path": "/bin/gpg-wks-client",
+  "size": 142712,
+  "modified": "2025-03-28T15:23:49Z",
+  "created": "2025-05-09T05:11:22.880188932Z",
+  "sha256_hash": "43b13733e323d433afc4045bae961504708a9e40904c238fadb2d281f5560a7c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.650339200Z"
+}

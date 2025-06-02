@@ -1,0 +1,17 @@
+{
+  "uuid": "79b34616-7772-4ad9-8c8e-3233faad87c2",
+  "path": "/lib/firmware/libertas/sd8686_v9_helper.bin.zst",
+  "size": 1713,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.669539914Z",
+  "sha256_hash": "a061d795c0de310949da1be06121377827a3dcbe3fb6545280dd5d6fbee187f4",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:01.948175900Z"
+}

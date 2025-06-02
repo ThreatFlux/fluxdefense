@@ -1,0 +1,15 @@
+{
+  "uuid": "79eba91d-b364-4806-bb41-362878570ebd",
+  "path": "/lib/google-cloud-sdk/lib/third_party/sqlparse/sql.py",
+  "size": 20431,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.101942658Z",
+  "sha256_hash": "f1c12be13d4c8c98abf800cb4dc46a5693d9315a6c7bb4bb72b83fd1b7cbf125",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.014681128Z"
+}

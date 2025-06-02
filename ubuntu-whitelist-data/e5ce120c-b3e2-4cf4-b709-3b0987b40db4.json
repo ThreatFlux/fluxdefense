@@ -1,0 +1,17 @@
+{
+  "uuid": "e5ce120c-b3e2-4cf4-b709-3b0987b40db4",
+  "path": "/lib/x86_64-linux-gnu/libgctba.so.1.5.0",
+  "size": 14344,
+  "modified": "2024-04-08T16:03:52Z",
+  "created": "2025-05-12T13:34:30.281550017Z",
+  "sha256_hash": "9641a0bf47da1a79b8bed473e6fe64f562748a587fccafa63c43840b055c809d",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:28.619446996Z"
+}

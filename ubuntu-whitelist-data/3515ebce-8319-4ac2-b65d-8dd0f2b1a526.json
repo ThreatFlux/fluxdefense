@@ -1,0 +1,17 @@
+{
+  "uuid": "3515ebce-8319-4ac2-b65d-8dd0f2b1a526",
+  "path": "/lib/grub/x86_64-efi/gfxmenu.mod",
+  "size": 60776,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.809708445Z",
+  "sha256_hash": "b7dc8ff96a2e95ec0170edb13a8147895bdad23e9f33d62390f99590d468c204",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.050430976Z"
+}

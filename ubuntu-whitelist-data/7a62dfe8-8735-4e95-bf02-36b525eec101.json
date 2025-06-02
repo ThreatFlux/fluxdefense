@@ -1,0 +1,17 @@
+{
+  "uuid": "7a62dfe8-8735-4e95-bf02-36b525eec101",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/bits/siginfo-consts.ph",
+  "size": 4469,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.557590732Z",
+  "sha256_hash": "ba9fedd16c0522598696afe781d868ccc61507b85292f71d67b26285d09eaeef",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.685733370Z"
+}

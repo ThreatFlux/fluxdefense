@@ -1,0 +1,17 @@
+{
+  "uuid": "ce7483e5-05a5-40c2-8248-92b57a98e4fb",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/workflows/execute.yaml",
+  "size": 4182,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.692932618Z",
+  "sha256_hash": "1cb4decbf6994d270a77ce5118308675e56097231b3441d6b2cde7655ea1393d",
+  "file_type": {
+    "Other": "yaml"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.776328326Z"
+}

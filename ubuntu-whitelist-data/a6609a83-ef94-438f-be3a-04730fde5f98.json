@@ -1,0 +1,15 @@
+{
+  "uuid": "a6609a83-ef94-438f-be3a-04730fde5f98",
+  "path": "/usr/lib/x86_64-linux-gnu/tracker-miners-3.0/extract-modules/libextract-msoffice-xml.so",
+  "size": 43240,
+  "modified": "2024-03-31T17:20:13Z",
+  "created": "2025-05-09T05:07:37.309631727Z",
+  "sha256_hash": "c8aa713d296ff96e385a074bdbad7b93aaa8d98174b276d5d1d220bfa353c18b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.210531856Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d2e8cdb5-0eeb-4981-be42-8a9372568f98",
+  "path": "/lib/firmware/nvidia/gp100/gr/sw_ctx.bin.zst",
+  "size": 1168,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.938536188Z",
+  "sha256_hash": "19f6b4ba6cfaf093ab0a397e6f73028905122a99e5db068ff780e990f19f1ff2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.417555836Z"
+}

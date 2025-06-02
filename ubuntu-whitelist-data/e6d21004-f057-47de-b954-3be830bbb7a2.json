@@ -1,0 +1,17 @@
+{
+  "uuid": "e6d21004-f057-47de-b954-3be830bbb7a2",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/abseil/AbseilMatcher.h",
+  "size": 2264,
+  "modified": "2023-12-18T16:32:15Z",
+  "created": "2025-05-12T13:34:31.555533239Z",
+  "sha256_hash": "b0dff90ba07172398126072ecc6a29c7566861bf586e166e10b6477d8a051e81",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.245060505Z"
+}

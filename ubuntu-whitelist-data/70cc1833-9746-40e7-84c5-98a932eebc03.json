@@ -1,0 +1,17 @@
+{
+  "uuid": "70cc1833-9746-40e7-84c5-98a932eebc03",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/include/bmi2intrin.h",
+  "size": 3355,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.244389832Z",
+  "sha256_hash": "bf02dc9c458358d6c26d74241707e915a668e985e5f3769870d8316b4082c6c2",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.915258921Z"
+}

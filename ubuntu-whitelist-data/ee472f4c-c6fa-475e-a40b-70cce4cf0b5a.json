@@ -1,0 +1,15 @@
+{
+  "uuid": "ee472f4c-c6fa-475e-a40b-70cce4cf0b5a",
+  "path": "/usr/libexec/ibus-ui-gtk3",
+  "size": 281176,
+  "modified": "2024-03-31T12:04:22Z",
+  "created": "2025-05-09T05:07:37.530628355Z",
+  "sha256_hash": "7726d171553490fa90e20727c89277e3481b86afe391e3e0a678fadf50c19154",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.156175317Z"
+}

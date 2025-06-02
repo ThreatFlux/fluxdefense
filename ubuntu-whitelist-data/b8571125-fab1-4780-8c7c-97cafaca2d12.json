@@ -1,0 +1,17 @@
+{
+  "uuid": "b8571125-fab1-4780-8c7c-97cafaca2d12",
+  "path": "/lib/tmpfiles.d/home.conf",
+  "size": 362,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.527779534Z",
+  "sha256_hash": "135d4d63b7a841a921f5c2ddc0c2c38b72286070097883196bd58375bd1674e2",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.760447386Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "c5c05772-8e3a-4a22-9ca5-4ee4d406b853",
+  "path": "/usr/lib/llvm-18/lib/libLLVMVectorize.a",
+  "size": 4116298,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.048460900Z",
+  "sha256_hash": "0e04cb7fb3fa5f2c5c6cfc46f4f56ee88a32f9212aa79a6dba5e79cd7102a197",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:30.754360235Z"
+}

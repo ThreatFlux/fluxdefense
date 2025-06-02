@@ -1,0 +1,15 @@
+{
+  "uuid": "adc51dd2-5fb7-4972-a2dd-8e07b9a8b40a",
+  "path": "/usr/lib/systemd/user-environment-generators/30-systemd-environment-d-generator",
+  "size": 14712,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.526779521Z",
+  "sha256_hash": "81f988410d4217ab26a054b3fe55b6cd558825f5da3316fdc9bd79359a17580f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.487871925Z"
+}

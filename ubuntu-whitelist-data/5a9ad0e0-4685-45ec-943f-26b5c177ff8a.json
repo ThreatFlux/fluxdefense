@@ -1,0 +1,17 @@
+{
+  "uuid": "5a9ad0e0-4685-45ec-943f-26b5c177ff8a",
+  "path": "/lib/x86_64-linux-gnu/libsane.so.1.2.1",
+  "size": 96488,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:32.149710467Z",
+  "sha256_hash": "d7cd5aafc3aa18a0016793dd9e35cc55a8cf180ae9db6f6348b2d9af4e75b4c4",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.158443255Z"
+}

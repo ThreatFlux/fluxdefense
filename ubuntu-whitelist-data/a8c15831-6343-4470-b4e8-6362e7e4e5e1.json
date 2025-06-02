@@ -1,0 +1,15 @@
+{
+  "uuid": "a8c15831-6343-4470-b4e8-6362e7e4e5e1",
+  "path": "/usr/bin/dbus-uuidgen",
+  "size": 14632,
+  "modified": "2024-08-09T02:33:22Z",
+  "created": "2025-05-09T05:07:19.143908930Z",
+  "sha256_hash": "abe42d54ae585d9802593a2150840b0ff10894744cc4c9d4ab08a0c40e3f6a03",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.934550839Z"
+}

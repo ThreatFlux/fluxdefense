@@ -1,0 +1,17 @@
+{
+  "uuid": "cd88b6cb-c3ba-433c-8392-9d3f9a93bf76",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-ztenio.ali",
+  "size": 4552,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.105344393Z",
+  "sha256_hash": "98325dde1304595d43462c5fcea140e8f884d5a24c73ce1ac3b2e7fe6ae5a077",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.619756242Z"
+}

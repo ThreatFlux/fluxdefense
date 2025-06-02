@@ -1,0 +1,15 @@
+{
+  "uuid": "70e4bd7f-81ab-4c3e-805a-0df17b41ae39",
+  "path": "/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-gif.so",
+  "size": 26904,
+  "modified": "2024-06-03T16:36:10Z",
+  "created": "2025-05-09T05:07:35.705656203Z",
+  "sha256_hash": "75a04b11e45f2ff79687e67672bbb3980f136fa9d0e345e80d33347833295a19",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:33.168861966Z"
+}

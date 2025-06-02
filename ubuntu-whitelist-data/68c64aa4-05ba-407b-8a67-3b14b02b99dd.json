@@ -1,0 +1,15 @@
+{
+  "uuid": "68c64aa4-05ba-407b-8a67-3b14b02b99dd",
+  "path": "/usr/lib/x86_64-linux-gnu/spa-0.2/aec/libspa-aec-null.so",
+  "size": 14608,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.445855731Z",
+  "sha256_hash": "d089f2994ad5bf05e9c62bf8b9f4277102c3d0c25d2025b96edfa49c6cdaac53",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:13.907682430Z"
+}

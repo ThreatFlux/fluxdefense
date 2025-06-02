@@ -1,0 +1,17 @@
+{
+  "uuid": "8e0fadaa-0160-4d39-9a4a-b99197556aa8",
+  "path": "/sbin/xfsdist.bt",
+  "size": 972,
+  "modified": "2024-03-07T22:14:52Z",
+  "created": "2025-05-09T05:08:51.886493608Z",
+  "sha256_hash": "77e92975e2e763848e054832da0c689ecb70936de14ea61ddf2199033cb3f16d",
+  "file_type": {
+    "Other": "bt"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.690367156Z"
+}

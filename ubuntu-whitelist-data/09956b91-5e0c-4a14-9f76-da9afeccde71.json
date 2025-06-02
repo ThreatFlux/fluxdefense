@@ -1,0 +1,17 @@
+{
+  "uuid": "09956b91-5e0c-4a14-9f76-da9afeccde71",
+  "path": "/usr/lib/x86_64-linux-gnu/libmspub-0.1.so.1.0.4",
+  "size": 388104,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:31.529719928Z",
+  "sha256_hash": "53049698e9edde0a37d9955fab06d85f3b8ddac1bc3924026b1ba5f93a339a6f",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.522089028Z"
+}

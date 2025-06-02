@@ -1,0 +1,15 @@
+{
+  "uuid": "61b3f899-c1c5-4213-b986-47baf31b0f99",
+  "path": "/usr/lib/x86_64-linux-gnu/ModemManager/libmm-shared-option.so",
+  "size": 30968,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.161664505Z",
+  "sha256_hash": "a4bd643185b85ce930e1ea1ec10f0c0b02909b521084af18d7b101575058616f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.070229251Z"
+}

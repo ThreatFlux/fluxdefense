@@ -1,0 +1,15 @@
+{
+  "uuid": "14f24e51-a0ce-43bb-8345-8874b7c9f81a",
+  "path": "/usr/lib/x86_64-linux-gnu/libnfsidmap/umich_ldap.so",
+  "size": 43408,
+  "modified": "2024-10-02T12:40:50Z",
+  "created": "2025-05-09T05:07:35.874653624Z",
+  "sha256_hash": "98b2edcc8d9ffe39b758413204544dcfa47b6795d496af8637a83f1bc7837d6d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.747835908Z"
+}

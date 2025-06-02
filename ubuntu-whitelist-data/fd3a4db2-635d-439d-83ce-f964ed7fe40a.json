@@ -1,0 +1,17 @@
+{
+  "uuid": "fd3a4db2-635d-439d-83ce-f964ed7fe40a",
+  "path": "/lib/dhcpcd/dhcpcd-hooks/50-timesyncd.conf",
+  "size": 1260,
+  "modified": "2024-05-07T10:12:01Z",
+  "created": "2025-05-09T05:07:21.655870599Z",
+  "sha256_hash": "5747e3d629b9b4b00a00c1d9acfd1627b1a70cb8af669071e376b4b249320fca",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.434550800Z"
+}

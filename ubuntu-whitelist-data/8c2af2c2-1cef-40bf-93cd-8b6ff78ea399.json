@@ -1,0 +1,17 @@
+{
+  "uuid": "8c2af2c2-1cef-40bf-93cd-8b6ff78ea399",
+  "path": "/usr/lib/python3.12/test/decimaltestdata/ddToIntegral.decTest",
+  "size": 12192,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.992551762Z",
+  "sha256_hash": "8dcabfa9ee4172c5a8e97bd82b8faadb7e790353e1cb9b9a05c05717690bc382",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.977656906Z"
+}

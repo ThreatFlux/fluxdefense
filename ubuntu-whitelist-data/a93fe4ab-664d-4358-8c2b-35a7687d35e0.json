@@ -1,0 +1,15 @@
+{
+  "uuid": "a93fe4ab-664d-4358-8c2b-35a7687d35e0",
+  "path": "/sbin/setvtrgb",
+  "size": 14776,
+  "modified": "2024-03-31T09:02:08Z",
+  "created": "2025-05-09T05:07:38.414614865Z",
+  "sha256_hash": "a2ebaf6f3afa4e83dfcb3e90986ec4458386cca7b1cae9f6622c6b5bf4fc7705",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.040419168Z"
+}

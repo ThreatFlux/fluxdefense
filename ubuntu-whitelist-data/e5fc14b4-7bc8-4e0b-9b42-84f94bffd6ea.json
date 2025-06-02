@@ -1,0 +1,15 @@
+{
+  "uuid": "e5fc14b4-7bc8-4e0b-9b42-84f94bffd6ea",
+  "path": "/usr/lib/pam.d/systemd-user",
+  "size": 364,
+  "modified": "2025-02-18T17:24:37Z",
+  "created": "2025-05-09T05:24:13.508779291Z",
+  "sha256_hash": "78e3e88bd7c242228040dcbcdbae383109508b89a4848b187de77db2520a22ab",
+  "file_type": "Executable",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.243069682Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "ae92a22d-0d43-4348-b046-97b73097a820",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/distros/sles.py",
+  "size": 247,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.238037203Z",
+  "sha256_hash": "9412514b2a1ffac36ac0741586b9daf8cd4c47cae704f0281fe6995e882ff75f",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.838395999Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "368bc4aa-761c-4647-8f47-1db60adef7ff",
+  "path": "/lib/llvm-18/include/clang-tidy/cert/PostfixOperatorCheck.h",
+  "size": 1305,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "86b3323a40baa506347838e6418abf6a14b10f23019b7c58ec28e99c834317f6",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.912207533Z"
+}

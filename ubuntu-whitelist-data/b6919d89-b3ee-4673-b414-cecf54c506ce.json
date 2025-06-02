@@ -1,0 +1,15 @@
+{
+  "uuid": "b6919d89-b3ee-4673-b414-cecf54c506ce",
+  "path": "/usr/sbin/chcpu",
+  "size": 31104,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.137619092Z",
+  "sha256_hash": "dea4cffa6751ecdc6ff78961f4e399cd7e23c7eaad0eb4677ac3b5b25021f763",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.324791085Z"
+}

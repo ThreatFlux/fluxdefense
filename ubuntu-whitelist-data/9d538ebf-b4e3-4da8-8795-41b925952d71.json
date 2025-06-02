@@ -1,0 +1,17 @@
+{
+  "uuid": "9d538ebf-b4e3-4da8-8795-41b925952d71",
+  "path": "/lib/llvm-18/include/clang/AST/AttrIterator.h",
+  "size": 4225,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.514533779Z",
+  "sha256_hash": "777148fa660b017b67e76179fa919542794df81a6ffef7c4707ddb963fc86a8c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.966590580Z"
+}

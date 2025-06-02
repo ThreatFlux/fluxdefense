@@ -1,0 +1,15 @@
+{
+  "uuid": "7dec9642-33e6-4b51-be50-baf4c4a287bb",
+  "path": "/lib/i386-linux-gnu/gconv/IBM256.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.277663461Z",
+  "sha256_hash": "9dd91c9838c821e1089e1bad757f654a29847d320e7a6d4937ee17805690635f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.836037741Z"
+}

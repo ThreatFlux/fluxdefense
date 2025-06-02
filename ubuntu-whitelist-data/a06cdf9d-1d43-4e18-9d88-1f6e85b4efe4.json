@@ -1,0 +1,17 @@
+{
+  "uuid": "a06cdf9d-1d43-4e18-9d88-1f6e85b4efe4",
+  "path": "/usr/lib/firmware/qcom/a530_pm4.fw.zst",
+  "size": 4480,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.969535759Z",
+  "sha256_hash": "bb56acbd2cfc9a3a05b5ed15aad4225b00e6f3a86f09de87b97b4af41ba70140",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.842871145Z"
+}

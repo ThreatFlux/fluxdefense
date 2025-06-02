@@ -1,0 +1,17 @@
+{
+  "uuid": "2fe9c84e-639c-46fb-b5a4-77ff7cf092be",
+  "path": "/lib/x86_64-linux-gnu/libdevmapper-event-lvm2.so.2.03",
+  "size": 14600,
+  "modified": "2024-11-27T19:06:49Z",
+  "created": "2025-05-09T05:56:47.944660527Z",
+  "sha256_hash": "ac0c5f13dcc05dc64b3aadcabe6f118f22aa920ef1990ad4a9c4c91854c12fbc",
+  "file_type": {
+    "Other": "03"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:32.850131489Z"
+}

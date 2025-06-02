@@ -1,0 +1,17 @@
+{
+  "uuid": "cba07a21-5709-49d5-95dd-8afe23c268ee",
+  "path": "/usr/lib/python3.12/test/xmltestdata/c14n-20/doc.xsl",
+  "size": 153,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.053550961Z",
+  "sha256_hash": "286b98ebcecb05850fae4d4c8c666b2b03592b661056d8a8372d8c74610612b9",
+  "file_type": {
+    "Other": "xsl"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.751206685Z"
+}

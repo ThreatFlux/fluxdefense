@@ -1,0 +1,17 @@
+{
+  "uuid": "c7dedfee-386e-4f01-8e62-b77ed03bdfe8",
+  "path": "/lib/modules/6.11.0-25-generic/kernel/block/bfq.ko.zst",
+  "size": 55889,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.497453760Z",
+  "sha256_hash": "1c82deb806650e4ff314240cda70111fa0c73e01058e1f63595597593db52a0d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.637198045Z"
+}

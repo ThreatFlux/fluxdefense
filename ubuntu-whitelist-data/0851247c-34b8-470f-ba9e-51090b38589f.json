@@ -1,0 +1,17 @@
+{
+  "uuid": "0851247c-34b8-470f-ba9e-51090b38589f",
+  "path": "/lib/firmware/mediatek/sof-tplg/sof-mt8186.tplg.zst",
+  "size": 715,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.692539596Z",
+  "sha256_hash": "833eb0652523bebae887ee8266f524dacc23f30e2936801ff0297be52264068d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.129714845Z"
+}

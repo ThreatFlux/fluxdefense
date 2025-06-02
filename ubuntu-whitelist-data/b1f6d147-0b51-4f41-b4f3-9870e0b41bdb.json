@@ -1,0 +1,17 @@
+{
+  "uuid": "b1f6d147-0b51-4f41-b4f3-9870e0b41bdb",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/include/avx512bitalgintrin.h",
+  "size": 8850,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.240389918Z",
+  "sha256_hash": "d6db8fad4fe1c97f8ef4292e659ff66bfc18cd721219c66d38fb2908d9c12fc0",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.927576490Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "243a4a34-96db-4eed-a6c9-66610a9908c2",
+  "path": "/bin/msgfmt",
+  "size": 84576,
+  "modified": "2024-04-08T15:58:30Z",
+  "created": "2025-05-29T11:15:44.958348884Z",
+  "sha256_hash": "4034200f8331fb132faa354b2ca38fcdc9c7d69a70d34bf79152ef38e8c30505",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.328103121Z"
+}

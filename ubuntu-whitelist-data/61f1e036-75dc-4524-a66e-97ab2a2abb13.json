@@ -1,0 +1,15 @@
+{
+  "uuid": "61f1e036-75dc-4524-a66e-97ab2a2abb13",
+  "path": "/sbin/pivot_root",
+  "size": 14720,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.396615139Z",
+  "sha256_hash": "a00d441528221a34c2b6ff69d45dc100a2a6fc337dfedebe2fdc673a023fff2f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.858379457Z"
+}

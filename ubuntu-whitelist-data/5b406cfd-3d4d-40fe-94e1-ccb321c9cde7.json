@@ -1,0 +1,17 @@
+{
+  "uuid": "5b406cfd-3d4d-40fe-94e1-ccb321c9cde7",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-intman.adb",
+  "size": 11356,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.079344750Z",
+  "sha256_hash": "91e6271456dcc77a2bd5a630ef334e84ee54eed22413b5a87712d69b45892f59",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.934148399Z"
+}

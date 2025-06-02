@@ -1,0 +1,17 @@
+{
+  "uuid": "a551d5e8-2e28-4ba3-9e0d-5ec7bd84e61b",
+  "path": "/usr/lib/firmware/amdgpu/hawaii_me.bin.zst",
+  "size": 3874,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.401543627Z",
+  "sha256_hash": "7cad289f1fb9141362a5b28307a5ec56437209379dd0a76610f51fffe3da26a0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.833929635Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "8b3770bb-9023-4598-982e-12fd6e21a076",
+  "path": "/lib/x86_64-linux-gnu/libvpl.so.2.9",
+  "size": 229128,
+  "modified": "2024-04-18T17:47:48Z",
+  "created": "2025-05-09T05:09:17.846097406Z",
+  "sha256_hash": "05395f60a5eb5439714aec65a29f50dbe9a4703abcd19d9359834f2e8b35afef",
+  "file_type": {
+    "Other": "9"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:22.515041988Z"
+}

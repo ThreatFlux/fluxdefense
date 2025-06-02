@@ -1,0 +1,15 @@
+{
+  "uuid": "a84efea0-a5cc-4416-9556-d9998e72bbfa",
+  "path": "/bin/portablectl",
+  "size": 55896,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:56:53.644596502Z",
+  "sha256_hash": "e003ae01bd852682bee88c36b029a9e74121adab466c4dab5031f32782dc7608",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.883133521Z"
+}

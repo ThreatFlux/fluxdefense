@@ -1,0 +1,15 @@
+{
+  "uuid": "5d7c26ff-9b14-410a-bf62-b6f60ae7a52b",
+  "path": "/usr/lib/update-notifier/package-system-locked",
+  "size": 358,
+  "modified": "2024-10-08T13:47:14Z",
+  "created": "2025-05-09T05:24:21.991888836Z",
+  "sha256_hash": "225fe7337491c13744cee13246015dc867677d85290676f0e2907dc93b6c0b5c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.267908918Z"
+}

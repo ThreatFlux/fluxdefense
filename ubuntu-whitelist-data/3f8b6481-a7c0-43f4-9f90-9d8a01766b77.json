@@ -1,0 +1,17 @@
+{
+  "uuid": "3f8b6481-a7c0-43f4-9f90-9d8a01766b77",
+  "path": "/lib/firmware/radeon/KABINI_rlc.bin.zst",
+  "size": 5069,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.060534499Z",
+  "sha256_hash": "6ce894ee1df2dfe6ecfa02b89c4214933467e93f0c51b96bbd039f63c6e4639f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.386751783Z"
+}

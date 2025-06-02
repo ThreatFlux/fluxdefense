@@ -1,0 +1,17 @@
+{
+  "uuid": "303d4c45-d7ed-49e6-920f-ba9bdb02edf9",
+  "path": "/lib/systemd/system/packagekit.service",
+  "size": 392,
+  "modified": "2025-01-08T16:35:09Z",
+  "created": "2025-05-09T05:24:26.874952849Z",
+  "sha256_hash": "d7d40984f72ea0a382c89c79a155c8e55df4ec2a730feb8f8b746706c1307c65",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.115779236Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "03ab922f-d954-4d42-8d85-a17d33c127e1",
+  "path": "/lib/x86_64-linux-gnu/samba/ldb/ldap.so",
+  "size": 22832,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.125634535Z",
+  "sha256_hash": "7d62e0ec34f8f3b660b9fcf1daab69d53b9731f4ffee7c5f1a66a2ce264db56d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.483526975Z"
+}

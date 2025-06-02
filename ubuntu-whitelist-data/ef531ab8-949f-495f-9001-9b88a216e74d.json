@@ -1,0 +1,15 @@
+{
+  "uuid": "ef531ab8-949f-495f-9001-9b88a216e74d",
+  "path": "/lib/x86_64-linux-gnu/colord-sensors/libcolord_sensor_colorhug.so",
+  "size": 22672,
+  "modified": "2024-03-31T07:30:41Z",
+  "created": "2025-05-09T05:07:35.183664169Z",
+  "sha256_hash": "ac760cedcd53de27a748602852ccdb428b83d9b60eff8b8c9de350b7994591b4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.398375902Z"
+}

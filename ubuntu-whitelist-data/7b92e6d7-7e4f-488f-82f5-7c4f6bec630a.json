@@ -1,0 +1,15 @@
+{
+  "uuid": "7b92e6d7-7e4f-488f-82f5-7c4f6bec630a",
+  "path": "/lib/x86_64-linux-gnu/enchant-2/enchant_hspell.so",
+  "size": 60232,
+  "modified": "2024-03-31T07:33:26Z",
+  "created": "2025-05-09T05:07:35.356661529Z",
+  "sha256_hash": "44f96a6963c9cfacc2ca583aaf6a4f1be49f6fbc82e4972047dda55fcedabf5d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:12.231635409Z"
+}

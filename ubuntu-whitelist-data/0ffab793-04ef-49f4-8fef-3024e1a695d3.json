@@ -1,0 +1,17 @@
+{
+  "uuid": "0ffab793-04ef-49f4-8fef-3024e1a695d3",
+  "path": "/lib/x86_64-linux-gnu/libgrilo-0.3.so.0.316.1",
+  "size": 239856,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.832745823Z",
+  "sha256_hash": "4d593827b9e8cd3e37fd5209a59216e7d21cc5f75e24d3395da0057a70874ded",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.196384275Z"
+}

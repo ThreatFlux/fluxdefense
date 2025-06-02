@@ -1,0 +1,17 @@
+{
+  "uuid": "74387e86-b589-4f53-870b-dd6b33ce9e41",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-icl-dmic-4ch.tplg.zst",
+  "size": 532,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.059490968Z",
+  "sha256_hash": "e123c70b77610111b54e4f7d87c39c6787d76adee8516638fd7b36cbcb81abdf",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.889112212Z"
+}

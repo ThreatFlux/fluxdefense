@@ -1,0 +1,17 @@
+{
+  "uuid": "415754bc-bf15-40a7-a5f7-36c408c07f08",
+  "path": "/lib/firmware/amdgpu/raven_dmcu.bin.zst",
+  "size": 11502,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.414543446Z",
+  "sha256_hash": "4e7bb0e17c96bfcc1cf34cf3ec65738d1146fe54971f39196e2a2186c9d40883",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.920119537Z"
+}

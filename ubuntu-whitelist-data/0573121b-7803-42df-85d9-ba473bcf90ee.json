@@ -1,0 +1,17 @@
+{
+  "uuid": "0573121b-7803-42df-85d9-ba473bcf90ee",
+  "path": "/usr/lib/x86_64-linux-gnu/libgstdxva-1.0.so.0.2402.0",
+  "size": 67752,
+  "modified": "2024-04-15T13:00:06Z",
+  "created": "2025-05-09T05:09:28.091941028Z",
+  "sha256_hash": "2e6a20c3d99fa16bbcc33e35257813b8b0b195db64a2ca7f0c72a290c2274435",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.632161371Z"
+}

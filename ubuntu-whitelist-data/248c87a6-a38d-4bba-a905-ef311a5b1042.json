@@ -1,0 +1,17 @@
+{
+  "uuid": "248c87a6-a38d-4bba-a905-ef311a5b1042",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/adainclude/s-exctra.adb",
+  "size": 5454,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.076344791Z",
+  "sha256_hash": "85ec0607b843155296738514ca072213aa7713ae42364a11336a1de529497ab1",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.009601655Z"
+}

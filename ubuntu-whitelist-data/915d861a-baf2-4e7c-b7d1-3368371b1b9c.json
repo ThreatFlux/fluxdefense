@@ -1,0 +1,17 @@
+{
+  "uuid": "915d861a-baf2-4e7c-b7d1-3368371b1b9c",
+  "path": "/lib/firmware/qcom/qcm2290/modemr.jsn",
+  "size": 562,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.998535357Z",
+  "sha256_hash": "d9fb1cfc1804923699b971d0e04d858103ec71ff528d9fd151e4725e0f354eb7",
+  "file_type": {
+    "Other": "jsn"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.958239336Z"
+}

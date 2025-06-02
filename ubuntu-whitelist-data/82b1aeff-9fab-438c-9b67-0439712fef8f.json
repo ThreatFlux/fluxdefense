@@ -1,0 +1,17 @@
+{
+  "uuid": "82b1aeff-9fab-438c-9b67-0439712fef8f",
+  "path": "/usr/lib/firmware/qca/msbtfw11.tlv.zst",
+  "size": 109956,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.967535787Z",
+  "sha256_hash": "43fd4d317f64d85c428cfa7db023abf12e4da1c8bc6dc0f9287e496852ba7748",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.456755817Z"
+}

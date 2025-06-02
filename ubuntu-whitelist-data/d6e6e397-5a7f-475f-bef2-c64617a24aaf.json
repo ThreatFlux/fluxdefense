@@ -1,0 +1,17 @@
+{
+  "uuid": "d6e6e397-5a7f-475f-bef2-c64617a24aaf",
+  "path": "/usr/lib/firmware/xe/lnl_huc.bin.zst",
+  "size": 167181,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.086534138Z",
+  "sha256_hash": "2de21dc8f7a1d1950fbc3da9293b95e96204ccd05c9a704ac622e4d168c83fb0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:01.370225267Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "375ee2e9-0353-440e-90f0-0f0a8dff0f7e",
+  "path": "/usr/lib/firmware/cirrus/cs35l41-dsp1-spk-cali-103c89c3-r0.bin.zst",
+  "size": 1049,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.498542283Z",
+  "sha256_hash": "7fd7740a6980ab403dd32d9818b93145aa80da2f18442366ebe09c4f902fa56e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.324053180Z"
+}

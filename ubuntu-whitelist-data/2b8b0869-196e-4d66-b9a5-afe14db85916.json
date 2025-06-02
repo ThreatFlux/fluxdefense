@@ -1,0 +1,17 @@
+{
+  "uuid": "2b8b0869-196e-4d66-b9a5-afe14db85916",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/NoSanitizeList.h",
+  "size": 1861,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "933db417b5012b1549a8db422f5bb2cc8fc5b9bcd7ec9d797b32cc60d1d136c2",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.500807226Z"
+}

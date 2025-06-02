@@ -1,0 +1,15 @@
+{
+  "uuid": "5060ee37-1372-47d4-8a5a-371bff7dd461",
+  "path": "/bin/dh_fixperms",
+  "size": 5422,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.513341269Z",
+  "sha256_hash": "334424f03fa23fee8e695389a862f55808a59635ee3e3bdfb98c1496727b1402",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.042210554Z"
+}

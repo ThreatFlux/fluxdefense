@@ -1,0 +1,17 @@
+{
+  "uuid": "a92956ea-76e0-45e0-a873-f4bb5895d138",
+  "path": "/usr/lib/udev/hwdb.d/70-pda.hwdb",
+  "size": 926,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.060786348Z",
+  "sha256_hash": "e63bdbcaab2ee101a5007e6428ce9cdcd67cd27ec7c4c120789869d8ea45b1c4",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.116380819Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "743167dc-f6fd-4c3a-803a-cc5f67a2d2cb",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/SuspiciousMissingCommaCheck.h",
+  "size": 1613,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "07fc5ac9d44ad7f08ecd39f86d6d88f5133afb12f19dc8749cbc15ab055dd3a0",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.233399807Z"
+}

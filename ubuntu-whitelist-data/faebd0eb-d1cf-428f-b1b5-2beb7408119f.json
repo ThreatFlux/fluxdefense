@@ -1,0 +1,15 @@
+{
+  "uuid": "faebd0eb-d1cf-428f-b1b5-2beb7408119f",
+  "path": "/sbin/ntfsundelete",
+  "size": 51592,
+  "modified": "2024-04-08T14:46:29Z",
+  "created": "2025-05-09T05:07:38.374615475Z",
+  "sha256_hash": "d647d715781cae2ebd2c0493b593a4ad612e0f4cb63a7d23706a993f09fa661f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.140208790Z"
+}

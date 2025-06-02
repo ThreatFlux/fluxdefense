@@ -1,0 +1,17 @@
+{
+  "uuid": "e2e966c7-11a4-4d65-8090-3c28b3456dff",
+  "path": "/usr/lib/firmware/qat_420xx_mmp.bin.zst",
+  "size": 64245,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.965535814Z",
+  "sha256_hash": "0e210be48cbf1346d6f1c052bea01e3754d1aac97419651b252613a9062d1d6d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.668908126Z"
+}

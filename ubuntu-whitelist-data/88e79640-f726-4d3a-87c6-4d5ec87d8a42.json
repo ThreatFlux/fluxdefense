@@ -1,0 +1,15 @@
+{
+  "uuid": "88e79640-f726-4d3a-87c6-4d5ec87d8a42",
+  "path": "/lib/x86_64-linux-gnu/plymouth/tribar.so",
+  "size": 23376,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:27.492960998Z",
+  "sha256_hash": "9c9c454223de7f927770bace865dbaafd5f2c832740667d34e1403a84fef3d8e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.621764644Z"
+}

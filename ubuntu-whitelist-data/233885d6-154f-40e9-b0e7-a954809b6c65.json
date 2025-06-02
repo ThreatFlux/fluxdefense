@@ -1,0 +1,17 @@
+{
+  "uuid": "233885d6-154f-40e9-b0e7-a954809b6c65",
+  "path": "/usr/lib/firmware/amdgpu/gc_10_3_7_ce.bin.zst",
+  "size": 4410,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.394543723Z",
+  "sha256_hash": "f9af1e4ab97758815903b898b2163a01b7a8d0ce195d0d8274b83efdb03b3027",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.950355339Z"
+}

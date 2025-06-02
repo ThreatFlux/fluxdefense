@@ -1,0 +1,17 @@
+{
+  "uuid": "08a209bd-b889-4918-9472-daeab430a8fc",
+  "path": "/lib/firmware/intel/dsp_fw_glk_v2768.bin.zst",
+  "size": 178164,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.548541590Z",
+  "sha256_hash": "249f3bc135c5ff93d26816b2515683a2fe059f1086d9d3eaa2183ad861f4f4d9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.006783595Z"
+}

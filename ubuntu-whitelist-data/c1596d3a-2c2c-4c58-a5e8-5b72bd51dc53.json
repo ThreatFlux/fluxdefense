@@ -1,0 +1,17 @@
+{
+  "uuid": "c1596d3a-2c2c-4c58-a5e8-5b72bd51dc53",
+  "path": "/lib/x86_64-linux-gnu/libgdk-3.so.0.2409.32",
+  "size": 1022416,
+  "modified": "2025-01-27T19:56:56Z",
+  "created": "2025-05-09T05:24:16.537818153Z",
+  "sha256_hash": "0b52fb8111e4baf38d469d1fa0b0c49f166faa41bbcde1494221232302829dea",
+  "file_type": {
+    "Other": "32"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:32.873612187Z"
+}

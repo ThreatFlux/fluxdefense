@@ -1,0 +1,17 @@
+{
+  "uuid": "f5f4737a-148b-4213-a330-f686d64aa1df",
+  "path": "/usr/lib/x86_64-linux-gnu/libwinpr3.so.3.5.1",
+  "size": 1254952,
+  "modified": "2024-04-29T14:25:11Z",
+  "created": "2025-05-09T05:07:35.000666961Z",
+  "sha256_hash": "17444012e231d702633cb5b604595df71c3c1f8b2b33a40b202691328f2e8710",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.129724303Z"
+}

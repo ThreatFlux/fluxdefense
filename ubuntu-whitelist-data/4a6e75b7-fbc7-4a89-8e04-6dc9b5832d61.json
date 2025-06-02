@@ -1,0 +1,17 @@
+{
+  "uuid": "4a6e75b7-fbc7-4a89-8e04-6dc9b5832d61",
+  "path": "/lib/x86_64-linux-gnu/libk5crypto.so.3.1",
+  "size": 178648,
+  "modified": "2025-05-15T08:09:20Z",
+  "created": "2025-05-29T10:40:03.771607758Z",
+  "sha256_hash": "8394027f2be7c2cc7b2da4797476a8b688a21f75ee231941fa2df8d00ba79d08",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.737309016Z"
+}

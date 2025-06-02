@@ -1,0 +1,17 @@
+{
+  "uuid": "6005ae9f-3f07-499c-b70d-2b43bdb65336",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/Sys/Syslog.pm",
+  "size": 47897,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.519591312Z",
+  "sha256_hash": "b51724338f0b66c9d120169264d83a3ea6235e0468a22cddcb3087938a507abd",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.695801768Z"
+}

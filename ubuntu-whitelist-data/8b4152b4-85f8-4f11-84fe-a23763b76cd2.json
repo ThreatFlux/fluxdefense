@@ -1,0 +1,17 @@
+{
+  "uuid": "8b4152b4-85f8-4f11-84fe-a23763b76cd2",
+  "path": "/usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4",
+  "size": 317752,
+  "modified": "2024-08-09T02:33:22Z",
+  "created": "2025-05-09T05:07:29.291754078Z",
+  "sha256_hash": "a6ae7b4ef48562b40d7b9ba8efd2e49f6528b7cc6364bea382dcee4b473b5413",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.981131841Z"
+}

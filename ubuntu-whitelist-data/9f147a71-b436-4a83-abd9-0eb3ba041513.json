@@ -1,0 +1,17 @@
+{
+  "uuid": "9f147a71-b436-4a83-abd9-0eb3ba041513",
+  "path": "/usr/lib/llvm-18/include/clang/AST/TemplateName.h",
+  "size": 21717,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.521533687Z",
+  "sha256_hash": "6ce2f91052b81585d55ccb9c3c408df73dd49e4bea1daec75201832f6017cc6d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.393825878Z"
+}

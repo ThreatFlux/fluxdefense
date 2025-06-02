@@ -1,0 +1,15 @@
+{
+  "uuid": "7d21a232-19c0-41f8-90e7-e9ece0103da6",
+  "path": "/lib/x86_64-linux-gnu/colord-sensors/libcolord_sensor_dtp94.so",
+  "size": 22672,
+  "modified": "2024-03-31T07:30:41Z",
+  "created": "2025-05-09T05:07:35.183664169Z",
+  "sha256_hash": "7e07699bead88105cbece3943cec1658357cbeff3114d95b2fb1d7f7ea96906c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.398678737Z"
+}

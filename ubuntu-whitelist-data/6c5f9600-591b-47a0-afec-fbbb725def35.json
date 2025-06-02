@@ -1,0 +1,17 @@
+{
+  "uuid": "6c5f9600-591b-47a0-afec-fbbb725def35",
+  "path": "/lib/firmware/mediatek/mt7916_rom_patch.bin.zst",
+  "size": 5105,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.680539762Z",
+  "sha256_hash": "9888329d0dd1d4632f499b42c2c8b737e965d577d141a7c2ecf813759fcc3ee6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.146349357Z"
+}

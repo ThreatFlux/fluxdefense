@@ -1,0 +1,17 @@
+{
+  "uuid": "6fabedb9-d0be-4f5d-9254-16450d984fd7",
+  "path": "/lib/llvm-18/include/clang/Basic/PlistSupport.h",
+  "size": 4040,
+  "modified": "2024-01-03T13:06:20Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "7c65466dfea62f5235b35444802cbf4d4aae5c1025eec5df870f3f6c372f0ece",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.165413489Z"
+}

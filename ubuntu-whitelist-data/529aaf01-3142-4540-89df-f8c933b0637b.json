@@ -1,0 +1,17 @@
+{
+  "uuid": "529aaf01-3142-4540-89df-f8c933b0637b",
+  "path": "/lib/x86_64-linux-gnu/libnssdbm3.chk",
+  "size": 84,
+  "modified": "2024-04-08T16:14:43Z",
+  "created": "2025-05-09T05:07:31.750716555Z",
+  "sha256_hash": "ae9aa35b2b5aa3d47240617bb7ce21ec660524e9cac2c1c15eb998ddee2daadb",
+  "file_type": {
+    "Other": "chk"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.765136672Z"
+}

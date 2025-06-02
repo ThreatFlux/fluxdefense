@@ -1,0 +1,17 @@
+{
+  "uuid": "d3b1b33f-3fc3-4a38-9c70-7e8cb1bfe5ee",
+  "path": "/usr/lib/firmware/sdd_sagrad_1091_1098.bin.zst",
+  "size": 549,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.073534319Z",
+  "sha256_hash": "c5b87d3befe7c8191577439750ee71855257c9f870f9e8e81f1ddb9f4600e742",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:57.043907691Z"
+}

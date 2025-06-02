@@ -1,0 +1,17 @@
+{
+  "uuid": "664e28c5-f02f-4357-9bc5-3106652c77f9",
+  "path": "/lib/firmware/qca/htnv20.bin.zst",
+  "size": 2474,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.967535787Z",
+  "sha256_hash": "125e2aa0445dcb5c285ca76a181e4383ef78bcf405e4674567ef2e29adcb6249",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.176064777Z"
+}

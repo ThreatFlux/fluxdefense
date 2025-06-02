@@ -1,0 +1,17 @@
+{
+  "uuid": "03db5c41-317b-441a-b43e-98686b662f45",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/g-exptty.ali",
+  "size": 13439,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.108344351Z",
+  "sha256_hash": "b1a41e51ebfe00851ee5c0e34c9913b40f982bb8c37e3bf531992aa8740891ae",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.483880964Z"
+}

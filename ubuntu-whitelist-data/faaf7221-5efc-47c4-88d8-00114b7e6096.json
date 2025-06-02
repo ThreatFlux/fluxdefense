@@ -1,0 +1,17 @@
+{
+  "uuid": "faaf7221-5efc-47c4-88d8-00114b7e6096",
+  "path": "/usr/lib/firmware/ql2322_fw.bin.zst",
+  "size": 68495,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.057534540Z",
+  "sha256_hash": "873ca40a3ea3ff4a891c0c9715cafa2a395185738f093e81af03ab0b91452951",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.562028989Z"
+}

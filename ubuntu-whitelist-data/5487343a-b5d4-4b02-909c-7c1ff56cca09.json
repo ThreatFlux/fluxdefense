@@ -1,0 +1,15 @@
+{
+  "uuid": "5487343a-b5d4-4b02-909c-7c1ff56cca09",
+  "path": "/bin/cvtsudoers",
+  "size": 328832,
+  "modified": "2024-04-08T14:50:39Z",
+  "created": "2025-05-09T05:07:19.138909006Z",
+  "sha256_hash": "7ef37ff1ac73f2bf37bc131f89441ca812098f80cffb7ad9ae91f4370e881537",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.453336676Z"
+}

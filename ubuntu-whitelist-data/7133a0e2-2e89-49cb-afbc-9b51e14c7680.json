@@ -1,0 +1,17 @@
+{
+  "uuid": "7133a0e2-2e89-49cb-afbc-9b51e14c7680",
+  "path": "/usr/lib/x86_64-linux-gnu/libfreehand-0.1.so.1.0.2",
+  "size": 420944,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.484751133Z",
+  "sha256_hash": "4a3d9a7006fca71d229b55c5e7d9b450357bc180eead2e97202e5b29aa948e09",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.115976970Z"
+}

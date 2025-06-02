@@ -1,0 +1,17 @@
+{
+  "uuid": "0884c907-0c5f-43cb-8998-d2dd9540955a",
+  "path": "/lib/x86_64-linux-gnu/libplacebo.so.338",
+  "size": 8827616,
+  "modified": "2024-03-31T07:55:41Z",
+  "created": "2025-05-09T05:09:25.160985762Z",
+  "sha256_hash": "c796e73dc5ae2f3989083cb3366fa8d8c0989e9f305ba3c0d109b295fac44c5b",
+  "file_type": {
+    "Other": "338"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.736363771Z"
+}

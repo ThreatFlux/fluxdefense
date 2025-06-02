@@ -1,0 +1,17 @@
+{
+  "uuid": "9cf39403-6ca3-4730-bae9-a5166ba28633",
+  "path": "/usr/lib/x86_64-linux-gnu/libXRes.so.1.0.0",
+  "size": 18744,
+  "modified": "2024-04-08T16:10:17Z",
+  "created": "2025-05-09T05:07:29.060757603Z",
+  "sha256_hash": "c2aefa4bf373492430f48aec108c5ead95e1dc757d52968775e905e23a2ad56c",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:25.520242025Z"
+}

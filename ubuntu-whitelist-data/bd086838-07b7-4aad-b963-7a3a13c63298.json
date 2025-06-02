@@ -1,0 +1,17 @@
+{
+  "uuid": "bd086838-07b7-4aad-b963-7a3a13c63298",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/builds/reject.yaml",
+  "size": 983,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.664933093Z",
+  "sha256_hash": "8276edd6bbd17fb3457eadaf4895b75b867927d1ea8692703a6648b06fc8355e",
+  "file_type": {
+    "Other": "yaml"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.830053922Z"
+}

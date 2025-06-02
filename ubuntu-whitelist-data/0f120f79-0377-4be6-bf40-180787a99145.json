@@ -1,0 +1,15 @@
+{
+  "uuid": "0f120f79-0377-4be6-bf40-180787a99145",
+  "path": "/sbin/lvmpolld",
+  "size": 241632,
+  "modified": "2024-11-27T19:06:49Z",
+  "created": "2025-05-09T05:56:54.633585394Z",
+  "sha256_hash": "2cd073876e97c2d25d33ed948c24f6893a1623557a09816ac90a123e47bd4ebb",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.153012714Z"
+}

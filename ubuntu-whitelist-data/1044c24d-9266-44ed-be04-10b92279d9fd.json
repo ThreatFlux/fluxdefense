@@ -1,0 +1,17 @@
+{
+  "uuid": "1044c24d-9266-44ed-be04-10b92279d9fd",
+  "path": "/usr/lib/systemd/system/systemd-hwdb-update.service",
+  "size": 834,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:14.044786143Z",
+  "sha256_hash": "6cf7fde4df7681b9a581e1c4440cded4bc390128256dc04a1a66916ab6f3d7f7",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.483959989Z"
+}

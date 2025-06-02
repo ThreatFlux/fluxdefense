@@ -1,0 +1,17 @@
+{
+  "uuid": "9ebfff6c-6cf3-435c-bd80-144a1989744c",
+  "path": "/usr/lib/x86_64-linux-gnu/samba/libprocess-model-samba4.so.0",
+  "size": 14648,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.084635161Z",
+  "sha256_hash": "77250d1fac9c0b503798e8b3ae63dd969aa66bf083814f169d83e0ba50ff1fc2",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.346800175Z"
+}

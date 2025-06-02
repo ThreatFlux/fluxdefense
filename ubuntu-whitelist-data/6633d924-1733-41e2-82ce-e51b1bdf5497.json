@@ -1,0 +1,15 @@
+{
+  "uuid": "6633d924-1733-41e2-82ce-e51b1bdf5497",
+  "path": "/usr/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-combine-stream.so",
+  "size": 67856,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.780860075Z",
+  "sha256_hash": "7a99c020a6482c23143b2b59d48823707331b8ac13e7bb2f596ccabff8c54f29",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.405217016Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "1dc689fc-dc76-43f0-b2ba-b5a0d817fb44",
+  "path": "/bin/ctr",
+  "size": 29800040,
+  "modified": "2025-03-31T12:35:03Z",
+  "created": "2025-05-09T05:49:09.948887349Z",
+  "sha256_hash": "f37dc6ba905c9ad4d9dad9156d391ef363c2e6abf6558f6fe65338198bb7dadb",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:16.602387404Z"
+}

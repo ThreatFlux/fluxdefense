@@ -1,0 +1,17 @@
+{
+  "uuid": "4bde11c5-6c72-4f55-b78b-2b6690e86118",
+  "path": "/lib/firmware/ath11k/IPQ5018/hw1.0/m3_fw.mdt.zst",
+  "size": 186,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.447542989Z",
+  "sha256_hash": "c4cc7cede2eafd4f9b3fa49d8880bf9f4270806cc67e93e81772c4868deb010b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:03.330695685Z"
+}

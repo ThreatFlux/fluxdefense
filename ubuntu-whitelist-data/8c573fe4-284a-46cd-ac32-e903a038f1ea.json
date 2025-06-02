@@ -1,0 +1,17 @@
+{
+  "uuid": "8c573fe4-284a-46cd-ac32-e903a038f1ea",
+  "path": "/lib/x86_64-linux-gnu/libtiff.so.6.0.1",
+  "size": 575656,
+  "modified": "2024-09-05T13:59:36Z",
+  "created": "2025-05-09T05:07:32.318707888Z",
+  "sha256_hash": "e9406982cacbafc945576ff23100c20f74989ca74d94432c24fc1a184dbca482",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.427641667Z"
+}

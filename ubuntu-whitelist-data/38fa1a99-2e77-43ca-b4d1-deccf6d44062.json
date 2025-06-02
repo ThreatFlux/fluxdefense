@@ -1,0 +1,15 @@
+{
+  "uuid": "38fa1a99-2e77-43ca-b4d1-deccf6d44062",
+  "path": "/lib/i386-linux-gnu/gconv/UTF-7.so",
+  "size": 25996,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.284663355Z",
+  "sha256_hash": "7bb3e480401f8aad7606cac71585c9630e8bd7a20460c3d6c16126ffd97df8fa",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.867942434Z"
+}

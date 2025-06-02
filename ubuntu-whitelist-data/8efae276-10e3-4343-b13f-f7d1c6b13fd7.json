@@ -1,0 +1,17 @@
+{
+  "uuid": "8efae276-10e3-4343-b13f-f7d1c6b13fd7",
+  "path": "/usr/lib/llvm-18/include/clang/AST/CommentCommandTraits.h",
+  "size": 5999,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.515533766Z",
+  "sha256_hash": "7312228ee4acd20c8b85be68519a6420b4379caf6253799e48ce227b5ae2dde5",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.406835766Z"
+}

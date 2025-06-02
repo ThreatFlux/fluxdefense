@@ -1,0 +1,17 @@
+{
+  "uuid": "575a20af-07b3-4eb1-adfb-7d4f5e2a44e4",
+  "path": "/lib/systemd/user/org.gnome.Evince.service",
+  "size": 154,
+  "modified": "2024-10-15T07:35:01Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "fefd6b52fec33ae9c6da9b269e35b44787fd7d42d36a92265435fba0835afb92",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.144082968Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f9bc1e89-1431-4678-a817-752b435f0283",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/dbus-1.pc",
+  "size": 648,
+  "modified": "2024-08-09T02:33:22Z",
+  "created": "2025-05-29T11:16:20.617859573Z",
+  "sha256_hash": "edf039e208120b50f05a30f9e717e0227e14d71d096fd9e5a25f2493d8d85c9a",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.058535513Z"
+}

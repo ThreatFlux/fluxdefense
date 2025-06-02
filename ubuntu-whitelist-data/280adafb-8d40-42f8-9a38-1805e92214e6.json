@@ -1,0 +1,15 @@
+{
+  "uuid": "280adafb-8d40-42f8-9a38-1805e92214e6",
+  "path": "/usr/libexec/dconf-service",
+  "size": 76008,
+  "modified": "2024-03-31T00:51:04Z",
+  "created": "2025-05-09T05:07:37.410630186Z",
+  "sha256_hash": "68a0b29564eb76658515a019a77d4f7e66f65b9bbadff8292b9152e77a8f87e9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.483272787Z"
+}

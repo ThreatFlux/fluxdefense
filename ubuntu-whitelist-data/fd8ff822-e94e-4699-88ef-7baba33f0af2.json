@@ -1,0 +1,15 @@
+{
+  "uuid": "fd8ff822-e94e-4699-88ef-7baba33f0af2",
+  "path": "/sbin/ipmaddr",
+  "size": 18744,
+  "modified": "2025-05-28T13:23:35Z",
+  "created": "2025-05-29T10:40:06.155574736Z",
+  "sha256_hash": "496666f1d890f2f36431495a0c10e9762dfda962cce314c4f44be588d847346a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.048644447Z"
+}

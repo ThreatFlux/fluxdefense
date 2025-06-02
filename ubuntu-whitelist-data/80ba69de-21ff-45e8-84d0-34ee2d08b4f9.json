@@ -1,0 +1,15 @@
+{
+  "uuid": "80ba69de-21ff-45e8-84d0-34ee2d08b4f9",
+  "path": "/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-vban-recv.so",
+  "size": 76048,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.786860153Z",
+  "sha256_hash": "f93de0c52be3dbc7cf769e545ed6b39fbf14a0ad76bb4e2e7f7e39cd32f26543",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.886669975Z"
+}

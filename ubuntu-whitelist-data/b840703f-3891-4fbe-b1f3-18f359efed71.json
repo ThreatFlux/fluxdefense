@@ -1,0 +1,17 @@
+{
+  "uuid": "b840703f-3891-4fbe-b1f3-18f359efed71",
+  "path": "/lib/x86_64-linux-gnu/libboost_iostreams.so.1.83.0",
+  "size": 92336,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.183755726Z",
+  "sha256_hash": "8b3dd269de9d164fe3dd45750bfa407724b6b2af2a0f244c6381dd093d8a3d9f",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.682131712Z"
+}

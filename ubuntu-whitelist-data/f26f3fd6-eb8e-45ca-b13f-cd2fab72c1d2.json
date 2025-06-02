@@ -1,0 +1,17 @@
+{
+  "uuid": "f26f3fd6-eb8e-45ca-b13f-cd2fab72c1d2",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/harfbuzz-icu.pc",
+  "size": 292,
+  "modified": "2024-03-31T01:19:37Z",
+  "created": "2025-05-29T11:16:06.885048018Z",
+  "sha256_hash": "43d5a43fc98544bb5c3b507fb3492bac8fc29d49b1486d79f684487ae3fbf34f",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.063023939Z"
+}

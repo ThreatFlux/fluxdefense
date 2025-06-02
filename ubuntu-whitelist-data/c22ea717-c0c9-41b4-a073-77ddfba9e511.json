@@ -1,0 +1,17 @@
+{
+  "uuid": "c22ea717-c0c9-41b4-a073-77ddfba9e511",
+  "path": "/lib/python3.12/test/decimaltestdata/ddNextToward.decTest",
+  "size": 24990,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.991551775Z",
+  "sha256_hash": "4a33114001d531b601d932959d05b8ec17a31f9d541a9a7670b1580967e04517",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.428235704Z"
+}

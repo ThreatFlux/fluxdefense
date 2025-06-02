@@ -1,0 +1,15 @@
+{
+  "uuid": "f8de97b5-7687-4b82-a05c-7070be0e5214",
+  "path": "/usr/libexec/fwupd/efi/version",
+  "size": 6,
+  "modified": "2023-03-07T12:32:57Z",
+  "created": "2025-05-09T05:07:37.598627317Z",
+  "sha256_hash": "4eeb18641a2d87ecfcd51b4555c9bdd30b084c8cd5114c0ef28199adcc34a4b8",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.493682043Z"
+}

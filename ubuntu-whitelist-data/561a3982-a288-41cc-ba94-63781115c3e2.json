@@ -1,0 +1,17 @@
+{
+  "uuid": "561a3982-a288-41cc-ba94-63781115c3e2",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/kn_dict",
+  "size": 87828,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.456660003Z",
+  "sha256_hash": "c51e0385937b407b36c02fd2c85dfecdc5cac411398ee8a74eca15b35617af64",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.276375810Z"
+}

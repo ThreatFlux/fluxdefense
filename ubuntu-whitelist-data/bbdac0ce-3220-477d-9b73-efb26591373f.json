@@ -1,0 +1,15 @@
+{
+  "uuid": "bbdac0ce-3220-477d-9b73-efb26591373f",
+  "path": "/bin/systemd-socket-activate",
+  "size": 31176,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.506779266Z",
+  "sha256_hash": "1b96fa48b05ab5ca9ae6069f12d76de1b0914d4739e1ffe9fcc493129ed85548",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.386246605Z"
+}

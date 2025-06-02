@@ -1,0 +1,17 @@
+{
+  "uuid": "ee359a04-a4fe-4849-a81f-c2a127afd8a4",
+  "path": "/lib/firmware/amdgpu/hawaii_smc.bin.zst",
+  "size": 43149,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.401543627Z",
+  "sha256_hash": "1fc523c9ae45724945d7b54d15a8cbbbefbc483a841ddd1ac58e655f22dea7a7",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.929428172Z"
+}

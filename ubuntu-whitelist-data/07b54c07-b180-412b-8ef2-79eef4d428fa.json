@@ -1,0 +1,17 @@
+{
+  "uuid": "07b54c07-b180-412b-8ef2-79eef4d428fa",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/libpulse-simple.pc",
+  "size": 341,
+  "modified": "2024-12-10T08:35:27Z",
+  "created": "2025-05-29T11:16:27.047771337Z",
+  "sha256_hash": "7f4bd9ff4223e324844bba34f1465033853e28ef87972d7263fd4ec6f527de66",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.106507246Z"
+}

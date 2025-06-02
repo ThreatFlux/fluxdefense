@@ -1,0 +1,15 @@
+{
+  "uuid": "964c9609-e733-4fdc-8a6d-c6e6c704a034",
+  "path": "/usr/bin/l2ping",
+  "size": 14656,
+  "modified": "2025-02-25T06:11:15Z",
+  "created": "2025-05-09T05:24:15.925810275Z",
+  "sha256_hash": "27faffd7c5da73ac5e7a027dac8d86ad8275f6f3a7be603eff656113635bc8a3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:10.189024081Z"
+}

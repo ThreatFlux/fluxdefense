@@ -1,0 +1,15 @@
+{
+  "uuid": "5731f467-b4a2-4687-822c-c78a6aec0515",
+  "path": "/lib/libreoffice/program/libsdlo.so",
+  "size": 8870224,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:19.323243227Z",
+  "sha256_hash": "4489d827e1bc94fddb1c48aa2b80f6fda427e250cfdc6be726ccbd0d0f692eeb",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:49.930502559Z"
+}

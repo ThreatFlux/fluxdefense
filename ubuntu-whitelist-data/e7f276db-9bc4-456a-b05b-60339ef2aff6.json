@@ -1,0 +1,17 @@
+{
+  "uuid": "e7f276db-9bc4-456a-b05b-60339ef2aff6",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/include/avx512vbmi2intrin.h",
+  "size": 19810,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.242389875Z",
+  "sha256_hash": "19f9ec451b6860f0bc5963fe31bf4e71359b5013accd1708edd8772d791b818f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.923651466Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "a1d2dc9e-b944-43bc-b8e7-ae932e58818a",
+  "path": "/usr/lib/llvm-18/lib/libclangDirectoryWatcher.a",
+  "size": 54140,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.696531382Z",
+  "sha256_hash": "437ca6afcc8094de34db06f0a004b99a2d98a3dc3a98096f99c01a0a87859038",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:35.456605861Z"
+}

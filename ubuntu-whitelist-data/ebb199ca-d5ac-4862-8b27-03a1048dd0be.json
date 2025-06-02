@@ -1,0 +1,17 @@
+{
+  "uuid": "ebb199ca-d5ac-4862-8b27-03a1048dd0be",
+  "path": "/usr/lib/firmware/mrvl/sd8887_uapsta.bin.zst",
+  "size": 412636,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.887536895Z",
+  "sha256_hash": "99b5739a0a8c5df04aa49d32c1db041c2ef234c578e8f73b184016995fd9ff02",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.444312927Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "23b6b96c-8d0c-4ffb-80ad-1ddd6939e3b2",
+  "path": "/usr/sbin/rdmaucma-bpfcc",
+  "size": 5073,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.522499164Z",
+  "sha256_hash": "043fd470b103b496388a8b70e35586395f0b669fa2afe5b7b9845a40ad74c3aa",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.381012323Z"
+}

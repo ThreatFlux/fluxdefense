@@ -1,0 +1,17 @@
+{
+  "uuid": "63abaf53-f185-410c-a7ad-dc3233c83160",
+  "path": "/lib/x86_64-linux-gnu/libgraphite2.so.3.2.1",
+  "size": 149776,
+  "modified": "2024-04-08T15:58:36Z",
+  "created": "2025-05-09T05:07:29.832745823Z",
+  "sha256_hash": "2034ccc849a95b68472bc54d45bd9f396964d2c3ceab4bca23241195fe6e2809",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.488925634Z"
+}

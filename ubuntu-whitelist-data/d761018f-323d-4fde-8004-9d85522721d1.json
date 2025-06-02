@@ -1,0 +1,17 @@
+{
+  "uuid": "d761018f-323d-4fde-8004-9d85522721d1",
+  "path": "/lib/grub/x86_64-efi/minix2_be.mod",
+  "size": 6176,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.814708369Z",
+  "sha256_hash": "9541945ed611ff9934cbdee7941f64a2aadd3d4073fc05bf789a2867a8c2b97a",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.052862512Z"
+}

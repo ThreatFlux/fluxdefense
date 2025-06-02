@@ -1,0 +1,15 @@
+{
+  "uuid": "df9eaee7-50cb-41bb-8b66-8ef9a4744f11",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/GOST_19768-74.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.624657440Z",
+  "sha256_hash": "284e8f006169c388d855d423bf17371728d106fe1a1bc5838d3e5b8f1e6638ae",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.559035447Z"
+}

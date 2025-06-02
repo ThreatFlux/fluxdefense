@@ -1,0 +1,17 @@
+{
+  "uuid": "a719b598-a1c1-400e-9d61-c31653f16e10",
+  "path": "/usr/lib/ipxe/qemu/efi-ne2k_pci.rom",
+  "size": 524288,
+  "modified": "2024-04-16T21:17:04Z",
+  "created": "2025-05-09T05:56:50.414632781Z",
+  "sha256_hash": "60c92acb8ccccc41aa92897578fdad781c5e9a5eefee1ee1f86516c78dda1690",
+  "file_type": {
+    "Other": "rom"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.356551249Z"
+}

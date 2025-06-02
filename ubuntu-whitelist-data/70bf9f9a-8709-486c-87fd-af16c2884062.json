@@ -1,0 +1,15 @@
+{
+  "uuid": "70bf9f9a-8709-486c-87fd-af16c2884062",
+  "path": "/bin/pkcon",
+  "size": 55608,
+  "modified": "2025-01-08T16:35:09Z",
+  "created": "2025-05-09T05:24:26.722950848Z",
+  "sha256_hash": "1836e9bbc2fcc6d01d2bb7b12c400d5af9e9f1316b835a912ad41cb79146fa6c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.814005436Z"
+}

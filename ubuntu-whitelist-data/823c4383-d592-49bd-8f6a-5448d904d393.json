@@ -1,0 +1,17 @@
+{
+  "uuid": "823c4383-d592-49bd-8f6a-5448d904d393",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/cairo-gobject.pc",
+  "size": 471,
+  "modified": "2024-04-16T13:33:30Z",
+  "created": "2025-05-29T11:16:06.229057020Z",
+  "sha256_hash": "1f0e3f72495731f581a7d0015b3dabffc8bddc753e1f2a18ec275060712a20f6",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.056076965Z"
+}

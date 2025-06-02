@@ -1,0 +1,17 @@
+{
+  "uuid": "a6533a3a-c74c-4847-a5bd-ff81cbe2d175",
+  "path": "/usr/lib/firmware/wil6210.brd.zst",
+  "size": 1539,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.084534166Z",
+  "sha256_hash": "24bab24b2427f47e2c88d4f24fd3fcd67f0c63ac77b2db26c40871f757ad8b02",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.532130391Z"
+}

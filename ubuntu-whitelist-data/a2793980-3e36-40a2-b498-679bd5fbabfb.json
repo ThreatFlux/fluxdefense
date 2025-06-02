@@ -1,0 +1,15 @@
+{
+  "uuid": "a2793980-3e36-40a2-b498-679bd5fbabfb",
+  "path": "/usr/lib/x86_64-linux-gnu/NetworkManager/1.46.0/libnm-wwan.so",
+  "size": 96488,
+  "modified": "2024-10-23T11:04:42Z",
+  "created": "2025-05-09T05:07:35.176664276Z",
+  "sha256_hash": "bb18c823e1e60e3ba5576d384d46cb794f3e3818a9966dfcf2ee0d0da5a40c12",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.117312356Z"
+}

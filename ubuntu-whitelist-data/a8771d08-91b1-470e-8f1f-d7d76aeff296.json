@@ -1,0 +1,15 @@
+{
+  "uuid": "a8771d08-91b1-470e-8f1f-d7d76aeff296",
+  "path": "/usr/sbin/ufw",
+  "size": 4959,
+  "modified": "2024-03-11T13:18:21Z",
+  "created": "2025-05-09T05:07:38.448614346Z",
+  "sha256_hash": "e2ff4f8178807f04b411aad08315d875cb915ce8d9aa5895703bb7f0055e5d28",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.652326959Z"
+}

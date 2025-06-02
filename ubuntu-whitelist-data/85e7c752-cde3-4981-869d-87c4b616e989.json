@@ -1,0 +1,15 @@
+{
+  "uuid": "85e7c752-cde3-4981-869d-87c4b616e989",
+  "path": "/usr/sbin/useradd",
+  "size": 143232,
+  "modified": "2024-05-30T14:52:35Z",
+  "created": "2025-05-09T05:07:38.454614255Z",
+  "sha256_hash": "cf687323ab26e097237f5e106bf2a461f699840489ffe97871ca8111a2a220bd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.246565071Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c30251a5-4f63-4034-85fb-dc078033257f",
+  "path": "/lib/x86_64-linux-gnu/libsndio.so.7.2",
+  "size": 68064,
+  "modified": "2024-04-07T07:23:08Z",
+  "created": "2025-05-12T13:32:32.053106604Z",
+  "sha256_hash": "e7ce0d18eb8dd47edd102d5d08da6032257db0f2c1fbbb56125eb7c5e03db10a",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.126094955Z"
+}

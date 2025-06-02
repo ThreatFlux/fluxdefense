@@ -1,0 +1,17 @@
+{
+  "uuid": "de9aa865-0f10-4e97-a45b-aa9f2733a6b0",
+  "path": "/lib/x86_64-linux-gnu/libburn.so.4.109.0",
+  "size": 310056,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.197755513Z",
+  "sha256_hash": "e65940512665cf39fc2d0a5b3cd4cfe014f3c051f9ebd362a106a003381d1f1e",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:25.293700122Z"
+}

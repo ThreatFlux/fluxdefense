@@ -1,0 +1,17 @@
+{
+  "uuid": "ed2ab223-5da6-43ae-a6e8-4fedeb0b0aa5",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-canon_dr.so.1.2.1",
+  "size": 219392,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.129634474Z",
+  "sha256_hash": "72fa4f609070a0f3d8573908bfe1f1e0f1a5dff05990149596157e5c2896dc2e",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.224582898Z"
+}

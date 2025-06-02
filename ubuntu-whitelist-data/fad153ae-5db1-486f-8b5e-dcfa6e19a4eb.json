@@ -1,0 +1,17 @@
+{
+  "uuid": "fad153ae-5db1-486f-8b5e-dcfa6e19a4eb",
+  "path": "/usr/lib/i386-linux-gnu/libz.so.1.3",
+  "size": 108000,
+  "modified": "2024-08-09T02:33:20Z",
+  "created": "2025-05-09T05:09:47.053651617Z",
+  "sha256_hash": "237868c957848f34b2bd84d2ac5d56076117dc07ac9eccd1a050e32cb6e3f5fd",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:41.054274030Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "11c01702-7f2b-41ee-a79b-f1d55a31da4d",
+  "path": "/sbin/fstab-decode",
+  "size": 14648,
+  "modified": "2024-04-08T16:20:36Z",
+  "created": "2025-05-09T05:07:38.203618085Z",
+  "sha256_hash": "17b1ab343efaec03ea97a1946977edcb57635866207359a5dfae1d2b8b874dca",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.060227099Z"
+}

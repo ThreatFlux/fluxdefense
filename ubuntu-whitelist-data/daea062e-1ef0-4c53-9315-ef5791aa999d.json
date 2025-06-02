@@ -1,0 +1,17 @@
+{
+  "uuid": "daea062e-1ef0-4c53-9315-ef5791aa999d",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/UndelegatedConstructorCheck.h",
+  "size": 1374,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "c340044b2d5a90dd4db161311ce321cee30e17e3288ff9202107ab8e8fa72d2c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.234417630Z"
+}

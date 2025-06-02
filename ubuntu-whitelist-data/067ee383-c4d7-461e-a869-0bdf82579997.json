@@ -1,0 +1,17 @@
+{
+  "uuid": "067ee383-c4d7-461e-a869-0bdf82579997",
+  "path": "/lib/x86_64-linux-gnu/libisofs.so.6.92.0",
+  "size": 480000,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:30.610733951Z",
+  "sha256_hash": "896d76abc4ed5ffa3a942d4db9db7454de491ba1464a72b10224442aca1a1b7a",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:32.860931584Z"
+}

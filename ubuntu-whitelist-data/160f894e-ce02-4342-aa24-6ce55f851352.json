@@ -1,0 +1,15 @@
+{
+  "uuid": "160f894e-ce02-4342-aa24-6ce55f851352",
+  "path": "/usr/lib/x86_64-linux-gnu/libgphoto2/2.5.31/sierra.so",
+  "size": 134936,
+  "modified": "2024-03-31T02:00:03Z",
+  "created": "2025-05-09T05:07:35.852653960Z",
+  "sha256_hash": "0fbd19e57d87ae6e1f72b6259db06a88654ce13a7093b925ce2b0e85bf190dc6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.184764421Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "8bef3ee4-bf21-4b82-8f38-a8914fbcf177",
+  "path": "/lib/gcc/x86_64-linux-gnu/13/include/vpclmulqdqintrin.h",
+  "size": 2727,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.246389788Z",
+  "sha256_hash": "dec4531650c5116cd2bc5065bc9f01e93e3e212c19c91337c4e1680bad5c804f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.928576336Z"
+}

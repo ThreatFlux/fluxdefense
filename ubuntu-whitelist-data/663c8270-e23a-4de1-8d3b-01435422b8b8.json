@@ -1,0 +1,15 @@
+{
+  "uuid": "663c8270-e23a-4de1-8d3b-01435422b8b8",
+  "path": "/usr/lib/x86_64-linux-gnu/libdns-9.18.30-0ubuntu0.24.04.2-Ubuntu.so",
+  "size": 2175072,
+  "modified": "2025-01-28T14:26:30Z",
+  "created": "2025-05-09T05:07:29.332753453Z",
+  "sha256_hash": "e96af22abf5098aca17b52db663485c1600a5f51ca40c555640253722d0ea45c",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.108256354Z"
+}

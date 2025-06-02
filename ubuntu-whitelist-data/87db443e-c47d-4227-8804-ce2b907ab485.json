@@ -1,0 +1,15 @@
+{
+  "uuid": "87db443e-c47d-4227-8804-ce2b907ab485",
+  "path": "/usr/sbin/dcb",
+  "size": 82448,
+  "modified": "2024-03-31T09:00:13Z",
+  "created": "2025-05-09T05:07:38.149618909Z",
+  "sha256_hash": "cd28a405462dc8399e00f307d444fac52ff205b513484123f32dfb7f1169db27",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.182830809Z"
+}

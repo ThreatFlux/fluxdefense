@@ -1,0 +1,15 @@
+{
+  "uuid": "a3a7a1a6-a2c1-458c-b4e3-f4ed811c8f48",
+  "path": "/lib/python3/dist-packages/cloudinit/config/cc_puppet.py",
+  "size": 10976,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.235037163Z",
+  "sha256_hash": "1c86fb58ba7adb1f67591a1624b4a23c62d372aabe3fb31c7aea6709d90eeea5",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.919657791Z"
+}

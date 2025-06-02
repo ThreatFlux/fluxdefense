@@ -1,0 +1,17 @@
+{
+  "uuid": "434c0460-77c0-44fd-a50b-cb831e1bf64b",
+  "path": "/lib/x86_64-linux-gnu/libnvidia-egl-gbm.so.1.1.1",
+  "size": 22768,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:01.940948032Z",
+  "sha256_hash": "d05da2342fbb46fbbd4441bf3a7f4bee8f107189684ecc53099edb3471439101",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:28.619754960Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "eacb670a-e625-418b-8623-5c52fef00b78",
+  "path": "/usr/lib/firmware/radeon/OLAND_pfp.bin.zst",
+  "size": 2257,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "564cfc47a315dc9d67b53d5f599f6ec12fa1ff77bcbb1565bb29323fba60a899",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.400490238Z"
+}

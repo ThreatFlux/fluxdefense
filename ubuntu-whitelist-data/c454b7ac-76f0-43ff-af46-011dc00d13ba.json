@@ -1,0 +1,17 @@
+{
+  "uuid": "c454b7ac-76f0-43ff-af46-011dc00d13ba",
+  "path": "/lib/firmware/qcom/apq8096/mba.mbn.zst",
+  "size": 107063,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.984535551Z",
+  "sha256_hash": "989df43e120d93b92e91b948a48a66f5e9180bed42930a6a95cfba787b7b4da9",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.743218415Z"
+}

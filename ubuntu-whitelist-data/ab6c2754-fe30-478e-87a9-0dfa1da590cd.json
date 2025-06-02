@@ -1,0 +1,17 @@
+{
+  "uuid": "ab6c2754-fe30-478e-87a9-0dfa1da590cd",
+  "path": "/lib/x86_64-linux-gnu/librte_eal.so.24.0",
+  "size": 360432,
+  "modified": "2024-12-18T18:31:38Z",
+  "created": "2025-05-26T20:18:25.412047746Z",
+  "sha256_hash": "a9c2b2a7d244cba422349c2d2d84150bc387ca91c56e885c6909de2704e4fd7c",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.454059009Z"
+}

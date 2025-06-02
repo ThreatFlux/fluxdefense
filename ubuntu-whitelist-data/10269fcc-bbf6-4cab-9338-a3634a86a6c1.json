@@ -1,0 +1,17 @@
+{
+  "uuid": "10269fcc-bbf6-4cab-9338-a3634a86a6c1",
+  "path": "/usr/lib/x86_64-linux-gnu/libnetapi.so.1.0.0",
+  "size": 477488,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:31.684717562Z",
+  "sha256_hash": "a63db8864302eb63358c76590c7ee3f6b62e7914390737d215fd9b784dd9e3d5",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:08.014637357Z"
+}

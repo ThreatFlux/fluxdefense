@@ -1,0 +1,15 @@
+{
+  "uuid": "b0086486-684c-4797-b0d0-b2c05d3085c3",
+  "path": "/usr/lib/python3.12/lib2to3/fixes/fix_xreadlines.py",
+  "size": 689,
+  "modified": "2024-04-12T13:14:55Z",
+  "created": "2025-05-28T17:29:43.456611321Z",
+  "sha256_hash": "e8c2f19f7047bfc7539fd78839929004d8fe0efba1fbcbd9d712d285e43834ba",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.919667730Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "ffdac1d4-e75e-4846-8686-295915fdb9b0",
+  "path": "/lib/udev/rules.d/77-mm-simtech-port-types.rules",
+  "size": 4225,
+  "modified": "2024-02-19T14:58:32Z",
+  "created": "2025-05-09T05:07:28.437767110Z",
+  "sha256_hash": "0f36efc992f793a0d22005115c342949b67ef767c5ebfd661bd34179c4952f5d",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.242731355Z"
+}

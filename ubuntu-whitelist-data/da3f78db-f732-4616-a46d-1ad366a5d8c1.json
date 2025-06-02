@@ -1,0 +1,17 @@
+{
+  "uuid": "da3f78db-f732-4616-a46d-1ad366a5d8c1",
+  "path": "/usr/lib/firmware/nvidia/gm200/gr/fecs_inst.bin.zst",
+  "size": 8506,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.937536202Z",
+  "sha256_hash": "d3e0fa7d94767a975e48659ba175886b27eee105717f9be887b7b41de0f68f67",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.252936950Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "ed69d82c-e642-4904-9da1-c1243bb5426c",
+  "path": "/usr/lib/python3.12/lib-dynload/audioop.cpython-312-x86_64-linux-gnu.so",
+  "size": 64896,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-09T05:10:59.932539216Z",
+  "sha256_hash": "f708a90735e55867aaca562ae9eb2181dc7cee69d9ca9ead948a82f9f0422bf3",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.945534761Z"
+}

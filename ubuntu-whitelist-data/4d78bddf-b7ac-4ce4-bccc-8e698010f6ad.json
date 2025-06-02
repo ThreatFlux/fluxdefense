@@ -1,0 +1,15 @@
+{
+  "uuid": "4d78bddf-b7ac-4ce4-bccc-8e698010f6ad",
+  "path": "/lib/x86_64-linux-gnu/rsyslog/lmnet.so",
+  "size": 35800,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.546922251Z",
+  "sha256_hash": "42c27fa8e9517ce1a3b5dbf6e76951d1df8cdefdc0fa01f0b3bd0e807655c43e",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.850760936Z"
+}

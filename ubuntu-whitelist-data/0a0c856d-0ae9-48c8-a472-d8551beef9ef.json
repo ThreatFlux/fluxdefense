@@ -1,0 +1,15 @@
+{
+  "uuid": "0a0c856d-0ae9-48c8-a472-d8551beef9ef",
+  "path": "/sbin/ippeveprinter",
+  "size": 178568,
+  "modified": "2024-09-26T11:15:36Z",
+  "created": "2025-05-09T05:07:38.352615811Z",
+  "sha256_hash": "0421c59f6bd0e73df33c6c5518964b61d0166aded44c048fb9198410c502b5ea",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.999203951Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "773c7a19-7877-4f00-9c02-e0c79e97cb51",
+  "path": "/usr/lib/llvm-18/include/clang/AST/DeclContextInternals.h",
+  "size": 9213,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.516533752Z",
+  "sha256_hash": "291bf0bf96811653ac264e09ba6f371314b8159f7e11b6c4a876dc93c55b54c8",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.347466653Z"
+}

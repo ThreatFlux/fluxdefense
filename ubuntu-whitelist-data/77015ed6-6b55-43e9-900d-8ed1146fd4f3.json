@@ -1,0 +1,17 @@
+{
+  "uuid": "77015ed6-6b55-43e9-900d-8ed1146fd4f3",
+  "path": "/usr/lib/udev/rules.d/64-xorg-xkb.rules",
+  "size": 257,
+  "modified": "2025-03-04T04:58:03Z",
+  "created": "2025-05-09T05:24:13.308776735Z",
+  "sha256_hash": "2cbafeaed66e21fbbd10b95a237db4e5564caf3a315a7113603317d60a142257",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.107531520Z"
+}

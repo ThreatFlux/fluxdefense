@@ -1,0 +1,15 @@
+{
+  "uuid": "4fd03916-3f08-4b8e-9965-d7321f71df0e",
+  "path": "/lib/llvm-18/lib/libLLVMMCA.a",
+  "size": 371956,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.923462547Z",
+  "sha256_hash": "0a307cbfab3f4d978004834c7a4a9e7200afc9050e80bbc1ed63f5d44d7a1922",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:42.219437055Z"
+}

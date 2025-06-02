@@ -1,0 +1,17 @@
+{
+  "uuid": "b0c61535-089f-4935-9b8a-d9c8d551d7f9",
+  "path": "/lib/grub/x86_64-efi/gcry_seed.mod",
+  "size": 15160,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.808708460Z",
+  "sha256_hash": "72e365a63aa60af01984589009127dc2baa0a27120e08df371d4615064a3eacf",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.030808369Z"
+}

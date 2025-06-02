@@ -1,0 +1,15 @@
+{
+  "uuid": "c6cf385b-f149-41d0-8235-5eb30a3f3da8",
+  "path": "/usr/lib/suricata/python/suricata/ctl/main.py",
+  "size": 1600,
+  "modified": "2024-04-01T09:12:58Z",
+  "created": "2025-05-26T20:18:27.621014378Z",
+  "sha256_hash": "bb40620eab668184791734917c11ac534b2b2d670c6af59d0462568729cb3d99",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.279717331Z"
+}

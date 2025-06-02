@@ -1,0 +1,17 @@
+{
+  "uuid": "fec68e35-4a70-49c1-bfc7-b623ecc5b837",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-plustek_pp.so.1.2.1",
+  "size": 215536,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.157634046Z",
+  "sha256_hash": "79bc9fd7fc9ad22696165b9556dfb58a9379c8645f6d0eb06a0987c46b65b3c1",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.176665827Z"
+}

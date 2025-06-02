@@ -1,0 +1,17 @@
+{
+  "uuid": "919a93d1-3e21-4946-8dab-1129b6a6a33e",
+  "path": "/lib/firmware/intel/sof-tplg/sof-mt8195-mt6359-max98390-rt5682-google-aec-rtnr.tplg.zst",
+  "size": 1312,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.060490953Z",
+  "sha256_hash": "6767697b178f94cc1dc13e4419d5eb097ca1d0d0a30ebc412a0b932cb82217fd",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.220695265Z"
+}

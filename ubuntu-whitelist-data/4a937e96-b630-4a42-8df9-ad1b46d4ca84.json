@@ -1,0 +1,17 @@
+{
+  "uuid": "4a937e96-b630-4a42-8df9-ad1b46d4ca84",
+  "path": "/lib/ubuntu-release-upgrader/release-upgrade-motd",
+  "size": 1519,
+  "modified": "2024-06-21T20:19:38Z",
+  "created": "2025-05-09T05:07:28.309769063Z",
+  "sha256_hash": "b2b26ab54246abf9b0e224eb5b11e957c6e0c5dea155fdfec879e6c42475b0b7",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.068260405Z"
+}

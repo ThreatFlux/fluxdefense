@@ -1,0 +1,17 @@
+{
+  "uuid": "1af130fe-8f40-4cdc-b5fd-672ee17c7f30",
+  "path": "/usr/lib/firmware/amdgpu/fiji_uvd.bin.zst",
+  "size": 158069,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.393543737Z",
+  "sha256_hash": "8f3f25e40957f57f6f5b9e3e41fb03e4fc93c91416c1009adb6649364963c2e3",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.015871394Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e8bddee1-5346-4261-9a5b-6a89742c9774",
+  "path": "/lib/x86_64-linux-gnu/librevenge-stream-0.0.so.0.0.5",
+  "size": 113312,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:32.065711748Z",
+  "sha256_hash": "9d2aa87597f3bddc18b110aec1ad718d96b7e0403bdbf0d4d93111535288c98e",
+  "file_type": {
+    "Other": "5"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.562875795Z"
+}

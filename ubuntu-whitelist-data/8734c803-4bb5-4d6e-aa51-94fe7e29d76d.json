@@ -1,0 +1,17 @@
+{
+  "uuid": "8734c803-4bb5-4d6e-aa51-94fe7e29d76d",
+  "path": "/lib/modules/6.11.0-25-generic/kernel/crypto/crc32_generic.ko.zst",
+  "size": 2780,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.098459849Z",
+  "sha256_hash": "0604d759556d89446402bbb2a3872ad17b3b9278534b589631fda2917de22d08",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.632199179Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a644765d-9106-4d7b-9232-5cd35272e6c3",
+  "path": "/usr/lib/x86_64-linux-gnu/samba/liblibcli-netlogon3-samba4.so.0",
+  "size": 30952,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.062635496Z",
+  "sha256_hash": "c2549856438670e897eec996c7c496d15e87fd54f8263b8be43c68fbdb1b5a21",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.244922262Z"
+}

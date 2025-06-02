@@ -1,0 +1,17 @@
+{
+  "uuid": "9cc6e37d-98ed-4755-b0aa-4967f859695d",
+  "path": "/lib/x86_64-linux-gnu/libpeas-gtk-1.0.so.0.3600.0",
+  "size": 59544,
+  "modified": "2024-03-31T02:10:17Z",
+  "created": "2025-05-09T05:07:31.793715899Z",
+  "sha256_hash": "b4792a8372a921d5da2abe55c139fb09a13955409d830e6c7466d608b4920efa",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.298493840Z"
+}

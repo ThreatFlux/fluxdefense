@@ -1,0 +1,15 @@
+{
+  "uuid": "49e3de7a-7dd7-4be5-b006-c48d85d641a7",
+  "path": "/usr/bin/byobu-select-profile",
+  "size": 5180,
+  "modified": "2024-02-10T17:03:36Z",
+  "created": "2025-05-23T03:43:49.240694211Z",
+  "sha256_hash": "facef4383019bb1ec07785d8174ba2949cb213f4f27aeb3825c35b7d0c26584e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.338521375Z"
+}

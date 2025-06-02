@@ -1,0 +1,17 @@
+{
+  "uuid": "00c2d78f-76b9-44d5-893f-be9813bbfd8d",
+  "path": "/lib/x86_64-linux-gnu/libabsl_exponential_biased.so.20220623.0.0",
+  "size": 14496,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.938492440Z",
+  "sha256_hash": "93f649d7ee65a8505bc8080bbb51206bbcf7a66900ac6c710a6d9d15ac97a994",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:22.540767245Z"
+}

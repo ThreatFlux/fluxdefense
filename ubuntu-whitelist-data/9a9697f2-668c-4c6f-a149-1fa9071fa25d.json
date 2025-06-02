@@ -1,0 +1,17 @@
+{
+  "uuid": "9a9697f2-668c-4c6f-a149-1fa9071fa25d",
+  "path": "/usr/lib/x86_64-linux-gnu/samba/libaddns-samba4.so.0",
+  "size": 59696,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.032635954Z",
+  "sha256_hash": "4f9b6c21416bc77395064f505b5ee0bbf30df1f7cbbf8fdb352ded7d6c97d236",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.330798067Z"
+}

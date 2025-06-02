@@ -1,0 +1,17 @@
+{
+  "uuid": "db92236a-f92b-4a1c-9a88-5edc7cbf957e",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/modernize/ReplaceRandomShuffleCheck.h",
+  "size": 1693,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "33681359bf43895e699a50c46894e5ecd7dfc9b95a13be09f0eb68cbee95872c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.257017364Z"
+}

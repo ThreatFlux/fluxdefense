@@ -1,0 +1,17 @@
+{
+  "uuid": "2fa3d31c-085c-43e2-a5d5-27f721875d4d",
+  "path": "/usr/lib/firmware/amdgpu/navi12_dmcu.bin.zst",
+  "size": 11877,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.405543571Z",
+  "sha256_hash": "508c853329628f2db077e4722b897e7e6dbc3707e758035e95ba34ffc8965826",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.039390267Z"
+}

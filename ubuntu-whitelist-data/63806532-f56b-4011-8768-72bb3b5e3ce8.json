@@ -1,0 +1,17 @@
+{
+  "uuid": "63806532-f56b-4011-8768-72bb3b5e3ce8",
+  "path": "/usr/lib/llvm-18/include/clang/AST/FormatString.h",
+  "size": 23844,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.518533726Z",
+  "sha256_hash": "6f1a595760a2f26464b3e22604cde3715406a658ce7bd556869389a31a85ce5d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.332307228Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "234921d0-e143-447f-95f0-e73bf96fd948",
+  "path": "/lib/systemd/system/rpcbind.target",
+  "size": 548,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "467d1f0f6b2ff32332dc444aa5da014586e08e64a9be31d947111f572d188755",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.129936367Z"
+}

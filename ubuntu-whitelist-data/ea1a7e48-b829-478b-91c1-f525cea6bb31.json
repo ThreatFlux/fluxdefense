@@ -1,0 +1,17 @@
+{
+  "uuid": "ea1a7e48-b829-478b-91c1-f525cea6bb31",
+  "path": "/usr/lib/firmware/nvidia/tu104/gr/sw_nonctx.bin.zst",
+  "size": 884,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.959535898Z",
+  "sha256_hash": "aa5957b7a7ecb82eed4a4e4f94a0aeaafccd887db3a290315cf48b4eaf75d85a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.291252604Z"
+}

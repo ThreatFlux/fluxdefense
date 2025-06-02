@@ -1,0 +1,15 @@
+{
+  "uuid": "5cec065f-4619-487c-868d-0946024eb63c",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/containerregistry/__init__.py",
+  "size": 646,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.329938785Z",
+  "sha256_hash": "88494a3845b50692a63eb1fce0d2761c7525383f42823c9bff6e39aa4bcd9769",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.659825900Z"
+}

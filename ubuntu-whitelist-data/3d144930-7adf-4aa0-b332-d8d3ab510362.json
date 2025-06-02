@@ -1,0 +1,15 @@
+{
+  "uuid": "3d144930-7adf-4aa0-b332-d8d3ab510362",
+  "path": "/usr/bin/networkctl",
+  "size": 125520,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.500779189Z",
+  "sha256_hash": "e11bae15652af2fe444737290c4960f4aeb0bfdf0f6b147ef19afec08143fcdf",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.060769866Z"
+}

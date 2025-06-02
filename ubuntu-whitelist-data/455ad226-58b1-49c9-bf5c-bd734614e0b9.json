@@ -1,0 +1,17 @@
+{
+  "uuid": "455ad226-58b1-49c9-bf5c-bd734614e0b9",
+  "path": "/lib/firmware/meson/vdec/gxl_mjpeg.bin.zst",
+  "size": 2613,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.791538225Z",
+  "sha256_hash": "1acfa312017e5cc579db1d21a0bd6a4a44f753e0511ea35b47cdbb1c0079b81b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.622102912Z"
+}

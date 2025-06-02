@@ -1,0 +1,15 @@
+{
+  "uuid": "bacec53d-9d99-40f5-9563-cf2af6760171",
+  "path": "/lib/python3/dist-packages/cloudinit/sources/DataSourceCloudSigma.py",
+  "size": 3956,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.241037243Z",
+  "sha256_hash": "9d1f1be3c6f093515d946663127876757da9654976b58f6a5ca748033d34ae51",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.901469395Z"
+}

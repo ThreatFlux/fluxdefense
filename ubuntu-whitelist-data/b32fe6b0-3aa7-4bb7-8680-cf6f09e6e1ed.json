@@ -1,0 +1,15 @@
+{
+  "uuid": "b32fe6b0-3aa7-4bb7-8680-cf6f09e6e1ed",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_NFQUEUE.so",
+  "size": 15384,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.331631391Z",
+  "sha256_hash": "6990b1ad9804be5e64edba9e0f1f2831c34af9fec28aea196ca2919cf9f66f02",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.673600308Z"
+}

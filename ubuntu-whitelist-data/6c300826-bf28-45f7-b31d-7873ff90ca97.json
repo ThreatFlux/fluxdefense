@@ -1,0 +1,17 @@
+{
+  "uuid": "6c300826-bf28-45f7-b31d-7873ff90ca97",
+  "path": "/lib/python3.12/test/decimaltestdata/clamp.decTest",
+  "size": 11009,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.990551788Z",
+  "sha256_hash": "7b0907453745ef5721d89c77fc1c48503474260b458f24127e1b3f0bfe11dbc3",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.460330607Z"
+}

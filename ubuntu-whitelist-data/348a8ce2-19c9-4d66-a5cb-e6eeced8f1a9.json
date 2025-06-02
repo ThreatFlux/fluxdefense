@@ -1,0 +1,15 @@
+{
+  "uuid": "348a8ce2-19c9-4d66-a5cb-e6eeced8f1a9",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgsticydemux.so",
+  "size": 27024,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.772655181Z",
+  "sha256_hash": "a133f890994baa71fa50eecf0f9189ead2294b862ced20ddff69a4b36871ebf1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.193293839Z"
+}

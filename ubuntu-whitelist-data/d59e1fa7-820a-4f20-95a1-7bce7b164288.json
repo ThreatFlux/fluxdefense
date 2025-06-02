@@ -1,0 +1,17 @@
+{
+  "uuid": "d59e1fa7-820a-4f20-95a1-7bce7b164288",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/BuiltinsNEON.def",
+  "size": 836,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.526533621Z",
+  "sha256_hash": "e87559bbeb20ade62de1d71be1d72bfa599077182a406e8609c54628f150311d",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.567390616Z"
+}

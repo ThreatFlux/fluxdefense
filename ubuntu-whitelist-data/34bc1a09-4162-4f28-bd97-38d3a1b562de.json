@@ -1,0 +1,17 @@
+{
+  "uuid": "34bc1a09-4162-4f28-bd97-38d3a1b562de",
+  "path": "/lib/grub/x86_64-efi/ufs1.mod",
+  "size": 8168,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "725b6def3a7688d22886b0c7fe02220a3a6170b4d19350be3db6af1a461c1fbc",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.017751551Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "c3ecf761-35ed-4d07-b137-fa8a72facaa8",
+  "path": "/lib/python3/dist-packages/cloud_init-24.4.1.egg-info/PKG-INFO",
+  "size": 335,
+  "modified": "2025-04-02T15:09:15Z",
+  "created": "2025-05-09T05:24:33.233037137Z",
+  "sha256_hash": "253bfd0ac1c92a0c0dff0a174c36d4aa3517931ae478d34098a62b5b09b23070",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.627231100Z"
+}

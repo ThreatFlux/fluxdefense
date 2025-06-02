@@ -1,0 +1,17 @@
+{
+  "uuid": "af67c2ba-b633-4385-b3da-3f39cbd57411",
+  "path": "/usr/lib/llvm-18/include/clang/Tooling/DiagnosticsYaml.h",
+  "size": 4342,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.553533265Z",
+  "sha256_hash": "968c23f8dc04be71f0ac38add76fc8283e9b89359e8d2fd03516e2df2846ab06",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.416960487Z"
+}

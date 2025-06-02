@@ -1,0 +1,15 @@
+{
+  "uuid": "0ce7a657-9028-4628-ae87-d24d7fa12c74",
+  "path": "/lib/x86_64-linux-gnu/alsa-lib/libasound_module_ctl_pipewire.so",
+  "size": 59656,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:18.969849559Z",
+  "sha256_hash": "5bf4d3016b97779f6d28cebe292a37e2ad059a14039457c63b6c0ce7f6484bc8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.854628471Z"
+}

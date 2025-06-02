@@ -1,0 +1,17 @@
+{
+  "uuid": "69bf0950-89dc-4ec9-a3e0-337b43bf4d5a",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/tic.pc",
+  "size": 452,
+  "modified": "2024-04-08T16:14:03Z",
+  "created": "2025-05-12T13:34:34.214498225Z",
+  "sha256_hash": "e25ea92849158fc8f7bfdf1e3054943ae37b5be1b4b2a32f86bc111d06b34c43",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.103110741Z"
+}

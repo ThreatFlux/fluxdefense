@@ -1,0 +1,17 @@
+{
+  "uuid": "5f096ba3-608f-45af-9796-de0f2385453a",
+  "path": "/usr/lib/tmpfiles.d/man-db.conf",
+  "size": 33,
+  "modified": "2024-04-08T14:45:49Z",
+  "created": "2025-05-09T05:07:28.308769079Z",
+  "sha256_hash": "cd388dcc60f52e7fb04135714e9a120f74276db549b8ada492bd6fa48e6ba6d2",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.132806694Z"
+}

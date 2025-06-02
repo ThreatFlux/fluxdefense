@@ -1,0 +1,17 @@
+{
+  "uuid": "2d9dfaa2-267f-41c1-90fb-8f507240cc58",
+  "path": "/usr/lib/systemd/user/gnome-initial-setup-copy-worker.service",
+  "size": 610,
+  "modified": "2024-08-12T18:30:31Z",
+  "created": "2025-05-09T05:07:28.305769124Z",
+  "sha256_hash": "c0a180be1ccf18b6b0c6185e896b6d9c265496e1e3430cdccaa1affc0299d527",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.503187761Z"
+}

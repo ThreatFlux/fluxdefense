@@ -1,0 +1,17 @@
+{
+  "uuid": "82523332-2cf5-4721-9131-5aac6bf36fbe",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/s-imagei.ali",
+  "size": 5015,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.138343939Z",
+  "sha256_hash": "fe56729f99cdf3218f41111a98e94db81257c3415a6e8932db09bee232276982",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.682671610Z"
+}

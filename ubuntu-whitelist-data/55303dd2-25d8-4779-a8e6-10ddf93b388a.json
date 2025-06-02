@@ -1,0 +1,15 @@
+{
+  "uuid": "55303dd2-25d8-4779-a8e6-10ddf93b388a",
+  "path": "/bin/resizepart",
+  "size": 22912,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:20.390889901Z",
+  "sha256_hash": "2a73db10831e076497dee45111c598bb63a21c51d30e5d25c6d46f2a62e68d6b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:20.070069428Z"
+}

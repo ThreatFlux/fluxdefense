@@ -1,0 +1,17 @@
+{
+  "uuid": "e23898d1-9c85-43fe-9015-50b1f415bd2a",
+  "path": "/lib/llvm-18/include/clang/Driver/Util.h",
+  "size": 871,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.542533410Z",
+  "sha256_hash": "5da0fb140788a04fed58a059823960576078064e4f88d901534c61e7f2f501af",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.028210509Z"
+}

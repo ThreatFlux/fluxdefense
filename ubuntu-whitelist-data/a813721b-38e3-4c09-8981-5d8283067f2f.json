@@ -1,0 +1,15 @@
+{
+  "uuid": "a813721b-38e3-4c09-8981-5d8283067f2f",
+  "path": "/bin/setleds",
+  "size": 18872,
+  "modified": "2024-03-31T09:02:08Z",
+  "created": "2025-05-09T05:07:20.437889184Z",
+  "sha256_hash": "ca7fc4b1baf34c884f485c4dec3faa419895a1b6253ead420ae5ed3ec36fe31e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.936114961Z"
+}

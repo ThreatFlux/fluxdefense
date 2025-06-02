@@ -1,0 +1,17 @@
+{
+  "uuid": "e1f935c7-421a-4093-ab24-d9c155a32c0d",
+  "path": "/usr/lib/systemd/user/gnome-session-manager.target",
+  "size": 307,
+  "modified": "2024-03-18T19:30:06Z",
+  "created": "2025-05-09T05:07:28.305769124Z",
+  "sha256_hash": "896273ca37395ab5be908facbdf495d076c10dc3ce50c6330ee61ad1e45a066b",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.498764374Z"
+}

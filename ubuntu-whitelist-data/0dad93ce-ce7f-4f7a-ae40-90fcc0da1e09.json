@@ -1,0 +1,17 @@
+{
+  "uuid": "0dad93ce-ce7f-4f7a-ae40-90fcc0da1e09",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-as6e.so.1.2.1",
+  "size": 39136,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.129634474Z",
+  "sha256_hash": "7f0d3bfda05d8dd2afaf634f7e8d4eddd8141de92c431d43078ef76d4da614ad",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.157882157Z"
+}

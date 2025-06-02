@@ -1,0 +1,17 @@
+{
+  "uuid": "b139751a-a1f0-46dd-9dcb-c5debdb10b13",
+  "path": "/lib/firmware/amdgpu/navi10_rlc.bin.zst",
+  "size": 14406,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.404543585Z",
+  "sha256_hash": "681ddf981face5911e4f4dc4a617ffd041f0ecd8e64bc95475abac0ca1856fba",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.014442398Z"
+}

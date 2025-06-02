@@ -1,0 +1,15 @@
+{
+  "uuid": "7d9f10b2-85a2-4ef2-ae8e-8ca8cabe75ad",
+  "path": "/usr/libexec/netplan/generate",
+  "size": 22936,
+  "modified": "2025-03-19T10:40:11Z",
+  "created": "2025-05-09T05:24:22.741898627Z",
+  "sha256_hash": "c3d4689b17eb7b52ce1ca8a61130efa621daa5717fe0010f7b3424852156075f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.089948018Z"
+}

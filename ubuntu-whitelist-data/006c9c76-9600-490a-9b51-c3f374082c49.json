@@ -1,0 +1,17 @@
+{
+  "uuid": "006c9c76-9600-490a-9b51-c3f374082c49",
+  "path": "/lib/grub/x86_64-efi/hello.mod",
+  "size": 1888,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.810708430Z",
+  "sha256_hash": "882d15cef7ff41eaf5e4b1d070a8806998e277c70f9faa16a398d1bc7b44b71b",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.019721656Z"
+}

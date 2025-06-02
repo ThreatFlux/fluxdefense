@@ -1,0 +1,17 @@
+{
+  "uuid": "029c3fd5-bf32-45b3-a453-7624e0731f6d",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/wayland-client.pc",
+  "size": 337,
+  "modified": "2024-04-08T16:21:56Z",
+  "created": "2025-05-12T13:47:40.015136722Z",
+  "sha256_hash": "e3fdbd1ceb0cc9b30883f838e16b8804094fba4f04f4a16d61504d261f3cf40f",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.103636872Z"
+}

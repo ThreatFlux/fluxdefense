@@ -1,0 +1,17 @@
+{
+  "uuid": "4bac7ff3-b35f-4072-b442-a41b1b952b85",
+  "path": "/lib/firmware/slicoss/gbdownload.sys.zst",
+  "size": 23278,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.073534319Z",
+  "sha256_hash": "46a728799e8e814e34befe72a584d911f886135a0fdc2b04e23d4392561b431b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.989745001Z"
+}

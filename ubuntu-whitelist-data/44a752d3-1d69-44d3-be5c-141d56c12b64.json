@@ -1,0 +1,15 @@
+{
+  "uuid": "44a752d3-1d69-44d3-be5c-141d56c12b64",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstalphacolor.so",
+  "size": 18672,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.771655196Z",
+  "sha256_hash": "b65436632f33fc48026cdd26beebfdf410c90b23b84ba53e91aa69e9a7b73243",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.127248294Z"
+}

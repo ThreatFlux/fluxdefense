@@ -1,0 +1,15 @@
+{
+  "uuid": "34e611c8-81d6-42ac-9329-af9e5cdc9f35",
+  "path": "/lib/x86_64-linux-gnu/gconv/HP-ROMAN8.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.624657440Z",
+  "sha256_hash": "bb652cb7649881d9f747278045ba1415086a071281d8516f259517788b75992a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.761266671Z"
+}

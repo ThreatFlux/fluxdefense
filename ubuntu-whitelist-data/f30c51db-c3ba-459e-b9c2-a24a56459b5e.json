@@ -1,0 +1,17 @@
+{
+  "uuid": "f30c51db-c3ba-459e-b9c2-a24a56459b5e",
+  "path": "/usr/lib/x86_64-linux-gnu/libtss2-sys.so.1.0.1",
+  "size": 129104,
+  "modified": "2024-05-24T20:06:42Z",
+  "created": "2025-05-09T05:07:32.326707766Z",
+  "sha256_hash": "ad6616a4e25009800e414698021ad5b6e364cd7ed24ef2cbcc419f093e3f9110",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:22.045295047Z"
+}

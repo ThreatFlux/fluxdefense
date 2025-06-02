@@ -1,0 +1,17 @@
+{
+  "uuid": "d296093f-cb97-4879-b114-227a82420c40",
+  "path": "/lib/llvm-18/include/clang-tidy/cppcoreguidelines/InitVariablesCheck.h",
+  "size": 1547,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "906e695ce6832866a61434a30248e9816d11ec232559f0018e735b3f97f26bfd",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.906392673Z"
+}

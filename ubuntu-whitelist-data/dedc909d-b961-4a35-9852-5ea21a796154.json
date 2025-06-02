@@ -1,0 +1,17 @@
+{
+  "uuid": "dedc909d-b961-4a35-9852-5ea21a796154",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/hicpp/SignedBitwiseCheck.h",
+  "size": 1305,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "bd635591cb546e97d50f19b9bddebd91a44b7e61fb592e6b48c945342ac3e720",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.270961249Z"
+}

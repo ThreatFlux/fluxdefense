@@ -1,0 +1,15 @@
+{
+  "uuid": "4df5a3cc-1b7f-487c-a342-ecb50010c8ba",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstrawparse.so",
+  "size": 68368,
+  "modified": "2024-12-17T13:24:56Z",
+  "created": "2025-05-09T05:07:35.775655135Z",
+  "sha256_hash": "03b9ff636fb28b0c7bb16ff8f8bc36d606ad276fac0279b928648882d6467cc2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.115324702Z"
+}

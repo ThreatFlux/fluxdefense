@@ -1,0 +1,17 @@
+{
+  "uuid": "4fafde54-001b-4ace-9b3f-59e3d6e3c6dc",
+  "path": "/lib/x86_64-linux-gnu/libz3.so.4",
+  "size": 16106752,
+  "modified": "2024-04-22T09:52:27Z",
+  "created": "2025-05-12T13:34:36.351470080Z",
+  "sha256_hash": "730694c87a99a1e512562bd36d005c121610531c146e4317be0e1a8d53882b18",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.450404364Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "54d10cd7-1caa-4dcf-a44e-621161638a6a",
+  "path": "/usr/lib/x86_64-linux-gnu/mutter-14/libmutter-clutter-14.so.0.0.0",
+  "size": 1010232,
+  "modified": "2025-04-09T06:13:33Z",
+  "created": "2025-05-09T05:24:17.519830814Z",
+  "sha256_hash": "a158b7dfa362817b1840fe32c31676f7bae01ffef261a5deb262c24e4490b382",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.119144039Z"
+}

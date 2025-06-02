@@ -1,0 +1,17 @@
+{
+  "uuid": "43736043-a6ad-4bf0-8401-c6296446041f",
+  "path": "/lib/firmware/intel/sof-tplg/sof-glk-cs42l42.tplg.zst",
+  "size": 1542,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.058490984Z",
+  "sha256_hash": "d4705fb8229013d2befab188e6cc9540e807089681674189d5764e21b2ae501b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.220845805Z"
+}

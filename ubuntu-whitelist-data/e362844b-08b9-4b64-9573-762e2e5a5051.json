@@ -1,0 +1,15 @@
+{
+  "uuid": "e362844b-08b9-4b64-9573-762e2e5a5051",
+  "path": "/usr/lib/x86_64-linux-gnu/tracker-miners-3.0/extract-modules/libextract-oasis.so",
+  "size": 39144,
+  "modified": "2024-03-31T17:20:13Z",
+  "created": "2025-05-09T05:07:37.309631727Z",
+  "sha256_hash": "1f66297716862d417957f89efd4f9d2c61920ec8d88f03700e1a01068e13b4ee",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.201142897Z"
+}

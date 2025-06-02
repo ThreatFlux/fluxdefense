@@ -1,0 +1,15 @@
+{
+  "uuid": "09acf147-80a5-4369-bd3d-937abdc1f308",
+  "path": "/usr/lib/i386-linux-gnu/gconv/SAMI-WS2.so",
+  "size": 17804,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.283663370Z",
+  "sha256_hash": "f831d092aa4c39e56bbd198ee2139e6180890be6c03db4237588e689057b13b9",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:40.973815532Z"
+}

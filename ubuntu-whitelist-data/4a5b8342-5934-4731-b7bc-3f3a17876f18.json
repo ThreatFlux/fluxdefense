@@ -1,0 +1,15 @@
+{
+  "uuid": "4a5b8342-5934-4731-b7bc-3f3a17876f18",
+  "path": "/usr/bin/rfcomm",
+  "size": 31472,
+  "modified": "2025-02-25T06:11:15Z",
+  "created": "2025-05-09T05:24:15.926810288Z",
+  "sha256_hash": "afabd3d5fb2f657147afd15b77a24f8cc430b4f79ee6aec6f6f48cf4674d99c1",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.885464101Z"
+}

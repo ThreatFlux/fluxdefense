@@ -1,0 +1,15 @@
+{
+  "uuid": "5922af27-e3fa-4a8e-b177-88941d46f3fa",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/net/renderer.py",
+  "size": 1684,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.240037230Z",
+  "sha256_hash": "d6d790e936473d2e79187f76527cbd15840d66541b99f07f92146980b113052a",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.817495586Z"
+}

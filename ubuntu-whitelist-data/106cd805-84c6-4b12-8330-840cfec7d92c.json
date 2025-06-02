@@ -1,0 +1,15 @@
+{
+  "uuid": "106cd805-84c6-4b12-8330-840cfec7d92c",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstx264.so",
+  "size": 72016,
+  "modified": "2024-03-31T08:55:07Z",
+  "created": "2025-05-09T05:09:27.688947179Z",
+  "sha256_hash": "3143037e105cdd03b8509fedc8af6bfcedad601114f92a0c6d66f90fa898cfe7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.204996879Z"
+}

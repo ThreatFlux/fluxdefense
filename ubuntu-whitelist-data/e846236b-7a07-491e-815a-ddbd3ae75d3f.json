@@ -1,0 +1,17 @@
+{
+  "uuid": "e846236b-7a07-491e-815a-ddbd3ae75d3f",
+  "path": "/usr/lib/x86_64-linux-gnu/libnma-gtk4.so.0.0.0",
+  "size": 334120,
+  "modified": "2024-03-31T02:08:45Z",
+  "created": "2025-05-09T05:07:31.723716967Z",
+  "sha256_hash": "c04aa6632e17d381871098f98abd2563e1701bcbde6b3441dc4b3df3e6cdbd94",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.111063061Z"
+}

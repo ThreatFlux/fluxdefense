@@ -1,0 +1,17 @@
+{
+  "uuid": "308d5b9d-d955-476c-aaf1-d4384fa09cfb",
+  "path": "/lib/firmware/nvidia/ga102/gr/NET_img.bin.zst",
+  "size": 69219,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.902536687Z",
+  "sha256_hash": "d3616538417749d4328d8c83a1709878548f3ada60c406104c5387bba10212c6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.135896546Z"
+}

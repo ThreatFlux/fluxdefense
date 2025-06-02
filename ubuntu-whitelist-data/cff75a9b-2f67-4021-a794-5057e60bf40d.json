@@ -1,0 +1,15 @@
+{
+  "uuid": "cff75a9b-2f67-4021-a794-5057e60bf40d",
+  "path": "/usr/bin/ntfsrecover",
+  "size": 104832,
+  "modified": "2024-04-08T14:46:29Z",
+  "created": "2025-05-09T05:07:20.247892083Z",
+  "sha256_hash": "69f2c64a822204d5ff650a3f84af16163b8d4b1524a19dce437d60ccadb015c3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.420804525Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "02e6ce0a-214b-45ff-bc00-85a335ed6824",
+  "path": "/usr/sbin/fstrim",
+  "size": 43392,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.203618085Z",
+  "sha256_hash": "83921fc872287caa647f73850cdcb556f3e12bb0c501d62ad9ff10e475adc8a4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.151311927Z"
+}

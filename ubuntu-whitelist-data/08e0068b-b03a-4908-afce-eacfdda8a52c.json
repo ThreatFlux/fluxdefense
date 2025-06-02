@@ -1,0 +1,17 @@
+{
+  "uuid": "08e0068b-b03a-4908-afce-eacfdda8a52c",
+  "path": "/usr/lib/libreoffice/program/opengl/staticFragmentShader.glsl",
+  "size": 2420,
+  "modified": "2024-10-29T11:14:30Z",
+  "created": "2025-05-09T05:11:19.580239304Z",
+  "sha256_hash": "ba073cea0b9e85043dc350c44bb8b6e6b5aee0da9ac2c31f642c6ee5cf0040d4",
+  "file_type": {
+    "Other": "glsl"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:43.496475932Z"
+}

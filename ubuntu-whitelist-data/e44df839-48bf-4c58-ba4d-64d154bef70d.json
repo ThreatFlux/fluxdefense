@@ -1,0 +1,17 @@
+{
+  "uuid": "e44df839-48bf-4c58-ba4d-64d154bef70d",
+  "path": "/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2",
+  "size": 625344,
+  "modified": "2024-10-02T12:40:51Z",
+  "created": "2025-05-09T05:07:31.792715914Z",
+  "sha256_hash": "e00576d71d81d3ba0cfa4903c835a44a8723aac96f72f79ff75200b4cff9071b",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.317561870Z"
+}

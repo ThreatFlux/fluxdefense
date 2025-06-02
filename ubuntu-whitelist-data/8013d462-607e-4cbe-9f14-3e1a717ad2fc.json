@@ -1,0 +1,17 @@
+{
+  "uuid": "8013d462-607e-4cbe-9f14-3e1a717ad2fc",
+  "path": "/lib/python3.12/test/decimaltestdata/divideint.decTest",
+  "size": 20436,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.992551762Z",
+  "sha256_hash": "a1d3de269327678d81f59ea754b48fac3f1e634d6df20db84e1bb844577868a4",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.458226101Z"
+}

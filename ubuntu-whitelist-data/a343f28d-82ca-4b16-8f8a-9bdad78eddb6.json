@@ -1,0 +1,17 @@
+{
+  "uuid": "a343f28d-82ca-4b16-8f8a-9bdad78eddb6",
+  "path": "/lib/llvm-18/include/clang/CodeGen/ConstantInitFuture.h",
+  "size": 3381,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.539533450Z",
+  "sha256_hash": "8c896a3ec25d87e01dcf27c645cb4228863ec9550c379ba30c3389ca8bb0a1de",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.938083522Z"
+}

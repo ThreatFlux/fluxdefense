@@ -1,0 +1,15 @@
+{
+  "uuid": "cc85f866-b713-4550-9a24-9146ad8671f0",
+  "path": "/usr/lib/cups/daemon/cups-exec",
+  "size": 14648,
+  "modified": "2024-09-26T11:15:36Z",
+  "created": "2025-05-09T05:07:21.051879815Z",
+  "sha256_hash": "e2cb0b323edbca409e9f2d0586fe9ca9102865eb7b9957c3eeb9d649f7825167",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.125425045Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e7b76857-583d-45e4-a9f0-56076241628d",
+  "path": "/lib/x86_64-linux-gnu/utempter/utempter",
+  "size": 14488,
+  "modified": "2024-04-08T16:08:22Z",
+  "created": "2025-05-23T03:43:49.014702408Z",
+  "sha256_hash": "b61ab593e039544700b1a590513047cbf478816bd432b25553a10f7c95201075",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 34285,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.306517910Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "703aece6-e31b-4c45-8699-acdd3ee4b0a3",
+  "path": "/usr/libexec/power-profiles-daemon",
+  "size": 96640,
+  "modified": "2024-04-04T00:19:26Z",
+  "created": "2025-05-09T05:07:37.554627988Z",
+  "sha256_hash": "03f4ae271ab014336928fd4912347102cc496c1a69131b0542899def6d5d0fff",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.492665708Z"
+}

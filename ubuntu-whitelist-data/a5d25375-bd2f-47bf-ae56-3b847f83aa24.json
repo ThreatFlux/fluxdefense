@@ -1,0 +1,17 @@
+{
+  "uuid": "a5d25375-bd2f-47bf-ae56-3b847f83aa24",
+  "path": "/usr/lib/x86_64-linux-gnu/samba/libsmbpasswdparser-samba4.so.0",
+  "size": 14568,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.119634626Z",
+  "sha256_hash": "a1cb49779891a191d9280c46d35eedd5d5512fa31b68cd2f2a8ffcdb064dc35a",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.245243361Z"
+}

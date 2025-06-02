@@ -1,0 +1,15 @@
+{
+  "uuid": "982a3bca-e649-4607-a57e-1f1f81eae8b1",
+  "path": "/usr/sbin/rtcwake",
+  "size": 35200,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.410614926Z",
+  "sha256_hash": "04f592b01e118b6ba70741ae828da3cc309cc1cf9a2cdf86a6e9cebea0aa3054",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.164319930Z"
+}

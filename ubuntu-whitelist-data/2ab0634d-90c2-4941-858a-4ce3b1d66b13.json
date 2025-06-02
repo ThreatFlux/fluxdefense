@@ -1,0 +1,15 @@
+{
+  "uuid": "2ab0634d-90c2-4941-858a-4ce3b1d66b13",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstvideocrop.so",
+  "size": 43536,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.776655120Z",
+  "sha256_hash": "da591a802d208dd3e0c7d62bd50d21e3eb71d9907917c71004ee49df680235f1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.081296449Z"
+}

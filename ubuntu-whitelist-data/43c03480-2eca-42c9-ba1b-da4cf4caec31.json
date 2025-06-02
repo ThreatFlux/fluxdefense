@@ -1,0 +1,17 @@
+{
+  "uuid": "43c03480-2eca-42c9-ba1b-da4cf4caec31",
+  "path": "/lib/systemd/system/setvtrgb.service",
+  "size": 330,
+  "modified": "2024-02-26T12:58:31Z",
+  "created": "2025-05-09T05:07:28.300769200Z",
+  "sha256_hash": "32e83e016d68d15c28f1d55f4c25ab742abe11851fbad32ae615d74c82fa63cc",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.104238927Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "826698b9-2595-4e74-9ee6-2df9fd5aab6a",
+  "path": "/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0",
+  "size": 1343056,
+  "modified": "2025-05-15T12:06:49Z",
+  "created": "2025-05-27T10:16:58.197721359Z",
+  "sha256_hash": "599f8d6fb928ef3a321f727d590f1006966cde4d02995a4ca26b1dee561f5a69",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.405136041Z"
+}

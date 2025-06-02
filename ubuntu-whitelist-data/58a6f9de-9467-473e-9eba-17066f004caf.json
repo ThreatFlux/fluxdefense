@@ -1,0 +1,15 @@
+{
+  "uuid": "58a6f9de-9467-473e-9eba-17066f004caf",
+  "path": "/lib/google-cloud-sdk/lib/surface/compute/sign_url.py",
+  "size": 4838,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.784931054Z",
+  "sha256_hash": "b62d3319a4016ac3976952fdc1bb04215849aae00fa14aa1760777dafbb7ae68",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.027777470Z"
+}

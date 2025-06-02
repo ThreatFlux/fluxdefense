@@ -1,0 +1,17 @@
+{
+  "uuid": "63343b68-001b-4597-84d1-1fd5a0d422ee",
+  "path": "/usr/lib/x86_64-linux-gnu/libupower-glib.so.3.1.0",
+  "size": 129096,
+  "modified": "2024-04-08T07:42:45Z",
+  "created": "2025-05-09T05:07:32.346707460Z",
+  "sha256_hash": "fe92340195ec15a2384c681cdf1316b0da78efd1e4aae31a15aede124e058029",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.647884868Z"
+}

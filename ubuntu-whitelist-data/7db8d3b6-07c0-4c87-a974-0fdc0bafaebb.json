@@ -1,0 +1,15 @@
+{
+  "uuid": "7db8d3b6-07c0-4c87-a974-0fdc0bafaebb",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_IDLETIMER.so",
+  "size": 14984,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.331631391Z",
+  "sha256_hash": "27302aff4d04cbaca96dbdcade656be54f67e9d7f2a39995b144eed33499a1e2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.672278122Z"
+}

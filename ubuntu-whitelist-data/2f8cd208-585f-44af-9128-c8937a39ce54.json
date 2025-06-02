@@ -1,0 +1,17 @@
+{
+  "uuid": "2f8cd208-585f-44af-9128-c8937a39ce54",
+  "path": "/lib/rustlib/x86_64-unknown-linux-gnu/lib/libprofiler_builtins-051ac62e7dcca9d2.rlib",
+  "size": 159716,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T17:41:10.588616755Z",
+  "sha256_hash": "bbc0f2b5cb4c2e30e0fc893dbfb9985758749ae526c1ee6a9a8b96e26f90753d",
+  "file_type": {
+    "Other": "rlib"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.288025247Z"
+}

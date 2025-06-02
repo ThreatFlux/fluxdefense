@@ -1,0 +1,15 @@
+{
+  "uuid": "f1ffa6ed-0284-423b-9ffc-395f178a80b7",
+  "path": "/usr/lib/python3.12/test/test_asyncio/echo3.py",
+  "size": 276,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.003551618Z",
+  "sha256_hash": "a1594721860e47e5c57d144a946b1370f717236442aefedabfbd11a42e12aefb",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.643797621Z"
+}

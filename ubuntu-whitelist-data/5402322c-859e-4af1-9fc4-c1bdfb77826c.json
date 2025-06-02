@@ -1,0 +1,17 @@
+{
+  "uuid": "5402322c-859e-4af1-9fc4-c1bdfb77826c",
+  "path": "/usr/lib/firmware/amdgpu/beige_goby_me.bin.zst",
+  "size": 8333,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.387543820Z",
+  "sha256_hash": "c42640bb8b51b7ebe2acb552fe825e61a742fefe3e768b8348f03172758799f1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.762888183Z"
+}

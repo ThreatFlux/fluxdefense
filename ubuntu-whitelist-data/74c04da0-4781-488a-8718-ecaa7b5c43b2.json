@@ -1,0 +1,17 @@
+{
+  "uuid": "74c04da0-4781-488a-8718-ecaa7b5c43b2",
+  "path": "/lib/llvm-18/include/clang/Lex/VariadicMacroSupport.h",
+  "size": 9214,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.545533371Z",
+  "sha256_hash": "ee7c52349340f23f25c6958d90a6dce772e7972911ed5983edfad205ba8e4e6d",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.173953322Z"
+}

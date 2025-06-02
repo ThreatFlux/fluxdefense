@@ -1,0 +1,17 @@
+{
+  "uuid": "04b36102-a093-470c-a689-8db4703c9024",
+  "path": "/bin/aclocal-1.16",
+  "size": 36020,
+  "modified": "2024-02-01T18:46:14Z",
+  "created": "2025-05-28T13:47:44.600504549Z",
+  "sha256_hash": "670008c585e9467c95f0fecad139f1dea483f2d32837389b699b7802ade38997",
+  "file_type": {
+    "Other": "16"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.060777625Z"
+}

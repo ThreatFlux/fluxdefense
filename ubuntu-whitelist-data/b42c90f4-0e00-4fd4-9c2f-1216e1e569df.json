@@ -1,0 +1,15 @@
+{
+  "uuid": "b42c90f4-0e00-4fd4-9c2f-1216e1e569df",
+  "path": "/lib/google-cloud-sdk/platform/gsutil/gslib/no_op_auth_plugin.py",
+  "size": 1217,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.850929933Z",
+  "sha256_hash": "11b941bbb1915bbde3bb1cf5d128bec15fb136045a78f9024f85d1f0f67176a8",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:52.975549987Z"
+}

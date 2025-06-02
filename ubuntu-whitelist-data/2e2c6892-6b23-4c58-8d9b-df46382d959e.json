@@ -1,0 +1,17 @@
+{
+  "uuid": "2e2c6892-6b23-4c58-8d9b-df46382d959e",
+  "path": "/usr/sbin/undump.bt",
+  "size": 789,
+  "modified": "2024-03-07T22:14:52Z",
+  "created": "2025-05-09T05:08:51.886493608Z",
+  "sha256_hash": "3d71d7a0c3d22abc1aeb059fa4e512ee15e7b5640ec21b2d1dfcf442394f530b",
+  "file_type": {
+    "Other": "bt"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.494837690Z"
+}

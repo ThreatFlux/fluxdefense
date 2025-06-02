@@ -1,0 +1,17 @@
+{
+  "uuid": "3632d66a-1264-487b-88a7-d46024864b0a",
+  "path": "/lib/x86_64-linux-gnu/samba/libsocket-blocking-samba4.so.0",
+  "size": 14496,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.119634626Z",
+  "sha256_hash": "e007d98946eef067236868fe7c3adb9e01389f155023ec6a67e7f3c6fe0f8a97",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.436817137Z"
+}

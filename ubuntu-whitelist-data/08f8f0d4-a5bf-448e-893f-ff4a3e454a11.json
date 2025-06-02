@@ -1,0 +1,17 @@
+{
+  "uuid": "08f8f0d4-a5bf-448e-893f-ff4a3e454a11",
+  "path": "/lib/systemd/system/nvidia-persistenced.service",
+  "size": 316,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:03.703994113Z",
+  "sha256_hash": "5314d8d3a4575ca714bd3e4a897d7824cccba384858013ac2d5ddc038ae5219c",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.123048988Z"
+}

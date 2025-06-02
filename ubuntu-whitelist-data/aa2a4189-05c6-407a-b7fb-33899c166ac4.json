@@ -1,0 +1,17 @@
+{
+  "uuid": "aa2a4189-05c6-407a-b7fb-33899c166ac4",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/a-lfteio.ali",
+  "size": 6551,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.099344475Z",
+  "sha256_hash": "ea82b0d6eafd3d0e1ff44e9166a2712ec5f818c0267bb96bea3ea49237cd74f9",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.486149383Z"
+}

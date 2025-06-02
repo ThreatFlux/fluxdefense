@@ -1,0 +1,17 @@
+{
+  "uuid": "b6377782-ebb9-45f2-9b8d-fc661b09d176",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/g-mbdira.adb",
+  "size": 9602,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.069344887Z",
+  "sha256_hash": "f0ef11a6e6a02d7892b8329aba76a0299ec713521f76c2ce965a126faeb33150",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.076062439Z"
+}

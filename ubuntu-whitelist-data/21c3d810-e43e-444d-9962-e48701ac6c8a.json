@@ -1,0 +1,15 @@
+{
+  "uuid": "21c3d810-e43e-444d-9962-e48701ac6c8a",
+  "path": "/lib/x86_64-linux-gnu/spa-0.2/alsa/libspa-alsa.so",
+  "size": 856264,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.445855731Z",
+  "sha256_hash": "5b4e7dcdc251a004df91727ee92c3312730e9c7a1abd4d301addcb63a0241fce",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.777043796Z"
+}

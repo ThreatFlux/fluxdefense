@@ -1,0 +1,17 @@
+{
+  "uuid": "06ae3ee1-fc0b-4635-b4d7-2ae22d6e53d6",
+  "path": "/lib/llvm-18/include/clang-tidy/readability/StaticDefinitionInAnonymousNamespaceCheck.h",
+  "size": 1409,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "8f23e2fb72a40f41a16e054a0a2648f78b9258c7c3afe9a5ff1c4dc7ba93c574",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.923377634Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "be84c5d7-1fbd-4013-bead-bfc3c9828663",
+  "path": "/usr/lib/firmware/intel/sof-ipc4-tplg/sof-mtl-es83x6-ssp1.tplg.zst",
+  "size": 1405,
+  "modified": "2025-01-06T07:09:53Z",
+  "created": "2025-05-09T05:08:52.055491029Z",
+  "sha256_hash": "6d6bda9be32f9bb1ec020e6f3e674c5fddaa714ea024536893d6901fd3208c7f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.686640830Z"
+}

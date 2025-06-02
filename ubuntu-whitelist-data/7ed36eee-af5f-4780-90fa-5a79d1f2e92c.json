@@ -1,0 +1,15 @@
+{
+  "uuid": "7ed36eee-af5f-4780-90fa-5a79d1f2e92c",
+  "path": "/bin/zfgrep",
+  "size": 29,
+  "modified": "2024-04-08T15:58:45Z",
+  "created": "2025-05-09T05:07:20.956881265Z",
+  "sha256_hash": "87ab5f4c7cb344e409d614d1a69cc156b3b1053d6ae0b59d8e2c2131f3e63e5a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:23.405402883Z"
+}

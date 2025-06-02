@@ -1,0 +1,15 @@
+{
+  "uuid": "58bcdb5d-ea30-491b-a498-a21743117fdf",
+  "path": "/usr/bin/ldapurl",
+  "size": 14648,
+  "modified": "2024-12-09T02:50:18Z",
+  "created": "2025-05-09T05:24:29.624989181Z",
+  "sha256_hash": "05f55ae5dc4d16cd597faae72ab3a4c469d5f9d499ab8e57608e60e26a474358",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:13.946267188Z"
+}

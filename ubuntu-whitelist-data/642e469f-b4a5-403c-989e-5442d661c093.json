@@ -1,0 +1,17 @@
+{
+  "uuid": "642e469f-b4a5-403c-989e-5442d661c093",
+  "path": "/lib/x86_64-linux-gnu/bpf/xdpfilt_alw_tcp.o",
+  "size": 18512,
+  "modified": "2024-04-01T04:46:20Z",
+  "created": "2025-05-26T20:18:27.419017429Z",
+  "sha256_hash": "ab854d86ebca5aa02cafc811f0255de1443636366dcfa9a28678632ba330b5ac",
+  "file_type": {
+    "Other": "o"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.403234186Z"
+}

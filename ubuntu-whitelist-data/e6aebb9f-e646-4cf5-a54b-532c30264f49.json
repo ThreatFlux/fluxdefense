@@ -1,0 +1,15 @@
+{
+  "uuid": "e6aebb9f-e646-4cf5-a54b-532c30264f49",
+  "path": "/usr/lib/evolution-data-server/registry-modules/module-gnome-online-accounts.so",
+  "size": 59560,
+  "modified": "2024-06-28T14:17:25Z",
+  "created": "2025-05-09T05:07:21.658870553Z",
+  "sha256_hash": "906966ea97207403fa6f92431ff12589cc9e7c972156f5bf15acc19bbb456f1b",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.050701243Z"
+}

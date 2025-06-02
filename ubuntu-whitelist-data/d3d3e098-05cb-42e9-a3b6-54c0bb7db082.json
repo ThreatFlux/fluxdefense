@@ -1,0 +1,17 @@
+{
+  "uuid": "d3d3e098-05cb-42e9-a3b6-54c0bb7db082",
+  "path": "/lib/x86_64-linux-gnu/libtasn1.so.6.6.3",
+  "size": 88216,
+  "modified": "2025-02-11T20:19:02Z",
+  "created": "2025-05-09T05:11:24.684161395Z",
+  "sha256_hash": "7c9c7830afbaac7b07ec21ddaa6b4d606423432c264efd2636e8ca9734b4d7b6",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.586670862Z"
+}

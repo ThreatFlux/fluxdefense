@@ -1,0 +1,17 @@
+{
+  "uuid": "342a63f0-ab6b-4dd1-af00-48c919ef603f",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/NonZeroEnumToBoolConversionCheck.h",
+  "size": 1527,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "4dd24cbbc54bba58ea544995eaa708298214a7c9b9c5919b8be880fb3c947a06",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.898849289Z"
+}

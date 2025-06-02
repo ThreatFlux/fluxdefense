@@ -1,0 +1,17 @@
+{
+  "uuid": "5c5bbfa6-ccb7-42c6-b161-99ea59a6fa06",
+  "path": "/usr/lib/modprobe.d/systemd.conf",
+  "size": 821,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.508779291Z",
+  "sha256_hash": "e5a3958cbd3684b63f3cada6604469cc56f727b106d5524daf5aefa6935a48ce",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.651639440Z"
+}

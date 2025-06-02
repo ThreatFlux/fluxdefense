@@ -1,0 +1,15 @@
+{
+  "uuid": "e508017a-2697-4f4d-b5bf-f46691b222ae",
+  "path": "/lib/x86_64-linux-gnu/gconv/CP1254.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.606657714Z",
+  "sha256_hash": "25b443f98783429cb8ffdf9a6220ffc52b5e27c951bb671a81a57e2102c738d0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.767180613Z"
+}

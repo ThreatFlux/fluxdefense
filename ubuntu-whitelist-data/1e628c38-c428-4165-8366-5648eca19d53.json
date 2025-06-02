@@ -1,0 +1,15 @@
+{
+  "uuid": "1e628c38-c428-4165-8366-5648eca19d53",
+  "path": "/lib/x86_64-linux-gnu/ModemManager/libmm-shared-foxconn.so",
+  "size": 22696,
+  "modified": "2024-03-31T02:34:30Z",
+  "created": "2025-05-09T05:07:35.161664505Z",
+  "sha256_hash": "aff82b84e417122eadef74b72aff8372608d78da418dbcf21d0cf6a326550940",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.563067845Z"
+}

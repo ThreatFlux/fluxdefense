@@ -1,0 +1,15 @@
+{
+  "uuid": "fa7785f7-1d28-4976-8d4b-2c8fc647c34f",
+  "path": "/usr/lib/speech-dispatcher-modules/sd_espeak-ng",
+  "size": 67816,
+  "modified": "2024-04-07T07:23:33Z",
+  "created": "2025-05-09T05:07:28.219770436Z",
+  "sha256_hash": "42980f4a9829c2ca80e756c98c1a332e77ff8be41bf1ced10c16f41e1d0b2765",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.272861209Z"
+}

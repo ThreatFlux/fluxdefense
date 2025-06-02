@@ -1,0 +1,17 @@
+{
+  "uuid": "7c31c528-33e8-4c7d-920c-cd72ff82631c",
+  "path": "/lib/udev/rules.d/70-memory.rules",
+  "size": 184,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.061786361Z",
+  "sha256_hash": "46b8696d6ad29b2e80b9dcad60ddb2e4a3deee5a5b1df09f116f1ca9d4dfb150",
+  "file_type": {
+    "Other": "rules"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.243875670Z"
+}

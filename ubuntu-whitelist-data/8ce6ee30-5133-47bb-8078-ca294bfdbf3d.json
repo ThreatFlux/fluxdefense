@@ -1,0 +1,15 @@
+{
+  "uuid": "8ce6ee30-5133-47bb-8078-ca294bfdbf3d",
+  "path": "/bin/chsh",
+  "size": 44760,
+  "modified": "2024-05-30T14:52:35Z",
+  "created": "2025-05-09T05:07:19.102909555Z",
+  "sha256_hash": "d7aad828e159b1d570f643d2cbe44d551a5b9bc9b2870dab3fd5cbc5260e749d",
+  "file_type": "Executable",
+  "permissions": 35309,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.876136706Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d7fa93f5-5f09-4cdf-9ed3-277f65c1e86c",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/organizations/remove_iam_policy_binding.yaml",
+  "size": 2239,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.635933586Z",
+  "sha256_hash": "3c62f10dd5c18a2058123e42ece53cd32cacd63b252b0fa40e7e60b2b5ea7357",
+  "file_type": {
+    "Other": "yaml"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.835477970Z"
+}

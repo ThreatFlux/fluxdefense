@@ -1,0 +1,15 @@
+{
+  "uuid": "ff5555f2-c4a0-4a35-bbd5-7e0a7110e904",
+  "path": "/lib/snapd/etelpmoc.sh",
+  "size": 7031,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.422026330Z",
+  "sha256_hash": "a257cd3218b3633d1df6d22d829e8a55e7c0807ade8ab62e03c8f667d29e83ee",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.074016471Z"
+}

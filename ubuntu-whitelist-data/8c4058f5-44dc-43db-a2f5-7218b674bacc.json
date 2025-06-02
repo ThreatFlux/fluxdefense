@@ -1,0 +1,17 @@
+{
+  "uuid": "8c4058f5-44dc-43db-a2f5-7218b674bacc",
+  "path": "/usr/lib/python3/dist-packages/pip/py.typed",
+  "size": 286,
+  "modified": "2024-10-18T17:04:47Z",
+  "created": "2025-05-28T17:29:12.724014821Z",
+  "sha256_hash": "10156fbcf4539ff788a73e5ee50ced48276b317ed0c1ded53fddd14a82256762",
+  "file_type": {
+    "Other": "typed"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:26.491309412Z"
+}

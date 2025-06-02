@@ -1,0 +1,17 @@
+{
+  "uuid": "da0102f7-370a-4afd-ac5b-42d8a7a78964",
+  "path": "/usr/lib/x86_64-linux-gnu/libwebpdemux.so.2.0.14",
+  "size": 22744,
+  "modified": "2024-03-31T08:02:02Z",
+  "created": "2025-05-09T05:07:34.994667053Z",
+  "sha256_hash": "f31bf01638c352533e18720676db66fcb190a622db5bf617558a49bc445d0b83",
+  "file_type": {
+    "Other": "14"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.603511295Z"
+}

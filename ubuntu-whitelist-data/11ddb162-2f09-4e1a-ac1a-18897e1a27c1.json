@@ -1,0 +1,17 @@
+{
+  "uuid": "11ddb162-2f09-4e1a-ac1a-18897e1a27c1",
+  "path": "/usr/lib/systemd/system/boot-complete.target",
+  "size": 463,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.510779317Z",
+  "sha256_hash": "25f736b79c9a15eef0de23081e026113f94e86c5700be4c6e232579522531d8b",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.463022487Z"
+}

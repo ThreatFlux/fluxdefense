@@ -1,0 +1,17 @@
+{
+  "uuid": "178a27f3-c8fb-422e-a0cd-c90ecdef56f8",
+  "path": "/lib/x86_64-linux-gnu/libatm.so.1.0.0",
+  "size": 47872,
+  "modified": "2024-04-03T02:14:52Z",
+  "created": "2025-05-09T05:07:29.180755772Z",
+  "sha256_hash": "55e61173528a7d548df58b7c219cc4ff96d02c3fca18571d61724d75adee94cd",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:28.933352996Z"
+}

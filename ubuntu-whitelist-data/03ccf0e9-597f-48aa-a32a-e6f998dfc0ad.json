@@ -1,0 +1,17 @@
+{
+  "uuid": "03ccf0e9-597f-48aa-a32a-e6f998dfc0ad",
+  "path": "/lib/x86_64-linux-gnu/perl5/5.38/Cairo.pm",
+  "size": 29747,
+  "modified": "2021-01-20T05:59:47Z",
+  "created": "2025-05-09T05:07:36.872638395Z",
+  "sha256_hash": "040ee0ba7d33fa5dd785c73de837bf00fd27fe623c65c945d1bb5c41e32a3ad8",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.349021009Z"
+}

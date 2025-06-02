@@ -1,0 +1,17 @@
+{
+  "uuid": "8c8a7f3e-f171-44a0-ab74-6166f93e301f",
+  "path": "/usr/lib/firmware/nvidia/gm200/gr/sw_ctx.bin.zst",
+  "size": 1076,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.937536202Z",
+  "sha256_hash": "70fc806101bc01214a5d393c860d00a4e3790b43715e92fd709e27c5f769e500",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.253105233Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "1153ac3a-8f4e-45f0-a0ba-e9fc96d23800",
+  "path": "/usr/bin/kerneloops-submit",
+  "size": 14488,
+  "modified": "2024-03-31T09:04:26Z",
+  "created": "2025-05-09T05:07:20.081894616Z",
+  "sha256_hash": "ed97d582c85dfe6652d1bc3cc38be6bce107935ae452550f5678488f525c587f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:05.790974459Z"
+}

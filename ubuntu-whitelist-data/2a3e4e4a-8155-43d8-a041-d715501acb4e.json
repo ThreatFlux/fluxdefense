@@ -1,0 +1,17 @@
+{
+  "uuid": "2a3e4e4a-8155-43d8-a041-d715501acb4e",
+  "path": "/lib/llvm-18/include/clang/Basic/HeaderInclude.h",
+  "size": 2506,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.530533568Z",
+  "sha256_hash": "953215e789d172657dd26e62b6d0a829bc1ec8aa4f8c7654830446e2c9f4b919",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.102524422Z"
+}

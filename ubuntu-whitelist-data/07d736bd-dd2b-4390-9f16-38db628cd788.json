@@ -1,0 +1,17 @@
+{
+  "uuid": "07d736bd-dd2b-4390-9f16-38db628cd788",
+  "path": "/usr/lib/x86_64-linux-gnu/libext2fs.so.2.4",
+  "size": 434536,
+  "modified": "2024-04-28T23:44:46Z",
+  "created": "2025-05-09T05:07:29.424752049Z",
+  "sha256_hash": "4b03abd4f5ec8a5d7519d34931feaa39ca73b21e6946f90b328e67e0cf95ed72",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.136441069Z"
+}

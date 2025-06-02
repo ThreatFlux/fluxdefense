@@ -1,0 +1,15 @@
+{
+  "uuid": "229cf97d-df83-4b5a-9bd9-501d6061ddf5",
+  "path": "/usr/lib/llvm-18/lib/libLLVMObject.a",
+  "size": 3657324,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.942462296Z",
+  "sha256_hash": "a045809dcb7da842c79c34e65873ba4afe7d0d65507fc8a08023766cd84fffe1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:34.962833950Z"
+}

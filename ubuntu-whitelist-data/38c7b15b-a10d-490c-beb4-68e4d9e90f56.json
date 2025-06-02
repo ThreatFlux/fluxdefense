@@ -1,0 +1,17 @@
+{
+  "uuid": "38c7b15b-a10d-490c-beb4-68e4d9e90f56",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-wtflio.adb",
+  "size": 7126,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.062344984Z",
+  "sha256_hash": "8f4da8c0811d0fa521ba3e53408dad7c9423c0cf8f818badc9937cf96ff50718",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.073353310Z"
+}

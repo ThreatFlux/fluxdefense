@@ -1,0 +1,17 @@
+{
+  "uuid": "e6df302e-d175-4210-9580-a3e9b91100d0",
+  "path": "/lib/google-cloud-sdk/lib/googlecloudsdk/generated_clients/regen_apis_config.yaml",
+  "size": 75482,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.483936168Z",
+  "sha256_hash": "983b9c81317a0e25421fff5f2a9e06e45515ea1724962c6d4a4185f43132079e",
+  "file_type": {
+    "Other": "yaml"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.854077844Z"
+}

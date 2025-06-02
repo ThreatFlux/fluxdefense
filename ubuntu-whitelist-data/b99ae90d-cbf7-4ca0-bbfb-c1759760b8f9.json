@@ -1,0 +1,17 @@
+{
+  "uuid": "b99ae90d-cbf7-4ca0-bbfb-c1759760b8f9",
+  "path": "/lib/tmpfiles.d/static-nodes-permissions.conf",
+  "size": 798,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:14.044786143Z",
+  "sha256_hash": "ca4849c27428fd648f6377dd51a3ab0eb79de69fce1bdc910670012c0cf26f85",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.760582929Z"
+}

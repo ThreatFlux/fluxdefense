@@ -1,0 +1,15 @@
+{
+  "uuid": "eaa01428-b0e1-4e96-8259-daa9b093a506",
+  "path": "/lib/x86_64-linux-gnu/xtables/libxt_SECMARK.so",
+  "size": 14984,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.331631391Z",
+  "sha256_hash": "a356769885d3e9979f38643007289525482137f6512f951bff0c7127a8094229",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.686828323Z"
+}

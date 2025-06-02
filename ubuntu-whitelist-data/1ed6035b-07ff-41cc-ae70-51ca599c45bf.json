@@ -1,0 +1,17 @@
+{
+  "uuid": "1ed6035b-07ff-41cc-ae70-51ca599c45bf",
+  "path": "/lib/linux-hwe-6.11-tools-6.11.0-25/bpftool",
+  "size": 2063704,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:56.850417849Z",
+  "sha256_hash": "ef3e42167bf9c8af96c525f42472c86b457c38bf042fb16fd6b812a30332a12d",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.761651225Z"
+}

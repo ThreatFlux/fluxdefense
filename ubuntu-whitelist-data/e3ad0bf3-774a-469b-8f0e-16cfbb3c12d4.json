@@ -1,0 +1,15 @@
+{
+  "uuid": "e3ad0bf3-774a-469b-8f0e-16cfbb3c12d4",
+  "path": "/usr/libexec/gdm-auth-config-debian",
+  "size": 4720,
+  "modified": "2024-12-02T22:47:57Z",
+  "created": "2025-05-09T05:07:37.421630018Z",
+  "sha256_hash": "aafbe216ada3c0d01fd4d12b0d1f972cc412b62e133318a21f4cd769d6dc8002",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.480777703Z"
+}

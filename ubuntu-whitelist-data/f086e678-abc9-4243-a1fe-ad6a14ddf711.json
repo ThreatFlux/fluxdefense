@@ -1,0 +1,15 @@
+{
+  "uuid": "f086e678-abc9-4243-a1fe-ad6a14ddf711",
+  "path": "/lib/python3/dist-packages/cloudinit/config/cc_power_state_change.py",
+  "size": 6233,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.235037163Z",
+  "sha256_hash": "a3a4f3d013ca5c5431c12073219841012b06e57650908dae4e2a6216abdf9f1c",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:33.915284852Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a45f7090-939d-41b7-8418-449e8dbd9329",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-stausa.adb",
+  "size": 20246,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.089344612Z",
+  "sha256_hash": "48d93e7a1b291ae62ff22ea6bfa80589474ca98c39d0a6efe81ebecba1b07346",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.209194185Z"
+}

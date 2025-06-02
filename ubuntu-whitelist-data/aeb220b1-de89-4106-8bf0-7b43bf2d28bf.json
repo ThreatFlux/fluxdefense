@@ -1,0 +1,17 @@
+{
+  "uuid": "aeb220b1-de89-4106-8bf0-7b43bf2d28bf",
+  "path": "/lib/llvm-18/include/clang-tidy/modernize/UseEmplaceCheck.h",
+  "size": 1918,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "5b732f1d71d638d5d88001900296e77ff4cb36bc12bc13ce123a64627f62bb28",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.909345292Z"
+}

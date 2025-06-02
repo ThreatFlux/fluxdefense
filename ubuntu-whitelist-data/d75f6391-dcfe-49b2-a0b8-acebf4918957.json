@@ -1,0 +1,17 @@
+{
+  "uuid": "d75f6391-dcfe-49b2-a0b8-acebf4918957",
+  "path": "/usr/lib/x86_64-linux-gnu/libwmf-0.2.so.7.1.5",
+  "size": 299880,
+  "modified": "2024-03-31T02:20:53Z",
+  "created": "2025-05-09T05:07:35.012666778Z",
+  "sha256_hash": "408f76e4821944a0a7a49c25128b8b009ec4efebd134d563cd94926df4f69813",
+  "file_type": {
+    "Other": "5"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.101711135Z"
+}

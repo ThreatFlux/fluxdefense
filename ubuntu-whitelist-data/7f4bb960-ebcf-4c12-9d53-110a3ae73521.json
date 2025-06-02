@@ -1,0 +1,17 @@
+{
+  "uuid": "7f4bb960-ebcf-4c12-9d53-110a3ae73521",
+  "path": "/usr/lib/x86_64-linux-gnu/libshotwell-authenticator.so.0.32.6",
+  "size": 104816,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:32.160710299Z",
+  "sha256_hash": "131e117897b23c3b4dc2cf08351fb520c37f42a8cb94b4b17869ac786782bf8c",
+  "file_type": {
+    "Other": "6"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.745641664Z"
+}

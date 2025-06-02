@@ -1,0 +1,15 @@
+{
+  "uuid": "31a9a2c6-3f55-4b07-a966-ae2994785ba4",
+  "path": "/lib/google-cloud-sdk/lib/surface/firestore/bulk_delete.py",
+  "size": 2529,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.709932328Z",
+  "sha256_hash": "220d61c29cae1f0c0b949718dd76c79e0d01a84d61fbd52a80a5609f8b59eb94",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.066403762Z"
+}

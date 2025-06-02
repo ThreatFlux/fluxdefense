@@ -1,0 +1,17 @@
+{
+  "uuid": "65ee2b6a-62d9-450f-946f-8624a6e96721",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/phondata-manifest",
+  "size": 21854,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.496659393Z",
+  "sha256_hash": "3967a187bd704610d042ed90ba3597a67f875fc14689bf9ff5b0d75212a792d2",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.380998717Z"
+}

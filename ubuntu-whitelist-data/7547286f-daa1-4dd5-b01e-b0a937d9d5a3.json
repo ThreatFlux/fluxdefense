@@ -1,0 +1,15 @@
+{
+  "uuid": "7547286f-daa1-4dd5-b01e-b0a937d9d5a3",
+  "path": "/usr/sbin/pwck",
+  "size": 55592,
+  "modified": "2024-05-30T14:52:35Z",
+  "created": "2025-05-09T05:07:38.404615017Z",
+  "sha256_hash": "d30ef4731da8d3376af9446fce57d1f41cf79ab8742a9fd4069fff4ad84c1934",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.174351909Z"
+}

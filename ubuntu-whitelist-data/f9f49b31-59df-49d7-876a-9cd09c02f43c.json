@@ -1,0 +1,17 @@
+{
+  "uuid": "f9f49b31-59df-49d7-876a-9cd09c02f43c",
+  "path": "/lib/x86_64-linux-gnu/samba/libad-claims-samba4.so.0",
+  "size": 31024,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.032635954Z",
+  "sha256_hash": "ce109e0bd7cfd48feaf980b0a37c97fd3469b1e2fb5b0be0437cfaf81045cfbb",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.537524998Z"
+}

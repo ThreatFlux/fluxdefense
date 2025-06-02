@@ -1,0 +1,17 @@
+{
+  "uuid": "558dc734-84fd-4d87-bd6e-91cc68385cc9",
+  "path": "/lib/evolution-data-server/camel-providers/libcamelsendmail.urls",
+  "size": 9,
+  "modified": "2024-06-28T07:29:41Z",
+  "created": "2025-05-09T05:07:21.658870553Z",
+  "sha256_hash": "358c888483e3c4e1592218d269888fba81a851c26da34d308d3d4e674410f9c6",
+  "file_type": {
+    "Other": "urls"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.286201991Z"
+}

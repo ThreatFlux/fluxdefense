@@ -1,0 +1,17 @@
+{
+  "uuid": "c36d826e-7c92-4e54-a132-0c1fa73d40b3",
+  "path": "/usr/lib/llvm-18/include/clang/AST/ASTNodeTraverser.h",
+  "size": 26045,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.511533818Z",
+  "sha256_hash": "126c589123e8b0048cf30e4d3b21045d8a12e65d73b2c6fa4a4ae61806deac40",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.336425147Z"
+}

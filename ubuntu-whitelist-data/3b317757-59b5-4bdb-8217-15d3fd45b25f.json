@@ -1,0 +1,17 @@
+{
+  "uuid": "3b317757-59b5-4bdb-8217-15d3fd45b25f",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/gconv-modules.d/gconv-modules-extra.conf",
+  "size": 53974,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.703656234Z",
+  "sha256_hash": "66a58a04bc649608be7dfea12bc204b808c417d50e30bfb2ab090a3aefc89b42",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.488189405Z"
+}

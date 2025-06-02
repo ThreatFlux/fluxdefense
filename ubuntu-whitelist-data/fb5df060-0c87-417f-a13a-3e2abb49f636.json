@@ -1,0 +1,17 @@
+{
+  "uuid": "fb5df060-0c87-417f-a13a-3e2abb49f636",
+  "path": "/lib/firmware/nvidia/ga106/gr/NET_img.bin.zst",
+  "size": 68811,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.936536216Z",
+  "sha256_hash": "0d94e88b556ef3bd394b5ff40eef551dd7c4072b3b9e21fd9eb87298b58fed5c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.420968322Z"
+}

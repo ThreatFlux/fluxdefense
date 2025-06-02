@@ -1,0 +1,15 @@
+{
+  "uuid": "db9aa798-d853-4227-968e-6ee23c3d3c81",
+  "path": "/sbin/dcsnoop-bpfcc",
+  "size": 4126,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.521499179Z",
+  "sha256_hash": "1d8bb340e45c05673ec52dae16ce5f3e86db44028d237b6e7338c3df80b87bbf",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.007251529Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "ca4a87f0-8947-485d-9e4d-55675dfcb2d1",
+  "path": "/lib/x86_64-linux-gnu/libproxy/libpxbackend-1.0.so",
+  "size": 55288,
+  "modified": "2024-03-31T07:56:17Z",
+  "created": "2025-05-09T05:07:36.539643477Z",
+  "sha256_hash": "afe8aea2d1fbefa5c5037817db601bcfb774b7ac86aee4d1b8fa100912546add",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.383392634Z"
+}

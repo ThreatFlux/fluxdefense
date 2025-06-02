@@ -1,0 +1,15 @@
+{
+  "uuid": "74d99760-9c5c-40a0-b806-26dec3499d82",
+  "path": "/lib/llvm-18/lib/libLLVMBitWriter.a",
+  "size": 554202,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.822463877Z",
+  "sha256_hash": "83abf85ab787458b98f13e3f1352a7cb5cb93962b421bae835933e3c0aa03a02",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:40.870989068Z"
+}

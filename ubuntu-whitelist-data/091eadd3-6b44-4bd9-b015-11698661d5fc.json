@@ -1,0 +1,15 @@
+{
+  "uuid": "091eadd3-6b44-4bd9-b015-11698661d5fc",
+  "path": "/usr/libexec/sudo/sudo_noexec.so",
+  "size": 14480,
+  "modified": "2024-04-08T14:50:39Z",
+  "created": "2025-05-09T05:07:38.092619779Z",
+  "sha256_hash": "7667f9990c9e9f8ba3678ba48a0518a775debaa2a8438c124d7fac16918d6c68",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.191019580Z"
+}

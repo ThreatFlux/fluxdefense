@@ -1,0 +1,17 @@
+{
+  "uuid": "9a9d789f-a841-4715-aa4e-404b4c2706d4",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/Lambda.h",
+  "size": 1399,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "0c352b167767cc7dc78ed8dc880067657c59a05cd1f018215240bfa7e5b3b368",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.560823211Z"
+}

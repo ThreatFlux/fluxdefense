@@ -1,0 +1,17 @@
+{
+  "uuid": "db8613eb-871b-42eb-b45a-05d23d5a41b3",
+  "path": "/usr/lib/firmware/intel/sof/community/sof-jsl.ri.zst",
+  "size": 215364,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.042491227Z",
+  "sha256_hash": "e522e52e7799bff34e08562cf9b3bcf56b1e091d216b2893404ce7dd5aecd0ca",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.644347928Z"
+}

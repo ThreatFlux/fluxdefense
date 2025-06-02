@@ -1,0 +1,17 @@
+{
+  "uuid": "a21a1744-0cd6-44d6-a631-df3cfa60b753",
+  "path": "/lib/systemd/user/keyboxd.service",
+  "size": 210,
+  "modified": "2024-03-01T08:25:55Z",
+  "created": "2025-05-09T05:11:24.480164509Z",
+  "sha256_hash": "cba1aa10c072d982135d2367a7e957d6787037ab232fd148144eca39a92ec2e6",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.146247056Z"
+}

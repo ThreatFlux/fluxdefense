@@ -1,0 +1,17 @@
+{
+  "uuid": "b4dd76a2-681f-4978-9dff-0da00d7704d9",
+  "path": "/lib/udev/hwdb.d/20-OUI.hwdb",
+  "size": 2659372,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.045786156Z",
+  "sha256_hash": "4e2bd58ce14d8edf1b92402b211783fe785f72e9296fd461fc7feb044b9e8d33",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.307758569Z"
+}

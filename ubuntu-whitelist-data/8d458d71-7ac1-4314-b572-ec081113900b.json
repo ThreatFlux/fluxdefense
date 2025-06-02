@@ -1,0 +1,15 @@
+{
+  "uuid": "8d458d71-7ac1-4314-b572-ec081113900b",
+  "path": "/usr/bin/gnome-session-inhibit",
+  "size": 22848,
+  "modified": "2024-04-15T15:49:55Z",
+  "created": "2025-05-09T05:07:19.661901025Z",
+  "sha256_hash": "79e4c939570082c3ecec9550a4b02de3028d7937b26183534a8e008abce0c869",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:08.025036687Z"
+}

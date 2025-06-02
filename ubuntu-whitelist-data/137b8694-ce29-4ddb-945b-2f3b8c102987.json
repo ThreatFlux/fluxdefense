@@ -1,0 +1,17 @@
+{
+  "uuid": "137b8694-ce29-4ddb-945b-2f3b8c102987",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-clrefi.adb",
+  "size": 2598,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.048345176Z",
+  "sha256_hash": "b3d6b483cef54d46d7835d19e295d534944d666dc3b6cc54d9d37e2fbbef8589",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.019581859Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "482badd7-21cf-439c-9dee-087d377cc971",
+  "path": "/usr/lib/google-cloud-sdk/lib/third_party/pyasn1_modules/rfc3281.py",
+  "size": 9866,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.102942642Z",
+  "sha256_hash": "fb2385c61ded9eadf8450a6789284187ec5f6d91b17919ccbf59e39f4fd84b57",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.722573376Z"
+}

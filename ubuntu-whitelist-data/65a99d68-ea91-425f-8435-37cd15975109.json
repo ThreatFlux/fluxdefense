@@ -1,0 +1,15 @@
+{
+  "uuid": "65a99d68-ea91-425f-8435-37cd15975109",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstvpx.so",
+  "size": 101008,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.777655105Z",
+  "sha256_hash": "4ece8f00a929e4eb8361f79452a2b176250c1dd25dae6de9e62351b4891a0ac7",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.082431426Z"
+}

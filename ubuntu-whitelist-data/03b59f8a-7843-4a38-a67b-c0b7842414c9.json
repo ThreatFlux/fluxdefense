@@ -1,0 +1,17 @@
+{
+  "uuid": "03b59f8a-7843-4a38-a67b-c0b7842414c9",
+  "path": "/lib/x86_64-linux-gnu/libp11-kit.so.0.3.1",
+  "size": 1714008,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T05:07:31.779716112Z",
+  "sha256_hash": "c6b469a006685ebf2075e200180c3b21f41b88ad722c5697d736ea558cfe3ea1",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.817596132Z"
+}

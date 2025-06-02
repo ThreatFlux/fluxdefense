@@ -1,0 +1,17 @@
+{
+  "uuid": "93337c00-1e0d-4aed-bc24-794550130a53",
+  "path": "/lib/python3.12/test/certdata/idnsans.pem",
+  "size": 9946,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.987551828Z",
+  "sha256_hash": "e018176ceda72da4521485d8143cfbf610179b33d90c4734eebc701f4122f2b2",
+  "file_type": {
+    "Other": "pem"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.634695511Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "72bf9958-0913-4b4a-8927-aa5eaea71f26",
+  "path": "/lib/x86_64-linux-gnu/gstreamer-1.0/libgstsid.so",
+  "size": 35304,
+  "modified": "2024-03-31T08:55:07Z",
+  "created": "2025-05-09T05:09:27.688947179Z",
+  "sha256_hash": "5db2526178e4d66802fd8f84be92817dcc3e3def95e32bec8d53798121731082",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.200851156Z"
+}

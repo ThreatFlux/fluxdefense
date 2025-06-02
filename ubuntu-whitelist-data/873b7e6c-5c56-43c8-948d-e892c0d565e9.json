@@ -1,0 +1,15 @@
+{
+  "uuid": "873b7e6c-5c56-43c8-948d-e892c0d565e9",
+  "path": "/usr/lib/x86_64-linux-gnu/remmina/plugins/remmina-plugin-vnc.so",
+  "size": 57288,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:36.981636732Z",
+  "sha256_hash": "7185a75c5d69433b08b56de8a32a75d4f8c3b9f4337573a7a4dc8c31b69ca301",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.314453076Z"
+}

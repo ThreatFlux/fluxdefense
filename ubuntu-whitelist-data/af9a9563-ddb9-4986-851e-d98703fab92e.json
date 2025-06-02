@@ -1,0 +1,17 @@
+{
+  "uuid": "af9a9563-ddb9-4986-851e-d98703fab92e",
+  "path": "/usr/lib/x86_64-linux-gnu/pkgconfig/libcrypto.pc",
+  "size": 334,
+  "modified": "2025-02-05T13:17:43Z",
+  "created": "2025-05-12T13:31:13.682137834Z",
+  "sha256_hash": "5ee15f7ae51df9d9eeb6128097c027a066d34ee5196569f6a2b24b6b01a0df9e",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.060559039Z"
+}

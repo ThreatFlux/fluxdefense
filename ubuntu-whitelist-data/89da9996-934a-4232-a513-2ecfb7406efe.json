@@ -1,0 +1,17 @@
+{
+  "uuid": "89da9996-934a-4232-a513-2ecfb7406efe",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/StandaloneEmptyCheck.h",
+  "size": 1397,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "087f49dc5d3827652c59296808465e9c7236179dc364aad4a3ab25355b617cc1",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.895894546Z"
+}

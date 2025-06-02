@@ -1,0 +1,17 @@
+{
+  "uuid": "6068c0da-f950-4a9c-9546-072e42a75b83",
+  "path": "/usr/lib/systemd/system/lvm2-lvmpolld.service",
+  "size": 327,
+  "modified": "2024-11-27T19:06:49Z",
+  "created": "2025-05-09T05:56:54.626585473Z",
+  "sha256_hash": "7e9205f72fb0a0406585b897cebe80c6e7d7397b7dfd7cca75da95528d1bcdd1",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.462323116Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f299ddc1-994a-440a-b96e-1811138b47c6",
+  "path": "/usr/lib/firmware/amdgpu/tonga_vce.bin.zst",
+  "size": 93178,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.418543391Z",
+  "sha256_hash": "d88dac856c8dd8f952af36ce6cacc49efd96c602d387ed3f19c62cced2aee16b",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.033415545Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "9606b543-cf21-46db-8c24-f86997d4a3e7",
+  "path": "/usr/lib/x86_64-linux-gnu/librte_telemetry.so.24.0",
+  "size": 36480,
+  "modified": "2024-12-18T18:31:38Z",
+  "created": "2025-05-26T20:18:25.278049770Z",
+  "sha256_hash": "98f73f992b3a2c3e45315996349d1882a902c6eda74f439c4994c908c68143bc",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.808029971Z"
+}

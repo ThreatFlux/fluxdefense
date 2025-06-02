@@ -1,0 +1,17 @@
+{
+  "uuid": "3cefe480-1928-4e2a-8136-f18dd3316b37",
+  "path": "/lib/firmware/amdgpu/vega12_rlc.bin.zst",
+  "size": 8833,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.424543308Z",
+  "sha256_hash": "fa10a3fb0b5f62223832e4c02433a04cad4cdeaeeff693bcb587fdabcfc6adc2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.886502454Z"
+}

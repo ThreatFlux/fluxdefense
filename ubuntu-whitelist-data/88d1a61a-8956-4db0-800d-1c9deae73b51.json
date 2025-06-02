@@ -1,0 +1,17 @@
+{
+  "uuid": "88d1a61a-8956-4db0-800d-1c9deae73b51",
+  "path": "/usr/lib/x86_64-linux-gnu/libgdbm.so.6.0.0",
+  "size": 71864,
+  "modified": "2024-03-31T05:37:25Z",
+  "created": "2025-05-09T05:07:29.780746616Z",
+  "sha256_hash": "9d4eee22c3cdfc96d92d1dd56e09114c74203a6208b98ebd724b434047e4e070",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.943756690Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "53d3bf20-38ed-432d-9575-22cdc7a96be8",
+  "path": "/lib/grub/x86_64-efi/chain.mod",
+  "size": 8280,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.802708552Z",
+  "sha256_hash": "d24b773c8645b66da9e707c54d6e9177d28f44dec72886abd420e5dc159de839",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.143950181Z"
+}

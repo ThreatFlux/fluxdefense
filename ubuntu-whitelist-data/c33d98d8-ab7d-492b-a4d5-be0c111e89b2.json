@@ -1,0 +1,15 @@
+{
+  "uuid": "c33d98d8-ab7d-492b-a4d5-be0c111e89b2",
+  "path": "/usr/lib/snapd/snap-gdb-shim",
+  "size": 968720,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.471026983Z",
+  "sha256_hash": "550d0c42d2c87f2ecb1a7a21150ab668a83fd73337ae77117825a3185f1731b9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.935650564Z"
+}

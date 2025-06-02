@@ -1,0 +1,17 @@
+{
+  "uuid": "cd408241-c756-4d90-9d11-afc0f693c1ae",
+  "path": "/lib/firmware/as102_data1_st.hex.zst",
+  "size": 32696,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.431543211Z",
+  "sha256_hash": "778dda9602e28f5523cea860bcd8a828f50ba03e80387ac05f6ed51f4c60bea1",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:01.965315394Z"
+}

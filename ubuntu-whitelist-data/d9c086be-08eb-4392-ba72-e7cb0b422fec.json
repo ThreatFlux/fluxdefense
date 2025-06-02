@@ -1,0 +1,15 @@
+{
+  "uuid": "d9c086be-08eb-4392-ba72-e7cb0b422fec",
+  "path": "/lib/x86_64-linux-gnu/sssd/libsss_krb5_common.so",
+  "size": 148712,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:37.260632475Z",
+  "sha256_hash": "7f3ce9f021902bfeaca1b91366993b384c41d0aa2ac1a1b520bd93d1b17a95fb",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.874461559Z"
+}

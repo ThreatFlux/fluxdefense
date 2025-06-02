@@ -1,0 +1,17 @@
+{
+  "uuid": "3503e4dd-39cb-4af5-9e64-fcdf1b97a16f",
+  "path": "/usr/lib/grub/x86_64-efi/xfs.mod",
+  "size": 11720,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.840707972Z",
+  "sha256_hash": "44387fb56d918aa6b9a38ea0998c74987d206f2b103eb27597e0653b1a9bb313",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.472800843Z"
+}

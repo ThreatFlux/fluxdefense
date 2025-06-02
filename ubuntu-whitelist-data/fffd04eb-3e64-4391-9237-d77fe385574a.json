@@ -1,0 +1,17 @@
+{
+  "uuid": "fffd04eb-3e64-4391-9237-d77fe385574a",
+  "path": "/lib/systemd/system/snapd.apparmor.service",
+  "size": 1299,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.384025824Z",
+  "sha256_hash": "4c90de00a7e38231ef59f3c3d8bda5334ab416edccfe5a71f0d3504fda9aea65",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.106805004Z"
+}

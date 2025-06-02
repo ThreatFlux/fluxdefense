@@ -1,0 +1,17 @@
+{
+  "uuid": "3b83d7e5-63ba-4a6f-aaf9-760f4396c1b2",
+  "path": "/lib/x86_64-linux-gnu/samba/libpac-samba4.so.0",
+  "size": 59624,
+  "modified": "2024-04-08T14:49:25Z",
+  "created": "2025-05-09T05:07:37.081635206Z",
+  "sha256_hash": "9b6376429a17a480fa0e00aba36152350b4ac0eab21fb91e86f9220626edecd6",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.495449314Z"
+}

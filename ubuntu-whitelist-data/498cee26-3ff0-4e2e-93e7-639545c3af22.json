@@ -1,0 +1,17 @@
+{
+  "uuid": "498cee26-3ff0-4e2e-93e7-639545c3af22",
+  "path": "/lib/firmware/amdgpu/vegam_rlc.bin.zst",
+  "size": 5805,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.426543280Z",
+  "sha256_hash": "f7982340d680500c4bf7964cc0bf35454c110534de04a15e66c52b7c26145c39",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.050855156Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "8361180b-3f36-47c5-a36f-3bd20ec2d078",
+  "path": "/lib/x86_64-linux-gnu/ao/plugins-4/libnas.so",
+  "size": 14672,
+  "modified": "2024-04-08T16:01:21Z",
+  "created": "2025-05-09T05:07:35.181664199Z",
+  "sha256_hash": "254c87bd879f79762e01bd41a153c2bc745e1b6bb018f786536a13ccc7feef83",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.577707062Z"
+}

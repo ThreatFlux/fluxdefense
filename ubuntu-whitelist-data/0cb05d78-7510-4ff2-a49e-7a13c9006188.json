@@ -1,0 +1,17 @@
+{
+  "uuid": "0cb05d78-7510-4ff2-a49e-7a13c9006188",
+  "path": "/lib/i386-linux-gnu/libnss_hesiod.so.2",
+  "size": 21956,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:09:46.293663217Z",
+  "sha256_hash": "837531ef303e56ad9d462d21592212ccf8f908f114f2cd2e441251c3523027cc",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:47.214147087Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "86f75c21-5c7c-412e-8609-6b79ce0cf618",
+  "path": "/lib/firmware/cs42l43.bin.zst",
+  "size": 477,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.510542117Z",
+  "sha256_hash": "3440d09a92b930773df0077a998ecb47409ed4a8afacce6c6a51307315afdcac",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.418484892Z"
+}

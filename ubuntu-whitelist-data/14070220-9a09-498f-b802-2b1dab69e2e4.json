@@ -1,0 +1,15 @@
+{
+  "uuid": "14070220-9a09-498f-b802-2b1dab69e2e4",
+  "path": "/lib/x86_64-linux-gnu/libibverbs/libipathverbs-rdmav34.so",
+  "size": 26864,
+  "modified": "2024-03-31T08:21:10Z",
+  "created": "2025-05-09T05:07:35.863653792Z",
+  "sha256_hash": "bc6729ce9f38881a09cce0a98eb7f6192ad118a67358eff02ced210b179bccd6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.814519159Z"
+}

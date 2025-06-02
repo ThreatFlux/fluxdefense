@@ -1,0 +1,15 @@
+{
+  "uuid": "5eff4102-9163-47fa-8c48-bc1ff6cd25ad",
+  "path": "/usr/lib/llvm-18/lib/libLLVMRISCVTargetMCA.a",
+  "size": 89488,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.996461585Z",
+  "sha256_hash": "cee87e0c469028593d5a4268a0f6a21d19626e46eb5bbd978a14198af8dd589a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:34.238109093Z"
+}

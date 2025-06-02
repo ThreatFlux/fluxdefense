@@ -1,0 +1,17 @@
+{
+  "uuid": "ec331890-84b8-4a93-8fe2-206ad6f13111",
+  "path": "/lib/x86_64-linux-gnu/libv4l2.so.0.0.0",
+  "size": 63232,
+  "modified": "2024-04-07T07:24:04Z",
+  "created": "2025-05-09T05:07:32.350707399Z",
+  "sha256_hash": "d7c338ed0fa6cabdabff021aa48cb90e6d45e8fca7a6431c5c3a9efdfff1a292",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:09.912784683Z"
+}

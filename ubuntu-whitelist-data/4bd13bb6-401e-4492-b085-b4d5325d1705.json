@@ -1,0 +1,17 @@
+{
+  "uuid": "4bd13bb6-401e-4492-b085-b4d5325d1705",
+  "path": "/lib/grub/x86_64-efi/test_blockarg.mod",
+  "size": 2088,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "ba0098380ca84a133e305b68323330f8cbfe66c17f0438e7b72f2dee1af1cb9e",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.025410679Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "387fb941-feb3-487d-9bd5-59850332269b",
+  "path": "/lib/python3.12/test/decimaltestdata/dqFMA.decTest",
+  "size": 129990,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.993551749Z",
+  "sha256_hash": "0a2599bdb395c4fc8094ae4b92920bc54e5b84e89c5a9a2cadacf59be0dc153a",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.456643168Z"
+}

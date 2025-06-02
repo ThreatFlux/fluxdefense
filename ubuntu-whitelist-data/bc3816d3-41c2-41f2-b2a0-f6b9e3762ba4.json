@@ -1,0 +1,17 @@
+{
+  "uuid": "bc3816d3-41c2-41f2-b2a0-f6b9e3762ba4",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/ForwardingReferenceOverloadCheck.h",
+  "size": 1859,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "e53156a26a7fa9ad6b75c5eff24d0f76d3fd67fa22a274eaabb4e2ac7db4e488",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.895396497Z"
+}

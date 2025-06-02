@@ -1,0 +1,15 @@
+{
+  "uuid": "2d328be8-6f6c-4fac-a0ec-a386e2ddae55",
+  "path": "/usr/lib/systemd/systemd-user-sessions",
+  "size": 14712,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.526779521Z",
+  "sha256_hash": "4f900fd8cc1db5b7a4730ee98c25e6c3fb5913d31be831cdd4b8fc101e5067db",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.438698466Z"
+}

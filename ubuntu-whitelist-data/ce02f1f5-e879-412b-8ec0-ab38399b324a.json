@@ -1,0 +1,15 @@
+{
+  "uuid": "ce02f1f5-e879-412b-8ec0-ab38399b324a",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstcoretracers.so",
+  "size": 93904,
+  "modified": "2024-12-17T12:53:48Z",
+  "created": "2025-05-09T05:07:35.772655181Z",
+  "sha256_hash": "b5111f4e3c4b3b1428ae02b783f904f8bb236db4d18b28ebf3affd2dbba76876",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.914426642Z"
+}

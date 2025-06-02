@@ -1,0 +1,17 @@
+{
+  "uuid": "24a125f2-efdf-4517-991f-4b456e28552b",
+  "path": "/usr/lib/grub/x86_64-efi/part_acorn.mod",
+  "size": 2328,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.837708018Z",
+  "sha256_hash": "9c26e8c9766d546902c68af4b5ba53c166cc2180e3d0c874e1d8bf4b9a0c42fa",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.510136685Z"
+}

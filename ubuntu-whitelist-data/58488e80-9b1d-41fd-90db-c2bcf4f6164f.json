@@ -1,0 +1,17 @@
+{
+  "uuid": "58488e80-9b1d-41fd-90db-c2bcf4f6164f",
+  "path": "/lib/systemd/system/systemd-journald.service.d/nice.conf",
+  "size": 81,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "200fa6d390295aba030295ff1bd0d37090c9bb1903641d6d6df1d439592ac5a4",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.127278609Z"
+}

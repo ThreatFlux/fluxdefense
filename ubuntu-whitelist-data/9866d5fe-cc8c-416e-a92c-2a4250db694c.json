@@ -1,0 +1,17 @@
+{
+  "uuid": "9866d5fe-cc8c-416e-a92c-2a4250db694c",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/crypto/lz4hc.ko.zst",
+  "size": 3036,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.079797878Z",
+  "sha256_hash": "51aba698f2fd99909b0b682db71ad07c38a35d41fdec7c6250a903f8662c535e",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.262251669Z"
+}

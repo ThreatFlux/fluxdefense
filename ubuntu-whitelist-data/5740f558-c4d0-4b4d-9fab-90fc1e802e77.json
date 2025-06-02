@@ -1,0 +1,17 @@
+{
+  "uuid": "5740f558-c4d0-4b4d-9fab-90fc1e802e77",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/Storable.pm",
+  "size": 50496,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.519591312Z",
+  "sha256_hash": "08c4969f337623450d4dd54200d5e8ba5202ae4a96c81bdd714c25265cadf827",
+  "file_type": {
+    "Other": "pm"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.464494031Z"
+}

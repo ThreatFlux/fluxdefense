@@ -1,0 +1,17 @@
+{
+  "uuid": "db2e501a-1773-41f3-8fb7-080fc8e33b6c",
+  "path": "/lib/x86_64-linux-gnu/libXdamage.so.1.1.0",
+  "size": 14488,
+  "modified": "2024-04-08T16:09:32Z",
+  "created": "2025-05-09T05:07:29.060757603Z",
+  "sha256_hash": "6ff910fbde851ede163b9066671e1740e374df414591015d90770b99d5b3de4a",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.486715745Z"
+}

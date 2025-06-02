@@ -1,0 +1,15 @@
+{
+  "uuid": "1ba6d74e-af13-4e2b-a3e2-3f0efbf83e95",
+  "path": "/usr/lib/libreoffice/program/libiolo.so",
+  "size": 331456,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:03.179489653Z",
+  "sha256_hash": "950100eff7507951d197704b917266c9e0c0d620133128854e81e66c9773233a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:42.179337297Z"
+}

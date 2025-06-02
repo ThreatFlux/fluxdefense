@@ -1,0 +1,15 @@
+{
+  "uuid": "826f7402-0f4e-4c04-96da-d346f18d507c",
+  "path": "/usr/bin/dh_installchangelogs",
+  "size": 12080,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.513341269Z",
+  "sha256_hash": "e3a4463454ea15bec1b23fba021f3aa67489072ce035cc43e6675f66fe25d5aa",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:08.024140350Z"
+}

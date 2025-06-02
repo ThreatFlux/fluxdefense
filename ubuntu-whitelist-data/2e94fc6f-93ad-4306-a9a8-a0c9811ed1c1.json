@@ -1,0 +1,17 @@
+{
+  "uuid": "2e94fc6f-93ad-4306-a9a8-a0c9811ed1c1",
+  "path": "/lib/firmware/radeon/RS780_pfp.bin.zst",
+  "size": 1151,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "ffef881c7a436e5c1bee0773a54cde2d9d60cf80610618fe3a230f67b64833ac",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.372557554Z"
+}

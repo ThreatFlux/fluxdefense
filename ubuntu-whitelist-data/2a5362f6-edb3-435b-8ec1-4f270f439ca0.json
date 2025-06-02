@@ -1,0 +1,15 @@
+{
+  "uuid": "2a5362f6-edb3-435b-8ec1-4f270f439ca0",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/config/cc_scripts_per_once.py",
+  "size": 1271,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.235037163Z",
+  "sha256_hash": "16c7028447b6d800f0870da688e9c077c6d99e268f3d7518f04704d9e98a0919",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.857027472Z"
+}

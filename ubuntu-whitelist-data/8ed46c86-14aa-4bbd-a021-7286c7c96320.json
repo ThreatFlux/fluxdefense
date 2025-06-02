@@ -1,0 +1,15 @@
+{
+  "uuid": "8ed46c86-14aa-4bbd-a021-7286c7c96320",
+  "path": "/usr/lib/cups/filter/commandtopclx",
+  "size": 14648,
+  "modified": "2024-03-31T08:47:01Z",
+  "created": "2025-05-09T05:07:21.344875344Z",
+  "sha256_hash": "2246ebb311d9aaa529905cdb58b181a6201214fc3038b4f1b3443d23ee2c84cb",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:02.983314038Z"
+}

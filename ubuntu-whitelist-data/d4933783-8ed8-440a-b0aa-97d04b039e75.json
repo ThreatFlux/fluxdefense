@@ -1,0 +1,17 @@
+{
+  "uuid": "d4933783-8ed8-440a-b0aa-97d04b039e75",
+  "path": "/lib/modules/6.11.0-26-generic/kernel/crypto/camellia_generic.ko.zst",
+  "size": 14907,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.078797895Z",
+  "sha256_hash": "bc6b88184203bf3ae2d365ae97384ea6bf6c282218436d276e1d7b59f3307950",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.259715067Z"
+}

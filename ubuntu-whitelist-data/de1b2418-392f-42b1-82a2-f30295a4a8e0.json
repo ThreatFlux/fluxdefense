@@ -1,0 +1,15 @@
+{
+  "uuid": "de1b2418-392f-42b1-82a2-f30295a4a8e0",
+  "path": "/lib/x86_64-linux-gnu/libXrandr.a",
+  "size": 70406,
+  "modified": "2024-04-08T16:10:09Z",
+  "created": "2025-05-29T11:16:07.929033693Z",
+  "sha256_hash": "dd3e5b9be3866092b15e9cf24024db7790f9abf62c6072052e0dda65f7eb94f4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.515038697Z"
+}

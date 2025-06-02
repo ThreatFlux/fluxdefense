@@ -1,0 +1,15 @@
+{
+  "uuid": "11b9ae80-0210-4d69-a521-885570122220",
+  "path": "/usr/lib/google-cloud-sdk/lib/surface/container/get_server_config.py",
+  "size": 2938,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.750931632Z",
+  "sha256_hash": "d517d7490041347aff59f5b04a80c3ec6eaa5856fe4f95a3a53a1b49b7cce58d",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:47.821077236Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "da04b4e9-057f-4eac-8c6e-66df258a5892",
+  "path": "/lib/x86_64-linux-gnu/traceevent/plugins/plugin_hrtimer.so",
+  "size": 13808,
+  "modified": "2024-04-03T11:46:23Z",
+  "created": "2025-05-09T05:07:37.304631803Z",
+  "sha256_hash": "35513a301d0a2810336056dfb97880d44c0f5e582d91b6a4c11bb44fd60a0842",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:20.535738024Z"
+}

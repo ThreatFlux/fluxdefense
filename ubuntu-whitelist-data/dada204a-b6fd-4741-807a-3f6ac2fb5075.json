@@ -1,0 +1,17 @@
+{
+  "uuid": "dada204a-b6fd-4741-807a-3f6ac2fb5075",
+  "path": "/lib/firmware/amdgpu/navy_flounder_sdma.bin.zst",
+  "size": 11587,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.406543557Z",
+  "sha256_hash": "3bb26b2b138cc1e9ee3309005df945f06a51230f5a4d7664d36ff4fdecb8eee3",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.037542772Z"
+}

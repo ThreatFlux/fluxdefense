@@ -1,0 +1,15 @@
+{
+  "uuid": "85c18443-fbb3-41a8-801a-dfce5f37bc42",
+  "path": "/usr/sbin/update-default-ispell",
+  "size": 9910,
+  "modified": "2023-09-07T08:57:00Z",
+  "created": "2025-05-09T05:07:38.449614331Z",
+  "sha256_hash": "2775ca138804b300c76b0d4a1817f811a44e115f11151eba1a95c055404e2e00",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.536344600Z"
+}

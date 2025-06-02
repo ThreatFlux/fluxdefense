@@ -1,0 +1,15 @@
+{
+  "uuid": "34d0daa9-7180-4a82-968e-4fe3c7164d49",
+  "path": "/usr/lib/dpkg/methods/apt/names",
+  "size": 39,
+  "modified": "2024-10-22T13:02:22Z",
+  "created": "2025-05-30T21:04:50.161634085Z",
+  "sha256_hash": "0a636de469385b41ea06f639a389c523946ec7f023fe2a12c0adf8300e2a82ad",
+  "file_type": "Executable",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:37.653999087Z"
+}

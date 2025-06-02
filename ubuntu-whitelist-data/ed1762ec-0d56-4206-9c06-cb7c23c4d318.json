@@ -1,0 +1,17 @@
+{
+  "uuid": "ed1762ec-0d56-4206-9c06-cb7c23c4d318",
+  "path": "/lib/x86_64-linux-gnu/libical-glib.so.3.0.17",
+  "size": 444568,
+  "modified": "2024-04-06T01:14:50Z",
+  "created": "2025-05-09T05:07:30.188740391Z",
+  "sha256_hash": "7814a8d3031755014025fcc95123951408310f84712deb20dfd8a762d0cd0b87",
+  "file_type": {
+    "Other": "17"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.898972522Z"
+}

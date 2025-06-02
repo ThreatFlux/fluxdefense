@@ -1,0 +1,17 @@
+{
+  "uuid": "b01b34b4-d32b-4dae-8db1-ffdcb35218a5",
+  "path": "/usr/lib/python3.12/test/imghdrdata/python.pgm",
+  "size": 269,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.999551670Z",
+  "sha256_hash": "3c27b4cdc7089ddb410ddb81a5ccf42662972e07dfc44fc429d3056af6dd128e",
+  "file_type": {
+    "Other": "pgm"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.220368082Z"
+}

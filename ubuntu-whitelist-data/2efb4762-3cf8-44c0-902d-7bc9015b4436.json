@@ -1,0 +1,15 @@
+{
+  "uuid": "2efb4762-3cf8-44c0-902d-7bc9015b4436",
+  "path": "/usr/libexec/p11-kit/p11-kit-server",
+  "size": 47504,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T05:07:38.045620496Z",
+  "sha256_hash": "eed8828969a5b90a4ba049a968a56bc20dbc7e44cf8be96f9deee7428ddcadac",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.494241486Z"
+}

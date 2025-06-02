@@ -1,0 +1,17 @@
+{
+  "uuid": "e6712f14-aba0-4c07-b37a-293234bd5f2c",
+  "path": "/lib/x86_64-linux-gnu/libtraceevent.so.1.8.2",
+  "size": 162696,
+  "modified": "2024-04-03T11:46:23Z",
+  "created": "2025-05-09T05:07:32.325707781Z",
+  "sha256_hash": "73f9f6318c2f3ac0ec348a4b6e54b9747398def8b5f95bfdc348065c3819433f",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.928397773Z"
+}

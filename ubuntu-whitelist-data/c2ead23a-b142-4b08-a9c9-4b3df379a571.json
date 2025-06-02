@@ -1,0 +1,15 @@
+{
+  "uuid": "c2ead23a-b142-4b08-a9c9-4b3df379a571",
+  "path": "/lib/x86_64-linux-gnu/rsyslog/pmcisconames.so",
+  "size": 15368,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.547922264Z",
+  "sha256_hash": "49dd2d2a5eedab303e21cdaeec4246e282b2e1e16910185720be924022016fb5",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.859947501Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "cb2d5fb7-aa70-4d5c-a0c1-5c6a7239cd88",
+  "path": "/usr/lib/firmware/intel/ibt-11-5.sfi.zst",
+  "size": 379353,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.560541424Z",
+  "sha256_hash": "d3e1d12d8013ae7b8d173bb83092b51a2fb2ab0557846546de201e9aab5e652f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.946135832Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b7fb445f-5fe9-42fb-9ee9-7128b6f150a6",
+  "path": "/usr/lib/firmware/v4l-cx23418-cpu.fw.zst",
+  "size": 70023,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.081534208Z",
+  "sha256_hash": "69d2e55229244eea27a721dd30d70e4da15f6a00ca8731d6177e00b7740431d2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.549219365Z"
+}

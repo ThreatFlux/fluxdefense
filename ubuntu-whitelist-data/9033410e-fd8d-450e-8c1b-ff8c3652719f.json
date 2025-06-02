@@ -1,0 +1,15 @@
+{
+  "uuid": "9033410e-fd8d-450e-8c1b-ff8c3652719f",
+  "path": "/lib/xorg/modules/input/libinput_drv.so",
+  "size": 94632,
+  "modified": "2025-03-24T03:43:48Z",
+  "created": "2025-05-09T05:24:32.871032310Z",
+  "sha256_hash": "45b9682c0f01060a087b1a17d8b48b97cd8558923daf83d5a67003de7f93b47f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.672440579Z"
+}

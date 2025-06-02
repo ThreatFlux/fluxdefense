@@ -1,0 +1,17 @@
+{
+  "uuid": "504ece8b-e28f-4afc-b653-f3b022728e92",
+  "path": "/lib/systemd/system/fwupd.service",
+  "size": 702,
+  "modified": "2025-03-25T17:48:06Z",
+  "created": "2025-05-09T05:24:28.639976146Z",
+  "sha256_hash": "614bbc5bf0f2335928fe65db200eb73a462dce8a8cd3f0953e6b4153e0fa76fa",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.127955221Z"
+}

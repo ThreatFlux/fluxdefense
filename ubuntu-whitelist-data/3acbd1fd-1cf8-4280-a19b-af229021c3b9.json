@@ -1,0 +1,17 @@
+{
+  "uuid": "3acbd1fd-1cf8-4280-a19b-af229021c3b9",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-adl-nocodec-hdmi-ssp02.tplg.zst",
+  "size": 1277,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.057490999Z",
+  "sha256_hash": "62e6c613a4e0d6a2902a5365491c9cf28c496aa65bd030c9d7baa4923bc8f445",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.875704595Z"
+}

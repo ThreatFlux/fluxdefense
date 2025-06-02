@@ -1,0 +1,17 @@
+{
+  "uuid": "32a0713f-ab88-4abc-9b94-1105c9d50506",
+  "path": "/lib/x86_64-linux-gnu/libsnmp.so.40.2.1",
+  "size": 875024,
+  "modified": "2025-03-06T06:51:59Z",
+  "created": "2025-05-09T05:24:31.370012335Z",
+  "sha256_hash": "9fbd4d6eb2044bae63ebb6924ecffc2390b4a60c340a274af792801a5562c50a",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.305826270Z"
+}

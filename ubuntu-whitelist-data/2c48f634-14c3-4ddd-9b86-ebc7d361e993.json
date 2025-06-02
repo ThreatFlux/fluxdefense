@@ -1,0 +1,17 @@
+{
+  "uuid": "2c48f634-14c3-4ddd-9b86-ebc7d361e993",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/finclude/omp_lib.mod",
+  "size": 8443,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:14.305355382Z",
+  "sha256_hash": "fb292d71b4bada6af105182a0bf850f9191bf616fa6db48dd3a1c3208edb060f",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:50.629988423Z"
+}

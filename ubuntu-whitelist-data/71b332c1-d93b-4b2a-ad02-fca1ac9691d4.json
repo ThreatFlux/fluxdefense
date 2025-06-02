@@ -1,0 +1,17 @@
+{
+  "uuid": "71b332c1-d93b-4b2a-ad02-fca1ac9691d4",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/yue_dict",
+  "size": 563571,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.567658309Z",
+  "sha256_hash": "1d26afa203034698772107abfff1b53acbee30434700a4d2b75dee98951588f8",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.289124660Z"
+}

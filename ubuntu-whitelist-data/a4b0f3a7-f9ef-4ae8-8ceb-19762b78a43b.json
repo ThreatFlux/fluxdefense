@@ -1,0 +1,17 @@
+{
+  "uuid": "a4b0f3a7-f9ef-4ae8-8ceb-19762b78a43b",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/bugprone/CastingThroughVoidCheck.h",
+  "size": 1361,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.556533226Z",
+  "sha256_hash": "94a831d716a1f3e8f7721820bd540de32d088d6ddd8b7c043657b08f31d2d301",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.229065395Z"
+}

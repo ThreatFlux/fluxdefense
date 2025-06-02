@@ -1,0 +1,17 @@
+{
+  "uuid": "d7ce56f7-8990-452a-94f0-dba5a258e12d",
+  "path": "/usr/lib/x86_64-linux-gnu/librygel-renderer-2.8.so.0.42.5",
+  "size": 141384,
+  "modified": "2024-03-31T08:21:52Z",
+  "created": "2025-05-09T05:07:32.102711184Z",
+  "sha256_hash": "6fab4b3822250cc724395c9df9d531d4ccd2acb2067ce4f84692eb65b697e3f1",
+  "file_type": {
+    "Other": "5"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:05.791885453Z"
+}

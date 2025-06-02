@@ -1,0 +1,17 @@
+{
+  "uuid": "de6cea68-bcfa-4867-a230-6fbd237a738b",
+  "path": "/usr/lib/grub/x86_64-efi/ctz_test.mod",
+  "size": 2672,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.802708552Z",
+  "sha256_hash": "e8a5f500a3c12bc0505658460cf67b641655c001543fcd7ed0d1b5f1a4a2235e",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.595524631Z"
+}

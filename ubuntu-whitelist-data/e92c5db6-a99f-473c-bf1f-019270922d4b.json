@@ -1,0 +1,17 @@
+{
+  "uuid": "e92c5db6-a99f-473c-bf1f-019270922d4b",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-caldel.adb",
+  "size": 4787,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.045345217Z",
+  "sha256_hash": "48d27d323c878e099f421941b070b9305e90843a9ffeebdff730b23abdd5d492",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.127556725Z"
+}

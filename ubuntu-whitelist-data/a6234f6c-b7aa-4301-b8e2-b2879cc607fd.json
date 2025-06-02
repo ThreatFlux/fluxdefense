@@ -1,0 +1,15 @@
+{
+  "uuid": "a6234f6c-b7aa-4301-b8e2-b2879cc607fd",
+  "path": "/bin/dbus-send",
+  "size": 31016,
+  "modified": "2024-08-09T02:33:22Z",
+  "created": "2025-05-09T05:07:19.142908945Z",
+  "sha256_hash": "ae37b272dad147c4f47e55db7595bc2892867fe5f86b11349e9ab6caf71e3ffd",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.793564527Z"
+}

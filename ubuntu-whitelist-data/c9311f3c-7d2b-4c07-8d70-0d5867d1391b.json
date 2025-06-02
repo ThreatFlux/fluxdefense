@@ -1,0 +1,17 @@
+{
+  "uuid": "c9311f3c-7d2b-4c07-8d70-0d5867d1391b",
+  "path": "/usr/lib/systemd/system/NetworkManager-dispatcher.service",
+  "size": 696,
+  "modified": "2024-10-23T11:04:42Z",
+  "created": "2025-05-09T05:07:28.297769246Z",
+  "sha256_hash": "7c3f412c01d22660e82f9507ed70dab3a90b863094b46c3a9a715eecb92ba8ac",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.469444762Z"
+}

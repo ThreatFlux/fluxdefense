@@ -1,0 +1,17 @@
+{
+  "uuid": "7cad45ad-1404-4c7e-9870-c0136153c191",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/s-auxdec.adb",
+  "size": 20735,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.074344818Z",
+  "sha256_hash": "058b1033764721a1fa27f42218aab2f8438bc27b878a5ad1102507ff924805cb",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.066767451Z"
+}

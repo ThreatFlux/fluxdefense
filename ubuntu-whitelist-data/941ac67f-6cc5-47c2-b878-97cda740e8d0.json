@@ -1,0 +1,17 @@
+{
+  "uuid": "941ac67f-6cc5-47c2-b878-97cda740e8d0",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/g-sha224.ali",
+  "size": 4984,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.109344338Z",
+  "sha256_hash": "cdbe4bff40bc8414d471d36a5e140a9685aa25127690375b9d0f0af80033ecf7",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.598277904Z"
+}

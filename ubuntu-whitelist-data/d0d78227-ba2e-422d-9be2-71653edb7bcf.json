@@ -1,0 +1,15 @@
+{
+  "uuid": "d0d78227-ba2e-422d-9be2-71653edb7bcf",
+  "path": "/bin/udisksctl",
+  "size": 63872,
+  "modified": "2024-11-18T16:06:30Z",
+  "created": "2025-05-09T05:07:20.820883340Z",
+  "sha256_hash": "bd5a57e64bed32d860c596d7a42bb5d7644208860c87219832e225843efebdd4",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:20.057956770Z"
+}

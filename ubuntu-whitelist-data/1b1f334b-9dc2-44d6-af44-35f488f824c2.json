@@ -1,0 +1,17 @@
+{
+  "uuid": "1b1f334b-9dc2-44d6-af44-35f488f824c2",
+  "path": "/lib/x86_64-linux-gnu/libhyphen.so.0.3.0",
+  "size": 26616,
+  "modified": "2024-04-08T15:59:13Z",
+  "created": "2025-05-09T05:07:30.187740406Z",
+  "sha256_hash": "d91aecb362714bacdbb4cf40dff52b7dece7f99e4b1f54491a9c9fb6651c4eb8",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.194836196Z"
+}

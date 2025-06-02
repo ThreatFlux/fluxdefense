@@ -1,0 +1,17 @@
+{
+  "uuid": "da1669ae-daf5-4492-8236-c23e2403fa6d",
+  "path": "/sbin/fsck.cramfs",
+  "size": 31168,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.198618161Z",
+  "sha256_hash": "7b65ff408ba434df15661beef20dbec487c9703aa4c0541dcd1950de77786ab1",
+  "file_type": {
+    "Other": "cramfs"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.061098911Z"
+}

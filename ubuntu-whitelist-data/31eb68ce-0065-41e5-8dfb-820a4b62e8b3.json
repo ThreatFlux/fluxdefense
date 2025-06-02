@@ -1,0 +1,15 @@
+{
+  "uuid": "31eb68ce-0065-41e5-8dfb-820a4b62e8b3",
+  "path": "/usr/sbin/iwpriv",
+  "size": 18664,
+  "modified": "2024-03-31T08:33:19Z",
+  "created": "2025-05-09T05:07:38.354615780Z",
+  "sha256_hash": "b2a69eac634d58daddedd40debb39616a3c730445b65b689e5ead58c73660a33",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.519932655Z"
+}

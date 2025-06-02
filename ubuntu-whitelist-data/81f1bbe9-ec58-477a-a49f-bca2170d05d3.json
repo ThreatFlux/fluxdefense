@@ -1,0 +1,17 @@
+{
+  "uuid": "81f1bbe9-ec58-477a-a49f-bca2170d05d3",
+  "path": "/sbin/ldconfig.real",
+  "size": 1051280,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:38.359615704Z",
+  "sha256_hash": "cf293709505bfea8158b46c76bf05980e294223d0b31df88b72e59a266605380",
+  "file_type": {
+    "Other": "real"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.982605048Z"
+}

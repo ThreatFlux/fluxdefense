@@ -1,0 +1,15 @@
+{
+  "uuid": "335950f3-3207-4199-b9ba-d311597f8c9e",
+  "path": "/usr/lib/x86_64-linux-gnu/libgphoto2_port/0.12.2/usb1.so",
+  "size": 43168,
+  "modified": "2024-03-31T02:00:03Z",
+  "created": "2025-05-09T05:07:35.856653899Z",
+  "sha256_hash": "c468e00b20213b64951626a17b9cdb64d039eb039aedac11c66558939c4eca84",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.333850160Z"
+}

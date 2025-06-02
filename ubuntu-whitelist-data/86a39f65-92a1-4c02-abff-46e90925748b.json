@@ -1,0 +1,15 @@
+{
+  "uuid": "86a39f65-92a1-4c02-abff-46e90925748b",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libxt_physdev.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.335631330Z",
+  "sha256_hash": "715d13abdc269bcc5069c610e576fc4dbfc2f583add0a99c7a00ee30ae35d8b6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.265035524Z"
+}

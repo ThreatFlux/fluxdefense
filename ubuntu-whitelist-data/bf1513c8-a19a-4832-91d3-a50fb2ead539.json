@@ -1,0 +1,17 @@
+{
+  "uuid": "bf1513c8-a19a-4832-91d3-a50fb2ead539",
+  "path": "/usr/lib/libreoffice/program/services/services.rdb",
+  "size": 254209,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:20.114231153Z",
+  "sha256_hash": "182518f28e13744a60a87367bc5d1c5eb4d91e825d8dca2574bf90cf9781aaf8",
+  "file_type": {
+    "Other": "rdb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:42.988749677Z"
+}

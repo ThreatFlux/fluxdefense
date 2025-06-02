@@ -1,0 +1,15 @@
+{
+  "uuid": "3a85aaed-8812-4cf8-be28-cf86c6e29a04",
+  "path": "/usr/bin/nvidia-xconfig",
+  "size": 207424,
+  "modified": "2025-01-21T12:08:16Z",
+  "created": "2025-05-09T12:56:04.096004470Z",
+  "sha256_hash": "2e63c94b2ecda0e28fe7450b83ae7414d85c990cc2215410a5973e2239ac2c13",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.286199620Z"
+}

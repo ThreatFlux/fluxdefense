@@ -1,0 +1,17 @@
+{
+  "uuid": "ef2cd6ca-e078-43b3-85fa-454ba3442355",
+  "path": "/usr/lib/firmware/amdgpu/dimgrey_cavefish_sdma.bin.zst",
+  "size": 11588,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.392543751Z",
+  "sha256_hash": "a9c96ae14012c085ada4c4279f86b75a1700e7e0415869199d0141a2ab9c3041",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.810227471Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "6c0046a1-c351-469e-9342-fe5d7fd7e83c",
+  "path": "/lib/llvm-18/bin/obj2yaml",
+  "size": 6818640,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.079486833Z",
+  "sha256_hash": "da572dc543b200c2d5531305abc8e74ea6e4eb8d72b62af1ae296027e5dafa5e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.759640628Z"
+}

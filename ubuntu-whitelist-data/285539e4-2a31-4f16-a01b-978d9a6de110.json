@@ -1,0 +1,17 @@
+{
+  "uuid": "285539e4-2a31-4f16-a01b-978d9a6de110",
+  "path": "/lib/firmware/i915/mtl_gsc_1.bin.zst",
+  "size": 705090,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.541541687Z",
+  "sha256_hash": "9e4f9089963b2aba97c4449b56ed81e165eb60f4dc169b092d08321adce3b6b8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.678346335Z"
+}

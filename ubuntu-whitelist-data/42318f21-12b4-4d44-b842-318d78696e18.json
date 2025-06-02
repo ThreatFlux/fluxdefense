@@ -1,0 +1,17 @@
+{
+  "uuid": "42318f21-12b4-4d44-b842-318d78696e18",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/syslimits.ph",
+  "size": 452,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.560590686Z",
+  "sha256_hash": "4968846f2774f3d93f54ca5f67ebb4c6aa37027c2daf38a1b88b7052b3ea0a13",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.698266216Z"
+}

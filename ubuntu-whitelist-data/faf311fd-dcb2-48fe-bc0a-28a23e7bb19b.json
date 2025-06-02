@@ -1,0 +1,17 @@
+{
+  "uuid": "faf311fd-dcb2-48fe-bc0a-28a23e7bb19b",
+  "path": "/usr/lib/sysusers.d/gnome-initial-setup.conf",
+  "size": 174,
+  "modified": "2024-06-28T16:27:05Z",
+  "created": "2025-05-09T05:07:28.308769079Z",
+  "sha256_hash": "3b6c9df1268a059adea52ed65859cc1bc1efe97216c4212671a32f6e4cedcd80",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.295698678Z"
+}

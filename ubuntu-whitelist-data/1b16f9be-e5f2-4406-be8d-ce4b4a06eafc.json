@@ -1,0 +1,17 @@
+{
+  "uuid": "1b16f9be-e5f2-4406-be8d-ce4b4a06eafc",
+  "path": "/usr/lib/llvm-18/include/clang/AST/ASTImporterLookupTable.h",
+  "size": 3940,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.510533832Z",
+  "sha256_hash": "df3f17333bf150d1108515c91a40b7dfec92f7ad526768ee338d9245bf312b91",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.391005072Z"
+}

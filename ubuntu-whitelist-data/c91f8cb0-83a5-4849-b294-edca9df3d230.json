@@ -1,0 +1,17 @@
+{
+  "uuid": "c91f8cb0-83a5-4849-b294-edca9df3d230",
+  "path": "/lib/x86_64-linux-gnu/libportal-gtk3.so.1.0.0",
+  "size": 34728,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:31.877714617Z",
+  "sha256_hash": "a95d0bdbdfa2a798cfc53e3d0d3b0a821160c99c7079bc607aa4db601e8ee781",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.855324679Z"
+}

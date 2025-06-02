@@ -1,0 +1,17 @@
+{
+  "uuid": "9d48eeea-8992-4f2f-87ed-31ab058cdcad",
+  "path": "/lib/systemd/user/org.gnome.SettingsDaemon.Housekeeping.target",
+  "size": 372,
+  "modified": "2024-04-18T10:59:35Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "0d227ffd6d801536cb2222ee7111852be6ad1f4f453c1a445f2527bf838a6da6",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.141608683Z"
+}

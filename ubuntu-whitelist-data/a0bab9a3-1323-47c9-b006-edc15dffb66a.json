@@ -1,0 +1,17 @@
+{
+  "uuid": "a0bab9a3-1323-47c9-b006-edc15dffb66a",
+  "path": "/usr/lib/firmware/rtw88/rtw8822c_wow_fw.bin.zst",
+  "size": 64081,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.069534374Z",
+  "sha256_hash": "1407245957d5b87ece8e336277d46b1b32c872490746bb021098ef56f0c1c7aa",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.471802945Z"
+}

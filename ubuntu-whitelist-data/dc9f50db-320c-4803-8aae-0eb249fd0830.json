@@ -1,0 +1,17 @@
+{
+  "uuid": "dc9f50db-320c-4803-8aae-0eb249fd0830",
+  "path": "/usr/lib/x86_64-linux-gnu/perl5/5.38/File/FcntlLock.pod",
+  "size": 10719,
+  "modified": "2014-05-27T14:26:08Z",
+  "created": "2025-05-09T06:33:34.672294608Z",
+  "sha256_hash": "120bf637fe39113dd25a646270b6b9a748f8a598b5b73e0cf09cd8772b4f3045",
+  "file_type": {
+    "Other": "pod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.629388637Z"
+}

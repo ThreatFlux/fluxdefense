@@ -1,0 +1,17 @@
+{
+  "uuid": "62de726d-1e90-46b5-9b1c-d6c65c5f0b38",
+  "path": "/lib/x86_64-linux-gnu/libnorm.so.1",
+  "size": 366760,
+  "modified": "2024-03-31T02:40:38Z",
+  "created": "2025-05-09T05:09:23.312013983Z",
+  "sha256_hash": "2543db995aa530bda8d145126b25c08d54cfe3348993e11eb75c30d6b43f5e72",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:32.892751647Z"
+}

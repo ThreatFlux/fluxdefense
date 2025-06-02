@@ -1,0 +1,17 @@
+{
+  "uuid": "94fc4703-d3c5-4132-9f10-b265dd0b75ac",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/i-pacdec.ali",
+  "size": 4615,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.110344324Z",
+  "sha256_hash": "5d80f2987785e3d5c82833cd3af20d6e0c6887c24c4a85a87cbb3dceaaa0b522",
+  "file_type": {
+    "Other": "ali"
+  },
+  "permissions": 33060,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.599095735Z"
+}

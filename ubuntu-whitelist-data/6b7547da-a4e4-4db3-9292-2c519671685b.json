@@ -1,0 +1,17 @@
+{
+  "uuid": "6b7547da-a4e4-4db3-9292-2c519671685b",
+  "path": "/lib/x86_64-linux-gnu/sane/libsane-qcam.so.1.2.1",
+  "size": 55600,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.158634031Z",
+  "sha256_hash": "a20d8b471471e4cb2a9eaae29bcfd1018db37e7512dfb8e66c37bd7c66482a2f",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.793645875Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "10851fd3-54b2-4b22-b6eb-1e74c7cfa39a",
+  "path": "/lib/firmware/rt2561s.bin.zst",
+  "size": 3948,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.065534429Z",
+  "sha256_hash": "ed76cb4c6df15579be4b173304cef9682f48764dcf829eb45fe119f415f7d020",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:06.435861240Z"
+}

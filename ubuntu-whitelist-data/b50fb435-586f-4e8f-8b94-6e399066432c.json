@@ -1,0 +1,15 @@
+{
+  "uuid": "b50fb435-586f-4e8f-8b94-6e399066432c",
+  "path": "/lib/brltty/libbrlttybpm.so",
+  "size": 38984,
+  "modified": "2024-03-31T00:24:15Z",
+  "created": "2025-05-09T05:07:21.027880181Z",
+  "sha256_hash": "746cc65228bb03880b2729e28093552d3bd80a0ece47b8107092fb307862d1e6",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.378002056Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "cc779646-0d18-4362-bc15-7866b3edb682",
+  "path": "/usr/libexec/docker/cli-plugins/docker-compose",
+  "size": 75679651,
+  "modified": "2025-05-28T13:29:53Z",
+  "created": "2025-05-29T15:05:45.346297655Z",
+  "sha256_hash": "a68175182402ca8c4f1c38f4ef0ac06f1378ababd895ed197ec92a233cfedb9b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:40.479092371Z"
+}

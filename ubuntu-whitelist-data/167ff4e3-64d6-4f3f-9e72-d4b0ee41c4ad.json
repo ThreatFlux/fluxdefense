@@ -1,0 +1,17 @@
+{
+  "uuid": "167ff4e3-64d6-4f3f-9e72-d4b0ee41c4ad",
+  "path": "/lib/llvm-18/include/clang/Config/config.h",
+  "size": 2321,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.539533450Z",
+  "sha256_hash": "4b089ad57161974f5b6273f830b0f9edc750bef04e34893ba88b34ef67bd56d5",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.017069031Z"
+}

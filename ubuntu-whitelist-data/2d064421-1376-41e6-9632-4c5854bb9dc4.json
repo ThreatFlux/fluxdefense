@@ -1,0 +1,17 @@
+{
+  "uuid": "2d064421-1376-41e6-9632-4c5854bb9dc4",
+  "path": "/lib/llvm-18/include/clang-tidy/readability/NamedParameterCheck.h",
+  "size": 1554,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "1dec50bc7e770079f62608be3bd19a4aca17d3e432c9d66e8f56255e4fb62882",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.922195508Z"
+}

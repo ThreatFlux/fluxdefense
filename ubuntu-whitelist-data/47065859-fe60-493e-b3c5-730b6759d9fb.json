@@ -1,0 +1,15 @@
+{
+  "uuid": "47065859-fe60-493e-b3c5-730b6759d9fb",
+  "path": "/usr/bin/c89-gcc",
+  "size": 428,
+  "modified": "2020-11-17T18:53:07Z",
+  "created": "2025-05-09T06:33:31.074371958Z",
+  "sha256_hash": "999b40b67f690638f601d76b756d529dd40a4325f42dfd9fd2e629ad0a91947c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.222350587Z"
+}

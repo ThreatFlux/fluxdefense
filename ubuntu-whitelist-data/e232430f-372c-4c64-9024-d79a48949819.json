@@ -1,0 +1,17 @@
+{
+  "uuid": "e232430f-372c-4c64-9024-d79a48949819",
+  "path": "/usr/lib/modules/6.11.0-25-generic/kernel/kernel/kheaders.ko.zst",
+  "size": 4362572,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.700450662Z",
+  "sha256_hash": "ff75148fb3e77a50757ef50b171676399e3950f313fc01e2e83900a707e26ed2",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.093898832Z"
+}

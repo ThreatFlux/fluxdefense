@@ -1,0 +1,17 @@
+{
+  "uuid": "5ff391ad-c6fb-4319-91cf-c0a5d250c1ee",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/g-altcon.adb",
+  "size": 15407,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.065344942Z",
+  "sha256_hash": "5ece14e3e3fc7369a1037031d341f25798510dc0e6fd07b5d4b68d3a98ae9b91",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.075786807Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "4cdc0782-d583-4b5d-a206-bdada1ffee1c",
+  "path": "/usr/bin/zstd",
+  "size": 1022760,
+  "modified": "2024-08-09T02:33:22Z",
+  "created": "2025-05-09T05:07:20.975880975Z",
+  "sha256_hash": "7c5468b370f7c47eda07281e3437fafc568f95d10420051e3aa522709f9342c5",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:07.419674096Z"
+}

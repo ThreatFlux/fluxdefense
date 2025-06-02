@@ -1,0 +1,17 @@
+{
+  "uuid": "2a2b4166-d828-43c5-a60e-8d92743193e9",
+  "path": "/lib/llvm-18/include/clang/Basic/OpenCLExtensions.def",
+  "size": 5736,
+  "modified": "2023-06-29T07:31:24Z",
+  "created": "2025-05-12T13:34:31.531533555Z",
+  "sha256_hash": "af5cb02bc4e7127259d3116c34479767745c67c16f77d1f31696e94ba4a4dbf3",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.082478351Z"
+}

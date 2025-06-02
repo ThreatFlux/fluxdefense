@@ -1,0 +1,17 @@
+{
+  "uuid": "e6ce3b8b-0a4f-4810-a800-00fbe977177f",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/libva-x11.pc",
+  "size": 293,
+  "modified": "2024-04-18T17:47:47Z",
+  "created": "2025-05-12T13:47:40.269133370Z",
+  "sha256_hash": "e72f5e121387b4a8001fbdcd8e48f5d34ebb812f63773f91a007d15bf336367a",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.101696492Z"
+}

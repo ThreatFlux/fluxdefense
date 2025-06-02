@@ -1,0 +1,15 @@
+{
+  "uuid": "26b3c41b-6863-413a-845e-b71b25d9456c",
+  "path": "/lib/x86_64-linux-gnu/gio/modules/libgioremote-volume-monitor.so",
+  "size": 112864,
+  "modified": "2024-04-18T13:39:03Z",
+  "created": "2025-05-09T05:07:35.708656158Z",
+  "sha256_hash": "9f62aba8520bcfb0c0136e0a1fc92a725ff5b0d1f46afb022a91897fa4734a42",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:17.898554251Z"
+}

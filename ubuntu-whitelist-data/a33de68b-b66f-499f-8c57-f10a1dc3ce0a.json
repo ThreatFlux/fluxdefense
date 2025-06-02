@@ -1,0 +1,17 @@
+{
+  "uuid": "a33de68b-b66f-499f-8c57-f10a1dc3ce0a",
+  "path": "/usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/libpanic_abort-2a626a4e429dd78d.rlib",
+  "size": 16476,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T17:41:10.566617086Z",
+  "sha256_hash": "ef642071e9e14e631adaa1ad2981932031174dcd71f66723e1711aed54d3536e",
+  "file_type": {
+    "Other": "rlib"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.519755357Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "316de5be-732b-4404-8b24-6bcde87f5164",
+  "path": "/usr/bin/apport-unpack",
+  "size": 3790,
+  "modified": "2025-05-23T12:41:47Z",
+  "created": "2025-05-30T21:04:52.100603338Z",
+  "sha256_hash": "7c43f04cca2fdd008b6d03b79ffdc4f85354c87c5fb8714a04ce18407702cfa6",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:06.023029285Z"
+}

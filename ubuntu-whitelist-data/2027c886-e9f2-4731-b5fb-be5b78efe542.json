@@ -1,0 +1,15 @@
+{
+  "uuid": "2027c886-e9f2-4731-b5fb-be5b78efe542",
+  "path": "/bin/printenv",
+  "size": 35208,
+  "modified": "2024-04-05T14:36:57Z",
+  "created": "2025-05-09T05:07:20.315891046Z",
+  "sha256_hash": "ee8786619f1dddc92d5fc830788b2e4b2cf853b69c1cbfbb0e52cdefe9cf964d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.484939466Z"
+}

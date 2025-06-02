@@ -1,0 +1,15 @@
+{
+  "uuid": "d81d59e8-d758-4e3b-b77d-202f6fd1aa34",
+  "path": "/bin/grub-mkrescue",
+  "size": 1044312,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.596711696Z",
+  "sha256_hash": "6267a0ef40bc2c40c8b5c23a3a6b779e9e07bd8c687c6fec295fb5e0f40f2ff0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.283412442Z"
+}

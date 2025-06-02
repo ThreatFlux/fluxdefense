@@ -1,0 +1,17 @@
+{
+  "uuid": "37ae6c0f-a510-4fd2-81d1-ef369bb801c7",
+  "path": "/lib/x86_64-linux-gnu/libfftw3_omp.so.3.6.10",
+  "size": 30792,
+  "modified": "2024-03-31T00:58:26Z",
+  "created": "2025-05-09T05:09:26.204969828Z",
+  "sha256_hash": "74ae8863f7ec7dfce971740249101854a04702dd5962412dda79024a68de13f9",
+  "file_type": {
+    "Other": "10"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.892935166Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "d8a19864-ffc1-41a7-aee9-0dc02dd22538",
+  "path": "/usr/lib/rustlib/x86_64-unknown-linux-gnu/lib/libcfg_if-04375ac4e710b803.rlib",
+  "size": 10934,
+  "modified": "2024-08-09T02:33:21Z",
+  "created": "2025-05-09T17:41:10.439618998Z",
+  "sha256_hash": "91377748c6ca8e165ef5d8b083b76f5b2185ab543e9155b1051d9a196f8b0c29",
+  "file_type": {
+    "Other": "rlib"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.714086579Z"
+}

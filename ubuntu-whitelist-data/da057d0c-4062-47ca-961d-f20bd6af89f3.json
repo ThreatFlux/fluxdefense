@@ -1,0 +1,15 @@
+{
+  "uuid": "da057d0c-4062-47ca-961d-f20bd6af89f3",
+  "path": "/lib/python3/dist-packages/suricata/update/matchers.py",
+  "size": 9503,
+  "modified": "2023-07-07T17:38:45Z",
+  "created": "2025-05-26T20:18:27.985008880Z",
+  "sha256_hash": "f3e61a729f224439d0d7ca269dc58495d026d64b43eef8edb27af14c3036742d",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.362474948Z"
+}

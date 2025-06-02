@@ -1,0 +1,17 @@
+{
+  "uuid": "4f7ec493-1f48-44ba-b933-485cd5e6227f",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/g-awk.adb",
+  "size": 38769,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.066344929Z",
+  "sha256_hash": "05c45c7d9027cb4fd52b6ac5150082457967ec5e4bb5ebe909c8112a45725b68",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.150759160Z"
+}

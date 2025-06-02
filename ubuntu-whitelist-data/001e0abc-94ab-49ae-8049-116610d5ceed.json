@@ -1,0 +1,17 @@
+{
+  "uuid": "001e0abc-94ab-49ae-8049-116610d5ceed",
+  "path": "/usr/lib/x86_64-linux-gnu/libxmlsec1-nss.so.1.2.39",
+  "size": 204584,
+  "modified": "2025-02-15T08:51:44Z",
+  "created": "2025-05-09T05:07:35.158664550Z",
+  "sha256_hash": "85e250fb9f1eedc4f337b91d759b95e02c4d00fab74b476f091757dde5de8da8",
+  "file_type": {
+    "Other": "39"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:10.538504229Z"
+}

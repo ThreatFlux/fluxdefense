@@ -1,0 +1,15 @@
+{
+  "uuid": "92d253c6-44d8-4ec5-a055-a8f5b6c5abf3",
+  "path": "/usr/bin/lwp-dump",
+  "size": 2711,
+  "modified": "2024-01-27T01:34:06Z",
+  "created": "2025-05-09T05:07:20.158893441Z",
+  "sha256_hash": "004efec73f4759f18eef83db112a3215abe95fdb1b17f48a1e3e118de70ff4e0",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.032200498Z"
+}

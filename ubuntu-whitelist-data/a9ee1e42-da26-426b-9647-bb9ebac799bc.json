@@ -1,0 +1,17 @@
+{
+  "uuid": "a9ee1e42-da26-426b-9647-bb9ebac799bc",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-hda-generic-2ch-kwd.tplg.zst",
+  "size": 2076,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.059490968Z",
+  "sha256_hash": "f5f8046caf5f488f1a192e8f9ca3589cf33b2929f59a515aa89e22a53b710b83",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.856430286Z"
+}

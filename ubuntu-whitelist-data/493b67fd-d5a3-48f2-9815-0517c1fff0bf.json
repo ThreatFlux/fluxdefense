@@ -1,0 +1,17 @@
+{
+  "uuid": "493b67fd-d5a3-48f2-9815-0517c1fff0bf",
+  "path": "/lib/firmware/i915/dg1_guc_70.1.1.bin.zst",
+  "size": 96421,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.535541770Z",
+  "sha256_hash": "e7dab57c382e3396e85c23c7755f0f0cf67f88bd837195b4effff84318057c32",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.749105106Z"
+}

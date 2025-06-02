@@ -1,0 +1,15 @@
+{
+  "uuid": "7f141291-8818-458b-9dcd-553b49fd2b7a",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstdeinterlace.so",
+  "size": 153968,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.772655181Z",
+  "sha256_hash": "531573084c5fbd0b614122d514cd744a149f391a8c6c8c4a848a65e4c37b8785",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:24.009335793Z"
+}

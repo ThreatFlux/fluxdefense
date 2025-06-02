@@ -1,0 +1,15 @@
+{
+  "uuid": "b27512e8-48a2-4769-b48e-45987aebee11",
+  "path": "/lib/llvm-18/lib/libLLVMTarget.a",
+  "size": 123106,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.035461072Z",
+  "sha256_hash": "91c37af27d2f10a8c65993c2c56f2337d5ddd2eb1c6c0b19bb2d7789cf2ce13d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:41.504967952Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "9461a7e1-78b6-48c9-bf3d-e4e00a52f424",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-wichun.adb",
+  "size": 6543,
+  "modified": "2024-05-21T07:47:38Z",
+  "created": "2025-05-29T11:24:15.062344984Z",
+  "sha256_hash": "7573977930fe41265794350b119ffbbf728e1ccc9c5e245a3534b23debaf496d",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.216736904Z"
+}

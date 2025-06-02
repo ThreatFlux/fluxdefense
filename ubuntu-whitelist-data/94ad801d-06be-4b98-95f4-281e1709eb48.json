@@ -1,0 +1,15 @@
+{
+  "uuid": "94ad801d-06be-4b98-95f4-281e1709eb48",
+  "path": "/usr/libexec/at-spi2-registryd",
+  "size": 84760,
+  "modified": "2024-04-08T14:37:40Z",
+  "created": "2025-05-09T05:07:37.405630262Z",
+  "sha256_hash": "2a26dcb326dda41a6637dbac063f5cf23b1e3c44088ca33b5fa543b4172b1856",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:38.504764734Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "0383378b-7dde-48fb-8b4a-1d16faaa03e1",
+  "path": "/usr/lib/x86_64-linux-gnu/gawk/fork.so",
+  "size": 14696,
+  "modified": "2024-03-31T05:33:52Z",
+  "created": "2025-05-23T03:43:48.621716868Z",
+  "sha256_hash": "88c9b3663953321385bca093cc81ede061c95475b55472fa74e536a6f0df6e32",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.317396699Z"
+}

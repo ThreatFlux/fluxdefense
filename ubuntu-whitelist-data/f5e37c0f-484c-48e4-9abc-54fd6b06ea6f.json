@@ -1,0 +1,15 @@
+{
+  "uuid": "f5e37c0f-484c-48e4-9abc-54fd6b06ea6f",
+  "path": "/lib/google-cloud-sdk/lib/surface/sql/generate_login_token.py",
+  "size": 3151,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.686932720Z",
+  "sha256_hash": "be6b5b542e9bffd0f0569d5ab436326737c37a5b29512b581f8d72253ef7b063",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.057819817Z"
+}

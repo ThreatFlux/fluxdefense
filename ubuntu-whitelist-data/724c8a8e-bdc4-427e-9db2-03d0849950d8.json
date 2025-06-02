@@ -1,0 +1,17 @@
+{
+  "uuid": "724c8a8e-bdc4-427e-9db2-03d0849950d8",
+  "path": "/usr/lib/x86_64-linux-gnu/perl/5.38.2/CORE/patchlevel-debian.h",
+  "size": 5303,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.505591526Z",
+  "sha256_hash": "0c965c571a0efc4fae5741f364b57456d66c199eaf16dff15f6ee518e1c551a1",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.586307681Z"
+}

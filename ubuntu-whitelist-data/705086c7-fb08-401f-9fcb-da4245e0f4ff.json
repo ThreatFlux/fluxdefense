@@ -1,0 +1,17 @@
+{
+  "uuid": "705086c7-fb08-401f-9fcb-da4245e0f4ff",
+  "path": "/lib/llvm-18/include/clang-tidy/google/AvoidNSObjectNewCheck.h",
+  "size": 1443,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "c492214f9f8bf4ae9f26a6fbc00dce0aa704bca0a2cebec2b0ecde69cf3a2b3f",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.917468118Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "79604727-e434-4be0-bfdb-55af39f03b20",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/vorbisenc.pc",
+  "size": 384,
+  "modified": "2024-04-08T16:08:48Z",
+  "created": "2025-05-29T11:16:29.130742753Z",
+  "sha256_hash": "a1fe08cf6b2b699a505ba21d4d2598a9afbd34c266fa72d8ed1bebe61ed69101",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.105882491Z"
+}

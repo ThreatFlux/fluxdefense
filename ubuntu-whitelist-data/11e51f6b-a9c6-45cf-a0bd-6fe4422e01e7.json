@@ -1,0 +1,17 @@
+{
+  "uuid": "11e51f6b-a9c6-45cf-a0bd-6fe4422e01e7",
+  "path": "/lib/nvidia/alternate-install-available",
+  "size": 175,
+  "modified": "2024-08-22T12:25:17Z",
+  "created": "2025-05-09T05:07:25.882806097Z",
+  "sha256_hash": "e184173cbef359eceeb983fadc7b9143c63e93ed620bdabbc665b1ffd21c2418",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.748770237Z"
+}

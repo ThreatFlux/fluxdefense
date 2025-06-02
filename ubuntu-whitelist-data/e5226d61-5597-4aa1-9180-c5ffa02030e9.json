@@ -1,0 +1,15 @@
+{
+  "uuid": "e5226d61-5597-4aa1-9180-c5ffa02030e9",
+  "path": "/lib/x86_64-linux-gnu/NetworkManager/libnm-vpn-plugin-openvpn-editor.so",
+  "size": 231856,
+  "modified": "2024-03-31T09:21:00Z",
+  "created": "2025-05-09T05:07:35.172664337Z",
+  "sha256_hash": "18540479035a507a770ac59b676cf3552eaf69eddfccf554e486f23a8f3b779f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.713987704Z"
+}

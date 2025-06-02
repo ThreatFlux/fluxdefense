@@ -1,0 +1,15 @@
+{
+  "uuid": "adb91c53-afd4-4921-9831-5453bca1be36",
+  "path": "/bin/ps2ascii",
+  "size": 631,
+  "modified": "2025-04-30T13:26:37Z",
+  "created": "2025-05-09T05:11:28.580101925Z",
+  "sha256_hash": "93144a4e033d9bf737ada3716aa3022a4ba8374fa72b3431a40635e8dd8eb83d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.865141586Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "23754071-7d5f-414b-b14a-70d8b38a64f6",
+  "path": "/usr/lib/systemd/system/systemd-hybrid-sleep.service",
+  "size": 583,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "adc43f6ed30499bd34b07c22440579e399bf5172175a6bc0bfcd14534ceb31e7",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.457412072Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "89bea280-9cc8-459b-a49e-04a3a57f2e93",
+  "path": "/bin/chattr",
+  "size": 14656,
+  "modified": "2024-04-28T23:44:46Z",
+  "created": "2025-05-09T05:07:19.095909662Z",
+  "sha256_hash": "b99f7278f6407a7a1119e344d2f4b6e4fb852c94181fd3b32ff6987c1db5e419",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.267626172Z"
+}

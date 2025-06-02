@@ -1,0 +1,17 @@
+{
+  "uuid": "cda16d8d-9298-4dea-b3bc-65c2170338a5",
+  "path": "/usr/lib/firmware/bnx2/bnx2-rv2p-06-6.0.15.fw.zst",
+  "size": 1760,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.477542574Z",
+  "sha256_hash": "cec34cb644832ff33edc638cd485322d13f610b74c2f290a2d054f90ee925c10",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.479706265Z"
+}

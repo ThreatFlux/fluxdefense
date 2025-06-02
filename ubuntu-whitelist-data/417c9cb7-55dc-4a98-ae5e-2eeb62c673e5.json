@@ -1,0 +1,17 @@
+{
+  "uuid": "417c9cb7-55dc-4a98-ae5e-2eeb62c673e5",
+  "path": "/bin/chmcmd-3.2.2",
+  "size": 851720,
+  "modified": "2024-01-05T07:40:08Z",
+  "created": "2025-05-29T11:16:19.020881487Z",
+  "sha256_hash": "7eda3aa6a73e02b695172621ab0e83c3b1ddaeff54854660296fd517d8e21281",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.005001686Z"
+}

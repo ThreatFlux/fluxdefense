@@ -1,0 +1,15 @@
+{
+  "uuid": "40043dc9-9da2-49c0-9582-d1919c6c8f02",
+  "path": "/usr/bin/grub-mkstandalone",
+  "size": 522408,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.598711665Z",
+  "sha256_hash": "d6b01a5a77d8c75b315275e916b359cc45fb67937e724fed14fd6329443af71e",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:08.053690762Z"
+}

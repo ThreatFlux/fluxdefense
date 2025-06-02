@@ -1,0 +1,15 @@
+{
+  "uuid": "d63804d0-9f11-4f7f-9723-0d2d9e51c6cb",
+  "path": "/lib/lp_solve/liblpsolve55.so",
+  "size": 610872,
+  "modified": "2025-02-15T08:51:42Z",
+  "created": "2025-05-09T05:07:25.847806632Z",
+  "sha256_hash": "f06da6b7b7a7a0cfb9e3b2bdfd9864eaa31e558cfc031a812324af6091c4b1e0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.404543722Z"
+}

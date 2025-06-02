@@ -1,0 +1,15 @@
+{
+  "uuid": "f42dc872-85ee-473b-a29c-89ba29297c01",
+  "path": "/usr/lib/python3.12/test/mp_preload.py",
+  "size": 351,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:48.000551657Z",
+  "sha256_hash": "723dad5223d042a1a13eb5c13bd2df698f25d03936f547651cc25d1beecb4e94",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.206716841Z"
+}

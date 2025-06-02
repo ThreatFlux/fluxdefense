@@ -1,0 +1,15 @@
+{
+  "uuid": "24df91b0-4f17-4d83-9059-75e9019c9b58",
+  "path": "/usr/lib/x86_64-linux-gnu/gconv/PT154.so",
+  "size": 18640,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:07:35.677656631Z",
+  "sha256_hash": "846a8925433ecbad6897b7e8438e9c03c94c7608d1046aab382d0125374740eb",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.521686497Z"
+}

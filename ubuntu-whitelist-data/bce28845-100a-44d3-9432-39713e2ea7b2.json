@@ -1,0 +1,17 @@
+{
+  "uuid": "bce28845-100a-44d3-9432-39713e2ea7b2",
+  "path": "/usr/lib/firmware/keyspan/usa49w.fw.zst",
+  "size": 3789,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.668539928Z",
+  "sha256_hash": "52e4c5e222b16c620ceda7f334ff131fe99295b33bcd4cd7b14aa2f3571abffb",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.590632620Z"
+}

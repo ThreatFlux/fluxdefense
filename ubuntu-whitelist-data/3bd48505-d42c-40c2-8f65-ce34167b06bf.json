@@ -1,0 +1,15 @@
+{
+  "uuid": "3bd48505-d42c-40c2-8f65-ce34167b06bf",
+  "path": "/usr/lib/x86_64-linux-gnu/libibverbs/libqedr-rdmav34.so",
+  "size": 51440,
+  "modified": "2024-03-31T08:21:10Z",
+  "created": "2025-05-09T05:07:35.866653747Z",
+  "sha256_hash": "3bf86560d3599964dcd708954adab62b703eb645d9bb8ca452d7d96681997558",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:16.100450223Z"
+}

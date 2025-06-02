@@ -1,0 +1,15 @@
+{
+  "uuid": "ead9519d-3d86-4bb2-af8f-3f2e4ee2d346",
+  "path": "/usr/lib/x86_64-linux-gnu/libc.so",
+  "size": 283,
+  "modified": "2025-01-28T17:07:37Z",
+  "created": "2025-05-09T05:08:53.070475538Z",
+  "sha256_hash": "fe2a4ce2930fc6b3966aa987fae808375446c8d3823b8c21792e991aad9c75df",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.437083336Z"
+}

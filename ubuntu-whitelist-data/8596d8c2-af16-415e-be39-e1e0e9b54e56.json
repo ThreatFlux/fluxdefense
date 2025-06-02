@@ -1,0 +1,15 @@
+{
+  "uuid": "8596d8c2-af16-415e-be39-e1e0e9b54e56",
+  "path": "/usr/sbin/kvm-ok",
+  "size": 3482,
+  "modified": "2024-04-08T15:55:31Z",
+  "created": "2025-05-09T05:56:47.379666874Z",
+  "sha256_hash": "ff70eaa10a45278fb3a32f31d9d67e7c8d1439f07cbf824e1ccd330b9d28f824",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.307163079Z"
+}

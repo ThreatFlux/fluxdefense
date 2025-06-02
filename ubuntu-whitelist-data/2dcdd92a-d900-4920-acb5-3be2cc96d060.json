@@ -1,0 +1,15 @@
+{
+  "uuid": "2dcdd92a-d900-4920-acb5-3be2cc96d060",
+  "path": "/usr/lib/libreoffice/program/libskialo.so",
+  "size": 7252312,
+  "modified": "2025-05-05T15:20:55Z",
+  "created": "2025-05-09T05:11:20.083231626Z",
+  "sha256_hash": "a8b6a5b7ccc696ba5f8c7398f30a071b3ebe18691e0a91dbd030e76e89d56f60",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:43.495034662Z"
+}

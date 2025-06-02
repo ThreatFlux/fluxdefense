@@ -1,0 +1,17 @@
+{
+  "uuid": "f32a2be6-da7d-4517-90aa-17ac60d31739",
+  "path": "/lib/x86_64-linux-gnu/espeak-ng-data/cv_dict",
+  "size": 1344,
+  "modified": "2024-04-08T15:56:57Z",
+  "created": "2025-05-09T05:07:35.408660736Z",
+  "sha256_hash": "8260837c8f18fbe5870905ebb2850dfd18e252150ad6c868b96d9d2c6398ea8a",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.299772112Z"
+}

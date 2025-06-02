@@ -1,0 +1,17 @@
+{
+  "uuid": "e7d25e44-8b58-4027-b2c3-7acf5dd6bb19",
+  "path": "/lib/firmware/i915/rkl_dmc_ver2_03.bin.zst",
+  "size": 4719,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.542541673Z",
+  "sha256_hash": "de136487bf4ab0d0140c82954ffb230104aded1c92137335af58d06b72f01593",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.719375986Z"
+}

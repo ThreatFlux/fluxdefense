@@ -1,0 +1,17 @@
+{
+  "uuid": "c74b8652-56c9-4e01-99c0-24ed4cf83896",
+  "path": "/lib/firmware/amdgpu/oland_smc.bin.zst",
+  "size": 25638,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.407543543Z",
+  "sha256_hash": "46d49d73a405434755c04a87991854d83a493637b3adb05b741d2e802448417d",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.075201274Z"
+}

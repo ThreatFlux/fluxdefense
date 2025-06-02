@@ -1,0 +1,15 @@
+{
+  "uuid": "eaa8ce49-7a0e-47bf-b299-b56dd63dd44d",
+  "path": "/bin/systemd-cgls",
+  "size": 23112,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.504779240Z",
+  "sha256_hash": "4b6cb4fc567274e17e0d80ba59d6e7c440e297b002379b2b502b1e02b78ab824",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.869242884Z"
+}

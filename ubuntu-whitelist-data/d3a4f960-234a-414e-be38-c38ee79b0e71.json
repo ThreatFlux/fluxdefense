@@ -1,0 +1,15 @@
+{
+  "uuid": "d3a4f960-234a-414e-be38-c38ee79b0e71",
+  "path": "/usr/bin/debconf-set-selections",
+  "size": 3216,
+  "modified": "2024-04-12T12:40:53Z",
+  "created": "2025-05-09T05:07:19.148908853Z",
+  "sha256_hash": "1f32e8a3daba11364b8f4ca795e1fad83b688f02ab27df8066f5c552d1070f98",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.874848907Z"
+}

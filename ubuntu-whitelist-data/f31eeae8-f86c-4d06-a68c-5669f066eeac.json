@@ -1,0 +1,15 @@
+{
+  "uuid": "f31eeae8-f86c-4d06-a68c-5669f066eeac",
+  "path": "/lib/klibc/bin/pivot_root",
+  "size": 9032,
+  "modified": "2024-05-21T08:39:42Z",
+  "created": "2025-05-09T05:07:21.712869729Z",
+  "sha256_hash": "68585f066b503f29f261b20aa173fcc4b96bdb8fdaf27020dca3a5cc62cb5efe",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.655249545Z"
+}

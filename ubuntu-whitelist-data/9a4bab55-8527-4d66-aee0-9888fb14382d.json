@@ -1,0 +1,17 @@
+{
+  "uuid": "9a4bab55-8527-4d66-aee0-9888fb14382d",
+  "path": "/lib/python3.12/test/decimaltestdata/randoms.decTest",
+  "size": 291073,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.997551697Z",
+  "sha256_hash": "eeebc168c6645187e1915a64998d7b79fdd66371c161efc01c4d02f916a0050e",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.416335264Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "e772f962-09d9-4454-abe3-b83d6477c355",
+  "path": "/usr/libexec/sudo/libsudo_util.so.0.0.0",
+  "size": 133944,
+  "modified": "2024-04-08T14:50:39Z",
+  "created": "2025-05-09T05:07:38.092619779Z",
+  "sha256_hash": "c04b14fc379cdc983297084519eb18155c46f18910ea81945f0e0c6b481865f8",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.198804330Z"
+}

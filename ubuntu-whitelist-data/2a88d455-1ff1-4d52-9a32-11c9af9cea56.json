@@ -1,0 +1,15 @@
+{
+  "uuid": "2a88d455-1ff1-4d52-9a32-11c9af9cea56",
+  "path": "/lib/python3/dist-packages/duplicity/backends/ssh_pexpect_backend.py",
+  "size": 12942,
+  "modified": "2025-02-15T08:51:42Z",
+  "created": "2025-05-09T05:07:26.871791006Z",
+  "sha256_hash": "0fb217bbb28864c4003a099178c6c3b26a29a119ffe2a725d937ec003833e627",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.473810076Z"
+}

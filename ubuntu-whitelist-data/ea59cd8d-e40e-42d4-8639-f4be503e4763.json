@@ -1,0 +1,15 @@
+{
+  "uuid": "ea59cd8d-e40e-42d4-8639-f4be503e4763",
+  "path": "/lib/x86_64-linux-gnu/gtk-4.0/4.0.0/immodules/libim-ibus.so",
+  "size": 43096,
+  "modified": "2024-03-31T12:04:22Z",
+  "created": "2025-05-09T05:07:35.810654601Z",
+  "sha256_hash": "4297941aac4e5d6c1e9ba7f95c94918954f00aefc21afb4c6518a017e01714c8",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:13.437001278Z"
+}

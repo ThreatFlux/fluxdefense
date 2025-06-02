@@ -1,0 +1,17 @@
+{
+  "uuid": "3d5eb4ed-62e9-4639-b113-378c4ceda62f",
+  "path": "/lib/grub/x86_64-efi/hexdump.mod",
+  "size": 4704,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.810708430Z",
+  "sha256_hash": "273247fe3c8e837d8e3d82432f0f6ed6ce4f7315c5b07fc6f0179960550835d2",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.137861242Z"
+}

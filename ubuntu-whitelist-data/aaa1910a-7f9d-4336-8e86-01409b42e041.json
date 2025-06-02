@@ -1,0 +1,15 @@
+{
+  "uuid": "aaa1910a-7f9d-4336-8e86-01409b42e041",
+  "path": "/usr/libexec/gdm-runtime-config",
+  "size": 14640,
+  "modified": "2024-12-02T22:47:57Z",
+  "created": "2025-05-09T05:07:37.425629957Z",
+  "sha256_hash": "acbb180b5c14c28b7e9fbd8c99f4fdedc282affc993355003692c1196ea0d29b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:36.250846581Z"
+}

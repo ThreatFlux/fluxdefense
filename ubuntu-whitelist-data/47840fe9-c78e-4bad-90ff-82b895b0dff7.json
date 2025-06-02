@@ -1,0 +1,17 @@
+{
+  "uuid": "47840fe9-c78e-4bad-90ff-82b895b0dff7",
+  "path": "/lib/firmware/ql2200_fw.bin.zst",
+  "size": 42110,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.057534540Z",
+  "sha256_hash": "0d3aa701e4727e54d6d410c6a30308e7797910f6482b6b560c76780055c9af14",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.360943472Z"
+}

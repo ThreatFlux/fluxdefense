@@ -1,0 +1,17 @@
+{
+  "uuid": "aa3f3864-f167-459c-9ab5-8526e8ad6264",
+  "path": "/lib/python3.12/test/decimaltestdata/minus.decTest",
+  "size": 7425,
+  "modified": "2025-02-04T14:48:35Z",
+  "created": "2025-05-28T17:29:47.995551723Z",
+  "sha256_hash": "7bdecc7e4967dee4e1a2acfdeea55bc8515496b947a98309ba418ad8ea33ac15",
+  "file_type": {
+    "Other": "dectest"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:08.445918511Z"
+}

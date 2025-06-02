@@ -1,0 +1,15 @@
+{
+  "uuid": "d46abfda-2473-4d6a-8432-a7da40da90fd",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adalib/libgnarl.a",
+  "size": 544444,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.110344324Z",
+  "sha256_hash": "344b2ca91506494dad595d32a704bfe9014a210292f58c06c88dd9c0d7eb14c1",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.631622453Z"
+}

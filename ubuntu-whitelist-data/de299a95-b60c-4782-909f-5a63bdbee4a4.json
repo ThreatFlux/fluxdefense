@@ -1,0 +1,17 @@
+{
+  "uuid": "de299a95-b60c-4782-909f-5a63bdbee4a4",
+  "path": "/usr/lib/ipxe/qemu/efi-eepro100.rom",
+  "size": 524288,
+  "modified": "2024-04-16T21:17:04Z",
+  "created": "2025-05-09T05:56:50.413632792Z",
+  "sha256_hash": "7b34bb236b86051f8968fad2c32809cfc19209d46effcaa642c2220a9120326c",
+  "file_type": {
+    "Other": "rom"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.383746300Z"
+}

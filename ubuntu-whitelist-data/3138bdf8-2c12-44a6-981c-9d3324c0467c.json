@@ -1,0 +1,17 @@
+{
+  "uuid": "3138bdf8-2c12-44a6-981c-9d3324c0467c",
+  "path": "/usr/lib/x86_64-linux-gnu/libabsl_time.so.20220623.0.0",
+  "size": 72248,
+  "modified": "2025-05-07T17:14:20Z",
+  "created": "2025-05-13T10:25:20.941492393Z",
+  "sha256_hash": "32701d0d0b7ac7bc5b701f15ec38c40c4bea499cf910393f6b6fa90a43926d54",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:08.585306655Z"
+}

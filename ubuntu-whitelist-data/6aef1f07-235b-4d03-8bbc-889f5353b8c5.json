@@ -1,0 +1,17 @@
+{
+  "uuid": "6aef1f07-235b-4d03-8bbc-889f5353b8c5",
+  "path": "/usr/lib/x86_64-linux-gnu/libOpenCL.so.1.0.0",
+  "size": 73384,
+  "modified": "2024-04-18T17:47:47Z",
+  "created": "2025-05-09T12:49:27.942496882Z",
+  "sha256_hash": "4f604bad7420b753bad559186002c58064d5c97813b107ea11c249fb1820b33a",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:29.961059962Z"
+}

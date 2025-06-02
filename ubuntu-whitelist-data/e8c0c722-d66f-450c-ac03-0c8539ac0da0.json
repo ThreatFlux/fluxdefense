@@ -1,0 +1,17 @@
+{
+  "uuid": "e8c0c722-d66f-450c-ac03-0c8539ac0da0",
+  "path": "/lib/llvm-18/include/clang/Sema/EnterExpressionEvaluationContext.h",
+  "size": 2478,
+  "modified": "2023-06-24T20:41:08Z",
+  "created": "2025-05-12T13:34:31.547533344Z",
+  "sha256_hash": "be34d4f87bf8f79ac3ede51412041ba1fa1a8671d79555456289fb87fd23a427",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.063464385Z"
+}

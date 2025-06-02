@@ -1,0 +1,17 @@
+{
+  "uuid": "0691e1b9-73a8-426d-8ced-cfdf031b4e2e",
+  "path": "/lib/firmware/nvidia/tu104/gr/fecs_sig.bin.zst",
+  "size": 109,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.959535898Z",
+  "sha256_hash": "4896aed83fe05975bc768b101112c89d6525c691d7bd46941e122361f25979f3",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.439272870Z"
+}

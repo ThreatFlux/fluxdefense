@@ -1,0 +1,17 @@
+{
+  "uuid": "17f5f54c-782e-457f-8344-f81d18ad931b",
+  "path": "/lib/llvm-18/include/clang/Parse/RAIIObjectsForParser.h",
+  "size": 15913,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.545533371Z",
+  "sha256_hash": "7ae3ece82cc09144b318dbe241343f5b6017bda2eaaa482c9afaa126786fc540",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.182162850Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "635d0eb0-1588-4a74-8739-7a6e8c0f8581",
+  "path": "/lib/x86_64-linux-gnu/libhttp_parser.so.2.9.4",
+  "size": 43080,
+  "modified": "2024-04-08T15:59:09Z",
+  "created": "2025-05-09T17:41:09.608631510Z",
+  "sha256_hash": "d6a0bfdf06e3c2b59ae8d2cb16c1109bb028aafdb2e1f76780590fc85f855bd8",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:27.263261771Z"
+}

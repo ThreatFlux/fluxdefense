@@ -1,0 +1,15 @@
+{
+  "uuid": "34b6f21a-34be-4385-a40a-5f8d962a2abe",
+  "path": "/usr/lib/llvm-18/lib/libLLVMMSP430Info.a",
+  "size": 4634,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:36.927462494Z",
+  "sha256_hash": "4686c07662c9786c61eec9d1ca795dd4b82384a124dc77961a22a25256dfe05a",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:36.233047457Z"
+}

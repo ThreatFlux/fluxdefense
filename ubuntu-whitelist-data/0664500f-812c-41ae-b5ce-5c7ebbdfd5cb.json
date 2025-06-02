@@ -1,0 +1,17 @@
+{
+  "uuid": "0664500f-812c-41ae-b5ce-5c7ebbdfd5cb",
+  "path": "/lib/llvm-18/include/clang-tidy/readability/AvoidReturnWithVoidValueCheck.h",
+  "size": 1640,
+  "modified": "2024-01-09T22:37:53Z",
+  "created": "2025-05-12T13:34:31.561533160Z",
+  "sha256_hash": "a85ae9d09abf657dfec08838f11a7a54431364f003245b54ababb443295174fa",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.923786176Z"
+}

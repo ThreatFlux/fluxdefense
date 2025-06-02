@@ -1,0 +1,17 @@
+{
+  "uuid": "867f79c7-0706-420b-b78f-e7156f4def58",
+  "path": "/lib/udev/hwdb.d/20-usb-vendor-model.hwdb",
+  "size": 1489283,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:14.056786297Z",
+  "sha256_hash": "70a4d9363e6170dceb100156c24411f795586242907a6a06b3791b35b0f0b77a",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:55.278201618Z"
+}

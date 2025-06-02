@@ -1,0 +1,17 @@
+{
+  "uuid": "b0bc9b7a-a1c1-4bb8-b099-b3b081e5203d",
+  "path": "/lib/firmware/amdgpu/navi12_sdma.bin.zst",
+  "size": 9821,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.405543571Z",
+  "sha256_hash": "9ddb754e21c48fa6d95b732779a2066d1f998c8c0ca7b399c6f311b5fd983e9c",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.067415339Z"
+}

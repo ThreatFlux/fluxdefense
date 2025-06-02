@@ -1,0 +1,15 @@
+{
+  "uuid": "615f5109-5cda-4c3e-8421-c967875f7661",
+  "path": "/lib/x86_64-linux-gnu/bluetooth/plugins/sixaxis.so",
+  "size": 22832,
+  "modified": "2025-02-25T06:11:15Z",
+  "created": "2025-05-09T05:24:20.097864190Z",
+  "sha256_hash": "8a425195c3ef4b27c91666d439c8e632aa4072aa91e39a5c983a8845085c1fd0",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:19.882273267Z"
+}

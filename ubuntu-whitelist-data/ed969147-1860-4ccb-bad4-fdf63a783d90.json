@@ -1,0 +1,15 @@
+{
+  "uuid": "ed969147-1860-4ccb-bad4-fdf63a783d90",
+  "path": "/lib/x86_64-linux-gnu/NetworkManager/1.46.0/libnm-device-plugin-bluetooth.so",
+  "size": 96544,
+  "modified": "2024-10-23T11:04:42Z",
+  "created": "2025-05-09T05:07:35.173664322Z",
+  "sha256_hash": "f4bf85ef2e10104f6c40b6464ae19e94506d56a7f1ff635554ece9e742ca3446",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:21.715100229Z"
+}

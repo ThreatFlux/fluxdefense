@@ -1,0 +1,17 @@
+{
+  "uuid": "79d0bb62-69c0-41b1-857b-0d84f3add452",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/adainclude/a-cimutr.adb",
+  "size": 77831,
+  "modified": "2024-05-21T07:47:37Z",
+  "created": "2025-05-29T11:24:15.048345176Z",
+  "sha256_hash": "0d6169e9618abdf404f63c8a30c95a5b1ae50b84f2eae3ae92585d96f1e34f7d",
+  "file_type": {
+    "Other": "adb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:51.036244551Z"
+}

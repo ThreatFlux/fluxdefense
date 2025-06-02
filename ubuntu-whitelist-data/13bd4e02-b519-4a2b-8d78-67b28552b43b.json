@@ -1,0 +1,17 @@
+{
+  "uuid": "13bd4e02-b519-4a2b-8d78-67b28552b43b",
+  "path": "/lib/grub/x86_64-efi/jpeg.mod",
+  "size": 11272,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.811708415Z",
+  "sha256_hash": "30e270798373c6c568f041d1823cfeb306f2e729fa2991a3b0004efc15ffe536",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.046016531Z"
+}

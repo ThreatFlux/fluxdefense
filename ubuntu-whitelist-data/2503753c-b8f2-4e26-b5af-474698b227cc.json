@@ -1,0 +1,15 @@
+{
+  "uuid": "2503753c-b8f2-4e26-b5af-474698b227cc",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstvideomixer.so",
+  "size": 96720,
+  "modified": "2024-12-16T18:36:08Z",
+  "created": "2025-05-09T05:07:35.776655120Z",
+  "sha256_hash": "58f0d09792a016ca02ad4dabd3a655934d388953f5d7157a11b6e1a2f890a422",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.964147045Z"
+}

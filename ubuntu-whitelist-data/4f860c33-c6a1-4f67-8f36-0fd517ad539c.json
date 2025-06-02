@@ -1,0 +1,17 @@
+{
+  "uuid": "4f860c33-c6a1-4f67-8f36-0fd517ad539c",
+  "path": "/lib/cups/filter/gziptoany",
+  "size": 14656,
+  "modified": "2024-09-26T11:15:36Z",
+  "created": "2025-05-09T05:07:21.347875298Z",
+  "sha256_hash": "9c386810d15459f5ae9aa8ca52ede48c80c14bcdcf43b5dfd55fa1e4d0456461",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.633106423Z"
+}

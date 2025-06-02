@@ -1,0 +1,17 @@
+{
+  "uuid": "7467c8d9-29d8-4215-b93c-6082e8d61878",
+  "path": "/lib/firmware/intel/sof-tplg/sof-apl-wm8804.tplg.zst",
+  "size": 789,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.057490999Z",
+  "sha256_hash": "3c19d1ed0726c2cec85303967254d4b064fbab192c77dc990e944d57fcfb3063",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.210582960Z"
+}

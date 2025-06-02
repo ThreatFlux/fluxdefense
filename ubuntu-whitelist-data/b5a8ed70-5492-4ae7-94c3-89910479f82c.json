@@ -1,0 +1,17 @@
+{
+  "uuid": "b5a8ed70-5492-4ae7-94c3-89910479f82c",
+  "path": "/lib/llvm-18/include/clang/AST/ASTContextAllocate.h",
+  "size": 1367,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.510533832Z",
+  "sha256_hash": "e5acc16024819deb1fddffb366d2da3676c6c74fcb33da6d26d0b981ab42f590",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.966013483Z"
+}

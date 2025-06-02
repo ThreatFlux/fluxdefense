@@ -1,0 +1,15 @@
+{
+  "uuid": "2bf598ae-145e-4fb4-945c-107e77efd7b6",
+  "path": "/lib/pppd/2.4.9/nm-pptp-pppd-plugin.so",
+  "size": 22696,
+  "modified": "2024-03-31T09:21:08Z",
+  "created": "2025-05-09T05:07:25.897805869Z",
+  "sha256_hash": "ffb1fa696bb49824a0a891108d28a8f7391d522ce2b63f362448eaef88482d33",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:57.133396845Z"
+}

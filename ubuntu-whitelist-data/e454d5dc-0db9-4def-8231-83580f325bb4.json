@@ -1,0 +1,15 @@
+{
+  "uuid": "e454d5dc-0db9-4def-8231-83580f325bb4",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/signal_handler.py",
+  "size": 4014,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.240037230Z",
+  "sha256_hash": "28f81e293b187f47a35ca72c04fdfc4dd7f496e981012f8d7cc128f62770d75a",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.834557610Z"
+}

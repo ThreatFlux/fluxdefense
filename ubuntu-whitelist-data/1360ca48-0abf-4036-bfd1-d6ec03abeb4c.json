@@ -1,0 +1,15 @@
+{
+  "uuid": "1360ca48-0abf-4036-bfd1-d6ec03abeb4c",
+  "path": "/usr/sbin/uflow",
+  "size": 8115,
+  "modified": "2024-04-16T05:52:23Z",
+  "created": "2025-05-09T05:08:51.523499148Z",
+  "sha256_hash": "efd25f022d027b847a93ceb4ba7b3d3101dc0d2db6a2a14dcf7a4607be91a488",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.718480159Z"
+}

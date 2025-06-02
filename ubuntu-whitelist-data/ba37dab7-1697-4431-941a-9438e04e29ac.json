@@ -1,0 +1,17 @@
+{
+  "uuid": "ba37dab7-1697-4431-941a-9438e04e29ac",
+  "path": "/lib/firmware/slicoss/oasisdownload.sys.zst",
+  "size": 22894,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.073534319Z",
+  "sha256_hash": "defe653d3eaf704f58721453b29e66d6690a2b185482e52e984efba369e318fa",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.990048778Z"
+}

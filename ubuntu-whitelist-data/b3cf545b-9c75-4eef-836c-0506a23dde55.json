@@ -1,0 +1,17 @@
+{
+  "uuid": "b3cf545b-9c75-4eef-836c-0506a23dde55",
+  "path": "/lib/firmware/radeon/OLAND_smc.bin.zst",
+  "size": 24447,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.061534485Z",
+  "sha256_hash": "36dee38473a94be6c141b1ae417d4a6bb3f58d1a167ebf1133568ec71d3a2e45",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:05.392820374Z"
+}

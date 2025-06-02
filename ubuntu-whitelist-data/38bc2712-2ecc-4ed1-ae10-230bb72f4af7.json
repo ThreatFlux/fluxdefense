@@ -1,0 +1,15 @@
+{
+  "uuid": "38bc2712-2ecc-4ed1-ae10-230bb72f4af7",
+  "path": "/bin/x86_64-linux-gnu-gnatchop-13",
+  "size": 454016,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-29T11:24:15.032345396Z",
+  "sha256_hash": "875f1aa53573beddc680b7a447848142f80b77fb16b34bb095b6934b9068bd5a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.175037672Z"
+}

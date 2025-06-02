@@ -1,0 +1,17 @@
+{
+  "uuid": "8fdbf2d4-ea8b-4659-8aa4-d4f0735d493a",
+  "path": "/usr/lib/modules/6.11.0-25-generic/kernel/crypto/aria_generic.ko.zst",
+  "size": 10241,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.097459865Z",
+  "sha256_hash": "abb2bd2d64ae20bd2a50811653e53d52589b932e531fcf2073722bf978ee9371",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.026372268Z"
+}

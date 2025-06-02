@@ -1,0 +1,17 @@
+{
+  "uuid": "66ab17f9-6d83-4ab0-82ea-f484d3e5dac4",
+  "path": "/usr/lib/modules/6.11.0-25-generic/kernel/crypto/streebog_generic.ko.zst",
+  "size": 23466,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.099459834Z",
+  "sha256_hash": "5d7f07f561787045ab992647d110f24e282942f2eaa70bdab484aca1f68dde44",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.024351058Z"
+}

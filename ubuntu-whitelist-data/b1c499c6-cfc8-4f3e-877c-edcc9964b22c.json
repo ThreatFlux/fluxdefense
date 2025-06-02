@@ -1,0 +1,17 @@
+{
+  "uuid": "b1c499c6-cfc8-4f3e-877c-edcc9964b22c",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/UnusedReturnValueCheck.h",
+  "size": 1874,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.558533199Z",
+  "sha256_hash": "85730b21025605384f5727ac7e8e4b3915f56bb79dabca16e5ed8c8cb9dbbdab",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.898049867Z"
+}

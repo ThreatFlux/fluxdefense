@@ -1,0 +1,17 @@
+{
+  "uuid": "a6f42060-f8c1-488e-b2ea-6d2d68dc8749",
+  "path": "/usr/lib/grub/x86_64-efi/part_amiga.mod",
+  "size": 2728,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.837708018Z",
+  "sha256_hash": "7c48c2e552a11a7e32201c27b0ec3cdc6d0ad146eddf4510caac02ffa938b8d5",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.453405018Z"
+}

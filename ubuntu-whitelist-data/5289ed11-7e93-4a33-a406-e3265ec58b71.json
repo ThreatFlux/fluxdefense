@@ -1,0 +1,17 @@
+{
+  "uuid": "5289ed11-7e93-4a33-a406-e3265ec58b71",
+  "path": "/lib/llvm-18/include/clang/AST/NonTrivialTypeVisitor.h",
+  "size": 4097,
+  "modified": "2023-01-02T13:01:23Z",
+  "created": "2025-05-12T13:34:31.518533726Z",
+  "sha256_hash": "689caa4f11e4cf4aba6218ae98d15c079d743737927aaee04a374d41b9ad7c32",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.945049459Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "7ae52d09-2ad7-4053-b247-6c55f6f253b0",
+  "path": "/usr/lib/x86_64-linux-gnu/libply-boot-client.so.5.0.0",
+  "size": 31240,
+  "modified": "2025-02-25T05:47:08Z",
+  "created": "2025-05-09T05:24:26.078942369Z",
+  "sha256_hash": "35ee27c24d04843807f397f94f0bedceba3ea2cee1864a4cfebd6cf1a7097a1f",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.059087682Z"
+}

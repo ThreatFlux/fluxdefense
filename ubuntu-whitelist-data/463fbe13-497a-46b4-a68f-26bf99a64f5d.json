@@ -1,0 +1,17 @@
+{
+  "uuid": "463fbe13-497a-46b4-a68f-26bf99a64f5d",
+  "path": "/lib/firewalld/policies/libvirt-to-host.xml",
+  "size": 479,
+  "modified": "2024-01-15T09:58:03Z",
+  "created": "2025-05-20T14:31:33.305811285Z",
+  "sha256_hash": "d7a1a0c73703ca061f25b86034a380260645f1d00a0d8aef443984ffc3817989",
+  "file_type": {
+    "Other": "xml"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.800307520Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "f1665350-7b7c-4211-9f1d-ad1d54a6ff62",
+  "path": "/usr/lib/firmware/i915/bxt_dmc_ver1_07.bin.zst",
+  "size": 1908,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.532541812Z",
+  "sha256_hash": "e03fe67830458149f46169fef7cb9c127f06d68beaf019e62bc45b3a488560b0",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.810687686Z"
+}

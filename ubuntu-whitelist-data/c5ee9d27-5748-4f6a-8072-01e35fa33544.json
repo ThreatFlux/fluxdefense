@@ -1,0 +1,17 @@
+{
+  "uuid": "c5ee9d27-5748-4f6a-8072-01e35fa33544",
+  "path": "/usr/lib/firmware/iwlwifi-6000g2b-6.ucode.zst",
+  "size": 200563,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.583541106Z",
+  "sha256_hash": "4eb54e03a4153410101c639b8db23fed8eb52f9be70619317c67afea8c23d513",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.503874235Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "5f75968b-f60f-465f-a3c2-762da062e910",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/linuxkernel/MustCheckErrsCheck.h",
+  "size": 1776,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "00c3c35e90296094d2cfe7aaed8096b5ac3cb895a45f52f9c3118adc5fc97567",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.241544055Z"
+}

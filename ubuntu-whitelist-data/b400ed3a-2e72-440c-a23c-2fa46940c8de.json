@@ -1,0 +1,15 @@
+{
+  "uuid": "b400ed3a-2e72-440c-a23c-2fa46940c8de",
+  "path": "/usr/lib/x86_64-linux-gnu/eog/plugins/libreload.so",
+  "size": 18576,
+  "modified": "2024-03-31T08:51:33Z",
+  "created": "2025-05-09T05:07:35.364661407Z",
+  "sha256_hash": "41ecf0e6f1ad2fe667cd678027d9be4dee2b18d23d0387827111f90dbdb0697f",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:12.869908713Z"
+}

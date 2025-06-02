@@ -1,0 +1,15 @@
+{
+  "uuid": "d8b9e160-b844-482a-9977-db568a98ef3a",
+  "path": "/usr/lib/llvm-18/lib/libLLVMSparcAsmParser.a",
+  "size": 129924,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:37.019461282Z",
+  "sha256_hash": "3199fc745b80ca9c6077b4330620c6a0b5f8b81d836cf7e775bc5b47cca2a434",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:33.764688103Z"
+}

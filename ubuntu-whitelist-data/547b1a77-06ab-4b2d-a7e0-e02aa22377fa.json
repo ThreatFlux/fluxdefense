@@ -1,0 +1,15 @@
+{
+  "uuid": "547b1a77-06ab-4b2d-a7e0-e02aa22377fa",
+  "path": "/bin/msgcmp",
+  "size": 31104,
+  "modified": "2024-04-08T15:58:30Z",
+  "created": "2025-05-29T11:15:44.957348897Z",
+  "sha256_hash": "03b17077754511641db81eb1aa06344ab6df31fa7840b6b571415bbc82cf08a8",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.936413918Z"
+}

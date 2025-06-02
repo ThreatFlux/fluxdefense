@@ -1,0 +1,15 @@
+{
+  "uuid": "b20fe681-6fe2-4d4e-a5eb-d952a081a458",
+  "path": "/lib/x86_64-linux-gnu/rsyslog/imuxsock.so",
+  "size": 41080,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.546922251Z",
+  "sha256_hash": "03b07fd18b347b2e8c70660948098d269f9ed5b88e4155cc342a4946ee2f6a06",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.857318798Z"
+}

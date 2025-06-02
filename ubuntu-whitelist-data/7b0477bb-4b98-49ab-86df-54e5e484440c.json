@@ -1,0 +1,15 @@
+{
+  "uuid": "7b0477bb-4b98-49ab-86df-54e5e484440c",
+  "path": "/usr/sbin/ctrlaltdel",
+  "size": 14720,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:38.145618970Z",
+  "sha256_hash": "b59441a944582af85489e2c89b91ee199b4f6d881df668f258bf64167d32b0f3",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.155466153Z"
+}

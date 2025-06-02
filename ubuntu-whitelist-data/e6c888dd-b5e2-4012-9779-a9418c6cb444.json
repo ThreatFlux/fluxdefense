@@ -1,0 +1,17 @@
+{
+  "uuid": "e6c888dd-b5e2-4012-9779-a9418c6cb444",
+  "path": "/lib/firmware/mts_cdma.fw.zst",
+  "size": 7454,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.891536840Z",
+  "sha256_hash": "7e4a09b90509a46f0b82a31f58bb688a7eb989af04a3b51047bb3d173dec25ff",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.344425357Z"
+}

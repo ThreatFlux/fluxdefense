@@ -1,0 +1,17 @@
+{
+  "uuid": "e2bc3077-7182-4337-a385-e3ab5f1527a6",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/misc/CoroutineHostileRAIICheck.h",
+  "size": 2042,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "55ba3ee58a178be0c456d26df11d62d00d79fcd0afc8decb921be0a9fe7dabe6",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.276374687Z"
+}

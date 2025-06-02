@@ -1,0 +1,17 @@
+{
+  "uuid": "af82fa7b-6280-48b7-a84f-a32eee89389e",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/misc/MisleadingIdentifier.h",
+  "size": 1016,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.559533186Z",
+  "sha256_hash": "213444d521b87c00541aeb0a62ed65eff30641c270004509797eb3a1513259cf",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.277560432Z"
+}

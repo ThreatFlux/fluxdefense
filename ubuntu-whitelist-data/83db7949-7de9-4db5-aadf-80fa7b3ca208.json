@@ -1,0 +1,15 @@
+{
+  "uuid": "83db7949-7de9-4db5-aadf-80fa7b3ca208",
+  "path": "/bin/ptargrep",
+  "size": 4395,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:57.073582856Z",
+  "sha256_hash": "0bca747354107929ecefbab2a8128923763bfa622124e20a1194c7f8a914a20f",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.939656729Z"
+}

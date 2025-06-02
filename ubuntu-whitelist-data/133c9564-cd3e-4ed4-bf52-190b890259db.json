@@ -1,0 +1,17 @@
+{
+  "uuid": "133c9564-cd3e-4ed4-bf52-190b890259db",
+  "path": "/lib/firmware/intel/sof-tplg/sof-icl-rt711-rt1308-rt715.tplg.zst",
+  "size": 1890,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.059490968Z",
+  "sha256_hash": "1126c1ee18d192642639076ae63ee02725d924093d13acd615e43fbc38a0eb42",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.209943998Z"
+}

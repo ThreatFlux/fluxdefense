@@ -1,0 +1,17 @@
+{
+  "uuid": "6ae1450c-93f0-461d-a254-22bb840bfce6",
+  "path": "/usr/lib/firmware/libertas/gspi8686_v9.bin.zst",
+  "size": 87476,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.668539928Z",
+  "sha256_hash": "8912f5c8dfde947b635b3ed2bbfd09193caf2b23317516f2e935bc644e07dccb",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.558683548Z"
+}

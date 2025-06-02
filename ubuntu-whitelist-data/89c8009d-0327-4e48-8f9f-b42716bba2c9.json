@@ -1,0 +1,17 @@
+{
+  "uuid": "89c8009d-0327-4e48-8f9f-b42716bba2c9",
+  "path": "/lib/systemd/systemd-storagetm",
+  "size": 51808,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.525779508Z",
+  "sha256_hash": "a7fd95292b2f580bf26e80f09c94f56777c1276b88c3570ed74e325194d582fa",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.133714495Z"
+}

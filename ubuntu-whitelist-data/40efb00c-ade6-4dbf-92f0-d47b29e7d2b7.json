@@ -1,0 +1,17 @@
+{
+  "uuid": "40efb00c-ade6-4dbf-92f0-d47b29e7d2b7",
+  "path": "/lib/grub/x86_64-efi/tftp.mod",
+  "size": 8752,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.839707987Z",
+  "sha256_hash": "931d35093bf843bfdc73cd1bb67615d56e7242e6e865d2352cb6356c075864bb",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.049716042Z"
+}

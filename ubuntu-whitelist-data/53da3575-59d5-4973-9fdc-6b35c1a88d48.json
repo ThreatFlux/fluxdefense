@@ -1,0 +1,15 @@
+{
+  "uuid": "53da3575-59d5-4973-9fdc-6b35c1a88d48",
+  "path": "/usr/bin/trace-cmd",
+  "size": 445856,
+  "modified": "2024-04-08T16:13:38Z",
+  "created": "2025-05-09T05:07:20.730884713Z",
+  "sha256_hash": "b77c550be15ba6e9f2f8065791cee88cce5191953298dcc9cd2fde15cdaab020",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:13.917985617Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "73603dcf-f335-4b78-bd1b-c512bb1d2de5",
+  "path": "/usr/lib/ipxe/qemu/efi-e1000e.rom",
+  "size": 524288,
+  "modified": "2024-04-16T21:17:04Z",
+  "created": "2025-05-09T05:56:50.412632804Z",
+  "sha256_hash": "210c1500c58f474e8b026b04cc32b5cd8990e6380ac3ebc4d7ded519b69ba3fd",
+  "file_type": {
+    "Other": "rom"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.347990116Z"
+}

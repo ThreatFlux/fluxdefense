@@ -1,0 +1,15 @@
+{
+  "uuid": "9df4aef8-e51c-49d9-96b5-b5af1d85e3b7",
+  "path": "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/libgstasf.so",
+  "size": 150096,
+  "modified": "2024-03-31T08:55:07Z",
+  "created": "2025-05-09T05:09:27.687947194Z",
+  "sha256_hash": "bd4bbbb900625df448d2f2f51934572c453c1decff7dccc5d3750b45fd303845",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:23.880593242Z"
+}

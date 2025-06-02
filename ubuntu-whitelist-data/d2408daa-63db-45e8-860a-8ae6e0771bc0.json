@@ -1,0 +1,15 @@
+{
+  "uuid": "d2408daa-63db-45e8-860a-8ae6e0771bc0",
+  "path": "/lib/x86_64-linux-gnu/pipewire-0.3/libpipewire-module-netjack2-driver.so",
+  "size": 129296,
+  "modified": "2025-02-13T20:37:23Z",
+  "created": "2025-05-09T05:24:19.781860089Z",
+  "sha256_hash": "19179560063f5cb7c557fd294c828c64908130b08d2e2716a066e5b1374a8005",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:23.911157533Z"
+}

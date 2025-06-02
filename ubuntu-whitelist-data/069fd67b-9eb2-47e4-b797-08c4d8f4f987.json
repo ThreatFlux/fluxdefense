@@ -1,0 +1,15 @@
+{
+  "uuid": "069fd67b-9eb2-47e4-b797-08c4d8f4f987",
+  "path": "/bin/setarch",
+  "size": 27288,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:20.436889200Z",
+  "sha256_hash": "3531101df80bc58324249a2447aa92d0f0de9f26f5cd03125ae837cf64757982",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:21.988607904Z"
+}

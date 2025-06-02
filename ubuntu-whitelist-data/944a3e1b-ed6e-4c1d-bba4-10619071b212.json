@@ -1,0 +1,15 @@
+{
+  "uuid": "944a3e1b-ed6e-4c1d-bba4-10619071b212",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/distros/cos.py",
+  "size": 247,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.237037190Z",
+  "sha256_hash": "cb439ceeab1f3c4a9d112a967bf273bf2cb0517cf6c17d31eaa1f3e2b7ad48db",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.843147366Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "2b784c20-5bb7-47e6-bdf8-a9574f823b14",
+  "path": "/usr/lib/systemd/system/uuidd.socket",
+  "size": 126,
+  "modified": "2024-12-05T02:26:54Z",
+  "created": "2025-05-09T05:07:28.305769124Z",
+  "sha256_hash": "21f7cc7b5ffaf73b27f00689e628797a2be947df144b1a0f7ba9356c8d0a4897",
+  "file_type": {
+    "Other": "socket"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.457471522Z"
+}

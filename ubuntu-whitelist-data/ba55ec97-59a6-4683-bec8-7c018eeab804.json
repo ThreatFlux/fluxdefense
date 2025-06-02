@@ -1,0 +1,17 @@
+{
+  "uuid": "ba55ec97-59a6-4683-bec8-7c018eeab804",
+  "path": "/lib/aspell/en-wo_accents.multi",
+  "size": 104,
+  "modified": "2020-12-08T01:19:37Z",
+  "created": "2025-05-09T05:07:21.014880380Z",
+  "sha256_hash": "3ba8e2c725fe8abbe7a021edfabbb0362e1b53c15dcc0296495efb3deff9d4c0",
+  "file_type": {
+    "Other": "multi"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.779516383Z"
+}

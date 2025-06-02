@@ -1,0 +1,17 @@
+{
+  "uuid": "af3d856d-2dda-457b-845a-576570cd5081",
+  "path": "/usr/lib/systemd/user/gnome-session-wayland.target",
+  "size": 322,
+  "modified": "2024-03-18T19:30:06Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "d969fd94631eecb167921d32bdd49c1c5a24cbfef806febe782f71091d3488e2",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.503478302Z"
+}

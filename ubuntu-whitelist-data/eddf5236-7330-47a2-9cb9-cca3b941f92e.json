@@ -1,0 +1,15 @@
+{
+  "uuid": "eddf5236-7330-47a2-9cb9-cca3b941f92e",
+  "path": "/sbin/ntfslabel",
+  "size": 22912,
+  "modified": "2024-04-08T14:46:29Z",
+  "created": "2025-05-09T05:07:38.371615521Z",
+  "sha256_hash": "7c2d208c3e3d3be9ea87cb8e0a8d9d819aec55398fd1649b0185539bf3760718",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.135716404Z"
+}

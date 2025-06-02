@@ -1,0 +1,15 @@
+{
+  "uuid": "978f8060-9966-4f74-ba34-2925b99f29cf",
+  "path": "/usr/lib/x86_64-linux-gnu/sssd/libsss_util.so",
+  "size": 561544,
+  "modified": "2024-10-23T13:09:14Z",
+  "created": "2025-05-09T05:07:37.288632047Z",
+  "sha256_hash": "773bd05a173234d9aa17b11a6411887561eff6a72d64e4a046a597a4c176fbc4",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.045438744Z"
+}

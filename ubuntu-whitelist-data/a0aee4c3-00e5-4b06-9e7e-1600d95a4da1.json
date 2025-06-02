@@ -1,0 +1,17 @@
+{
+  "uuid": "a0aee4c3-00e5-4b06-9e7e-1600d95a4da1",
+  "path": "/usr/lib/x86_64-linux-gnu/libpkcs11-helper.so.1.0.0",
+  "size": 126064,
+  "modified": "2024-03-31T08:14:31Z",
+  "created": "2025-05-09T05:07:31.849715044Z",
+  "sha256_hash": "7d726da2a42b1a76530adf08d9bb180b32e0ffc6efcdb001b525bec84d56c2c6",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.935757093Z"
+}

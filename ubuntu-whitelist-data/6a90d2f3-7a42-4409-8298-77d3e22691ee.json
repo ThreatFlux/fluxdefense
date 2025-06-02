@@ -1,0 +1,15 @@
+{
+  "uuid": "6a90d2f3-7a42-4409-8298-77d3e22691ee",
+  "path": "/lib/llvm-18/lib/libclangHandleCXX.a",
+  "size": 37960,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.733530895Z",
+  "sha256_hash": "137595aab2bc1cfd64273f6d1b886f5bed47d54b9e9c6d2c4a9e3f9bb0976932",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.189349628Z"
+}

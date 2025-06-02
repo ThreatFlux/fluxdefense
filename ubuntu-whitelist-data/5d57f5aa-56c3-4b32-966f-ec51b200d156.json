@@ -1,0 +1,17 @@
+{
+  "uuid": "5d57f5aa-56c3-4b32-966f-ec51b200d156",
+  "path": "/usr/lib/modules/6.11.0-26-generic/kernel/block/kyber-iosched.ko.zst",
+  "size": 19015,
+  "modified": "2025-04-17T15:16:10Z",
+  "created": "2025-05-20T14:31:34.816785112Z",
+  "sha256_hash": "86155658a0fa036daf1552b80ab617ab1648960004d9d0ed5a332e64e5b146e6",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.647740760Z"
+}

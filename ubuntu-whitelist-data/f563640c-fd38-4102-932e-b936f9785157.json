@@ -1,0 +1,17 @@
+{
+  "uuid": "f563640c-fd38-4102-932e-b936f9785157",
+  "path": "/usr/lib/systemd/system/sysstat-collect.service",
+  "size": 392,
+  "modified": "2024-01-09T20:31:44Z",
+  "created": "2025-05-09T05:07:28.301769185Z",
+  "sha256_hash": "94f24387c197affe7ee536eaa9980835a2351b229812cfdb6ab5ff2dabe942f5",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.471367327Z"
+}

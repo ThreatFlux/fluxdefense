@@ -1,0 +1,17 @@
+{
+  "uuid": "0c75c293-bf41-4e51-9541-42775b91c34d",
+  "path": "/lib/llvm-18/include/clang-tidy/utils/NamespaceAliaser.h",
+  "size": 1794,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "636fedd9f31981ba7cf3f659aecf3ebc5ac0811e47abf6dca1d685ace4955fc5",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.915403586Z"
+}

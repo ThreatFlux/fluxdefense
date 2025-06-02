@@ -1,0 +1,17 @@
+{
+  "uuid": "7efbb9ba-7a68-44a0-b015-7cc022f18b62",
+  "path": "/usr/lib/grub/x86_64-efi/mul_test.mod",
+  "size": 2488,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.837708018Z",
+  "sha256_hash": "34db10ef2af8140504df22bd2af6b0927d199aa0745fffa115c0213feff1eb64",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:54.473432488Z"
+}

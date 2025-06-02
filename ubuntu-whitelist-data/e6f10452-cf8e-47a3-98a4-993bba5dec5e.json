@@ -1,0 +1,17 @@
+{
+  "uuid": "e6f10452-cf8e-47a3-98a4-993bba5dec5e",
+  "path": "/usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2",
+  "size": 43464,
+  "modified": "2024-04-08T16:09:26Z",
+  "created": "2025-05-09T05:07:29.060757603Z",
+  "sha256_hash": "09bd5941a53ee7fb06898fa066709cf098df8e33a45042e065d2f8461d92672c",
+  "file_type": {
+    "Other": "2"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:08.685616177Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "9a2783fc-6fbc-469d-a665-9886b4b2737a",
+  "path": "/bin/grub-mkrelpath",
+  "size": 266024,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.596711696Z",
+  "sha256_hash": "15053321ba083c256f484c953720334079e1b7729404ce33ae3489173462fdee",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:24.514648662Z"
+}

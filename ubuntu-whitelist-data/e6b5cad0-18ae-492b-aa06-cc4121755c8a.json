@@ -1,0 +1,17 @@
+{
+  "uuid": "e6b5cad0-18ae-492b-aa06-cc4121755c8a",
+  "path": "/usr/lib/llvm-18/include/clang/Lex/LiteralSupport.h",
+  "size": 11520,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.544533384Z",
+  "sha256_hash": "35588d66fbec36c2e35a0742f23ae17ba22c2ddfe1911cfe1439d5b5165f23ec",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.613970602Z"
+}

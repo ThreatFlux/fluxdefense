@@ -1,0 +1,15 @@
+{
+  "uuid": "830cd570-1e23-41fe-be9f-229c40a7b162",
+  "path": "/lib/x86_64-linux-gnu/libffi_pic.a",
+  "size": 66836,
+  "modified": "2024-04-08T16:03:37Z",
+  "created": "2025-05-12T13:34:35.446481999Z",
+  "sha256_hash": "87b5a3b80754f55453a88134b831ddb6574dafcc964abc58a7368cc3ae900e3d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:34.125306835Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "7e975d1f-adf8-40bc-a6cb-038d062d597a",
+  "path": "/usr/lib/systemd/network/80-container-vz.network",
+  "size": 1023,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.510779317Z",
+  "sha256_hash": "4e46496ebf5948f196562478d40e448f3107fba30b2cf9c94c6525c66487b910",
+  "file_type": {
+    "Other": "network"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.560292983Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "755a611e-28f3-490c-837d-2ddba0d99da0",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/MisplacedPointerArithmeticInAllocCheck.h",
+  "size": 1400,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "c87ba829bdea782977ec3a47e3432a4623d4ec2fb060334b97c71203a5785a77",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.901048162Z"
+}

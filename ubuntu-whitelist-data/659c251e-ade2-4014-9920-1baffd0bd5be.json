@@ -1,0 +1,17 @@
+{
+  "uuid": "659c251e-ade2-4014-9920-1baffd0bd5be",
+  "path": "/lib/openssh/agent-launch",
+  "size": 1190,
+  "modified": "2024-07-30T16:12:40Z",
+  "created": "2025-05-09T05:11:28.351105421Z",
+  "sha256_hash": "405be673b453f04c5a99c804de2833203a7993d8e84a6ea8ae9122710d41af2b",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:44.737827922Z"
+}

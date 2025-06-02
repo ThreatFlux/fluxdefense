@@ -1,0 +1,17 @@
+{
+  "uuid": "b2a6ced7-5221-459f-860d-8d6be7c5ecb1",
+  "path": "/lib/systemd/system/systemd-bsod.service",
+  "size": 663,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.513779355Z",
+  "sha256_hash": "4adfa5b583a76194d200899b7ef642cdeb60194207759438df5aaf875095258f",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.115714054Z"
+}

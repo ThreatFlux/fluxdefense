@@ -1,0 +1,17 @@
+{
+  "uuid": "0767cb5f-f493-4b5d-8c69-80b2fff3591d",
+  "path": "/lib/libreoffice/program/opengl/honeycombVertexShader.glsl",
+  "size": 4234,
+  "modified": "2024-10-29T11:14:30Z",
+  "created": "2025-05-09T05:11:19.580239304Z",
+  "sha256_hash": "bb8d0523d73425dac28dcda031eb7995a901e1e032857fa6f3ed20432bb4ac02",
+  "file_type": {
+    "Other": "glsl"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:50.104192243Z"
+}

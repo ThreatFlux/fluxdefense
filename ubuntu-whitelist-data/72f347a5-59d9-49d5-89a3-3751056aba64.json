@@ -1,0 +1,17 @@
+{
+  "uuid": "72f347a5-59d9-49d5-89a3-3751056aba64",
+  "path": "/lib/x86_64-linux-gnu/bpf/xdpfilt_dny_udp.o",
+  "size": 17944,
+  "modified": "2024-04-01T04:46:20Z",
+  "created": "2025-05-26T20:18:27.419017429Z",
+  "sha256_hash": "56e12824b69dec9dc6f26ff41c751f50e202b0d0724477e36a83b2cedd10c8a5",
+  "file_type": {
+    "Other": "o"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:26.400661938Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "cff00cc9-6484-4f6a-bdd3-a005ae5c9b01",
+  "path": "/lib/x86_64-linux-gnu/libexpat.so.1.9.1",
+  "size": 174336,
+  "modified": "2025-03-28T07:06:29Z",
+  "created": "2025-05-09T05:09:48.149634889Z",
+  "sha256_hash": "7ae38be4b2f909d25c5ca3107ed04bc3128a8a24ea7adfe30102c3f04089c9c3",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:28.956295681Z"
+}

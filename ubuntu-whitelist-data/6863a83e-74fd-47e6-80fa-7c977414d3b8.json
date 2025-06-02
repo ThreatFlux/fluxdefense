@@ -1,0 +1,17 @@
+{
+  "uuid": "6863a83e-74fd-47e6-80fa-7c977414d3b8",
+  "path": "/lib/systemd/system/wacom-inputattach@.service",
+  "size": 167,
+  "modified": "2024-04-08T16:22:51Z",
+  "created": "2025-05-09T05:07:28.305769124Z",
+  "sha256_hash": "12b6757101cc3b1b97fdfc28ab54086cb758e0ea854eadfafde5748ca77f3315",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.101597269Z"
+}

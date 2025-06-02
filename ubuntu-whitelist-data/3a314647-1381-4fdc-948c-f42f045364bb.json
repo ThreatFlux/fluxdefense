@@ -1,0 +1,17 @@
+{
+  "uuid": "3a314647-1381-4fdc-948c-f42f045364bb",
+  "path": "/lib/llvm-18/include/clang-tidy/modernize/MakeUniqueCheck.h",
+  "size": 1193,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.560533173Z",
+  "sha256_hash": "4a6ae43ec9f2f9fe4353653980840386224e46f97961f4750e309f0ab52d3e05",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.910931572Z"
+}

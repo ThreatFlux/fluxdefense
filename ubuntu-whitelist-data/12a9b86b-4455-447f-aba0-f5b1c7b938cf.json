@@ -1,0 +1,15 @@
+{
+  "uuid": "12a9b86b-4455-447f-aba0-f5b1c7b938cf",
+  "path": "/usr/bin/brltty",
+  "size": 1068992,
+  "modified": "2024-03-31T00:24:15Z",
+  "created": "2025-05-09T05:07:18.971911554Z",
+  "sha256_hash": "520148738870d2e4e6c7ca070b25244ba45952d9b425af5a4582a3bae9722c14",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.155294487Z"
+}

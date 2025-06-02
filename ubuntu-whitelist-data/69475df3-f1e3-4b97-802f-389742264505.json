@@ -1,0 +1,15 @@
+{
+  "uuid": "69475df3-f1e3-4b97-802f-389742264505",
+  "path": "/lib/google-cloud-sdk/lib/surface/projects/get_ancestors_iam_policy.py",
+  "size": 1778,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.718932175Z",
+  "sha256_hash": "a8527d7442064f94bd66bcccbd9ba529c8ee22820d6b5e12bdf9d6afcf60cacb",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:54.035979422Z"
+}

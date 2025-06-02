@@ -1,0 +1,15 @@
+{
+  "uuid": "0b9d117c-fef2-42ab-9839-b964e39bc9c6",
+  "path": "/usr/lib/python3/dist-packages/cloudinit/config/cc_apt_configure.py",
+  "size": 38993,
+  "modified": "2025-01-15T15:24:11Z",
+  "created": "2025-05-09T05:24:33.234037150Z",
+  "sha256_hash": "856cbd4985bdb969c31a2c49f028aa8aacebcfc66d74d6ce3b01a631b9506cb6",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.854296382Z"
+}

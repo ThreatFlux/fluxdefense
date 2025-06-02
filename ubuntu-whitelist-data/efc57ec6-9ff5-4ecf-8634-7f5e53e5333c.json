@@ -1,0 +1,17 @@
+{
+  "uuid": "efc57ec6-9ff5-4ecf-8634-7f5e53e5333c",
+  "path": "/lib/tmpfiles.d/passwd.conf",
+  "size": 239,
+  "modified": "2024-04-23T10:44:51Z",
+  "created": "2025-05-09T05:07:28.308769079Z",
+  "sha256_hash": "1a3b927102b44454eb4c47e4fe659de2f5283f364ba27408329a54d4ad47e310",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.758878520Z"
+}

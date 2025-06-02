@@ -1,0 +1,17 @@
+{
+  "uuid": "78e67d1b-7263-4572-868f-c296f9c16ce5",
+  "path": "/lib/llvm-18/include/clang/Index/IndexingAction.h",
+  "size": 2772,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.543533397Z",
+  "sha256_hash": "0ccb5a292b45a03458735f908a7320a2efd5c5e6c8126401da2c0c8d29e7defd",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.935075670Z"
+}

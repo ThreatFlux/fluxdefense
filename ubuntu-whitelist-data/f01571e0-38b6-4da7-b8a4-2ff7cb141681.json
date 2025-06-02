@@ -1,0 +1,17 @@
+{
+  "uuid": "f01571e0-38b6-4da7-b8a4-2ff7cb141681",
+  "path": "/lib/llvm-18/include/clang-tidy/bugprone/LambdaFunctionNameCheck.h",
+  "size": 1901,
+  "modified": "2023-12-03T09:16:40Z",
+  "created": "2025-05-12T13:34:31.557533213Z",
+  "sha256_hash": "94d47cabd9c409083a02820281c56824c7430482495b471b02de4c64253d654c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.895234865Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "ed53c52b-a945-4b77-9a34-c90d8c115a1c",
+  "path": "/usr/bin/qmi-network",
+  "size": 16428,
+  "modified": "2024-03-31T02:12:03Z",
+  "created": "2025-05-09T05:07:20.373890161Z",
+  "sha256_hash": "64d8b69b135a0266cb3284e57a97062be6ec954f4bad4a23d75269d0ba516cca",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:09.881799054Z"
+}

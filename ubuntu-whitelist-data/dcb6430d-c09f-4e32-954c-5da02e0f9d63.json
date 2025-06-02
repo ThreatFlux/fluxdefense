@@ -1,0 +1,17 @@
+{
+  "uuid": "dcb6430d-c09f-4e32-954c-5da02e0f9d63",
+  "path": "/usr/lib/firmware/intel/sof-tplg/sof-adl-es8336-dmic2ch-ssp2.tplg.zst",
+  "size": 1674,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.056491014Z",
+  "sha256_hash": "775445515f3d9451a71747c8d4cd8feeab99b7fb09badcc2e31f2c726e4399ff",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:56.868325090Z"
+}

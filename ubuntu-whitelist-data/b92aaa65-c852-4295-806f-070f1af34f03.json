@@ -1,0 +1,17 @@
+{
+  "uuid": "b92aaa65-c852-4295-806f-070f1af34f03",
+  "path": "/lib/systemd/systemd-veritysetup",
+  "size": 27304,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.526779521Z",
+  "sha256_hash": "fe3f788df4b98cfea3ae7054dd009928087925ce64cb4c07d3f38655c6b40b07",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.135594733Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "9f09b7d2-b747-4bd1-aff2-bf0314d567fd",
+  "path": "/lib/llvm-18/include/clang-tidy/abseil/RedundantStrcatCallsCheck.h",
+  "size": 1521,
+  "modified": "2023-03-14T08:58:22Z",
+  "created": "2025-05-12T13:34:31.555533239Z",
+  "sha256_hash": "84a215c392b05526b13fe9c641021b5140c9e504b78346e79e1392a093d4da6c",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:35.903049696Z"
+}

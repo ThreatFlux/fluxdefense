@@ -1,0 +1,15 @@
+{
+  "uuid": "dbec8f89-c857-4751-9486-9e839bf9108c",
+  "path": "/usr/lib/x86_64-linux-gnu/xtables/libipt_ah.so",
+  "size": 14776,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.327631452Z",
+  "sha256_hash": "3e288bcb675f0bbae5cfb87a014305ab6274aed108653511b9221b32a1944ff9",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:21.275055401Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "2ad3999d-c08e-4263-93a8-604a4a7ec1e8",
+  "path": "/bin/isoinfo",
+  "size": 367200,
+  "modified": "2024-03-14T16:53:13Z",
+  "created": "2025-05-09T15:50:18.770385339Z",
+  "sha256_hash": "1d84af39c3fe7fd0d7a2da51842de14fb1f77ef3c5dc9f3b0a1ac6d33778b612",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:19.854852340Z"
+}

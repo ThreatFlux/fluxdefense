@@ -1,0 +1,17 @@
+{
+  "uuid": "a57c7da0-f629-4dd8-bd80-980bda20c38e",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/libwebpdemux.pc",
+  "size": 298,
+  "modified": "2024-03-31T08:02:02Z",
+  "created": "2025-05-29T11:16:02.933102247Z",
+  "sha256_hash": "d26cffdf1ba98a4a40753f3ee8c3ac3be2459aabce1163e53754847ed339b951",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.105560480Z"
+}

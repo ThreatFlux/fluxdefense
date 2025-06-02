@@ -1,0 +1,17 @@
+{
+  "uuid": "d4e779af-6458-4c09-bee3-61ee14ae8748",
+  "path": "/usr/lib/llvm-18/include/clang-tidy/readability/RedundantInlineSpecifierCheck.h",
+  "size": 1752,
+  "modified": "2024-01-24T12:45:36Z",
+  "created": "2025-05-12T13:34:31.562533147Z",
+  "sha256_hash": "5ee371a3995128818f6e41ca05c069bc9ddf97efd38b7c872c6bc86dde7930fd",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.285972408Z"
+}

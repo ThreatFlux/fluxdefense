@@ -1,0 +1,17 @@
+{
+  "uuid": "0a775c0d-b188-4fd5-860f-9e2cc7fd2b56",
+  "path": "/lib/grub/x86_64-efi/hdparm.mod",
+  "size": 10616,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.810708430Z",
+  "sha256_hash": "a801c0d25a9be3ef65ce1b56766ef36420b2ebae0b9515fed61b5244a1718882",
+  "file_type": {
+    "Other": "mod"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.049037757Z"
+}

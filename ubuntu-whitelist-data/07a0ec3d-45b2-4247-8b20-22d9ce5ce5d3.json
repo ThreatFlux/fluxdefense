@@ -1,0 +1,17 @@
+{
+  "uuid": "07a0ec3d-45b2-4247-8b20-22d9ce5ce5d3",
+  "path": "/lib/systemd/system/storage-target-mode.target",
+  "size": 943,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.512779342Z",
+  "sha256_hash": "322eac3517a46656b387f68b58aa0fd59e8996080df1e1941c5b221e75e72aed",
+  "file_type": {
+    "Other": "target"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.128217300Z"
+}

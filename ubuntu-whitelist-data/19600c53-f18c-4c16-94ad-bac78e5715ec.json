@@ -1,0 +1,17 @@
+{
+  "uuid": "19600c53-f18c-4c16-94ad-bac78e5715ec",
+  "path": "/lib/firmware/amdgpu/hainan_ce.bin.zst",
+  "size": 1088,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.400543640Z",
+  "sha256_hash": "6cc9c2294dd5645c1a91edf15dc5a71233f29a7f6ff8c45152d55acf17d6a779",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:04.963523798Z"
+}

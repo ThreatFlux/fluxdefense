@@ -1,0 +1,15 @@
+{
+  "uuid": "22c862ae-21a8-488f-ba5b-a10f7eb90949",
+  "path": "/bin/systemd-firstboot",
+  "size": 60232,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.505779253Z",
+  "sha256_hash": "310bc3a5b0cdc3a3201aa9eb90447297197150557a93eb77417147b0c489a772",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.389102887Z"
+}

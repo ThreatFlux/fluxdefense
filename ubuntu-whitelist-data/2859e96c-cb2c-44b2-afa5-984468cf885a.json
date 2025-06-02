@@ -1,0 +1,17 @@
+{
+  "uuid": "2859e96c-cb2c-44b2-afa5-984468cf885a",
+  "path": "/lib/systemd/user/gnome-session-signal-init.service",
+  "size": 179,
+  "modified": "2024-04-15T15:49:55Z",
+  "created": "2025-05-09T05:07:28.306769109Z",
+  "sha256_hash": "0c18d7008dc0f937c28ade790596a51a057a3e3f98f0a62aeaa182753f3137d7",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.144472605Z"
+}

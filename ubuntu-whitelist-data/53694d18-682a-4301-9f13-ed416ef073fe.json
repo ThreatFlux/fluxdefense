@@ -1,0 +1,17 @@
+{
+  "uuid": "53694d18-682a-4301-9f13-ed416ef073fe",
+  "path": "/lib/modules/6.11.0-25-generic/kernel/crypto/algif_aead.ko.zst",
+  "size": 7583,
+  "modified": "2025-04-15T12:48:48Z",
+  "created": "2025-05-09T05:08:54.097459865Z",
+  "sha256_hash": "102010c787c764ac52523f9181abc31901c349e0921674d4c378bf66b140e82a",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.630891790Z"
+}

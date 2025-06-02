@@ -1,0 +1,17 @@
+{
+  "uuid": "2598ffa4-f745-4478-9843-11110d0ab6c1",
+  "path": "/lib/llvm-18/include/clang/Tooling/NodeIntrospection.inc",
+  "size": 1459,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:31.553533265Z",
+  "sha256_hash": "51c667337882b7a58402ea33f0e568b7d886d34b1c4b8616ff6dccaf0f5af6fc",
+  "file_type": {
+    "Other": "inc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.018904756Z"
+}

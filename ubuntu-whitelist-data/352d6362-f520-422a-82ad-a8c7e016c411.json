@@ -1,0 +1,17 @@
+{
+  "uuid": "352d6362-f520-422a-82ad-a8c7e016c411",
+  "path": "/lib/firmware/intel/sof-ipc4-tplg/sof-mtl-rt5650.tplg.zst",
+  "size": 3947,
+  "modified": "2025-01-06T07:09:53Z",
+  "created": "2025-05-09T05:08:52.055491029Z",
+  "sha256_hash": "bffbd81300d305b586c1814af08001cf64dfe8a0f63b6b8859fed331ae0e3a00",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.067736625Z"
+}

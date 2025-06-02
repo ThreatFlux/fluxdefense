@@ -1,0 +1,17 @@
+{
+  "uuid": "cc837d8a-852b-466f-afb7-0d06df8e88cd",
+  "path": "/lib/x86_64-linux-gnu/libkeyutils.so.1.10",
+  "size": 22600,
+  "modified": "2024-04-08T16:00:56Z",
+  "created": "2025-05-09T05:07:31.329722979Z",
+  "sha256_hash": "f48214417757f18793ed6e180cc14ee1d6f04252a518fc7270e8ca1d0b4260fe",
+  "file_type": {
+    "Other": "10"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:29.072813752Z"
+}

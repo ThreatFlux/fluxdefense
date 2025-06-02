@@ -1,0 +1,17 @@
+{
+  "uuid": "178fea74-ec3d-41cc-87a4-99a4134c3247",
+  "path": "/lib/systemd/system/systemd-pcrmachine.service",
+  "size": 711,
+  "modified": "2025-02-21T21:18:31Z",
+  "created": "2025-05-09T05:24:13.514779368Z",
+  "sha256_hash": "0d3a82d232cc924ccf4bfd0f59f28ab13174c9b597782211b40ac3788701f339",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:59.110820876Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "a1effb32-ce2c-4af1-940a-4791a10783c8",
+  "path": "/lib/x86_64-linux-gnu/perl/5.38.2/bits/timesize.ph",
+  "size": 290,
+  "modified": "2025-04-08T12:47:54Z",
+  "created": "2025-05-09T05:10:56.558590717Z",
+  "sha256_hash": "13ec299d79176fb0d6ada32209db67905810cfeb46d6b7243555194094dfc338",
+  "file_type": {
+    "Other": "ph"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:16.591200069Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "2d2b96b3-90be-41d8-aa18-26c49f18798b",
+  "path": "/usr/lib/firmware/radeon/BONAIRE_sdma.bin.zst",
+  "size": 2085,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:09.059534513Z",
+  "sha256_hash": "5cc7f4ba15813ea1c34ad6af5d0d4def0d04a12b25c0c09b9665444f3c1941c8",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:00.409880423Z"
+}

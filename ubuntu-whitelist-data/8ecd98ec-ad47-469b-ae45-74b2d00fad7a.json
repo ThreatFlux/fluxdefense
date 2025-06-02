@@ -1,0 +1,17 @@
+{
+  "uuid": "8ecd98ec-ad47-469b-ae45-74b2d00fad7a",
+  "path": "/usr/lib/x86_64-linux-gnu/libqmi-glib.so.5.10.0",
+  "size": 4044872,
+  "modified": "2024-03-31T02:12:03Z",
+  "created": "2025-05-09T05:07:31.990712893Z",
+  "sha256_hash": "417261d35041cd3abb7cef6993145809e728e4335c6876c51809c9e12e224db2",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:32.452960295Z"
+}

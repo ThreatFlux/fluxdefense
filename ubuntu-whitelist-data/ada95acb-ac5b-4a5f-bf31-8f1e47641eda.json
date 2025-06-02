@@ -1,0 +1,17 @@
+{
+  "uuid": "ada95acb-ac5b-4a5f-bf31-8f1e47641eda",
+  "path": "/lib/x86_64-linux-gnu/pkgconfig/libheif.pc",
+  "size": 788,
+  "modified": "2024-10-21T10:48:55Z",
+  "created": "2025-05-29T11:16:23.228823743Z",
+  "sha256_hash": "aaf5624b8826dc46d07321571fc728bb77e90f4f238a70b62960c4cc11523647",
+  "file_type": {
+    "Other": "pc"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:14.096223533Z"
+}

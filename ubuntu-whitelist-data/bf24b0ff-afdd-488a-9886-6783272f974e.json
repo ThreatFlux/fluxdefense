@@ -1,0 +1,17 @@
+{
+  "uuid": "bf24b0ff-afdd-488a-9886-6783272f974e",
+  "path": "/usr/lib/udev/hwdb.d/20-usb-media-players.hwdb",
+  "size": 95805,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:28.421767354Z",
+  "sha256_hash": "734dab547b9a7557e9d2ffe34a454f73dfd1fe198b786fa6402b4f334bf120de",
+  "file_type": {
+    "Other": "hwdb"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.143801861Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "17b12403-bbad-40e9-b73d-0dddb2358f39",
+  "path": "/usr/bin/dh_md5sums",
+  "size": 3539,
+  "modified": "2024-03-01T04:50:27Z",
+  "created": "2025-05-29T11:15:45.514341255Z",
+  "sha256_hash": "39fd7cfdb0b744093dd1d99eecd78695f7ab75e725a66d1c0aa5d265fddabe3c",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.136093012Z"
+}

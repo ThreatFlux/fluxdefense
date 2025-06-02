@@ -1,0 +1,17 @@
+{
+  "uuid": "780fadaa-7bdd-48ae-9744-aa5f2d3e3324",
+  "path": "/usr/lib/gcc/x86_64-linux-gnu/13/include/xsaveintrin.h",
+  "size": 2473,
+  "modified": "2024-09-04T14:44:14Z",
+  "created": "2025-05-09T06:33:30.247389767Z",
+  "sha256_hash": "d331c585a2a4f7add08b17630cb7d91dcc49bbdd36fb05fa9aea3f28c5833fbd",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:49.901663470Z"
+}

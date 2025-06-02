@@ -1,0 +1,17 @@
+{
+  "uuid": "88de815b-37ff-446e-b1ce-f28bc3ff93ce",
+  "path": "/usr/lib/x86_64-linux-gnu/sane/libsane-teco3.so.1.2.1",
+  "size": 72072,
+  "modified": "2024-03-31T07:09:26Z",
+  "created": "2025-05-09T05:07:37.164633939Z",
+  "sha256_hash": "d1861758a0b1adee072c003d81f15f7fc102c24ce3fe3d6f442af5f1d6f1b179",
+  "file_type": {
+    "Other": "1"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:18.153808787Z"
+}

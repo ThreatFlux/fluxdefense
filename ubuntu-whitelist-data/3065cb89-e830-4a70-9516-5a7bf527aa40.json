@@ -1,0 +1,17 @@
+{
+  "uuid": "3065cb89-e830-4a70-9516-5a7bf527aa40",
+  "path": "/usr/lib/x86_64-linux-gnu/libabw-0.1.so.1.0.3",
+  "size": 236704,
+  "modified": "2025-02-15T08:51:43Z",
+  "created": "2025-05-09T05:07:29.064757542Z",
+  "sha256_hash": "0709f33a2a4677afeb561468d42ea766e66280aafc0194fe1d26f60a2d0fcaf0",
+  "file_type": {
+    "Other": "3"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:14.457683238Z"
+}

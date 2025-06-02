@@ -1,0 +1,15 @@
+{
+  "uuid": "1cf1bae1-d811-40be-b345-e4935254dad5",
+  "path": "/lib/x86_64-linux-gnu/xtables/libipt_ULOG.so",
+  "size": 14784,
+  "modified": "2024-04-08T15:59:59Z",
+  "created": "2025-05-09T05:07:37.327631452Z",
+  "sha256_hash": "9649283d11157fbb12b27f91f5c40a5d4852f1030f6f34f1c763d6ea5fa21ca2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:24.674765521Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "15cdc55c-8463-4d12-b00b-7c8c7bea513a",
+  "path": "/lib/x86_64-linux-gnu/rsyslog/omprog.so",
+  "size": 35368,
+  "modified": "2025-03-11T18:25:47Z",
+  "created": "2025-05-09T05:24:24.547922264Z",
+  "sha256_hash": "f3c79bda48e598780502ce94b0240a1889301ecf99d475d47a84334f02c200c2",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:35.850311708Z"
+}

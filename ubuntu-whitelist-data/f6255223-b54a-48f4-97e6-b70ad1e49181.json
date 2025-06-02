@@ -1,0 +1,17 @@
+{
+  "uuid": "f6255223-b54a-48f4-97e6-b70ad1e49181",
+  "path": "/usr/lib/firmware/amdgpu/stoney_sdma.bin.zst",
+  "size": 4133,
+  "modified": "2025-04-17T06:14:44Z",
+  "created": "2025-05-29T10:40:08.417543405Z",
+  "sha256_hash": "40ba39285892b2a2360306bcf9e1849cc97bdac9da95664d01bb45a95e838d12",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:59.945484369Z"
+}

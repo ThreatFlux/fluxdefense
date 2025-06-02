@@ -1,0 +1,15 @@
+{
+  "uuid": "706a904b-3460-447c-93b7-8f819dc23440",
+  "path": "/usr/lib/systemd/system-environment-generators/snapd-env-generator",
+  "size": 14488,
+  "modified": "2025-01-15T20:02:37Z",
+  "created": "2025-05-09T05:24:32.598028674Z",
+  "sha256_hash": "7b5386e7277be8c568a0f84c0da9ee1675702250fd28e9560f29feb23f7f406b",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.509048181Z"
+}

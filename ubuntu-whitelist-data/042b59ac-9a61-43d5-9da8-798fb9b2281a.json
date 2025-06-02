@@ -1,0 +1,17 @@
+{
+  "uuid": "042b59ac-9a61-43d5-9da8-798fb9b2281a",
+  "path": "/usr/lib/x86_64-linux-gnu/libaa.so.1.0.4",
+  "size": 131304,
+  "modified": "2024-03-13T17:25:58Z",
+  "created": "2025-05-09T05:07:29.061757588Z",
+  "sha256_hash": "b72fd3e55e2b41cb08b2e4dfa2a7f404e93fc76903ab0cad8a81d3273b136864",
+  "file_type": {
+    "Other": "4"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:20.085360255Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "9a1a5ad3-0ecd-4ff0-adf8-e8bac14b3d1d",
+  "path": "/bin/dpkg-buildflags",
+  "size": 8334,
+  "modified": "2024-07-17T09:09:50Z",
+  "created": "2025-05-09T06:33:31.736357711Z",
+  "sha256_hash": "4a363aa71affdea49cf5fc894783f3ff13ed66fcfe75646a82809ca7607e953a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:22.317562126Z"
+}

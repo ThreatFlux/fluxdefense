@@ -1,0 +1,17 @@
+{
+  "uuid": "0ece8cf8-5fe2-47d5-9ea0-d13e4def8ef4",
+  "path": "/lib/firmware/intel/sof-tplg/sof-tgl-es8336-dmic2ch-ssp0.tplg.zst",
+  "size": 1676,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.060490953Z",
+  "sha256_hash": "b9418282e4bc252454d48c7fad05389f8cd8860a313adca250c1d98c09dd8303",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.202919383Z"
+}

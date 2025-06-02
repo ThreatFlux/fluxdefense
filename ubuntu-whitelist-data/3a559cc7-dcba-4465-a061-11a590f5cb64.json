@@ -1,0 +1,15 @@
+{
+  "uuid": "3a559cc7-dcba-4465-a061-11a590f5cb64",
+  "path": "/usr/lib/cups/filter/pstoqpdl",
+  "size": 22856,
+  "modified": "2024-04-02T16:26:10Z",
+  "created": "2025-05-09T05:07:21.358875130Z",
+  "sha256_hash": "e76e75ce58421a94da7ade0ffef0fd8887554f159f7cf4dbe2452c2d701ab68a",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.005596602Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "62e759c8-83f0-4c02-99a0-e68b8c5a1ddb",
+  "path": "/usr/lib/systemd/system/tpm-udev.service",
+  "size": 117,
+  "modified": "2022-11-21T19:30:49Z",
+  "created": "2025-05-09T05:07:28.304769139Z",
+  "sha256_hash": "243572b69db81288c8a02755d700d7778cc8d6ee088624ce4c07ca5ebcd24ac0",
+  "file_type": {
+    "Other": "service"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:53.462724562Z"
+}

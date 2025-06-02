@@ -1,0 +1,17 @@
+{
+  "uuid": "b08f119b-c3cb-4dc3-9a4c-dd200c7ffbc5",
+  "path": "/usr/lib/llvm-18/include/clang/Basic/BuiltinsX86.def",
+  "size": 166601,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.526533621Z",
+  "sha256_hash": "a58a99a1cb16b5da264895a83f88a29bb8d42ed1dc624b5fe828b88eda6f9537",
+  "file_type": {
+    "Other": "def"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.499649262Z"
+}

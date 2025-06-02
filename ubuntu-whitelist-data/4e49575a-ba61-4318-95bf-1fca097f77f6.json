@@ -1,0 +1,15 @@
+{
+  "uuid": "4e49575a-ba61-4318-95bf-1fca097f77f6",
+  "path": "/bin/hciattach",
+  "size": 57808,
+  "modified": "2025-02-25T06:11:15Z",
+  "created": "2025-05-09T05:24:15.924810262Z",
+  "sha256_hash": "a1e1f4dde763f9e7bdbfef7c82e9f247c9def4782045980b2374c08ecbe4216d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:17.007485588Z"
+}

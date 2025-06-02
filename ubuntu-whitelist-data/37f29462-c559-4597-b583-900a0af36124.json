@@ -1,0 +1,17 @@
+{
+  "uuid": "37f29462-c559-4597-b583-900a0af36124",
+  "path": "/usr/lib/tmpfiles.d/provision.conf",
+  "size": 851,
+  "modified": "2024-02-27T17:26:04Z",
+  "created": "2025-05-09T05:24:13.527779534Z",
+  "sha256_hash": "aec58a0437f01a8abe5b594316639ed6b32c5b51587ddf2aa8d7ef1ce505da3f",
+  "file_type": {
+    "Other": "conf"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:03.134792297Z"
+}

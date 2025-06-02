@@ -1,0 +1,15 @@
+{
+  "uuid": "a07ceabe-e32a-4f95-a1b6-022024eb088b",
+  "path": "/lib/llvm-18/bin/llvm-ifs",
+  "size": 64472,
+  "modified": "2024-05-27T08:26:20Z",
+  "created": "2025-05-12T13:34:35.058487109Z",
+  "sha256_hash": "4fbf4e84b1b0ae10cf880d53aa65751d3795a6fc73aab64a0ab0ff0d37cd02ef",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:34.831588928Z"
+}

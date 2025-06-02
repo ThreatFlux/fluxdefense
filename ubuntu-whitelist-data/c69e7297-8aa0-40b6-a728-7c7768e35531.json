@@ -1,0 +1,17 @@
+{
+  "uuid": "c69e7297-8aa0-40b6-a728-7c7768e35531",
+  "path": "/usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0",
+  "size": 14024,
+  "modified": "2024-04-08T16:09:07Z",
+  "created": "2025-05-09T05:07:29.059757618Z",
+  "sha256_hash": "966fc171a949852a606efdf44d255f6f91b35c16328f5405c1b24743b6708ea7",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:15.413209727Z"
+}

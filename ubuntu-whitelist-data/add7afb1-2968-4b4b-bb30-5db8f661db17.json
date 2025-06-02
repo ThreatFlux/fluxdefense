@@ -1,0 +1,17 @@
+{
+  "uuid": "add7afb1-2968-4b4b-bb30-5db8f661db17",
+  "path": "/lib/llvm-18/include/clang/Serialization/ASTBitCodes.h",
+  "size": 61399,
+  "modified": "2024-04-04T05:53:13Z",
+  "created": "2025-05-12T13:34:31.549533318Z",
+  "sha256_hash": "efe8df5af41862ccf64e8996afaddd308c974eb43dee227f022c83f8e4149dd9",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:36.026845452Z"
+}

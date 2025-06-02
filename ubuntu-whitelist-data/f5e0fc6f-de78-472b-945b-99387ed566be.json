@@ -1,0 +1,15 @@
+{
+  "uuid": "f5e0fc6f-de78-472b-945b-99387ed566be",
+  "path": "/usr/lib/python3.12/lib2to3/fixes/fix_basestring.py",
+  "size": 320,
+  "modified": "2024-04-12T13:14:55Z",
+  "created": "2025-05-28T17:29:43.455611334Z",
+  "sha256_hash": "d041443d6499a735bb78fec9da1bf33b3d034b5192c98bc273b16a44692fc88f",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:04.913353215Z"
+}

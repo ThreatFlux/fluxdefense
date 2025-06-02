@@ -1,0 +1,17 @@
+{
+  "uuid": "d37a90fc-c61e-4853-b308-fa4a4b55a42f",
+  "path": "/usr/lib/llvm-18/include/clang/AST/OptionalDiagnostic.h",
+  "size": 2453,
+  "modified": "2022-01-23T00:26:54Z",
+  "created": "2025-05-12T13:34:31.519533713Z",
+  "sha256_hash": "76aad1e5ea01d10606388ab9c05215fd3c7ff6ef0a62b39667ad6178f1a90377",
+  "file_type": {
+    "Other": "h"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:28.332469389Z"
+}

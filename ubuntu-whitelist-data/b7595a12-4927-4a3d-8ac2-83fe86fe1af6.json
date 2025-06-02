@@ -1,0 +1,17 @@
+{
+  "uuid": "b7595a12-4927-4a3d-8ac2-83fe86fe1af6",
+  "path": "/lib/firmware/intel/sof-tplg/sof-tgl-rt5682-ssp0-max98373-ssp2-xperi.tplg.zst",
+  "size": 2470,
+  "modified": "2024-03-04T09:16:44Z",
+  "created": "2025-05-09T05:08:52.061490937Z",
+  "sha256_hash": "cc5d0d4ea010469fb22cdfdeb97da03d08af6039cd9a8e1fc9784fa75ef51a0f",
+  "file_type": {
+    "Other": "zst"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:02.219374170Z"
+}

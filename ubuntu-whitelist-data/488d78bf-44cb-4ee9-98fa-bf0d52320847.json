@@ -1,0 +1,15 @@
+{
+  "uuid": "488d78bf-44cb-4ee9-98fa-bf0d52320847",
+  "path": "/usr/lib/x86_64-linux-gnu/gawk/filefuncs.so",
+  "size": 35400,
+  "modified": "2024-03-31T05:33:52Z",
+  "created": "2025-05-23T03:43:48.621716868Z",
+  "sha256_hash": "eda39a9dd426d5843d0b8a25713fcbac96030a5437928a5d987fdaa39fd2822d",
+  "file_type": "Library",
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:09.315410011Z"
+}

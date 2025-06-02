@@ -1,0 +1,17 @@
+{
+  "uuid": "55bda4b0-b6f6-4bc3-a1a9-75d341cbfe52",
+  "path": "/lib/x86_64-linux-gnu/libayatana-indicator3.so.7.0.0",
+  "size": 84160,
+  "modified": "2024-03-31T07:44:17Z",
+  "created": "2025-05-09T05:07:29.182755741Z",
+  "sha256_hash": "4f65b3cf93ef9d54695ba8661db028118c38f335f4f012d38e6de6a1325957ec",
+  "file_type": {
+    "Other": "0"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:12.786293192Z"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "45b07db9-5174-4b5c-a7f4-49408e69f66c",
+  "path": "/lib/aspell/en_GB-ise-w_accents.multi",
+  "size": 110,
+  "modified": "2020-12-08T01:19:37Z",
+  "created": "2025-05-09T05:07:21.014880380Z",
+  "sha256_hash": "fc08d9718e071b044e3b8ba49c5a88666311dcb2f9f427fa281e2d62fda946f0",
+  "file_type": {
+    "Other": "multi"
+  },
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:00.784182929Z"
+}

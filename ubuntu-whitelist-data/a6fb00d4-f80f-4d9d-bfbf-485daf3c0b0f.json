@@ -1,0 +1,17 @@
+{
+  "uuid": "a6fb00d4-f80f-4d9d-bfbf-485daf3c0b0f",
+  "path": "/usr/lib/aspell/en_CA-variant_0.multi",
+  "size": 83,
+  "modified": "2020-12-08T01:19:37Z",
+  "created": "2025-05-09T05:07:21.014880380Z",
+  "sha256_hash": "95c01e196c1cf227016bd996751f6e24388a72b661293bd5daaa4b8bcdb69820",
+  "file_type": {
+    "Other": "multi"
+  },
+  "permissions": 33188,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:55.295131691Z"
+}

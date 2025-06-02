@@ -1,0 +1,15 @@
+{
+  "uuid": "a3474075-86da-4908-841f-4ef60ef7af3e",
+  "path": "/sbin/brctl",
+  "size": 39152,
+  "modified": "2024-04-08T15:54:51Z",
+  "created": "2025-05-09T05:56:47.136669604Z",
+  "sha256_hash": "eaf24c7217fbf2a9d8d6080cc3518db6c3462d04812f6e88aa6caf278a6331f9",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:25.004564170Z"
+}

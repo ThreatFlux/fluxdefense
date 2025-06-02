@@ -1,0 +1,17 @@
+{
+  "uuid": "4bbd35b5-d9f0-49fc-8269-6905f1d0b46c",
+  "path": "/lib/cups/filter/rastertoqpdl",
+  "size": 72024,
+  "modified": "2024-04-02T16:26:10Z",
+  "created": "2025-05-09T05:07:21.361875085Z",
+  "sha256_hash": "15822f3b90b94464aa00480cd8805666897714488a1b35889fcd0c7787500fed",
+  "file_type": {
+    "Other": "unknown"
+  },
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:47:07.637738034Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "8ad1faca-6cf8-4d02-b368-92f679983742",
+  "path": "/lib/google-cloud-sdk/lib/third_party/dns/resolver.py",
+  "size": 50210,
+  "modified": "1980-01-01T08:00:00Z",
+  "created": "2025-05-29T15:06:06.114942437Z",
+  "sha256_hash": "c805cf2c1c5ec77b83d3bf346d96527958c169c9671bc0618cba6ec2f67e8a42",
+  "file_type": "Script",
+  "permissions": 33188,
+  "is_executable": false,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:46:53.877823484Z"
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "2b9861ad-b5c9-4742-91d1-aaec14226955",
+  "path": "/usr/bin/grub-render-label",
+  "size": 768232,
+  "modified": "2025-03-17T13:20:09Z",
+  "created": "2025-05-09T05:08:37.599711650Z",
+  "sha256_hash": "40ab072eb91d5ee4c4e47ad2010894978974f73b9a4156dccc9ea9226939344d",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:15.117044501Z"
+}

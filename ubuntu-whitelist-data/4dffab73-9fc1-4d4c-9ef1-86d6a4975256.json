@@ -1,0 +1,15 @@
+{
+  "uuid": "4dffab73-9fc1-4d4c-9ef1-86d6a4975256",
+  "path": "/usr/bin/gnome-disks",
+  "size": 703992,
+  "modified": "2024-03-31T06:06:47Z",
+  "created": "2025-05-09T05:07:19.647901239Z",
+  "sha256_hash": "28d7086ee01f2ecf8e0851cf031125d1ab8415eba0bbee77f5ebdb8b6552a2f7",
+  "file_type": "Executable",
+  "permissions": 33261,
+  "is_executable": true,
+  "is_signed": false,
+  "code_signature": null,
+  "bundle_info": null,
+  "scan_timestamp": "2025-06-01T18:45:12.232066055Z"
+}
