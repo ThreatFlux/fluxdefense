@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { Sidebar } from '@/components/layout/sidebar'
 import { Header } from '@/components/layout/header'
 import { DashboardOverview } from '@/components/dashboard/overview'
+import { DashboardOverviewLive } from '@/components/dashboard/overview-live'
 import { SecurityEvents } from '@/components/security/security-events'
 import { NetworkMonitor } from '@/components/network/network-monitor'
 import { ActivityMonitor } from '@/components/activity/activity-monitor'
@@ -12,11 +13,12 @@ import { Settings } from '@/components/settings/settings'
 
 function App() {
   const [activeTab, setActiveTab] = useState('dashboard')
+  const [useLiveData, setUseLiveData] = useState(true) // Toggle for live vs static data
 
   const renderContent = () => {
     switch (activeTab) {
       case 'dashboard':
-        return <DashboardOverview />
+        return useLiveData ? <DashboardOverviewLive /> : <DashboardOverview />
       case 'security':
         return <SecurityEvents />
       case 'network':
@@ -32,7 +34,7 @@ function App() {
       case 'settings':
         return <Settings />
       default:
-        return <DashboardOverview />
+        return useLiveData ? <DashboardOverviewLive /> : <DashboardOverview />
     }
   }
 

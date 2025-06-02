@@ -1,5 +1,5 @@
 use axum::{
-    routing::{get, post, put},
+    routing::{get, post, put, delete},
     Router,
     http::Method,
 };
@@ -22,6 +22,10 @@ use fluxdefense::api::{
         update_security_settings,
     },
     websocket::{websocket_handler, populate_mock_data},
+    policy_handlers::{
+        get_policies, get_policy, create_policy, update_policy, delete_policy,
+        get_alerts, get_alert, update_alert_status, add_alert_note, get_policy_stats,
+    },
 };
 
 #[tokio::main]
@@ -36,10 +40,13 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     // Create application state
     let state = Arc::new(AppState::new());
     
-    // Populate initial mock data
-    populate_mock_data(Arc::clone(&state));
+    // Check if we should use real monitoring or mock data
+    let use_real_monitoring = std::env::var("USE_REAL_MONITORING")
+        .unwrap_or_else(|_| "true".to_string()) == "true";
     
-    info!("Populated initial mock data");
+    // For now, always use mock data until we fix the real monitor
+    populate_mock_data(Arc::clone(&state));
+    info!("Using mock data for demonstration");
 
     // Configure CORS
     let cors = CorsLayer::new()
@@ -83,6 +90,17 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         // Settings
         .route("/api/settings", get(get_settings).put(update_settings))
         .route("/api/settings/security", get(get_security_settings).put(update_security_settings))
+        
+        // Security Policies
+        .route("/api/policies", get(get_policies).post(create_policy))
+        .route("/api/policies/:id", get(get_policy).put(update_policy).delete(delete_policy))
+        .route("/api/policies/stats", get(get_policy_stats))
+        
+        // Alerts
+        .route("/api/alerts", get(get_alerts))
+        .route("/api/alerts/:id", get(get_alert))
+        .route("/api/alerts/:id/status", put(update_alert_status))
+        .route("/api/alerts/:id/notes", post(add_alert_note))
         
         // Static file serving for the web dashboard
         .fallback_service(tower_http::services::ServeDir::new("web-dashboard/dist"))

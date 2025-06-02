@@ -14,6 +14,7 @@ use crate::api::models::{
     SystemMetrics, ThreatDetection, LogEntry, DnsQuery
 };
 use crate::api::handlers::AppState;
+use tokio::sync::mpsc;
 
 pub async fn websocket_handler(
     ws: WebSocketUpgrade,
