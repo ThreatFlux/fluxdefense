@@ -1,5 +1,5 @@
 // API configuration
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3177/api';
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3178/api';
 
 // API response types
 export interface ApiResponse<T> {
@@ -150,6 +150,84 @@ export interface AlertNote {
   content: string;
 }
 
+export interface ProcessInfo {
+  pid: number;
+  ppid: number;
+  name: string;
+  command: string;
+  user: string;
+  cpu_percent: number;
+  memory_percent: number;
+  memory_mb: number;
+  status: string;
+  start_time: string;
+  runtime: number;
+  threads: number;
+  priority: number;
+  nice: number;
+  executable: string;
+  working_dir: string;
+  open_files: number;
+  network_connections: number;
+  children: number;
+  risk_score: number;
+  is_system: boolean;
+  is_suspicious: boolean;
+}
+
+export interface ProcessStats {
+  total_processes: number;
+  running_processes: number;
+  sleeping_processes: number;
+  zombie_processes: number;
+  total_threads: number;
+  cpu_cores: number;
+  system_load: number[];
+  memory_total: number;
+  memory_used: number;
+  top_cpu_processes: ProcessInfo[];
+  top_memory_processes: ProcessInfo[];
+}
+
+export interface NetworkConnectionAPI {
+  id: string;
+  local_address: string;
+  local_port: number;
+  remote_address: string;
+  remote_port: number;
+  protocol: string;
+  state: string;
+  process_name?: string;
+  process_id?: number;
+  user?: string;
+}
+
+export interface NetworkStats {
+  total_connections: number;
+  active_connections: number;
+  listening_connections: number;
+  blocked_connections: number;
+  external_connections: number;
+  suspicious_connections: number;
+  protocols: Record<string, number>;
+  bytes_in: number;
+  bytes_out: number;
+  packets_total: number;
+}
+
+export interface LogEntry {
+  id: string;
+  timestamp: string;
+  level: 'critical' | 'error' | 'warning' | 'info' | 'debug';
+  category: 'auth' | 'network' | 'process' | 'file' | 'system' | 'security';
+  source: string;
+  message: string;
+  details?: Record<string, any>;
+  user?: string;
+  pid?: number;
+  tags?: string[];
+}
+
 // API client class
 class ApiClient {
   private baseUrl: string;
@@ -236,6 +314,10 @@ class ApiClient {
     return this.request<DnsQuery[]>('/network/dns');
   }
 
+  async getNetworkStats(): Promise<ApiResponse<NetworkStats>> {
+    return this.request<NetworkStats>('/network/stats');
+  }
+
   // Threat detection
   async getThreatDetections(): Promise<ApiResponse<ThreatDetection[]>> {
     return this.request<ThreatDetection[]>('/threats/detections');
@@ -244,6 +326,41 @@ class ApiClient {
   // Live events
   async getLiveEvents(): Promise<ApiResponse<LiveEvent[]>> {
     return this.request<LiveEvent[]>('/live/events');
+  }
+
+  // Event logs
+  async getEventLogs(params?: {
+    level?: string;
+    category?: string;
+    search?: string;
+    limit?: number;
+    offset?: number;
+    since?: string;
+    until?: string;
+  }): Promise<ApiResponse<LogEntry[]>> {
+    const queryParams = new URLSearchParams();
+    if (params) {
+      Object.entries(params).forEach(([key, value]) => {
+        if (value !== undefined) {
+          queryParams.append(key, value.toString());
+        }
+      });
+    }
+    const query = queryParams.toString() ? `?${queryParams.toString()}` : '';
+    return this.request<LogEntry[]>(`/logs/events${query}`);
+  }
+
+  // Process management
+  async getProcesses(): Promise<ApiResponse<ProcessInfo[]>> {
+    return this.request<ProcessInfo[]>('/processes');
+  }
+
+  async getProcessStats(): Promise<ApiResponse<ProcessStats>> {
+    return this.request<ProcessStats>('/processes/stats');
+  }
+
+  async getProcess(pid: number): Promise<ApiResponse<ProcessInfo>> {
+    return this.request<ProcessInfo>(`/processes/${pid}`);
   }
 
   // Policies
@@ -275,6 +392,28 @@ class ApiClient {
     });
   }
 
+  // Settings
+  async getSettings(): Promise<ApiResponse<{
+    security: any;
+    network: any;
+    notifications: any;
+    system: any;
+  }>> {
+    return this.request('/settings');
+  }
+
+  async updateSettings(settings: {
+    security: any;
+    network: any;
+    notifications: any;
+    system: any;
+  }): Promise<ApiResponse<void>> {
+    return this.request('/settings', {
+      method: 'PUT',
+      body: JSON.stringify(settings),
+    });
+  }
+
   // Alerts
   async getAlerts(): Promise<ApiResponse<Alert[]>> {
     return this.request<Alert[]>('/alerts');
@@ -299,7 +438,7 @@ class ApiClient {
   }
 
   // WebSocket connection for live events
-  connectWebSocket(onMessage: (event: LiveEvent) => void): WebSocket {
+  connectWebSocket(onMessage: (event: LiveEvent) => void, onLogEntry?: (log: LogEntry) => void): WebSocket {
     const wsUrl = this.baseUrl.replace('http', 'ws').replace('/api', '/api/live/ws');
     const ws = new WebSocket(wsUrl);
 
@@ -308,6 +447,8 @@ class ApiClient {
         const message = JSON.parse(event.data);
         if (message.type === 'LiveEvent' && message.data) {
           onMessage(message.data);
+        } else if (message.type === 'LogEntry' && message.data && onLogEntry) {
+          onLogEntry(message.data);
         }
       } catch (error) {
         console.error('WebSocket message parse error:', error);

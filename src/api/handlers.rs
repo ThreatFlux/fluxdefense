@@ -11,8 +11,9 @@ use uuid::Uuid;
 use crate::api::models::{
     ApiResponse, HealthCheck, SystemStatus, ThreatMetrics, NetworkMetrics,
     SecurityEvent, NetworkConnection, DnsQuery, ThreatDetection, MalwareSignature,
-    LogEntry, LiveEvent, AllSettings, SecuritySettings, NetworkSettings,
+    LogEntry, LogLevel, LogCategory, LiveEvent, AllSettings, SecuritySettings, NetworkSettings,
     NotificationSettings, SystemSettings, EventQuery, LogQuery,
+    ProcessInfo, ProcessStats,
 };
 use crate::api::system_monitor::SystemMonitor;
 
@@ -25,6 +26,8 @@ pub struct AppState {
     pub malware_signatures: Arc<Mutex<Vec<MalwareSignature>>>,
     pub log_entries: Arc<Mutex<Vec<LogEntry>>>,
     pub live_events: Arc<Mutex<Vec<LiveEvent>>>,
+    pub processes: Arc<Mutex<Vec<ProcessInfo>>>,
+    pub process_stats: Arc<Mutex<ProcessStats>>,
     pub settings: Arc<Mutex<AllSettings>>,
     pub start_time: DateTime<Utc>,
 }
@@ -71,6 +74,21 @@ impl AppState {
             },
         };
 
+        // Create initial empty process stats
+        let initial_stats = ProcessStats {
+            total_processes: 0,
+            running_processes: 0,
+            sleeping_processes: 0,
+            zombie_processes: 0,
+            total_threads: 0,
+            cpu_cores: 8, // Default value
+            system_load: vec![0.0, 0.0, 0.0],
+            memory_total: 16384, // Default 16GB in MB
+            memory_used: 0,
+            top_cpu_processes: Vec::new(),
+            top_memory_processes: Vec::new(),
+        };
+
         Self {
             system_monitor: Arc::new(Mutex::new(SystemMonitor::new())),
             security_events: Arc::new(Mutex::new(Vec::new())),
@@ -80,6 +98,8 @@ impl AppState {
             malware_signatures: Arc::new(Mutex::new(Vec::new())),
             log_entries: Arc::new(Mutex::new(Vec::new())),
             live_events: Arc::new(Mutex::new(Vec::new())),
+            processes: Arc::new(Mutex::new(Vec::new())),
+            process_stats: Arc::new(Mutex::new(initial_stats)),
             settings: Arc::new(Mutex::new(settings)),
             start_time: Utc::now(),
         }
@@ -282,18 +302,24 @@ pub async fn get_event_logs(
     let mut filtered_logs: Vec<LogEntry> = logs.iter().cloned().collect();
     
     // Apply filters
-    if let Some(level) = &query.level {
-        filtered_logs.retain(|l| l.level == *level);
+    if let Some(level_str) = &query.level {
+        // Parse string to LogLevel enum
+        if let Ok(level) = serde_json::from_value::<LogLevel>(serde_json::json!(level_str)) {
+            filtered_logs.retain(|l| l.level == level);
+        }
     }
-    if let Some(category) = &query.category {
-        filtered_logs.retain(|l| l.category == *category);
+    if let Some(category_str) = &query.category {
+        // Parse string to LogCategory enum
+        if let Ok(category) = serde_json::from_value::<LogCategory>(serde_json::json!(category_str)) {
+            filtered_logs.retain(|l| l.category == category);
+        }
     }
     if let Some(search) = &query.search {
         let search_lower = search.to_lowercase();
         filtered_logs.retain(|l| {
             l.message.to_lowercase().contains(&search_lower) ||
             l.source.to_lowercase().contains(&search_lower) ||
-            l.tags.iter().any(|tag| tag.to_lowercase().contains(&search_lower))
+            l.tags.as_ref().map_or(false, |tags| tags.iter().any(|tag| tag.to_lowercase().contains(&search_lower)))
         });
     }
     if let Some(since) = query.since {
@@ -362,4 +388,80 @@ pub async fn update_security_settings(
     let mut settings = state.settings.lock().unwrap();
     settings.security = new_settings.clone();
     Json(ApiResponse::success(new_settings))
+}
+
+// Process Management
+pub async fn get_processes(
+    State(state): State<Arc<AppState>>,
+) -> Json<ApiResponse<Vec<ProcessInfo>>> {
+    let processes = state.processes.lock().unwrap();
+    Json(ApiResponse::success(processes.clone()))
+}
+
+pub async fn get_process_stats(
+    State(state): State<Arc<AppState>>,
+) -> Json<ApiResponse<ProcessStats>> {
+    let stats = state.process_stats.lock().unwrap();
+    Json(ApiResponse::success(stats.clone()))
+}
+
+pub async fn get_process_by_pid(
+    State(state): State<Arc<AppState>>,
+    Path(pid): Path<u32>,
+) -> Result<Json<ApiResponse<ProcessInfo>>, StatusCode> {
+    let processes = state.processes.lock().unwrap();
+    
+    if let Some(process) = processes.iter().find(|p| p.pid == pid) {
+        Ok(Json(ApiResponse::success(process.clone())))
+    } else {
+        Err(StatusCode::NOT_FOUND)
+    }
+}
+
+pub async fn get_network_stats(
+    State(state): State<Arc<AppState>>,
+) -> Json<ApiResponse<serde_json::Value>> {
+    let connections = state.network_connections.lock().unwrap();
+    
+    let total_connections = connections.len() as u32;
+    let active_connections = connections.iter().filter(|c| c.status == "ESTABLISHED").count() as u32;
+    let listening_ports = connections.iter().filter(|c| c.status == "LISTEN").count() as u32;
+    let blocked_connections = connections.iter().filter(|c| c.status == "BLOCKED").count() as u32;
+    
+    let protocols: std::collections::HashMap<String, u32> = connections
+        .iter()
+        .fold(std::collections::HashMap::new(), |mut acc, conn| {
+            *acc.entry(conn.protocol.clone()).or_insert(0) += 1;
+            acc
+        });
+    
+    let external_connections = connections.iter().filter(|c| {
+        !c.dest_ip.starts_with("127.") && 
+        !c.dest_ip.starts_with("192.168.") && 
+        !c.dest_ip.starts_with("10.") &&
+        !c.dest_ip.starts_with("172.")
+    }).count() as u32;
+    
+    let suspicious_connections = connections.iter().filter(|c| {
+        // Check for suspicious ports or IPs
+        let suspicious_ports = [22, 23, 1337, 31337, 4444, 6666];
+        suspicious_ports.contains(&c.dest_port) || 
+        c.dest_ip.starts_with("0.") ||
+        c.dest_port > 49152
+    }).count() as u32;
+    
+    let stats = serde_json::json!({
+        "total_connections": total_connections,
+        "active_connections": active_connections,
+        "listening_connections": listening_ports,
+        "blocked_connections": blocked_connections,
+        "external_connections": external_connections,
+        "suspicious_connections": suspicious_connections,
+        "protocols": protocols,
+        "bytes_in": connections.iter().map(|c| c.bytes_in).sum::<u64>(),
+        "bytes_out": connections.iter().map(|c| c.bytes_out).sum::<u64>(),
+        "packets_total": connections.iter().map(|c| c.packets).sum::<u32>()
+    });
+    
+    Json(ApiResponse::success(stats))
 }

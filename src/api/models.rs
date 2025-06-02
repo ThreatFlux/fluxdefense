@@ -90,14 +90,27 @@ pub struct DnsQuery {
 #[derive(Debug, Serialize, Deserialize, Clone)]
 pub struct ProcessInfo {
     pub pid: u32,
+    pub ppid: u32,
     pub name: String,
-    pub user: String,
-    pub cpu_usage: f32,
-    pub memory_usage: f32,
-    pub status: String,
-    pub start_time: DateTime<Utc>,
     pub command: String,
-    pub ppid: Option<u32>,
+    pub user: String,
+    pub cpu_percent: f32,
+    pub memory_percent: f32,
+    pub memory_mb: f32,
+    pub status: String,
+    pub start_time: String,
+    pub runtime: f32,
+    pub threads: u32,
+    pub priority: i32,
+    pub nice: i32,
+    pub executable: String,
+    pub working_dir: String,
+    pub open_files: u32,
+    pub network_connections: u32,
+    pub children: u32,
+    pub risk_score: f32,
+    pub is_system: bool,
+    pub is_suspicious: bool,
 }
 
 #[derive(Debug, Serialize, Deserialize, Clone)]
@@ -195,18 +208,39 @@ pub struct MalwareSignature {
 }
 
 // Event Logs Models
+#[derive(Debug, Serialize, Deserialize, Clone, PartialEq)]
+#[serde(rename_all = "lowercase")]
+pub enum LogLevel {
+    Debug,
+    Info,
+    Warning,
+    Error,
+    Critical,
+}
+
+#[derive(Debug, Serialize, Deserialize, Clone, PartialEq)]
+#[serde(rename_all = "lowercase")]
+pub enum LogCategory {
+    Auth,
+    Network,
+    Process,
+    File,
+    System,
+    Security,
+}
+
 #[derive(Debug, Serialize, Deserialize, Clone)]
 pub struct LogEntry {
     pub id: String,
     pub timestamp: DateTime<Utc>,
-    pub level: String,
-    pub category: String,
+    pub level: LogLevel,
+    pub category: LogCategory,
     pub source: String,
     pub message: String,
-    pub details: HashMap<String, serde_json::Value>,
+    pub details: Option<HashMap<String, serde_json::Value>>,
     pub user: Option<String>,
     pub pid: Option<u32>,
-    pub tags: Vec<String>,
+    pub tags: Option<Vec<String>>,
 }
 
 // Live Monitor Models
@@ -346,4 +380,21 @@ pub struct LogQuery {
     pub search: Option<String>,
     pub since: Option<DateTime<Utc>>,
     pub until: Option<DateTime<Utc>>,
+}
+
+// Process Manager Models - using enhanced version
+
+#[derive(Debug, Serialize, Deserialize, Clone)]
+pub struct ProcessStats {
+    pub total_processes: u32,
+    pub running_processes: u32,
+    pub sleeping_processes: u32,
+    pub zombie_processes: u32,
+    pub total_threads: u32,
+    pub cpu_cores: u32,
+    pub system_load: Vec<f64>,
+    pub memory_total: u64,
+    pub memory_used: u64,
+    pub top_cpu_processes: Vec<ProcessInfo>,
+    pub top_memory_processes: Vec<ProcessInfo>,
 }

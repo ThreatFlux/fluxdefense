@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { 
   Network, 
   Shield, 
@@ -9,7 +9,8 @@ import {
   AlertTriangle,
   CheckCircle,
   XCircle,
-  Filter
+  Filter,
+  RefreshCw
 } from "lucide-react"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
@@ -45,85 +46,7 @@ interface DnsQuery {
   response?: string
 }
 
-const mockConnections: NetworkConnection[] = [
-  {
-    id: '1',
-    timestamp: '2024-06-01 15:35:22',
-    protocol: 'TCP',
-    sourceIp: '192.168.1.100',
-    sourcePort: 45678,
-    destIp: '93.184.216.34',
-    destPort: 443,
-    status: 'active',
-    bytesIn: 2048,
-    bytesOut: 1024,
-    packets: 15,
-    duration: '2m 15s',
-    process: 'firefox',
-    pid: 12345
-  },
-  {
-    id: '2',
-    timestamp: '2024-06-01 15:34:18',
-    protocol: 'TCP',
-    sourceIp: '192.168.1.100',
-    sourcePort: 54321,
-    destIp: '45.123.456.789',
-    destPort: 4444,
-    status: 'blocked',
-    bytesIn: 0,
-    bytesOut: 128,
-    packets: 3,
-    duration: '0s',
-    process: 'malware',
-    pid: 98765
-  },
-  {
-    id: '3',
-    timestamp: '2024-06-01 15:33:45',
-    protocol: 'UDP',
-    sourceIp: '192.168.1.100',
-    sourcePort: 53,
-    destIp: '8.8.8.8',
-    destPort: 53,
-    status: 'closed',
-    bytesIn: 512,
-    bytesOut: 256,
-    packets: 4,
-    duration: '1s',
-    process: 'systemd-resolved',
-    pid: 567
-  }
-]
 
-const mockDnsQueries: DnsQuery[] = [
-  {
-    id: '1',
-    timestamp: '2024-06-01 15:35:30',
-    domain: 'google.com',
-    queryType: 'A',
-    sourceIp: '192.168.1.100',
-    status: 'allowed',
-    response: '142.250.191.14'
-  },
-  {
-    id: '2',
-    timestamp: '2024-06-01 15:35:15',
-    domain: 'malware.example.com',
-    queryType: 'A',
-    sourceIp: '192.168.1.100',
-    status: 'blocked'
-  },
-  {
-    id: '3',
-    timestamp: '2024-06-01 15:34:58',
-    domain: 'github.com',
-    queryType: 'AAAA',
-    sourceIp: '192.168.1.100',
-    status: 'allowed',
-    response: '2606:50c0:8000::154'
-  }
-]
 
 const getStatusIcon = (status: ConnectionStatus | 'allowed' | 'blocked') => {
   switch (status) {
@@ -154,8 +77,86 @@ const formatBytes = (bytes: number) => {
 }
 
 export function NetworkMonitor() {
+  const [connections, setConnections] = useState<NetworkConnection[]>([])
+  const [dnsQueries, setDnsQueries] = useState<DnsQuery[]>([])
   const [selectedConnection, setSelectedConnection] = useState<NetworkConnection | null>(null)
   const [activeTab, setActiveTab] = useState<'connections' | 'dns'>('connections')
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState<string | null>(null)
+
+  // Fetch network data from API
+  const fetchNetworkData = async () => {
+    try {
+      setLoading(true)
+      setError(null)
+      
+      const [connectionsRes, dnsRes] = await Promise.all([
+        fetch('/api/network/connections').then(res => {
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          return res.json();
+        }),
+        fetch('/api/network/dns').then(res => {
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          return res.json();
+        })
+      ])
+      
+      setConnections(connectionsRes)
+      setDnsQueries(dnsRes)
+      setLoading(false)
+    } catch (err) {
+      console.error('Failed to fetch network data:', err)
+      setError(err instanceof Error ? err.message : 'Failed to fetch network data')
+      setLoading(false)
+    }
+  }
+
+  useEffect(() => {
+    fetchNetworkData()
+    
+    // Auto-refresh every 5 seconds
+    const interval = setInterval(fetchNetworkData, 5000)
+    return () => clearInterval(interval)
+  }, [])
+
+  if (loading) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <RefreshCw className="h-8 w-8 animate-spin" />
+      </div>
+    )
+  }
+
+  if (error) {
+    return (
+      <div className="space-y-6">
+        <div className="flex items-center justify-between">
+          <div>
+            <h2 className="text-3xl font-bold tracking-tight">Network Monitor</h2>
+            <p className="text-muted-foreground">
+              Monitor network connections, DNS queries, and traffic filtering
+            </p>
+          </div>
+          <Button
+            variant="outline"
+            size="sm"
+            onClick={fetchNetworkData}
+          >
+            <RefreshCw className="h-4 w-4 mr-2" />
+            Retry
+          </Button>
+        </div>
+        <Card>
+          <CardContent className="text-center py-8">
+            <AlertTriangle className="h-12 w-12 mx-auto mb-4 text-red-500" />
+            <h3 className="text-lg font-semibold mb-2">Failed to Load Network Data</h3>
+            <p className="text-muted-foreground mb-4">{error}</p>
+            <p className="text-sm text-muted-foreground">Please ensure the FluxDefense API server is running and accessible.</p>
+          </CardContent>
+        </Card>
+      </div>
+    )
+  }
 
   return (
     <div className="space-y-6">
@@ -187,7 +188,9 @@ export function NetworkMonitor() {
             <Network className="h-4 w-4 text-muted-foreground" />
           </CardHeader>
           <CardContent>
-            <div className="text-2xl font-bold">47</div>
+            <div className="text-2xl font-bold">
+              {connections.filter(c => c.status === 'active').length}
+            </div>
             <p className="text-xs text-muted-foreground">
               Currently active
             </p>
@@ -200,7 +203,9 @@ export function NetworkMonitor() {
             <XCircle className="h-4 w-4 text-muted-foreground" />
           </CardHeader>
           <CardContent>
-            <div className="text-2xl font-bold text-red-500">12</div>
+            <div className="text-2xl font-bold text-red-500">
+              {connections.filter(c => c.status === 'blocked').length}
+            </div>
             <p className="text-xs text-muted-foreground">
               Security violations
             </p>
@@ -215,11 +220,15 @@ export function NetworkMonitor() {
           <CardContent>
             <div className="flex items-center space-x-2">
               <Download className="h-4 w-4 text-blue-500" />
-              <span className="text-sm font-medium">2.3 GB</span>
+              <span className="text-sm font-medium">
+                {formatBytes(connections.reduce((sum, c) => sum + c.bytesIn, 0))}
+              </span>
             </div>
             <div className="flex items-center space-x-2">
               <Upload className="h-4 w-4 text-green-500" />
-              <span className="text-sm font-medium">892 MB</span>
+              <span className="text-sm font-medium">
+                {formatBytes(connections.reduce((sum, c) => sum + c.bytesOut, 0))}
+              </span>
             </div>
           </CardContent>
         </Card>
@@ -230,9 +239,9 @@ export function NetworkMonitor() {
             <Globe className="h-4 w-4 text-muted-foreground" />
           </CardHeader>
           <CardContent>
-            <div className="text-2xl font-bold">1,523</div>
+            <div className="text-2xl font-bold">{dnsQueries.length.toLocaleString()}</div>
             <p className="text-xs text-muted-foreground">
-              23 blocked
+              {dnsQueries.filter(q => q.status === 'blocked').length} blocked
             </p>
           </CardContent>
         </Card>
@@ -267,33 +276,41 @@ export function NetworkMonitor() {
               </CardDescription>
             </CardHeader>
             <CardContent className="space-y-4">
-              {mockConnections.map((connection) => (
-                <div
-                  key={connection.id}
-                  className="flex items-start space-x-3 p-3 rounded-lg border cursor-pointer hover:bg-accent/50 transition-colors"
-                  onClick={() => setSelectedConnection(connection)}
-                >
-                  <div className="mt-1">
-                    {getStatusIcon(connection.status)}
-                  </div>
-                  <div className="flex-1 space-y-1">
-                    <div className="flex items-center justify-between">
-                      <p className="text-sm font-medium leading-none">
-                        {connection.sourceIp}:{connection.sourcePort} → {connection.destIp}:{connection.destPort}
-                      </p>
-                      {getStatusBadge(connection.status)}
-                    </div>
-                    <div className="flex items-center space-x-4 text-xs text-muted-foreground">
-                      <span>{connection.protocol}</span>
-                      <span>{connection.process} ({connection.pid})</span>
-                      <span>{formatBytes(connection.bytesIn + connection.bytesOut)}</span>
-                    </div>
-                    <div className="text-xs text-muted-foreground">
-                      {connection.timestamp} • Duration: {connection.duration}
-                    </div>
-                  </div>
+              {connections.length === 0 ? (
+                <div className="text-center text-muted-foreground py-8">
+                  <Network className="h-12 w-12 mx-auto mb-4 opacity-50" />
+                  <p>No network connections available</p>
+                  <p className="text-xs">Connection data will appear here when available</p>
                 </div>
-              ))}
+              ) : (
+                connections.map((connection) => (
+                  <div
+                    key={connection.id}
+                    className="flex items-start space-x-3 p-3 rounded-lg border cursor-pointer hover:bg-accent/50 transition-colors"
+                    onClick={() => setSelectedConnection(connection)}
+                  >
+                    <div className="mt-1">
+                      {getStatusIcon(connection.status)}
+                    </div>
+                    <div className="flex-1 space-y-1">
+                      <div className="flex items-center justify-between">
+                        <p className="text-sm font-medium leading-none">
+                          {connection.sourceIp}:{connection.sourcePort} → {connection.destIp}:{connection.destPort}
+                        </p>
+                        {getStatusBadge(connection.status)}
+                      </div>
+                      <div className="flex items-center space-x-4 text-xs text-muted-foreground">
+                        <span>{connection.protocol}</span>
+                        <span>{connection.process} ({connection.pid})</span>
+                        <span>{formatBytes(connection.bytesIn + connection.bytesOut)}</span>
+                      </div>
+                      <div className="text-xs text-muted-foreground">
+                        {connection.timestamp} • Duration: {connection.duration}
+                      </div>
+                    </div>
+                  </div>
+                ))
+              )}
             </CardContent>
           </Card>
 
@@ -382,32 +399,40 @@ export function NetworkMonitor() {
             </CardDescription>
           </CardHeader>
           <CardContent className="space-y-4">
-            {mockDnsQueries.map((query) => (
-              <div
-                key={query.id}
-                className="flex items-start space-x-3 p-3 rounded-lg border"
-              >
-                <div className="mt-1">
-                  {getStatusIcon(query.status)}
-                </div>
-                <div className="flex-1 space-y-1">
-                  <div className="flex items-center justify-between">
-                    <p className="text-sm font-medium leading-none">
-                      {query.domain}
-                    </p>
-                    {getStatusBadge(query.status)}
-                  </div>
-                  <div className="flex items-center space-x-4 text-xs text-muted-foreground">
-                    <span>Type: {query.queryType}</span>
-                    <span>From: {query.sourceIp}</span>
-                    {query.response && <span>Response: {query.response}</span>}
-                  </div>
-                  <div className="text-xs text-muted-foreground">
-                    {query.timestamp}
-                  </div>
-                </div>
+            {dnsQueries.length === 0 ? (
+              <div className="text-center text-muted-foreground py-8">
+                <Globe className="h-12 w-12 mx-auto mb-4 opacity-50" />
+                <p>No DNS queries available</p>
+                <p className="text-xs">DNS query data will appear here when available</p>
               </div>
-            ))}
+            ) : (
+              dnsQueries.map((query) => (
+                <div
+                  key={query.id}
+                  className="flex items-start space-x-3 p-3 rounded-lg border"
+                >
+                  <div className="mt-1">
+                    {getStatusIcon(query.status)}
+                  </div>
+                  <div className="flex-1 space-y-1">
+                    <div className="flex items-center justify-between">
+                      <p className="text-sm font-medium leading-none">
+                        {query.domain}
+                      </p>
+                      {getStatusBadge(query.status)}
+                    </div>
+                    <div className="flex items-center space-x-4 text-xs text-muted-foreground">
+                      <span>Type: {query.queryType}</span>
+                      <span>From: {query.sourceIp}</span>
+                      {query.response && <span>Response: {query.response}</span>}
+                    </div>
+                    <div className="text-xs text-muted-foreground">
+                      {query.timestamp}
+                    </div>
+                  </div>
+                </div>
+              ))
+            )}
           </CardContent>
         </Card>
       )}

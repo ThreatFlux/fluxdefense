@@ -52,84 +52,7 @@ interface Process {
   command: string
 }
 
-const mockMetrics: SystemMetrics = {
-  cpu: {
-    usage: 23.4,
-    cores: 8,
-    loadAverage: [0.8, 1.2, 1.5]
-  },
-  memory: {
-    total: 16 * 1024 * 1024 * 1024, // 16GB
-    used: 8.2 * 1024 * 1024 * 1024, // 8.2GB
-    available: 7.8 * 1024 * 1024 * 1024, // 7.8GB
-    percent: 51.3
-  },
-  disk: {
-    total: 512 * 1024 * 1024 * 1024, // 512GB
-    used: 256 * 1024 * 1024 * 1024, // 256GB
-    available: 256 * 1024 * 1024 * 1024, // 256GB
-    percent: 50.0
-  },
-  network: {
-    bytesIn: 1024 * 1024 * 1024, // 1GB
-    bytesOut: 512 * 1024 * 1024, // 512MB
-    packetsIn: 1500000,
-    packetsOut: 950000
-  }
-}
 
-const mockProcesses: Process[] = [
-  {
-    pid: 1234,
-    name: 'firefox',
-    user: 'user',
-    cpu: 15.2,
-    memory: 12.5,
-    status: 'running',
-    startTime: '09:30:15',
-    command: '/usr/bin/firefox --no-sandbox'
-  },
-  {
-    pid: 5678,
-    name: 'code',
-    user: 'user',
-    cpu: 8.7,
-    memory: 8.9,
-    status: 'running',
-    startTime: '08:45:32',
-    command: '/usr/bin/code --unity-launch'
-  },
-  {
-    pid: 9012,
-    name: 'systemd',
-    user: 'root',
-    cpu: 0.1,
-    memory: 0.2,
-    status: 'sleeping',
-    startTime: '00:00:01',
-    command: '/sbin/systemd --switched-root'
-  },
-  {
-    pid: 3456,
-    name: 'gnome-shell',
-    user: 'user',
-    cpu: 3.2,
-    memory: 4.1,
-    status: 'running',
-    startTime: '08:30:00',
-    command: '/usr/bin/gnome-shell'
-  },
-  {
-    pid: 7890,
-    name: 'docker',
-    user: 'root',
-    cpu: 1.8,
-    memory: 2.3,
-    status: 'running',
-    startTime: '08:00:12',
-    command: '/usr/bin/dockerd'
-  }
-]
 
 const formatBytes = (bytes: number): string => {
   const sizes = ['B', 'KB', 'MB', 'GB', 'TB']
@@ -173,38 +96,88 @@ const getMemoryColor = (percent: number) => {
 }
 
 export function ActivityMonitor() {
-  const [metrics, setMetrics] = useState<SystemMetrics>(mockMetrics)
-  const [processes, setProcesses] = useState<Process[]>(mockProcesses)
+  const [metrics, setMetrics] = useState<SystemMetrics | null>(null)
+  const [processes, setProcesses] = useState<Process[]>([])
   const [selectedProcess, setSelectedProcess] = useState<Process | null>(null)
   const [autoRefresh, setAutoRefresh] = useState(true)
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState<string | null>(null)
 
-  // Simulate real-time updates
+  // Fetch system metrics and processes from API
+  const fetchSystemData = async () => {
+    try {
+      setLoading(true)
+      setError(null)
+      
+      const [metricsRes, processesRes] = await Promise.all([
+        fetch('/api/system/metrics').then(res => {
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          return res.json();
+        }),
+        fetch('/api/system/processes').then(res => {
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          return res.json();
+        })
+      ])
+      
+      setMetrics(metricsRes)
+      setProcesses(processesRes)
+      setLoading(false)
+    } catch (err) {
+      console.error('Failed to fetch system data:', err)
+      setError(err instanceof Error ? err.message : 'Failed to fetch system data')
+      setLoading(false)
+    }
+  }
+
+  // Initial load and auto-refresh
   useEffect(() => {
+    fetchSystemData()
+    
     if (!autoRefresh) return
 
-    const interval = setInterval(() => {
-      setMetrics(prev => ({
-        ...prev,
-        cpu: {
-          ...prev.cpu,
-          usage: Math.max(0, Math.min(100, prev.cpu.usage + (Math.random() - 0.5) * 10)),
-          loadAverage: prev.cpu.loadAverage.map(load => Math.max(0, load + (Math.random() - 0.5) * 0.2))
-        },
-        memory: {
-          ...prev.memory,
-          percent: Math.max(0, Math.min(100, prev.memory.percent + (Math.random() - 0.5) * 5))
-        }
-      }))
-
-      setProcesses(prev => prev.map(proc => ({
-        ...proc,
-        cpu: Math.max(0, Math.min(100, proc.cpu + (Math.random() - 0.5) * 5)),
-        memory: Math.max(0, Math.min(100, proc.memory + (Math.random() - 0.5) * 2))
-      })))
-    }, 2000)
-
+    const interval = setInterval(fetchSystemData, 5000)
     return () => clearInterval(interval)
   }, [autoRefresh])
+
+  if (loading) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <RefreshCw className="h-8 w-8 animate-spin" />
+      </div>
+    )
+  }
+
+  if (error) {
+    return (
+      <div className="space-y-6">
+        <div className="flex items-center justify-between">
+          <div>
+            <h2 className="text-3xl font-bold tracking-tight">Activity Monitor</h2>
+            <p className="text-muted-foreground">
+              Real-time system resource monitoring and process management
+            </p>
+          </div>
+          <Button
+            variant="outline"
+            size="sm"
+            onClick={fetchSystemData}
+          >
+            <RefreshCw className="h-4 w-4 mr-2" />
+            Retry
+          </Button>
+        </div>
+        <Card>
+          <CardContent className="text-center py-8">
+            <AlertTriangle className="h-12 w-12 mx-auto mb-4 text-red-500" />
+            <h3 className="text-lg font-semibold mb-2">Failed to Load System Data</h3>
+            <p className="text-muted-foreground mb-4">{error}</p>
+            <p className="text-sm text-muted-foreground">Please ensure the FluxDefense API server is running and accessible.</p>
+          </CardContent>
+        </Card>
+      </div>
+    )
+  }
 
   return (
     <div className="space-y-6">
@@ -225,6 +198,14 @@ export function ActivityMonitor() {
             <RefreshCw className={`h-4 w-4 mr-2 ${autoRefresh ? 'animate-spin' : ''}`} />
             Auto Refresh
           </Button>
+          <Button
+            variant="outline"
+            size="sm"
+            onClick={fetchSystemData}
+          >
+            <RefreshCw className="h-4 w-4 mr-2" />
+            Refresh Now
+          </Button>
         </div>
       </div>
 
@@ -236,20 +217,20 @@ export function ActivityMonitor() {
             <Cpu className="h-4 w-4 text-muted-foreground" />
           </CardHeader>
           <CardContent>
-            <div className={`text-2xl font-bold ${getCpuColor(metrics.cpu.usage)}`}>
-              {metrics.cpu.usage.toFixed(1)}%
+            <div className={`text-2xl font-bold ${getCpuColor(metrics?.cpu.usage || 0)}`}>
+              {metrics?.cpu.usage.toFixed(1) || 0}%
             </div>
             <p className="text-xs text-muted-foreground">
-              {metrics.cpu.cores} cores • Load: {metrics.cpu.loadAverage[0].toFixed(2)}
+              {metrics?.cpu.cores || 0} cores • Load: {metrics?.cpu.loadAverage[0]?.toFixed(2) || '0.00'}
             </p>
             <div className="mt-2 w-full bg-secondary rounded-full h-2">
               <div 
                 className={`h-2 rounded-full transition-all duration-300 ${
-                  metrics.cpu.usage > 80 ? 'bg-red-500' : 
-                  metrics.cpu.usage > 60 ? 'bg-orange-500' : 
-                  metrics.cpu.usage > 40 ? 'bg-yellow-500' : 'bg-green-500'
+                  (metrics?.cpu.usage || 0) > 80 ? 'bg-red-500' : 
+                  (metrics?.cpu.usage || 0) > 60 ? 'bg-orange-500' : 
+                  (metrics?.cpu.usage || 0) > 40 ? 'bg-yellow-500' : 'bg-green-500'
                 }`}
-                style={{ width: `${metrics.cpu.usage}%` }}
+                style={{ width: `${metrics?.cpu.usage || 0}%` }}
               />
             </div>
           </CardContent>
@@ -261,20 +242,20 @@ export function ActivityMonitor() {
             <MemoryStick className="h-4 w-4 text-muted-foreground" />
           </CardHeader>
           <CardContent>
-            <div className={`text-2xl font-bold ${getMemoryColor(metrics.memory.percent)}`}>
-              {metrics.memory.percent.toFixed(1)}%
+            <div className={`text-2xl font-bold ${getMemoryColor(metrics?.memory.percent || 0)}`}>
+              {metrics?.memory.percent.toFixed(1) || 0}%
             </div>
             <p className="text-xs text-muted-foreground">
-              {formatBytes(metrics.memory.used)} of {formatBytes(metrics.memory.total)}
+              {formatBytes(metrics?.memory.used || 0)} of {formatBytes(metrics?.memory.total || 0)}
             </p>
             <div className="mt-2 w-full bg-secondary rounded-full h-2">
               <div 
                 className={`h-2 rounded-full transition-all duration-300 ${
-                  metrics.memory.percent > 85 ? 'bg-red-500' : 
-                  metrics.memory.percent > 70 ? 'bg-orange-500' : 
-                  metrics.memory.percent > 50 ? 'bg-yellow-500' : 'bg-green-500'
+                  (metrics?.memory.percent || 0) > 85 ? 'bg-red-500' : 
+                  (metrics?.memory.percent || 0) > 70 ? 'bg-orange-500' : 
+                  (metrics?.memory.percent || 0) > 50 ? 'bg-yellow-500' : 'bg-green-500'
                 }`}
-                style={{ width: `${metrics.memory.percent}%` }}
+                style={{ width: `${metrics?.memory.percent || 0}%` }}
               />
             </div>
           </CardContent>
@@ -287,15 +268,15 @@ export function ActivityMonitor() {
           </CardHeader>
           <CardContent>
             <div className="text-2xl font-bold">
-              {metrics.disk.percent.toFixed(1)}%
+              {metrics?.disk.percent.toFixed(1) || 0}%
             </div>
             <p className="text-xs text-muted-foreground">
-              {formatBytes(metrics.disk.used)} of {formatBytes(metrics.disk.total)}
+              {formatBytes(metrics?.disk.used || 0)} of {formatBytes(metrics?.disk.total || 0)}
             </p>
             <div className="mt-2 w-full bg-secondary rounded-full h-2">
               <div 
                 className="h-2 rounded-full bg-blue-500 transition-all duration-300"
-                style={{ width: `${metrics.disk.percent}%` }}
+                style={{ width: `${metrics?.disk.percent || 0}%` }}
               />
             </div>
           </CardContent>
@@ -310,15 +291,15 @@ export function ActivityMonitor() {
             <div className="space-y-1">
               <div className="flex items-center justify-between text-sm">
                 <span className="text-muted-foreground">In:</span>
-                <span>{formatBytes(metrics.network.bytesIn)}</span>
+                <span>{formatBytes(metrics?.network.bytesIn || 0)}</span>
               </div>
               <div className="flex items-center justify-between text-sm">
                 <span className="text-muted-foreground">Out:</span>
-                <span>{formatBytes(metrics.network.bytesOut)}</span>
+                <span>{formatBytes(metrics?.network.bytesOut || 0)}</span>
               </div>
             </div>
             <p className="text-xs text-muted-foreground mt-2">
-              {metrics.network.packetsIn.toLocaleString()} packets in
+              {(metrics?.network.packetsIn || 0).toLocaleString()} packets in
             </p>
           </CardContent>
         </Card>
@@ -334,9 +315,16 @@ export function ActivityMonitor() {
             </CardDescription>
           </CardHeader>
           <CardContent className="space-y-3">
-            {processes
-              .sort((a, b) => b.cpu - a.cpu)
-              .map((process) => (
+            {processes.length === 0 ? (
+              <div className="text-center text-muted-foreground py-8">
+                <Users className="h-12 w-12 mx-auto mb-4 opacity-50" />
+                <p>No process data available</p>
+                <p className="text-xs">Process information will appear when data is available</p>
+              </div>
+            ) : (
+              processes
+                .sort((a, b) => b.cpu - a.cpu)
+                .map((process) => (
                 <div
                   key={process.pid}
                   className="flex items-center space-x-3 p-3 rounded-lg border cursor-pointer hover:bg-accent/50 transition-colors"
@@ -362,7 +350,8 @@ export function ActivityMonitor() {
                     </div>
                   </div>
                 </div>
-              ))}
+                ))
+            )}
           </CardContent>
         </Card>
 
@@ -468,10 +457,10 @@ export function ActivityMonitor() {
               <div key={label} className="text-center p-4 bg-muted rounded-lg">
                 <div className="text-sm text-muted-foreground">{label}</div>
                 <div className="text-2xl font-bold">
-                  {metrics.cpu.loadAverage[index]?.toFixed(2) || '0.00'}
+                  {metrics?.cpu.loadAverage[index]?.toFixed(2) || '0.00'}
                 </div>
                 <div className="text-xs text-muted-foreground">
-                  {metrics.cpu.loadAverage[index] > metrics.cpu.cores ? 'High' : 'Normal'}
+                  {(metrics?.cpu.loadAverage[index] || 0) > (metrics?.cpu.cores || 1) ? 'High' : 'Normal'}
                 </div>
               </div>
             ))}

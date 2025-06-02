@@ -1,12 +1,11 @@
 import { 
-  Shield, 
   Activity, 
   Network, 
   FileText, 
   Settings, 
-  AlertTriangle,
-  Eye,
-  BarChart3
+  BarChart3,
+  Globe,
+  Shield
 } from "lucide-react"
 import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
@@ -24,40 +23,28 @@ const navigation = [
     description: "System overview and metrics"
   },
   {
-    name: "Security Events", 
-    id: "security",
-    icon: Shield,
-    description: "File system and process monitoring"
-  },
-  {
     name: "Network Monitor",
     id: "network", 
     icon: Network,
     description: "Network traffic and filtering"
   },
   {
-    name: "Activity Monitor",
-    id: "activity",
-    icon: Activity,
-    description: "Real-time system activity"
+    name: "Network Connections",
+    id: "connections",
+    icon: Globe,
+    description: "Detailed network connection analysis"
   },
   {
-    name: "Threat Detection",
-    id: "threats",
-    icon: AlertTriangle,
-    description: "Malware and suspicious activity"
+    name: "Process Manager",
+    id: "processes",
+    icon: Activity,
+    description: "System process monitoring"
   },
   {
     name: "Event Logs",
     id: "logs",
     icon: FileText,
-    description: "Detailed event history"
-  },
-  {
-    name: "Live Monitor",
-    id: "live",
-    icon: Eye,
-    description: "Real-time event stream"
+    description: "Real-time system events"
   },
   {
     name: "Settings",
@@ -114,7 +101,7 @@ export function Sidebar({ activeTab, onTabChange }: SidebarProps) {
       {/* Footer */}
       <div className="p-4 border-t border-border">
         <div className="text-xs text-muted-foreground">
-          <div>FluxDefense v0.1.0</div>
+          <div>FluxDefense v2.0.0</div>
           <div>Linux Security Monitor</div>
         </div>
       </div>

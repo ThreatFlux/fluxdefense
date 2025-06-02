@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { 
   Settings as SettingsIcon, 
   Shield,
@@ -19,6 +19,7 @@ import {
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
+import { api } from '@/services/api'
 
 interface SecuritySettings {
   enforcementMode: 'passive' | 'permissive' | 'enforcing'
@@ -64,6 +65,8 @@ interface SystemSettings {
 export function Settings() {
   const [activeTab, setActiveTab] = useState<'security' | 'network' | 'notifications' | 'system'>('security')
   const [hasChanges, setHasChanges] = useState(false)
+  const [loading, setLoading] = useState(true)
+  const [saving, setSaving] = useState(false)
 
   const [securitySettings, setSecuritySettings] = useState<SecuritySettings>({
     enforcementMode: 'enforcing',
@@ -83,8 +86,8 @@ export function Settings() {
     defaultInterface: 'eth0',
     captureBufferSize: 1024,
     maxConnections: 10000,
-    dnsBlacklist: ['malware.example.com', 'phishing.test.org'],
-    trustedNetworks: ['192.168.1.0/24', '10.0.0.0/8']
+    dnsBlacklist: [],
+    trustedNetworks: []
   })
 
   const [notificationSettings, setNotificationSettings] = useState<NotificationSettings>({
@@ -105,16 +108,46 @@ export function Settings() {
     enableAutoBackup: true,
     backupLocation: '/var/backups/fluxdefense'
   })
+  
+  // Fetch settings from API
+  useEffect(() => {
+    fetchSettings()
+  }, [])
+  
+  const fetchSettings = async () => {
+    setLoading(true)
+    try {
+      const response = await api.getSettings()
+      if (response.success && response.data) {
+        setSecuritySettings(response.data.security)
+        setNetworkSettings(response.data.network)
+        setNotificationSettings(response.data.notifications)
+        setSystemSettings(response.data.system)
+      }
+    } catch (error) {
+      console.error('Failed to fetch settings:', error)
+    } finally {
+      setLoading(false)
+    }
+  }
 
-  const handleSave = () => {
-    // In a real implementation, this would save to backend
-    console.log('Saving settings...', {
-      security: securitySettings,
-      network: networkSettings,
-      notifications: notificationSettings,
-      system: systemSettings
-    })
-    setHasChanges(false)
+  const handleSave = async () => {
+    setSaving(true)
+    try {
+      const response = await api.updateSettings({
+        security: securitySettings,
+        network: networkSettings,
+        notifications: notificationSettings,
+        system: systemSettings
+      })
+      if (response.success) {
+        setHasChanges(false)
+      }
+    } catch (error) {
+      console.error('Failed to save settings:', error)
+    } finally {
+      setSaving(false)
+    }
   }
 
   const handleReset = () => {
@@ -187,9 +220,9 @@ export function Settings() {
             <RefreshCw className="h-4 w-4 mr-2" />
             Reset
           </Button>
-          <Button size="sm" onClick={handleSave} disabled={!hasChanges}>
+          <Button size="sm" onClick={handleSave} disabled={!hasChanges || saving || loading}>
             <Save className="h-4 w-4 mr-2" />
-            Save Changes
+            {saving ? 'Saving...' : 'Save Changes'}
           </Button>
         </div>
       </div>

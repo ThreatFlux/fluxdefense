@@ -202,20 +202,33 @@ impl SystemMonitor {
 
                 ProcessInfo {
                     pid: pid.as_u32(),
+                    ppid: process.parent().map_or(0, |p| p.as_u32()),
                     name: process.name().to_string(),
-                    user: process.user_id().map(|uid| uid.to_string()).unwrap_or_else(|| "unknown".to_string()),
-                    cpu_usage: process.cpu_usage(),
-                    memory_usage: (process.memory() as f32 / 1024.0 / 1024.0), // Convert to MB
-                    status: format!("{:?}", process.status()),
-                    start_time,
                     command: process.cmd().join(" "),
-                    ppid: process.parent().map(|p| p.as_u32()),
+                    user: process.user_id().map(|uid| uid.to_string()).unwrap_or_else(|| "unknown".to_string()),
+                    cpu_percent: process.cpu_usage(),
+                    memory_percent: (process.memory() as f32 / (1024.0 * 1024.0 * 1024.0)) * 100.0, // Convert to percentage
+                    memory_mb: process.memory() as f32 / 1024.0 / 1024.0,
+                    status: format!("{:?}", process.status()),
+                    start_time: start_time.to_rfc3339(),
+                    runtime: (chrono::Utc::now().timestamp() as u64).saturating_sub(process.start_time()) as f32,
+                    threads: 1, // Default
+                    priority: 0, // Default
+                    nice: 0, // Default
+                    executable: process.exe().map_or(process.name().to_string(), |p| p.to_string_lossy().to_string()),
+                    working_dir: process.cwd().map_or("/".to_string(), |p| p.to_string_lossy().to_string()),
+                    open_files: 0, // Default
+                    network_connections: 0, // Default
+                    children: 0, // Default
+                    risk_score: if process.cpu_usage() > 80.0 { 50.0 } else { 10.0 },
+                    is_system: process.name().starts_with("kernel") || process.name().starts_with("systemd"),
+                    is_suspicious: process.cpu_usage() > 90.0,
                 }
             })
             .collect();
 
         // Sort by CPU usage (descending)
-        processes.sort_by(|a, b| b.cpu_usage.partial_cmp(&a.cpu_usage).unwrap_or(std::cmp::Ordering::Equal));
+        processes.sort_by(|a, b| b.cpu_percent.partial_cmp(&a.cpu_percent).unwrap_or(std::cmp::Ordering::Equal));
         
         // Limit to top 50 processes
         processes.truncate(50);
@@ -231,14 +244,27 @@ impl SystemMonitor {
 
             Some(ProcessInfo {
                 pid,
+                ppid: process.parent().map_or(0, |p| p.as_u32()),
                 name: process.name().to_string(),
-                user: process.user_id().map(|uid| uid.to_string()).unwrap_or_else(|| "unknown".to_string()),
-                cpu_usage: process.cpu_usage(),
-                memory_usage: (process.memory() as f32 / 1024.0 / 1024.0),
-                status: format!("{:?}", process.status()),
-                start_time,
                 command: process.cmd().join(" "),
-                ppid: process.parent().map(|p| p.as_u32()),
+                user: process.user_id().map(|uid| uid.to_string()).unwrap_or_else(|| "unknown".to_string()),
+                cpu_percent: process.cpu_usage(),
+                memory_percent: (process.memory() as f32 / (1024.0 * 1024.0 * 1024.0)) * 100.0,
+                memory_mb: process.memory() as f32 / 1024.0 / 1024.0,
+                status: format!("{:?}", process.status()),
+                start_time: start_time.to_rfc3339(),
+                runtime: (chrono::Utc::now().timestamp() as u64).saturating_sub(process.start_time()) as f32,
+                threads: 1,
+                priority: 0,
+                nice: 0,
+                executable: process.exe().map_or(process.name().to_string(), |p| p.to_string_lossy().to_string()),
+                working_dir: process.cwd().map_or("/".to_string(), |p| p.to_string_lossy().to_string()),
+                open_files: 0,
+                network_connections: 0,
+                children: 0,
+                risk_score: if process.cpu_usage() > 80.0 { 50.0 } else { 10.0 },
+                is_system: process.name().starts_with("kernel") || process.name().starts_with("systemd"),
+                is_suspicious: process.cpu_usage() > 90.0,
             })
         } else {
             None

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WebSocket Log Test</title>
+</head>
+<body>
+    <h1>WebSocket Log Entry Test</h1>
+    <div id="status">Connecting...</div>
+    <h2>Log Entries:</h2>
+    <div id="logs" style="height: 400px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;"></div>
+    
+    <script>
+        const ws = new WebSocket('ws://localhost:3178/api/live/ws');
+        const statusDiv = document.getElementById('status');
+        const logsDiv = document.getElementById('logs');
+        
+        ws.onopen = () => {
+            statusDiv.textContent = 'Connected to WebSocket';
+            statusDiv.style.color = 'green';
+        };
+        
+        ws.onmessage = (event) => {
+            try {
+                const message = JSON.parse(event.data);
+                
+                if (message.type === 'LogEntry') {
+                    const log = message.data;
+                    const logEntry = document.createElement('div');
+                    logEntry.style.marginBottom = '10px';
+                    logEntry.style.padding = '5px';
+                    logEntry.style.backgroundColor = '#f0f0f0';
+                    
+                    logEntry.innerHTML = `
+                        <strong>[${log.level.toUpperCase()}]</strong> 
+                        ${new Date(log.timestamp).toLocaleString()} - 
+                        <strong>${log.category}</strong> - 
+                        ${log.message}<br>
+                        <small>Source: ${log.source} | PID: ${log.pid || 'N/A'}</small>
+                    `;
+                    
+                    logsDiv.insertBefore(logEntry, logsDiv.firstChild);
+                    
+                    // Keep only last 50 entries
+                    while (logsDiv.children.length > 50) {
+                        logsDiv.removeChild(logsDiv.lastChild);
+                    }
+                }
+            } catch (error) {
+                console.error('Error parsing message:', error);
+            }
+        };
+        
+        ws.onerror = (error) => {
+            statusDiv.textContent = 'WebSocket error';
+            statusDiv.style.color = 'red';
+            console.error('WebSocket error:', error);
+        };
+        
+        ws.onclose = () => {
+            statusDiv.textContent = 'WebSocket disconnected';
+            statusDiv.style.color = 'orange';
+        };
+    </script>
+</body>
+</html>

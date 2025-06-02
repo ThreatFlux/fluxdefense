@@ -19,7 +19,8 @@ use fluxdefense::api::{
         get_system_metrics, get_system_resources, get_security_events, get_security_event,
         get_network_connections, get_dns_queries, get_threat_detections, get_malware_signatures,
         get_event_logs, get_live_events, get_settings, update_settings, get_security_settings,
-        update_security_settings,
+        update_security_settings, get_processes, get_process_stats, get_process_by_pid,
+        get_network_stats,
     },
     websocket::{websocket_handler, populate_mock_data},
     policy_handlers::{
@@ -68,6 +69,11 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         .route("/api/system/metrics", get(get_system_metrics))
         .route("/api/system/resources", get(get_system_resources))
         
+        // Process management
+        .route("/api/processes", get(get_processes))
+        .route("/api/processes/stats", get(get_process_stats))
+        .route("/api/processes/:pid", get(get_process_by_pid))
+        
         // Security events
         .route("/api/security/events", get(get_security_events))
         .route("/api/security/events/:id", get(get_security_event))
@@ -75,6 +81,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         // Network monitoring
         .route("/api/network/connections", get(get_network_connections))
         .route("/api/network/dns", get(get_dns_queries))
+        .route("/api/network/stats", get(get_network_stats))
         
         // Threat detection
         .route("/api/threats/detections", get(get_threat_detections))
